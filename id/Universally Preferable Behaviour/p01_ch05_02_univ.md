@@ -131,7 +131,7 @@ Sebagai kesimpulan, adalah aman untuk mengatakan bahwa (a) peraturan moral itu b
 
 UPB boleh dilihat sebagai sebuah kerangka kerja untuk memvalidasi teori etis atau cadangan - Seperti metode ilmiah adalah sebuah kerangka yang digunakan untuk memvalidasi teori ilmiah atau usul saran.
 
-Contoh proposisi moral adalah: "initiation penggunaan kekuatan adalah salah." UPB adalah metodologi yang tes yang baik terhadap konsistensi internal proposisi dan observasi empiris. UPB jadi bertanya: * apakah proposisi itu logis dan konsisten? * UPB kemudian bertanya: * bukti apa yang ada untuk kebenaran proposisi? *
+Contoh proposisi moral adalah: "initiation penggunaan kekuatan adalah salah." UPB adalah metodologi yang tes yang baik terhadap konsistensi internal proposisi dan observasi empiris. UPB jadi bertanya: *apakah proposisi itu logis dan konsisten?* UPB kemudian bertanya: *bukti apa yang ada untuk kebenaran proposisi?*
 
 Agar buku ini tetap panjang, umumnya kita akan membahas kriteria konsistensi logis yang pertama. Untuk kriteria kedua, kita harus mengandalkan bukti tentang larangan universal di semua budaya terhadap tindakan tertentu seperti pemerkosaan, pencurian, penyerangan dan pembunuhan. Untuk menjaga buku ini pada panjang yang wajar, kita akan dalam kesepakatan umum sebagian besar dengan kriteria yang pertama dari konsistensi logis. Jika kita menetapkan validitas UPB, kita telah mencapai jumlah yang sangat besar. Jika tidak, bukti hampir tidak akan membantu kita.
 

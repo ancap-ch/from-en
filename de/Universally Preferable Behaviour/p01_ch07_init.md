@@ -1,49 +1,49 @@
-## Initiation
+## Initiierung
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Eine vernünftige Moraltheorie sollte in der Lage sein, alle oben genannten universellen Standards zu erklären, ebenso wie eine vernünftige Theorie der Physik in der Lage sein sollte, zu erklären, wie ein Mensch unbewusst die Kurve eines geworfenen Baseballs berechnen und ihn fangen kann.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Wenn das Rahmenwerk der UPB das oben Gesagte erklären kann, dann hat es sicher zumindest den "common sense"-Test bestanden.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Das bedeutet nicht, dass einige überraschende, ja sogar schockierende Schlussfolgerungen nicht aus unserer Moraltheorie resultieren, aber zumindest werden wir die erste Hürde genommen haben, das Offensichtliche zu erklären, bevor wir das, was alles andere als offensichtlich ist, analysieren.
 
-With that in mind, let us turn to the question of *initiation*.
+Wenden wir uns in diesem Sinne der Frage der *Initiierung* zu.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Ein Chirurg kann Sie mit einem Skalpell "stechen", aber wir können leicht verstehen, dass seine Handlung sich von der eines Straßenräubers unterscheidet, der Sie mit einem Messer ersticht.
 
-This difference can be understood through a further analysis of *initiation*.
+Dieser Unterschied kann durch eine weitere Analyse der *Initiierung* verstanden werden.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Wenn Sie Krebs bekommen, können Sie einen Chirurgen bitten, Sie zu operieren. Der Grund dafür, dass der "Stich" des Chirurgen nicht unmoralisch ist, ist, dass der Krebs einen Angriff auf Ihr Leben und Ihre Gesundheit "initiiert" hat. Der Chirurg agiert als "Stellvertretender-Selbstverteidiger", genau wie ein Mann, der einen Straßenräuber erschießt, der Sie angreift. Sie haben auch dem Chirurgen Ihre Einwilligung erteilt und sein Verhalten an einen bestimmten Vertrag gebunden.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Der Räuber, der Sie ersticht, leitet jedoch einen Angriff auf Ihr Leben und Ihre Gesundheit ein, weshalb sein Angriff das moralische *Gegenteil* der Bemühungen des Chirurgen ist.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Wenn ich ein chronischer und langjähriger Raucher bin, habe ich an der Kette von Ereignissen teilgenommen, die zu meinem Lungenkrebs führen. Indem ich die Gewohnheit des Rauchens initiiere und aufrechterhalte, habe ich eine Kausalitätskette in Gang gesetzt, die zu einem lebensbedrohlichen Leiden führen kann. Es ist sicherlich möglich für mich, Lungenkrebs zu bekommen, ohne zu rauchen - oder zu rauchen, ohne Lungenkrebs zu bekommen - aber ich habe sicherlich die Chancen beeinflusst.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Ebenso ist es mir möglich, meine Brieftasche für eine Woche auf einer Parkbank zu lassen, zurückzukehren und sie dort noch immer zu finden, aber wenn ich sie so lange dort liegen lasse, habe ich sicherlich die Wahrscheinlichkeit, dass sie verschwunden ist, beeinflusst.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Auf der anderen Seite, wenn ich jeden Abend zu Hause bleibe, umwerbende ich nicht gerade Kriminelle, und wenn also ein Wahnsinniger in mein Haus eindringt und mich blind beraubt, kann man mir keine vernünftige Schuld für eine ursächliche Rolle geben, die ich bei dem Vorfall gespielt habe.
 
-### The Non-Aggression Principle (NAP)
+### Das Nichtangriffsprinzip (NAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Oft wird eine moralische Regel vorgeschlagen, die als *Nichtangriffsprinzip* oder NAP bezeichnet wird. Es wird auch als "Stachelschwein-Pazifist" bezeichnet, insofern als ein Stachelschwein nur "Gewalt" in der Selbstverteidigung einsetzt. Das NAP ist im Grunde genommen der Satz, dass "die Initiierung der Gewaltanwendung moralisch falsch ist". Oder, um es in den Begriffen unseres Gesprächs zu formulieren: "Die Nicht-Initiierung von Gewalt ist universell vorzuziehen".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Wenn wir ein Prinzip wie das NAP analysieren, gibt es eigentlich nur sieben Möglichkeiten: drei im Negativen, drei im Positiven und eine im Neutralen:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Die Initiierung der Anwendung von Gewalt ist immer moralisch falsch.
+- Die Initiierung der Anwendung von Gewalt ist manchmal moralisch falsch.
+- Die Initiierung der Anwendung von Gewalt ist nie moralisch falsch.
+- Die Initiierung der Anwendung von Gewalt hat keinen moralischen Inhalt.
+- Die Initiierung der Anwendung von Gewalt ist nie moralisch richtig.
+- Die Initiierung der Anwendung von Gewalt ist manchmal moralisch richtig.
+- Die Initiierung der Anwendung von Gewalt ist immer moralisch richtig.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Wie wir oben gesehen haben, ist das UPB jedoch ein "Alles oder Nichts"-Rahmenwerk. Wenn eine Handlung *universell vorzuziehen* ist, dann kann sie nicht durch Individuum, Geographie, Zeit etc. begrenzt werden. Wenn es falsch ist, in Algier zu morden, dann ist es auch falsch, in Belgien, in den Vereinigten Staaten, am Nordpol und auf dem Mond zu morden. Wenn es falsch ist, gestern zu morden, dann kann es nicht richtig sein, morgen zu morden. Wenn es falsch ist, dass Bob mordet, dann muss es auch falsch sein, dass Doug mordet.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Indem wir NAP mit UPB vereinen, können wir diese sieben Aussagen auf drei reduzieren:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Es ist allgemein vorzuziehen, die Anwendung von Gewalt zu initiieren.
+2. Es ist allgemein vorzuziehen, keine Gewaltanwendung zu initiieren.
+3. Die Einleitung der Gewaltanwendung unterliegt keinen universellen Präferenzen.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Dies ist das natürliche Ergebnis der Anwendung des Erfordernisses der rationalen Kohärenz auf ethische Vorschläge. Eine rationale Theorie kann nicht stichhaltig vorschlagen, dass aus den gleichen Umständen gegensätzliche Ergebnisse entstehen können. Eine wissenschaftliche Theorie kann nicht behaupten, dass ein Stein fallen muss, aber ein anderer hochschweben. Einstein argumentierte nicht, dass E=MC^2^ an einem Donnerstag oder, dass E=MC^3^ an einem Freitag, oder auf dem Mars, oder während eines Blaumondes gilt. Das Gesetz der Konservierung - diese Materie kann weder erschaffen noch zerstört werden - gilt nicht nur dann, wenn man es wirklich will, oder wenn man einen Mann dafür bezahlt, oder wenn eine schwarze Katze einen Weg kreuzt. Die Gesetze der Physik unterliegen nicht der Zeit, der Geographie, der Meinung oder den Handlungen des Kongresses. Diese Kohärenz muss auch für die Ethiksysteme, die UPB, gefordert werden, und wir werden die allgemein akzeptierten Moraltheorien dieser Strenge im zweiten Teil auf wenigen Seiten unterwerfen.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Da es sich jedoch um die Frage der *Konsistenz* handelt, lohnt es sich, sich die Zeit zu nehmen, sich mit unserer Fähigkeit zur *Inkonsistenz* auseinanderzusetzen.

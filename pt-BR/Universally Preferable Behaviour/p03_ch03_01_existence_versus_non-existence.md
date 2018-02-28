@@ -48,7 +48,7 @@ Roubo é moralmente errado, como já vimos acima. É moralmente errado para toda
 
 O que chamamos de "governo" é apenas mais um exemplo desta *zona nula* em que cima é baixo, preto é branco, a verdade é mentira e o mal é bom.
 
-A sociedade progride exatamente no grau em que razão e evidência dão o grande salto do pessoal para o universal e destroem qualquer * zonas nulas* irracionais no caminho. A ciência progride exatamente no grau em que rejeita a irracionalidade de Deus e "absolutos" subjetivos. A medicina progride exatamente ao grau que rejeita a eficácia da oração e rituais vazios e em vez disso, baseia-se na razão e evidência. Filosofia também – e a sociedade humana em geral – vai avançar exatamente no grau em que rejeita o "círculo-quadrado da moral" de estatistas e teorias éticas religiosas.
+A sociedade progride exatamente no grau em que razão e evidência dão o grande salto do pessoal para o universal e destroem qualquer *zonas nulas* irracionais no caminho. A ciência progride exatamente no grau em que rejeita a irracionalidade de Deus e "absolutos" subjetivos. A medicina progride exatamente ao grau que rejeita a eficácia da oração e rituais vazios e em vez disso, baseia-se na razão e evidência. Filosofia também – e a sociedade humana em geral – vai avançar exatamente no grau em que rejeita o "círculo-quadrado da moral" de estatistas e teorias éticas religiosas.
 
 ### Governo
 

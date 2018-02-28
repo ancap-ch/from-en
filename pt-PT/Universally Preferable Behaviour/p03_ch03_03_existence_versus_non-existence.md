@@ -12,7 +12,7 @@ Em todo o mundo, os governantes são uma porcentagem muito pequena da populaçã
 
 A triste realidade é que as pessoas como um todo são escravizadas para entidades de ficção, como nações, deuses, culturas e governos.
 
-Nosso orgulho pessoal se rebelaria instintivamente contra uma escravidão imediata e forçada para outro ser humano - no entanto, parecemos quase revelar a escravidão de * mitologia *.
+Nosso orgulho pessoal se rebelaria instintivamente contra uma escravidão imediata e forçada para outro ser humano - no entanto, parecemos quase revelar a escravidão de *mitologia*.
 
 O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obedecendo as mitologias morais - nos leva a entregar voluntariamente nossos recursos para aqueles que afirmam representar essas mitologias.
 
