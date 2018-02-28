@@ -164,4 +164,4 @@ Isto é o que quero significar quando digo que este "mundo oposto *zona nula*" �
 
 [^2]: Nem sequer vamos *começar* no pesadelo lógico do valor da verdade contido na declaração "erro igual a verdade".
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Este argumento também tende a não funcionar muito bem com os professores de matemática - nunca vi um aluno argumentar com sucesso que uma resposta incorrecta, pode estar correcta num outro universo e que por isso, é injusto marcá-la como incorrecta.
