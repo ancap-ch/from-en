@@ -1,10 +1,10 @@
-### Practicality
+### Practicidade
 
-Once the violence of government is intellectually exposed – and the supposed “voluntarism” of citizens is revealed as a vicious fraud – the argument always comes back that we *need* government to supply us with public goods such as protection, regional defence, roads etc.
+Dado que a violência do governo está intelectualmente exposta - e o suposto "voluntariado" dos cidadãos revela-se como uma fraude viciosa - o argumento de que nós *precisamos* que o governo nos forneça bens públicos, tais como protecção, defesa regional, estradas etc., regressa sempre.
 
-I have written dozens of articles exposing the falsehood of this position, so I will not bother to reiterate those arguments here, since they are not essential to a book on morality, but rather would be more appropriate to a book explaining the principles and practicalities of a voluntary society.[^4]
+Escrevi dezenas de artigos expondo a falsidade desta posição, então não me vou preocupar em reiterar esses argumentos aqui, já que não são essenciais para um livro sobre moralidade, mas mais apropriados para um livro que explique os princípios e os aspectos práticos de uma sociedade voluntária.[^4]
 
-The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
+O "argumento da practicidade" não resolve, de forma alguma, o problema da violência. Se o vejo a comer cheeseburgers todos os dias, posso dizer-lhe que não o deve fazer se quiser manter um peso saudável. Não posso afirmar que é *mau* que você coma cheeseburgers, por razões que já ultrapassamos. Não posso obrigá-lo a aumentar a "practicidade" das suas acções.
 
 Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
 
