@@ -1,6 +1,6 @@
-## The Fifth Test: Lying
+## Ang Panlimang Pagsusulit: Pagsisinungaling
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Ang tanong ng *pagsisinungaling* ay interesante dahil ang pagsasabi ng totoo ay pangkalahatang ikonokonsidera na unibersal na kanais-nais, ngunit hindi maipapatupad sa pamamagitan ng karahasan.
 
 It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
 
