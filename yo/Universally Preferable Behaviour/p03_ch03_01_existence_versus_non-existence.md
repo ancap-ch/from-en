@@ -100,68 +100,68 @@ A mọ pe o jẹ irọ nla nitori ko si adehun awujo ti o wa laaye. Bẹni ìw�
 
 Awọn ọpọlọpọ eyan yoo jiyan ni asiko yi pe owo ori ko ṣe idasile ni ibi ti ìbọn, sugbọn pe ki awọn eniyan sanwo fún ara wọn laisi idiwo. Fún àpẹẹrẹ, mi o ti ri ti wọn fi oju ìbọn kán mi nipasẹ agbowo ori tabi Ọlọpa, sugbọn mo ti san owo ori fún ọpọlọpọ ọdun.
 
-Eleyi le jẹ òtítọ́, sugbọn ko ṣe pataki. Ti mo ba sọ fún arabinrin kan pe mo má pá awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, ati pe o dẹ fi ara rẹ lẹ fún mi, a mọ pe iwa aisedeedee kan ti waye - bi o tile jẹ pe mi o lo ohun ija kan kan fún àise mi. O han kedere, ti arabinrin naa ba tẹrí ba fún mi, o jẹ nitori pe o bẹru pe emi yoo gbe irokuro mi jade. Ti mo ba sọ fún ọ pe ọdọ ọ̀sìn mi ohun kekere alailemi yoo pa awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, o le ni ibanuje, sugbọn ko ni bẹru ijiya mi ni ọna pataki, nigba ti ko seese fún òsì mi nkan kekere alailemi lati pa awọn ọmọ rẹ. Tabi, ti mo ba ku, ati ifẹ mi sọ wipe mo mà pa awọn ọmọ obinrin children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Eleyi le jẹ òtítọ́, sugbọn ko ṣe pataki. Ti mo ba sọ fún arabinrin kan pe mo má pá awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, ati pe o dẹ fi ara rẹ lẹ fún mi, a mọ pe iwa aisedeedee kan ti waye - bi o tile jẹ pe mi o lo ohun ija kan kan fún àise mi. O han kedere, ti arabinrin naa ba tẹrí ba fún mi, o jẹ nitori pe o bẹru pe emi yoo gbe irokuro mi jade. Ti mo ba sọ fún ọ pe ọdọ ọ̀sìn mi ohun kekere alailemi yoo pa awọn ọmọ rẹ ti ko ba ni ibalopọ pẹlu mi, o le ni ibanuje, sugbọn ko ni bẹru ijiya mi ni ọna pataki, nigba ti ko seese fún òsì mi nkan kekere alailemi lati pa awọn ọmọ rẹ. Tabi, ti mo ba ku, ati ifẹ mi sọ wipe mo mà pa awọn ọmọ obinrin yii ti ko ba ni ibalopọ pẹlu mi, lododo arabinrin naa yoo ni irora ju ẹrù lọ, niwọn ti emi ko le ṣe idaniloju iwa mi lati kọja isinku. Bayii a san owo ori nitori pe a mọ pe ti a ko ba san, o seese pe awọn alaga aṣojú ilu yo kọjú ija agbara si wa ni ọna ti o ma ga a gan an. Ti mo ba san owo ori mi, mo ma gba lẹ́tà, lehinna lẹ́tà miiran, lehinna ipe foonu, lehinna ìpéjọ si ile ẹjọ́ - ati pe ti mo ba yọjú si ile ẹjọ́, tabi mi o sàn owo ori ẹyin mi pada ati awọn itanran pẹlu anfani ati owo ti o ti gùn ún orire, awọn Ọlọpa yoo wa pẹlu awọn ìbọn lati mú mi lọ si túbú ẹ̀wọ̀n. Ti mo ba kọjú si awọn Ọlọpa, wọn yoo yinbọn pami.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Lati sọ wipe agbara bakan naa túmọ̀ si iyooda ara ẹni jẹ ohun ti ko ni imọran ati pe o jẹ ti ara ẹni. Lati sọ pe isileko ti lilo agbara dọ́gba si ìṣáájú ti kii ṣe lilo agbara ni lati sọ pe oke wa ni ìsàlẹ̀, dudu ni funfun, ati òtítọ́ jẹ asan.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Laisi “ibi aifowoyi”, awon ibaje wonyii ko le se idaduro.
 
-The “null zone” is the lair of the beast we hunt.
+Awọn "ibi ailewu" jẹ eyi ti o wa ninu ẹranko ti a saja.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Bi a ti leri, a mọ pe lododo ara ẹni ko tọ lati jale tabi ji nkan ; a ni awọn ìṣòro díè pẹlu iseduro ati isedede ologbo lori ole jija, gẹgẹbi a ti ṣe loke - síbẹ̀ naa, ni bẹ wa "agbegbe ibi ailewu" tabi agbaye miiran nibi ti awọn atako le gba laisi eyikeyi ibeere tabi ibakodun.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Nipasẹ si UPB, o jẹ àṣìṣe fún mi ati ìwọ lati jale. Síbẹ̀ bakan naa, ni "agbegbe ibi ailewu yii," a ko gba laaye nikan, sugbọn o tún jẹ́ iwa ti o dara, fún àwọn ẹlomiran lati jale. A ko gbọdọ jale - wọn ko si gbọdọ jale. O jẹ asiwere iwa!
 
-### Policemen
+### Awọn Ọlọpa
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Ẹ jẹ ki a mu ọrẹ wa daradara Bob kuro ninu yara kekere rẹ ti awọn idanwo ti ẹkọ iwa ki a mu pada si isẹ rẹ àkọ́kọ́ bi olopa.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Ni ododo, ti Bob ba ji dìde di arọ, ki o tó bẹ̀rẹ̀ ìṣe, ko le lọ si ile aladugbo rẹ ki o si beere owo ni kojuti ìbọn, paapaa ẹnikẹni ti o sọ fún pe o dara.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Nigba ti Bob ba jẹ oúnjẹ arọ rẹ, ko le tún kọlu aladugbo ẹnikẹni rẹ ati gba owo rẹ. Lori irinlọ si ibiṣe rẹ - bi o ti le jẹ pe o ti wọ aṣọ rẹ - ko ti sáwọn síbẹ̀, ati bayii ko ni ẹtọ ju ọmọ ilu miiran lọ. Nigba ti o ba wọ inu, sibẹsibẹ, ni bayii, bi ẹni pe awọn ti o wa ni ọrun lati ọrun lati ọrun wa jabo, o ni agbara ìyanu lati ṣe alaabo iwa ipa fun awọn aladugbo rẹ ati gba owo wọn.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Ni ojiji, eyi nikan ni o jẹ iwa rẹ ti o ti yipada patapata. Ko le yi àpẹẹrẹ rẹ pada, ko le gbe iseduro onirin ayika rogodo mi tabi gbe ni ailewu ina nla ; ko le sa ẹgbẹrun kilomita ni wakati kan, ati pe ko le rìn wọ inu odi biriki. O jẹ ẹda, patapata, ati pe arakunrin kan naa gẹgẹbi o ti wa saaju ki o to gbe wo le - sugbọn nisinsinyi, o wa lábẹ́ ofin ti o ni idakeji ofin iwa.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Paapaa díẹ̀ si ni ojiji, ti mi o ba jẹ "Ọlọpa," sugbọn mo tele Bob si ibiṣe, ati pe mo ṣe ohun ti o ṣe - mo wọ aṣọ, rìn wọ àgó Ọlọpa, ati ki o si fi nkan atele kiko sinu àgó Ọlọpa - idi, ti mo ba ṣe nkan ti Bob ṣe gan gan, mo wa patapata ati aisedeedee patapata, bi otilejepe awọn iwa Bob ti o jọra jẹ patapata ati iwa *aisedeedee* patapata.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Iru ọgbọn wo ni eyi ṣe? Bawo ni a ṣe le ṣe apejuwe ohun ijinle nla ti o wọnú yii?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Ododo ọrọ daju ni wipe ko le ṣe ìdojúkọ, nitori pe o ti pari patapata. Òtítọ́ pe "aiye idakeji" iwa isora iwabaje ni gbogbo ti o wulo - ko ṣe apejuwe ilokulo iwa ipa agbara - o han kedere pe a gbọdọ sìn ni iha ogun ti aifowoyi ti "atinuwa."
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Wọn sọ fún wa pe a "fẹ" Bob lati gba owo wa - eyi ti o takọ dajudaju pe Bob fihan ni ẹnu ọ̀nà wa ti o n kọjú ìbọn si oju wa. Nipasẹ isaro yi, emi tún le lọ soke ati ìsàlẹ̀ adugbo jijale owo lati ọdọ awọn aladugbo mi, lehinna beere pe o wa ni ìyàlẹ́nu nigba ti wọn ba mu mi:
 
-“They *want* me to take their money!”
+“Wọn *fẹ* jẹ kin gba owo wọn!”
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+“Ṣugbọn nigba naa kilode tí ń fi ń ṣe ihalakeke lati yìn bọn fún wọn ti wọn ba fún ọ ni owo wọn?”
 
-“Because they *owe* me their money!”
+“Nitori wọn *jẹ* mi ni owo wọn!”
 
-“I thought you said that they want to give you their money.”
+“Mo rò pé o sọ wipe wọn fẹ fún ọ ni owo wọn.”
 
-“No, no – they owe me. It’s really *my* money!”
+“Rara, rara - wọn jẹ mi lowo. Owo mi *ni* ni òtítọ́!”
 
-“On what grounds do they owe you this money?”
+“Lori awọn idi wọn ni wọn jẹ ẹ ni owo yii?”
 
-“We have a contract!”
+“A ni adehun!”
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+“Ṣe o le fi adehun yii wọn mi? Ṣé wọn ti tẹ ọwọ bọwe lori adehun yii lati inu ọkan ododo wọn?”
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+“Kii ṣe iru adehun! O jẹ - adehun ti ara ẹni..... Ati lẹhin - ni ibamu si iru adehun ara ẹni naa, emi ni mo ni gbogbo ọna adugbo - gbogbo agbegbe naa ni òtítọ́! Ẹnikẹ́ni ti o ba kọ lati sanwo mi le lọ si ibomiran - emi ko ni eyan lara!”
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+“Ati bawo ni o ṣe mọ pe iwo ni o ni gbogbo adugbo? Njẹ o ni awọn iwe nini?”
 
-“Yes, of course – have a look here!”
+“Bẹẹni, dajudaju - wo ibi bayii!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Daradara, eyi jẹ àkọsílẹ̀ atowowa kan ti o sọ wipe ìwọ lo ni gbogbo adugbo - ati pe o jẹ iwe ọwọ̀ kan naa pẹlu ibuwolu rẹ. Mo bẹru pe a ni lati ṣe iwe fún ọ - eleyii jẹ nkan adehun pẹlu ara rẹ, eyi ti o ń fi ṣesún si awọn elomiran ni ojude ìbọn.”
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Eleyii jẹ ẹgan asiwere ati ibajẹ bi emi n tesiwaju lati ṣo fún arabinrin kan ti mo n ba fi agidi ni ibalopọ pe oun fẹ ni ibalopọ pẹlu mi. Njẹ o le fojunu bi mo ba wa ni idajọ ifipabanilopo, ati pe o ni afihan fidio ti arabinrin yii n bẹbẹ lati da duro, ati pe mo ni ọbẹ̀ si ọfun rẹ, bawo ni a ṣe le gba idabo mi ti mo ba n tesiwaju lati sọ pe arabinrin yii ni o fẹ ibalopo pẹlu mi?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Ni ile ẹjọ́, yoo jẹ mi ni ẹgan, ati pe wọn n sọ mi sinu tubu ẹ̀wọ̀n fún ẹmi mi, asiwere, ibajẹ ati agabagebe ara ẹni.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Aa, sugbọn ni "ibi ailewu" ti ijọba, ifipabanilopo jẹ ifẹ ṣíṣe, fifi ipa jiyan gbe jẹ pípé si, ṣefà ole jija jẹ aimọ ẹni buburu, ati iseduro jẹ rere.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Eyi ni ohun ti o túmọ̀ si nigba ti mo ba sọ wipe "agbegbe idakeji aye aisinkankan" ni idiwo pataki julọ si idunnu eniyan ni gbogbo agbaye. Ole jija jẹ àṣìṣe fún wa ; ole jija jẹ àṣìṣe ninu awọn alailegbe - sugbọn ole jija jẹ bakan naa ohun "ti dara" ninu ọta aye miiran ti a n pe ni "ijọba"?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Ẹ jẹ ki a ma *bẹ̀rẹ̀* lati ala ibanuje ti òtítọ́ ti o wa ninu ọrọ gbolohun yii "àṣìṣe túmọ̀ si òtítọ́.”
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Ariyanjiyan yii tun duro lati ma ṣíṣe daradara pẹlu awọn olùkọ́ ẹkọ iṣirò - mi o ti ri ọmọ iwe kan ti o jiyan pe idahun ti ko tọ le jẹ atunse ni aye miiran, ati pe o jẹ alaisoto lati sàmì si bi àṣìṣe.
