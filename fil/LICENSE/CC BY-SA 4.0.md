@@ -140,11 +140,11 @@ c. Ang pagtatatwa sa mga ganrantiya at limitasyon ng pananagutan na inilaan sa t
 
 a. Nalalapat ang Pampublikong Lisensya para sa termino ng Kopirayt at Katulad sa Karapatan na lisensyado dito. Gayunpaman, kung hindi ka sumunod sa Lisensya ng Pampublikong ito, pagkatapos ay ang iyong mga karapatan sa ilalim ng Pampublikong Lisensya na ito ay awtomatikong tapusin.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Kung saan ang iyong karapatang gamitin ang Materyal na Lisensya ay tinapos sa ilalim ng Seksyon 6(a), ito ay nagbabalik:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. awtomatikong sa petsa ng paglabag ay magaling na, sa kondisyon na ito ay gumaling sa loob ng 30 araw ng iyong pagtuklas ng paglabag; o
 
-2. upon express reinstatement by the Licensor.
+2. sa pagpapahayag ng muling pagbibigay ng Tagapaglisensya.
     
     For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
