@@ -160,9 +160,9 @@ b. Anumang mga pagsasaayos, pag-unawa, o mga kasunduan tungkol sa Lisensyadong M
 
 ### Seksyon 8 – Pagpapaliwanag.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Para sa pag-iwas sa pagdududa, ang Pampublikong Lisensya na ito ay hindi, at hindi dapat bigyang kahulugan, bawasan, limitahan, mahigpit, o magpataw ng mga kundisyon sa anumang paggamit ng Materyal na Lisensya na maaaring gawin nang walang pahintulot sa ilalim ng Pampublikong Lisensya.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Hangga't posible, kung ang anumang tadhana ng Pampublikong Lisensyang ito ay itinuturing na hindi maipapatupad, awtomatiko itong mababago sa pinakamaliit na lawak na kinakailangan upang maipatupad ito. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
