@@ -24,62 +24,62 @@ Kaya ito ay imposible na sinuman ay lohikal na makipagtalo laban sa makamundong 
 
 Silohistikal, ito ay:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Ang lahat ng organismo ay nangangailangan ng makamundong ginustong asal upang mabuhay.
+2. Ang tao ay isang nabubuhay na organismo.
+3. Kaya sa gayon ang lahat ng nabubuhay na mga tao ay buhay dahil sa kaugalian ng makamundong ginustong asal.
+4. Kaya ang anumang pagtatalo laban sa makamundong kanais-nais na asal ay nangangailangan ng isang pagtanggap at kaugalian ng makabundong ginustong asal.
+5. Sa gayon, walang pagtatalo laban sa pag-iral ng makamundong kanais-nais na asal ay maaari magiging wasto.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Dahil ang siyentipikong pamamaraan ay nangangailangan ng empirikal na pagsang-ayon, dapat din natin na tignan ang katotohanan upang makumpirma ang ating teyorya - at dito ang bisa ng makamundong kanais-nais na pag-uugali ay lubos na masusuportahan.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Ang bawat taong taimtim ay naniniwala sa moral na patakaran ng ilang uri. Mayroong ilang mga pagtatalo tungkol sa kung ano *ang bumubuo sa* moral na patakaran, ngunit ang lahat ay tiyak na ang moral na mga patakaran ay wasto - tulad ng sa pagtatalo ng maraming siyentipiko, ngunit lahat ng siyentipiko ay tanggap ang bisa ng siyentipikong paraan nito. Ang isang tao ay maaari makipagtalo na ang mundo ay bilog at hindi patag - na kung saan ito ay kahalintulad sa pagbabago ng kahulugan ng moralidad - ngunit ang isa ay hindi makikipagtalo na ang mundo ay hindi umiiral - na kung saan ito ay katulad ng pakikipagtalo na walang bagay tulad ng makamundong kanais-nais na asal.
 
-Or:
+O:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Para sa isang siyentipikong teyorya na maging wasto, ito ay dapat suportahan ng empirikal na obserbasyon.
+2. Kung ang konsepto ng "makamundong kanais-nais na asal" ay wasto, sa gayon ang sangkatauhan ay dapat maniwala sa makamundong kanais-nais na asal.
+3. Ang lahat ng tao ay naniniwala sa makamundong kanais-nais na asal.
+4. Sa gayon ang empirikal na katibayan ay umiiral upang suportahan ang bisa ng makamundong kanais-nais na asal - at ang pag-iral ng tulad nitong katibayan *ay sumasalungat* sa panukala na ang makamundong kanais-nais na asal ay hindi wasto.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Ang ika-apat na pagtatalo para sa bisa ng makamundong kanais-nais na asal ay empirikal. Dahil ang mga tao ay mayroong isang halos-walang katapusan na bilang ng mga pagpipilian upang gumawa ng buhay, upang sabihin na walang prinsipyo ng makamundong kanais-nais na asal na maaaring sabihin na ang lahat ng pagpipilian ay pantay-pantay (i.e. subhektibo). Gayunpaman, ang lahat ng pagpipilian ay *hindi*pantay-pantay, o kaya lohikal o sa pamamagitan ng empirikal na obserbasyon.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Halimwa, kung mayroon mga pagkain, halos lahat ng nilalang ay gugustuhing kumain araw-araw. Kapag malamig, halos lahat ng nilalang ay maghahangad mainitan. Halos lahat ng magulang ay pipiliin na pakainin, bigyan ng tirahan at pag-aralin ang kanilang mga anak. Mayroong maraming halimbawa ng karaniwang pagpipilian sa lahat ng tao, na kung saan ay nagpapahiwatig na ang makamundong kanais-nais na asal ay masagana at ito ay parte ng kalikasan ng tao.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Tulad ng nabanggit ko sa itaas, walang wasto na teyorya ng pisika ang kayang itakwil ang simpleng katotohanan na ang mga bata ay kayang manghuli ng langaw-bola - sa katulad na paraan, walang wasto na teyorya ng etika na kayang tanggihan ang walang katapusang katibayan para sa pagtanggap ng UPB.
 
-Or:
+O:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Ang mga pagpipilian ay halos walang katapusan.
+2. Halos lahat ng tao ay gumagawa ng parehong mga pagpipilian.
+3. Kaya hindi lahat ng pagpipilian ay maaring maging pantay-pantay.
+4. Kung sa gayon ang makamundong kanais-nais na pagpipilian ay dapat maging wasto.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Ang ikalimang pagtatalo para sa bisa ng makamundong kanais-nais na asal ay nasa gitna ng ebolusyon.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Dahil ang lahat ng organiko na buhay ay nangangailangan ng katanggap-tanggap na asal upang mabuhay, maaari nating sabihin na ang lahat ng organismo na kung saan gumagawa ng pinaka matagumpay na pagpili ay ang mga pinaka laging napipili para mabuhay.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Dahil ang tao ay ang pinaka matagumpay na nilalang, ang pinaka naiiibang bahagi ay ang kanyang isip, ito ay dapat maging *isip ng tao* na tinutulungan siya ng lubos sa pagpili ng matagumpay na pagpili. Ang isip mismo, gayon, ay napili na matagumpay sa pamamagitan ng kayang lubos na kakayahan upang gumawa ng matagumpay na mga pagpili. Dahil ang isip ng tao ay umiiral tulad ng isang *resulta*ng pagpili ng makamundong kanais-nais na asal, ang makamundong kanais-nais na asal ay dapat maging isang wastong konsepto.
 
-Or:
+O:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Ang mga organismo ay nagtatagumpay sa pamamagitan ng pagkilos sa makamundong kanais-nais na asal.
+2. Ang tao ay ang pinaka matagumpay na organismo.
+3. Sa gayon ang tao ay dapat kumilos ng pinaka matagumpay sa basehan ng makamundong kanais-nais na asal.
+4. Ang isip ng tao ay ang kanyang pinaka kakaibang bahagi.
+5. Sa gayon, ang isip ng tao ay dapat kumilos ng pinka matagumpay sa basehan ng makamundong kanais-nais na asal.
+6. Sa gayon ang makamundong kanais-nais na asal ay dapat maging wasto.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Maaari nating dalhin ang maraming talakayan upang suportahan ang pag-iral at bisa ng UPB, ngunit kinakailangan nating pagpahingain ang kaso na nasa itaas, at magpatuloy sa isang pagsusuri ng likas ng UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Opsiyunal at obhektibo
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Dahil napatunayan natin ang bisa ng makamundong kanais-nais na asal, ang tanong ng moralidad ay nagbabago ngayon. Dahil ang moralidad*ay*wasto, anong mga teyorya ang makakapagbilang, makakapagbukod-bukod, makakapagpaliwanag at makakahula nito?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Una sa lahat, dapat nating tandaan na ang moralidad ay malinaw na opsyunal. Ang bawat tao ay napapailalim sa grabidad at nangangailangan ng pagkain upang mabuhay, ngunit walang tao ang dapat kumilos ng may moral. Kung ako ay manggagahasa, magnanakaw o papatay, walang kidlat ang makakasakit sa akin. Ang mga patakarang moral, tulad ng siyentipikong pamamaraan o biyolohikal na pagbubukod-bukod, ay mga paraan lamang ng makatwirang pagsusunod-sunod ng mga katotohanan at prinsipyo kaugnay sa obhektibong katotohanan.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Ang katotohanan na ang pagsunod sa patakarang moral ay *opsyunal*, gayunpaman, nililito ang maraming nag-iisip sa paniniwalang ang moralidad ay *subhektibo*. Walang maaring makalayo mula sa katotohanan.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Ang nabubuhay na organismo ay parte ng materyal na katotohanan, at ang materyal na katotohanan ay makatwiran at obhektibo. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
 
 Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
 
