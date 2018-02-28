@@ -83,11 +83,11 @@ Ang Unang modelo ay nasusukat sa hindi pagbabago ng mga ideya sa ating mga saril
 
 Ang Emperisismo ay maaring nasaisip bilang abilidad para sa katutubo sa pagsalo ng ibinato na bola, o masusukat nito ang pagkilos ng pagkamakatwiran bilang abilidad na mahulaan at maunawaan ang landas ng bola nakinuha base sa pandaigdigan na mga prinsipyo. Malinaw na, kung ang bola ay random na nag punta sa kahit saan at kahit anong dereksyon - magically na nagbago sa kawan ng mga kalapati para sa boot - nais namin na hindi malubos ang paghula sa kanilang paguugali.
 
-Kung gayon, dahil sa pagsunod sa walang pagbabago na mga batas, ang ating mga teorya *tungkol* ay kinakailangan na masunod ang walang pagbabago na mga batas. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Kung gayon, dahil sa pagsunod sa walang pagbabago na mga batas, ang ating mga teorya *tungkol* ay kinakailangan na masunod ang walang pagbabago na mga batas. Kung ako ay walang alam tungkol sa baseball, ngunit nanonod ng basebal na laro kung saan ang mga manlalaro ay sumusunod sa mga patakaran, ito ay maaaring hindi makatwiran para sa akin para mabalangkas ang teorya tungkol sa mga patakaran ng baseball na direkta sa pagsalungatng paguugali ng mga manlalaro na nanonood. Kung gayon ang mga aksyon ng mga manlalaro ay parepareho, *sa kahit anong mga teorya na na-develop patungkol sa mga patakaran na susundin ng kanilang mga aksyon ito ay kinakailangan at parepareho*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Ang kinakailangan na ito ay para sa parepareho sa isa sa mga pinaka batayan na mga kinakailangan para sa katotohanan. kung gayon ang tuloy tuloy na katotohanan sa mga teorya patungkol sa katotohanan na kinakailangan ay parepareho.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Sa makatuwid, ang unang safabal sa kahit naong teorya ay kailangan na pagtagumpayan ito *panloob na hindi nagbabago*.
 
 [^1]: Kung hindi mo papahalagahan ang katotohanan, hindi ka maaringnandito kahit kailan sa debate na ito - o sa kahit anong debate - sa simula pa lamang!&#160
 
