@@ -6,7 +6,7 @@ Escrevi dezenas de artigos expondo a falsidade desta posição, então não me v
 
 O "argumento da practicidade" não resolve, de forma alguma, o problema da violência. Se o vejo a comer cheeseburgers todos os dias, posso dizer-lhe que não o deve fazer se quiser manter um peso saudável. Não posso afirmar que é *mau* que você coma cheeseburgers, por razões que já ultrapassamos. Não posso obrigá-lo a aumentar a "practicidade" das suas acções.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Portanto, dizer que o governo está justificado ao forçar-nos a tornar-nos mais "práticos" é completamente falso, o que se pode verificar pela estrutura do CUP - mesmo que assumamos que as soluções governamentais são mais "práticas", o que na verdade, não são.
 
 Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
 
