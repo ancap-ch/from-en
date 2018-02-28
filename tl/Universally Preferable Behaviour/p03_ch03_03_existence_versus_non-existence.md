@@ -1,4 +1,4 @@
-### Relihiyon at pamahalaan
+### Governments And Religion
 
 Ang ideya ng maipanganak ay bumubo ng isang kontrata sa isang kathang-isip na ahensya, na sa praktikal na termino ay ginagawa kang tila-alipin sa ispesipikong mga indibidwal, na karaniwan parehas sa relihiyon at estado - at sa isa't isa, mas higit na personal na ahensya, na aking tinalakay sa aking unang aklat "Sa katotohanan: Ang Paniniil ng Ilusyon."
 
