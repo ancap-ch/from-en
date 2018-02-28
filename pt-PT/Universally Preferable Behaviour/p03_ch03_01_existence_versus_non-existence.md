@@ -132,17 +132,17 @@ Somos informados de que "queremos" que Bob tome o nosso dinheiro - o que contrad
 
 "Eles *querem* que eu tome o seu dinheiro!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"Mas então, por que é que você estava ameaçando matá-los se eles não lhe dessem o seu dinheiro?"
 
-“Because they *owe* me their money!”
+"Porque eles *me devem* o seu dinheiro!"
 
-“I thought you said that they want to give you their money.”
+"Eu pensei que você tivesse dito que eles lhe queriam dar o seu dinheiro"
 
-“No, no – they owe me. It’s really *my* money!”
+"Não, não - eles devem-me. O dinheiro é realmente *meu*! "
 
-“On what grounds do they owe you this money?”
+"Por que motivo eles devem-lhe esse dinheiro?"
 
-“We have a contract!”
+"Temos um contrato!"
 
 “Can you show me this contract? Have they signed this contract of their own free will?”
 
