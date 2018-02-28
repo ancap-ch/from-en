@@ -44,53 +44,53 @@ A zahirce, wannan danganta ka tsakanin gaskiya da hakikan gaskiya na bukatan yar
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ace zaka iya fadan bambamci dake tsakanin yanayin rubutu, zamu iya ci gaba cin fahimta.
 
-#### Accuracy And Consistency
+#### Dai-dai da Daidaito
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ba zai yu ace nayi fentin girgije dai dai, tunda a cikin lokacin da zanyi fentin girgijen na canza wane akai akai. Zan iya yin fentin *hoton* girgije daidai, wanda yake tsaye cak a lokacin.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Idan na kashe lokaci ina kokarin  fentin girgije, sannan  na  tammbayekjaa  ko  fenti  na daidai yake da  girgijjen, amsarka  zai kasan ce  ba  daidai bane.
 
-In other words, where there is no consistency, there can be no accuracy.
+Ta wani fuskar kuma, inda babu daidaito, ba za’a iya yin daidai ba.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Idan mu kayi mafarki da  daddare,  tunanin mu shine  dokokin “al’amari  da “makamashi” na tsayayyar jihar juyi—muna da  garkuwa da nauyi, sannan idan muka tashi  a  bayan giwa,  sannan zamu iya tafiya ta cikin bango. Ba zai yu mu kirkiri “kimiyar lissafi” da muke so ba da kuma ace munyi fentin girgije daidai.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Dabaru, kimiya da gaskiya, sannan, ace ba zai yuba idan babu *daidaito* .
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Muhimman hakkokin, dokokin dabaru an kirkire su ne daga halayyar al’amari da makamashi, a kalla akan ma’aunin kacinci kacinci. Idan nace ma kaa jeefa kwallo Sama da kasa a lokaci daya, ina saka abun da ba zai yuba, wanda zaka iya gwadawa don kayi abun da nake so.  Idan nace ka noma filin kudu da yamma a tare, zaka kasa jurewa. Idan ko nace ka maida fure zuwa jaki, ba zai taba yiwu wa ba kayi yadda nake so.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Hakikan gaskiya na daidaito da ra’ayi—da kuma daidaito da ra’ayi da muka samo daga dokokin dabaru. Bayanin mu akan gaskiya zai iiya zama daidai *wakiltar* gaskiya a matsayin sakamako daga daidaito da ra’ayi.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+A gaskiya tsintsun seagull baya iya rikida zuwa makera—ko sabanin hakan—shine dalilin da yasa muke yanke hukunci daidai akan wani bayani: wancan tsintsun seagull ne,” idan tsintsun seagull na maras wata-waata da cigaba da canja halittar sa, to zai zama mana abu mai wahala gane  gaskiyar lamarin su—ko wani akan hakan.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Wannan shine tushen makullin rarrabewa na hanyoyin kimiya—hayayyafa. Idan nayi ikirari akan halittar nauyi, to zai zamanto kaima zaka iya yaya da wannan ikirarin a mazaunar ku. Idan hakikani gaskiya *ba* daidai bane, yaya da zance zai zamo abu mara tasiri wurin fadin gaskiya.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Idan ace kai malamin lissafi ne, zai ma wahalar gaske ka yarda da amsan da ba daidai bane daga dalibi, ko da wannan dalibin na ikirarin cewa “daidai” ne a lokacin daya rubuta, amma ta canza a yayin da ya bada rikon kwarya.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Duk da yake zamu auna  gaskiyar magana ne dangane da ra’ayin hakikanin gaskiya—da basira, da dabaru. Dabara a matsayin horo ya samo asali ne daga daidaituwan hakikanin gaskiya; lura mai zurfi na iya zama daidai ko makamancin haka a sakamakon inganci na halayya gaskiya.
 
-### The Existence Of "Truth"
+### Kasancewar "Gaskiya"
 
-Truth, then, can be measured according to two central criteria:
+Gaskiya, idan, zaka iya auna shi akan abubuwa guda biyu: 
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. 2.	Gaskiya shine ma’uunin dake tsakanin tunanin dake cikin zukatan mu da abun daya dace a gaske, wannda yyaa samo asali daga hakikkanin halayyan al’amari da makamashi a zahirce.[^2]
+2. 4.	Gaskiya ma’auni ne dake tsakanin fasahar dake cikin zukatan mu da halittu da halayyan al’amari da makamashin dake bayyane a zahirce.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Hukuncin farko shine ma’aunin dake bayanin inganci fasahar da kansu—kuma wannan inganci abu ne da ya zama dole saboda gaskiyan inganci da kanshi. Idan nace, “ bana  nan”  wannan misalin ra’ayi  ne  da bashi da inganci ko kadan, tunda sai ina nan zan iya fadin kalmar bana nan. Hukunci na biyu shine ma’aunin dake daidai da ra’ayin dake da danganta ka da fasahar mai zurfi idan ka lura da rarrabewan gaskiya.
 
-#### Empiricism Versus Rationality
+#### Zurfin Tunani da Hikima
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Zurfiin Tunani na iya zama tunani saboda ikon da zaka iya kaman kollon da aka jefo, ko auna tafiya; hikima na iya fadin me zai faru da fahimtar hanyar da kollon zata bi tsarin manufa. Karara, idan kollon tabi inda ba’a zata ba—sannan a sihirce ta zama tantabara zuwa takalmi—ba zamu iya fadin hallaiyar su ba.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Tunda al’amari nabin dokoki masu garkuwa, ka’idojin mu *akan* al’amari sai ya zamo yanaa biyayya da dokoki masu garkuwa. Idan bansan komai akan kollon hannu ba, amma iina kallon wasan inda yan wasann ke bin dokoki, ba zai bada ma’ana ba a wurin na kirrkiri ka’ida akan dokokin kollon hannu wadanda zasu ssaba da halaiyar yan wasann daa nake kallo. Tunda hukuncin su daidai yake, *duk ka’idar da zzan kirkira akan dokokin da zasu kare hukuncin sai ta zamo mai inganci.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Wannan bukata nna inganci daya ne daga cikin bukatun ginshikin gaskiya. Tunda zahiri nada inganci, ka’idoji akan zahirce sai sunyi inganci.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Hasali ma, matsalar farko ta ko wani ka’ida sai tayi maganin *ingancin kanta*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Idan baka san mahimmanci gaskiya, baka taba shiga wannan muhawarar—ko kowa ne muhawarar—da fari ma!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Ingancin hikima, ko dabaran kai
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Huujja zurfin tunani, ko hikima
