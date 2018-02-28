@@ -166,7 +166,7 @@ b. Hangga't posible, kung ang anumang tadhana ng Pampublikong Lisensyang ito ay 
 
 c. Walang anumang tuntunin o kondisyon ng Pampublikong Lisensya na ito ay talikdan at walang kabiguang sumunod na pumayag na maliban kung tahasang sinang-ayunan ng Tagapaglisensya.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Wala sa Publikong Lisensya na ito ang bumubuo o maaaring ipakahulugan bilang isang limitasyon sa, o pagwawaksi ng, anumang mga pribilehiyo at immunities na nalalapat sa Tagapaglisensya o Ikaw, kabilang ang mula sa mga legal na proseso ng anumang hurisdiksyon o awtoridad.
 
 > Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 > 
