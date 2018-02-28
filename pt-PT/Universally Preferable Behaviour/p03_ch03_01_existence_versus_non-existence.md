@@ -152,9 +152,9 @@ Somos informados de que "queremos" que Bob tome o nosso dinheiro - o que contrad
 
 "Sim, é claro - olhe aqui!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"Bem, isto é apenas uma nota manuscrita dizendo que você é dono do bairro todo - e é a mesma caligrafia da sua assinatura. Temo, que vamos ter de o prender - este é apenas um contrato inventado por si próprio, que está a impor aos outros a ponta de pistola "
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Isso é tão completamente insano e corrupto como eu continuar a dizer a uma mulher que estou a violar, que ela *quer* fazer sexo comigo. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
 In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
