@@ -24,9 +24,9 @@ Se não creio que sou competente para tomar as minhas próprias decisões, entã
 
 Ou sou capaz de tomar decisões competentes, ou não sou. Se *sou* capaz de tomar decisões competentes, então submeter-me à força, para o resto da minha vida, é inválido. Se eu *não*sou capaz de tomar decisões competentes, então a minha decisão de me submeter à força para o resto da minha vida também é inválida.
 
-Mesmo que as considerações anteriores sejam de alguma forma ignoradas, no entanto, ainda é impossível aplicar, justamente, um contrato social através de um governo. Mesmo que as considerações anteriores sejam de alguma forma ignoradas, no entanto, ainda é impossível aplicar justamente um contrato social através de um governo. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+No entanto, mesmo que as considerações anteriores sejam de alguma forma ignoradas, ainda assim é impossível aplicar, justamente, um contrato social através de um governo. Evidentemente, não posso assinar um contrato no *seu* nome, ou no nome dos meus filhos, o que será vinculativo para você ou para eles pelo resto dos tempos. Eu não posso comprar um carro, enviar-lhe a conta, e justamente, exigir que você pague. Se eu reivindicar o poder de lhe impor contratos unilaterais, o CUP também lhe concede *a si* o mesmo poder, e você também enviar-me-à o contrato no meu nome.
 
-In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
+De igual modo, mesmo que eu escolha pagar os meus impostos de forma voluntária, não posso, com justiça, impor-lhe essa escolha, já que um contrato voluntário é uma preferência puramente pessoal e, portanto, não pode ser aplicada universalmente através da violência.
 
 ### The Necessity Of The State?
 
