@@ -101,68 +101,68 @@ Alam namin na ito ay mula sa maling obserbasyon dahil *walang kontrata na panlip
 
 Maraming mga tao ang magtaltalan sa puntong ito na ang pagbubuwis ay hindi ipinapatupad sa punto ng isang baril, subalit sa halip na binayaran ito ng mga tao nang kusang-loob. Para sa Halimbawa, Hindi pa ako nagkaroon ng baril sa aking mukha sa pamamagitan ng isang paniningil ng buwis o isang pulis, subalit nagbayad ako ng mga buwis sa loob ng mga dekada.
 
-Ito ay tunay, subalit ito ay ganap na walang katuturan. Kung sasabihin ko sa isang babae na papatayin ko ang kanyang mga anak kung hindi siya makikipag-talik sa akin, at siya ay magsusumite ng sarili sa akin, maliwanag na nauunawaan natin na isang imoral na aksyon ang naganap – kahit na wala akong ginamit na armas sa aking paglabag. Malinaw, kung ang babae ay nagsusumite sa akin, ito ay dahil natatakot na gagawin ko ang aking pagbabanta. Kung sinabi ko sa kanya na papatayin ng aking alagang hayop leprechaun ang kanyang mga anak kung hindi siya makikipag-talik sa akin, siya ay malamang na maaabala, subalit hindi natatakot ang aking pagbabanta sa alinmang makabuluhang paraan, dahil imposible para sa aking alagang hayop leprechaun na patayin ang kanyang mga anak. O, kung namatay ako, at sinabi ng aking kalooban na papatayin ko ang mga batang babae na ito kung hindi siya nakikipag-talik sa akin, malinaw na siya ay may pakiramdam na hinalinhan sa halip na takot, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Ito ay tunay, subalit ito ay ganap na walang katuturan. Kung sasabihin ko sa isang babae na papatayin ko ang kanyang mga anak kung hindi siya makikipag-talik sa akin, at siya ay magsusumite ng sarili sa akin, maliwanag na nauunawaan natin na isang imoral na aksyon ang naganap – kahit na wala akong ginamit na armas sa aking paglabag. Malinaw, kung ang babae ay nagsusumite sa akin, ito ay dahil natatakot na gagawin ko ang aking pagbabanta. Kung sinabi ko sa kanya na papatayin ng aking alagang hayop leprechaun ang kanyang mga anak kung hindi siya makikipag-talik sa akin, siya ay malamang na maaabala, subalit hindi natatakot ang aking pagbabanta sa alinmang makabuluhang paraan, dahil imposible para sa aking alagang hayop leprechaun na patayin ang kanyang mga anak. O, kung namatay ako, at sinabi ng aking kalooban na papatayin ko ang mga batang babae na ito kung hindi siya nakikipag-talik sa akin, malinaw na siya ay may pakiramdam na hinalinhan sa halip na takot, yamang hindi ko maiisip ang aking pagbabanta mula sa kabilang libingan. Kaya nagbabayad kami ng mga buwis dahil alam namin na kung wala kami, Ang posibilidad na maging-agresibo laban sa mga kinatawan ng estado ay napakataas. Kung hindi ko babayaran ang aking buwis, Makakakuha ako ng sulat, pagkatapos ay isa pang titik, pagkatapos ay isang tawag sa telepono, pagkatapos ay isang patawag sa korte – at kung hindi ako lalabas sa korte, o hindi nagbabayad ng aking mga buwis sa likod at naipon na mga multa at interes, ang mga pulis ay darating na may mga baril upang dalhin ako sa bilangguan. Kung lalabagin ko ang mga pulis, papatayin nila ako.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Ang pagsasabi na ang lakas ay katumbas ng pagboboluntaryo ay ganap na hindi makatwiran at kontradiksyon sa sarili. Upang sabihin na ang pagsisimula ng paggamit ng lakas ay ganap na katumbas ng hindi-pagsisimula ng paggamit ng lakas ay upang sabihin na ang pag-taas ay pababa, itim ay puti, at ang katotohanan ay kasinungalingan.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Kung wala ang “null zone,” ang mga maling kathambuhay na ito ay hindi mapapatuloy.
 
-The “null zone” is the lair of the beast we hunt.
+Ang “null zone” ay ang tirahan ng halimaw na hinahanting namin.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Katulad ng nakikita natin, alam natin na personal na mali ang pag-nanakaw; kami ay may ilang mga problema sa isang abstract at lohikal na ban sa pagnanakaw, tulad ng ginawa namin sa itaas – pa rin, may umiiral na "null zone" o alternatibong uniberso kung saan ang mga pagsalungat ay pweding tanggapin nang walang anumang katanungan o pag-aalala.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+Ayon sa UPB, ito ay mali para sa akin at sa iyo na magnakaw. Paumanhin, sa "null zone” na ito, hindi lamang ito pinapahintulutan, subalit ito din ay ganap na *moral*, para sa iba na nakawin. Hindi namin *dapat* magnakaw – *dapat* silang magnakaw. Ito ay moral na kabaliwan! 
 
-### Policemen
+### Ang Parak
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Dalhin natin ang ating mabait na kaibigan na si Bob mula sa kanyang maliit na silid ng pagsubok sa moral na teorya at ibalik siya sa kanyang tunay na trabaho bilang isang pulis.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Malinaw, kapag nagising si Bob sa umaga, bago siya lumipat, hindi siya pweding pumunta sa bahay ng kanyang kapwa at humingi ng pera sa punto ng isang baril, hindi mahalaga kung sino ang nagsasabi sa kanya na tama lang ito.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Kapag may almusal si Bob, hindi rin siya makakaatake sa kanyang kapwa at kukunin ang kanyang pera. Sa kanyang biyahe upang gumana – kahit na siya ay ilagay sa kanyang uniporme – hindi pa siya sumuntok, at sa gayon ay wala nang mga karapatan kaysa sa anumang ibang mamamayan. Kapag siya ay pumasok sa, gayon pa man, ngayon, bilang kung may bumababa ng isang amoral na haliging apoy mula sa kalangitan, Nakakuha siya ng kamangha-manghang kakayahan na mag-atake sa moral sa kanyang mga kapitbahay at kukunin ang kanilang pera.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Kakaiba, ito ang tanging katangian ng kanyang ganap na nababaligtad. Hindi siya pweding lumipad,hindi niya mababago ang kanyang hitsura, hindi niya matagumpay na mahuli ang bearings ng bola o mabuhay sa isang impyerno; hindi siya pweding tumakbo ng isang libong kilometro isang oras, at hindi rin siya pweding maglakad sa isang pader ng laryo. Siya ay walang pasubali, lubos, at ganap *ang parehong tao bilang siya **bago** siya manuntok sa* – sa ngayon, siya ay napapasailalim sa ganap na kabaligtaran sa mga panukala ng moralidad.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Kahit na mas kakaiba, kung hindi ako isang “pulis,” subalit sinusunod ko si Bob upang gumana, at gawin nang eksakto kung ano ang ginagawa niya – Nagsuot ako ng kasuutan, naglakad papunta sa istasyon ng pulisya,  – at ilagay ang isang piraso ng karton sa isang punch orasan, Ako ay ganap at ganap na imoral, bagama't ang magkatulad na pagkilos ni Bob ay ganap at nilagay ang isang piraso ng karton sa isang punch orasan at ganap na *moral*
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Anong uri ng kahulugan ang ginagawa nito? Paano natin malalaman ang hindi napipintong misteryo na ito?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+Ang simpleng katotohanang ito ay hindi pweding malutas, dahil ito ay ganap na baliw. Ang katotohanan na ang "kabaligtaran sa mundo" na moral na kabaliwan ay ganap na hindi makatwiran – hindi babanggitin ang marahas na pagsasamantala – ay napakalinaw na dapat itong ilibing sa isang walang katapusang kawalkada ng mitolohiko “pag-boboluntaryo.”
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+at sinabi sa amin na "gusto" ni Bob na kunin ang aming pera – na kung saan ganap na sumalungat ang katotohanan na nagpapakita kay Bob sa aming pintuan pagturo ng isang pag-karga ng baril sa aming mga mukha. Sa pamamagitan ng lohika na ito, Pwedi rin akong pumunta pataas at pababa ang kalye ng pagnanakaw ng pera mula sa aking mga kapitbahay, at pagkatapos ay tanggapin na lubos na ikagulat kapag ako ay naaresto:
 
-“They *want* me to take their money!”
+“*Gusto nila* akong kumuha ng kanilang pera!”
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+“Subalit pagkatapos ay kung bakit ka nagbabanta sa pagbaril sa kanila kung hindi nila ibibigay sa iyo ang kanilang pera?”
 
-“Because they *owe* me their money!”
+“Dahil sila *ay may utang* ako sa kanilang pera!”
 
-“I thought you said that they want to give you their money.”
+“Akala ko ay sinabi mo na gusto mo na ibigay sa iyo ang kanilang pera.”
 
-“No, no – they owe me. It’s really *my* money!”
+“Hindi, hindi – may utang ako sa kanila. totoo nga *sa aking* pera!”
 
-“On what grounds do they owe you this money?”
+“Sa anong mga dahilan ba ay may pagkakautang ka sa pera mo?”
 
-“We have a contract!”
+“mayroon kaming kontrata!”
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+“Pwedi bang ipakita mo sa amin ang iyong kontrata? pinirmahan ba nila ang kontrata na ito ng kanilang sariling malayang kalooban?”
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+“Hindi ito ang uri ng kontrata! Ito ay – *sosyal* na kontrata… at sakabilang banda – ayon sa sosyal na kontrata, Ako ay nagmamay-ari ng isang buong kalye – ang buong sinumpang kapitbahayan sa katunayan! Ang sinumang tumangging magbayad sa akin ng pera ay pweding ilipat sa ibang lugar – Hindi ko pinipilit ang sinuman!”
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+“At paano alam mo na pagmamay-ari mo ang buong kapitbahayan? Mayroon ka bang papeles sa pagmamay-ari?”
 
-“Yes, of course – have a look here!”
+“Oo, syempre – magkaroon ng isang hitsura dito!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Magaling!, ito ay isang sulat-kamay na tala na nagsasabi na pagmamay-ari mo ang buong kapitbahayan – at ito ay parehong sulat-kamay bilang iyong lagda. Natatakot ako na kailangan naming i-taan ka – ito ay isang kontratang ginawa sa iyong sarili, na kung saan ikaw ay magdadala sa iba pang mga tao sa punto ng isang baril.”
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Ito ay bilang ganap na sira ang ulo at sira habang ako ay patuloy na nagsasabi sa isang babae na aking ginahasa na siya *gusto* upang makipag-talik sa akin. Pwedi mong isipin kung ako ay sinusubukan para sa panggagahasa, at nagkaroon ng videotape ng babae na nanghihingi sa akin na huminto, at may kutsilyo ako sa kanyang leeg, kung paano matatanggap ang pagtatanggol ko kung patuloy kong iginiit na talagang *gusto niya* makipag talik sa akin?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Sa korte, Ako ay pinaaalalahanan, at itinapon sa bilangguan para sa aking halatang, galit, masama at mapagpahirap sa sarili na pagpapaimbabaw.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, subalit sa "null zone" ng gobyerno, panggagahasa ay pagtatalik, Ang kidnapping ay imbitasyon, Ang pagtanggi sa pagnanakaw ay masamang pagkamakasarili, at ang pamimilit ay mabuti.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Ito ang ibig kong sabihin kapag sinasabi ko na ang "kabaligtaran ng mundo ng *null zone*" ay ang pinaka-pangunahing harang sa kaligayahan ng tao sa buong daigdig. Ang pagnanakaw ay mali para sa atin; Ang pagnanakaw ay mali sa mahirap unawain – subalit ang pagnanakaw ay sa paanuman 'wasto' sa masasamang kahaliling kahulugang ito na tinatawag na 'gobyerno”?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Hayaan na kahit hindi *nagsimula* sa lohikal na bangungot ng katotohanan na halaga na nakapasok sa pahayag "pag-kakamali ay katumbas ng katotohanan."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Ang argumentong ito ay may kaugaliang hindi gumagawa ng napakahusay sa mga guro ng matematika – Hindi ko nakikita ang isang mag-aaral na matagumpay na magtaltalan na ang isang maling sagot ay pweding tama sa ibang uniberso, at sa gayon ay hindi makatarungan ang markahan ito bilang mali.
