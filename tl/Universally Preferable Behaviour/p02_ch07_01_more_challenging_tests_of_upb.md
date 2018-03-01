@@ -36,9 +36,9 @@ Kaya ito ay hindi mangyayari sa kahit anumang lohikal ng moral na teyorya na hin
 
 ### Ang pagpapalaki sa anak
 
-Ang katutubo, naiintindihan natin sa pangkalajatan na may isang gawain na hindi tama sa mga magulang na hindi napapakain ang kanilang mga supling. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+Ang katutubo, naiintindihan natin sa pangkalajatan na may isang gawain na hindi tama sa mga magulang na hindi napapakain ang kanilang mga supling. Para maisip ng isang anak, dalhin ang mga anak sa termino, isinilang ang supling, at tsaka ihiga ito sa kuna at iwanan para mamatay sa gutom, nagkasala ng malubha sa ating mga supling.
 
-Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
+Oo naman, ang aming paglabag ay hindi isang paraan na argumento ng moral, ngunit ito ay isang magaling na pasimulang lokalidad para masubukan ang isang moral na teyorya.
 
 Before, when we were talking about UPB, we noted that, where there are exceptions in UPB, there must be objective differences in biology. Or, to put it more accurately, where there are objective differences in biology, there may be rational exceptions or differences in UPB. A child of five has a biologically immature brain and nervous system, and thus cannot rationally process the long-term consequences of his actions. It is the immature brain that is the key here, insofar as if an adult male is retarded to the point where his brain is the equivalent to that of a five year old, he would also have a reduced responsibility for his actions.
 
