@@ -24,7 +24,7 @@ O:
 
 **Bob:** Hindi.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Kung gayon ang pagsisinungaling ay hindi laging mabuti, yamang sinasabi mo ang katotohanan tungkol sa pagiging mabuti ng pagsisinungaling.
 
 Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
 
