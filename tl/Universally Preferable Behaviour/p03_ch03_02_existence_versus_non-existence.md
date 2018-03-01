@@ -113,4 +113,4 @@ Ang pagtakas mula sa mga haka-hakang mga demonyo tungo sa mga protektadong mga k
 
 [^10]: Para sa mas detalyadong pag-uusap ng tungkulin na ginagampanan ng mga *magulang* sa pagtatanim ng pantasya na kapangyarihan katumbas ng kabutihan," tingnan [Sa Katotohanan](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Tingnan [Praktikal na Anarkiya, Bahagi 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Kabanata 5: Digmaan, kita at ang estado".
