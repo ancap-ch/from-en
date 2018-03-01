@@ -12,7 +12,7 @@ Ang isang surdyon ay maaari kang "saksakin: ng isang iskalpel, subalit madali na
 
 Ang pagkakaibang ito ay mauunawaan sa pamamagitan ng karagdagang pag-aanalisa ng *pagsisimula*.
 
-Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operahan ka. Ang dahilan kung bakit ang "pagsaksak" ng surdyon ay hindi imoral ay dahil ang kanser ang "nagpasimula" ng pag-atake sa iyong buhay at kalusugan. Ang surdyon ay kumikilos bilang "kahaliling ahente ng pagtatanggol ng sarili." gaya ng isang tao na binaril ang mandurukot na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa surdyon, at nakatali ang kanyang pag-uugali ng ispesipikong kontrata.
+Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operahan ka. Ang dahilan kung bakit ang "pagsaksak" ng surdyon ay hindi imoral ay dahil ang kanser ang "nagpasimula" ng pag-atake sa iyong buhay at kalusugan. Ang surdyon ay kumikilos bilang "kahaliling ahente ng pagtatanggol ng sarili." gaya ng isang tao na binaril ang mandurukot na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa surdyon, at nakatali ang kanyang mga kilos ng ispesipikong kontrata.
 
 Ang mandurukot na sumaksak sa iyo, gayonpaman, ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, ito kung bakit ang kanyang pag-atake ay ang moral na *salungat* sa pagsisikap ng surdyon.
 
