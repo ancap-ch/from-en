@@ -1,8 +1,8 @@
 ### Governments And Religion
 
-Ang ideya ng maipanganak ay bumubo ng isang kontrata sa isang kathang-isip na ahensya, na sa praktikal na termino ay ginagawa kang tila-alipin sa ispesipikong mga indibidwal, na karaniwan parehas sa relihiyon at estado - at sa isa't isa, mas higit na personal na ahensya, na aking tinalakay sa aking unang aklat "Sa katotohanan: Ang Paniniil ng Ilusyon."
+The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
 
-Sa tuwing sasabihin ng isang pari na: "Sundin ang Diyos." ang kanyang tunay na nais sabihin ay: Sundin *ako*." Dahil ang Diyos ay hindi umiiral, anumang kautusan na sabihin ng pari na galing sa Diyos, ay tunay na nanggagaling sa pari. Ang "Diyos" ay isang kathang-isip na entidad na konseptwal kang sinusupil upang makuha ang iyong praktikal na pagsunod ng walang tanong-tanong sa totoong mundo, sa totoong indibidwal, sa paraan ng boluntaryong pagbibigay ng salapi, oras at pinagkukunang-yaman.
+Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
 
 Ito ay mas mahusay para sa mga mapagsamantala para magkaroon sila ng mga aalipinin at isaalang-alang ang pagkaalipin sa isang kabutihan, dahil dito pinutol paibaba ang sobra-sobrang pinagkakagastusan ng namamahala sa kanila. Kung kaya kong ipakumbinsi sa iyo ang masama upang iwasan ang paglilingkod sa akin, at walang bahid na maging sunod-sunuran ko, kung ganoon ay hindi ko kaylangan na upahan ang halos katulad ng karamihan ay mga masamang loob para mapanupil, pagkontrol at kumuha ng nagmula sa iyo.
 
