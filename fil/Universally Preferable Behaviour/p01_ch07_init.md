@@ -16,7 +16,7 @@ Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operaha
 
 Ang mandurukot na sumaksak sa iyo, gayonpaman, ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, ito kung bakit ang kanyang pag-atake ay ang moral na *salungat* sa pagsisikap ng surdyon.
 
-Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagsisimula at pagpapanatili ng ugali ng paninigarilyo, aking inilagay sa galaw ang tanikala ng sanhi na nagresulta sa isang nakamamatay na paghihirap. Tiyak pa rin para sa akin na magkaroon ng kanser sa baga kahit hindi ako naninigarilyo - o manigarilyo ng hindi nagkakaroon ng kanser sa baga - subalit aking tiyak na naapektuhan ang mga pangyayari.
+Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagsisimula at pagpapanatili ng ugali ng paninigarilyo, aking inilagay sa galaw ang tanikala ng sanhi na nagresulta sa isang nakamamatay na paghihirap. Tiyak pa rin para sa akin na magkaroon ng kanser sa baga kahit hindi ako naninigarilyo - o manigarilyo ng hindi nagkakaroon ng kanser sa baga - subalit aking tiyak na naaapektuhan ang mga pangyayari.
 
 Gayundin, posible para sa akin na iwan ang aking pitaka sa upuan sa parke sa loob ng isang linggo, balikan at makitang naroroon pa rin ito, pero ang iwan iyon sa nasabing mahabang panahon, aking tiyak na naapektuhan ang mga pangyayari na iyon ay pwedeng mawala.
 
@@ -24,7 +24,7 @@ Sa kabilang banda, kung ako ay mananatili sa bahay tuwing gabi, ako ay hindi uma
 
 ### Ang Walang-Agresyon na Prinsipyo (WAP)
 
-Isang moral na tuntunin ang kadalasang iminimungkahi na tinatawag na *walang-agreyon na prinsipyo*, o WAP. Ito ay tinatawag bilang isang "porkupayn pasipist," ayon alam na ginagamit lamang ng pokupayn ang kayang "pwersa" bilang pagtatanggol sa sarili. Ang WAP ay ang pangunahing proposisyon na " ang pagsisimula ng pgaggamit ng pwersa ay moral na mali." O, upang mas ilagay sa termino ng ating pag-uusap: "Ang hindi pagsisimula ng pwersa ay unibersal na kanais-nais".
+Isang moral na tuntunin ang kadalasang iminimungkahi na tinatawag na *walang-agreyon na prinsipyo*, o WAP. Ito ay tinatawag bilang isang "porkupayn pasipist," ayon sa alam na ginagamit lamang ng pokupayn ang kayang "pwersa" bilang pagtatanggol sa sarili. Ang WAP ay ang pangunahing proposisyon na " ang pagsisimula ng pgaggamit ng pwersa ay moral na mali." O, upang mas ilagay sa termino ng ating pag-uusap: "Ang hindi pagsisimula ng pwersa ay unibersal na kanais-nais".
 
 Kapag ating inanalisa ang isang prinsipyo gaya ng WAP, meron lamang mga pitong posibilidad: tatlo sa negatibo, tatlo sa positibo, at isa nyutral:
 
@@ -36,7 +36,7 @@ Kapag ating inanalisa ang isang prinsipyo gaya ng WAP, meron lamang mga pitong p
 - Ang pagsisimula ng paggamit ng pwersa ay minsan moral na tama.
 - Ang pagsisimula ng paggamit ng pwersa ay tuwinang moral na tama.
 
-Gaya ng ating nakita sa itaas, gayonpaman, ang UPB ay isang "lahat o walang" balangkas. Kung ang isang aksyon ay *unibersal na kanais -nais*, kung gayon ito ay hindi nalilimitahan ng indibidwal, heograpiya, oras atbp. Kung mali na pumaslang sa Algiers, kung gayon mali rin na pumaslang sa Belgium, sa Estados Unidos, sa Polong Hilaga at sa buwan. Kung mali na pumaslang kahapon, kung gayon hindi pa rin tama na pumaslang bukas. Kung mali para kay Bob ang pumaslang, kung gayon mali pa rin para kay Doug ang pumaslang.
+Gaya ng ating nakita sa itaas, gayonpaman, ang UPB ay isang "lahat o walang" balangkas. Kung ang isang aksyon ay *unibersal na kanais-nais*, kung gayon ito ay hindi nalilimitahan ng indibidwal, heograpiya, oras atbp. Kung mali na pumaslang sa Algiers, kung gayon mali rin na pumaslang sa Belgium, sa Estados Unidos, sa Polong Hilaga at sa buwan. Kung mali na pumaslang kahapon, kung gayon hindi pa rin tama na pumaslang bukas. Kung mali para kay Bob ang pumaslang, kung gayon mali pa rin para kay Doug ang pumaslang.
 
 Pagsanibin ang WAP sa UPB, kung gayon ay pinapayagan tayong kayasin ang pitong pahayag tungo sa tatlo:
 
