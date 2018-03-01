@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+## Iyi iwa ti a le wu lagbaye
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Igbimọ tuntun kan jẹ iye diẹ ti o niyeye ti o ba jẹ pe o han kedere. Ti o jẹ pe fisikiki nikan pese apejuwe ti o yẹ fun bi a ṣe gba rogodo, lẹhinna fisikiki kii ṣe ifojusi daradara, nitoripe a ti le gba rogodo. Wiwa pe aye ni yika awọn iranlọwọ nikan ni ijinna lilọ kiri kọja okun - ko ṣe nkankan lati ṣe iranlọwọ fun wa lati gba ilu-ilu Awọn iṣeduro titobi nikan wulo nigbati awọn ọna miiran ko le pese pipe ti o yẹ - ko ṣe iranlọwọ ni sisọ ọkọ ayọkẹlẹ kan.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Ni ọna kanna, ilana iwa ti a le wu lagbaye, ati awọn ofin iwa-ofin ti o fọwọsi tabi kọ, o yẹ ki o fun wa ni imọran diẹ ti o ni ẹru nipa aye ti a gbe ninu, ati awọn ibatan wa si ara wa.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Ti gbogbo nkan ti UPB ṣe ni lati ṣe idaniloju pe ifipabanilopo, ipaniyan ati ole jẹ aiṣedede ti aṣa, kii yoo fi iye ti o pọ julọ kun, niwon fere ko si ọkan ti o gbagbọ pe awọn nkan naa jẹ ẹtọ ti ara lati bẹrẹ pẹlu.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Bayi jẹ ki a bẹrẹ iṣe ilana yii si aiye ti a gbe inu, ati pe kini iye ti o wa ninu rẹ.
