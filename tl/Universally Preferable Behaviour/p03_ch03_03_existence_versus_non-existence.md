@@ -58,7 +58,7 @@ Ang lahat ay puwedeng baguhing ganap ang ating mundo sa kaparaanang pagtanggap n
 
 ### Pamahalaan, relihiyon, at UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Kailan ang lahat ay tinanggap ang UPB na bumalangkas at ilagay ito sa mga mabuting paksa hingil sa pamahalaan at relihiyon, ilan sa napaka gandang mga resulta na nangyayari.
 
 The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
