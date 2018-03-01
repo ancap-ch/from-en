@@ -1,18 +1,18 @@
-## Preferences
+## Fifiko
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Yanzu tunda mun fahimci halittar gardama mai rushe kai, zamu iya juya tambayan akan fifiko.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Fifiko Na tsakiyar hanyoyin ikirari da bayanin gaskiya –matsayin rarrabewa. Hanyoyin kimiya, kamar idan kace, n tattara bayani fifiko akan tantance dabaru ingartaccu da zurfin tunani. A kimiya, filin ne *idan* kana son nuna gaskiya akan halayya na al’amari da makamashi, yana da *fifiko* kayi amfani da hanyoyin kimiya.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+A hankali “fifiko” baya nufin “wannan yafi” amma ana “bukata.“ *idan* kana son rayuwa, *kowa ya yarda yafi* wai ka daina cin abinci cikin arsenic. *Idan* kana son gane gaskiya akan rayuwa, *fifikon duniya*shi ne ka’idojin ddaa inganci cikji da zurfin tunani ke bayyana wa. *Fifikon duniya* anan na fassara “hakkikan cin  da ake  bukata“ amma zamu rike  kalmar “fifiko“ wurin  bambam ta  hakikanin zabin mutane da wanda ba zabin mutane na hakika kamar nauyi ba.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Haka, idan ka’idojin da’a na iya zama gaskiya, sai munyi *a kalla* cikin da wajen inganci. A wani Kalmar, ka’idar da’a dake karyata kanshi bai zama daidai—kuma ka’ida da’a dake karya ta hujjan zurfin tunani da kusa da fifikon duniya bai zama gaskiya.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Duk da a da’a, kamar yadda a kimiya, lissafi, injiniyarin da duk wani horo dake danganta ka’idojin zuwa gaskiya, *lafiyayyun ka’idojin sai sun kasance dabaru ingantattu da kuma tunani mai zurfi.
 
-### Preferences And Existence
+### Fifiko da zamaa
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Idan nace “ina son ayis kirim” kalma daya kawai ya rage shubuha a cikin jumlar. Karara “ni “zama, tunda ina bayani akan abun dana fiso. Haka zalika karara, ayis kirim ya zama gaskiya. Amma kuma, Kalmar “so” na da matsala.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
