@@ -26,30 +26,30 @@ Hakaa  kuma, idan nace  mai *tarbiya* ne bin abun da ubanka yace ma, sannan *ras
 
 Idan ina maganan fifikon duniya ne, lallai ina bayani * rarrabewa da ake bukata*, ko ya *kamata*, a wurin nema wata sa’a. *idan* ina son rayuwa, ba dole sai naso jazz ba, amma *dole* naci abinci. “cin abinci” yana da fifiko – ba dole *sai* naci abinci ba, kamar yadda sai nayi biyayya ga nauyi – amma “cin abinci” duk duniya ne, rarrabewa, da *hadewa* na bukatar zama a raye, tunda ya dogara ne akan nazarin halittu ba abun so ba.
 
-Ethics as a discipline can be defined as any theory regarding preferable human behaviour that is universal, objective, consistent – and binding. Naturally, preferential behaviour can only be binding if the goal is desired. If I say that it is *preferable* for human beings to exercise and eat well, I am not saying that human beings *must not* sit on the couch and eat potato chips. What I am saying is that *if* you want to be healthy, you *should* exercise and eat well.
+Da’a a matsayin horo shine duk wani ka’ida dake bada fifiko ga dabi’un mutane wanda duniya ta yarda, hakika, inganci da hadewa. Halittun, halayya mai fifiko na iya hadewa kawai idan abun da ake so ya samu. Idan nace wancan yafi *fifiko* a wurin bil-adama saboda motsa jini da cin abinci sosai, ba ina cewa bane mutane kar su ki zama a kujera sannan su ci soyayyen dankali. Abunda nake cewa shine *idan* kana son zaman lafiya, kka motsa jini kumaa kaci abinci sosai.
 
-As Hume famously pointed out, it is impossible to derive an “ought” from an “is.” What he meant by that was that *preference* in no way can be axiomatically derived from *existence*. It is true that a man who never exercises and eats poorly will be unhealthy. Does that mean that he “ought” to exercise and eat well? No. The “ought” is conditional upon the *preference*. If he wants to be healthy, he *ought* to exercise and eat well. It is true that if a man does not eat, he will die – we cannot logically derive from that fact a binding principle that he *ought* to eat. *If* he wants to live, then he *must* eat. However, his choice to live or not remains his own.
+Kamar yadda Hume yayi fitaccen nuni, ba zai yu ka cire “kamata” daga “ne”. Abunda yake nufi shine * fifiko* ba inda za ka ciro shi daga *zama*.  Da gaske ne duk mutumin da baya motsa jini kuma ke cin abinci mara gina jiki zai rasa koshin lafiya. Toh haka na nufin shi “ya kamata” ya motsa jini kuma yaci mai kyau? A’a “’kamatan” dalili ne akan *fifiko*.  Idan yana son zama lafiya, yya *kamata*ya motsa jini kuma yaci abinci me kyau. Da gaske ne idan mutum bai ci abinci ba—zai mutu—bamu iya dabara akan cewa ya *kamata* ya ci abinci. *Idan* yana son rayuw. Toh sai *dole* yaci.  Amma kuma, ra’ayin shi na rayuwa ko mutuwa nashi ne.
 
-Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better.”
+Haka ma, idan kana son tuki daga New York zuwa San Francisco, ya *kamata”’ nabi gabasko kudu na iiya zama abun da duniya ta yarda cewa “’yafi.”
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Da gaske ne mutane kalilan ne *ke* tuki zuwa teku, amma hakan baya nufin duk duniya an yarda ba wanda zaai tuki zuwa cikin teku. Ka’idoji ba siyasa bane – ko, idan suka, mu bata samun matsalar bambam ce matsayin, kuma dole mu ajiye maganan da’a gaba daya daga harkan.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought,” “should,” and “preference,” do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines.
+“Halayya “na zama hakikan gaskiya, bayan zuciyar mu—tsarin  “kamata”  bashi zama a hakikanin gaskiya bashi ke nufin  “kamata” cikakken zabi ne. haka hanyar  ilimin kimiya ko numbar da kansu na zama a cikin gaskiya kuma, hakan kimiya da lissafi na  nan hakikan horo.
 
-### Self-Defeating Arguments
+### Gaddamar Yakan Kai
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Idan zamu fara tattaunawa akan da’a, yanna da amfani ace mun gane halittar *gardamar yakan kai*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+A tattalin arziki, ka’ida baya zama daidai idan yana bukatar sai farashi yayi sama da kasa a lokaci daya.  A kimiyar lissafi, ka’ida baya zama daidai idan yana bukatar gaskiya budewa sannan ya rage a tare. A lissafi, ka ‘ida  baya zama daidai idan yana bukatar ace biyu ga biyu daidai yake  da biyar, tunda  “biyar” wi hanya ne na fadin  biyu ga uku,  ba biyu ga biyu ba, kuma haka ace biyu ga biyu ya zama biyar kaman ace ne biyar daidai yake d hudu,  wanda saba da kanshi.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+A jimulla, duk ka’’idar da ta Saba da kanta wurin bayani bata zama gaskiya. Bata bukatar wani ya karyata, tunda da kanta ta saba. Bama bukatar ace sai mun kula da duk wani dauri da kura a duniya kafin gane “zageye daidai” bashi zama. Wannan tsarin ya saba kansa, kuma ya karyata kanshi wurin bayani.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Idan na baka hujjar lissafi mai sarkakiya, kuma ka kula, daga farko, nace wannan hujjojin sun ginu ne akan biyu ga biyu na nufin hudu da kuma biyar duk a tare, ba sai kaci gaba da karantar hujjojin karya ne.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Haka nan, abunda muka ce kafin yanzu, idan nazo wurin ka nace “bana nan,” takaitaccen labari na ya rushe kansa. Idan ni na fada ma bana nan, ina nan kenan.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Idan nazo wurinka nace: “ba wani abu wai shi gaskiya,” ai ina bayani ne da nake ganin gaskiya ne bayan kuma nace ba gaskiya.  Hakan kuma, gardama na ya rushe kanshi.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Idan nace ma wai “yare bai da ma’ana,”’ ai na karya ta kai na. Tunda maganan da nayi cewa yare bashi da ma’ana, yare a kalla nada ma’ana.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Idan nace ma “baka da hankali” anan gardama Na ya rushe kanshi, tunda ina amfani da hankalin ka ne wurin fada ma baka da hankali. Idan nayi nasara wurin takaitaccen labari na kan ka, wannan na nufin kana da hankali. Tunda sai na yarda kana da hankali kafin na fada kka yarda baka da hankali wanda baya yiwuwa.
