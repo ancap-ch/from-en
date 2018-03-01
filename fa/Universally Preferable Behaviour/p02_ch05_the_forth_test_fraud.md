@@ -1,31 +1,31 @@
-## The Forth Test: Fraud
+## آزمون برتر: کلاهبرداری
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+درست در مرز آنچه که به طور کلی شامل اخلاقیات می شود، چالش * کلاهبرداری * است.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+کلاهبرداری به معنی بدست آوردن چیزی مهم از طریق راه نادرست است. اگر به شما بگویم که اگر شما به من دویست دلار بدهید و من به شما یک iPod می دهم، و سپس پول شما را بگیرم اما iPod  را به شما تحویل ندهم، به طور غریزی متوجه می شویم که این یک نوع دزدی است.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+بگذارید مسئله کلاهبرداری را در دستگاه جک خرد کننده UPB بگذاریم و ببینیم که آیا آن تحمل می کند و جواب می دهد.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+واضح است که کلاهبرداری نیازمند این است که یک نفر از آن بی خبر باشد. در معامله بالقوه فوق، اگر من به فکر سرقت کردن دویست دلار شما باشم، و اگر شما نیز امیدوار به دزدیدن iPod من باشید، این کلاهبرداری نخواهد بود. شما قبل از پرداخت، iPod  را تقاضا خواهيد کرد و من قبل از عرضه  iPod، مبلغ را مطالبه خواهم کرد. بنابراین در یک بن بست قرار خواهیم گرفت و مطلقا قادر به کلاهبرداری از هم نخواهیم بود.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+واضح است که برای انجام تقلب، یک گروه باید با حسن نیت عمل کنند. به این ترتیب، فردی که مایل به انجام کلاهبرداری است برای اینکه بتواند این کار را انجام دهد، باید شخص دیگر مایل به انجام کلاهبرداری نباشد، تا بتواند او را قربانی کند.
 
-To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
+برای بازگشت به رفتار ناخوشایند اخلاقی، اگر ما از باب و داگ بخواهیم که بر اساس این اصل اخلاقی که "کلاهبرداری خوب است" رفتار کنند، چه اتفاقی می افتد؟ اگر داگ بیست دلار داشته باشد و باب یک کبریت داشته باشد، داگ برای گرفتن آن کبریت به باب بیست دلار پیشنهاد می دهد و کبریت را می گیرد اما بیست دلار را به باب نمی دهد، پس داگ بر این باور است که کلاهبرداری خوب است.
 
-What happens then?
+سپس چه اتفاقی می افتد؟
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally.”
+بدیهی است که داگ و باب هر دو نمی توانند بر این باور باشند که "کلاهبرداری خوب است "؛ زیرا که برای کلاهبرداری کردن، داگ باید متقلبانه عمل کند و باب، باید صادقانه عمل کند. بنابراين بايد برای رسیدن به باور های"اخلاقی" داگ، بايد باب، "غیر اخلاقی" عمل کند.
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+ UPB این احتمال را از بین می برد، چرا که هیچ تئوری اخلاقی معتبر نمی تواند اقدامات متضاد را تحت شرایط مشابه انجام دهد.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want,” then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+اگر داگ کلاهبرداری از باب را با توجیهی  مبنی بر اینکه"«دروغ گفتن برای رسیدن به تمایلات» عمل خوبی است" انجام دهد، پس همچنین واضح است که صادق بودن باید خوب باشد، زیرا غیرممکن است که آنچه را که میخواهید با دروغ گفتن بدست بیاورید، بدون اینکه دیگران فرض بر صادق بودن شما کنند. به این ترتیب فرض بر این است که دروغ گفتن برای بدست آوردن آنچه که میخواهید به دست بیاورید ممکن نیست مگر اینکه دیگران با صداقت عمل کنند. بدین ترتیب انجام عمل دروغگویی و صداقت در یک زمان نیازمند تحقق اصل اخلاقی است. این منطق– که هر دو عمل * در یک زمان و مکان و برای اشخاص یکسان متضاد هستند و هر دو عمل، اخلاق مدارانه محسوب شوند نمی تواند درست باشد.
 
-This is how we know that fraud is wrong.
+اینگونه فهمیدیم که کلاهبرداری اشتباه است.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+مکررا، دانستن این که کلاهبرداری، "اشتباه" است به این معنی است که ما می دانیم که هر نظریه ی اخلاقیِ توجیه کننده کلاهبرداری نامعتبر است، زیرا این متناقض است. اگر ما یک پل بسازیم و پل فرو بریزد، می دانیم که پل "نادرست" ساخته شده است - اما مهمترین چیزی که ما می توانیم از این فاجعه یاد بگیریم، فرو ریختن نیست، و ساختن پل فروریخته شده باعث درک معایب این نظریه می شود. به همین ترتیب، نظریه های اخلاقی که باعث فاجعه می شوند، مانند کمونیسم، فاشیسم و نازیسم، برای ارزیابی نسبت به معیار UPB بسیار مهم هستند، نه تنها ما می توانیم بفهمیم که چگونه به اشتباه رفتند، بلکه یاد میگیریم چگونه نظریه های اخلاقی خود را در آینده اصلاح کنیم. از آنجایی که ما به عنوان گونه ای که، همیشه پل ها را ساخته ایم، ضروری است که حقایق و نظریه هایمان درست کنیم، یا اینکه آنها بی وقفه در اطراف ما سقوط کنند.
 
-However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
+با این وجود، این سوال باقی می ماند که آیا کلاهبرداری بد است یا فقط یک اقدام زیبایی گرایی منفی (ANA).
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability,” and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+کلاهبرداری در مقایسه با تجاوز، سرقت و قتل غیرمعمول است، و این امر مستلزم آن است که قربانی رفتار مثبتی در این روند از خود نشان دهد. من می توانم به پشت شما بپرم و بدون هیچ عکس العملی از سوی شما، شما را خفه کنم، اما من نمی توانم شما را فریب بدهم بدون اینکه شما تا حدودی مشارکت داشته باشید. بنابراین کلاهبرداری در محدوده «اجتناب پذیری» قرار دارد و بنابراین در دسته ای اساسا متفاوت از تجاوز، قتل و سرقت است. با این حال، میزان اجتناب پذیری تا حدودی میزان درجه غیراخلاقی بودن را تعیین می کند. ارسال اطلاعات بانک شما به اسپمر ایمیل نیجریه ای قطعا قابل اجتناب است؛ اما فریب خوردن توسط شرکت کسب و کار eBay با رتبه عالی، بسیار کمتر قابل اجتناب است.
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+ممکن است موقعیت های خاص کلاهبرداری وجود داشته باشد که اجتناب ناپذیر باشد، مانند «تبعیض» برای یک داروی شفابخش که این اتفاقات بسیار نادر هستند، این موضوع در «منطقه خاکستری» است که ما در بالا بحث کردیم - این وقایع بسیار نادر هستند که به اخلاق مداری می رسند احتمال اتفاق افتادن آن مانند احتمال جهش به گونه های زیستی است.
