@@ -32,7 +32,7 @@ Ang pagsisinungaling ay umaangkop din ng mas malapit sa kategorya ng *karahasan*
 
 Sa gayo'y makatarungan na tayo ay magsinungaling sa isang sinungaling, tulad ng makatarungang ipagtanggol natin ang ating sarili mula sa isang suntok ng isang suntok, ngunit hindi natin eksaktong rerespetuhin ang sobrang kakitiran ng isip sa "pagganti" sa isang taong atrasado sa pamamagitan ng pagpapakita ng mas huli pa.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Ang kaibahan ay ang "pagka-atrasado" ay hindi kasing aktibong nakakasira tulad ng pagsisinungaling. Ang atrasadong tao ay nakakainis, ngunit hindi pangunahing nakapagpapahina sa iyong kakayahan na iproseso ang realidad. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
 Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
 
