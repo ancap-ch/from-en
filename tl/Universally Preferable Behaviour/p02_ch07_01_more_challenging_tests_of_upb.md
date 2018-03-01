@@ -34,9 +34,9 @@ Ito ay isang nakakawili na pagtutol - gayunpaman, kung ang pasimulang pwersa ay 
 
 Kaya ito ay hindi mangyayari sa kahit anumang lohikal ng moral na teyorya na hindi tanggapin ang pagiging tamang moral sa pansariling-depensa.
 
-### Child Raising
+### Ang pagpapalaki sa anak
 
-Instinctively, we generally understand that there is something quite wrong with parents who do not feed their babies. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
+Ang katutubo, naiintindihan natin sa pangkalajatan na may isang gawain na hindi tama sa mga magulang na hindi napapakain ang kanilang mga supling. To conceive a child, carry a child to term, give birth to the child, and then leave it lying in its crib to starve to death, severely offends our sensibilities.
 
 Of course, our offence is in no way a moral argument, but it is an excellent starting place to test a moral theory.
 
