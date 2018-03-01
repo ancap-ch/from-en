@@ -38,12 +38,12 @@ Kapag ating inanalisa ang isang prinsipyo gaya ng WAP, meron lamang mga pitong p
 
 Gaya ng ating nakita sa itaas, gayonpaman, ang UPB ay isang "lahat o walang" balangkas. Kung ang isang aksyon ay *unibersal na kanais -nais*, kung gayon ito ay hindi nalilimitahan ng indibidwal, heograpiya, oras atbp. Kung mali na pumaslang sa Algiers, kung gayon mali rin na pumaslang sa Belgium, sa Estados Unidos, sa Polong Hilaga at sa buwan. Kung mali na pumaslang kahapon, kung gayon hindi pa rin tama na pumaslang bukas. Kung mali para kay Bob ang pumaslang, kung gayon mali pa rin para kay Doug ang pumaslang.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Pagsanibin ang WAP sa UPB, kung gayon ay pinapayagan tayong kayasin ang pitong pahayag tungo sa tatlo:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Unibersal na kanais-nais na pasimulan ang paggamit ng pwersa.
+2. Unibersal na kanais-nais na huwag pasimulan ang paggamit ng pwersa.
+3. Ang pagpapasimula ng paggamit ng pwersa ay hindi saklaw ng unibersal na pagnanais.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Ito ang natural na resulta ng paglalapat ng pangangailangan ng rasyonal na pagpapanatili tungo sa etikal na proposisyon. Ang isang rasyonal na teroya ay hindi balidong makapagpapanukala na ang magkasalungat na mga resulta ay mula sa parehas na pangyayari. Ang isang syentipikong teorya ay hindi makakapag-argumento na ang isang bato ay dapat bumagsak paibaba, subalit ang isang bato ay dapat bumagsak paitaas. Si Einstein ay hindi nag-argumento ng E=MC^2^ sa araw ng Huwebes, subalit E=MC^3^ sa araw ng Biyernes, o sa Mars, o tuwing asul na buwan. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
 
 However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
