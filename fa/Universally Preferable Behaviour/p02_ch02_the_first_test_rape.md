@@ -1,38 +1,38 @@
-## The First Test: Rape
+## تست اول: تجاوز
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+اگر چه موضوعی ناخوشایند برای بحث کردن است، تجاوز بدون تردید، اقدامی * حداقل * مبهم است که از هر نظریه ی اخلاقی باید بدان پرداخته شود. قتل برای دفاع از خود، دزدی بعلت مشکل گرسنگی یا "سرقت" می تواند پیچیده باشد؛ اما یک نفر هرگز در دفاع از خود نمی تواند تجاوز کند؛ با این تعاریف این خود آغاز خشونت است.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+اجازه بدهید از چارچوب یوپی بی جهت بررسی هماهنگی منطقی گزاره های اخلاقی در مورد تجاوز جنسی، با اشاره به این هفت طبقه اخلاقی، استفاده کنیم.
 
-### The Good
+### خوب
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+یک مثال باطل، تصور کنید که ما در حال بررسی یک نظریه اخلاقی هستیم که ادعا می کند که تجاوز یک عمل خیرِ اخلاقی است.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+واضح است که اگر ادعا کنم  "ایکس"، "خوب" است، مخالف"ایکس"باید بد باشد. اگر *تجاوز نکردن* خوب است، پس *تجاوز* باید بد باشد. برعکس، اگر *تجاوز* خوب است، پس *تجاوز نکردن* باید بد باشد.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+تجاوز به یک نفر یک اقدام مثبت است که باید آغاز شود، اجرا شود، و سپس تکمیل شود. اگر "تجاوز" یک عمل خیرِ اخلاقی است، پس "تجاوز نکردن" نباید یک شرارت اخلاقی باشد؛ بنابراین ممکن نیست که دو مرد در یک مکان و زمان یکسان باشند، و هر دو اخلاق مدار تلقی شوند؛ زیرا تنها یکی از آنها می تواند لحظه ای که موقعیت را بدست می آورد، یک متجاوز باشد ، و او تنها درصورتی می تواند یک متجاوز شود که مرد دیگر قربانی او گردد.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+آنچه که فضیلت پاکدامنی، پرهیزگاری، خوبی و غیره را ممکن میسازد نمیتواند بد باشد. به عنوان مثال، "آزادی" یک پیش شرط برای فضیلت است ، بدون آزادی، ما نمی توانیم فضیلت داشته باشیم ، بنابراین "آزادی" نمیتواند بد باشد؛ زیرا آن برای خوب بودن *لازم*  است
 
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
+اگر از لحاظ اخلاقی خوب است که یک آدم متجاوز باشد و یک آدم تنها می تواند از طریق حمله جنسی به یک قربانی متجاوز شود، اما قربانی باید مشخصاً از نظر اخلاقی خوب باشد و در برابر تجاوز جنسی مقاومت کند؛ زیرا اگر مقاومت نکند، با این عمل تجاوز نیست و بنابراین فضیلتی نیست. به عبارت دیگر، *حمله* فضیلتی است که فضیلت را * ایجاد می کند*. بنابراین ما یک پارادوکس بر طرف نشدنی داریم که در آن قربانی باید فضیلت را به منظور ایجاد فضیلت مورد حمله قرار دهد؛ او باید در برابر تجاوز جنسی به منظور ایجاد «فضیلت» در متجاوز، مقاومت کند. بدین ترتیب نه تنها قربانیِ تجاوز نمی تواند فضیلت داشته باشد، بلکه باید در برابر «فضیلت» مقاومت کند و به آن حمله کند تا آن را کسب کند.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+به این ترتیب از این قضیه نتیجه می شود که "تجاوز به عنف یک عمل اخلاقی است". به یاد داشته باشید، ما موافقت کردیم که یک نظریه عقلانی نمی تواند برای یک ایالت، دولت های مخالف پیشنهاد کند. همه چیزهای دیگر برابر است، یک سنگ نمی تواند در یک زمان هم به طرف بالا و هم به طرف پایین بیافتد و یک نظریه معتبر نمی تواند پیش بینی کند که یک سنگ سقوط خواهد کرد، در حالی که سنگ دیگری سقوط خواهد کرد.
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+به همین ترتیب، دو مرد در یک اتاق باید در یک موقعیت قرار بگیرند. تنها یکی از آنها می تواند خوب باشد، زیرا خوبی به عنوان تجاوز شناخته می شود و تنها یکی از آنها می تواند در هر زمان تجاوز کند، بنابراین ما یک تناقض منطقی داریم که نمی تواند حل شود.
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+همچنین، اگر ما به یاد بیاوریم که رفتار مطلوب جهانی باید مستقل از زمان باشد، ما نیز با یک مشکل منطقی مواجه هستیم که بدون در نظر گرفتن گرایش جسمی او، در برخی موارد، مهاجم به سادگی قادر به تجاوز به عنف نیست، زیرا او از لحاظ جسمی ممکن است قادر به نعوظ در آن لحظه نباشد. آن موقع، توانایی او برای انجام "عمل خوب" غیر ممکن می شود. از آنجا که "اجتناب ناپذیر بودن" یک معیار کلیدی برای اخلاق است، اما او از لحاظ جسمی نتوانسته است خوب باشد - به عبارت دیگر، او نمیتواند از شرارت جلوگیری کند؛ پس او نمیتواند مسئول تجاوز نکردن به مرد دیگر باشد.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+مردی که از یک درخت بالای یک کانیون آویزان می شود و سقوط می کند، چون او قدرت کمتری برای نگه داشتن خود دارد، ما آن را خودکشی نمی دانیم، زیرا انتخاب آویزان شدن دیگر برای او امکان پذیر نبود. اما اگر او با وجود اینکه قدرت لازم برای نگه داشتن خود را دارد و سقوط کند ، این مورد کاملاً واضح نیست.
 
-#### The Coma Test
+#### تست کما
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+بطورمحسوس،  تصور کردن اینکه هر تئوری که فساد غیر اخلاقی بودن را به مردی که در کما است نسبت می دهند معتبر باشد، دشوار است. هر تئوری اخلاقی که عمل مثبتی را به عنوان رفتار جهانی مطرح می کند با چالش «آزمون کما» مواجه می شود. اگر من می گویم که دادن صدقه، عمل مطلقاً اخلاقی است، پس به طور واضح ندادن صدقه، عمل غیر اخلاقی خواهد بود. با این حال، یک مرد که در کما است به وضوح مشخص است که قادر به دادن صدقه نیست، و بنابراین، توسط نظریه من، به عنوان عمل غیر اخلاقی طبقه بندی می گردد. به طور مشابه، مردی که در خواب است و یا هیچ پولی برای دادن ندارد - و یا مردی که صدقه *دریافت می کند* خیریه - همه آن ها غیر اخلاقی هستند.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+این یک مشکل اصلی دیگر با هر نظریه ای است که «اقدام مثبتی مانند "تجاوز" را به عنوان عمل اخلاقی» مطرح می کند. در هر زمان خاص، تعداد افرادی وجود دارد که قادر به انجام چنین اقدامات مثبت نیستند، که پس از آن باید محکوم به "بد" بودن شوند، هرچند که آنها قادر به انجام "خوب" نیستند. با این حال، اگر اجتناب از " شر " غیرممکن است، پس به وضوح شر به عنوان یک مفهوم هیچ معنی ندارد. برای مثال، سنگی از بالای یک تپه رها شده است، سنگ بخاطر ضربه زدن به ماشین شما "بد" نیست، زیرا قادر به اجتناب از اراده آزاد خود نیست. اگر ترمز مرد ماشین درست پس از تعمیر و سرویس عمل نکند، و نتواند متوقف شود، مسئولیتش با او نیست. اگر او در ده سال گذشته حتی برای یک بار ترمزهایش را تعمیر و سرویس نکرده، پس بی اعتنایی او دلیل اصلی حرکت مداوم خود است و می توان او را سرزنش کرد.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+به این ترتیب مفهوم "اجتناب ناپذیر بودن" استفاده از آن را حفظ می کند. مردی در کما قادر به اجتناب از دروغگویی در بسترش نیست، زیرا او در حالت شبه ناخودآگاه قرار دارد. از آنجایی که او قادر به اجتناب از اقدامات خود نیست ، بی اثر بودن در این مورد بی حرکتی اش نمی تواند غیر اخلاقی باشد.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+در این مرحله، اعتراض کاملا منطقی می تواند مطرح شود که اگر یک فرد در کما باشد نمی تواند فاسد و غیر اخلاقی باشد، و او همچنین نمی تواند اخلاق مدار باشد. با این حال، قبلا ما گفتیم که مخالفت با یک اقدام غیر اخلاقی باید اخلاق مدارانه باشد. اگر ما قوانین اخلاقی را پیشنهاد می دهیم، "شما نباید تجاوز نکنید"، پس ما می توانیم مردی که در کما است را *فاسد و غیراخلاقی* بخوانیم، بدلیل اینکه او تجاوز نمی کند؟
 
 #### Capacity
 
