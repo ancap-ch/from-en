@@ -22,9 +22,9 @@ Se eu não consigo decidir de que cor pinto a minha casa e a minha solução é 
 
 Se não creio que sou competente para tomar as minhas próprias decisões, então, claramente, a minha decisão de me submeter à violência *para o resto da minha vida* é uma decisão incompetente.
 
-Ou sou capaz de tomar decisões competentes, ou não sou. Se *sou* capaz de tomar decisões competentes, então submeter-me à força, para o resto da minha vida, é inválido. If I am *not* capable of making competent decisions, then my decision to subject myself to force for the rest of my life is also invalid.
+Ou sou capaz de tomar decisões competentes, ou não sou. Se *sou* capaz de tomar decisões competentes, então submeter-me à força, para o resto da minha vida, é inválido. Se eu *não*sou capaz de tomar decisões competentes, então a minha decisão de me submeter à força para o resto da minha vida também é inválida.
 
-Even if the above considerations are somehow bypassed, however, it is still impossible to justly enforce a social contract through a government. Clearly, I cannot sign a contract on *your* behalf, or on my children’s behalf, which will be binding upon you or them for the rest of time. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
+Mesmo que as considerações anteriores sejam de alguma forma ignoradas, no entanto, ainda é impossível aplicar, justamente, um contrato social através de um governo. Mesmo que as considerações anteriores sejam de alguma forma ignoradas, no entanto, ainda é impossível aplicar justamente um contrato social através de um governo. I cannot buy a car, send you the bill, and justly demand that you pay it. If I claim the power to impose unilateral contracts on you, UPB also grants *you* this power, and so you will just return the contract to me in my name.
 
 In the same way, even if I choose to pay my taxes voluntarily, I cannot justly impose that choice upon you, since a voluntary contract is a merely personal preference, and so cannot be universally enforced through violence.
 
