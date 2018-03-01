@@ -54,9 +54,9 @@ Ang pag-uumit, ay katulad nalang ng pinatunayan natin, na masamang gawain.
 
 Si Einstein ang nagbagong-ganap sa pisika ayon sa pag-angkin – at pagpapakita ng katibayan – na ang mabilis na liwanag ay maggagasing tulad.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Ang lahat ay puwedeng baguhing ganap ang ating mundo sa kaparaanang pagtanggap na pagkuha – at ang proweba – na pang-uumit ay parating nasa masasama.
 
-### UPB pamahalaan, at relihiyon,
+### Pamahalaan, relihiyon, at UPB
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
