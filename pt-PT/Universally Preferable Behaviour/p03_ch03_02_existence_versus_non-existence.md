@@ -32,7 +32,7 @@ De igual modo, mesmo que eu escolha pagar os meus impostos de forma voluntária,
 
 Toda essa questão torna-se ainda mais absurda quando avaliamos a "justificação" moral mais comum para o poder dos governos democráticos, que se baseia na "vontade da maioria"
 
-Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto que "maioria" é uma marca teórica para um grupo. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto que "maioria" é uma marca teórica para um grupo. A "maioria" não pode ter "vontade" mais do que um "coro em linha" pode "dar à luz". Se duvida disso, tente construir uma casa na árvore com o conceito de "floresta" em vez de com qualquer pedaço de madeira individual.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
