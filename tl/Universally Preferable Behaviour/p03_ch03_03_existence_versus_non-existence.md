@@ -66,7 +66,7 @@ Ang ihinahayag sa karamihan ng malimit na ginagamit para magbigay ng dahilan ang
 
 Kung sakaling ang lahat ay babalik sa bob at doug dito sa aming maliit na silid at mabuting pag-ekspermentohan, ang lahat maaaring tunay na mabilis makita ito ay magiging isang hindi kapanipaniwalang suliranin.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Kung Bob ay nagpapahayag sa Doug. "ako ngayon ay magpeprisinta sa mga kaalaman konsepto 'FUBAR,' at kung sakaling lubos na makatuwiran akong kumuha sa iyo na masnakagagaang kung ito ay magmumula sa iyo. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
 What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
