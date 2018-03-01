@@ -101,13 +101,13 @@ Ang pagtakas mula sa mga haka-hakang mga demonyo tungo sa mga protektadong mga k
 
 [^4]: Tingnan [Praktikal na Anarkiya](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Tingnan *[Pederal na Reserba](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Isang perpektong balanse ng mabuti at masama ay praktikal na imposible.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Ito ang mga kasalukuyang sitwasyon sa mga demokrasya, stempre.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Tingnan ang *Repubilka* ni Plato.
 
 [^9]: Probably more, since evil people are always drawn to power.
 
