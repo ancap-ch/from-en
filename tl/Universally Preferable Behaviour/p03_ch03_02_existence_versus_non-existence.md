@@ -85,9 +85,9 @@ Ang parehas na pananaw ay umuusbong mula sa parehas na kamaliang binalangkas sa 
 
 Ang tanging paraan upang ang mga sosyal na institusyon ay lumago bilang mga marahas na monopolyo ay *ang pag-alis ng halaga ng pagpapatupad sa kanilang mga biktima*. Ang pamahalaan ay walang katapusang lumalago dahil kaya nilang bayaran ang mga kolektor ng buwis ng bahagi ng buwis na kanilang nakokolekta. Ang mga alipin ay sapilitang pinagbabayad ng halaga ng kanilang pagkalipin.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Sa isang boluntaryong lipunan, ay walang pagbubuwis, samakatuwid anumang grupo na nagnanais na magkamit ng monopolistikong kapangyarihan ay kailangang pondohan ang sarili nilang hukbo, na hindi magiging ekonomikal na magagawa at hindi kapaki-pakinabang.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Napakahirap na unawain ang lohika at intelehensya ng argumento na, upang maprotektahan tayo sa grupo na *maaaring* tumalo sa atin, ating dapat suportahan ang grupo na *tinalo* na tayo. Ito ay nahahawig sa makaestadong argumento tungkol sa mga pribadong monopolyo - na ang mga mamamayan ay dapat gumawa ng pampamahalaang monopolyo dahil sila ay takot sa mga pribadong monopolyo. It does not take keen vision to see through such nonsense.
 
 What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
