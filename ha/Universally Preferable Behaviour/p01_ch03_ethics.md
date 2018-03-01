@@ -1,30 +1,30 @@
-## Ethics
+## Da’a
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Tunda da’a darasi ne da muka san meya kunsa, zai yiwu mu fitar da mahimmancin dake tsakanin *ilhamin* da’a da *gaskiyar* da’a.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Dan-wasan kollon hannu na iya kama kollon da ke iska ko da bai san komai akan lissafin kimiya ba. Haka kuma, zamu iya gane hali mara kyau ko bamu san komai akan da’a ba.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Idan na kama kollo a iska, to inda ilhamin *ji* na yana yin da kollon ke tashi.  Ilhami na na fahimtar, koda yake, bani da ikon harba jirgin sarari a daidai har da zai kai kewayewan jufita. Ina da “kankanin yarda” – akan yanda kwalloon ke tafiiya—amma wannan bashi ke bani ikon sanin yadda al’amari ke wakana.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+A haka kuma, sauyin halayya mu akan aiki kamar fyade da kisan kai basa zama gaskiya, amma basu bamu ikon kikiran ko inganta lokacin da zurfin tunani a ka’idojin halayya.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth,” which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Idan na ce ka’idojin kimiya dake yakan ikon dan-kwallon hannu ya kama kollon dake tafiiya a iska, to ina da  ikon  kin  warkar da gasar  yin bayanin yadda dan wasan *ke* kama kwallon. Haka, idan manyan ka’idoji na basu iya fadin lankwasar da kwallon ke tashi, to ina da “’kwak-kwaran gaskiya” wanda ke yakar “karamar gaskiya” ta gane yadda ake kwarewa, duk ka’idar da ke yakar irin wannan kwarewan bada zama daidai.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+A wani bayani kuma, hankalin ke tada dabarun—sannan dabarun basu iyaa yakar hujjojin hankalin. Shaida na gaban bayani.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+A wani yanayi irin wannan, duk ingantacciyar ka’idar da’a ya kamata suyi bayani da bada shaida akan sauyin mu kan ta’addacci kamar su kisa da fyade. Baa zai ki yardan duniuya kkan hana mutane ba, amma dole ya sasu daidai kuma yayi bayanin su.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value.
+Duk da yake, kamar yadda kimiyar lissafin Einsteinian ya nuna gaskiya mai al-ajabi—kai, da bai zama abu muhimmi ba in gaskiyar *ba* abun mamaki bane—ka’idojin da’a sun bamu abun da yafi kima a yayin dda suke bayana gaskiya—bugu, duk. Dukk da yake, ka’idojin da’a basu bayyana gaskiya me ban mamaki kaman kawai ace ilhammin fiko, da kima yar kadan.
 
-### The Discipline Of Theoretical Ethics
+### Horon ka’idan Da’a
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Idan nace wani abu nada “halin kirki” –a wani wurrin, idan na kirkiri ka’idar da’a –toh karara ina nufin mutane *su* karkata zuwa wani al’amari, ko su *kiyaye* bin wani al’amari.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Idan nace ma da na ya zamo dan-kwallon hannu kawai saboda ina son yayi hakan, bana kan tafarkin da duniya ta tanadar kan tarbiya, amma ra’ayin kaina. Bashi da *tarbiya* idan ya zama dan-kwallon hannu haka ba bashi da tarbiya* in yaki yin hakan.
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
+Hakaa  kuma, idan nace  mai *tarbiya* ne bin abun da ubanka yace ma, sannan *rashin tarbiya* suki bin maganan iyayen su,  ana ina fadin abun da duniya ta yarda dashi, sama da abun da nake so—ina kokarin juya “karamar  gaskiya” (*ina son ka zama dan kwallon hannu*) zuwa *kwakwarran gaskiya* (* rashin tarbiya ne yara suki ma iyayen  su da’a*). *Idan* yana son yin da’a, sai *dole* ya zama dan kwallon hannu—ba don yin kwallon hannu abu ne mai kyau ba, amma saboda yima iyaye biyayya da’a ne.
 
-When I speak of a universal preference, I am really defining what is *objectively required*, or *necessary*, assuming a particular goal. *If* I want to live, I do not have to like jazz, but I *must* eat. “Eating” remains a preference – I do not *have* to eat, in the same way that I have to obey gravity – but “eating” is a universal, objective, and *binding* requirement for staying alive, since it relies on biological facts that cannot be wished away.
+Idan ina maganan fifikon duniya ne, lallai ina bayani * rarrabewa da ake bukata*, ko ya *kamata*, a wurin nema wata sa’a. *idan* ina son rayuwa, ba dole sai naso jazz ba, amma *dole* naci abinci. “cin abinci” yana da fifiko – ba dole *sai* naci abinci ba, kamar yadda sai nayi biyayya ga nauyi – amma “cin abinci” duk duniya ne, rarrabewa, da *hadewa* na bukatar zama a raye, tunda ya dogara ne akan nazarin halittu ba abun so ba.
 
 Ethics as a discipline can be defined as any theory regarding preferable human behaviour that is universal, objective, consistent – and binding. Naturally, preferential behaviour can only be binding if the goal is desired. If I say that it is *preferable* for human beings to exercise and eat well, I am not saying that human beings *must not* sit on the couch and eat potato chips. What I am saying is that *if* you want to be healthy, you *should* exercise and eat well.
 
