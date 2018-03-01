@@ -52,7 +52,7 @@ Kawili-wiling, kung sakaling ang isang lalaki ay magkaroon ng pagkakautang sa ak
 
 Ang pag-uumit, ay katulad nalang ng pinatunayan natin, na masamang gawain.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Si Einstein ang nagbagong-ganap sa pisika ayon sa pag-angkin – at pagpapakita ng katibayan – na ang mabilis na liwanag ay maggagasing tulad.
 
 We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
 
