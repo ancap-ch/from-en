@@ -48,7 +48,7 @@ Ngayon, ngayon kung ako ay papadpad patungo sa iyong tahanan ngayong gabi na nak
 
 Kapag ako ay hindi nakabayad sa lalaki na papadpad dito para kuhain ang aking salapi, siya ay maaring magpakita sa akin ng kanyang baril, at itutok sa aking dibdib, maging ako ay kuhain – o kaya ako ay barilin kung sakaling ako ay lalaban na laban sa kanya. Siya ay puwede akong hawakan sa isang maliit na piitan para sa ngayong taon pakatapos ng taon, saanman ako maging sa nasasakupan ko ay ang napakarahas na kalupitan at walang tigil manggahasa, hanggang sa mapili niya upang pahintulutan akong pumaroon.
 
-Kawili-wiling, kung sakaling ang isang lalaki ay magkaroon ng pagkakautang sa akin na salapi, hindi ko magagawang siya ay kunin at iparanas sa kanya ang pagpapahirap at gahasain siya bawat taon. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Kawili-wiling, kung sakaling ang isang lalaki ay magkaroon ng pagkakautang sa akin na salapi, hindi ko magagawang siya ay kunin at iparanas sa kanya ang pagpapahirap at gahasain siya bawat taon. Kaya pagbibigay-buwis ang talagang sumusuway sa UPB bumabalangkas, dahil sa ito ay malupit na pagsalin ng mga nasasakupan gamit ang pagtanggap kasapi ng bagong lakas.
 
 Stealing, as we have proven, is evil.
 
