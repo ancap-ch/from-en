@@ -8,9 +8,9 @@ Hindi nito ibig sabihin na ilang kagulat-gulat - kahit nakakabiglang - mga konkl
 
 Habang nasasaisip iyan, tayo ng magtungo sa tanong ng *pagsisimula*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Ang isang surdyon ay maaari kang "saksakin: ng isang iskalpel, subalit madali nating nauunawaan na ang pagkilos na ito ay sobrang naiiba mula sa isang mandurukot na sinaksak ka gamit ang kutsilyo.
 
-This difference can be understood through a further analysis of *initiation*.
+Ang pagkakaibang ito ay mauunawaan sa pamamagitan ng karagdagang pag-aanalisa ng *pagsisimula*.
 
 If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
