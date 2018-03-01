@@ -8,7 +8,7 @@ O "argumento da practicidade" não resolve, de forma alguma, o problema da viol�
 
 Portanto, dizer que o governo está justificado ao forçar-nos a tornar-nos mais "práticos" é completamente falso, o que se pode verificar pela estrutura do CUP - mesmo que assumamos que as soluções governamentais são mais "práticas", o que na verdade, não são.
 
-Also, if government representatives claim that a social contract allows them to force an “impractical” population to behave more “practically,” an insurmountable contradiction is created.
+Além disso, se os representantes do governo afirmam que um contrato social lhes permite forçar uma população "pouco prática" a comportar-se mais "praticamente", cria-se uma contradição insuperável.
 
 If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
 
