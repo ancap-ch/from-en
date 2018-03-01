@@ -46,7 +46,7 @@ Kaya naman kapag namin ang mga kalagayan ng binawasan na responsibilidad, hindi 
 
 Kung ako ay nagkusang-loob na pumasaok sa kontrata kasama ka na kung saan ipinapangako ko na babayaran ko ang iyong bayarin sa loob ng isang taon, ako hindi pipirma ang sarili ko para maging alipin, ngunit sigurado na nakamit ko ang positibong obligasyon na ngayon ako ang may responsibilidad.
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+Kung ako ay tatakbo bilang isang nursing home, at kukuhain ko ang mga pasyente na hindi kayang pakain ang sarili, tsaka kung hindi ko pinakain ang mga pasyente, ako ay may pananagutan sa kanilang pagkamatay. Walang ni isang tao ang *nagtulak* sa aking na dalhin itong ang mga pasyente, ngunit sa sandaling sinabi ko na ang isang kagustuhan at isang papayag na alagaan sila, at kung gayon ako ay may pananagutan para sa kanilang patuloy na paggaling.
 
 In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
 
