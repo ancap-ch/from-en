@@ -109,8 +109,8 @@ Ang pagtakas mula sa mga haka-hakang mga demonyo tungo sa mga protektadong mga k
 
 [^8]: Tingnan ang *Repubilka* ni Plato.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Maaaring higit pa, yamang ang mga masasamang tao ay palaging na naaakit sa kapangyarihan.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para sa mas detalyadong pag-uusap ng tungkulin na ginagampanan ng mga *magulang* sa pagtatanim ng pantasya na kapangyarihan katumbas ng kabutihan," tingnan [Sa Katotohanan](http://wiki.mises.org/wiki/On_Truth).
 
 [^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
