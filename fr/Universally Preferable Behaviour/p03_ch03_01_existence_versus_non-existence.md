@@ -50,51 +50,51 @@ What we call “the government” is merely another example of this *null zone* 
 
 Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
-### Government
+### Le gouvernement
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+En disant que le gouvernement fonctionne en sous-face de règles morales du reste de la société est exactement la même chose que de dire, “les lutins sont à l'abri de la gravité.” Tout d'abord, les lutins n'existent pas – et l'une des façons dont nous savons qu'elles n'existent pas, c'est qu'il est allégué qu'ils sont insensibles à la gravité. Tout ce qui a une masse est soumise à la gravité, ce qui n'est à l'abri de la gravité, par définition, n'ont pas de masse, et par conséquent n'existe pas. L'énoncé “les lutins sont à l'abri de la gravité” est une tautologie, ce qui confirme la non-existence des lutins – c'est l'équivalent sémantique de “ce qui n'existe pas, n'existe pas.” Un est Un, Aristote première loi de la logique, n'a que peu de confirmer l'existence de ce qui est défini comme la non-existence.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+De la même manière, lorsque nous disons qu'il est moralement bon pour les soldats de meurtre et de représentants du gouvernement de voler, nous savons que des “soldats” et “les représentants du gouvernement” comme des catégories morales sont *complètement invalide*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Si je dis qu'un carré cercle a le droit de voler, je suis simplement en disant que ce qui ne peut pas exister a le droit de faire ce qui est auto-contradictoire, – purement absurde de la déclaration, mais qui reste étrangement convaincant dans le “nul”, la zone de la politique.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Si j'achète un soldat en costume dans un magasin de seconde main, et le mettre sur, clairement je n'ai pas créé un univers alternatif dans lequel l'opposé des règles morales peuvent être valide. L'instant d'avant j'ai mis mon costume, c'était mauvais pour moi de meurtre – quand est-il devenu *droit* de m'assassiner? Quand je l'ai mis sur le pantalon? Que faire si j'ai le pantalon sur, mais pas la veste? Que faire si je n'ai qu'un boot sur? Si les deux bottes sont sur, mais un seul est lacé? Que faire si mon chapeau est à l'envers? Que faire si j'ai mis un uniforme qui n'est pas reconnue par la première personne que je rencontre? Ne les Beatles soudain, possèdent le droit de meurtre quand ils ont tiré la couverture de “Sergent Peppers”? Ont-ils perdu ce droit quand ils ont enlevé leurs vestes?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Je pose ces questions rhétoriques, car ils sont en fait très sérieux. Clairement, un costume militaire ne change pas la nature d'un être humain, pas plus qu'une coupe de cheveux se transforme en un canard, un concept, ou un dieu.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah,” vous pouvez dire, “mais le costume n'est pas valide parce que vous l'avez obtenu dans un magasin de seconde main – mise sur l'uniforme du soldat, pas plus le fait de vous un soldat de la photocopie d'un doctorat vous donne un doctor”
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+L'analogie est incorrect, car le fait d'avoir un doctor ou la photocopie d'un doctorat ne pas modifier les règles de morale que vous êtes soumis à un être humain.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“Eh bien,” vous pouvez répondre, “mais la différence est que le soldat possède les droits moraux qui sont fournis par le citoyen moyen, pour des raisons de légitime défense collective et ainsi de suite.”
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Cela soulève un point très intéressant, qui est la question de savoir si les opinions peuvent changer la réalité.
 
-### Opinions And Reality
+### Les Opinions Et La Réalité
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Clairement, nous comprenons que je ne suis pas à travers mon avis, vous libérer de la contrainte de la gravité, pas plus que de mon avis que “deux plus deux égalent cinq” la rend vraie.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+“Opinions” sont ces croyances qui n'ont pas de preuve claire de la réalité, ou pour laquelle aucune preuve claire peut être fourni, ou qui sont des expressions de se contenter de préférences personnelles. Mon opinion personnelle est que je préfère le chocolat crème glacée à la vanille – je risque aussi d'avoir une “opinion” que l'Islande est un paradis tropical, ou que Dieu existe, ou que la pluie tombe vers le haut. Les opinions personnelles ont clairement rien à voir avec la morale; les opinions qui prétendent décrire fidèlement la réalité, mais qui ne le font pas sont simplement incorrects préjugés. Croire que la pluie tombe vers le haut ne pas inverser son cours; vêtue d'une chemise Hawaïenne à l'Islande ne fait pas de Reykjavik, tout chaud.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Donc croire que le meurtre est moralement bon de ne pas faire assassiner moralement bon. Depuis mes croyances au sujet d'un être humain ne change pas sa nature morale, ma conviction que ses meurtres sont vertueux ne change pas la vertu de ses actions. Si je ferme les yeux et imaginez que vous êtes un lézard, vous n'avez pas soudainement perdre votre capacité à réguler votre température corporelle. En imaginant que vous êtes un poisson ne pas ignorer vos besoin pour l'équipement de plongée.
 
-Opinions do not change reality.
+Les Opinions ne changent pas la réalité.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Parce que les opinions ne changent pas la réalité, je ne peux pas vous accorder toute exception ou de reprise en ce qui concerne une morale universelle règle. Depuis les règles morales sont basés sur la logique universelle, ainsi que de la nature physique et la réalité d'un être humain, je ne peux pas vous accorder le droit de “meurtre”, pas plus que je peut vous donner la capacité de léviter, de marcher sur l'eau ou de précision dire que deux et deux font cinq.
 
-### Government As Voluntarism
+### Le Gouvernement Comme Le Bénévolat
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+L'ouvrir de force impliqués dans l'institution du gouvernement – le conceptuel wrapper qui renverse les règles morales pour un groupe particulier d'individus – est quelque chose qui est toujours rester hors de la table dans les débats. Quand on parle de gouvernement, il n'est jamais considéré comme quelque chose de positif à souligner “l'arme à feu dans la chambre.” Presque par définition, les gouvernements sont considérés comme pour être choisi par le peuple et pour le peuple, et de fonctionner avec leurs expresse ou implicite approbation.
 
-However, this is pure nonsense.
+Cependant, c'est un pur non-sens.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Si un homme est titulaire d'un couteau, d'une femme à la gorge tout en ayant des relations sexuelles avec elle, qui est, par définition, un acte de viol. Il ne peut pas dire que le sexe est consensuel, tandis que dans le même temps, la menaçant avec des blessures ou la mort si elle refuse d'avoir des relations sexuelles avec lui. Si le sexe est volontaire, alors que le couteau est complètement inutile. Si l'homme ressent le besoin d'un couteau, il est clair que le sexe n'est *pas* une base volontaire.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+De la même manière, les gens disent que la fiscalité est la partie du contrat social qu'ils ont volontairement accepté de.
 
-This is both logically and empirically false.
+C'est à la fois logiquement et empiriquement faux.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Nous savons qu'il est empiriquement faux car *pas de contrat social existe*. Ni vous ni moi ne *jamais* signé un document volontairement de consentir à l'impôt sur le revenu – nous avons été tout simplement né dans un système qui prend notre argent de nous au point d'une arme à feu.
 
 ### The Gun In The Room
 
