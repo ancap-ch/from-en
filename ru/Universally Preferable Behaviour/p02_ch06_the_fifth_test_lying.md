@@ -1,39 +1,40 @@
-## The Fifth Test: Lying
+## Пятый тест: Ложь
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Вопрос дачи ложных сведений довольно интересный, поскольку обычно считается, что говорить правду универсально предпочтительно, но при этом не принуждается через насилие.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Обычно считается, что это более строгое требование, чем “приходить вовремя”, но менее строгое, чем “красть”. Что говорят об этом базовые положения УПП?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Естественно, любая моральная теория, предлагающая, что “лгать это хорошо”, немедленно самоподрывается, поскольку если человек, предлагающий это, лжет, что есть хорошо, тогда лгать плохо, потому что он сказал правду о том, что лгать плохо.
 
-For instance:
+Например:
 
-**Bob:** Lying is always good.
+Боб: Лгать всегда хорошо.
 
-**Doug:** Are you lying?
+Даг: Ты лжешь?
 
-**Bob:** Yes.
+Да: Да.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+Даг: Значит лгать должно быть плохо, потому что лжешь, что это хорошо.
 
-Or:
+Или:
 
-**Bob:** Lying is always good.
+Боб: Лгать всегда хорошо.
 
-**Doug:** Are you lying?
+Даг: Ты лжешь?
 
-**Bob:**Нет.
+Нет: Нет.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+Даг: Тогда лгать не всегда хорошо, потому что ты говоришь правду о том, что лгать хорошо.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Однако ложь не требует применения силы, поэтому она не нарушает возможности избежания. Поскольку лжецов можно избегать, то логически их не получится провоцировать.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Ложь также больше относится к категории насилия, так как вполне морально лгать для самозащиты, как и морально применять насилие для самозащиты. Трудно представить себе ситуацию, когда кому-то приходится “быть поздним” при самозащите, или “быть грубым”. Однако, если в ваш дом вламывается человек и требует сказать, где находится ваша любимая жена для того чтобы избить ее, было бы удивительно, если вы откажетесь солгать ему. Ложь в этом случае будет формой самозащиты третьего лица, и так же морально приемлемой как и применение насилия при самозащите. Подобным образом, если человек получает сто долларов от нас путем обмана, мы вправе солгать ему чтобы вернуть деньги обратно.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Таким образом, мы можем вполне законно солгать лжецу, так же как и вправе защищаться от удара кулаком ответным ударом, но мы не будем мелочиться, пытаясь отплатить любящему опаздывать человеку, явившись к нему даже еще позже.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Разница заключается в том, что “опаздывать” не настолько деструктивно как лгать.
+Вечно опаздывающий человек раздражает, но не подрывает фундаментально вашу способность обрабатывать реальность. Одно дело, что я прихожу на собрание, назначенное на семь утра, на час позже, и совсем другое дело пытаться убедить вас, что на самом деле мы назначили собрание на восемь утра, когда я знаю, что это не так.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Посягательство на вашу уверенность в вашем уме1 намного более вопиюще, чем просто заставлять вас ждать, так как это акт использования доверия к вам другого для того чтобы пошатнуть его доверие к самому себе, что крайне губительно, поскольку используется ценность для того чтобы поставить под сомнение другую ценность, подобно фальсификации. Вот таким образом УПП обосновывает нелогичность предложения “лгать хорошо” и подтверждает то, что акт лжи в отношении кого-либо хуже, чем “опаздывать”, но лучше чем “посягательство”.
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Иногда называется “газовое освещение”, в честь старого фильма.
