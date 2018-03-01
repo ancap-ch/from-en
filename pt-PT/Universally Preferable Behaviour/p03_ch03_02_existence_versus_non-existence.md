@@ -10,9 +10,9 @@ Portanto, dizer que o governo está justificado ao forçar-nos a tornar-nos mais
 
 Além disso, se os representantes do governo afirmam que um contrato social lhes permite forçar uma população "pouco prática" a comportar-se mais "praticamente", cria-se uma contradição insuperável.
 
-If I force a woman to marry a man I have chosen for her, then clearly I believe that I have infinitely better judgement about the suitability of a husband for her than she does. In fact, I do not believe that she is open to reason at all, or has any clue about her own self-interest, because I am taking *no* account of her preferences, but am forcing her to marry a man of my choosing.
+Se eu forçar uma mulher a casar com um homem que escolhi para ela, claramente, estarei a acreditar que tenho um juízo, infinitamente, melhor do que o dela sobre o que é um marido adequado. Na verdade, eu não acredito que ela esteja aberta a qualquer razão, ou que tenha alguma ideia sobre o seu próprio interesse, porque *não* estou a tomar em conta as suas preferências, mas sim a obrigá-la a casar-se com um homem da minha escolha.
 
-When I force this woman to get married, I can only justify the use of force – even on immediate, pragmatic grounds – by claiming that she is mentally unfit to make her own choices with regards to marriage.
+Quando obrigo esta mulher a se casar, só posso justificar o uso da força - mesmo por motivos imediatos e pragmáticos - alegando que ela é mentalmente incapaz de fazer as suas próprias escolhas, em relação ao casamento.
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
