@@ -26,17 +26,17 @@ Sa kabilang banda, kung ako ay mananatili sa bahay tuwing gabi, ako ay hindi uma
 
 Isang moral na tuntunin ang kadalasang iminimungkahi na tinatawag na *walang-agreyon na prinsipyo*, o WAP. Ito ay tinatawag bilang isang "porkupayn pasipist," ayon alam na ginagamit lamang ng pokupayn ang kayang "pwersa" bilang pagtatanggol sa sarili. Ang WAP ay ang pangunahing proposisyon na " ang pagsisimula ng pgaggamit ng pwersa ay moral na mali." O, upang mas ilagay sa termino ng ating pag-uusap: "Ang hindi pagsisimula ng pwersa ay unibersal na kanais-nais".
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Kapag ating inanalisa ang isang prinsipyo gaya ng WAP, meron lamang mga pitong posibilidad: tatlo sa negatibo, tatlo sa positibo, at isa nyutral:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Ang pagsisimula ng paggamit ng pwersa ay tuwinang moral na mali.
+- Ang pagsisimula ng paggamit ng pwersa ay minsan moral na mali.
+- Ang pagsisimula ng paggamit ng pwersa ay hindi kailanman moral na mali.
+- Ang pagsisimula ng paggamti ng pwersa ay walang moral na nilalaman.
+- Ang pagsisimula ng paggamit ng pwersa ay hindi kailanman moral na tama.
+- Ang pagsisimula ng paggamit ng pwersa ay minsan moral na tama.
+- Ang pagsisimula ng paggamit ng pwersa ay tuwinang moral na tama.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Gaya ng ating nakita sa itaas, gayonpaman, ang UPB ay isang "lahat o walang" balangkas. Kung ang isang aksyon ay *unibersal na kanais -nais*, kung gayon ito ay hindi nalilimitahan ng indibidwal, heograpiya, oras atbp. Kung mali na pumaslang sa Algiers, kung gayon mali rin na pumaslang sa Belgium, sa Estados Unidos, sa Polong Hilaga at sa buwan. Kung mali na pumaslang kahapon, kung gayon hindi pa rin tama na pumaslang bukas. Kung mali para kay Bob ang pumaslang, kung gayon mali pa rin para kay Doug ang pumaslang.
 
 Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
 
