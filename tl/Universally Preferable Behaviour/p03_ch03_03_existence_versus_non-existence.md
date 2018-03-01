@@ -16,7 +16,7 @@ Ang ating pansariling pagmamataas ay ang katutubong naghihimagsik laban sa isang
 
 Ang ating ninanais upang maging mabuti – napagsamang pangingilig ng kabutihan na nakakamit natin sa pamamagitan ng pagsunod sa mabuting mga alamat – kami ay humahanay para handang magbahagi kayamanang higit sa mga iyon ang umaangkin na kumakatawan ito sa mga alamat.
 
-Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *ang lahat ay may-alam na marami sa mga tao ang desperadong nais na maging mahusay dahilan sa sila ay napakadaling kontrolin sa pamamagitan ng mabuti mga palagay*.
+Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa. *alam ng lahat na marami sa mga tao ang desperadoong nais na maging mahusay na dahilan sila ay napakadaling kontrolin sa pamamagitan ng mabuti mga palagay*.
 
 Ang katwiran ng pagka masunurin sa mga alamat ay malinaw na isang hanagal. Kung ang isang pari ay nagsabi sa akin ng marapat kong sundin ang "diyos," ito ay tamang magkatulad sa pamamagitan niya taga sabi sa akin na marapat kong sundin ang isang nilikha na tinawag "sinsel." kahit na kung ako ay tanggapin na itong naisasaisip na ang entidad ay nararapat ng walang katapusang pagsunod, dito padin ay walang daan na para mamilit sa akin upang tumugon *ang pari*. Sakaling banggitin ko sa iyo na "sunurin mo ang iyong kalooban," puwede ko bang ikatuwirang banggitin: "at *ako'y magisang* nag nagpapahayag sa iyong kalooban"?
 
