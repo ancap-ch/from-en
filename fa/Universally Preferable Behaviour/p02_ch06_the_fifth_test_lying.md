@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## تست پنجم: دروغ گفتن
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+پرسش در مورد * دروغ گفتن * جالب است چرا که گفتن حقیقت به طور کلی عامه پسند است، در حالیکه با خشونت قابل عملی نیست.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+این شرایط به طور کلی سختگیرانه تر از "وقت شناس بودن" است، اما میزان سختگیری برای آن * کمتر * از "سرقت" است. قانون UPB در این مورد چه می گوید؟
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+طبیعتا هر تئوریِ اخلاقی که پیشنهاد می کند "دروغگویی خوب است" بلافاصله خودش را نقض می کند، زیرا اگر کسی که آن را پیشنهاد می کند در حال دروغ گفتن * باشد * - که دروغ خوب است – پس دروغ گفتن بد است، زیرا او حقیقت را گفته است که دروغ بد است.
 
-For instance:
+برای مثال:
 
-**Bob:** Lying is always good.
+**باب**: دروغ همیشه خوب است.
 
-**Doug:** Are you lying?
+**داگ** : دروغ می گویی؟
 
-**Bob:** Yes.
+**.باب** : بله
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**داگ** : بنابراین دروغ گفتن باید بد باشد، زیرا شما دروغ می گویید که خوب است.
 
-Or:
+یا:
 
-**Bob:** Lying is always good.
+**باب** : دروغ همیشه خوب است.
 
-**Doug:** Are you lying?
+**داگ** : دروغ می گویی؟
 
-**Bob:** No.
+**.باب** : نه
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**داگ** : بنابراین دروغ گفتن همیشه خوب نیست، زیرا شما در مورد بد بودن دروغ گفتن، حقیقت را می گویید.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+با این حال، برای دروغ گفتن نیازی به متوسل شدن به زورگویی نیست، و از این رو احتمال  اجتناب را نقض نمی کند. منطقا نمی توان در مقابل دروغگوها مقاومت کرد بنابراین آنها ترک می شوند.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+دروغ گفتن نیز بیشتر در رده * خشونت * قرار دارد، تا زمانی یک عمل اخلاقی است که شخص در دفاع از خود دروغ بگوید، درست همانطور که استفاده از خشونت در دفاع از خود یک عمل اخلاقی است، در وضعیت مشابه فرض کردن اینکه یک شخص در دفاع از خود "وقت شناس نبوده و دیر کرده است" و یا اینکه "بی ادب بوده است" سخت است. با این حال، اگر مردی وارد خانه شما شود و خواستار دانستن جای همسر عزیز شما شود تا او را به دام بیندازد، به نظر می رسد که او وانمود به راست گفتن می کند تا مانع دروغ گفتن شما به او شود. در این مورد دروغ گرفتن به او می تواند یک فرم دفاع از شخص ثالث باشد و از لحاظ اخلاقی همانند استفاده از خشونت در دفاع از خود قابل قبول است. به طور مشابه، اگر کسی با دروغ گویی یک صد دلار از ما بگیرد، عادلانه است که برای برگرداندن پولمان به او دروغ بگوییم.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+بنابراین ما ممکن است به یک دروغگو دروغ بگوییم، درست همانطور که می توانیم در برابر مشت، با مشت از خود دفاع کنیم ، اما ما به تشدید ناپذیری بازپرداخت یک فرد بدقول با دیدار با او و گوشزد کردن به او هر بار که تاخیر کند احترام نمی گذاریم.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+تفاوت این است که "دیرکردن" همانند دروغ گفتن مخرب نیست. فرد بدقول آزار دهنده است، اما اساسا ذهن شما را برای پردازش واقعیت تضعیف نمی کند. این یک چیز است، که من یک ساعت دیرتر برای جلسه ای که ساعت هفت صبح دارم حاضر شوم -  و این چیز دیگری است که تلاش کنم تا شما را متقاعد کنم که ما در واقع جلسات را برای ساعت هشت صبح برنامه ریزی کرده بودیم، درحالیکه می دانم اینطور نیست.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+حمله به اعتماد به نفس خود در ذهن خویش [^ 5] بسیار بزرگتر تر از آنچه است که صرفا به شما صبر دهد، زیرا این عمل استفاده از اعتماد دیگران به شما برای تضعیف اعتمادشان به خودشان است، که بسیار نادرست است، زیرا * استفاده * یک ارزش برای تضعیف یک ارزش، مانند کلاهبرداری است. این همان چیزی است که UPB معتقد به تخطی از گزاره "دروغ گفتن خوب است" است و تایید می کند که عمل دروغ گفتن به کسی بدتر از "وقت شناس نبودن" است، اما بهتر از "تجاوز" است.
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^ 5]: بعضی اوقات پس از فیلم قدیمی "روشنایی گاز" نامیده می شود.

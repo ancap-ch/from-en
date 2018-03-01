@@ -20,72 +20,72 @@
 
  بعنوان مثال : همه چیز در معرض قوانین فیزیکی است و هر چیزی که زندگی می کند در معرض نیازهای خاص است و بنابراین اگر آن زنده باشد ، رفتارهای مطلوب جهانی را دنبال کرده است . برای مثال زنده بودن نیازمند سوخت و اکسیژن است . البته هر ذهن زنده ای یک بخش ارگانیک از دنیای فیزیکی است و بنابراین در معرض قوانین فیزیکی است و باید رفتارهای مطلوب جهانی را دنبال کرده باشد . بحث کردن به غیر از این نیاز مند شواهد و مدارکی است که طبق آن هوشیاری متشکل از ماده نیست و یک ارگانیک نیست . یک عدم امکان این است که آن جرم، ارزش و زندگی دارد . بحث کردن درباره اینکه هوشیاری نه در معرض قوانین فیزیکی و نه رفتارهای مطلوب جهانی است مانند این است که بگوییم .انسانها به جاذبه زمین ایمن هستند و می توانند بدون غذا رشد کنند
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+به همین جهت غیر ممکن است که فردی بتواند بر خلاف رفتار مطلوب جهانی بحث منطقی کند . چون اگر او زنده است تا بحث کند او باید رفتارهای مطلوب جهانی مانند نفس کشیدن ، خوردن و نوشیدن را دنبال کرده باشد .
 
-Syllogistically, this is:
+ :بطور انحصاری
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. همه موجودات زنده نیازمند رفتار مطلوب جهانی هستند تا زنده بمانند .
+2. انسان یک موجود زنده است .
+3. بنابراین همه موجودات زنده به دلیل انجام رفتار مطلوب جهانی زنده هستند .
+4. بنابراین هر گونه بحث برخلاف رفتار مطلوب جهانی نیازمند یک پذیرش و انجام رفتار مطلوب جهانی است .
+5. بنابراین هیچ بحثی برخلاف وجود رفتار مطلوب جهانی نمی تواند معتبر باشد .
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+چون روش علمی نیازمند تایید تجربی است ، ما به واقعیت نیز باید نگاه کنیم تا فرضیات خود را تایید کنیم ودر اینجا اعتبار رفتار مطلوب جهانی به خوبی پشتیبانی شده است .
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+ هر  انسان سالمی برخی از قوانین اخلاقی را باور دارد . درباره اینکه چه چیزی قوانین اخلاقی را شکل می دهد تا حدودی عدم توافق وجود دارد . اما هر کسی مطمئن است که قوانین اخلاقی معتبر هستند ( درست مثل بسیاری از دانشمندان مخالف ) اما همه دانشمندان اعتبار روش علمی را می پذیرند . یک فرد می تواند بگوید زمین گرد است و صاف نیست  ( که مشابه با تغییر معنی اخلاقیات است ) اما یک فرد نمی تواند بگوید که اصلا زمین وجود ندارد) درست مثل این است که بگوییم چنین چیزی بعنوان رفتار مطلوب جهانی وجود ندارد ). 
 
-Or:
+یا :
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. برای اینکه یک نظریه معتبر باشد باید توسط مشاهدات تجربی پشتیبانی شده باشد .
+2. اگر رفتار مطلوب جهانی معتبر باشد پس بشر باید رفتار مطلوب جهانی را باور کند .
+3. همه انسانها رفتار مطلوب جهانی را باور دارند .
+4. بنابراین شواهد و مدارک تجربی وجود دارند تا اعتبار رفتار مطلوب جهانی را حمایت کنند و وجود چنین شواهد و مدارکی بر خلاف این عبارت است که رفتار مطلوب جهانی معتبر نیست .
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+استدلال چهارم برای اعتبار رفتار جهانی ترجیح داده شده نیز تجربی است ،از آنجا که انسان ها تعداد تقریبی بی شماری از انتخاب ها را در زندگی ایجاد میکنند ، می گویند که هیچ اصولی از رفتار جهانی ترجیح داده نمی شود و می گویند که همه انتخاب ها برابرند (ذهنی) با این حال همه گزینه ها برابر نیستند . یا منطقی یا از طریق مشاهدات تجربی.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+برای مثال اگر غذا در دسترس باشد . تقریبا همه انسانها ترجیح می دهند غذا بخورند، وقتی سرما تقریبا همه انسانها به دنبال گرما هستند.تقریبا تمام والدین برای تغذیه انتخاب می کنند. پناه دادن و آموزش فرزندان خود . نمونه های بسیاری از انتخاب های رایج در میان بشریت وجود دارد، که نشان میدهد رفتار جهانی ترجیح داده فراوانی دارد و بخشی از طبیعت انسانی است.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+همانطور که اشاره شد . هیچ نظریه معتبری از فیزیک نمی تواند این واقعیت ساده را رد کند که کودکان می توانند همانند توپ های پرواز را بگیرند.هیچ نظریه معتبر اخلاقی نمی توانند شواهد بی پایان را برای پذیرش شفاف رد کند.
 
-Or:
+یا:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. انتخابات تقریبا بی نهایت هستند.
+2. اکثر انسانها انتخاب های بسیار مشابهی دارند.
+3. بنابراین تمام انتخابات نمی تواند برابر باشد.
+4. بنابراین انتخاب های ترجیحی جهان  باید معتبر باشد.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+استدلال پنجم برای اعتبار رفتار جهانی ترجیحی تکامل یافته است.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+از آنجا که تمام زندگی آلی نیاز به رفتار ترجیحی برای زنده ماندن دارد . ما می توانیم فرض کنیم که آن ارگانیسم هایی که بهترین گزینه ها را انتخاب می کنند آنهایی هستند که اغلب از بقا انتخاب میشوند.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+از آنجا که انسان موفق ترین گونه است و اندام متمایز انسان  ذهن اوست ، این باید ذهن انسان ها باشد که او را در انتخاب گزینه های موفق کمک کرده است. پس ذهن خود را به عنوان موفق به وسیله توانایی خود برای انتخاب های موفق انتخاب کرده است. از آنجا که ذهن انسان تنها در نتیجه انتخاب رفتار جهانی ترجیح داده می شود. رفتار مطلوب جهانی باید یک مفهوم معتبر باشد.
 
-Or:
+یا :
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. ارگانیسم ها با رفتار جهانی ترجیح داده میشوند.
+2. انسان موفق ترین ارگانیسم است.
+3. بنابراین انسان باید بر اساس رفتار جهانی ترجیح داده بیشترین موفقیت را داشته باشد.
+4. ذهن انسان ارگان متمایز ترین آن است.
+5. بدین ترتیب ذهن انسان باید بر اساس رفتار جهانی ترجیح داده بیشترین موفقیت را داشته باشد .
+6. بنابراین رفتار جهانی ترجیح داده باید معتبر باشد.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+ما میتوانیم بسیاری از استدلال های بیشتر برای حمایت از وجود و اعتبار یو پی بی بیاوریم  اما یو پی بی ما بایستی با موارد فوق و به بررسی ماهیت بپردازیم
 
-#### UPB: Optional And Objective
+#### یو پی بی: اختیاری و هدف
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+از آنجا که روشی از رفتار جهانی ترجیح داده شده است. سوال اخلاقی اکنون تغییر می کند، از آنجا که اخلاق معتبر است چه نظریه ها می توانند به صورت کوانتومی توضیح داده و آن را پیش بینی کنند.؟
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+اول از همه ما باید به یاد داشته باشیم که اخلاق به وضوح اختیاری است. هر مردی در معرض گرانش است و نیاز به غذا دارد اما هیچ مردی نباید از نظر اخلاقی عمل کند.اگر من تجاوز به عنف را سرقت کنم یا هیچ رعد و برق نبردم به من حمله میکند.قواعد اخلاقی مانند روش علمی یا طبقه بندی های بیولوزیکی صرفا راه های منطقی سازماندهی حقایق و اصول نسبت به واقعیت عینی است.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+واقعیت این است که انطباق با قوانین اخلاقی اختیاری است اما بسیاری از متفکران را به این باور است که خود اخلاق ذهنی است. هیچ چیز نمیتواند بیشتر از حقیقت باشد.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+موجودات زنده بخشی از واقعیت مادی هستند و واقعیت مادی عقلانی و عینی است. استفاده از نظریه های اخلاقی اختیاری است اما این بدان معنا نیست که همه نظریه های اخلاقی ذهنی هستند. روش علمی نیز اختیاری است اما ذهنی نیست. استفاده از طبقه بندی های بیولوزیک اختیاری است اما زیست شناسی در ذات نیست. گزینه ها عواقب اختیاری نیستند.من میتوانم تصمیم بگیرم که غذا بخورم اما نمیتوانم بدون غذا زندگی کنم، من می توانم کسی را انتخاب کنم اما من نمی توانم انتخاب کنم که آیا بدون وجود یک اخلاق سرپرستی زندگی میکنند یل خیر اختیاری است اما تاثیر انتخاب های اخلاقی قابل اندازه گیری و هدف نیست.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+در حال حاضر از آنجا که اخلاق مفهومی معتبر است سوال بعدی این است : که چه میزان یا میزان اخلاقی معتبر است؟
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+همانطور که در بالا ذکر شد، اولین تست هر نظریه علمی، جهانی است. درست همانطور که یک نظریه فیزیک باید به ماده  همه  مربوط شود، یک نظریه اخلاقی که ادعا می کند که رفتارهای ترجیحی انسان را توصیف می کند، باید به  همه بشریت اعمال شود، هیچ تئوری اخلاقی نمیتواند معتبر باشد اگر آن را متقاعد کند که اقدام خاصی در سوریه درست است اما در سانفرانسیسکو اشتباه است، نمی توان گفت که شخصی آ  باید ایکس را انجام دهد، اما شخص بی باید هرگز ایکس را انجام دهد. نمی تواند بگوید چه چیزی اشتباه بود دیروز امروز درست است امروز یا برعکس، اگر این کار را بکند، اشتباه است و باید تصفیه شده یا دور ریخته شود
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+برای معتبر بودن، هر تئوری اخلاقی نیز باید معیار قایل بودن منطقی را منتقل کند. از آنجا که رفتار ماده منطقی، سازگار و قابل پیش بینی است، تمام نظریه های مربوط به ماده یا آلی یا غیر معدنی باید منطقی، سازگار و قابل پیش بینی باشند. تئوری نسبیت نمی تواند استدلال کند که سرعت نور هر دو ثابت و ثابت نیست در همان زمان، و یا آن است که یکصد و هشتاد و شش هزار کیلومتر در ثانیه، پنج کیلومتر .در عمق، و همچنین سبز رنگ است
 
 در هرصورت ، از آنجاییکه نظریه های اخلاقی روی انسان اعمال می شوند و انسان یک موجود زنده و متشکل از مواد آلی است، میزان انسجام عملی و تجربی مورد نیاز برای نظریه های اخلاقی کمتر از آن است که برای نظریه های غیر آلی مورد نیاز است. به عنوان مثال، تمام سنگها باید سقوط کنند، اما همه اسبها شاید تنها با یک سر متولد نشوند. زیست شناسی شامل سه شکل از "بی قاعدگی" میشود که محیط ، جهش ژنتیکی و اختیار است. برای مثال، پودل ها (نوعی سگ)  به طور کلی رفتار دوستانه دارند ، اما اگر سال ها مورد ضرب و شتم قرار بگیرند، رفتار تهاجمی پیدا خواهند کرد. اسب ها  به عنوان حیواناتی تنها با یک سر تعریف می شوند، اما گاهی اوقات یک حیوان جهش یافته با دو سر متولد می شود.  بهمین نحو، بشر به طور کلی غذا خوردن به گرسنگی را ترجیح می دهد - (بجز افراد مبتلا به بی اشتهایی). این استثنائات باعث شکست و نزول جایگاه علم زیست شناسی نمی شود.  بنابراین، از آنجا که نظریه های اخلاقی بشریت را مورد بررسی قرار میدهند نمی توانند دقیقا مانند نظریه هایی که با مواد غیر آلی سرو کار دارند ، و با همان الزامات برای انسجام مورد ارزیابی قرار بگیرند.
 

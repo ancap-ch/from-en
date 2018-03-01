@@ -1,94 +1,94 @@
-## The First Test: Rape
+## تست اول: تجاوز
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+اگر چه موضوعی ناخوشایند برای بحث کردن است، تجاوز بدون تردید، اقدامی * حداقل * مبهم است که از هر نظریه ی اخلاقی باید بدان پرداخته شود. قتل برای دفاع از خود، دزدی بعلت مشکل گرسنگی یا "سرقت" می تواند پیچیده باشد؛ اما یک نفر هرگز در دفاع از خود نمی تواند تجاوز کند؛ با این تعاریف این خود آغاز خشونت است.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+اجازه بدهید از چارچوب یوپی بی جهت بررسی هماهنگی منطقی گزاره های اخلاقی در مورد تجاوز جنسی، با اشاره به این هفت طبقه اخلاقی، استفاده کنیم.
 
-### The Good
+### خوب
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+یک مثال باطل، تصور کنید که ما در حال بررسی یک نظریه اخلاقی هستیم که ادعا می کند که تجاوز یک عمل خیرِ اخلاقی است.
 
-Clearly, if I proclaim that “X” is “the good,” then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+واضح است که اگر ادعا کنم  "ایکس"، "خوب" است، مخالف"ایکس"باید بد باشد. اگر *تجاوز نکردن* خوب است، پس *تجاوز* باید بد باشد. برعکس، اگر *تجاوز* خوب است، پس *تجاوز نکردن* باید بد باشد.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+تجاوز به یک نفر یک اقدام مثبت است که باید آغاز شود، اجرا شود، و سپس تکمیل شود. اگر "تجاوز" یک عمل خیرِ اخلاقی است، پس "تجاوز نکردن" نباید یک شرارت اخلاقی باشد؛ بنابراین ممکن نیست که دو مرد در یک مکان و زمان یکسان باشند، و هر دو اخلاق مدار تلقی شوند؛ زیرا تنها یکی از آنها می تواند لحظه ای که موقعیت را بدست می آورد، یک متجاوز باشد ، و او تنها درصورتی می تواند یک متجاوز شود که مرد دیگر قربانی او گردد.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+آنچه که فضیلت پاکدامنی، پرهیزگاری، خوبی و غیره را ممکن میسازد نمیتواند بد باشد. به عنوان مثال، "آزادی" یک پیش شرط برای فضیلت است ، بدون آزادی، ما نمی توانیم فضیلت داشته باشیم ، بنابراین "آزادی" نمیتواند بد باشد؛ زیرا آن برای خوب بودن *لازم*  است
 
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
+اگر از لحاظ اخلاقی خوب است که یک آدم متجاوز باشد و یک آدم تنها می تواند از طریق حمله جنسی به یک قربانی متجاوز شود، اما قربانی باید مشخصاً از نظر اخلاقی خوب باشد و در برابر تجاوز جنسی مقاومت کند؛ زیرا اگر مقاومت نکند، با این عمل تجاوز نیست و بنابراین فضیلتی نیست. به عبارت دیگر، *حمله* فضیلتی است که فضیلت را * ایجاد می کند*. بنابراین ما یک پارادوکس بر طرف نشدنی داریم که در آن قربانی باید فضیلت را به منظور ایجاد فضیلت مورد حمله قرار دهد؛ او باید در برابر تجاوز جنسی به منظور ایجاد «فضیلت» در متجاوز، مقاومت کند. بدین ترتیب نه تنها قربانیِ تجاوز نمی تواند فضیلت داشته باشد، بلکه باید در برابر «فضیلت» مقاومت کند و به آن حمله کند تا آن را کسب کند.
 
-Insurmountable logical problems thus result from the proposition: “rape is moral.” Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+به این ترتیب از این قضیه نتیجه می شود که "تجاوز به عنف یک عمل اخلاقی است". به یاد داشته باشید، ما موافقت کردیم که یک نظریه عقلانی نمی تواند برای یک ایالت، دولت های مخالف پیشنهاد کند. همه چیزهای دیگر برابر است، یک سنگ نمی تواند در یک زمان هم به طرف بالا و هم به طرف پایین بیافتد و یک نظریه معتبر نمی تواند پیش بینی کند که یک سنگ سقوط خواهد کرد، در حالی که سنگ دیگری سقوط خواهد کرد.
 
-In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
+به همین ترتیب، دو مرد در یک اتاق باید در یک موقعیت قرار بگیرند. تنها یکی از آنها می تواند خوب باشد، زیرا خوبی به عنوان تجاوز شناخته می شود و تنها یکی از آنها می تواند در هر زمان تجاوز کند، بنابراین ما یک تناقض منطقی داریم که نمی تواند حل شود.
 
-Also, if we recall that Universally Preferable Behaviour must be independent of time, then we also face a logical problem that, no matter what his physical virility, at some point the rapist will simply be unable to rape any more, because he will be physically unable to get an erection. At that point, his ability to perform the “good action” becomes impossible. Since “avoidability” is a key criterion for morality, but he is physically unable to be good – in other words, he is unable to avoid being evil – then he cannot be responsible for not raping the other man.
+همچنین، اگر ما به یاد بیاوریم که رفتار مطلوب جهانی باید مستقل از زمان باشد، ما نیز با یک مشکل منطقی مواجه هستیم که بدون در نظر گرفتن گرایش جسمی او، در برخی موارد، مهاجم به سادگی قادر به تجاوز به عنف نیست، زیرا او از لحاظ جسمی ممکن است قادر به نعوظ در آن لحظه نباشد. آن موقع، توانایی او برای انجام "عمل خوب" غیر ممکن می شود. از آنجا که "اجتناب ناپذیر بودن" یک معیار کلیدی برای اخلاق است، اما او از لحاظ جسمی نتوانسته است خوب باشد - به عبارت دیگر، او نمیتواند از شرارت جلوگیری کند؛ پس او نمیتواند مسئول تجاوز نکردن به مرد دیگر باشد.
 
-If a man hanging from a tree over a canyon lets go because he lacks the strength to continue holding on, we would not call that a suicide, since the choice to hang on was no longer available to him. If he lets go although he has the strength to continue holding on, the case would not be quite so clear.
+مردی که از یک درخت بالای یک کانیون آویزان می شود و سقوط می کند، چون او قدرت کمتری برای نگه داشتن خود دارد، ما آن را خودکشی نمی دانیم، زیرا انتخاب آویزان شدن دیگر برای او امکان پذیر نبود. اما اگر او با وجود اینکه قدرت لازم برای نگه داشتن خود را دارد و سقوط کند ، این مورد کاملاً واضح نیست.
 
-#### The Coma Test
+#### تست کما
 
-Intuitively, it is hard to imagine that any theory ascribing immorality to a man in a coma could be valid. Any ethical theory that posits a positive action as universally preferable behaviour faces the challenge of “the coma test.” If I say that giving to charity is a moral absolute, then clearly not giving to charity would be immoral. However, a man in a coma is clearly unable to give to charity, and thus would, by my theory, be classified as immoral. Similarly, a man who is asleep, or has no money to give – or the man currently *receiving* charity – would all be immoral.
+بطورمحسوس،  تصور کردن اینکه هر تئوری که فساد غیر اخلاقی بودن را به مردی که در کما است نسبت می دهند معتبر باشد، دشوار است. هر تئوری اخلاقی که عمل مثبتی را به عنوان رفتار جهانی مطرح می کند با چالش «آزمون کما» مواجه می شود. اگر من می گویم که دادن صدقه، عمل مطلقاً اخلاقی است، پس به طور واضح ندادن صدقه، عمل غیر اخلاقی خواهد بود. با این حال، یک مرد که در کما است به وضوح مشخص است که قادر به دادن صدقه نیست، و بنابراین، توسط نظریه من، به عنوان عمل غیر اخلاقی طبقه بندی می گردد. به طور مشابه، مردی که در خواب است و یا هیچ پولی برای دادن ندارد - و یا مردی که صدقه *دریافت می کند* خیریه - همه آن ها غیر اخلاقی هستند.
 
-This is another central problem with any theory that posits a positive action such as “rape” as moral. At any given time, there are any number of people who are unable to perform such positive actions, who must then be condemned as evil, even though they have no capacity to be “good.” However, if it is impossible to avoid being “evil,” then clearly evil as a concept makes no sense. In the example above of the rock crashing down a hill, the rock is not “evil” for hitting your car, since it has no capacity to avoid it of its own free will. If a man’s brakes fail right after they have been serviced, then it is not his responsibility for failing to come to a stop. If he has never once had his brakes serviced in ten years, then his irresponsibility is the proximate cause of his continued momentum, and he can be blamed.
+این یک مشکل اصلی دیگر با هر نظریه ای است که «اقدام مثبتی مانند "تجاوز" را به عنوان عمل اخلاقی» مطرح می کند. در هر زمان خاص، تعداد افرادی وجود دارد که قادر به انجام چنین اقدامات مثبت نیستند، که پس از آن باید محکوم به "بد" بودن شوند، هرچند که آنها قادر به انجام "خوب" نیستند. با این حال، اگر اجتناب از " شر " غیرممکن است، پس به وضوح شر به عنوان یک مفهوم هیچ معنی ندارد. برای مثال، سنگی از بالای یک تپه رها شده است، سنگ بخاطر ضربه زدن به ماشین شما "بد" نیست، زیرا قادر به اجتناب از اراده آزاد خود نیست. اگر ترمز مرد ماشین درست پس از تعمیر و سرویس عمل نکند، و نتواند متوقف شود، مسئولیتش با او نیست. اگر او در ده سال گذشته حتی برای یک بار ترمزهایش را تعمیر و سرویس نکرده، پس بی اعتنایی او دلیل اصلی حرکت مداوم خود است و می توان او را سرزنش کرد.
 
-In this way, the concept of “avoidability” retains its use. A man in a coma is unable to avoid lying in his bed, since he is in a state of quasi-unconsciousness. Since he is unable to avoid his actions – or inaction in this case – his immobility cannot be immoral.
+به این ترتیب مفهوم "اجتناب ناپذیر بودن" استفاده از آن را حفظ می کند. مردی در کما قادر به اجتناب از دروغگویی در بسترش نیست، زیرا او در حالت شبه ناخودآگاه قرار دارد. از آنجایی که او قادر به اجتناب از اقدامات خود نیست ، بی اثر بودن در این مورد بی حرکتی اش نمی تواند غیر اخلاقی باشد.
 
-At this point, the objection can quite reasonably be raised that if a man in a coma cannot be immoral, then he also cannot be moral. However, earlier we said that the opposite of an immoral action must be moral. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+در این مرحله، اعتراض کاملا منطقی می تواند مطرح شود که اگر یک فرد در کما باشد نمی تواند فاسد و غیر اخلاقی باشد، و او همچنین نمی تواند اخلاق مدار باشد. با این حال، قبلا ما گفتیم که مخالفت با یک اقدام غیر اخلاقی باید اخلاق مدارانه باشد. اگر ما قوانین اخلاقی را پیشنهاد می دهیم، "شما نباید تجاوز نکنید"، پس ما می توانیم مردی که در کما است را *فاسد و غیراخلاقی* بخوانیم، بدلیل اینکه او تجاوز نمی کند؟
 
-#### Capacity
+#### ظرفیت
 
-The concept of “avoidability” works in the positive as well as in the negative. If I have lost my genitals in some ghastly accident, am I moral for refraining from rape? It would seem hard to argue that I could be, since genital rape at least is impossible for me. Similarly, we may call a man “generous” if he gives one hundred dollars to a beggar – however, we would doubtless revise our estimation if it turned out that he gave away his money while sleepwalking, and woefully regretted his action on waking.
+مفهوم "اجتناب ناپذیر بودن" در مثبت و همچنین منفی معمول است. اگر من در یک حادثه هولناک اندام تناسلی خود را از دست داده ام، بعلت باز ماندن از تجاوز عدم توانایی  جنسی ، من اخلاق مدار هستم؟ دلیل آوردن برای اینکه من می توانم این کار را بکنم سخت بنظر می رسد، زیرا که تجاوز جنسی حداقل برای من غیر ممکن است. به همین ترتیب، ما ممکن است فردی که یک صد دلار به یک گدا بدهد را "سخاوتمند" بنامیم. با این حال، ما بدون شک نظر خود را اصلاح خواهیم کرد اگر معلوم شود که او پول خود را در در حین خوابگردی داده است، و در زمان بیداری از این اقدام خود خشمگین و پشیمان است.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+بنابراین ما می توانیم با دلیل بگوییم که جایی که انتخاب وجود ندارد یا غیر قابل اعمال است، اخلاق نیز وجود ندارد یا غیر قابل اطلاق است. به این ترتیب، مردی در کما همچنان که اعمالش نمی تواند به عنوان بد محسوب شوند، نمیتوانند خوب باشند. او در حالت بدون انتخاب، مانند یک نوزاد یا یک حیوان است - به همین دلیل او می تواند به طور معقول از قوانین اخلاقی معاف شود، زیرا حالت فیزیکی است که او را نسبت به شخصی که می تواند انتخاب کند، که تحت  یو پی بی مجاز است، بطور عینی تغییر می دهد.
 
-With that in mind, let us continue our examination of rape.
+با توجه به این فرض، اجازه دهید به بررسی تجاوز به عنف ادامه دهیم.
 
-### Aesthetically Positive
+### زیبایی گرایی مثبت
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+اقدامات مثبت زیبایی گرایی (ای پی ای) به طور جهانی ترجیح داده می شوند، اما از طریق خشونت قابل اجرا نیست، چرا که اقدامات منفی زیبایی گرایی منجر به استفاده از اجبار نمی شود. همانطور که در بالا توضیح دادیم، اگر من دیر به ملاقات شما برسم، من استفاده از زور علیه شما را آغاز نکرده ام و گزینه های  شما را برای انتخاب و یا اجتناب از این وضعیت حذف نکرده ام.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+اگر می گوییم که ای پی ای ها می توانند از طریق خشونت اعمال شوند، ما می گوییم که آغاز خشونت از نظر اخلاقی خوب است.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good.”
+اگر ما یک قانون اخلاقی پیشنهاد کنیم که آغاز خشونت از نظر اخلاقی خوب است، سپس این قانون که حکم "تجاوز به لحاظ اخلاقی خوب است" با تمام حالت های غیرممکن منطقی  مواجه می شود.
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+دو نفر همزمان در یک اتاق نمی توانند از لحاظ اخلاقی خوب باشند، زیرا یکی از آنها باید خشونت علیه دیگری را شروع کند، و دیگری باید در برابر آن مقاومت کند؛ زیرا اگر مقاومت نکند این عمل خشونت نیست، همانطور که در مورد جراح ما در بالا بحث کردیم. بنابراين، فضيلت تنها با مقاومت در برابر فضيلت ایجاد می شود، و دو مرد در شرايط مشابه و در یک زمان نميتوانند اخلاق مدار باشند و همينطور که همه آنها ناقض یو پی بی هستند.
 
-Thus we know that rape cannot be an APA.
+بنابراین ما می دانیم که تجاوز نمی تواند یک ای پی ای باشد.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+ما می توانیم این را با بررسی دلایل اینکه "وقت شناس بودن"  یک ای پی ای است تأیید کنیم.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+اول از همه، ما به طور غریزی متوجه می شویم که قطعاً برای رد کردن یک دوست همیشگی بخاطر دوست نداشتن بستنی خیلی دیر شده است.
 
-Why is that?
+چرا اینطور است؟
 
-Once again, the UPB framework comes to the rescue.
+یک بار دیگر، چارچوب یو پی بی به دادمان می رسد.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+یک ای پی ای  یک قانون غیر اجباری است که به طور منطقی میتواند به طور همزمان به دو طرف اعمال شود.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+به عنوان مثال، اگر ای پی ای ی من این باشد: "وقت شناس باش"، پش آن می تواند یک استاندارد جهانی باشد که می توان کاملا از آن اجتناب کرد. من نمی توانم این ای پی ای  را به شما تحمیل کنم زیرا شما مجبور نیستید دوست من باشید، مجبور نیستید وقت شناس باشید، به هیچ وجه مجبور نیستید احترام و اولویت های من را دنبال کنید.
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+اگر "وقت شناس بودن" یک ای پی ای باشد، دو نفر می توانند به طور همزمان آن را بدست آورند  درصورتیکه هر دو  وقت شناس باشند و در زمان معین حاضر باشند.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+هرچند با تجاوز، همانطور که در بالا دیدیم، برای دو نفر انجام آن در یک زمان غیرممکن است. همیشه باید یک متجاوز و قربانی باشد.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+از سوی دیگر، اگر من می گویم که " دوست داشتن جاز " یک ای پی ای است، پس من بلافاصله به سمت یک امکان غیر منطقی می روم. به یاد داشته باشید ای پی ای ها قوانینی غیرقابل اجتناب هستند که می توانند به طور همزمان برای هر دو طرف اعمال شوند ،فرمول صحیح برای «دوست داشتن جاز» عبارت است از: علایق ذهنی که در سطح جهانی هستند.
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+نه تنها این تضاد رتبه ای در این قانون است، بلکه بلافاصله آزمون یو پی بی را نیز شکست می دهد. اگر جاز را به تمام انواع دیگر موسیقی ها ترجیح می دهم، اما شما موسیقی کلاسیک را به تمام انواع دیگر موسیقی ها ترجیح می دهید و اگر علایق شخصی به طور جهانی ترجیح داده شود، پس شما نیز باید جاز را انتخاب کنید، زیرا من اینگونه هستم و من نیز باید کلاسیک را انتخاب کنم، چون شما اینطور هستید. این، البته، غیرممکن است، زیرا این امر مستلزم این است که ما هر دو به طور همزمان هم جاز و هم کلاسیک را بالاتر از تمام انواع دیگر موسیقی ها بدانیم و آنها را به بقیه ترجیح دهیم. شما باید اولویت خود را به جاز تغییر دهید، به خاطر علاقه من اما من هم باید اولویت خود را به کلاسیک تغییر دهم، به خاطر علاقه شما. این مانند گفتن این است که شما باید یک توپ بیس بال را در یک لحظه پرتاب کنید و در همان لحظه آن را بگیرید، یک عدم امکان منطقی و فیزیکی.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+از آنجا که ای پی ای ها با خشونت اعمال نمی شوند،  شما نمی توانید به یک مرد بعلت وقت شناس نبودن دیر رسیدن شلیک کنید، سپس تجاوز * نمی تواند * یک ای پی ای باشد، زیرا تجاوز به معنی یک حمله جنسی است که همراه با خشونت است.
 
-Thus rape cannot fall into the category of APAs.
+بنابراین تجاوز نمی تواند در رده ای پی ای قرار گیرد.
 
-### Personally Positive
+### مطلقا مثبت
 
-Perhaps rape is akin to a merely personal preference.[^2]
+شاید تجاوز تنها یک عقیده صرفا شخصی باشد. 
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+این سوال مطرح می شود: آیا طبقه بندی تجاوز به عنوان یک عقیده صرفا شخصی می تواند به رعایت منطق پایبند باشد؟
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+اگر ما قاعده اخلاقی را پیشنهاد می دهیم: "عقاید شخصی باید با زور به دیگران تحمیل شود"، چطور می توان از چارچوب یو پی بی استفاده کرد؟ 
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+عقاید شخصی نمیتوانند به صورت عادلانه به دیگران اعمال شوند، زیرا این امر یک پارادوکس منطقی حل نشدنی را ایجاد میکند.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+اگر من می گویم که دوست داشتن گروه ملکه بیشتر از همه گروه های دیگر، رفتار جهانی محسوب می شود، چطور می توانم این جمله را توجیه کنم؟ فقط می شود گفت که عقاید و علایق شخصی باید به دیگران تحمیل شود. با این حال، اگر علایق شخصی من می تواند به شما تحمیل شود، پس با تعریف یو پی بی، علایق شخصی شما نیز می تواند به * من * تحمیل شود. بنابراین ما نمی توانیم هر دو در یک زمان اخلاق مدار باشیم، زیرا این امر مستلزم آن است که ما هر دو در یک زمان گروه خود را انتخاب کنیم و انتخاب گزینه های دیگر را رها کنیم. به عبارت دیگر، من باید همزمان هم گروه موسیقی ملکه  و هم گروه موسیقی پلیس را بهترین گروه موسیقی بدانم. این یک عدم امکان منطقی است، که دلیل اصلی اش، این است که عقاید و علایق شخصی منحصراً نمی تواند به طور جهانی قابل اجرا باشد.
 
 بنابراين اگر تجاوز به عنوان عقیده صرفا شخصي درنظر گرفته شود، پس اصولا آن نميتواند بر هر شخص ديگر تحمیل شود. باز هم، فکر کردن به دو مرد در یک اتاق، این امر مستلزم این است که هر دو مرد ترجیح دهند که به یکدیگر تجاوز کنند، اما قادر به اجرای این تصمیم نیستند، که نه تنها غیر منطقی است بلکه کاملا غیر عملی است.
 
