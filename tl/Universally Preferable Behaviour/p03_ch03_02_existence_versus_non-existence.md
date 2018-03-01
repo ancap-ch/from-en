@@ -83,7 +83,7 @@ Sa simula ng seksyong ito, aking banaggit na ang mga tao ay karaniwang gumawa ng
 
 Ang parehas na pananaw ay umuusbong mula sa parehas na kamaliang binalangkas sa itaas. Kung *lahat* ng sosyal na institusyon ay palagiang sumusubok na lumago sa kapangyarihan at palakasin ang kanilang kalooban sa iba, kung gayon sa pamamagitan ng mismong argumento ang isang sentralisadong pamahalaan ay hindi dapat payagan na umiral. Kung isang bakal na batas na ang mga grupo ay palaging susubok na magkamit ng kapangyarihan sa iba pang mga grupo at inbidiwal, kung gayon ang paghahangad sa kapangyarihan *ay hindi matatapos hanggat isa sa kanila ang manalo, kundi patuloy pa itong lalaganap sa lipunan na halos hindi masasalungat hanggang ang pang-aalipin ay mapunta sa pamantayan*.
 
-Ang tanging paraan upang ang mga sosyal na institusyon ay lumago bilang mga marahas na monopolyo ay *ang pag-alis ng halaga ng pagpapatupad sa kanilang mga biktima*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+Ang tanging paraan upang ang mga sosyal na institusyon ay lumago bilang mga marahas na monopolyo ay *ang pag-alis ng halaga ng pagpapatupad sa kanilang mga biktima*. Ang pamahalaan ay walang katapusang lumalago dahil kaya nilang bayaran ang mga kolektor ng buwis ng bahagi ng buwis na kanilang nakokolekta. The slaves are thus forced to pay for the costs of their enslavement.
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
