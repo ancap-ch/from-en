@@ -47,7 +47,7 @@ Logicamente, existem quatro possibilidades quanto à aglomeração de pessoas bo
 
 No primeiro caso (*todos os homens são morais*), o governo, obviamente, não é necessário, já que o mal não pode existir.
 
-No segundo caso (*todos os homens são imorais*), o governo não pode ser permitido por uma razão muito simples. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+No segundo caso (*todos os homens são imorais*), o governo não pode ser permitido por uma razão muito simples. Geralmente argumenta-se que o governo deve existir porque há pessoas más no mundo, que desejam causar dano e que só podem ser controladas pelo medo da retribuição do governo (polícia, prisões, *et al*). Uma conclusão desse argumento é que, quanto menos represálias essas pessoas temerem, mais mal farão.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
