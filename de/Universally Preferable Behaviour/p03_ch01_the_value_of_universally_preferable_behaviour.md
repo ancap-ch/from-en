@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+## Der Wert Von Universell Bevorzugtem Verhalten
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Eine neue Theorie ist von unschätzbarem Wert, wenn sie nur auf das Offensichtliche hinweist. Wenn die Physik nur eine genaue Beschreibung dafür liefern würde, wie wir einen Ball fangen, dann wäre die Physik keine sehr lohnende Methode, denn wir können schon jetzt einen Ball fangen. Die Entdeckung, dass die Welt rund ist, hilft nur bei der Navigation über das Meer - sie hilft uns nicht, die Quantenmechanik in die Stadt zu bringen, wird nur dann nützlich, wenn andere Methoden nicht die nötige Genauigkeit bieten können - sie hilft nicht beim Bau eines Autos.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+In gleicher Weise sollten uns der Rahmen der UPB und die moralischen Regeln, die sie bestätigt oder ablehnt, im Idealfall einige verblüffende Einblicke in die Welt, in der wir leben, und in unsere Beziehungen zueinander geben.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Wenn es alles war, was UPB getan hat, zu beweisen, dass Vergewaltigung, Mord und Diebstahl moralisch falsch sind, würde es nicht viel Wert schaffen, da fast niemand glaubt, dass diese Dinge moralisch richtig sind.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Fangen wir also an, diesen Rahmen auf die Welt, in der wir leben, anzuwenden, und sehen wir, welcher Wert daraus erwächst.
