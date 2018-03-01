@@ -58,7 +58,7 @@ Kaya't ito ay pinpalagay na ang mga magulang ay ang magpapakain at mag-aa; aga s
 
 Itong lahat ay umaasa sa alituntunin ng ikatlong-partido na pansariling-pagtatanggol, na lubusang sinusuportahan ng balangkas ng UPB, dahil ang karapatan ng pansariling-pagtatanggol ay pang-inibersal. Kung ako ay nakakita ng isang lalaking nasa isang upuang-de gulong na inatake ng isang babae, ako ay may karapatan na ipagtanngol siya - at ito ay labis na totoo kung ikaw ay walang kapasidad na ipagtanggol ang kanyang sarili.
 
-Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
+Dahil ang mga anak ay hindi makakapagpakain sa kanyang sarili, kumita ng isang buhay o malayang mabuhay, ito ang mga moral na katumbas ng mga biktima ng kidnap, o ang asawa napagusapan namin ukol sa bago kung sinong asawa ang nagsarado sa kanya sa silong. Ang mga anak ay kulang sa kakayahayan para sa epektibong sa pansariling-pagtatanggol, dahil sila ay may maliit na taas at malalim na dependensya sa kanilang mga magulang.
 
 Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
 
