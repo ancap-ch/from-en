@@ -38,16 +38,16 @@ Duas objecções adicionais repetem-se, constantemente, quando surge a questão 
 
 O primeiro e mais óbvio problema com esta posição é que, se existem pessoas más na sociedade, também existirão no governo - e aí serão muito mais perigosas. Os cidadãos podem proteger-se contra os indivíduos maus, mas não têm oportunidade contra um governo agressivo, armado até aos dentes com forças policiais e militares. Assim, o argumento de que precisamos do governo porque existem pessoas más, é falso. Se as pessoas más existem, o governo *deve* ser desmantelado, já que essas pessoas más serão tentadas a usar o seu poder para seus próprios fins - e, ao contrário dos bandidos privados, as pessoas más no governo têm a polícia e os militares para impor os seus caprichos a uma população indefesa (e relativamente desarmada). Assim, o argumento é semelhante à ideia de que "os simuladores são muito perigosos, então devemos fornecer um monopólio exclusivo de simulação a um pequeno grupo de indivíduos". Onde pensam as pessoas, que os simuladores irão primeiro?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Logicamente, existem quatro possibilidades quanto à aglomeração de pessoas boas e más no mundo:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Todos os homens são morais.
+2. Todos os homens são imorais.
+3. A maioria dos homens é imoral e só uma minoria é moral.
+4. A maioria dos homens é moral e uma minoria imoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+No primeiro caso (*todos os homens são morais*), o governo, obviamente, não é necessário, já que o mal não pode existir.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+No segundo caso (*todos os homens são imorais*), o governo não pode ser permitido por uma razão muito simples. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
 
 However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
 
