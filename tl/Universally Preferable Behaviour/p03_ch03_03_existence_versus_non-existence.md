@@ -50,7 +50,7 @@ Kapag ako ay hindi nakabayad sa lalaki na papadpad dito para kuhain ang aking sa
 
 Kawili-wiling, kung sakaling ang isang lalaki ay magkaroon ng pagkakautang sa akin na salapi, hindi ko magagawang siya ay kunin at iparanas sa kanya ang pagpapahirap at gahasain siya bawat taon. Kaya pagbibigay-buwis ang talagang sumusuway sa UPB bumabalangkas, dahil sa ito ay malupit na pagsalin ng mga nasasakupan gamit ang pagtanggap kasapi ng bagong lakas.
 
-Stealing, as we have proven, is evil.
+Ang pag-uumit, ay katulad nalang ng pinatunayan natin, na masamang gawain.
 
 Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
 
