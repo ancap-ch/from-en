@@ -60,7 +60,7 @@ Ang lahat ay puwedeng baguhing ganap ang ating mundo sa kaparaanang pagtanggap n
 
 Kailan ang lahat ay tinanggap ang UPB na bumalangkas at ilagay ito sa mga mabuting paksa hingil sa pamahalaan at relihiyon, ilan sa napaka gandang mga resulta na nangyayari.
 
-Ang ihinahayag sa karamihan ng malimit na ginagamit para magbigay ng dahilan ang pamahalaan sa kanilang kakayahan: "ang pamahalaan ang may kakayahang kuhain ang iyong salapi." ito'y, kahit na, sa isang ganap na hindi tama at hindi totoo hinahayag. Ang "pamahalaan" ay wala ng kakayahang kuhain ang iyong salapi, dahilan "ang pamahalaan" ay hihigit sa isang kaalaman, at isang di malamang pagpapakita para sa pagkakatukoy na pangkat ng mga tao. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Ang ihinahayag sa karamihan ng malimit na ginagamit para magbigay ng dahilan ang pamahalaan sa kanilang kakayahan: "ang pamahalaan ang may kakayahang kuhain ang iyong salapi." ito'y, kahit na, sa isang ganap na hindi tama at hindi totoo hinahayag. Ang "pamahalaan" ay wala ng kakayahang kuhain ang iyong salapi, dahilan "ang pamahalaan" ay hihigit sa isang kaalaman, at isang di malamang pagpapakita para sa pagkakatukoy na pangkat ng mga tao. UPB kinakaylangan ng isang higit na pagkakapantay-pantay at mga gustong ipahayag. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
