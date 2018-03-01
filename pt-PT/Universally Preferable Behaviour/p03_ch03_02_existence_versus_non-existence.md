@@ -28,11 +28,11 @@ No entanto, mesmo que as considerações anteriores sejam de alguma forma ignora
 
 De igual modo, mesmo que eu escolha pagar os meus impostos de forma voluntária, não posso, com justiça, impor-lhe essa escolha, já que um contrato voluntário é uma preferência puramente pessoal e, portanto, não pode ser aplicada universalmente através da violência.
 
-### The Necessity Of The State?
+### A Necessidade Do Estado?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+Toda essa questão torna-se ainda mais absurda quando avaliamos a "justificação" moral mais comum para o poder dos governos democráticos, que se baseia na "vontade da maioria"
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+Em primeiro lugar, a "vontade" é um aspecto do indivíduo, enquanto que "maioria" é uma marca teórica para um grupo. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
