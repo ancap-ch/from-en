@@ -62,7 +62,7 @@ Kailan ang lahat ay tinanggap ang UPB na bumalangkas at ilagay ito sa mga mabuti
 
 Ang ihinahayag sa karamihan ng malimit na ginagamit para magbigay ng dahilan ang pamahalaan sa kanilang kakayahan: "ang pamahalaan ang may kakayahang kuhain ang iyong salapi." ito'y, kahit na, sa isang ganap na hindi tama at hindi totoo hinahayag. Ang "pamahalaan" ay wala ng kakayahang kuhain ang iyong salapi, dahilan "ang pamahalaan" ay hihigit sa isang kaalaman, at isang di malamang pagpapakita para sa pagkakatukoy na pangkat ng mga tao. UPB kinakaylangan ng isang higit na pagkakapantay-pantay at mga gustong ipahayag. Dahilan na ang mabuting mga alituntunin ay marapat na pantay-pantay upang sa lahat ng mga lugar at mga oras, nang sa lahat ay marapat na maibalik ang mga gampanin sa ganitong pamamaraan:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"*ang mga taong nilalang ay maaari may kagandahang-inaasal upang makakuha ng salapi na mula sa ibang taong nilalang at kung sakaling itoy magkasundo na makagawa sila ng isang sabi-sabi sa ahensya na mapagkatwiran sa kanilang mga aksyon.*"
 
 If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
 
