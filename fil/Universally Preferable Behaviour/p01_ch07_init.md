@@ -16,9 +16,9 @@ Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operaha
 
 Ang mandurukot na sumaksak sa iyo, gayonpaman, ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, ito kung bakit ang kanyang pag-atake ay ang moral na *salungat* sa pagsisikap ng surdyon.
 
-Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagsisimula at pagpapanatili ng ugali ng paninigarilyo, aking inilagay sa galaw ang tanikala ng sanhi na nagresulta sa isang nakamamatay na paghihirap. Tiyak pa rin para sa akin na magkaroon ng kanser sa baga kahit hindi ako naninigarilyo - o manigarilyo ng hindi nagkakaroon ng kanser sa baga - subalit aking tiyak na naapektuhan ang mga pangyayari.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Gayundin, posible para sa akin na iwan ang aking pitaka sa upuan sa parke sa loob ng isang linggo, balikan at makitang naroroon pa rin ito, pero ang iwan iyon sa nasabing mahabang panahon, aking tiyak na naapektuhan ang mga pangyayari na iyon ay pwedeng mawala.
 
 On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
 
