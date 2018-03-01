@@ -20,11 +20,11 @@ Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga
 
 Gayundin, posible para sa akin na iwan ang aking pitaka sa upuan sa parke sa loob ng isang linggo, balikan at makitang naroroon pa rin ito, pero ang iwan iyon sa nasabing mahabang panahon, aking tiyak na naapektuhan ang mga pangyayari na iyon ay pwedeng mawala.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Sa kabilang banda, kung ako ay mananatili sa bahay tuwing gabi, ako ay hindi umaakit ng krimen, at kung isang baliw ang lumusob sa aking tahanan at malaya akong ninakawan, hindi ako maaaring sisihin para sa anumang sanhing aking idinulot sa insidente.
 
-### The Non-Aggression Principle (NAP)
+### Ang Walang-Agresyon na Prinsipyo (WAP)
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Isang moral na tuntunin ang kadalasang iminimungkahi na tinatawag na *walang-agreyon na prinsipyo*, o WAP. Ito ay tinatawag bilang isang "porkupayn pasipist," ayon alam na ginagamit lamang ng pokupayn ang kayang "pwersa" bilang pagtatanggol sa sarili. Ang WAP ay ang pangunahing proposisyon na " ang pagsisimula ng pgaggamit ng pwersa ay moral na mali." O, upang mas ilagay sa termino ng ating pag-uusap: "Ang hindi pagsisimula ng pwersa ay unibersal na kanais-nais".
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 
