@@ -95,11 +95,11 @@ Ang mga organisadong krimen ay hindi nagkakaloob ng mga mabubuting halimbawa, da
 
 Isa pang kapaki-pakinabang na katotohanan ay walang pinuno na magdedeklara ng digmaan sa isa pang pinuno na may sandatang nukleyar. Sa nakaraan, noong maramdaman ng mga pinuno na sila ay hindi na tinatablan ng personal na paghihiganti, sila ay mas nagnanais na tapusin ang kanilang sarili populasyon sa pamamagitan ng paglulunsad ng digmaan. Ngayon na ang kanilang mga sarili ay saklaw ng pagkalipol, sila ay nagnanais lamang na atakihin ang mga bansang hindi makakalaban.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ito ay nagtuturo ng aral sa kung bakit ang mga tao ay kailangan ng disarmado at umaasang populasyon - at ang isang mabuting halimbawa ng takot ng paghihiganti na likas sa mga balanseng sistema ng desentralisado at nagpapaligsahang kapangyarihan *ay ang natatanging pamamaraan ng pagseseguro at paagpapanitili ng personal na kalayaan*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Ang pagtakas mula sa mga haka-hakang mga demonyo tungo sa mga protektadong mga kulungan ng mga pamahalaan ay pagtitiyak lamang ng pagkawasak ng mismong mga kalayaan na siyang daan para sa kapaki-pakinabang na buhay.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Tingnan [Praktikal na Anarkiya](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
 [^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
