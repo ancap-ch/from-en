@@ -87,9 +87,9 @@ Ang tanging paraan upang ang mga sosyal na institusyon ay lumago bilang mga mara
 
 Sa isang boluntaryong lipunan, ay walang pagbubuwis, samakatuwid anumang grupo na nagnanais na magkamit ng monopolistikong kapangyarihan ay kailangang pondohan ang sarili nilang hukbo, na hindi magiging ekonomikal na magagawa at hindi kapaki-pakinabang.[^11]
 
-Napakahirap na unawain ang lohika at intelehensya ng argumento na, upang maprotektahan tayo sa grupo na *maaaring* tumalo sa atin, ating dapat suportahan ang grupo na *tinalo* na tayo. Ito ay nahahawig sa makaestadong argumento tungkol sa mga pribadong monopolyo - na ang mga mamamayan ay dapat gumawa ng pampamahalaang monopolyo dahil sila ay takot sa mga pribadong monopolyo. It does not take keen vision to see through such nonsense.
+Napakahirap na unawain ang lohika at intelehensya ng argumento na, upang maprotektahan tayo sa grupo na *maaaring* tumalo sa atin, ating dapat suportahan ang grupo na *tinalo* na tayo. Ito ay nahahawig sa makaestadong argumento tungkol sa mga pribadong monopolyo - na ang mga mamamayan ay dapat gumawa ng pampamahalaang monopolyo dahil sila ay takot sa mga pribadong monopolyo. Hindi nagkaroon ng masusing pananaw upang makakita mula sa kawalang saysay na ito.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Ano ang ebidensta para sa pananaw na ang mga desentralisado at nagpapaligsahang mga kapangyarihan ay nagpapalaganap ng kapayapaan? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
 Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
 
