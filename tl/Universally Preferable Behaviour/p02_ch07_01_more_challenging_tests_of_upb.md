@@ -44,7 +44,7 @@ Bago, kapag pinag-usapan natin ang ukol sa UPB, nasabi natin na, kung ang UPB ay
 
 Kaya naman kapag namin ang mga kalagayan ng binawasan na responsibilidad, hindi namin *pinag-uusapan* ang responsibilidad na umuosbong, ngunit sa halip ay kinikilala ang isang sitwasyon na kung saan ang responsibilidad ay hindi umuosbong, kahit sa ilang mga antas. Kung ipinapahayag ko na ang isang taong nasa upuang de gulong hindi ay hindi pwedeng gumamit ng eskalador, hindi ko tinatanggal ang kanyang karapatan na gumamit ng eskalador, ngunit itinuro lamang na hindi nya ito magagawa, nasa katotohanan, ay gamitin ito. Kapag ipinahayag ko na ang UPB ay hindi magagawa sa mga pagkilos ng isang limang taong gulang, hindi ko ipinapahayag na ang UPB ay sabhektibo, ang kahit anumang mas higit sa isang kinakailangan para sa isang roller coaster sa paanuman paraan ay magkaroon ng konsepto ng "mataas" na sabhektibo.
 
-If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
+Kung ako ay nagkusang-loob na pumasaok sa kontrata kasama ka na kung saan ipinapangako ko na babayaran ko ang iyong bayarin sa loob ng isang taon, ako hindi pipirma ang sarili ko para maging alipin, ngunit sigurado na nakamit ko ang positibong obligasyon na ngayon ako ang may responsibilidad.
 
 If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
 
