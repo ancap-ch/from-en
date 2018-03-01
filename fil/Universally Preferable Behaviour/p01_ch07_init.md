@@ -12,11 +12,11 @@ Ang isang surdyon ay maaari kang "saksakin: ng isang iskalpel, subalit madali na
 
 Ang pagkakaibang ito ay mauunawaan sa pamamagitan ng karagdagang pag-aanalisa ng *pagsisimula*.
 
-Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operahan ka. Ang dahilan kung bakit ang "pagsaksak" ng surdyon ay hindi imoral ay dahil ang kanser ang "nagpasimula" ng pag-atake sa iyong buhay at kalusugan. Ang surdyon ay kumikilos bilang "kahaliling ahente ng pagtatanggol ng sarili." gaya ng isang tao na binaril ang mandurukot na umaatake sa iyo. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operahan ka. Ang dahilan kung bakit ang "pagsaksak" ng surdyon ay hindi imoral ay dahil ang kanser ang "nagpasimula" ng pag-atake sa iyong buhay at kalusugan. Ang surdyon ay kumikilos bilang "kahaliling ahente ng pagtatanggol ng sarili." gaya ng isang tao na binaril ang mandurukot na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa surdyon, at nakatali ang kanyang pag-uugali ng ispesipikong kontrata.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Ang mandurukot na sumaksak sa iyo, gayonpaman, ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, ito kung bakit ang kanyang pag-atake ay ang moral na *salungat* sa pagsisikap ng surdyon.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
 
 Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
 
