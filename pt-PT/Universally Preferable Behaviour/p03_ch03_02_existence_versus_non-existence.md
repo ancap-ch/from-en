@@ -83,7 +83,7 @@ No início desta secção, mencionei que as pessoas geralmente cometem dois *err
 
 Essa visão surge do mesmo erro descrito acima. Se *todas* as instituições sociais estão, constantemente, a tentar crescer no poder e a impor a suas vontades sobre os outros, então, usando esse mesmo argumento, um governo centralizado, não pode existir. Se é uma lei de ferro que os grupos sempre tratam de ganhar poder sobre os outros grupos e indivíduos, então esse desejo de poder *não vai acabar se um deles ganhar, mas continuará a espalhar-se por toda a sociedade, praticamente, sem oposição, até que a escravidão seja a norma*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+A única maneira de que as instituições sociais se transformem em monopólios violentos é *descarregando os custos da execução nas suas vítimas*. Os governos crescem sem parar, porque podem pagar aos cobradores de impostos com uma parte dos impostos que recebem. Portanto, os escravos são obrigados a pagar os custos da sua escravidão.
 
 In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
 
