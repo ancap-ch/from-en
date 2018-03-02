@@ -85,9 +85,9 @@ Essa visão surge do mesmo erro descrito acima. Se *todas* as instituições soc
 
 A única maneira de que as instituições sociais se transformem em monopólios violentos é *descarregando os custos da execução nas suas vítimas*. Os governos crescem sem parar, porque podem pagar aos cobradores de impostos com uma parte dos impostos que recebem. Portanto, os escravos são obrigados a pagar os custos da sua escravidão.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Numa sociedade voluntária, não haveria tributação e, portanto, qualquer grupo que desejasse obter o monopólio do poder, teria que financiar o seu próprio exército, o que nunca seria economicamente viável ou rentável.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+É muito difícil entender a lógica e a inteligência do argumento de que, para nos proteger de um grupo que nos *possa* dominar, devamos apoiar um grupo que *já nos tenha* dominado. É como o argumento estadista sobre os monopólios privados - que os cidadãos devem criar um monopólio governamental, porque têm medo dos monopólios privados. Não é preciso uma visão muito perspicaz para ver esses absurdos.
 
 What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
 
