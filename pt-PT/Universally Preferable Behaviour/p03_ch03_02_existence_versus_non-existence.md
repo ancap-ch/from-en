@@ -57,14 +57,14 @@ A terceira possibilidade é que a *maioria* das pessoas são más e apenas algum
 
 As pessoas boas não agem de maneira moral por medo ao castigo, mas porque amam a virtude e a paz mental - e assim, ao contrário das pessoas más, têm pouco a ganhar ao controlar o governo. Desde este ponto de vista, o governo será, inevitavelmente, controlado por uma maioria de pessoas más que irão dominar tudo, em detrimento de todas as pessoas morais.
 
-A quarta opção é que a maioria das pessoas é boa e apenas algumas são más. Esta possibilidade está subordinada aos mesmos problemas descritos acima, nomeadamente, que as pessoas perversas sempre querem possuir o controlo sobre o governo, para se protegerem das consequências dos seus crimes. Esta opção só muda a *aparência* da democracia: porque a maioria das pessoas é boa, os seguidores doentios do poder, devem mentir-lhes para o conquistar e depois de alcançar o cargo público, imediatamente rompem as promessas e prosseguem com as suas próprias agendas corruptas, reforçando a sua vontade através da polícia e dos militares.[^7] Portanto, o governo continua a ser o maior prémio para a maioria das pessoas perversas, que rapidamente obterão controlo sobre o seu incrível poder - em detrimento de todas as boas almas - e assim, o governo também não pode ser permitido, nesse cenário.
+A quarta opção é que a maioria das pessoas é boa e apenas algumas são más. Esta possibilidade está subordinada aos mesmos problemas descritos acima, nomeadamente, que as pessoas perversas sempre querem possuir o controlo sobre o governo, para se protegerem das consequências dos seus crimes. Esta opção só muda a *aparência* da democracia: porque a maioria das pessoas é boa, os seguidores doentios do poder, devem mentir-lhes para o conquistar e depois de alcançar o cargo público, imediatamente rompem as promessas e prosseguem com as suas próprias agendas corruptas, reforçando a sua vontade através da polícia e dos militares.[^7] Portanto, o governo continua a ser o maior prémio para a maioria das pessoas perversas, que rapidamente obterão controlo sobre o seu incrível poder - em detrimento de todas as boas almas - e assim, neste cenário, o governo também não pode ser permitido.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Então é claro, que não há uma situação em que um governo possa, lógica ou moralmente, existir. A única justificação possível para a existência de um governo seria, se a maioria dos homens fosse má, mas todo o poder do governo fosse sempre controlado por uma minoria de homens bons.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+Esta situação, embora seja teoricamente interessante, rompe-se, logicamente, porque:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
+1. A maioria malvada, rapidamente superava a minoria ou dominava-a através de um golpe;
+2. Não há forma de garantir que apenas pessoas boas assumam, sempre, o governo; e,
 3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
 
 The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
