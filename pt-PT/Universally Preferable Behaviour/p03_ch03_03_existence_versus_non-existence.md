@@ -2,13 +2,13 @@
 
 A idéia de que nascer cria um contrato com uma agência de ficção, que em termos práticos o torna um quase-escravo para indivíduos específicos, é comum tanto à religião quanto ao estado – e uma outra agência muito mais pessoal, que falo sobre no meu primeiro livro "Na verdade: A Tirania da Ilusão"
 
-Sempre que um sacerdote diz: "Obedecer a Deus", o que ele realmente está dizendo é: "Obedecer-me *eu*." Como Deus não existe, qualquer mandamento que o sacerdote afirma que vem de Deus é realmente vindo do padre. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Sempre que um sacerdote diz: "Obedecer a Deus", o que realmente está a dizer é: "Obedecer-me". Como Deus não existe, qualquer mandamento que o sacerdote afirma que vem de Deus é realmente vindo do padre. "Deus" é apenas uma entidade fictícia usada para o intimidar teoricamente, para obter a sua submissão muito prática no mundo real, para indivíduos reais, em termos de entrega voluntária de dinheiro, tempo e recursos.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. É muito mais eficiente para os exploradores que seus escravos considerem a escravidão uma virtude, uma vez que reduz enormemente os custos de controlá-los.
+É muito mais eficiente para os exploradores que os seus escravos considerem a escravidão uma virtude, já que reduz enormemente os custos de controlá-los. Se eu o posso convencer de que é mau evitar que me sirvam e virtuoso ser o meu escravo, então eu quase não preciso contratar tantos bandidos para o intimidar, controlar e roubar.
 
 As mitologias religiosas e estaduais então são ficções que reduzem consideravelmente os custos de controle das populações; Eles são o lubrificante e o combustível para a horrível maquinaria da violência institucionalizada.
 
-Em todo o mundo, os governantes são uma porcentagem muito pequena da população. Como pode ser possível que por um a dois por cento das pessoas controle todos os outros? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Em todo o mundo, os governantes são uma porcentagem muito pequena da população. Como pode ser possível que por um a dois por cento das pessoas controle todos os outros? Certamente existe um certo monopólio sobre os armamentos, com certeza, mas esse monopólio é relativamente fácil de combater, já que a maioria dos governos ganha uma fortuna vendendo armas em todo o mundo.
 
 A triste realidade é que as pessoas como um todo são escravizadas para entidades de ficção, como nações, deuses, culturas e governos.
 
@@ -18,7 +18,7 @@ O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obed
 
 Uma razão central que sabemos que os governos e os deuses são desnecessários é que eles são tão eficazes. *Sabemos que a maioria das pessoas deseja desesperadamente ser boa porque são tão facilmente controladas por teorias morais*.
 
-. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer *o padre*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer *o padre*. Se eu lhe disser para "obedecer ao seu coração", posso perguntar, razoavelmente: "e *eu sozinho* posso falar pelo seu coração"?
 
 Claro que não.
 
@@ -38,7 +38,7 @@ Na realidade, quando me dizem que devo pagar meus impostos para "o governo", o q
 
 Em nenhum momento, qualquer entidade como "o governo" levantar um dedo, fazer um movimento, abrir uma conta bancária ou gastar um centavo. Imaginando que um conceito chamado "o governo" tem a capacidade de levar ou gastar seu dinheiro é exatamente o mesmo que esperar que "Deus" venha buscá-lo e levá-lo para a igreja.
 
-Assim, a interação real é que um homem me envia uma carta me dizendo que eu devo-lhe dinheiro. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Assim, a interação real é que um homem me envia uma carta me dizendo que eu devo-lhe dinheiro. Eu não tenho nenhum contrato com essa pessoa e ele na verdade não possui nenhum dos meus bens, embora alguns tenham um suposto "contrato" que afirmam que foi ele que fez.
 
 Se eu não pagar esse rapaz, ele enviará outro rapaz para minha casa para coletar o dinheiro - mais "juros" e "cobranças"
 
