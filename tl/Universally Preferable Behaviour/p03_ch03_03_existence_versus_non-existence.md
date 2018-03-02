@@ -88,7 +88,7 @@ If this tax collector then claims that his concept called “the government” o
 
 #### "ang karamihan" at UPB
 
-Ang UPB ay hindi pinapayagan para sa pagtitipon ng iisang tao na hindi pinapayagan o ibaligtad ang mga pag-aari ng bawat isang tao. Ang sampung mga leon ay hindi nakagagawa ng isang elepante, iisang pamahalaan, o iisang diyos. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+Ang UPB ay hindi pinapayagan para sa pagtitipon ng iisang tao na hindi pinapayagan o ibaligtad ang mga pag-aari ng bawat isang tao. Ang sampung mga leon ay hindi nakagagawa ng isang elepante, iisang pamahalaan, o iisang diyos. Ang sampung libo ng mga sundalo ay pwedeng makagawa ng isang "hukbo," pero hindi pwedeng ibaligtad ang kabigatan, o makagawa ng pagpatay sa mabuting tao.
 
 Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
 
