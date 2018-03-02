@@ -70,40 +70,40 @@ Idan kai mun gyaran kuskuren da nayi, kana goyon bayan cewa hakan shine yafi zam
 
 Ba zaka cemun: “na bar abun da na yarda dashi nabi naka ba saboda kafi son haka,” amma “ka gyara ra’ayin ka saboda hakikanin kuskuren ne.” Kuskure na ba daga kin yarda da kai bane, amma sakamakon kauce ma tsarin hakikan gaskiya. Gardaman ka cewa na gyara ra’ayin kuskure ya rataye ne akan ingancin hakikanin gaskiya—wanda idan gaskiya *fifikon duniya* akan kuskure, sannan kuma gaskiya *hakikanin duniya* ne.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Jigo Na 5: Kawai Hakikanin Hanyar Bambam ce Gaskiya da Karya
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Idan baka yarda dani ba, amma nace ma ka yarda dani saboda ni ko da yaushe daidai nake, ba a kan haka bane zaka yarda da gardama na. Idan ka bada hujjojin da suke nuna bani da gaskiya ba, amma naci gaba da fadin ka yarda da abun da nake cewa saboda ni *kullum* daidai nake, wannan musun namu ba za’a kira shi muhawara ba.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Da zaran na bada wasu hakkokin tantance gaskiya daga karya, na yarda cewa gaskiya ta wuce maganan ra’ayi.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Wannan bashi ke nufin hakkokin dalilai na *dabaru* ne ba – zan iya ishara da rubutun adini a misali. Duk da haka, idan nayi hakan, ina nan akan baka ta na cewa gaskiya ta wuce hashashen abun da mutum ke tunani – wai kawai hakikanin hanyoyin dake zama tsakanin gaskiya da karya.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Jigo Na 6: Gaskiya Tafi Karya
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Idan nace  ma duniya a lebur take, ka amsa cewa duniya ba lebur take ba, amma zagaye, to ka yarda cewa batun gaskiya da karya duk na zama hakika, sannan kuma gaskiya tafi karya.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Idan nace ina son ayis kirim mai cakulet, kai kuma kace kana son banila, zai yi matukar wahala bada hujja cewa banila yafi cakulet. A yayin da kai mun gyara da kwararan *bayanai* kuma hakikanin gaskiya a *fifikon duniya* yafi kuskure.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Zaman Lafiya Shi Hanya Warware Shawarwari
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Idan nace ma duniya lebur take, sai kawai ka ciro bindiga ka harbeni, wannan zaiyi karanci ace misalin muhawara.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Idan nace ma kafin nan cewa zamu hukunta duk wani rashiin yarda da harbi na, ba zanyi gasa da kai ba. Wannan karara na nuna cewa muhawara na jingine ne kan hujja, dalili, gaskiya da inganci kawai *fifikon duniya* hanyar warware shawarwari tsakanin mutane. Kwata-kwata zai zamo rashin dibara ayi gardama cewa ana warware bambam ci ra’ayi ta hanyar ta’addanci – abu kadai dake nuna *tasirin* ta’addanci a gardama shine ta’addanci.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+A jigon, to, muhawara na bukatar hakikan hanyar, yare mai ma’ana, a wurin bayyana gaskiyar da duniya ta raja’a, wanda hakika haka aka fi so da kuskuren mutum.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Wannan fifiko na gaskiyar da duniya tayi rinjaye bashi ne fifikon *digiri* ba, amma na *yanayi.* duk guntuwar hanyar da zata rage tafiyar zuwa rabi tafi doguwar hanyar kyau sau biyu—amma dukan su *nada kyau matuka* akan da mutum yayi batan hanya.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Hanya daya ne, gaskiya ba wai kawai *tafi* kuskure bane—*anfi son ne matuka* ko bukata.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Jigo Na 8: Mutane ke da Hakkin akan Ayyukan su
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Idan na musanta mutane ke da hakkin aikin su, zan tsinci kaina a rudani, wanda shine tambaya akan ko, ko a’a nine ke da hakki akan gardama na, kuma  nine, ko a’a ba kai bane ke da hakki akan mayar da martanin ka.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Idan gardama na akan cewa mutane *basu* da hakki akan ayyukan su ya zamo gaskiya, to bani da hakki akan gardama na, kuma kaima baka da hakkin martanin ka. Haka kuma, idan na yarda baka da hakkin martanin ka, zai bada ma’ana mu cigaba da gardama—zai zamo daidai da gardama da telebijin.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Duk, aikin, idan nace ma baka da hakki akan aikin ka, ina gayama cewa duk duniya an yarda cewa fifiko ba abu mai  yiwuwa bane, tunda idan baka da iko akan ayyukan ka, ba zaka iya zaben garin da kake so ba, wannan shine gaskiya ko karya. Haka zalika, wannan gardama da na saman na rushe kansu.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: yana da amfani matuka ka tuna wannan wuri, tunda yana da amfani a gaba.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Tambayar hakki anan shine:  A kusa tambayar ganin dama da kaddara, wanda ke kunshe a cikin wani littaffi.
