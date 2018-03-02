@@ -4,7 +4,7 @@ content_files:
     - 01_pagsasalita.md
     - ""
 translation:
-  language: tl
+  language: en
   is_translation: true
   this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/tl/Libertarianism and the Alt-Right"
   fetch_translators: true
