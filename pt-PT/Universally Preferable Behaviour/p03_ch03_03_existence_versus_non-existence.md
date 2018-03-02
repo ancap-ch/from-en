@@ -60,13 +60,13 @@ Podemos revolucionar o mundo ao aceitar a afirmação - e a prova - de que o rou
 
 Quando tomamos a estrutura do CUP e aplicamos as declarações morais sobre o governo e a religião, ocorrem alguns resultados muito interessantes.
 
-A afirmação que é usada com mais frequência para justificar o poder do governo é: "o governo tem o direito de tomar o seu dinheiro". Porém, isso é uma declaração totalmente imprecisa e falsa. O "governo" não tem o direito de tomar o seu dinheiro, dado que "o governo" é um simples conceito, uma descrição abstracta para um grupo determinado de pessoas. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+A afirmação que é usada com mais frequência para justificar o poder do governo é: "o governo tem o direito de tomar o seu dinheiro". Porém, isso é uma declaração totalmente imprecisa e falsa. O "governo" não tem o direito de tomar o seu dinheiro, dado que "o governo" é um simples conceito, uma descrição abstracta para um grupo determinado de pessoas. O CUP requer uma declaração mais coerente e objectiva. Dado que as regras morais devem ser as mesmas para todos, em todos os lugares e em todos os momentos, devemos reformular a regra desta forma:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+"* Os seres humanos, moralmente, podem tomar o dinheiro de outros seres humanos se formarem uma agência conceitual que justifique as suas acções.*"
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Se retornarmos a Bob e Doug na nossa pequena sala de experimentos morais, podemos ver, muito rapidamente, que isso se torna numa proposição impossível.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Se Bob diz a Doug: "Eu agora represento o conceito ideal" FUBAR ", o que me justifica plenamente, a tomar o seu isqueiro. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
 
 What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
 
