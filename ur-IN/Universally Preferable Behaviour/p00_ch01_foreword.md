@@ -1,58 +1,60 @@
 ## Foreword
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+بہت سی پریوں کی کہانیوں میں ایک عظیم الشان طاقت کا خونخوار درندا،ایک اژدھا یا ایک امریکی گدگٹ، جس نے آ س پاس کے علاقوں میں تشدد پھیلا یا. مقامی  گانوں والے اس درندے سے کانپ اٹھتے تھے؛ انہوں نے اپنے مویشیوں کا بلدان دیا،انہوں نے اس قاتلانہ لھر سے چھٹکارا پانے کی امید میں بہت سے پینسے   اور خون ادا کیا. 
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+بہت سے لوگوں نے اس درندے  کے خوفناک  سایے میں رہ کر اپنا سر جھکایا،اپنے ڈر کو ہوشیاری سمجھ بیٹھے،لیکن ان میں کچھ-شرابی شاید دلیری یا احمقانہ بھادری دکھا کر جنگ کا فیصلہ کر بیٹھے. سالوسال،برسوبرس،ان امیدوار پہلوانوں نے یہی  کوشش کی کہ ہم اس درندے کو اپنی طاقت، خوبی اور اپنی ہوشیاری سے اس کو برابر کی ٹکر دے سکھے. 
 
-Try – and fail.
+کوشش کی-لیکن ناکام ہوے. 
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+درندا ہمیشہ امر ہوتا ہے، اسی لیے گاوں والے اس ظالم حکمران سے چھٹکارا پانے کی امید نہیں رکھ سکتے. درندا کبھی عقلمند نہیں ہوتا اور انہیں سوداگری کی کوی خواہش نہیں ہوتی، اور اس لئے  باتچیت  اور بحث کرنا ممکن نہیں. 
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+مایوس امیدواروں کی ایک ہی امید ہے کہ کوئی ایسا شخص ظاہر ہو جو اس درندے کو مات دے سکے. 
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+لامحالہ،ایک آدمی آگے بڑھا جس نے کسی کو بھی موقع نہیں دیااور سب کو متاثر کیا.وہ ایک مستحکم لڈکا،ایک موچی کابیٹا،ایک نان ساز شاگرد-اور کبھی کبھی آوارہ بھی ہے.
 
-This book is the story of my personal assault on just such a beast.
+یہ کتاب میری انفرادی حملے کی کہانی ہے جس میں ایک ایسا درندا ہے. 
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+یہ"درندا" ایک اعتبار ہے جس کا حقیقی ،عقلی، لامذھبی، سائینسی و اخلاقی نظام واضع کرنا ناممکن ہے. یہ "جانور"  ایک فریب نظر ہے جس کے  اخلاقیات بتوں اور حکومتی کے  غیر منتقلی دلدل  میں ہمیشہ کے لیے کھو جا نے چاہیے ،صرف معمولی وجوہات کے لیے مجبور کر نا، لیکن ہمیشہ کی طرح منطقی واجبیت اور واضح تعریف کی کمی محسوس ہوئی. یہ جانور ایک تصور پیدا کرنے کی طاقت ہے  جو جوہر، ہماری بڈی اور گہری خوشی، اس زات پات اور   لامذھبی سیانوں کو ایک طرف چھوڑ کر، اور دھول میں جانوروں کے پنجے پڈنے کے لیے چھوڑ دیا، جہاں سیاستدان اور پادری - اور والدین نے  نمایش اور استحصال کیا. یہ جانور ایک وھم ہے جو، والدین کی طنزیھ نظم کے بغیر، بتوں اور سرکاری بندوقوں سے دھماکانا، ہم عاقل اور اچھے دونوں ایک ساتھ نہیں ہوسکتے. 
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+اس وحشی درندے نے بہت سے بہادر سپاہیوں، سکرات سے افلاطون، افلاطون سے اگسٹین، اگسٹین سے ہیومن، ہیوم سے کانت، کانت سے رینڈ.
 
-The cost to mankind has been enormous.
+بنی نوع انسان کی قیمت بہت ہی بے اندازہ ہے. 
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+چونکہ ہم کائناتی اصول اخلاقیات کے   عقلی نظام کو واضع کرنے میں ناکام رہے، ہمیں مزہبی ڈراونی کہنیاں اپنے بچوں پر عائد کرنے پر مجبور کیا گیا، یا بندوق، حوالات، اور فوج دیتے  جو چھوٹا اجارہ تھا جہاں   بیجان سرکاری محاسب تھے جو اپنے آپ کو " ایک ریاست" کہتے تھے. 
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+چونکہ جس کو ہم "اصول"  کہتے ہیں وہ محض  موضوعی اور تہذیبی رہے، اور ہم نے  لامحالہ دھمکانے، ڈر اور تشدد پر بھروسہ کرنا چھوڑ دیا جس کی وجہ سے سماجی حکومت  لاگو ہوی. چونکہ اخلاقیات میں عقلی بنیاد اور سائنسی طریقے کی کمی تھی، "شرافت"  شکار بن گئ جس میں دیوتاؤں کے قصے قبائلی خونی جنگ بن گئی، ہر کوئی گروہ اپنی طرف سے پوری کوشش میں لگا تھا  کہ ہم ان لوگوں کی فضیلت کی تابعداری پر اختیار پا سکے. 
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+ہم اخلاقیات کے بغیر نہیں رہ سکتے، لیکن ہم حقیقی طور پر اخلاقیات کی توضیع نہیں کر سکتے-اس طرح سے ہم شاندار فریب، ترش دو کے غلبے یا دیندار غلامی کی خالی زندگی کو ہمیشہ کے لئے ملمت کر گئے. 
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+زہنی طور پر، دنیا میں کوئی اونچے مفادات نہیں. ہم  مقصد اور عقلی اور اخلاقی قوانین کی وضاحت کرنے میں ناکام رہےجس کی وجہ سے  ہزاروں لاکھوں انسانی جانیں گیی، ان مزہبی اور ریاستی جنگوں میں. 
 
-In many ways, the stakes are getting even higher.
+اور بہت سے طریقوں میں، یہ مفادات اور بھی زیادہ بڈھنے لگے. 
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+انٹرنیٹ کی وجہ سے بڈھتی ہوی معلومات کے بہاؤ نے نیی نسل میں شک وشبہا بڈھا دیا ہے جسے" فضیلت" کہتے ہیں جو ان پرفریب بزرگوں کی خودمختار پریوں کی کہانیوں سے - کم یا زیادہ نہیں تھا. جن کو اختیار تھا انہوں نے متقیی جھوٹ بولے-اور ان عبادت کرنے والوں کی سازشیں - پہلے سے زیادہ صاف و شفاف ہیں. 
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"سچائی" کا خلاصہ دستکاری کے طور پر؛ "صفت" اختیار کے طور پر؛" نمق حلالی" غلامی کے طور پر؛ اور جس کو ہم "شرافت" بولتے ہیں اسے ایک بدترین کٹھ پتلیوں کا کھیل بولا گیا جو کمزور اور ڈرپوک لوگوں کو ان کی غلامی کروانے کی چال تھی. 
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+اس اندازے سے  ایک نئی عدمیت نسل کا آغاز ہوا، جس طرح انیسویں صدی میں جرمنی نے پیر ایش کی. یہ انتہائی اضافے اپنے پرجوش حملے کو اس کے لئے موجود رکھتے ہیں جو کسی بھی قسم کے مطالبے پر یقین رکھتے ہیں.یہ مابعد جدیدیتی نسل جس نے اپنے اجتماعی تزکرے کے ثقافتی تعصب کو تجاوز  کر دیا، لیکن اب سارا سچ محض کسی خاص خیال کی بنا پر ادعا ہوا. جیسے وسیع-انکھوں والا بچہ جس کو ترش رو دانش میں  نشان زدہ کیا گیا، وہ تمام مواصلات کو دکھاوے کے  طور پر دیکھتے ہیں، اور سب دعوے تبلیغی انجمن کے طور پر، اور سب اخلاقی نصیحتیں منافقانہ چرانے کی عادت کے طور پر. 
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+چونکہ ہم نے کوئی سمجھوتا  نہیں کیا اس ایکجوٹ ،حقیقی اور عقلی حمایت پر  جس سے وضع تجویز کا جائزہ لے سکے، "اخلاقیات" تصوف اور ناگزیر منطقی نتیجے کے تشدد کا شکار بن کے رہ گیی.روشن خیالی پانے سے پہلے ہی مزہبی گروہ نے ایک مخصوص طبقہ کی حکومت پر قبضہ پانے کے لئے مسلسل حملے جاری رکھے، اب مقابلے میں اخلاقی خوشگوار لوگ ریاست اور اس کی جبر کی آلت پر قبضہ پانے کے لئے جنگ کرتے رہے. 
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+اسی لئےاخلاقیات جدید علمی میں اضافی رہ گئی،جس طرح قرون وسطٰی"فلکیات"نےجدید فلکیات کے ساتھ کیا-ایک خیالیپران کا دایرہ، داستاں گویی،خطرے،مجبوری اور استحصال کی وجہ سے مجبور کیا-جس کی وجہ سے کوئی بھی اصلی پیشرفت جو سچائی کی طرف تھی وہ فعال طور پر خارج ہوی.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+یہ "درندا" جو اضافیتی اخلاقیات کا ہے دھندلا سا ہمارے اوپر منڈا رہا ہے، ہمارا شکار کرنا چاہتا ہے، جوازپیش محصول طریقہ اپنا رہا ہے، قید، احتساب اور جنگ اپنا رہا ہے. یہ ان نوجوانوں جو محدود نشست اور ریاستی اداروں میں ہے ان سے اپنی غلامی کروا رہا ہے؛ یہ ان غریبوں کو جو مزدور خیموں میں رہتے ہیں اپنی چال پھنستا ہے؛ یہاں تک کہ ان کو بھی اپنی غلامی کروا تا ہے جو نوزائیدہ اور عمیق کنووں کے قومی ادھاروں میں ہیں. 
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+جیسا کہ میں نے اپنی پرانی کتاب"پر حق ایک فریب نظرظلم"میں لکھا،ایک سب سے ضروری جھوٹ جو غیر ثابت اخلاقی نظریات کے بیچ میں تھا-ایسے نظریات ہمیشہ ان بچوں کو حقیقی اور صریح حقائق کی شکل میں دکھایاجاتا ہے،جبکہ سچائی تو یہ ہے کہ وہ محض ایک ثقافتی تعصب ہیں.سائنسدانوں کو کسی حکومت یہ روم کے بادشاہ کی ضرورت نہیں اس کی وجہ یہ بھی ہے کہ سائنسدانوں کے پاس ایک ایساطریقہ کار مقصد ہے جس سے یہ لڈاییاں حل ہو سکتی ہیں :وہ ایک سائینسی طریقہ ہے.اس بولی کو اِرتقاء دکھانے کے لیے کسی درمیانی اختیار کی ضرورت نہیں اس کی وجہ یہ ہے کہ یہ"آزاد بازار"پر انحصارکرتا ہے جس میں جمع ہوے شخصیی انداز اور افادیت پر زور دیا گیا ہے.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+جدید اخلاقیات اور تاریخی اخلاقیات ایک وجہ یہ بھی ہے - انہوں نے ہمیشہ پہلے بچوں کی  غنڈہ گردی پر بھروسہ کیا، اور پھر بڈھوں کا دھمکانا، یہ ایک جوڑ توڑ جھوٹ تھا  جسے  بھیس بدل کر نیک سچ کی طرح دکھایا گیا. 
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+سچائی یہ ہے کہ ہمیں اخلاقیات کی ضرورت ہے؛ اور جھوٹ یہ ہے کہ بت   اور حکومت صرف عقلی وضاحت دے سکتے ہیں یا بس اسے لاگو کر سکتے ہیں. 
 
-Still, not *quite* zero.
+اس کتاب میں میرا یہ مقصد ہے کہ میں اس چیز کی وضاحت کر سکھوں کہ ایک طریقہ کارجو  توثیق اخلاقیاتی  نظریات کیا ہے اور وہ ہے مقصد، یکساں، صاف، عقلی، آخباخت-اور سچ. 
+
+میں اس سے باخبر ہوں کہ، اس لمحے میں، آپ کو ابھی ایک ایسی چیز محسوس ہوگی جو آپکو شکوک و شبہات کی ایک بڈھتی ہوی لہر لگے گی. مجھے پوری طرح سے سمجھ آ گیا کہ جو مشکلات وہ ایک لڈکا جو وہاں انٹرنیٹ چلا رہا ہے - جو پاگلوں کا دنیاوی گھر ہے - کیا کسی نے  برسوں سے پڈنے ہوئے فلسفیانے مشکلات ہل کئے ہیں جو خاص طور پر بڈی نہیں تھی- جبکہ، وہ کچھ نہ ہونے کے برابر تھیں اور ویسے وہ عملی طور پر ممتاز وامتیازات اور اس سے بالکل بھی میل نہیں کھاتی تھی. 
+
+ابھی بھی، بالکل صفر کے برابر نہیں تھی. 
 
 ### Ground Rules
 
