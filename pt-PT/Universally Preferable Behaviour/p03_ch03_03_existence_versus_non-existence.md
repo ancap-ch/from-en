@@ -66,9 +66,9 @@ A afirmação que é usada com mais frequência para justificar o poder do gover
 
 Se retornarmos a Bob e Doug na nossa pequena sala de experimentos morais, podemos ver, muito rapidamente, que isso se torna numa proposição impossível.
 
-Se Bob diz a Doug: "Eu agora represento o conceito ideal" FUBAR ", o que me justifica plenamente, a tomar o seu isqueiro. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Se Bob diz a Doug: "Eu agora represento o conceito ideal" FUBAR ", o que me justifica plenamente, a tomar o seu isqueiro. Como você agora me deve o seu isqueiro, deve entregá-lo, ou serei obrigado a tomá-lo à força. "
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Qual será a reacção de Doug? Lembre-se, de acordo com o CUP, o que for válido para Bob também deve ser válido para Doug. Inevitavelmente, Doug responderá: "Ah, sim? Bem *eu* agora represento o conceito ideal 'ANTI-FUBAR', que me justifica plenamente a manter a posse do meu isqueiro. Como você agora não tem o direito de tomar o meu isqueiro, se tentar tomá-lo, serei obrigado a defender-me pela força "
 
 As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
 
