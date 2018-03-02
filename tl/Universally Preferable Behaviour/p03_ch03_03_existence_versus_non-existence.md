@@ -78,7 +78,7 @@ Sa ibang salita, bawat gawa-gawa lamang ay mahirap unawain na ang nagiging dahil
 
 Ang parehong paghawak sa mga tunay na relihiyon.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Ang sinasabing: "ikaw ay dapat na sumunod sa akin dahil ito ang ipinag-uutos ng diyos" marapat na maging higit pa ang inihahayag na wasto kagaya nalang ng: "isang entidad upang ako ay mayroong ginawa na mapataas ang mga kautusan sa iyo para sundin ako." ang alituntunin ng UPB ay kinakailangan, pagkatapos, ng: "ang sangkatauhan ay nilalang na marapat na magpataw ng hindi nakamit sa tiyak na pananagutan ng iba pa, at mangatwiran mga pananagutan ayon sa gawa-gawang mga entidad
 
 Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
