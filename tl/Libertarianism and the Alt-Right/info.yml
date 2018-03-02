@@ -62,14 +62,14 @@ resources:
     rule: "takip ng_unahan"
     content: "takip.png"
     websites:
-      - Resource website
-    description: Resource description
+      - Mapagkukunan ng website
+    description: Mapagkukunan ng paglalarawan
     persons:
       - "template_person"
 targets:
   - 
     target: [ ]
-    name: article
+    name: ang pangkat
     reset_footer_active: false
     reset_footer_depth: 0
     clear_page_active: true
