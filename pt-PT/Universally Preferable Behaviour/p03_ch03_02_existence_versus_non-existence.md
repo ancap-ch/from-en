@@ -97,11 +97,11 @@ Um exemplo mais útil é o facto de que nenhum líder jamais declarou guerra a o
 
 Esta é uma lição instrutiva sobre o motivo pelo qual esses homens exigem populações desarmadas e dependentes - e um bom exemplo de como o medo de retaliações características de um sistema equilibrado de poderes descentralizados e competitivos *, é o único método comprovado de garantir e manter a liberdade pessoal*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Fugir dos demónios imaginários nas prisões protectoras dos governos, só garante a destruição das verdadeiras liberdades que fazem que a vida seja digna de ser vivida.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Veja [Anarquia Prática](http://wiki.mises.org/wiki/Book:Practical_Anarchy)
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Veja *[ Reserva Federal](http://wiki.mises.org/wiki/Federal_Reserve_System)*
 
 [^6]: A perfect balance of good and evil is practically impossible.
 
