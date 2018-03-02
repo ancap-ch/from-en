@@ -1,7 +1,7 @@
 ---
 content_files:
   - 
-    - 01_speech.md
+    - 01_pagsasalita.md
     - ""
 translation:
   language: tl
@@ -12,8 +12,8 @@ translation:
   fetch_progress: true
 titles:
   - Libertarianism
-  - '~~~~~~and~~~~~~'
-  - the Alt-Right
+  - '~~~~~~at~~~~~~'
+  - ang Alt-Tama
 discussions:
   - 
     - https://en.ancap.ch/t/5
