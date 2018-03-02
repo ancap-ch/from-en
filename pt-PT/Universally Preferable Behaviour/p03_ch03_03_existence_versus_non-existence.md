@@ -48,19 +48,19 @@ Agora, se eu chegar a sua casa esta noite vestida como "elfo alto de Narnia" e e
 
 Se eu não pagar ao homem que vem buscar o meu dinheiro, ele tem autorização para tirar uma arma, apontá-lo ao meu peito e me sequestrar - ou atirar se eu resistir. Pode prender-me numa pequena cela durante anos, onde serei submetido à brutalidade mais violenta e violação contínua, até que decida deixar-me ir embora.
 
-Curiosamente, se um homem legitimamente me deve dinheiro, não tenho autorização para o sequestrar e sujeitar a torturas e a violações ano após ano. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Curiosamente, se um homem legitimamente me deve dinheiro, não tenho autorização para o sequestrar e sujeitar a torturas e a violações ano após ano. Assim, o imposto viola completamente a estrutura do CUP, já que é a transferência violenta de propriedade usando o início da força.
 
-Stealing, as we have proven, is evil.
+Como provamos, roubar é o mau.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Einstein revolucionou a física argumentando - e provando - que a velocidade da luz era constante.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Podemos revolucionar o mundo ao aceitar a afirmação - e a prova - de que o roubo é sempre mau.
 
-### Government, Religion, And UPB
+### Governo, Religião e CUP
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Quando tomamos a estrutura do CUP e aplicamos as declarações morais sobre o governo e a religião, ocorrem alguns resultados muito interessantes.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+A afirmação que é usada com mais frequência para justificar o poder do governo é: "o governo tem o direito de tomar o seu dinheiro". Porém, isso é uma declaração totalmente imprecisa e falsa. O "governo" não tem o direito de tomar o seu dinheiro, dado que "o governo" é um simples conceito, uma descrição abstracta para um grupo determinado de pessoas. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
