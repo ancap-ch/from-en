@@ -68,6 +68,6 @@ Tambayar farko akan halin kirki shine *mene ne* su?
 
 A saukake, *halin kirki* shine sa dokoki dake daidai da inganci gane abun da duniya tafi yarda dashi na halin mutane, kamar yadda *lissafin kimiya* ke sa dokokin dake daidai da ingancin bayana dokokin halayya al’amari.
 
-Abu na biyu na tambaya shine: akwai wani abu kamar “fifikon duniya na halayya” gaba daya
+Tambayar ta biyu ita ce: shin akwai wani abu kamar "kyakkyawar dabi'ar duniya"? Idan akwai, za mu iya fara gano abin da irin wannan hali zai kasance. Idan ba haka ba, to lallai dole ne mu tsayar da jarabawar mu a nan - kamar yadda jarrabawar astronomy na Ptolemaic ta dakatar da shi bayan da aka yarda da cewa rana shine tsakiyar cibiyar hasken rana.
 
 [^6]: a lissafin kimiya, tambaya shine: shin dokokin duniya na zahiri gaskiya ne, ko a’a
