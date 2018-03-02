@@ -39,28 +39,28 @@ persons:
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "thanked"
+    rule: "magpasalamat"
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "translator"
+    rule: "ang tagasalin"
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "reviwer"
+    rule: "ang tagasuri"
   - 
     person_: [ ]
     identifier: "template_person"
-    rule: "cover_artist"
+    rule: "takip ng artista"
   - 
     person: [ ]
     identifier: "template_person"
-    rule: "artist"
+    rule: "artista"
 resources:
   - 
     resource: [ ]
-    rule: "front_cover"
-    content: "cover.png"
+    rule: "takip ng_unahan"
+    content: "takip.png"
     websites:
       - Resource website
     description: Resource description
