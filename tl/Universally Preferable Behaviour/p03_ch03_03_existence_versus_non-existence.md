@@ -80,7 +80,7 @@ Ang parehong paghawak sa mga tunay na relihiyon.
 
 Ang sinasabing: "ikaw ay dapat na sumunod sa akin dahil ito ang ipinag-uutos ng diyos" marapat na maging higit pa ang inihahayag na wasto kagaya nalang ng: "isang entidad upang ako ay mayroong ginawa na mapataas ang mga kautusan sa iyo para sundin ako." ang alituntunin ng UPB ay kinakailangan, pagkatapos, ng: "ang sangkatauhan ay nilalang na marapat na magpataw ng hindi nakamit sa tiyak na pananagutan ng iba pa, at mangatwiran mga pananagutan ayon sa gawa-gawang mga entidad
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Dito nang lahat makikita ang parehong mga problema na gaya ng nasa itaas. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
