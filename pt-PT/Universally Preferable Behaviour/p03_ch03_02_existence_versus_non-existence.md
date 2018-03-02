@@ -65,9 +65,9 @@ Esta situação, embora seja teoricamente interessante, rompe-se, logicamente, p
 
 1. A maioria malvada, rapidamente superava a minoria ou dominava-a através de um golpe;
 2. Não há forma de garantir que apenas pessoas boas assumam, sempre, o governo; e,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+3. Não há absolutamente nenhum exemplo de que isso já tenha ocorrido em qualquer um dos anais brutais da história do estado.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+O erro lógico que sempre se faz na defesa do governo é imaginar que quaisquer julgamentos morais colectivos aplicados a qualquer grupo de pessoas *não devem ser aplicados, também, ao grupo que governa sobre eles <0>. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento das pessoas que governam sobre elas também o são.[^9] Portanto, a existência do mal nunca pode justificar a existência de um governo.</p> 
 
 If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
 
