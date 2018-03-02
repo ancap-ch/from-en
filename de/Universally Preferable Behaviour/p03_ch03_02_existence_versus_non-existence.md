@@ -51,66 +51,66 @@ Im zweiten Fall (*alle Menschen sind unmoralisch*) darf die Regierung nicht aus 
 
 Allerdings ist die Regierung *selbst* keiner Gewalt oder Vergeltung unterworfen, sondern ein Gesetz für sich selbst. Wie viele Polizisten und Politiker selbst landen in westlichen Demokratien im Gefängnis?
 
-w
+Wenn also böse Menschen Schaden anrichten wollen, aber nur mit Gewalt gezügelt werden, dann kann die Gesellschaft *niemals* eine Regierung zulassen, denn böse Menschen werden fieberhaft daran arbeiten, die Kontrolle über diese Regierung zu erlangen, um Böses zu tun und Vergeltung zu vermeiden. In einer Gesellschaft des reinen Bösen wäre die einzige Hoffnung auf Stabilität also ein Zustand der Natur, in dem eine allgemeine Bewaffnung und Angst vor Vergeltung die bösen Absichten unterschiedlicher Gruppen abstumpfen würde. Wie bei den nuklear bewaffneten Nationen sorgt ein "Kräftegleichgewicht" für Frieden.
 
-w
-w
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Die dritte Möglichkeit ist, dass *die meisten* Menschen böse sind, und nur wenige sind gut. Wenn das der Fall ist, dann darf auch die Regierung nicht existieren, denn die Mehrheit derer, die die Regierung kontrollieren, wird böse sein und despotisch über die gute Minderheit herrschen. Insbesondere die Demokratie kann nicht zugelassen werden, da die Minderheit der Guten der demokratischen Kontrolle der bösen Mehrheit unterworfen würde. Böse Menschen, die Schaden anrichten wollen, ohne Angst vor Vergeltung, würden unweigerlich die Regierung kontrollieren und ihre Macht nutzen, um das Böse frei von der Angst vor Konsequenzen zu tun.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+Gute Menschen handeln nicht moralisch, weil sie Vergeltung fürchten, sondern weil sie Tugend und Seelenfrieden lieben - und so haben sie im Gegensatz zu bösen Menschen wenig zu gewinnen, wenn sie die Regierung kontrollieren. In diesem Szenario wird die Regierung unweigerlich von einer Mehrheit böser Menschen kontrolliert, die über alle herrschen werden, zum Nachteil aller moralischen Menschen.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Die vierte Option ist, dass die meisten Menschen gut sind, und nur wenige sind böse. Diese Möglichkeit unterliegt den gleichen Problemen, die oben beschrieben wurden, insbesondere, dass böse Menschen immer die Kontrolle über die Regierung erlangen wollen, um sich vor Vergeltungsmaßnahmen für ihre Verbrechen zu schützen. Diese Option ändert nur das *Aussehen* der Demokratie: Weil die Mehrheit der Menschen gut ist, müssen böse Machtsuchende sie belügen, um an die Macht zu kommen, und dann, nachdem sie ein öffentliches Amt erreicht haben, werden sie sofort den Glauben brechen und ihre eigenen korrupten Pläne verfolgen, indem sie ihren Willen durch die Polizei und das Militär durchsetzen.[^7] So bleibt die Regierung der größte Preis für die bösartigsten Männer, die schnell die Kontrolle über ihre ungeheure Macht erlangen werden - zum Nachteil aller guten Seelen - und so kann es auch in diesem Szenario nicht zugelassen werden, dass die Regierung existiert.
 
-This situation, while interesting theoretically, breaks down logically because:
+Es ist also klar, dass es keine Situation gibt, unter der eine Regierung logischerweise oder moralisch existieren kann. Die einzige mögliche Rechtfertigung für die Existenz einer Regierung wäre, wenn die Mehrheit der Männer böse sind, aber die gesamte Macht der Regierung wird immer von einer Minderheit guter Männer kontrolliert.[^8]
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+Diese Situation ist zwar theoretisch interessant, bricht aber logisch zusammen, weil:
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+1. Die böse Mehrheit würde die Minderheit schnell überstimmen oder durch einen Putsch überwältigen;
+2. Es gibt keine Möglichkeit sicherzustellen, dass nur gute Leute immer die Regierung leiten würden; und,
+3. Es gibt absolut kein Beispiel dafür, dass dies jemals in irgendeiner der brutalen Annalen der Staatsgeschichte geschehen ist.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Der logische Fehler, der immer bei der Verteidigung der Regierung begangen wurde, besteht darin, sich vorzustellen, dass alle kollektiven moralischen Urteile, die auf eine Gruppe von Menschen angewendet werden, *nicht auch auf die Gruppe angewandt werden, die über sie herrscht*. Wenn fünfzig Prozent der Menschen böse sind, dann sind *mindestens* fünfzig Prozent der Menschen, die über sie herrschen, auch böse.[^9] So kann die Existenz des Bösen niemals die Existenz einer Regierung rechtfertigen.
 
-Why is this error so prevalent?
+Wenn es kein Böse gibt, sind Regierungen unnötig. Wenn es das Böse gibt, sind die Regierungen viel zu gefährlich, um überhaupt existieren zu dürfen.
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Warum ist dieser Fehler so weit verbreitet?
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Es gibt eine Reihe von Gründen, die hier nur angedeutet werden können. Erstens stellt sich die Regierung den Kindern in Form von öffentlichen Schullehrern vor, die als moralische Autoritäten gelten. So werden *Moral* und *Autorität* zunächst mit der Regierung in Verbindung gebracht - eine Assoziation, die dann durch jahrelange, schleifende Wiederholungen verstärkt wird.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+Zweitens lehrt die Regierung die Kinder nie über die Wurzel ihrer Macht - Gewalt -, sondern gibt vor, dass sie nur eine weitere soziale Institution ist, wie ein Unternehmen, eine Kirche oder eine Wohltätigkeitsorganisation, aber moralischer.
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Der dritte Grund ist, dass die Vorherrschaft von Religion und Propaganda die Menschen immer blind gemacht hat für das Böse der Regierung - weshalb die Herrscher immer so sehr daran interessiert waren, die Interessen der Kirchen und der staatlichen "Erziehung" zu fördern. In der religiösen Weltanschauung ist absolute Macht gleichbedeutend mit vollkommener Tugend in Form einer Gottheit. In der realen politischen Welt der Menschen bedeutet eine zunehmende Macht jedoch immer auch eine Zunahme des Bösen. Auch bei der Religion muss alles, was geschieht, zum Guten sein - also ist der Kampf gegen den Missbrauch politischer Macht wie der Kampf gegen den Willen einer Gottheit. Es gibt natürlich noch viele weitere Gründe, aber diese gehören zu den tiefsten.[^10]
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Am Anfang dieses Abschnitts erwähnte ich, dass die Leute in der Regel *zwei* Fehler machen, wenn sie mit der Idee konfrontiert werden, die Regierung aufzulösen. Der erste ist der Glaube, dass Regierungen notwendig sind, weil es böse Menschen gibt. Der zweite Grund ist die Überzeugung, dass in Ermangelung von Regierungen alle sozialen Institutionen, die entstehen, unweigerlich an die Stelle der Regierungen treten werden. So werden Dispute Resolution Organisations (DROs), Versicherungsgesellschaften und private Sicherheitskräfte alle als potenzielle Krebsarten angesehen, die die Körperpolitik aufblähen und überwältigen.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+Diese Ansicht ergibt sich aus dem gleichen Fehler wie oben beschrieben. Wenn *alle* sozialen Institutionen ständig versuchen, an der Macht zu wachsen und anderen ihren Willen aufzuzwingen, dann kann mit eben diesem Argument eine zentralisierte Regierung nicht existieren. Wenn es ein eisernes Gesetz ist, dass Gruppen immer versuchen, Macht über andere Gruppen und Individuen zu erlangen, dann wird diese Machtgier *nicht enden, wenn einer von ihnen gewinnt, sondern wird sich über die Gesellschaft praktisch ungehindert ausbreiten, bis Sklaverei die Norm ist*.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Die einzige Möglichkeit, dass soziale Institutionen zu gewalttätigen Monopolen heranwachsen können, besteht darin, *die Kosten der Durchsetzung auf ihre Opfer abzuwälzen*. Regierungen wachsen endlos, weil sie Steuereintreiber mit einem Teil der Steuern, die sie einziehen, bezahlen können. Die Sklaven sind somit gezwungen, die Kosten ihrer Versklavung zu tragen.
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+In einer Freiwilligengesellschaft gäbe es keine Besteuerung, und so müsste jede Gruppe, die eine monopolistische Macht erlangen will, ihre Armee selbst finanzieren, was niemals wirtschaftlich machbar oder rentabel wäre.[^11]
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Es ist sehr schwer, die Logik und die Intelligenz des Arguments zu verstehen, dass wir, um uns vor einer Gruppe zu schützen, die uns überwältigen könnte, eine Gruppe unterstützen sollten, die uns *bereits* überwältigt hat. Es ähnelt dem statistischen Argument über private Monopole - dass Bürger ein staatliches Monopol schaffen sollten, weil sie Angst vor privaten Monopolen haben. Es bedarf keiner scharfen Vision, um solchen Unsinn zu durchschauen.
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+Was spricht für die Auffassung, dass dezentrale und konkurrierende Mächte den Frieden fördern? Mit anderen Worten, gibt es Fakten, auf die wir zurückgreifen können, um die Idee zu unterstützen, dass ein Gleichgewicht der Kräfte die einzige Chance ist, die der Einzelne für die Freiheit hat?
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Die organisierte Kriminalität liefert nicht viele gute Beispiele, da Banden so regelmäßig korrumpieren, manipulieren und die Macht der Regierungspolizei nutzen, um ihre Herrschaft durchzusetzen, und deshalb kann man nicht sagen, dass solche Banden in einem Zustand der Natur operieren. Auch kriminelle Banden profitieren enorm von der Bereitstellung gesetzlich verbotener Substanzen oder Dienstleistungen und gedeihen so auch weitgehend durch die staatliche Politik.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ein nützlicheres Beispiel ist die Tatsache, dass kein Führer jemals einem anderen Führer, der Atomwaffen besitzt, den Krieg erklärt hat. In der Vergangenheit, als sich die Führer gegen persönliche Vergeltungsmaßnahmen immun fühlten, waren sie mehr als bereit, ihre eigene Bevölkerung durch Krieg zu töten. Jetzt, da sie selbst der Vernichtung ausgesetzt sind, sind sie nur noch bereit, Länder anzugreifen, die sich nicht wehren können.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Dies ist eine lehrreiche Lektion darüber, warum solche Männer entwaffnete und abhängige Bevölkerungen benötigen - und ein gutes Beispiel dafür, wie die Angst vor Repressalien, die einem ausgewogenen System dezentraler und konkurrierender Mächte innewohnt, *die einzige bewährte Methode zur Sicherung und Erhaltung der persönlichen Freiheit ist*.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+Die Flucht vor imaginären Teufeln in die Schutzgefängnisse der Regierungen sichert nur die Zerstörung eben jener Freiheiten, die das Leben lebenswert machen.
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^4]: Siehe [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^5]: Siehe *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^7]: This is the current situation in democracies, of course.
+[^6]: Ein perfektes Gleichgewicht zwischen Gut und Böse ist praktisch unmöglich.
 
-[^8]: See Plato’s *Republic*.
+[^7]: Das ist natürlich die gegenwärtige Situation in den Demokratien.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^8]: Siehe Plato’s *Republik*.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^9]: Wahrscheinlich sogar noch mehr, da böse Menschen immer von der Macht angezogen werden.
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^10]: Für eine detailliertere Diskussion über die Rolle, die *Eltern* spielen, wenn sie die Phantasie, dass "Macht gleich Tugend ist", einschärfen, siehe [On Truth](http://wiki.mises.org/wiki/On_Truth).
+
+[^11]: Siehe [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Kap. 5: "Krieg, Profit und Staat".
