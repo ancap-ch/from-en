@@ -69,9 +69,9 @@ Esta situação, embora seja teoricamente interessante, rompe-se, logicamente, p
 
 O erro lógico que sempre se faz na defesa do governo é imaginar que quaisquer julgamentos morais colectivos aplicados a qualquer grupo de pessoas *não devem ser aplicados, também, ao grupo que governa sobre eles <0>. Se cinquenta por cento das pessoas são más, então *pelo menos* cinquenta por cento das pessoas que governam sobre elas também o são.[^9] Portanto, a existência do mal nunca pode justificar a existência de um governo.</p> 
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Se não existisse o mal, os governos seriam desnecessários. Se o mal existe, os governos são demasiado perigosos para poderem existir.
 
-Why is this error so prevalent?
+Por que será que esse erro é tão preponderante?
 
 There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
 
