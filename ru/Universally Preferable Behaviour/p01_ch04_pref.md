@@ -52,58 +52,58 @@ In other words, if you want to get to the top of a mountain, wishing for it will
 
 If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
 
-#### Premise 1: We Both Exist
+#### Постулат 1: Мы оба существуем
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Если бы я решил подискутировать с вами, то я обязательно должен принять то, что мы оба существуем. Если я думаю, что я существую, а вы нет, тогда спор не будет иметь смысла, что было бы равнозначно поступку безумца. Если бы я начал спорить со своим отражением в зеркале, то я бы быстро успокоился и не смог бы продолжить дискуссию.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Постулат 2: Чувства обладают способностью к конкретизации
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Так как человеческие существа не могут общаться физически, все споры обязательно включают в себя чувственное подтверждение. Письмо предполагает наличие зрения, говорение требует слуха, печать для слепых требует прикосновений. Таким образом, любое предложение, зависящее от неактивности чувств, автоматически саморазрушается.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Постулат 3: Язык обладает способностью к передаче смысла
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Так же как и в Постулате 2, поскольку все аргументы требуют языка, любое предложение, основывающееся на постулате, что язык бессмысленный, немедленно опровергается. Использование языка для утверждения того, что язык не имеет смысла, это все равно что использовать курьера чтобы отправлять письма, утверждая, что курьер никогда не доставляет письма.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Постулат 4: Исправление требует универсальных предпочтений
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Если вы исправляете допущенную мною ошибку, вы косвенно принимаете тот факт, что мне было бы лучше исправить мою ошибку. Ваше предпочтение чтобы я исправил свою ошибку не является субъективным, а скорее объективным и универсальным.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Вы не говорите мне: “Ты должен изменить свое мнение на мое потому что я так предпочитаю”, а скорее: “Ты должен изменить свое мнение потому что оно объективно неправильное”. Моя ошибка не возникает из простого несогласия с вами, а как результат моего отклонения от объективного стандарта истины. Ваш аргумент, что я должен поменять свое неправильное мнение, основывается на объективной ценности истины, т.е. что истина универсально предпочтительнее ошибки, и что истина является универсально объективной.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Постулат 5: Объективная методология существует для отделения правды от неправды
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Если вы не согласны со мной, но я говорю вам, что вы должны со мной согласиться потому что я всегда прав, маловероятно, что вы будете удовлетворены твердостью моего аргумента. Если вы приводите достаточные причины почему я неправ, но я продолжаю настаивать, что я прав потому что всегда прав, наше общение вряд ли можно отнести к дискуссии.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+В тот момент, когда я предоставляю определенный критерий для определения где есть истина, а где ложь, я принимаю то, что правда это больше, чем мнение.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Это необязательно означает, что мои объективные критерии являются логичными, например, я мог бы вам посоветовать обратиться к религиозному тексту. Но даже если я делаю это, я все еще принимаю тот факт, что истина это, к чему приходят независимо от личного суждения, что существует объективная методология для отделения правды от неправды.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Постулат 6: Правда лучше неправды
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Если я скажу вам, что мир плоский, и вы ответите, что мир не плоский, а круглый, тогда вы косвенно принимаете аксиому, что правда и неправда существуют объективно, и что правда лучше неправды.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Если я скажу вам, что люблю шоколадное мороженое, и вы скажете, что любите ванильное мороженое, то будет невозможно “доказать”, что ванильное объективно лучше шоколадного. В тот момент, когда вы исправляете меня, опираясь на объективные факты, вы принимаете то, что объективные факты существуют, и что объективная истина универсально предпочтительнее субъективной ошибки.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Постулат 7: Мирная дискуссия - лучший способ разрешения споров
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Если я скажу вам, что мир плоский, а вы достанете пистолет и застрелите меня, это вряд ли будет примером продуктивной дискуссии. Да, наше разногласие было бы “разрешено”, потому что только один из нас остался стоять в конце.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Если бы вы заранее сказали мне, что вы будете решать разногласие с оружием в руках, я бы вряд ли решился вступать с вами в спор. Следовательно, становится ясно, что любая дискуссия опирается на косвенный постулат, заключающийся в том, что доказательство, причина, истина и объективность являются универсально предпочтительными способами разрешения споров между людьми. Было бы полностью нелогично утверждать, что различия в точках зрения должны быть устранены путем применения насилия, ибо единственный состоятельный аргумент в пользу ценности насилия это применение насилия.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Поэтому, по сути, дискуссия требует объективной методологии через значимый язык в поисках универсальной истины, которая объективно предпочтительнее личной ошибке.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Это предпочтение универсальной истины не является предпочтением степени, а больше типа. Короткий путь, сокращающий время вашей поездки на автомобиле наполовину, в два раза лучше длинного пути, но оба бесконечно предпочтительнее езды в совершенно противоположном направлении.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Таким же образом, истина не просто “лучше” чем ошибка, она бесконечно предпочтительнее, или более необходимая.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Постулат 8: Люди несут ответственность за свои действия
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Если я буду утверждать, что человеческие существа не несут ответственность за свои действия, то я окажусь в парадоксе, заключающийся в вопросе: несу ли я ответственность за свой аргумент или нет, а также несете ли вы ответственность за свой ответ или нет.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Если мой аргумент заключается в том, что человеческие существа не несут ответственность за свои действия, тогда я не несу ответственность за свой аргумент, и вы не несете ответственность за свой ответ. Однако если я считаю, что вы не несете ответственность за свой ответ, то не будет никакого смысла выдвигать аргумент, это будет равнозначно как если спорить с телевизором.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Таким образом, по большому счету, если я скажу вам, что вы не несете ответственность за ваши действия, то я говорю вам, что универсально предпочтительнее чтобы вы считали, что такое предпочтение невозможно, поскольку если вы не контролируете свои действия, вы не можете выбрать предпочтительное состояние, т.е. правду, отделенную от неправды. Поэтому такой аргумент, как и вышеприведенные аргументы, является саморазрушительным.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Следует запомнить этот постулат, так как он будет очень важен позднее.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Вопрос ответственности, конечно же, тесно связан с вопросом свободной воли по сравнению с детерминизмом, что будет темой отдельной книги.
