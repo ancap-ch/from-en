@@ -90,7 +90,7 @@ If this tax collector then claims that his concept called “the government” o
 
 Ang UPB ay hindi pinapayagan para sa pagtitipon ng iisang tao na hindi pinapayagan o ibaligtad ang mga pag-aari ng bawat isang tao. Ang sampung mga leon ay hindi nakagagawa ng isang elepante, iisang pamahalaan, o iisang diyos. Ang sampung libo ng mga sundalo ay pwedeng makagawa ng isang "hukbo," pero hindi pwedeng ibaligtad ang kabigatan, o makagawa ng pagpatay sa mabuting tao.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Bumalik ang isang mula sa nahuhuling oras papunta sa silid ni bob at doug, at ating ipakikilala si "jane."
 
 Now that there are three people in the room, we can look at the “majority rule” principle.
 
