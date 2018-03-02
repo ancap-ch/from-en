@@ -108,7 +108,7 @@ Thus if it is evil for human beings to rape, can I logically create a category c
 
 Of *course* not.
 
-### Majority Rule
+### Patakaran ng karamihan
 
 Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
 
