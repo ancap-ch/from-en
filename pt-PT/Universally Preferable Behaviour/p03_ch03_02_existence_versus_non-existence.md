@@ -103,14 +103,14 @@ Fugir dos demónios imaginários nas prisões protectoras dos governos, só gara
 
 [^5]: Veja *[ Reserva Federal](http://wiki.mises.org/wiki/Federal_Reserve_System)*
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Um equilíbrio perfeito do bem e do mal é praticamente impossível.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Esta é a situação actual nas democracias, é claro.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Veja a *República de Platão*
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Provavelmente mais, já que as pessoas más são sempre atraídas pelo poder.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para uma discussão mais detalhada do papel que os *pais* desempenham ao inculcar a fantasia de que "o poder é igual à virtude", veja [Na Verdade](http://wiki.mises.org/wiki/On_Truth)
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Veja [Anarquia Prática, Parte 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Capítulo 5: "Guerra, lucro e o estado".
