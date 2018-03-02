@@ -105,12 +105,12 @@ Ang pagtakas mula sa mga haka-hakang mga demonyo tungo sa mga protektadong mga k
 
 [^6]: Isang perpektong balanse ng mabuti at masama ay praktikal na imposible.
 
-[^7]: Ito ang mga kasalukuyang sitwasyon sa mga demokrasya, stempre.
+[^7]: Ito ang mga kasalukuyang sitwasyon sa mga demokrasya, syempre.
 
 [^8]: Tingnan ang *Repubilka* ni Plato.
 
-[^9]: Maaaring higit pa, yamang ang mga masasamang tao ay palaging na naaakit sa kapangyarihan.
+[^9]: Maaaring higit pa, yamang ang mga masasamang tao ay palaging naaakit sa kapangyarihan.
 
-[^10]: Para sa mas detalyadong pag-uusap ng tungkulin na ginagampanan ng mga *magulang* sa pagtatanim ng pantasya na kapangyarihan katumbas ng kabutihan," tingnan [Sa Katotohanan](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Para sa mas detalyadong pag-uusap ng tungkulin na ginagampanan ng mga *magulang* sa pagtatanim ng pantasyang kapangyarihan katumbas ng kabutihan," tingnan [Sa Katotohanan](http://wiki.mises.org/wiki/On_Truth).
 
 [^11]: Tingnan [Praktikal na Anarkiya, Bahagi 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Kabanata 5: Digmaan, kita at ang estado".
