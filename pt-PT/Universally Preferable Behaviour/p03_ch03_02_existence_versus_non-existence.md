@@ -95,7 +95,7 @@ O crime organizado não oferece muito bons exemplos, já que as bandas muito fre
 
 Um exemplo mais útil é o facto de que nenhum líder jamais declarou guerra a outro líder, que possui armas nucleares. No passado, quando os líderes se sentiam imunes às represálias pessoais, estavam mais do que dispostos a matar as suas próprias populações por iniciar uma guerra. Agora que eles próprios estão sujeitos ao extermínio, só estão dispostos a atacar países que não podem contra-atacar.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Esta é uma lição instrutiva sobre o motivo pelo qual esses homens exigem populações desarmadas e dependentes - e um bom exemplo de como o medo de retaliações características de um sistema equilibrado de poderes descentralizados e competitivos *, é o único método comprovado de garantir e manter a liberdade pessoal*.
 
 Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
 
