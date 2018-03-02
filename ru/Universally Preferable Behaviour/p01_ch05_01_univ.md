@@ -1,56 +1,56 @@
-## Universally Preferable Behaviour
+## Универсально предпочтительное поведение
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Как следствие вышеприведенных аргументов, мы видим, что невозможно начать какую-либо дискуссию, не приняв постулат, что определенное поведение является универсально предпочтительным.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Я использую здесь больше слово “поведение” чем “мысль”, так как важно различать между чисто внутренними и непроверяемыми состояниями, такими как “мысль” и объективными, проверяемыми состояниями, такими как “действие”, “письмо” и “разговор”.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Невозможно доказать, что мне снился слон прошлой ночью. Возможно доказать, что я написал слово “слон”, поэтому я использую слово “поведение”, а не слово “мысль”.
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Уступка превосходящей логике в аргументе это действие. Если бы каждый раз когда я отдавал вам один балл в споре и ничего бы не говорил, а просто смотрел бы на вас, то дискутировать со мной было бы для вас весьма раздражительным. Для того чтобы отдать один балл, я должен выполнить действие устной уступки.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Таким образом становится очевидно, что самому акту спора присущ ряд встроенных постулатов, которые вероятно нельзя опровергнуть.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Если я приглашу вас сыграть со мной в теннис на корте и приду туда с охотничьим ружьем, то мы конечно поиграем в какой-то вид спорта, но это не будет теннисом. Когда я приглашаю вас сыграть со мной в теннис, то эта просьба предполагает принятие правил игры в теннис.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Исторически, те кто вступал в этические дебаты, часто не могли поддерживать эту базовую реальность.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Я не могу подать научную работу на своем родном языке, утверждая, что идею мне подсказала моя ментальная золотая рыбка, и ожидать, что меня воспримут серьезно. Подобным же образом я не могу начать философскую дискуссию по вопросам этики, опираясь на мои собственные личные ценности, и утверждать, что все мои аргументы были подтверждены Трикси, вездесущим и невидимым лепреконом, и ожидать, что меня воспримут серьезно.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Сам акт дискуссии требует принятия универсально предпочтительного поведения (УПП). Невозможно рационально ответить на этический аргумент, не проявляя УПП.
 
-Let us now turn to a series of positive proofs for UPB.
+А теперь давайте перейдем к ряду положительных доказательств УПП.
 
-### UPB And Validity
+### УПП и обоснованность
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Одна из центральных проблем, стоящих перед современными философами, это необходимость доказательства, что моральные правила являются как возможными так и универсальными. До тех пор пока моральные правила будут подвергаться такой же строгости и логике как и любые другие предложения, мы всегда будем загнаны в угол субъективизмом, политическими предубеждениями и прагматическим “аргументом от последствия”.
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Ближайшая историческая аналогия нашей текущей ситуации имела место в пятнадцатом и шестнадцатом веках во время подъема научного метода. Ранние пионеры, защищавшие рациональный и эмпирический подход к знаниям, сталкивались с такими же предубеждениями, как и мы сегодня - все те же иррациональности, глубоко укоренившаяся власть церкви и государства, мистические и субъективные “абсолютные понятия” и ранние образовательные барьеры. Те, кто защищал верховенство рационализма и эмпирического наблюдения над библейским фундаментализмом и мирской тиранией, сталкивались с целенаправленным сопротивлением тех, кто обладал крестом и мечом. Многие были подвергнуты смертельным пыткам за их интеллектуальную честность. Мы имеем дело с меньшим риском, поэтому должны быть более решительными, отстаивая что есть верно, а что просто поверье.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Для того чтобы развенчать ложные моральные принципы мы должны начать с самого начала, как это делали первые ученые. Фрэнсис Бэкон не оспаривал, что научный метод был более “эффективный”, чем молитва, библейские тексты или видения, навеянные голодом. Он просто говорил, что если мы хотим понять природу, то мы должны наблюдать за ней и логически теоретизировать, и что нет другого пути к знанию.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Мы должны принять такой же подход при определении и обсуждении морали. Мы должны начать использовать силу и законность научного метода для доказательства действительности и правомерности моральных законов. Мы должны начать с самого начала, выстраивать логические цепочки и отвергать любые иррациональные или неэмпирические подмены истины.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Как это выглядит на практике? Все, что нам нужно сделать, это установить следующие аксиомы:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Мораль это правильная концепция.
+- Моральные принципы должны быть одинаковыми для всего человечества.
+- Правильность моральной теории оценивается по ее согласованности.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Если зайти с самого начала … являются ли моральные принципы - или универсально предпочтительное поведение человека - вообще правильными?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Существует только две возможности, когда речь идет о моральных принципах, как в любой логической науке. Либо универсальные моральные принципы являются правильными, либо же нет.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Правило может быть верным, если оно существует эмпирически, как гравитация, или потому что оно точное, как уравнение два плюс два равно четыре.
 
-We must then first ask: do moral rules exist at all?
+Поэтому мы должны спросить: существуют ли вообще моральные принципы?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Конечно, не в материальной реальности, которая не содержит или не следует ни единому моральному правилу. Моральные принципы отличаются от физических принципов, так же как и научный метод отличается от гравитации. Материя заведомо подчиняется гравитации или второму закону термодинамики, но закон “не убий” нигде не вписан в природе вещей. Физические законы описывают поведение материи, но они не содержат ни единого предписания. Наука говорит, что материя ведет себя определенным образом, но никогда не говорит, что она должна себя вести определенным образом. Теория гравитации доказывает, что если вы столкнете человека с обрыва, то он упадет. Она не скажет вам, должны ли вы толкать его или нет.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Таким образом нельзя сказать, что моральные принципы существуют в материальной реальности, и что они автоматически подчиняются, как законы физики - что не означает, что моральные законы ложные, субъективные или нерелевантные. Научный метод также не существует в реальности, являясь при этом опциональным, но он вовсе не ложный, субъективный или нерелевантный.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Если мы сможем доказать, что моральные теории могут быть объективными, рациональными и доказуемыми, то это принесет такую же пользу для этики, как и физические теории для научного метода.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+До подъема научного метода люди верили, что материя подчинялась субъективным прихотям богов и дьяволов, и люди верят подобным образом и в отношении морали в наши дни. Вулканы извергались потому что бог горы был сердитым; хорошие урожаи получались от принесения в жертву людей или животных. Никто не верил, что абсолютные физические законы могли ограничить волю богов, так же и наука не могла развиваться. Те, кто исторически получали выгоду от определения физической реальности как субъективной - в основном священники и аристократы - боролись с подчинением физических теорий научному методу, как и те, кто в настоящее время извлекает выгоду из определения морали как субъективной - в основном священники и политики - борются сейчас с подчинением моральных теорий объективным и универсальным принципам.
 
 As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
 
