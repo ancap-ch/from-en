@@ -86,7 +86,7 @@ In the same way, if a man claims that his concept called “the government” ju
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
-#### UPB And "The Majority"
+#### "ang karamihan" at UPB
 
 UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
 
