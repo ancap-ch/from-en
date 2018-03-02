@@ -73,7 +73,7 @@ Se não existisse o mal, os governos seriam desnecessários. Se o mal existe, os
 
 Por que será que esse erro é tão preponderante?
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Existe uma série de razões, que só podem ser tratadas aqui. A primeira é que o governo apresenta-se às crianças sob a forma de professores de escolas públicas que são considerados autoridades morais. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
 
 The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
 
