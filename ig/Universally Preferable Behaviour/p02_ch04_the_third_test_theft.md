@@ -1,44 +1,44 @@
-## The Third Test: Theft
+## Ule nke Atọ: Izu 
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Anyị ga-eji obere oge na-ezu ohi, ebe ọ bụ na ọ ga-eme ka esemokwu nke ikike nke ụlọ, nke na-arụ ụka maka ụfọdụ.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+E nwere ọtụtụ ụzọ ịbịakwute ajụjụ banyere ikike nke ụlọ, site na "nkwụsị" iji kọwaa nkọwa gbasara ihe ndị dị irè, wdg. Agaghị m agwa onye ọ bụla n'ime ebe a, n'ihi na ajụjụ nke ikike nke ikike aghaghị ịdaba na UPB, ma ọ bụrụ na UPB bụ guzosie ike dị ka ezi usoro maka ịtụle ụkpụrụ omume.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+N'ụzọ doro anya, ihe gbasara omume ziri ezi banyere ihe onwunwe bụ nke a: ma ụmụ mmadụ nwere ikike inwe ihe onwunwe, ma ọ bụ na ha adịghị.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Ugbu a, "ihe onwunwe" mbu nke a ghaghị imezi bụ ahụ. "Onye nwe ya" ga-ebu ụzọ buru ụzọ na-achịkwa ahụ nke onwe ya, n'ihi na ọ bụrụ na njikwa ahụ adịghị, ma ọ bụ na a gaghị ele ya anya, mgbe ahụ, ajụjụ niile gbasara omume - ka naanị ihe onwunwe - pụọ na windo ahụ.	
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB bụ usoro maka ịtụle atụmatụ omume, ma ọ bụ arụmụka banyere omume ọma nke ụwa maka ihe nile a kpọrọ mmadụ. Nke mbụ, nwoke ga-abụrịrị ọrụ maka omume ya ma ọ bụrụ na a ga-ekpe ha ikpe n'ụzọ omume, ebe ọ bụ na anyị arụrịta ụka n'elu, ikike ịhọrọ ime ihe dị mkpa maka nyocha ọ bụla.
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+Ọ bụrụ na mmadụ enweghi ike ịchịkwa ahụ ya, mgbe ahụ o doro anya na o nweghị ọrụ maka omume ya - na ha abụghị n'ezie "omume" ya, kama ọ bụ omume nke ahụ ya. Ugbu a, ọ dịghị onye ga-arụrịta ụka na ọ bụrụ na mmadụ egbuo nwoke ọzọ, ọ bụ mkpịsị aka igbu ọchụ nke a ga-ekpe ikpe ma taa ya ahụhụ. N'ụzọ doro anya, ahụ apụghị ịchịkwa onwe ya kpamkpam, kama ọ ghaghị ịbụ na ọ ga-abụ ụfọdụ n'ime ntụziaka nke uche dị ọcha.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+Ihe nke a pụtara bụ na nwoke na-ahụ maka ọrụ nke ahụ ya, ya mere, ọ bụ ya kpatara nsogbu ndị ahụ. Otu nwoke na-ahụ maka ebe ọ na-etinye akwụkwọ ya, nke bụ otú anyị si mara na anyị nwere ike ikpe ya ikpe maka ịra mmadụ. O "nwere" omume nke ahụ ya dị ka ọ nwere ahụ ya. Ikwu na nwoke na-ahụ maka ahụ ya ma ọ bụghị mmetụta nke ahụ ya bụ ịrụ ụka na ọ bụ nwoke na-ahụ maka ịchọta na ịtụba mma, ma ọ bụghị maka ebe ọ bi.
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+Ọzọkwa, na-arụ ụka na mmadụ enweghị ọrụ maka mmetụta nke ahụ ya bụ nkwupụta nke onwe ya, dị ka ndị anyị tụlere n'elu. Ọ bụrụ na m gwa gị, sị: "Ndị mmadụ anaghị arụ ọrụ maka ahụ ha," ọ ga-adịrị mma maka ịjụ m onye na-arụ ọrụ ọnụ na ọnụ m. Ọ bụrụ na m na-ekwu na enweghi m ike ịchịkwa okwu m - nke bụ mmetụta nke ahụ - mgbe ahụ, m "akwadoro" edemede m na-efu iji merie ya kpamkpam.
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+O b ur u na ob ugh i ihe ob ula m kwuru maka okwu m, mgbe ah ugh i ihe ob ula m na-ar u. Onye na-edekọ teepu abụghịkwa maka ikwu okwu ya, nke bụ ya mere na anyị anaghị etinye aka na njedebe dị egwu. Na fim ndị na-ekpo ọkụ na-ekpo ọkụ, ụmụ agbọghọ yiri ka hà nwere ike ịghọ ndị mmụọ ọjọọ - ụkọchukwu a na-apụghị izere ezere na-egosi na ya na-agwa mmụọ ọjọọ ahụ na-elekọta nwa agbọghọ ahụ mgbe niile, ebe nwa agbọghọ ahụ na-amalite ime ụda dị ka Don Ho na-eji bọl agba.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Ihe ngosi a mara nma bu ihe ziri ezi n'ebube - oburu na onye ozo di ike n'olu olu nwa agbogho, obu ihe kwesiri ka ekwua ya, obughi nwa nwanyi ahu, onye nweghi ike ijide ya.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Ya mere, ọ bụrụ na m gwa gị na enweghị m ike ịchịkwa okwu m, ị nwere ike ịjụ m: ònye mere? Ọ bụrụ na m zaa na ọ dịghị onye na-eme ya, mgbe ahụ, ọ na-eme ka ọ bụrụ ihe ga-eme ka mụ na ya nwee mkparịta ụka dị ka ọ na-arụ ụka na telivishọn, ma ọ bụ nkume ahụ e kwuru n'elu dị ka ọ na-agbada n'ugwu n'akụkụ gị.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Otú a ka ị na-achịkwa ahụ m iji mepụta okwu na-achọ ịnakwere ike m iji chịkwaa okwu m - nkwenye zuru oke nke nwe m n'ahụ nke m.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+Ugbu a, ọ bụrụ na ihe ndị mmụọ ọjọọ nwere bụ ihe omume dị mma, nwa agbọghọ nke mmụọ ọjọọ na-atụkwasịkwa onye ụkọchukwu, anyị agaghị akpọ nwa agbọghọ ahụ asị, kama ọ ga-eme ya ebere maka ịbụ onye mmụọ ọjọọ dị otú ahụ bi n'ime ya. Onye ọ bụla nwere ikike ịchịkwa nwa agbọghọ ahụ bụ onye ikpe mara maka mmejọ nke omume ya - nke a mere na anyị agaghị akpọ nwoke na-ezu ohi mgbe ọ na-ehi ụra "ihe ọjọọ," ebe ọ bụ na ọ nweghị ikike zuru ezu n'ahụ ahụ ya (ọ bụ ezie na anyị nwere ike igbochi ya n'ụzọ ndị ọzọ). Nke a bụkwa ihe ndabere maka agbachitere iwu "enweghị ikpe n'ihi ụkọ," nke bụ na anyị chere na nwoke nke na-adịghị ara na-enweghị ike ịchịkwa omume ya.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Ya mere ịjụ njide nke ahụ bụ ịjụ omume niile, nke, dị ka anyị hụworo n'elu, agaghị ekwe omume. N'ụzọ ezi uche dị na ya, ebe ọ bụ na a kọwapụrụ omume dịka ihe nkwado nke UPB, ịjụ omume ọma bụ ịsị na ọ dị mma karịa na ụwa kwenyere na ọ dịghị ihe dịka ọchịchọ ụwa.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+N'ikpeazụ, iji mmadụ nwe ahụ nke onwe ya n'ụdị ikwu okwu iji jụ echiche ahụ na onye nwere ike ịchịkwa ahụ nke ya, ọ bụ ihe na-emegide onwe ya.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Ọ bụ n'ụzọ dị otú a ka a ga-atụfu ihe ọ bụla ịjụ onwe gị.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Ebe ọ bụ na anyị nwere ahụ anyị, anyị ga - enwekwa ike inwe mmetụta nke omume anyị, bụrụ nke ọma ma ọ bụ dị njọ. Ọ bụrụ na anyị nwere mmetụta nke omume anyị, mgbe ahụ anyị doro anya na anyị nwere ihe anyị na-eweta, ma ihe anyị mepụtara bụ ụta, ma ọ bụ akwụkwọ - ma ọ bụ igbu ọchụ.
 
-### Property And UPB
+### Ihe onwunwe na UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Ọbụna ma ọ bụrụ na anyị ajụ ihe a dị n'elu, anyị ka nwere ike iji UPB kwupụta na e nwere ikike ikike ụwa niile.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Dịka e kwuru n'elu, ma ụmụ mmadụ nwere ikike ikike, ma ọ bụ na ha adịghị. Ewezuga ebe a na-acha ntụ ntụ, nke anyị ga-enweta n'oge na-adịghị anya, nke a ka bụ ihe mgbaru ọsọ zuru ụwa ọnụ.
 
 If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
 
