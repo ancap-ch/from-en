@@ -1,24 +1,24 @@
-## Universally Preferable Behaviour
+## Halayyar da duk duniya aka fi so
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+A sakamakon gardaman mu na sama, zama iya ganin cewa ba zai yu a shiga ko wani muhawara ba tare da yarda da jigon wadan su halayya ba da, *duk duniya aka fi so*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Nayi amfani da kamar “halayya” anan a me makon “ tunani” saboda ba zai yu a bambam ta tsaftaccen ciki da jihar da ba’a tabbatar ba kamar “tunani” daga hakika da jihar da aka tabbatar kamar “kirkira”, “rubutu” da “magana”.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Abun da ba zai yu bane na tabbatar da mafarkin giwa jiya da daddare. Zai yu na tabbatar da rubuta kalmar “giwa,” wanda shine dalilin da na rubuta “halayya” a me makon “tunani.”
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Nuna amince wa da babban dabara a cikin gardama shine *aiki*. Idan, ko wane lokaci na samu maki a akan ka, ban ce komai ba, kawai ddai na kyafta ma ido, zaka ji kyashin yin muhawara dani. Samun maki, dole sai nayi aikin magana da aka amince wa.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Duk da ganin cewa, mahimmancin ko wani aiki na gardama numba ne rubuce a jigon da baza’a juyawa ba a danne.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Idan nace ka same ni a filin tenis, sannan nazo da bindigar farauta, zamu kare buga wasan rabo, amma ba zai zamo tenis ba. Sanda nace ka same ni a filin tenis don wasa, ba makawa wannan gayyatar na kunshe da dokokin tenis ne.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+A tarihi, wa’inda ke shiga muhawarar da’a na kasa riko da wannan gaskiyar.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Ba zan iya bada takardan kimiya a yare na ba, ina ikirari cewa kifi na na gol mai kwakwalwar kwarai ya fada min, kuma ina son a dauke ni da mahimmanci. Haka nan, bana iya soma muhawarar kwakwalwan kwarai akan da’a ina kafa hujja da nawa ra’ayin, ina ikirari cewa gaskiyar gardama na daga Trixie samani ne da leprechaun da ba’a gani, sanan nayi tsammanin a dauke ni da muhimmanci.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Aikin muhawara na bukatar yarda da halayya da duniya ta yarda dashi (UPB). Babu wata hanya da kowa ke bi wurin maida martani a gardamar da’a.
 
-Let us now turn to a series of positive proofs for UPB.
+Bari mu juya jerin hujjoji masu ma’ana na UPB.
 
 ### UPB And Validity
 
