@@ -46,9 +46,9 @@ Normalmente, quando um homem com uma arma chega à minha casa e exige meu dinhei
 
 Agora, se eu chegar a sua casa esta noite vestida como "elfo alto de Narnia" e exigir o dinheiro que você deve à "Rainha das Dores", assumindo que não é Halloween, você pode me encarar com espanto, e me ordene sua propriedade.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Se eu não pagar ao homem que vem buscar o meu dinheiro, ele tem autorização para tirar uma arma, apontá-lo ao meu peito e me sequestrar - ou atirar se eu resistir. Pode prender-me numa pequena cela durante anos, onde serei submetido à brutalidade mais violenta e violação contínua, até que decida deixar-me ir embora.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Curiosamente, se um homem legitimamente me deve dinheiro, não tenho autorização para o sequestrar e sujeitar a torturas e a violações ano após ano. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
 
 Stealing, as we have proven, is evil.
 
