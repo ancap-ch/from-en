@@ -96,7 +96,7 @@ Batılı ülkeleri yabancı göçmenlerin orduları tarafından istila edilmesi 
 
 #### İktidarın seçkin insanlarını ve entelektüel korumalarını savunun
 
-Expose and widely publicize the lavish salaries, perks, pensions, side-deals, bribes and hush monies received by the ruling elites: by the higher-ups in government and governmental bureaucracies, of supreme courts, central banks, secret services and spy agencies, by politicians, parliamentarians, party leaders, political advisors and consultants, by crony-capitalists, “public educrats,” university presidents, provosts and academic “stars.” Drive home the point that all their shining glory and luxury is funded by money extorted from tax-payers, and consequently urge that any and all taxes be slashed: income taxes, property taxes, sales taxes, inheritance taxes, etc., etc..
+Expose and widely publicize the lavish salaries, perks, pensions, side-deals, bribes and hush monies received by the ruling elites: by the higher-ups in government and governmental bureaucracies, of supreme courts, central banks, secret services and spy agencies, by politicians, parliamentarians, party leaders, political advisors and consultants, by crony-capitalists, “public educrats”, university presidents, provosts and academic “stars”. Drive home the point that all their shining glory and luxury is funded by money extorted from tax-payers, and consequently urge that any and all taxes be slashed: income taxes, property taxes, sales taxes, inheritance taxes, etc., etc..
 
 #### FED ve tüm merkez bankalarını sonlandırın
 

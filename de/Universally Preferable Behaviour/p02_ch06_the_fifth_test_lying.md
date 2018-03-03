@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## Der Fünfte Test: Lügen
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Die Frage des *Lügens* ist deshalb interessant, weil die Wahrheit zu sagen allgemein als universell vorzuziehen, aber nicht gewaltsam durchsetzbar angesehen wird.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Es gilt allgemein als *strengere* Anforderung als "pünktlich sein", aber *weniger* streng als "stehlen". Was sagt das UPB-Framework dazu?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Natürlich ist jede Moraltheorie, die "Lügen ist gut" vorschlägt, sofort selbstvergessen, denn wenn der Mensch, der es vorschlägt, am lügen *ist* - was gut ist - dann ist das Lügen schlecht, weil er die Wahrheit gesagt hat, dass das Lügen schlecht ist.
 
-For instance:
+Zum Beispiel:
 
-**Bob:** Lying is always good.
+**Bob:** Lügen ist immer gut.
 
-**Doug:** Are you lying?
+**Doug:** Lügst du?
 
-**Bob:** Yes.
+**Bob:** Ja.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Also muss Lügen schlecht sein, denn du lügst darüber, dass es gut ist.
 
-Or:
+Oder:
 
-**Bob:** Lying is always good.
+**Bob:** Lügen ist immer gut.
 
-**Doug:** Are you lying?
+**Doug:** Lügst du?
 
-**Bob:** No.
+**Bob:** Nein.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** So ist das Lügen nicht immer gut, solange Sie die Wahrheit darüber sagen, dass das Lüge gut ist.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Das Lügen erfordert jedoch nicht die Anwendung von Gewalt und verletzt somit nicht die Möglichkeit der *Vermeidbarkeit*. Da Lügner vermieden werden können, können sie logischerweise nicht angegriffen werden.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Lügen passt auch besser in die Kategorie der *Gewalttätigkeit*, insofern es moralisch ist, als Selbstverteidigung zu lügen, genauso wie es moralisch ist, Gewalt als Selbstverteidigung anzuwenden. Jedoch wenn ein Mann in Ihr Haus einbricht und verlangt, zu wissen, wo Ihre geliebte Frau ist, um sie schlagen zu können, würde es als eine Parodie der Integrität scheinen, sich zu weigern, ihn anzulügen. Lügen in diesem Fall wäre eine Form der Selbstverteidigung von Dritten, und so moralisch akzeptabel wie die Anwendung von Gewalt in der Selbstverteidigung. Ähnlich, wenn ein Mann hundert Dollar von uns durch Lügen erhält, können wir ihn zu Recht belügen, um es zurück zu bekommen.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+So können wir einen Lügner zu Recht belügen, genauso wie wir uns mit Recht gegen einen Schlag mit einem Schlag verteidigen können, aber wir würden die zunehmende Kleinlichkeit der verspäteten "Rückzahlung" einer Person nicht gerade respektieren, indem wir noch später auftauchen.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Der Unterschied besteht darin, dass "Verspätung" nicht so aktiv destruktiv ist wie das Lügen. Eine verspätete Person ist ärgerlich, aber sie untergräbt nicht grundlegend Ihre Fähigkeit, die Realität zu verarbeiten. Es ist eine Sache, eine Stunde zu spät zu einem Meeting um sieben Uhr morgens zu erscheinen - es ist eine andere, Sie davon zu überzeugen, dass wir das Meeting eigentlich für acht Uhr morgens angesetzt haben, obwohl ich weiß, dass dies nicht der Fall war.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Ihr Vertrauen in Ihren eigenen Verstand[^5] anzugreifen ist weitaus unerhörter, als Sie nur warten zu lassen, da es der Akt ist, das Vertrauen eines anderen in Sie zu benutzen, um sein Vertrauen in sich selbst zu untergraben, das höchst korrupt ist, da es einen Wert *benutzt*, um einen Wert zu untergraben, wie Fälschungen. Auf diese Weise bestätigt die UPB die Unlogik des Satzes "Lügen ist gut" und bestätigt, dass der Akt des Lügens schlimmer ist als "Verspätung", aber besser als "Körperverletzung".
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Manchmal auch als "Gasbeleuchtung" bezeichnet, nach dem alten Film

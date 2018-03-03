@@ -2,7 +2,7 @@
 
 Ở đầu cuốn sách này, tôi đã đưa ra một cách nhìn để làm thế nào chúng ta xử lý sự thật, khi sánh nó với vật lý. Từ "sự thật nhỏ" khi bắt một quả bóng chày, chúng ta đi đến "những sự thật vĩ đại" của vật lý - và những sự thật vĩ đại không thể mâu thuẫn với những sự thật nhỏ.
 
-Điều này cũng đúng với đạo đức. Từ những sự thật nhỏ như “Tôi không nên giết người” chúng ta có thể đi đến những sự thật vĩ đại như “sự khởi xướng việc sử dụng vũ lực là sai về đạo đức.”
+Điều này cũng đúng với đạo đức. Từ những sự thật nhỏ như “Tôi không nên giết người” chúng ta có thể đi đến những sự thật vĩ đại như “sự khởi xướng việc sử dụng vũ lực là sai về đạo đức”.
 
 Trong lĩnh vực vật lý, một rào cản trung tâm cho sự ngoại suy (suy luận)hợp lý của các sự thật từ kinh nghiệm cá nhân đến học thuyết phổ quát là tôn giáo.
 

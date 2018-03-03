@@ -47,10 +47,10 @@ In general, any theory that contradicts itself in the utterance cannot be valid.
 
 If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Similarly, as mentioned before, if I come up to you and say: “I do not exist”, my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+If I come up to you and say: “There is no such thing as truth”, then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+If I tell you that “Language is meaningless”, then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+If I tell you that “Your senses are invalid”, then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.

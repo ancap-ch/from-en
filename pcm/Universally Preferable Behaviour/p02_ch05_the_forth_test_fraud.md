@@ -14,7 +14,7 @@ make we talk about our unlucky guinea pig wey sabi gud and bad. Wetin go happen 
 
 Wetin go come happen ?
 
-e clear say Doug and Bob nor fit act on top de principle wey be say "fraud na gud thing" de same time – since for make fraud happen Doug must do wayo but Bob must dey honest. So for make Doug do gud, Bob must do bad.”
+e clear say Doug and Bob nor fit act on top de principle wey be say "fraud na gud thing" de same time – since for make fraud happen Doug must do wayo but Bob must dey honest. So for make Doug do gud, Bob must do bad”.
 
 UPB don block road so that dis one nor go fit happen, since e nor get any theory of gud and bad wey require two actions wey nor blend with each oda to happen unda de same mata.
 

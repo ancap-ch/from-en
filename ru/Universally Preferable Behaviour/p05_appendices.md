@@ -6,14 +6,14 @@ Below, please find a summation of the core argument for morality.
 
 1. Reality is objective and consistent.
 2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
+3. Those theories that conform to logic are called “valid”.
+4. Those theories that are confirmed by empirical testing are called “accurate”.
+5. Those theories that are both valid and accurate are called “true”.
 6. “Preferences” are required for life, thought, language and debating.
 7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
 9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
+10. The subset of UPB that examines enforceable behaviour is called “morality”.
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
 
@@ -40,7 +40,7 @@ If you would like to further your understanding of UPB and its ramifications, yo
 |   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
 |   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
 |     7 | The Argument From Morality (or, how we will win!)             | The most powerful argument for freedom.                                                                                                                                                                            |
-|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is.”                                                                                                                                                                          |
+|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is”.                                                                                                                                                                          |
 |   260 | Moral Objectivity                                             | Using the scientific method to define morality.                                                                                                                                                                    |
 |   261 | Is And Ought and Ethics                                       | Anyone who argues ethics agrees with ethics.                                                                                                                                                                       |
 |   318 | Moral Experimentation                                         | Empirical proofs of abstract ethics.                                                                                                                                                                               |

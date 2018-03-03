@@ -4,21 +4,21 @@ We define “non-existence” as that which does not possess mass or energy, or 
 
 God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
 
-Thus if I say, “God exists,” what I am really saying is:
+Thus if I say, “God exists”, what I am really saying is:
 
 “*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+In other words, by saying “God exists”, I have created an insurmountable contradiction. I have defined “existence” as “non-existence”, which makes about as much sense as defining “life” as “inanimate matter”, or a rock as “the opposite of a rock”, or a “square” as a “circle”.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality”, then what I have really done is create a realm called “error”, put everything in it which is not true, and defined this realm as a place where “error equals truth”.[^2]
 
-Oczywiście, ludzie nie tworzą tego "alternatywnego wszechświata", aby unieważnić prawdę w naszym własnym wszechświecie, ale raczej uratować to, co jest błędne w rzeczywistości i nazwać to prawdą. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Oczywiście, ludzie nie tworzą tego "alternatywnego wszechświata", aby unieważnić prawdę w naszym własnym wszechświecie, ale raczej uratować to, co jest błędne w rzeczywistości i nazwać to prawdą. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here”.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist”.[^3]
 
 If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+The true reality of the statement “error equals truth” is the tautological insanity of “null equals null”.
 
 ### The "Alternate Universe" In Human Society
 
@@ -26,7 +26,7 @@ Powodem, dla którego spędziliśmy tak wiele czasu na radzeniu sobie z tą teor
 
 In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+The greatest leaps forward in scientific understanding are the so-called “unifying theories”. Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
 
 UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
 
@@ -48,11 +48,11 @@ Theft is morally wrong, as we have seen above. It is morally wrong for all peopl
 
 What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes”. Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
 
 ### Government
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity”. First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist”. A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
@@ -62,7 +62,7 @@ If I buy a soldier’s costume at a second hand store, and put it on, clearly I 
 
 Zadaję te pytania retoryczne, ponieważ są one śmiertelnie poważne. Najwyraźniej strój wojskowy nie zmienia charakteru człowieka, tak jak fryzura nie zmienia go w kaczkę, pojęcie, czy boga.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah”, you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D”.
 
 The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
 
@@ -84,7 +84,7 @@ Because opinions do not change reality, I cannot grant you any exception or reve
 
 ### Rząd jako woluntaryzm
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room”. Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
 However, this is pure nonsense.
 
@@ -104,13 +104,13 @@ This may be true, but it is completely irrelevant. If I tell a woman that I will
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Without the “null zone”, these corrupt fictions cannot be sustained.
 
 The “null zone” is the lair of the beast we hunt.
 
 As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone”, it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
 
 ### Policemen
 
@@ -122,11 +122,11 @@ When Bob has his breakfast, he also cannot attack his neighbour and take his mon
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Even more strangely, if I am not a “policeman”, but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism”.
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
@@ -136,7 +136,7 @@ We are told that we “want” Bob to take our money – which completely contra
 
 “Because they *owe* me their money!”
 
-“I thought you said that they want to give you their money.”
+“I thought you said that they want to give you their money”.
 
 “No, no – they owe me. It’s really *my* money!”
 
@@ -152,7 +152,7 @@ We are told that we “want” Bob to take our money – which completely contra
 
 “Yes, of course – have a look here!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun”.
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
@@ -162,6 +162,6 @@ Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is 
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth”.
 
 [^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.

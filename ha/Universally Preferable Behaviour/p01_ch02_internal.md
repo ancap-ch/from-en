@@ -1,28 +1,28 @@
-## Internal Consistency
+## Ingancin Kai
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Idan ni mai zanen gida ne, kuma na mika tsarin gida, matsalan farko shine sai na yarda cewa gidan zai ginu kuwa. Idan na bada tsarin gida mai  kyau sosai wanda aka  gina shi  gaba daya  da kunfan sabulu, bazan  taba karban kaso na ba, tunda wannan gidan ba zai tsaya ba.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Haka kuma, idan injiniya sa bada tsarin gina gada, abu na farko da sai an cika ka’idojin shi shine gadan zata tsaya. Sauran abubuwan lura kamar tsawon kwanaki, kwalliya da sauran su naa zuwa ne idan gadan a zahirce zata yiwu.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Ba dabara—aki fadin rashin amfani—a gina gada cikin zabin kayan aiki a gurguje tare da  “lissafi” a gurguje, saboda  sanin ko gadan zata  tsaya ko a’a. Tunda a zahirce dokokin inganci da duniya, wannan danganka abu ne me saukin gane wa ko gadan zata tsaya kafin giinin gadan.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Akwai hanyoyi guda biyu daka iya amfani dasu don gane idan gada za tayi karko bayan an gina. Na farko shine kallon rashin ingancin gadan a wannan wurin da kuma lissafin da zai karfafa gadan. Idan akwai matsaloli sosai a wurin lissafin dake tabbatar da nauyin da gadaan ke iya dauka, wannan na nuna cewa wannan zane yayi yawa ko kadan. Idan kuskuren lissafi ya bada  sakamako wanda zai rage karfin da tan hamsin a duk filin fadin kafa a ko wane sashin gadan, don hakan bata tsayawa—ko, kuma ta tsaya, a ce karkon bada gangan bane, kuma babu aminci.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Lissafin numba sai ya zamo yana nuna karkon gadan kuma ya kasance mai inganci kafin a fara tunanin wai abu akan aikin.
 
-In computer terms, code that does not compile cannot be tested.
+A zangon kwamfuta, tsarin da bai bi tsari ba ba’a iya gwada shi.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Wannan gaskiya ne ko a duniyar kimiya. A dubba ingancin Ka’idoji kafin a kai a tunani me zurfi don gwaji. Dalilin da yasa gwada inganci ke da amfani matuka shine tunda ka’idojin na ikirarin muhimmanci kusa da zahiri, kuma gaskiya nada inganci a cikin ta, kowa ne ka’ida da babu inganci a cikin shiba baya zama abu muhimmi kusa da gaskiya.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+*Bayan* kawai da inganci a cikin lisafi ne sannan maganan iya gina gadan zai yiwu. Abu ne da zai yiwu a bada ka’idojin masu inganci a gina karamin gada da katakon balsa, amma sai dai injiniya ya rubuta labari nabin kwatancen laiyin-jirgin kasa a mujalla, ka’idojin shi, duk da ingancin su, zaku fadi wurin bukatun masana’antu.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Da zaran mun yarda gadan zata tsaya, zamu iya gane ko zata gogayya da bukatun mu, kamar ace taimaka wa da daukar nauyin masu wuce wa da jirgin kasa.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+A zamanin tattalin arziki, haka dokokin suke. Idan tattalin arziki na na bukatar ka’idoji da farashi zai yi sama da kasa a lokaci daya, wannan ba gaskiya bane, tunda abu ne da ba zaii auku ba. Da zaran an binciki inganci ka’ida na, zan iya neman shaida, ko fara amfani da ka’idojin wurin samar da kariya ga kintata.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Duk da, zamu iya cewa kka’ida, nada kyau, idan ta ciika wannan:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Inganci akansa  (dabara).
+2. 2.	Inganci a  bayan shi (gwadajje).
 
-With this in mind, we can now turn to the core subject of this book.
+Da wannan a zuci, zamu iya juyawa kan darasin da littafin nan ya kunsa.
