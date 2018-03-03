@@ -88,7 +88,7 @@ Kung ipapahayag ko sayo na gusto ko ng sorbetes na tsokolate, at ipapahayag mo s
 
 Kung ipapahayag ko sayo na ang daigdig ay patag, at at ikaw ay kumuha ng baril at pinutok mo sa akin, ito ay mejo magiging isang halimbawa ng isang produktibong pagdedebate. Tunay, ang aming hindi pagkakaunawaan ay "naresolba" -subali't dahil isa lamang sa atin ang natitira sa pagtayo hanggang sa huli.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Kung ipapahayag mo sa akin ng mas maaga na makipag-ugnayan ka sa kahit anung hindi pagkakaintindihan sa pamamagitan ng pagbaril sa akin, Ako ay malamang na hindi makikipagtalo sayo. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
 In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
 
