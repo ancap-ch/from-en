@@ -6,9 +6,9 @@ Karamihan ng tao ay tumitimbuwang sa ilalim ng anino ng halimaw na ito, tinatawa
 
 Sumubok - at nabigo.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+Ang halimaw ay palaging imortal, kung kaya't ang mga tagabaryo ay hindi na umaasa pa na darating ang oras na mawawala ang kanilang manlulupig. ang halimaw ay hindi kailanman rasyonal, at walang pagnanais na makipagkasunduan, kung kaya't walang posibleng negosasyon.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+Ang tanging pag-asa ng mga desperadong tagabaryo ay kung may darating na lalaking tatalo sa halimaw.
 
 Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
 
