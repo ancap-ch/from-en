@@ -72,7 +72,7 @@ Qual será a reacção de Doug? Lembre-se, de acordo com o CUP, o que for válid
 
 Como pode ver, se *Bob* tem o direito de criar obrigações imaginárias e impô-las a Doug, então *Doug* tem o direito de constituir obrigações imaginárias e impingi-las a Bob. Obviamente, acabamos imediatamente num impasse perfeito. Se é moralmente bom impingir obrigações a outras pessoas, mas for impossível fazê-lo se *todos* possuírem essa capacidade, essa moral torna-se impossível. A única maneira em que Bob pode impor a sua obrigação imaginária a Doug, é que Doug se recuse a impor a sua obrigação a Bob - assim, temos uma situação em que o que é moral para uma pessoa, só pode ser alcançado pela outra pessoa se ela agir de uma maneira anti-moral. Portanto a virtude só pode ser activada pelo vício, o que é impossível - e temos regras morais opostas para dois seres humanos na mesma circunstância, o que o CUP elimina, instantaneamente, como inválida.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Por outras palavras, qualquer justificação imaginária e abstracta para o uso da força pode ser neutralizada com outra justificação imaginária e abstracta. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
 
 #### Religion And UPB
 
