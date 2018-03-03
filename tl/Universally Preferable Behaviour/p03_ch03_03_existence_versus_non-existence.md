@@ -110,7 +110,7 @@ Sa *paraan* hindi.
 
 ### Patakaran ng karamihan
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Pwede akong gumawa ng isang mabuting patakaran na sinasabi: "ang karamihan ba ay marapat na kayanin ang gawain sa anumang mga pangangailangan"?
 
 Of course I can, but it will never be valid or true.
 
