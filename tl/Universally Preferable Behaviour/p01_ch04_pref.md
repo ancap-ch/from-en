@@ -54,7 +54,7 @@ Kung pillin ko na makipagdebate, lubos kong tinatanggap ang malawak na iba't iba
 
 #### Saligan 1: parehas kaming umusbong
 
-Kung ako ay pipili para makipagdebate sayo, kailangan kong tanggapin na kami ay parehas na umuosbong. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Kung ako ay pipili para makipagdebate sayo, kailangan kong tanggapin na kami ay parehas na umuosbong. Kung ako ay naniniwala na umusbong, subali't hindi mo, pagkatapos ng debate ay walang halaga, at ang naging pagkilos ng isang luko-luko. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
 #### Premise 2: The Senses Have The Capacity For Accuracy
 
