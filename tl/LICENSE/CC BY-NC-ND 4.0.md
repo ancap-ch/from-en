@@ -28,7 +28,7 @@ f. **Exeptions and Limitations**nangangahulugan na wastong paggamit, wastong pak
 
 h. **Licensed Material** nangangahulugan na ang pagka masining o gawain na pampanitikan, database, o iba pang Materyal kung saan ang tagapaglesensya ay nilalapat itong Pampublikong Lesensya.
 
-i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. **Licensed Rights**nangangahulugan na ang karapatan ay ipagkakaloob sa iyo sa termino ng paksa at mga kondisyon ng publikong lesensya na ito, kung saan limitado ang lahat ng karapatang magpalathala at halintulad sa karapatan na ilalapat sa iyong gamit na Materyal na Lesensya at awtoridad ng tagapaglesensya para sa lesensya.
 
 h. **Licensor** means the individual(s) or entity(ies) granting rights under this Public License.
 
