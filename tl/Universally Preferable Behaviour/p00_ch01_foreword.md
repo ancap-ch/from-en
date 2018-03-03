@@ -54,9 +54,9 @@ Ako ay may buong kamalayan na, sa mga oras na ito, ikaw ay nakakadama ng tumataa
 
 Gayonman, hindi pa rin *lubos* sero.
 
-### Ground Rules
+### Mga Panuntunan
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+Ekstraordinaryong pagpapahayag ay nangangailangan ng ekstraordinaryong ebidensya. Sa pagtanggap dito sa gahiganteng tungkulin na ito - partikular sa nasabing maiksing aklat - ako ay nagsaayos ng ilang pangunahing panuntunan, na katuwa-tuwa gawin.[^1]
 
 1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
 2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
