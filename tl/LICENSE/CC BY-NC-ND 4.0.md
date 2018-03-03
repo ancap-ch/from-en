@@ -1,10 +1,10 @@
-## ang creative commons
+## creative commons
 
-# Atribusyon-HindiKomersyal-WalangMgaDeribatiba 4.0 Internasyonal
+# Attribution-NonCommercial-NoDerivatives 4.0 International
 
-Ang Korporasyon na Creative Commons ("Creative Commons") ay hindi isang kompanya ng batas at hindi nagbibigay ng mga serbisyong legal o payong legal. Ang distribusyon ng mga pampublikong lisensya ng Creative Commons ay hindi gumagawa ng abogado-kliyente o iba pang relasyon. Ang Creative Commons ay gumagawa ng mga lisensya nito at magagamit sa “as-is” na basihan sa mga kaugnay na mga impormasyon. Ang Creative Commons ay hindi nagbibigay ng mga warantiya ukol sa mga lisensya nito, anumang lisensyadong materyal na nakabilang sa mga termino at mga kondisyon, o anumang impormasyong kaugnay nito. Ang Creative Commons ay hindi nagki-claim sa lahat ng layabilidad para sa mga nasira na resulta mula sa kanilang paggamit sa kabuuang posible na ekstent.
+Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
-### Paggamit sa mga Pampublikong Lisensya ng Creative Commons
+### Using Creative Commons Public Licenses
 
 Ang mga pampublikong lisensya ng Creative Commons ay nagpo-provide ng istandard na mga set ng termino at mga kondisyon na ang mga gumagawa at ibang mga tagahawak ng mga karapatan ay maaaring gumamit para ibahagi ang awtorship sa mga orihinal na mga gawa at iba pang mga materyal na subjek sa kopyright at mga iilang mga ibang karapatan na nakaspesipika sa ibaba ng pampublikong lisensya. Ang mga sumusunod na mga konsiderasyon ay para sa mga pang-impormasyonal na mga layunin lamang, mga hindi exhusitibo, at hindi nagpoporma ng parte sa aming mga lisensya.
 
