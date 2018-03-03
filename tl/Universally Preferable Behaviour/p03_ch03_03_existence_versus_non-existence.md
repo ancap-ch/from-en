@@ -92,7 +92,7 @@ Ang UPB ay hindi pinapayagan para sa pagtitipon ng iisang tao na hindi pinapayag
 
 Bumalik ang isang mula sa nahuhuling oras papunta sa silid ni bob at doug, at ating ipakikilala si "jane."
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Ngayon kaya mayroong tatlong tao sa silid, ang lahat ay pwedeng tumingin sa "karamihan sa mga patakaran" ay may prinsipyo.
 
 If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
