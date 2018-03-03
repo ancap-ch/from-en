@@ -94,7 +94,7 @@ Bumalik ang isang mula sa nahuhuling oras papunta sa silid ni bob at doug, at at
 
 Ngayon kaya mayroong tatlong tao sa silid, ang lahat ay pwedeng tumingin sa "karamihan sa mga patakaran" ay may prinsipyo.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Kung si bob, doug at jane ay kumuha ng isang "boto" sa maging o hindi ito mabuti na halayin si jane, tayo ay ibig na ang lahat ay umurong sa gaya ng isang di-makatarungan at kasamaan sa saligan. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
 Why not?
 
