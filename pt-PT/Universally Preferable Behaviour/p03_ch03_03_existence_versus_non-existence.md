@@ -124,4 +124,4 @@ Não mudou nada substancial nestes cenários de "votação", mas temos uma séri
 
 A violação não pode ser boa, depois má, logo boa de novo, só porque algumas mãos se levantam ou baixam.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Portanto, se acha que a "regra da maioria" parece uma declaração moral razoável, e uma teoria moral perfeitamente válida, temo que você tenha que voltar ao início deste livro e começar de novo!☺
