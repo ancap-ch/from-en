@@ -92,7 +92,7 @@ Kung ipapahayag mo sa akin ng mas maaga na makipag-ugnayan ka sa kahit anung hin
 
 Sa esensya, tsaka, ang pagtatalo ay kailangan sa isang layunin na pamamaraan, sa pamamagitan ng makahulugang lenggwahe, sa paghagad ng pangkalahatang katotohanan, na kung saan ay mas higit na mabuti sa pansariling kamalian.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Itong kagustohan para sa pang-unibersal na katotohanan ay hindi kagustuhan ng isang *digri*, subali't ng *mabuti*. Ang isang shortcut na nagbabawas sa iyong oras sa pagbibiyahe sa pamamagitan ng kabiyak ay dalawang beses ang bilang mas magaling na bilang sa isang mas mahabang daan - subali't parehas at *walang hanggan na kanais-nais* sa pagbibiyahe sa ganap na hindi tamang direksyon.
 
 In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
 
