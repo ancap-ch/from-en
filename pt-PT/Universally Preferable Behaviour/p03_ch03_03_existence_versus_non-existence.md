@@ -84,7 +84,7 @@ Aqui vemos os mesmos problemas anteriores. Bob diz a Doug: "tens que me dar o te
 
 Do mesmo modo, se um homem afirma que o seu conceito chamado "governo" justifica o roubo da minha propriedade, então eu posso afirmar que o meu conceito chamado "anti-governo" justifica a *retenção* da minha propriedade, e ambos estamos igualmente "válidos" nas nossas justificações.
 
-Se este cobrador de impostos afirmar que o seu conceito chamado "o governo" só justifica o roubo da *minha* propriedade e não a minha retenção, então não estamos de acordo. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Se este cobrador de impostos afirmar que o seu conceito chamado "o governo" só justifica o roubo da *minha* propriedade e não a minha retenção, então não estamos de acordo. Ele pode tomar os meus milhares de dólares, mas então eu posso invocar o meu conceito de "roubar" esse dinheiro e a sua teoria moral ordena que passemos o resto da eternidade, tomando e roubando os mil dólares.
 
 #### UPB And "The Majority"
 
