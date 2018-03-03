@@ -38,7 +38,7 @@ Ang reyalisasyong ito ay nagdulot ng pagsilang ng bagong henerasyon ng mga nihil
 
 Dahil wala tayong kasundaun ng isang buo, tumpak at rasyonal na balangkas ng pagsusuri ng moral na proposisyon, ang "moralidad" ay nananatiling nadudungisan ng mistisismo, at ng di maiiwasang korolari ng karahasan nito. Gaya ng, bago pa ang Kaliwanagan, ang mga relihiyosong sekta ay walang katapusang nakikipagdigmaan para sa kontrol ng talim ng aristokrasya, subalit sa ngayon ang nagpapaligsahang moral na mga mitolohiya ay nakikipagdigmaan para sa pagkontrol ng estado, at sa lahat ng makinarya nito ng pamimilit.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+Samakatuwid ang morality ay nananatili, relatibo tungo sa modernong syensya, gaya ng ginawa ng midibal na "astonomiya" sa modernong astronomiya - isang lupain ng imahinasyong mitolohiya, pinagtibay ng pagkukwento, pagbabanta, pamimilit at pananamantala - na siyang aktibong humahadlang sa tunay na pag-unlad tungong katotohanan.
 
 This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
