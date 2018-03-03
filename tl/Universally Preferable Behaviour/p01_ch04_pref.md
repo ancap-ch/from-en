@@ -102,8 +102,8 @@ Kung ako ay makipag-diskusyunan na ang mga tao ay walang pananagutan sa kanilang
 
 Kung ang aking pagpapaliwanag na ang mga tayo ay *walang* pananagutan para sa kanilang pagkilos ay totoo. hindi ako ang mananagot sa aking argumento at hindi ka rin mananagaot sa iyong tugon. Gayunpaman, kung ako ay naniniwala na wala kang pananagutan para sa iyong pag-tugon, ito ay gagawin ng kaunting pang-unawa para maiusad ang isang argumento - ito ay magiging sapat kagaya ng pagpapaliwanag sa isang telebisyon.[^5]
 
-Samakatuwid, sa panimula, kung ako ay magsasabi sayo na wala kang pananagutan sa iyong mga pagkilos. ipinapahayag ko sayo na higit na mas mabuti sayo na maniwala na hindi mangyayari ang kagustuhan, dahil kung ikaw ay walang pagpipigil sa iyong mga pagkilos, ikaw ay hindi pwedeng pumili ng gustong kalagayan, i,e. ang katotohanan ay higit sa kabulaanan. Thus this argument, like the above arguments, self-destructs.
+Samakatuwid, sa panimula, kung ako ay magsasabi sayo na wala kang pananagutan sa iyong mga pagkilos. ipinapahayag ko sayo na higit na mas mabuti sayo na maniwala na hindi mangyayari ang kagustuhan, dahil kung ikaw ay walang pagpipigil sa iyong mga pagkilos, ikaw ay hindi pwedeng pumili ng gustong kalagayan, i,e. ang katotohanan ay higit sa kabulaanan. Kaya naman itong argumento, kagaya ng mga nasa itaas na argumento, mga pansariling-destruct.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: Ito ay magiging kapaki-pakinabang para sa pagmanatili nitong partikular na saligan sa isipan, dahil ito ay magiging napaka-importante sa susunod.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Ang katanungan ng responsibilidad ay, syempre, malapit na naiuugnay sa tanong ng libreng saloobin laban sa determinismo, na nagiging asignatura ng iba pang aklat.
