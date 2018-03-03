@@ -10,11 +10,11 @@ Ang halimaw ay palaging imortal, kung kaya't ang mga tagabaryo ay hindi na umaas
 
 Ang tanging pag-asa ng mga desperadong tagabaryo ay kung may darating na lalaking tatalo sa halimaw.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+Hindi maiiwasan, isang lalaki ang sumulong na ginulat ang lahat dahil siya ay lubos na walang kapararakan. Siya ay matatag na batang lalaki, anak ng magsasapatos, aprentis ng panadero - o minsan isang palaboy.
 
-This book is the story of my personal assault on just such a beast.
+Ang aklat na ito ay ang aking kwento ng personal na pag-atake sa nasabing halimaw.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Ang halimaw ay ang paniniwala na imposibleng bigyang kahulugan ang isang makatwiran, rasyonal, sekula, at syentipikong etikal na sistema. Ang halimaw ay ang ilusyon na ang moralidad ay dapat magpakailanman mawala sa irasyonal na latian ng mga diyos at mga pamahalaan, na pinagtitibay ng praktikal na dahilan lamang, subalit magpakailanmang kulang sa lohikal na pagbibigay-katwiran at malinaw na pagbibigay-kahulugan. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
