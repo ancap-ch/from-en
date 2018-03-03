@@ -82,7 +82,7 @@ Ito ay hindi ibigsabihin na ang aking kriterion sa layunin ay *lohikal* -pwede k
 
 Kung ako ay magsasabi sayo na ang daigdig ay patag, at ang sagot mo ay ang mundo ay hindi patag, subali't bilog, samakatwid ay ganap na tinatanggap mo ang patunay na ang katotohanan at ang kabulaanan ay parehas na umuosbong na talaga, at ang katotohanan ay mas magaling kesa sa kabulaanan.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Kung ipapahayag ko sayo na gusto ko ng sorbetes na tsokolate, at ipapahayag mo sa akin na gusto mo ng banilya, ito ay hindi mangyayari na "mapatunayan" na ang banilya ay mas magaling kesa sa tsokolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
 #### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
