@@ -1,56 +1,56 @@
-## Universally Preferable Behaviour
+## Perilaku yang Lebih Baik secara Universal
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Sebagai hasil dari argumen di atas, kita dapat mengetahui bahwa tidak mungkin untuk masuk ke dalam perdebatan apapun tanpa menerima alasan bahwa perilaku tertentu *lebih disukai secara universal*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting”, “writing” and “speaking”.
+Saya menggunakan kata "perilaku" di sini dari pada "berpikir" karena penting untuk membedakan antara keadaan internal dan tidak dapat disahkan murni seperti "pemikiran" dari negara-negara yang obyektif dan dapat disahkan seperti "tindakan," "menulis" dan"berbicara".
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant”, which is why I use the word “behaviour” rather than “thought”.
+Tidak mungkin membuktikan bahwa saya mengimpikan seekor gajah tadi malam. Ada kemungkinan untuk membuktikan bahwa saya telah menulis kata "gajah", oleh karena itu saya menggunakan kata "tingkah laku" daripada "pikiran".
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Mengakuisisi ke logika unggul kedalam sebuah argumen adalah *tindakan*. Jika, setiap kali saya memberikan satu poin kepada anda, saya tidak mengatakan apa-apa, tapi hanya menatap anda dengan kosong, anda akan merasa agak sulit untuk memperdebatkan saya. Untuk mengakui satu poin, saya harus melakukan tindakan persetujuan lisan.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Dengan demikian dapat dilihat bahwa, yang melekat dalam tindakan berdebat adalah sejumlah tempat tertanam yang tidak dapat dibalikkan.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Jika saya meminta anda untuk menemuiku di lapangan tenis, dan datang dengan senapan berburu, maka kita mungkin akan bermain olah raga, tapi pastinya tidak akan bermain tenis. Ketika saya meminta anda untuk menemui saya di lapangan tenis untuk sebuah pertandingan, tersirat dalam permintaan itu adalah penerimaan peraturan tenis.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Secara historis, mereka yang terlibat dalam perdebatan etis sering gagal mempertahankan kenyataan dasar ini.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Saya tidak bisa mengirimkan sebuah makalah ilmiah yang ditulis dalam bahasa saya sendiri yang mengklaim bahwa itu telah disahkan oleh ikan mas khayalan saya, dan diharapkan dapat dianggap serius. Demikian pula, saya tidak bisa memulai debat filosofis tentang etika dengan mengacu pada nilai pribadi saya sendiri, dan mengklaim bahwa argumen saya semua telah disahkan oleh Trixie si leprechaun yang maha tahu dan tak terlihat, dan berharap dapat dianggap serius.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Tindakan perdebatan mengharuskan penerimaan perilaku yang lebih baik secara universal (UPB). Tidak ada cara yang secara rasional menanggapi argumen etis *tanpa* menunjukkan UPB.
 
-Let us now turn to a series of positive proofs for UPB.
+Sekarang, mari kita beralih ke serangkaian bukti positif untuk UPB.
 
-### UPB And Validity
+### UPB dan Validitas
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect”.
+Salah satu tantangan utama yang dihadapi oleh para filsuf moderen adalah kebutuhan untuk membuktikan bahwa peraturan moral keduanya mungkin dan universal. Sampai peraturan moral dapat dikenai ketelitian dan logika yang sama seperti proposisi lainnya, kita akan terhalang oleh subjektivisme, dan prasangka politik dan argumen "pragmatis" dari efek.
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Analogi historis terdekat dengan situasi kita saat ini terjadi pada abad kelimabelas dan keenambelas, pada saat kebangkitan metode ilmiah. Perintis awal yang menganjurkan pendekatan rasional dan empiris terhadap pengetahuan menghadapi prasangka yang sama dengan yang kita hadapi saat ini - semua irasionalitas yang sama, kekuatan gereja dan negara yang tertanam, mistis dan subjektif "benar" dan hambatan pendidikan awal. Mereka yang menganjurkan keutamaan rasionalitas dan pengamatan empiris mengenai fundamentalisme Alkitabiah dan tirani sekuler yang menghadapi oposisi yang ditentukan dari mereka yang menggunakan salib dan pedang. Banyak yang disiksa sampai mati karena kejujuran intelektual mereka, dan yang kita hadapi risiko jauh lebih sedikit, dan harus jauh lebih berani dalam advokasi apa yang *benar* atas apa yang *dipercaya*.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Untuk menghapus moralitas palsu, kita harus mulai dari awal, sama seperti ilmuwan pertama. Francis Bacon tidak membantah bahwa metode ilmiahnya lebih "efisien" dari pada doa, teks Alkitab atau penglihatan yang disebabkan kelaparan. Dia hanya mengatakan bahwa jika kita ingin memahami alam, kita harus mengamati alam dan berteori logis - dan bahwa ada *tidak lain* rute pengetahuan.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Kita harus menggunakan pendekatan yang sama dalam mengartikan dan mengkomunikasikan *moralitas*. Kita harus mulai menggunakan kekuatan dan legitimasi metode ilmiah untuk membuktikan validitas dan universalitas hukum moral. Kita harus mulai dari awal, membangun logis dan menolak *setiap* pengganti irasional atau non-empiris untuk kebenaran.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Seperti apa ini? Yang harus kita lakukan adalah membangun aksioma berikut ini:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Moralitas adalah konsep yang sah.
+- Aturan moral harus konsisten untuk semua umat manusia.
+- Validitas teori moral dinilai dari konsistensinya.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Mulai dari awal... yaitu peraturan moral atau perilaku manusia yang lebih baik secara universal yang berlaku sama sekali?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Hanya ada dua kemungkinan dalam hal peraturan moral yang mana sama seperti yang ada dalam ilmu pengetahuan logis manapun. Aturan moral universal berlaku, atau tidak.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Aturan dapat valid jika *ada secara empiris*, secara grafitasi, atau karena *benar*, seperti persamaan dua ditambah dua sama dengan empat.
 
-We must then first ask: do moral rules exist at all?
+Kita kemudian harus bertanya dulu: apakah aturan moral itu ada?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Tentunya tidak dalam kenyataan material, yang tidak mengandung atau mematuhi satu peraturan moral. Aturan moral berbeda dengan aturan fisika, sama seperti metode ilmiahnya berbeda dengan gravitasi. Masalahnya secara bawaan mematuhi gravitasi atau hukum kedua termodinamika, tapi "jangan membunuh" tidak ada yang tertulis dalam sifat sesuatu. Hukum fisik *menjelaskan* perilaku materi, namun tidak mengandung *persepsi*. Ilmu mengatakan bahwa materi *melakukan* berperilaku dengan cara tertentu - tidak pernah *harus* berperilaku dengan cara tertentu. Sebuah teori gravitasi membuktikan bahwa jika Anda mendorong seorang pria dari tebing, dia akan jatuh. Ini tidak akan memberitahu anda apakah anda *seharusnya* mendorong atau tidak.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Dengan demikian tidak dapat dikatakan bahwa peraturan moral tidak ada dalam kenyataan material, dan keduanya tidak diikuti secara otomatis seperti hukum fisika, dan berarti yang *tidak* bahwa hukum moral salah, subjektif atau tidak relevan. Metode ilmiah itu sendiri tidak ada dalam kenyataan, dan juga bersifat opsional, namun sama seklai tidak salah, subjektif atau tidak relevan.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Jika kita dapat membuktikan bahwa teorimoral bisa objektif, rasional dan dapat diverifikasi, ini kan memberi mamfaat yang sama terhadap etika yang menundukkan *teori fisik* dengan metode ilmiah.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+Sebelum bangkitnya metode ilmiah, orang-orang percaya bahwa materi mematuhi keinginan subjektif Tuhan dan setan serta orang-orang percaya sama dengan moralitas sekarang. Gunung berapi meletus karena dewa gunung marah; Hasil panen yang baik dihasilkan dari pengorbanan manusia atau hewan. Tidak ada yang percaya bahwa hukum fisik absolut bisa membatasi kehendak para dewa, dan karena itu ilmu pengetahuan tidak akan pernah bisa berkembang. Mereka yang secara historis mendapatkan keuntungan dari mendefinisikan realitas fisik sebagai subjektif yang mana kebanyakan imam dan aristokrat melawan penaklukan teori fisik ke metode ilmiah, sama seperti mereka yang saat ini memperoleh keuntungan dari mendefinisikan moralitas sebagai subjektif yang mana kebanyakan imam dan politisi yang saat ini melawan penaklukan teori *moral* dengan prinsip-prinsip yang obyektif dan universal.
 
 As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
 
