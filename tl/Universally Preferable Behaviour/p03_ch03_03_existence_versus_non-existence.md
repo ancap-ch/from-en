@@ -124,4 +124,4 @@ Walang matibay ang may pagbabago dito sa "labas na sa pagboto" mga nangyayari, n
 
 Ang panghahalay ay hindi mabuti, pagkatapos masama, pagkatapos ay mabuti ulit, lamang dahil isa lang sa iilang mga kamay ang maitataas o maibababa.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Kaya naman kung ikaw ay alam na ang "maramihang patakaran" mga himig ay kagaya ng isang makatarungan na mabuting suliranin, at isang ganap na tama at mabuting palagay, pagkatapos ako ay natatakot sa iyong gagawin na may papunta sa likod at pasimula dito sa aking libro at magsisimula ulit!☺
