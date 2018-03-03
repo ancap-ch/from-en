@@ -18,7 +18,7 @@ Sa pamamagitan ng karapatan sa Lesensya (nakasaad sa baba), Tanggap mo at payag 
 
 ### Seksyon 1 - Mga Depenesyon.
 
-a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. **Adapted Material**nangangahulugan na ang paksa ng materyal para sa karapatang magpalathala ay katulad ng Karapatan na nagmulas sa basehan ng Lesensyadong Materyal kung saan nasalin ang Lesensyadong Materyal, nabago, naayos, nag palit anyo, o iba pang paraan para ma bigyan ng tamang kilos sa kinakailangan na permiso sa ilalim ng Karapatang magpalathala at sa kaparehas na karapatan na tangan ng tagapaglesensya. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
 b. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
 
