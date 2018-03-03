@@ -1,39 +1,39 @@
-## Kategori Etika
+## Ethical Categories
 
-Dengan kerangka UPB di tempatnya, sekarang kita dapat beralih ke pemeriksaan tentang bagaimana UPB memvalidasi atau membatalkan proposisi moral kita yang paling umum. Jika "teori fisika" kita bisa menjelaskan bagaimana seseorang bisa menangkap bola bisbolnya, setidaknya kita telah melewati rintangan pertama dan paling penting, dan memukul pukulan pertama dan terdalam kita melawan binatang itu.
+With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
 
-### Tujuh Kategori
+### The Seven Categories
 
-Seperti disebutkan di atas, proposisi mengenai perilaku yang lebih disukai secara universal terbagi dalam tiga kategori seperti umum-positif, negatif dan netral. Untuk membantu memisahkan estetika dari etika, mari kita mulai dengan memperluas kategori sudah mencakup perilaku *setiap* yang dapat dikenai analisis etis. Tujuh Kategori:
+As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
 
-1. Ini bagus (lebih baik secara universal dan akan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh").
-2. Ini bagus (lebih baik secara universal dan dapat dilaksanakan melalui kekerasan, seperti "jangan membunuh saya").
-3. Ini positif secara pribadi (tidak secara universal disukai atau tidak dapat dilaksanakan, seperti predileksi untuk makan es krim dingin).
-4. Ini netral, atau tidak memiliki konten etis atau estetis, seperti berlari ke bus sekolah.
-5. Secara pribadi negatif (predileksi karena tidak makan es krim dingin).
-6. Ini secara estetis negatifnya ("kekasaran"dan"terlambat").
-7. Ini jahatnya (dilarang secara universal) ("pemerkosaan").
+1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
+2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
+3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
+4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
+5. It is personally negative (predilection for not eating ice cream).
+6. It is aesthetically negative (“rudeness” and “being late”).
+7. It is evil (universally proscribed) (“rape”).
 
-Idealnya, kita harus bisa mengurangi hanya dua kategori - yang secara keseluruhan lebih disukai dan positif secara estetik - dengan mendefinisikan proposisi etis kita sehingga apa yang dilarang secara universal hanyalah bayangan cermin dari apa yang secara universal disukai, dan hanya membuang preferensi pribadi dan netral. tindakan tidak relevan dengan pembahasan etikanya.
+Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
 
-Misalnya, Prinsip Non-Agresi (NAP) menyatakan bahwa inisiasi penggunaan kekerasan tidak bermoral - sehingga non-inisiasi penggunaan kekuatan secara universal lebih disukainya, sementara inisiasi penggunaan kekerasan dilarang secara universal. Jika apa yang dilarang justru kebalikan dari apa yang lebih baik itu, sebenarnya tidak ada kebutuhan untuk kategori tambahan.
+For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
 
-Lebih jauh lagi, sebagai filsuf moral, kita harus memprioritaskan penilaian etika rasional kita dengan memusatkan perhatian pada pelanggaran yang paling mengerikan itu. Jelas, tindakan yang paling tidak bermoral harus menjadi penegakan kekerasan terhadap preferensinya yang tidak adil terhadap orang lain. Jika tindakan seperti "pencurian" atau "pembunuhan" didefinisikan sebagai UPB, pemeriksaannya definisi tersebut harus menjadi prioritas tertinggi kami.
+Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
 
-Dengan demikian, kita akan memfokuskan usaha kita terutama pada tindakan yang lebih baik dan secara universal dan dapat dilaksanakan.
+Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
 
-### Kebajikan Dan Kebalikannya
+### Virtue And Its Opposite
 
-Kebalikan dari "kebajikan" pastilah "wakil" - kebalikan dari "kebaikan" pastilah "jahat." Jika saya mengajukan peraturan moral, "jangan mencuri," maka mencuri itu pasti jahat, dan *bukan* mencuri harus bagus. Ini tidak berarti bahwa "menahan diri dari pencurian" adalah satu-satunya definisi keunggulan moral, tentu saja, karena seorang pria mungkin seorang pembunuh, tapi bukan pencuri. Kita dapat menganggapnya sebagai persyaratan "perlu tapi tidak memadai" untuk kebajikan.
+The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil”. If I propose the moral rule, “thou shalt not steal”, then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
-Setiap tindakan yang lebih baik secara moral harus oleh sifatnya memiliki tindakan yang berlawanan - karena jika tidak, maka tidak ada kapasitas untuk pilihan, tidak ada kemungkinan penghindaran, dan karena itu tidak memiliki kapasitas untuk kebajikan atau ketidakberuntungan. Jika saya mengusulkan peraturan moral: "Anda harus melawan gravitasi," maka moralitas yang jelas menjadi tidak mungkin, amoralitas tidak dapat dihindari, dan oleh karena itu peraturan moral harus tidak berlaku.
+Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity”, then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
-Jika saya mengusulkan aturan moral: "janganlah engkau pergi ke San Francisco," ini bisa menjadi logis diulang sebagai: "engkau akan pergi ke mana-mana tapi San Francisco." Dengan cara ini, moral aturan "jangan mencuri" bisa sama-sama diusulkan dalam bentuk positif – "engkau akan menghormati hak milik." Sejak menghormati hak milik adalah suatu kebajikan, melanggar hak milik harus menjadi wakil.
+If I propose the moral rule: “thou shalt not go to San Francisco”, this can be logically rephrased as: “thou shalt go anywhere but San Francisco”. In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights”. Since respecting property rights is a virtue, violating property rights must be a vice.
 
-### Apa yang hilang
+### What Is Missing
 
-Yang mencolok dari daftar di atas adalah kebajikan tradisional seperti keberanian, kejujuran, integritas dan sebagainya - dan juga kebalikannya: kepengecutan, kepalsuan dan korupsi.
+Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
 
-Kelihatannya, kebajikan ini harus masuk dalam ranah perilaku positif secara estetika, seperti tepat waktu, tapi saya sangat menghargai kebajikan tradisional untuk menempatkan mereka dalam kategori yang sama dengan basa-basi sosial. Alasan mengapa mereka tidak dapat ditempatkan dalam kategori yang lebih disukai secara universal adalah, seperti yang telah disebutkan di atas, kerangka UPB hanya menangani *perilaku*, bukan dengan sikap, pikiran, keadaan pikiran atau emosi. Metode ilmiah dapat memproses sebuah proposisi logis; itu tidak bisa memproses "kemarahan" atau "kebodohan." Keadaan pikiran ini tidak penting, tentu saja - sebenarnya sangat penting - namun teori tersebut tidak dapat menjadi bagian dari sistem obyektif untuk mengevaluasi proposisi etis, karena pada dasarnya bersifat subyektif - dan oleh karena itu tidak dapat dibuktikan - keadaan keberadaan.
+It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness”. These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
 
-Dengan demikian UPB hanya bisa menangani tindakan yang bisa diverifikasi secara obyektif seperti pembunuhan, penyerangan dan sebagainya.
+Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
