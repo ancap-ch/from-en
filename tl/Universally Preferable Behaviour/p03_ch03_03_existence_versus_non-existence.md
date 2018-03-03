@@ -118,9 +118,9 @@ Isang *tao* lamang ang gumawa – nang sa "karamihan" ay hindi kailanman ginawa.
 
 Kung ito ay mabuti para kay bob at doug na halayin si jane dahil sila'y "labas na sa pagboto," ano ang mga mangyayari kung si jane ay may dalawang kaibigan na nagpakita at bumoto na salungat naman kay bob at doug's na makagawa ng makademonyong pagnanais?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Mabuti, biglaan sina bob at doug ay mga nagbago na ilabas na sa pagboto, at manghalay maging "masama" upang sa kanila'y maulit muli.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Walang matibay ang may pagbabago dito sa "labas na sa pagboto" mga nangyayari, ngunit ang lahat ay may isang palabas na lumalaban ang mabuting mga patakaran para sa parehong lalaki – isang pagsuway ng UPB, at kaya naman walang bisa.
 
 Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
 
