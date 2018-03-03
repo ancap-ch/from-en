@@ -58,7 +58,7 @@ Kung ako ay pipili para makipagdebate sayo, kailangan kong tanggapin na kami ay 
 
 #### Saligan 2: ang mga pandama ay may kakayahan para sa ganap na kawastuan
 
-Dahil ang mga tao ay hindi pwedeng makipag-komunikasyon ng psychically, lahat ng mga pagtatalo ay dapat kasama ang mga ebidensya na mga pandama. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Dahil ang mga tao ay hindi pwedeng makipag-komunikasyon ng psychically, lahat ng mga pagtatalo ay dapat kasama ang mga ebidensya na mga pandama. Ang pagsusulat ay nangangahulugan lang ng paningin; ang pagsasalita ay kailangan ng pang-dinig; ang ay kailangan ng panghawak. Kaya naman kahit anung proposiyon na nakadepende sa kawalang-bisa ng mga pandama ay awtomatikong makakasira sa sarili.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
