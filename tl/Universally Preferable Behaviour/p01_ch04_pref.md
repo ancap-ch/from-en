@@ -70,7 +70,7 @@ Kung itatama mo ang aking isang mali na ginawa ko, ikaw ay tanging tumatanggap n
 
 Ikaw hindi nagsabi sa akin:: kailangan mong baguhin ang iyong ideya para sa akin dahil ito ay gusto ko, "subali't sa halip: "kailangan mong iwasto ang itong ideya dahil ito ay talagang hindi wasto. "ang aking kamalian ay hindi lumabas galing lamang sa hindi sumang-ayon sayo, subali't bilang isang resulta ng aking paglihis natin sa landas mula sa layon ng katotohanang pamantayan. Ang iyong pangangatwiranna kailangan kong itama ang aking maling ideya ay nakasalalay sa layunin ng kahalagahan ng katotohanan - i.e. ang katotohanan ay *higit na mas mabuti para sa pangkalahatan* sa kamalian, at ang katotohanan ay *panlahatang layunin*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Saligan 5: ang isang layunin ng Pamamaraan ay umuosbong para sa pagbubukod ng katotohanan na galing sa kabulaanan
 
 If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
