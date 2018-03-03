@@ -70,4 +70,4 @@ Of course, the danger always dey wey be say bad person go attack you for em own 
 
 [^10]: Of course, if I be person wey no sabi do anything or I be confuse human being I for don die for hunger, prison na for help me pass.
 
-Nietzsche’s “will to power” and Rand’s “wetin serve for man life e gud”.[^11]:
+[^11]: Nietzsche’s “will to power” and Rand’s “wetin serve for man life e gud”.
