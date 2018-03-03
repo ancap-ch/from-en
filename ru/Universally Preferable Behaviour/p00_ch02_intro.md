@@ -66,7 +66,7 @@
 
 “Средние истины” всегда принимают форму истины, за которой следует ложь. “Зевс это языческий предрассудок” - верное утверждение, открыто сделанное христианскими проповедниками. Последующая ложь заключалась в следующем: “Яхве не языческий предрассудок, а настоящий и живой Бог”.
 
-Мы можем дать более конкретный пример, который будет знаком каждому, кто когда-либо давал советы расстроенному другу. “Мой последний бойфренд был настоящим дураком,” она может сказать, и вы ее горячо поддержите. “Но мой новый парень такой классный,” она добавит, и вы постараетесь не закатить вверх глаза.
+Мы можем дать более конкретный пример, который будет знаком каждому, кто когда-либо давал советы расстроенному другу. “Мой последний бойфренд был настоящим дураком”, она может сказать, и вы ее горячо поддержите. “Но мой новый парень такой классный”, она добавит, и вы постараетесь не закатить вверх глаза.
 
 Очень сложно не заменять одну иллюзию на другую.
 
@@ -86,48 +86,49 @@
 
 Мир падает потому что падает камень.
 
-### "Middle Truths" And Exploitation
+### "Средние истины" и эксплуатация
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+В биологическом смысле паразитизм это вполне жизнеспособная стратегия выживания для многих существ. В отсутствие этических норм кража энергии и ресурсов у других существ вполне благоразумна. В целом, наиболее устойчивая и стабильная форма паразитизма это симбиоз, или взаимовыгодное сосуществование. Таким образом бактерии, населяющие наш кишечник, способствуют своему выживанию, помогая нам переваривать пищу.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+Тем не менее, вирус, который вызывает у нас постоянную усталость, и едва способный поддерживать нашу дееспособность, вряд ли можно назвать “взаимовыгодным”. Если мы подумаем о нашей долгой и мрачной истории, наполненной катастрофами, голодом, войнами, болезнями и бедностью, и сравним ее с поразительным материальным успехом современности, станет ясно, что некая форма паразитизма тиранила наши умы и способности в течение тысячелетий. И когда последние несколько столетий продемонстрировали могущество и творческий потенциал нашего разума, мы можем рассматривать наш вид как организм, встряхнувший с себя ужасного паразита, выбравшийся из бесконечных судорожных предсмертных мук, чтобы продемонстрировать поразительные акробатические трюки.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Когда мы излечиваемся от болезни, мы чувствуем себя лучше, что не скажешь о болезни. С точки зрения вируса оспы, вакцина от оспы является геноцидом.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Подобным же образом паразиты, душащие человечество, с ужасом воспринимают свободу большинства. Поскольку их паразитизм освобождает их от потребностей реальности, т.е. заработок хлеба насущного, они неизбежно расценивают свободу масс как форму порабощения для них самих. Таким же образом и фермер рассматривал бы “освобождение” своего домашнего скота как полную катастрофу...
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Установление истины обязательно ограничивает фантазию. Ограничение фантазии обязательно ограничивает эксплуатацию. Если я смогу убедить вас, что я живой бог во плоти, и что Бог, который дал мне рождение, хочет чтобы вы отдавали мне десять процентов от вашего дохода, или вы будете навечно покараны, тогда я стану сказочно богатым. Я паразит иллюзий и завишу от этих иллюзий для своего существования, так же как и грибок зависит от тепла, влаги и темноты.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Те, кто использует моральные фантазии для эксплуатации человечества, всегда рьяно боролись с теми, кто угрожал их жизнедеятельности, открывая и распространяя истину.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Нам известен пример мафии, которая угрожает потенциальным соперникам увечьями или смертью, или спектакль религиозных сект, нападающих друг на друга, или одно правительство, нападающее на другое.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Когда философы вскрывают ложь, необходимую для продолжения эксплуатации, они не стремятся выставить себя как конкурентов. Они не хотят сместить мафию, или церковь, они хотят избавиться от нее полностью.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+В качестве более современной аналогии можно привести отношения между государством, лоббистами и налогоплательщиками. Лоббисты будут свирепо нападать на других лоббистов, которые соперничают за одни и те же налоговые поступления.  
+Однако представьте себе, как все лоббисты бы объединились чтобы наброситься на любого, кто предложит устранить государство как институт.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Паразиты будут агрессивно соперничать друг с другом за ограниченные ресурсы своего хозяина, но в их общих интересах объединиться чтобы нападать на любого, кто будет угрожать уничтожить самого хозяина.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Подобным образом в любом обществе, где государство и церковь номинально разделены, каждое образование будет стремиться бороться за последователей. Если церковь начинает терять свою власть, государство агрессивно набирает патриотов, что приводит к бездуховному социализму. Если государство начинает терять свою власть, церковь агрессивно набирает прихожан, что приводит к религиозному фундаментализму, часто с оттенком либертарианства.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+При этом философы, противостоящие любым интеллектуальным заблуждениям, являются заклятыми врагами всех паразитов, которые питаются от иллюзий. “Большие истины” физики устраняют необходимость в сверхъестественных деятелях и делают невозможными чудеса. Объяснительная сила науки полностью затмевает религиозные фикции, которые маскируются под знания о физическом мире.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Научный метод требует, чтобы каждый тезис был подкреплен доказательством и рационализмом. Поскольку нет никаких доказательств богов, а само представление о богах изначально противоречит само себе, то утверждение “боги существуют” лишено всякого основания. И религиозные паразиты тогда вынуждены предпринимать попытки защищать свой тезис, пытаясь разделить реальность на “два мира” - научный и духовный. Однако нет никаких доказательств существования этого “духовного” мира в настоящем сверх того, что уже было описано в параллельной вселенной Платона “Формы” две тысячи пятьсот лет назад.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Таким образом установление последовательной и универсальной истины обязательно ограничивает и уничтожает эксплуатационный потенциал иллюзии. В частности, “большие истины”, являющиеся универсальными и последовательными, делают излишними и смехотворными “средние истины”, которые по сути являются эксплуатирующими фантазиями. Мы знакомы со “средней истиной” религии, некоторые будут рассмотрены в этой книге, и то, что вы узнаете, может вас шокировать.
 
-### Effective Parasitism
+### Эффективный паразитизм
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Наиболее эффективные паразиты, или вирусы, это те, присутствие которых остается незамеченным организмом. Наша иммунная система служит для того чтобы бороться с инородными веществами в теле, изолируя и убивая их. Мы особенно боимся ВИЧ и рака, так как они способны обойти нашу иммунную систему. Такой же способ используют и интеллектуальные паразиты для того чтобы отключить защитные системы тех, на кого они охотятся.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Если в переулке на вас нападет незнакомец и потребует отдать ему деньги, вы будете напуганы и потрясены. Вы можете сопротивляться, бежать, или отдать ему свой кошелек, но вы останетесь шокированными, сердитыми и напуганными таким взаимодействием. Когда вы будете рассказывать эту историю, то будете ее преподносить так, как будто это было гнусное нарушение ваших личных и имущественных прав. Другие будут проявлять сочувствие за то, что вы оказались в такой неприятной ситуации, и будут избегать ходить по этому переулку в будущем.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Это пример “малой истины”, которая гласит: “Красть у меня неправильно”.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Однако если правительственный агент пришлет вам письмо с требованием выплатить ему деньги, вы можете ощутить определенное оскорбление, но вы не будете рассказывать об этом своим друзьям с таким же ужасом и негодованием.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Это пример “средней истины”, которая вуалирует “большую истину”, заключающуюся в том, что “красть неправильно”.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+В настоящей книге мы будем изобличать и развенчивать эти ложные “средние истины”. Я верю, что человечество бесконечно страдает под тиранией ложных этических “средних истин”, которые оправдывают деструктивные мировоззрения религиозного суеверия, земного деспотизма и культа семьи.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Мое послание в этой книге это то, что в этике, как и в любой другой интеллектуальной дисциплине, большие истины происходят непосредственно из малых истин. Чертовски трудно передвигаться в дезориентирующем тумане “средних истин”, но это того стоит, так как единственная фундаментальная альтернатива истине это эксплуатация, деструкция, и, как неизбежность, преждевременная кончина миллионов.

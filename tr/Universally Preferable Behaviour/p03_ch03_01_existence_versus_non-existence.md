@@ -1,6 +1,6 @@
 ## Varoluş, Var olmayışa Karşı
 
-''Var olmayışlığı'' herhangi bir kütleye veya enerjiye sahip olmayan şeklinde tanımlıyoruz ya da yer çekimi gibi kütlesi olan enerjileri gösteriyoruz.
+Herhangi bir kütleye veya enerjiye sahip şeyleri ''Var olmayan'' şeklinde tanımlıyoruz ya da yer çekimi gibi kütlesi olan enerjileri gösteriyoruz.
 
 Tanrı, kütleye ya da enerjiye sahip değildir ya da kütlenin veya enerjinin etkilerini göstermez – Tanrı, aslında duyular yoluyla ya da akılcılık yoluyla hiçbir şekilde ne saptanabilir ne de doğrulanabilir değildir.
 

@@ -1,88 +1,89 @@
-## UPB: Ethics Or Aesthetics?
+## Iwa ti a le gba lagbaye: Asa tabi Ewa?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+Nigbogbo, a ma lo ewa lati tunmo si yiyan ti a ko fi agbara yan-lagbaye tabi ni teni-nigba ti asa tabi iwa, a ma lo won fun yiyan ti a fu agbara yan ayan lagbaye(bi apeere ilo) lati lo ona sciencii lati fi oye awon oun ti a leri mule, sugbon a kole lo agbara ona sciencii lori awon ti ko kinlo, niwon igba ti ailo ona sciencii o kin she ishe ti o n fa wahala, ti oloye fisiki o ba lo ona sciencii mo, sugbon o wa n kansi cardi taroti, ko fi tipatipa yan ife re lemi lori, mo sile yago fun. Eni tofitipatipa bayanlopo, ni owo keji, fi tipatipa yan ife re le awon ojiya owore lori.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+A dojuko iwati ale gba lagbaye ni ona asa, aleri iwa ti a le gba lagbaye bi “oro idabobo” ti o ni awon onaa bi:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- Onaa sciencii
+- Logiki
+- Empiricisimu
+- Ijiyan
+- Ede
+- Asa
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Asa je omo iwati ale wu lagbaye ti o n soro nipa iwa ti a fi tipatipa gba, tabi lilo iwa apa. Oye kaakan ti o tabi to fi lilo ipa fun oye iwa, o je elo ilo deedee ni ona logiki ati eri lona empirically.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Ejeka wo ishe meta ti o le jekamo iyato laarin asa ati iwa. Ishe kini ni aimogbonwa, ikeji ni iro, iketa ni pipayan.[^9]
 
-### Irrationality
+### Aimogbonwa
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+E je ka sowipe emi ati iwo ni ijiyan lori wiwa olorun. Nigba ti mo fi awon idi mi sile, o patewo lori eti re,  o si wan korin wipe olorun so fun e wipe oun wa, nigbanaa gbogbo ijiyan mi jasi asan. Ni kedere, esi re si ipo mi o mogbon wa sibesibe, mo le binu siwa re, sugbon, o sowon  ogbon fun mi lati yo ibon sita, kin shi yin iban mo o. mogbagbe wipe o jeyiyan lagbaye lati lo logiki ati eri ju ki a gbokan le oun ti o wa ni ori iwa lo, sugbon iyan agbaye yi o tipatipa mogbonwa ni ona ara, ni ona iwa apa tabi ihale.
 
-### Lying
+### Paro
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Ejekasowipe iiwo ati emi fi ofin ijiyan sile, a si jo gba lati dahun si ibeere wiwalaye olorun pelu idi ati eri. Ti, bi ijiyan naa she teesiwaju, o pada si ipo igbagbo ogbon ati eri re, o ko she otito si oro re. ni oro miran, o n paro nigba ti o sowipe ibeere naa ni wa koju pelu idi ati eri.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+Iyato to wa laarin ishele meejeeji(aimogbonwa pelu piparo) je iyato laarin iito ona iwe adehun ati aini iwe adehun. Ti mob a fun o ni ogorun dolla, ti mo si koja lo, mi o le wa ni odun kan si wipe o je mi ni ogorun dolla, tori yiya ni. Ni owo jeji, o gba lati san owo yi pada ni odun kan, o kosi mu adeehun rese, ipo ti oyato kedere leleyi.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Ninu apere “para”, o ko lati she otito pelu oro re, osi fi akoko mi soofo, ko ni je ninu iwa tabi imogbonwa fun mi lai yo iban sita, kin shi yan mano.
 
-A reasonable moral theory should be able to explain why this is the case.
+Oye iwa ti o mogbowa ye kole shalaye idi ti o she je bayi
 
-### Murder
+### Ipayan
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+Ti o bas are momi pelu obe loke owo re, eeyan die lo ma jiyan pelu eto mi lati dab obo ara mi. ti yiyin ban fun o ni ona kann soso ti mo fi le dabo bo ara mi, a sipe eleyii ni ipataki ti o banininuje.
 
-### Requirements For Ethics
+### Elo asa
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Aon nkan kan gbodo wa, tabi gba, fun asa tabi oye lati mule tabi lilo nikedere, yiyan ati idurofun gbodo wa ni gbigba gegebi axiomsi. Ti apata kan ba n jabo lori oke, o si jabo lu motor re,a o le ni apata naa lojebi, niwon igba ti ko ninu to n ro,ko le yan, ko sile duro fun arare. Ti apata naa ba jabogegebi esi asiko ati isedaye, nigbanaa kosi eni ti o jebi fun pipa motor re lara sugbon, ti o ba ri mi ti mo ti apata naa kuro ni ipo ti o wa,o koni debi lu apata naa, emi lo ma debilu. Fifisi idaru fun iwaju, o wa dip emo yo apata naa tori arakunrin miran fi tipatipa mumishee ni oju iban was hi fe debi ru eni ti o gbe iban naa ju emi lo.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Bi aseso ni oke, wiwo inu ijiyan nilo gbigba iri yiyan, iye ati iduro ara eni sibesibe, awonidi yi wa ni yiyan color painti fun yara kan,a si ma sowon lati sope mimu hiwu je yiyan to mogbonwa. Awon idi miiran gbodo wa ki yiyan imuwa fun ifesi lati mogbonwa.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Gbogbo wa lani iferanju-lati eyi ti o tosimi ju(“mo nife icy creamu”)si eyi to shee gba layika(“odara lati wa ni oju ojo”) si iwa agbaye(“o ko gbodo payan”).
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+Idi kekere kan wa lati ma koi we, nipa iferanju-asile lo si Ann Landersi fun isoro iwa ti a le gba layika- nibi, ama dojuko isheeshe iwa ti a legba lagbaye.
 
-### Choice
+### Iyan
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Ti moba gba ipe re wasi parti irole, mo si ri wipe oro wan pamilara, mo le yan lati dide kin si malo-mo sile yan laati ma gba ipe lowo re mo. Agbara fun jijade ati/tabi yiyago fun je abuda to she iyato laarin ewa ati asa.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+Bakan tabi omiran, nigba ti mob a pinu lati fi parti re sile,o dide soke, osi demi mo aga, nikedere,mi oni lomo, nigbayi ni igberagare di ipalara, o si ti koja ipin lati ewa si asa.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+Leyin igba ti mo seleri wipe idile kan ni mani, mow a she shinna,iyawo mi shi pinu lati fi mi sile, mo ti shee nibi, sugbon ibi ti mo she nipa shina yato si ibi ti ma shee ti n ba so mo basi menti lati maje kolo a o ni lero lori iyawo ti oyinban fun oko re to ri ko le bimo, ko ma wuwa ologbon, sugbon a ma mo ipataki ti a kabamo ninu ki o fi agbara ipa lati ni ijande ninu ahamo ni ona akoko, ni ona ikeji, yiyan re lati fi oko re sile ti di yiyo kuro pelu ahamo. Ailebimo o le ba agbara lati yan eni keji je; ti mo basimenti le je.
 
-### Avoidance
+### Iyago fun
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+Ti iwo ati emi ban jo un duro lori oke, mo si yi si o, mo si sowipe, “durosiwaju mi, kin le ti o kuro ni oke naa”,kini esi re ma je? Ti o ba wa durosiwaju mi, mo shi ti o kuro lori oke naa, eleyii a je bi ipara eni lati odo re, ju ipanyan lati odo temi lo. Idi fun eyi nipe, o le yago fun titi lati ori oke naa pelu kiko lati duro si iwaju mi.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Bakanna, ti mob a  pade re ni baar, mo si sope “mo fe ki o wa moo do mi, kin le so e mo beedi mi, kin sile fi ebi pa o ku. Ti o bawa sodo mi, o logbon ninu wipe ipinnu re o leje ko ma pelaye mo. Ni owo keji, ti mob a fi ogun tipabayaanlo sinu imu re, o si ji sinu ide lori beedi mi, o wa ni kedere wipe nkan kekere lolese ninu ishele naa.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+Ibeere iyago fun je kokoro lati she iyato ewa ati asa. Ewa lo pelu ishele ti o le ma dara, sugbon ti ko yo agbara re lati yan.
 
-#### Avoidance And Initiation
+#### Iyago fun ati bibere
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Oro kan wa pelu iyago fun ti o tayo ninu iwe yii niwaju ti a nilo lati yanju nibi.
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Ti mob a gbe lori okme egberun marun kilomiter si mi, mo si ju imaili si o wipe ti o ba gba iwaju ile mi koja, mayiban fun o ni,ko kin she wahala lati yago fun ishele yii. Lileri pelu agbara mi o nse iwa todara, sugbon a o bere ti o bas hi bo sinu ballon, o si gba iwaju ile mi koja.
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+Ni owo keji, ti o ba ti gbe ni adugbo ti eyan o ti le losiwaju mo, mo si so fun o wipe ti o ba to ona adugbo yii lati dele, mayiban fun o, agbara re lati yago fun ishele yii dikun si. O le ma lo ile tabi ko fo awon feesii eyinkule yin, sugbon gbogbo eleyii o le tuyan lara.
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
+Ni ona to jora, ti aseju kan ninu awon eto ilufin bawa sile mi, o si soro wipe oun ma jo ile mi ti mi o ba sanwo abo, mo le yago fun ishele naa pelu lilo si continenti miran , sugbon eleyii a dabi ona ti o to lati koju ishele naa, nigba ti mo gbodo bere ishee lati yago fun wahala.
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+Ni akoko yii, alesowipe ihale Kankan ti bibere iwa ipa o kin she iwa to dara, sugbon a nilo ibeere fun iyago fun-digiree iyago fun ti a nilo- ose Pataki-Nigbogbo,piposi ihale lori eniyan, piposi ewu lori aye eniyan. Ti mob a nilo lati fo lo si continenti omiran kin ba le gba iwaju ile re koja, eleyii je ishele ti ko wopo. Ti a ba hale momi pelu wahala fun gbigba ona kan soso losile, eleyii je idiwo fun ominira mi. ti mob a nilo lati gbe awon igbese kan lati je ki ihale kan wasi imuse- oun kan wa-Ti mob a fe jee ki ihale naa shele lojumomo, eleyii je omiran. Siso fun e wipe ma gba e leti ti o ba duro pelu ori re ni apa dudu osupa o kin shee ihale rara- siso fun e wipe ma gba e leti ti o ba mi je ihale.
 
-### Ethics, Aesthetics, And Avoidability
+### Asa, ewa ati iyago fun
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+Je ki asope iwo ati emi gba lati pade ni ibikan ni ago mefa gegere- sugbon mow a pe de pelu abo wakati kan. Ki ni esi re maje? Ni akoko, inu le ma bimi. Ti mob a so fun e wipe mop e nitori mo fun enikan ti o n kulo ni CPRu, mo si gba ile aye re, ibinu re ma di idunnu. Ni owo keji, ti mob a so fun e wipe nitori gamuu ni mo sepe, ibinu re ma posi. CPRu eni ti o nkulo, a o lero fun-gbigba gamuu je ishee ti a le yago fun, o si fihan kedere ailakasi ti o ni fun mi.
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+Agbara lati yago fun ishele ni o she idasile idajo asa arabirin ti onifiran fi tipa balopo nilere je ojiya ilufin. Arabinrin ti a fi tipa balopo leyin igba ti o ti moti yo ni pati,ti o si wa ni ihoho shegbekale ishele ti o le lati ro. Nikedere, fifipabayanlo, nigba ti a ba n she, o le shee yago fun, niwo=n igba ti o ti je tipatipa lafin she- sibesibe, awon ishele ti o le yori si fipabayanlo, a le yago fun won.
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+Ti eyan ba wole mi tipatipa, o simu wallet mi loju iban, mo ni binu. Ti mob a fi wallet mi si ori aga ni parki ni ose kan seyin, she mole binu ti mob a mo pa ko si ni be mo? A ma gbagbo wipe eleyi o ni idajo ti o peye.
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+Nikedere, ibere iyago fun je aarin si bi a se le ro iwa lona ifa ati ipa. Aisan ti o muyan lai sofun yan tele, ti ako sile di lowo, derubawa ju awon eleyii ti a le dilowo lo. A le she idiwo si ona ti a fi le ni arun jejere nibi ti a ti ma n mi pelu ki a mase fa efin, beena ni ale diwon aarun jejere ara pelu lilo idaabobo ara lowo orun, a sile di kikan egun pelu ka mase shee ere idaraya ti o lewu. Nibakanla, a le se opo pelu ki a yago fun ilufin nipa awon iwa kookan, bi ki a ni elegbe obinrin ti o ni iwa, tabi to kunrin, yiyago fun ibi ti wahala ti le shele, ki a mase lo ipoju oun ti ko dara ati beebeelo.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+Eleyi ni an kpe ni “iku lati owo olopa” nibiti awon to le para won je ki olopa shiwawu, won shi she bi igba ti won fe mu iban sita lati je ki olopa yiban mowon. Eleyi je apere ka male ishele nibiti “ojiya” ti ni garanti. Eleyi shi le shele ni inu ile, nibiti iyawo ma nawo ija si oko ti o ti moti yo, mimo fun wipe oti ma n je ki o tete binu. Ni awon ishele wonyi, ale ni aanu fun omokunrin ti a ji wallet re ni parki, tabi obinrin ti a kolu ni parti, tabi iyawo ti oko re lu-sugbon nigba kanaa, a ma ni awon ibere to she Pataki fun awon ojiya wonyii fun oun to shele. Nidajo, a gbodo she iyato laarin omokunrin ti a ji walleti re ni oju iban, a ti omokunrin ti o fi wallet re sile ni ibi ti eyan to po si wa. Awon mejeji ni a ji wallet won, kalem, sugbon a o le da ebi lu awon mejeji.
 
-Can the UPB framework help us understand, classify and extend these moral standards?
+Nje ofin iwa ti ale gbalagbaye le je I a ni oye, fi si oha, ati ki a she iposi awon iri iwa?
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]: Ejowo emope awon apeere ti o wa nisale o kin she eri, sugbon won je oye asa ti o nimule, ti a shi le tunmo, a ma de ibi eri nigba die si
+.

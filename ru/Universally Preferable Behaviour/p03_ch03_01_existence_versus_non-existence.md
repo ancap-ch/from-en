@@ -4,7 +4,7 @@
 
 Бог не обладает массой или энергией, не проявляет эффекта от массы или энергии - Бог на самом деле не может быть обнаружен или поддаться проверке в каком-либо образе, виде или форме, ни органами чувств, ни рациональностью.
 
-Thus if I say, “God exists,” what I am really saying is:
+Thus if I say, “God exists”, what I am really saying is:
 
 “*То, что существует, должно иметь способность к выявлению; Бога выявить нельзя, но Бог существует, т. е. то, что не существует, существует.*”
 
@@ -52,7 +52,7 @@ Theft is morally wrong, as we have seen above. It is morally wrong for all peopl
 
 ### Government
 
-Говорить о том, что правительство действует по противоположным моральным правилам к остальному обществу, это то же, что говорить: «Лепреконы невосприимчивы к гравитации». Прежде всего, лепреконов нет, и один из способов, по которому мы убеждаемся, что они не существуют, это утверждение о том, что они невосприимчивы к гравитации. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Говорить о том, что правительство действует по противоположным моральным правилам к остальному обществу, это то же, что говорить: «Лепреконы невосприимчивы к гравитации». Прежде всего, лепреконов нет, и один из способов, по которому мы убеждаемся, что они не существуют, это утверждение о том, что они невосприимчивы к гравитации. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist”. A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
@@ -62,11 +62,11 @@ If I buy a soldier’s costume at a second hand store, and put it on, clearly I 
 
 I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah”, you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D”.
 
 The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+“Well”, you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on”.
 
 Это поднимает очень интересный вопрос, который заключается в том, могут ли мнения изменить реальность.
 
@@ -80,11 +80,11 @@ Thus believing that murder is morally good does not make murder morally good. Si
 
 Opinions do not change reality.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder”, any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
 
 ### Government As Voluntarism
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room”. Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
 
 However, this is pure nonsense.
 
@@ -104,13 +104,13 @@ This may be true, but it is completely irrelevant. If I tell a woman that I will
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Without the “null zone”, these corrupt fictions cannot be sustained.
 
 The “null zone” is the lair of the beast we hunt.
 
 As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone”, it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
 
 ### Policemen
 
@@ -122,11 +122,11 @@ When Bob has his breakfast, he also cannot attack his neighbour and take his mon
 
 Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Even more strangely, if I am not a “policeman”, but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
 
 What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism”.
 
 We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
 
@@ -136,7 +136,7 @@ We are told that we “want” Bob to take our money – which completely contra
 
 “Because they *owe* me their money!”
 
-“I thought you said that they want to give you their money.”
+“I thought you said that they want to give you their money”.
 
 “No, no – they owe me. It’s really *my* money!”
 
@@ -152,7 +152,7 @@ We are told that we “want” Bob to take our money – which completely contra
 
 “Yes, of course – have a look here!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun”.
 
 This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
 
@@ -162,6 +162,6 @@ Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is 
 
 This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth”.
 
 [^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.

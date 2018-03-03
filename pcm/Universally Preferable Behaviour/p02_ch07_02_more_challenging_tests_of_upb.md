@@ -1,59 +1,59 @@
-### "Don't Eat Fish"
+### "No Chop Fish"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Na how we  see dis proposition: Na bad thing to eat fish?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+E clear sey dis proposition dey meet up to some UPB requirement – e be as everybody  think am, no mata which time or place and  e dey objective.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+yes e dey somehow hard make we call dis one moral theory – why?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+First first, "evil" follow for action wey we fit use force prevent. Rape na "evil" thing and so I fit use force defend my sef if person try to rape me.
 
-Can I justly shoot someone who eats a piece of fish?
+I fit say e just for me to  shoot person wey chop small fish ?
 
-It would seem silly to argue that I can – but why?
+e go dey somehow silly to argue sey I fit – but why?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+De way wey everybody see doctrine get some objective limits.  For instance, some people fit nor get access to fish – dem fit dey live for desert – and oda people dey live near lake dey see fish anyhow, and e come dey hard make dem live without chopping fish. Howeva dat one nor dey enough,  since we don already accept de fact say as euncuh nor fit rape person e nor mean sey de moral proposition wey yarn say "e dey bad to rape" nor dey valid.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+No, de "red herring" na de fish wey dey inside de moral proposition wey yarn say "na bad thing to chop fish
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Scientist nor fit yarn say na only pink rock wey im theory of gravity apply to. Since im theory na about gravity, e must apply to everytin wey  get weight.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Na de same, with de example for up, UPB dey only accept say person fit eat but e reject wetin d person dey eat, since wetin de person dey eat nor be work but instead na wetin im dey work on top.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Na de same way wey ethicist nor fit  yarn say de moral proposition of say na bad thing to rape old people dey valid. Rape na de behaviour, so weda de victim old or not, e nor mata to moral proposition. As far as say de victim na human being, de UPB requirement nor fit change. According to UPB "Thou shall not steal" na valid moral proposition, but "thou shall not still turnip" nor follow at all, cos of say theft relate to concept of property. And we nor fit separate turnip wey be part of property from oda forms of property den come give dem dia own moral rule
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+D moral proposition wey yarn say e bad to chop fish, don fail test as everybody think am cos e dey too specific to say na so everybody see am – e be like to say na only pink rock wey my theory of gravity apply to. If na theory of gravity true true den e must apply to every every. If e only apply to pink rocks, den e nor be theory of gravity.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+UPB dey also reject any theory wey dey bring opposing moral judgement for actions wey dey de same. Assault nor fit turn gud one day den bad de next day. so we know sey to chop nor fit gud one day den bad de next day.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+To chop fit only gud or bad or e just dey for middle. If to eat bad, den e go get many oda logical problem, wey I dey sure we alreay know by now.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+If on de oda hand, to eat dey gud, den e nor fit dey gud to eat cabbage den bad to eat fish, since dat one dey violate wetin dey universal, as far as say na d same action wey be – To eat – wey e dey judge gud and bad d same time.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Na like dis wey we take understand say de proposition wey say "e bad to eat fish" don fail UPB test, and e nor follow as moral theory.
 
-### Animal Rights
+### Rights For Animal Dem
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+We nor get time to enta dis mata of animal right wella, but we fit at least deal with dis moral proposition of "e bad to chop fish" 
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+If e bad to kill fish, den UPB say any person or anything wey kill de fish dey evil. nor be only fishermen, but shark dem follow too – since if to kill fish na bad thing, we don expand how we dey take define ethical actors and now e don include non-human life.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+E clear sey shark nor fit stop im sef to kill fish, since na eating machine with fin wey dem dem be.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+So now we don end up with de logical problem of "inevitable evil". If e bad to kill fish, but sharks dem nor fit avoid to kill fish, den sharks dem be " inevitable evil". Howeva as we don talk before, where person nor get choice – where e nor dey possible to avoid de thing – gud or bad nor fit dey dia. So de proposition of "e bad to kill fish" dey try to define universal morality for make non-moral situations follow inside, wey nor fit standa logically.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Also, na de word "fish" still be de problem for d formulation, since e dey too specific to dey universal. De correct UPB reformulation na say "na bad thing for people to kill living things”.
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+If, somehow e dey bad to kill, we go face de problem of " inevitable evil" again. e nor get any human being wey fit exist without killing oda living things dem like virus, plant and even animal dem. So dem define  "human life" as "evil". But if dem define human life as evil, den e nor fit be evil wen avoidance nor dey possible.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+imagine if we say, " na evil thing to kill people" – na im be say shark wey dey eat person dey evil?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+No – once again, since shark dem no fit avoid to kill people, we nor fit blame dem for such actions, just as we nor fit carry landslide go court cos e kill person.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB dey allow exception based on objective and universal material or biological difference, just as oda science dey do. De scientific theory way say gas dey expand wen e hot apply to only gas. I nor fit spoil d theory cos I prove say e nor apply to plastic.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Na so morality apply to consciousness, cos of requirement for wetin person fit avoid. If I try to apply moral theory on top snail, or tree or rock or numbers dem, I dey try to say these things fit know wetin dem dey do, mean while dem nor know and dat one dey contradict logic. I fit talk say de  opposite angle theorem for geometry nor valid cos e nor apply to circle or cloud. De OAT only apply to line wey dey cross each oda – to try to apply am for anoda mata be like to paint air.
 
-In other words, misapplication is not disproof.
+No put am anoda way, misapplication nor be disproof
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+e get many oda "areas wey grey" wey we fit work on, from abortion to intellectual property rights to returning wetin we steal and so on, But wetin I think be sey e dey very important to carry UPB comot for where e nor exist come begin apply am to de problems wey we dey face today.

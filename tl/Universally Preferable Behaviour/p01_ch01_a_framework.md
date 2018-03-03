@@ -74,7 +74,7 @@ Sa gayon maaari naming tanggapin na dapat nating sukatin ang bisa ng isang pahay
 
 Kung gayon, ang katotohanan ay maaaring masukat ayon sa dalawang sentrong pamantayan:
 
-1. Ang Katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating isipan at ang pagkakapare-pareho ng pagkamaykatwiran, na direktang nakuha mula sa pare-parehong pag-uugali ng bagay at enerhiya sa tunay na mundo. [^ 2]
+1. Ang Katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating isipan at ang pagkakapare-pareho ng pagkamaykatwiran, na direktang nakuha mula sa pare-parehong pag-uugali ng bagay at enerhiya sa tunay na mundo.[^2]
 2. Ang katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating isipan at ang kalikasan at pag-uugali ng bagay at lakas sa tunay na mundo.[^3]
 
 Ang unang criterion ay isang sukatan ng pagkakapare-pareho ng mga ideya sa kanilang mga sarili - at ang gayong pagkakapare-pareho ay isang pangangailangan sapagkat ang katotohanan ay pare-pareho sa sarili nito. Kung sasabihin ko, "wala ako," iyan ay isang halimbawa ng isang ideya na hindi naaayon sa kanyang sarili, dahil kailangan kong lumabas upang ipahayag ang pangungusap. Ang pangalawang pamantayan ay isang sukatan ng katumpakan ng mga ideya na may kaugnayan sa mga obserbasyon ng obserbasyon ng layunin na katotohanan.

@@ -1,96 +1,98 @@
-## Introduction
+## المقدمة
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+لأجيال لا تعد ولا تحصى، عاش البشر في نوع من الأنانية والجهل الذي فرضه الذات: الارض كانت مسطحة، والشمس والقمر والنجوم تدور حولها، أسلافه سنحت له بالتكلم معها حتى بعد الممات، والرعد كان غضب الآلهة.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+إن الخروج من هذا الرحم النرجسي من التفسير الذاتي يتطلب عمل آلاف السنين  ويكلف حياة الملايين. كان الجهد المطلوب لربط وجهة نظرنا من * التجربة الإدراكية * إلى * المنطق المفاهيمي * مرعبة، مبهجة، مشوشة للغاية وخطيرة للغاية. فهم أن العالم لم يكن ما  * شعرت به *، أو * يبدو لك *، كان  ولا يزال أعظم انجاز ذكاءنا. * الحقيقة * من الواقع تحولت إلى أن تكون في نظر العقل، وليس من الجسد. 
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+العالم يبدو مسطح. . الشمس والقمر يبدون بنفس الحجم؛ هم ليسوا كذالك. يبدو أن النجوم تتحرك حول الأرض. لا يفعلون. إن معرفة الحقيقة تتطلب أن نرى العالم من خارج حواسنا  وهذا لا يعني رفض حواسنا، بل امتثالا محكما للأدلة الحقيقية * للحواس، وهي ليست أن العالم مسطح، ولكن هذا الأمر ، والطاقة والقوانين المادية متسقة. عندما نترك صخرة من يدنا، فإنها تقع  هذه هي * الحقيقه * دليل على الحواس، وليس أن الأرض ثابتة وغير متحركة. فكرة أن العالم غير متحرك هو افتراض غير صحيح يتناقض مع الأدلة المباشرة من حواسنا، وهو أن كل شيء يقع. إذا سقط كل شيء، فإن العالم لا يمكن أن يكون ثابت وغير متحرك. 
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+هذه هي الحقائق الصغيرة اليومية. أن الصخور تقع،  الدخان يرتفع، النار ساخنة والشمس والقمر مدوران. وإذا بقينا ملتزمين التزاما صارما وصارما بهذه "الحقائق الصغيرة"، يمكننا في الوقت المناسب أن نستخلص الحقائق الفيزيائية العظيمة التي توفر لنا هذه المعرفة والقوة الرهيبة.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+بين الحقائق الصغيرة والحقائق العظيمة، ومع ذلك، الأوهام هي التي أعمتنا في الفيزياء والأخلاق.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+في الفيزياء، لا يمكن أن تتعارض الحقائق العظيمة مع الحقائق الصغيرة. لا "نظرية ميدانية موحدة" يمكن أن تتناقض بشكل صحيح لدينا تجربة الشعور المباشر من سقوط الصخور أو اللهب المتصاعد. أعظم نظرية رياضية لا يمكن أن تكون صحيحة إذا تم تطبيقها وإرجاع تغيير غير صحيح في اعداد الخروج.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+تاريخيا، ومع ذلك، بين الحقائق الصغيرة الخاصة بنا والحقائق العظيمة تكمن ما سأطلق عليه "منطقة فارغة". 
 
-### The "Null Zone"
+### منطقة  "لا شيء"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+إننا نقول لأطفالنا ألا يكمل بعضهم بعضا، ونعتقد أن العنف خطأ في المجرد، كقاعدة أخلاقية عامة. "الحقيقة الصغيرة" هي: * لا لكم *. "الحقيقة العظيمة" هي: * العنف خطأ *.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+ومع ذلك، هناك في عقولنا كيان وهمي يسمى "الله"، وهذا الكيان يعتبر أخلاقيا تماما. ولسوء الطالع فإن هذا الكيان ينتهك باستمرار وبشكل صارخ المرسوم القائل بأن "العنف غير صحيح" من خلال غرق العالم، وإيصال النفوس إلى الجحيم على الرغم من معرفتهم الكاملة ب "قراراتهم"، وفرض عقوبات على الاغتصاب والقتل والسرقة والاعتداء وغيرها من الأعمال التي ندينها كما الشر تماما في أي فرد.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+وبالتالي لدينا القليل من الحقيقة (* لا لكم *) والحقيقة العظيمة (* العنف هو خطأ *) ولكن في الوسط، لدينا هذا "منطقة فارغة" * حيث العكس تماما حيث الحقيقة الصغرى والعضمى تعتبر حقائق صحيحة تماما *. 
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+تاريخيا، يمكننا أن نرى نفس التناقض في الفيزياء. لا توجد دوائر كاملة في تجربتنا المباشرة، ولكن بسبب الاعتقاد في الله، كل حركة الكواكب يجب أن تكون "دائرة مثالية"  فرضية خلفت علم الفلك لقرون. وبالمثل، إذا رجل ادار رأسه، فإنه لا يعتقد بشكل معقول أن العالم كله يدور حوله  وانه سوف يضع هذا بسعادة ليس فقط لانه  "حقيقته العضيمة"، ولكن ك * الحقيقة العظيمة *، أو مبدأ عالمي . ولكن بالنسبة لمعظم تاريخ البشرية، كان يعتقد أن النجوم والكواكب تدور حول الأرض، بدلا من أن الأرض تدور. هنا مرة أخرى يمكننا أن نرى "منطقة خالية" بين خبرة الشعور المباشر والمبدأ العالمي، حيث تعتبر المبادئ معاكسة تماما لأن تكون صالحة تماما.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+لا رجل عاقل يختبر الله مباشرة. في حياته اليومية، وقال انه يقبل تماما أن * الدي لا يمكن أن ينظر إليه غير موجود *. لا رجل معقول يجفل في كل مرة يأخذ خطوة، خوفا من جدار غير مرئي قد يكون منع طريقه. أعظم تجريدات العلم تدعم نهجه. 
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+على العكس من ذلك، في "منطقة خالية" من الدين، * العكس تماما * من كل  الحقائق الصغيرة والحقائق العظيمة ويعتقد أن يكون صحيحا. شخصيا، رجل يعتقد أن * التي لا يمكن أن ينظر إليها لا وجود لها * فكريا، وقد أثبت العلم هذا مرارا وتكرارا. ومع ذلك، في "منطقة فارغة" من اللاهوت، والعكس تماما اقتراح صحيح يحمل  البديهية هناك * التي لا يمكن أن ينظر إليها ** يجب ان تكون ** موجودة *.
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+إيماننا بفضيلة الجيش يكمن أيضا في هذه "المنطقة الفارغة". إذا دفع رجل خاص لقتل رجل آخر، فإننا نسميه "بندقية للتأجير"، وندينه كرجل ضرب. إذا، ومع ذلك، فإن هذا الرجل يضع  زي أخضر مع شرائط معينة * ويرتكب نفس الفعل *، ونحن نحييه كبطل ومكافأة له معاش التقاعد. الحقيقة البسيطة (* لا يجب القتل *) تتفق تماما مع الحقيقة العظيمة (* القتل خطأ *)  ولكن في الوسط هناك تكمن "منطقة فارغة"، حيث القتل يصبح سحريا "فاضلا".
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+إذا كانت "المنطقة الخالية" هذه صالحة، اذن أي اقتراح منطقي يمكن أن يستمر. إذا كان الاقتراح صحيحا والعكس الدقيق لهذا الاقتراح صحيح أيضا  يصبح المنطق المنطقي مستحيلا. نمو العلوم العقلانية هو الهجوم المطرد على هذه "المنطقة الفارغة"، وتوغل الاتساق الموضوعي في هذه الجيوب الصغيرة المجنونة من النزوة الذاتية.
 
-The same is true in the realm of morality.
+في الخرائط القديمة، قبل أن ينتهي رسامو الخرائط من استكشافاتهم، إن رسومات الأراضي المعروفة سوف تتلاشى في ورق فارغ. ويتطلب نمو المعرفة أولا تحديد ما هو غير معروف، ومن ثم توسيع المبادئ المعروفة إلى المناطق المجهولة.
 
-### The Casualties
+وينطبق الشيء نفسه في مجال الأخلاق.  
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+### الخسائر
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+عبور هذه "المنطقة الفارغة" محفوف بالمخاطر. الطريق من الحقائق الصغيرة إلى الحقائق العظيمة مهدت بعظام الملايين. من وفاة سقراط إلى تعذيب العلماء الأوائل من قبل المتدينين الدينيين، والملايين الذين قتلوا وتوفيوا من أجل الأوهام السوداء للفاشية والشيوعية، فإن أي اتجاه إلى الأمام للمعرفة الإنسانية في "المنطقة الفارغة" محفوف بخطر كبير .
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+يجب "عبور المنطقة الفارغة"  أو توحيد بسلاسة الحقائق الصغيرة مع الحقائق العظيمة حتما سيكون صعبز جدا وخطير؟ إنه تحد هائل لتوحيد الإدراك الحسي مع المفاهيم في خط مستقيم من التفكير المنطقي ولكن هل * يجب * لهذا التقدم ان يستغرق آلاف السنين ومحيطات الدم؟
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+وإذا نظرنا إلى التقدم التكنولوجي والاقتصادي للبشرية، فإننا نرى خطا ثابتا إلى حد ما لألفيات لا حصر لها، تليها طفرات ضخمة ومتناسقة على مدى السنوات القليلة الماضية. ولا يمكن تصور أن بعض الطفرات الجينية الواسعة الانتشار يمكن أن تسفر عن التسارع المفاجئ والهائل في الاتساق الفكري والنجاح المادي. النظريات التي تدعي أن "تأثير كرة الثلج" معين حيز الوجود، مدفوعا بشكل غامض من قبل تراكم كل الزيادات القليلة من المعرفة التي حدثت منذ فجر الحضارة، ويمكن عادة أن يتم فصله من اليد كليا * تفسيرات * نظرا لعدم وجود قيمة تنبؤية لها.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+إذا كنا نفهم أن إمكاناتنا المذهلة كانت متاحة لنا على الأقل عشرات الآلاف من السنين وأن هناك أرباحا كبيرة ومتعة كبيرة في ممارسة ذلك  ثم في آن واحد يصبح واضحا أننا حقا * هل * نريد استخدام عقولنا المذهلة.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+وبالتالي يجب أن تكون هناك قوة هبوطية عملت تاريخيا على سحق واستقلال الحرية الطبيعية للإنسانية.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+في مجال العلم، ليس من الصعب جدا أن نرى القوى القمعية التي أبقت باستمرار عقولنا في الجهل شبه الأولي. إن الجمع بين الخرافات في شكل دين، والعنف في شكل الأرستقراطية، هدد المفكرين العقلانيين بالتخويف والسجن والتعذيب والقتل. فمثلما كان المزارع يحقق أرباحا من الذكاء الضعيف لأبقاره، وأرباح مالك  الرقيق  من خوف عبيده منه ، احتفظ الكهنة والملوك بامتيازاتهم بتهديدهم بالموت أي شخص تجرأ على التفكير.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+والحقيقة البسيطة هي أن "الكهنة" و "الملوك" كانوا وهم رجال فقط. الحقيقة البسيطة هي أن الآلهة والشياطين التي كان من المفترض أن تبرر حكمهم لم تكن موجودة.
 
-### "Middle Truths"
+لقد قطعنا خطوات كبيرة في فهم طبيعة وواقع المساواة الإنسانية البسيطة، ولكن الحقيقة المحزنة لهذه المسألة هي أن عالم الأخلاق * لا يزال مفقودا في "المنطقة الخالية" في الأوهام المدمرة للحقائق الوسطى ".
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+### "الحقائق الوسطية"
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+دعونا ندعو المبادئ المعارضة التي تقع في "المنطقة الفارغة" بين الإدراك الحسي والاتساق المفاهيمي  "الحقائق الوسطى".
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+هذه "الحقائق الوسطى" هي أخطر أوهام الجميع، لأنها تمنح * مظهر * الحقيقة بينما في الواقع * تهاجم * الحقيقة.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+من خلال توفير الوهم الذي وجدنا للحقيقة، "الحقائق الوسطى" في الواقع تمنعنا من كسب الحقيقة. إنها خط الدفاع الأخير عن الخيال والافتراس والاستغلال.
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+وبما أنها ليست عقلانية فحسب، ولكن * مكافحة * ، "الحقائق الوسطى" لا تزال مرنة إلى ما لا نهاية  طالما أنها تخدم أولئك في السلطة. على سبيل المثال، نشأت المسيحية من الفاشية المتنامية للإمبراطورية الرومانية المتأخرة جزئيا من خلال انتزاع في الخرافات "البدائية" من اللاهوتيات القائمة. "ننسى الآلهة القديمة، لدينا العلامة التجارية الجديدة الله الذي هو أفضل بكثير!"
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
 
-It is very hard not to replace one illusion with another.
+"الحقائق الوسطى" تأخذ دائما شكل الحقيقة، تليها كذبة. "زيوس هو خرافة الوثنية" هو بيان صحيح، الذي أدلى به علنا ​​من قبل التبشير المسيحي. الكذب الذي أعقبه كان: "الرب ليس خرافة وثنية، بل إله حقيقي وحي".
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+يمكننا تخصيص هذا أكثر قليلا مع مثال من شأنه أن يكون مألوف لأي شخص من أي وقت مضى المشورة لصديق مختل. "كانت صديقي الأخير كان احمقا تماما"، وسوف تقول، وسوف توافق بحزم. وسوف تضيف "صديقي الجديد هو حقا * عظيم * على الرغم من ما قالت"، ، وسوف تحاول عدم لف عينيك.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+ومن الصعب جدا عدم استبدال الوهم بأخر.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+"الحكومة البريطانية طغيان!" بكى الثوريين الأميركيين في القرن الثامن عشر  وبعد أن طردوا القوات البريطانية، ثم أنشأوا حكومتهم الخاصة وبدأوا في مهاجمة مواطنيهم.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+"أرستقراطية هي رجس ظالم!" بكى ثوريين آخرين، الذين تم  استبداد اغلبيتهم في شكل الديمقراطية. 
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+"الحقائق الوسطى" يمكن أن توجد أيضا في العلم، وبالمثل منع التقدم الطبيعي من الحقائق الصغيرة إلى الحقائق العظيمة. حتى القرن الثامن عشر، على سبيل المثال، يعتقد علماء الأحياء في "جيل عفوي"، أو فكرة أن الحياة يمكن أن تنبع من مسألة غير حية. هذا لم يسبق له مثيل، بطبيعة الحال، ولكن تتفق مع الكتابات القديمة على حد سواء الفلسفية والدينية، وهكذا قبلت كحقيقة. أيضا، قبل ثورة أينشتاين في عام 1905، كان يعتقد أن الضوء يتحرك عبر مادة ثابتة وغير مرئية تسمى "الأثير المضيء"، تماما كما تتحرك الموجات الصوتية عبر الهواء. ولم يكن لدى أي عالم يعتقد في هذه النظرية أي دليل تجريبي على هذا "الأثير"، إما شخصيا أو علميا، ولكنه اعتبر ضروريا للامتثال لخصائص أخرى يمكن ملاحظتها.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+الدين هو أيضا "حقيقة وسطى" أخرى ، واحدة من أخطرها. صحيح أننا من الأنواع الفريدة في الكون، بقدر ما نعرف. الزرافة هي أطول أربعة أضعاف، ولكن الرجال ليسو مجرد رئيسيات "أكثر ذكاء"، ولكن شيئا مختلفا تماما. وطبيعة هذا الاختلاف لا تزال غير معروفة إلى حد كبير  تفسير ديني "نحن لسنا حيوانات لأن لدينا روح والتي تم إنشاؤها من قبل الله" هو مجرد مثال آخر على "الحقيقة المتوسطة". صحيح أننا مختلفين جدا عن الحيوانات. وليس صحيحا أننا خلقنا من قبل إله ولدينا روح. 
 
-And the great truths are always achieved from the little truths.
+كما أن بعض الطفيليات لا يمكن أن تتجذر حتى تطرد الطفيليات السابقة، "الحقائق الوسطى" فقط هجوم لأوهام سابقة * بحيث يمكن أن تأخذ مكانها *. أولئك الذين يشككون في الأوهام السابقة يتم رسمها نحو الخيال الجديد. وهكذا فإن المسيحية تحل محل الوثنية، والماركسية تحل محل المسيحية، وما بعد الحداثة تحل محل الماركسية، والديمقراطية تحل محل الأرستقراطية، وهلم جرا.
 
-The world falls because a rock falls.
+وإلى أن تتحقق الحقائق العظيمة، وتتحد مع الحقائق الصغيرة، "الحقائق الوسطى" هي مجرد كتيبة دوارة من الباطل الاستغلالي والمدمر  مصمم خصيصا لمنع تحقيق الحقائق العظيمة.
+
+والحقائق العظيمة تتحقق دائما من الحقائق الصغيرة.
+
+العالم يقع بسبب سقوط الصخور.
 
 ### "Middle Truths" And Exploitation
 
 Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial”. If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
@@ -114,7 +116,7 @@ However, the philosophers who oppose *all* intellectual error are the sworn enem
 
 The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths”, which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
 
 ### Effective Parasitism
 
@@ -122,12 +124,12 @@ The most effective parasites – or viruses – are those which fool the body in
 
 If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+This is an example of a “little truth”, which is: “Stealing from me is wrong”.
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong”.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+This book will focus on exposing and destroying these false “middle truths”. I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
 My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.

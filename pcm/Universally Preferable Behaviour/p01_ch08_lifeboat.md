@@ -1,73 +1,73 @@
 ## Lifeboat Scenarios
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+D fact say UPB dey only validate theories wey dey continuously reasonable no mean say e no get situation wey person no fit bear wey be say we fit act *against* wetin concern such theory.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Make we reason like dis, if we gree for the worldwide property confirmation right, to break person window and jump enter em house wit the person allow you e dey against him power for him belongings. As e be, if we con dey hang for flagpole outside window of house, and we want con fall die, small of us no go gree kick d window jump enter wia safe just say we dey obey principle wey we no dey see.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+For normal world, e go take person wey ova wicked to carry person wey destroy window go court make him for save em life – jux as e go take man wey ova dey irresponsible make him pay money take replace d window. The principle of “avoidability” na be the main thing here – man wey dey hang for flagpole get small choice to dey kick window.  Man wey dey break enter your house to thief something still get the mind make em no invade your property – em no dey corner, but con be the *initiator* of the offence. This one resemble the difference wey dey between the woman wey her husband cheat on her, versus the woman wey her husband lock her for basement.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+No be to talk say if person break window to save himself na bad thing. E be, but na bad thing wey be say all of us go like do dan say we die. I don reach d point say I go die I go thief apple. E no mean say na gud thing make I thief apple – e jux mean say I go do am – and I go bear d punishment of wetin I thief.[^10].
 
 ### Grey Areas
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+The fact sey confirm “grey areas” dey exist for ethics realm dem don too use am to rank how things relate to one another. Since, for sometime some things no clear (e.g person wey initiate the use of violence), and since em dey hard to explain object and accurate rule for every situation wey person see, the final thing wey dem dey talk be say nothing fit *ever* dem sabi for sure, and say no objective rule dey exist for *any* situation.
 
-This is false.
+Dis na lie.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Every person wey dey reason well recognize say biology na confirm science, despite say dem born some animals with “one-off” changes. The fact say dem fit born dog with five legs no mean say “canine” con become entirely person opinion thing. The fact say some confirm species of insects dey challenging to differentiate no mean say no get any difference between bettle and whale.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+For some perverse reason, people wey sabi something well well dey derive joy to dey destroy wetin dey good, legit and reasonable standard. Dis fit be say because corrupt people like politicians, priests and kings fit don pay all dis people wey sabi book well well – or fit be say person dey sabi things well well make him dey justify em own bad behavior. No matter the reason, the present thinker don become species of “people wey dey against thinking”, wey no bam. E dey equivalent to say em get too many “biologists” wey spend most of dia live dey argue say the science of biology dey impossible. If the science of biology dey impossible, em dey hard to become biologist, pass say person wey no believe in God dey fight tooth and nail.
 
 ### Shades Of Grey
 
-In the realm of “grey areas,” there are really only three possibilities.
+For the world of “grey areas”, e get only three things wey possible.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Nothing wey dey bear grey areas.
+2. Some kind grey areas no dey exist
+3. All wetin person sabi na grey area
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+E clear say, dem fit remove option one. Option three dey fairly easy to remove. The statement say “all knowledge na grey area” na wetin person reason by emself con suggest am, as we see am above, in the same way say “all statements dem be lies” be like person use em mouth kill emself.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Den we fit go with option two, wey be say confirm grey areas no dey exist, and we know say dem be grey wey relate to areas wey no grey. Oxygen dey exist for space, and also for underwater, but no be for form or quantity wey human beings fit chop. The *degree* of oxygenation na grey area, i.e less versus more”; the question of say weda human beings fit breath or no fit breathe water na surely black and white.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Scientist wey people wey dey chop person catch fit act like em be witch-doctor make em for escape – this no mean say we go throway the scientific method as wetin no hold water at all.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+As wetin dey the same, e get situations wey too much wey we fit choose to commit bad thing, but dat kind thing no remove the science of knowing wetin good and wetin no good, anything wey pass occasional change dey render the science of biology useless. In fact, dem don too much advance the science of biology through the acceptance and to dey check change – e also resemble say the science of wetin good and bad dey only strong through checking of “lifeboat scenarios”, as long as say dat kind check dem no dey pursue am with passion.
 
-### Universality And Exceptions
+### Worldwide And Wetin no dey acceptable
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Before we start to dey use our framework of the kind behavior wey dem dey accept for all ova the world to examine common good or bad beliefs wey dem dey hold, we need deal with question of “exceptions”.
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+To dey use above “lifeboat scenarios”, the conclusion dey always be say “the good” dey easy *dat wey dey “good” for one man life*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+For argument of wetin good and bad, if dem ask me weda I go thief apple dan say hunger kill me – and I say “yes” – dem no fit stop to dey argue these things wey follow so:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. Make everybody dey thief appeal dan say dem die bcus dem no see food chop.
+2. Den everybody for the world like to dey thief apple to die by say dem no dey chop.
+3. Den dem like am all ova d world to dey thief apple dan to die by say dem no dey chop food.
+4. Den people like to survive pass person claim to him property.
+5. Den wetin good for one person na em be the best for wetin gud and bad standard.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Dem don use am as the basis for a numba of theories of wetin good or bad and approach, from Nietzsche to Rand. How dem take dey like one person for survival dey translated into wetin good and bad theories wey put the survival of the person as the main thing.[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Dis kind of “biological hedonism” fit be how dem take dey describe the “drive to survive”, but em only correct as far as say em dey describe wetin people actually *do*, no be wetin dem *should* do.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+The thing dey bring entirely wetin no dey practical d way person understanding to d question of wetin gud and wetin bad. For example, if e dey gud to dey thief food if you dey hunger, how much food you go thief? How you fit bear d hunger? You fit thief food wey no dey nutritious? How the food fit make person feel alright before you go thief am? How far afta you don thief one food before you fit go thief anoda one? Den dey allow you thief meat or you find work or ask person make e help you?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Also, if I fit make money as I be hit man dan I be shopkeeper, make I no pursue wahala as wetin I take dey chop? Em dey help *my* survival… and so on and so on.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+As we fit see, the introduction of “wetin gud for man wey eye no dey see – or wetin many people dey do – na wetin dey acceptable everywhere” dey spoil the talk of knowing gud and bad as wetin dey reasonable and always be like dat, and as wetin get anoda one for common biological drives as makeup for the way people take dey behave. The tin na dey explain how peole take dey behave, no be wetin dem still dey consida concerning good and bad theory.
 
-### The Purpose And The Dangers
+### The reason and the kasala
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+For your patient undastanding, one last question we suppose talk before we explain and confirm how the different good and bad propositions fit in for the UPB makeup. Since, d work wey hard pass dey ahead, make we relax and remind ourselves why we dey put ourselves through all diz kurukuru and suffa.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+For anoda way, before we continue, e dey important to ask d question: “why bother?”
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Why dey wori to explain wetin dey guide good and bad? To talk d truth, people no need am, and bad people no dey consult dem. People go do wetin dem like, and carry somtin back am up – why com dey disturb yourself dey teach people about how to take know wetin good and bad.
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Of course, the danger always dey wey be say bad person go attack you for em own selfish purpose. E fit also be say, despite clean and person dey live well, cancer fit kill person before em time – the former no make the science of knowing how to do the good thing no hold water, any more pass the other one con make the science of medicine, nutrition and exercise no hold water. One thing wey reasonable science of doing good thing dey show be say e dey reduce your chance of *suffering* bad things wey be like thief, killing person and rape – and na by this criteria we go use judge the better rules wey dey for Part Three of dis book.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Of course, if I be person wey no sabi do anything or I be confuse human being I for don die for hunger, prison na for help me pass.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+Nietzsche’s “will to power” and Rand’s “wetin serve for man life e gud”.[^11]:

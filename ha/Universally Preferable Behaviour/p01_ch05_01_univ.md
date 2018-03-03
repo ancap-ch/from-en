@@ -1,73 +1,73 @@
-## Universally Preferable Behaviour
+## Halayyar da duk duniya aka fi so
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+A sakamakon gardaman mu na sama, zama iya ganin cewa ba zai yu a shiga ko wani muhawara ba tare da yarda da jigon wadan su halayya ba da, *duk duniya aka fi so*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Nayi amfani da kamar “halayya” anan a me makon “ tunani” saboda ba zai yu a bambam ta tsaftaccen ciki da jihar da ba’a tabbatar ba kamar “tunani” daga hakika da jihar da aka tabbatar kamar “kirkira”, “rubutu” da “magana”.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Abun da ba zai yu bane na tabbatar da mafarkin giwa jiya da daddare. Zai yu na tabbatar da rubuta kalmar “giwa”, wanda shine dalilin da na rubuta “halayya” a me makon “tunani”.
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Nuna amince wa da babban dabara a cikin gardama shine *aiki*. Idan, ko wane lokaci na samu maki a akan ka, ban ce komai ba, kawai ddai na kyafta ma ido, zaka ji kyashin yin muhawara dani. Samun maki, dole sai nayi aikin magana da aka amince wa.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+Duk da ganin cewa, mahimmancin ko wani aiki na gardama numba ne rubuce a jigon da baza’a juyawa ba a danne.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Idan nace ka same ni a filin tenis, sannan nazo da bindigar farauta, zamu kare buga wasan rabo, amma ba zai zamo tenis ba. Sanda nace ka same ni a filin tenis don wasa, ba makawa wannan gayyatar na kunshe da dokokin tenis ne.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+A tarihi, wa’inda ke shiga muhawarar da’a na kasa riko da wannan gaskiyar.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Ba zan iya bada takardan kimiya a yare na ba, ina ikirari cewa kifi na na gol mai kwakwalwar kwarai ya fada min, kuma ina son a dauke ni da mahimmanci. Haka nan, bana iya soma muhawarar kwakwalwan kwarai akan da’a ina kafa hujja da nawa ra’ayin, ina ikirari cewa gaskiyar gardama na daga Trixie samani ne da leprechaun da ba’a gani, sanan nayi tsammanin a dauke ni da muhimmanci.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Aikin muhawara na bukatar yarda da halayya da duniya ta yarda dashi (UPB). Babu wata hanya da kowa ke bi wurin maida martani a gardamar da’a.
 
-Let us now turn to a series of positive proofs for UPB.
+Bari mu juya jerin hujjoji masu ma’ana na UPB.
 
-### UPB And Validity
+### UPB da Gaskiya
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Daya daga cikin matsalar da ake fuskan ta a wurin masu kwakwalwar kwarai shine bukatar tabbatar da dokokin kirki masu yiwuwa da yarda duk duniya. Har sai dokokin halin kirki ya zama rigor da dabara kamar kowa ne shawara, zamu zauna har a bada a madatsar tafiyar hawainiya a mallake, hassadar siyassa da hadin “gardama daga sakamako”.
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Mafi kusanci daga masalin tarihi a matsayin mu ya faru ne a karni na sha-biyar da sha-shida, a lokacin da ilimin kimiya ya fara yaduwa. Magagatan farko dake yada abunda ya kamata da zurfin tunani wurin sarraffa ilimi sun fuskanci irin wannan hasssadar da muke fuskanta—duk irin wannan adawar, samun daurin gindin cocina da jahohi, sufi da masu mulki “daidai” da ilimin farkon shamakai. Wa’inda ke yada gaskiya na farko da zurfin tunani akan muhiman hakkokin injilla da azzalumman shugabanni sun fuskanci adawa daga masu bauta da wukake... Da yawan su an basu horo mai tsananin saboda gaskkiyar ililmin su—muna fuskantar karancin haka, don haka ya kamata muyi juriya wurin yada abun da yake *gaskiya* akan abun  da aka yarda dashi.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Idan muna son yakar hallin karya, sai mun fara daga farko, kamar yadda yan-kimiyar farko suka yi. Francis Bacon bai musa cewa hanyoyin kimiya sunfi ibada ba, rubutun injila ko gani dake sa yinwa. Kawai cewa yayi idan muna son fahimtar zama, sai mun kula da zaman da ka’idojin dabaru—sannan *babu wata* hanyar ilimi.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Sai mun bi irin wannan ayyanar wan da yaren *halin kirki*. Sai mu fara daga mulki da ingancin hanyoyin kimiya wurin gamsar da gaskiya da duk duniya ta yarda na dokokin halin kirki. Sai dole mun fara daga farko, gina dabaru da kin ko wani adawa ko hanyar da zurfin tunani bai sauya da gaskiya ba.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Me littaffin nan yake so a aika ce? Abun da za muyi shine mu kirkiri wadan nan axioms din:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Halin kirki abun gaskiya ne.
+- Dokokin halin kirki sai sun zama dabi’un dukkan mutane.
+- Gaskiyar ka’idojin halin kirki ya zama hujja saboda tabbatar shi.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Idan zamu fara daga asalin farko… akwai halin kirki –ko fifikon da duniya ke so a wurin halayyar mutane – gaskiya gaba daya?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Abu biyu ne kawai ke yi wuwa idan ana maganan dokokin halin kirki, kamar yadda akwai ko wani dabara kimiya. Ko ace dokoki halin kirkin da duniya ke so ko kuma basu.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Doka na zama gaskiya idan *ya zama tunani*, kamar nauyi, ko saboda *gaskiya ne*, kamar lissafin biyu a hada da biyu ya zama hudu.
 
-We must then first ask: do moral rules exist at all?
+Dole sai mun tambaya: shin akwai dokokin halin kirki gaba daya?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Lalle ne, hakika ba gaskiyan abu, wanda bashi da ko biyayya a dokokin hallin kirki guda daya. Dokokin halin kirki sun bambam ta daga dokokin lissafin kimiya, kamar yadda hanyoyin kimiya suka bambam ta da nauyi. Al’amari yana biyayya ga nauyi ko doka na biyu na ban sha’awa, “kar kayi kisa” ba inda aka rubuta haka a abubuwan halitta. Dokokin lissafin kimiya yayi *bayanin* halayya al’amari, amma ba wuri ko kadan inda aka *rubuta* kimiya tace al’amari na hali iri kaza—karya yayi halayya kaza. Ka’idojin nauyi na nuna idan mutum ya turo mutum daga kololuwar sama, zai fado. Baza ta gaya ma ka tura shi ba ko karka tura shi.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Duk da ba zai yu ace dokokin halin kirki na zama a gaskiyar abubuwa, ko kuma su ma suna biyayya kamar dokokin kimiyar lissafi ne—wanda baya nufin dokokin halin kirki karya ne, mallaka ko ba ma’ana. Hanyoyin kimiya da kansu basa yi wuwa a gaskiyar zahiri—sannan kuma zabi ne—amma ba karya ba, mallaka ko mara ma’ana.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Idan zamu iya nuna cewa dokokin halin kirki zabi ne, kirikiri kuma masu inganci, wannan zai samar da rahusa daya da da’a dake mulkan, abu a *bayyane* kamar ka’idojin hanyoyin kimiya.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+Kafin zuwan dokokin hanyoyin kimiya, matane sun yarda al’amari na biyayya da basira mulki na Allaloli da Ajanu- kamar yadda mutane suka yarda da halin kirki yanzu. Dutse na aman wuta ne idan aka bata ma ubangijin dutse rai; noman kirki sakamakon yankan mutane da dabbobi ne. Ba wanda ya yarda cewa abubuwan zahiri na iya dakatar da abun da ubangiji yaso—haka kimiya baza ta cigaba ba. Wadanda suka amfana da ayyana abun zahiri a tarihi a matsayin mallakan zahiri—yawan cin malamai da masu mulki-- sun yaki magana akan abubuwan zahiri akan hanyoyin kimiya, kamar yadda wadanda ke ayyana halin kirki ke fuskantar a matsayin mallaka—ya wancin yan siyasa da malamai – na yakan su kama yadda ka’idojin halin kirki da manufofin da duniya ta yarda dashi.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Kamar yadda muka fada, ilimin kimiya hanya ne na bambam ta daidaituwan ka’idojin da rashin daidaituwan su a mallake ta wuri biyu da aka gwada: dabaru masu aminci da tunani mai zurfi—sannan nuna dabaru masu aminci da tunani mai zurfi. Idan nayi bayani akan wani ka’ida da ke da inganci ina cewa dutse na tafiya a ruwa a *sama* idan ana jefo shi daga sama, in wani tunani mai zurfi ya karya ta ni ba magana, tunda lura ya shude bayani.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Abu na gaba a fagen hanyoyin kimiya shine yarda, tunda al’amari hadi ne na kwayar zara, daidaitu wa da dukiyar da sani, halayyar al’amari dole ya zama sannan ne, daidaitarce, sannan fadadde. Sannan gwaji ya za *hayayyafa* a lokaci na daban da wuri na daban. Ba zan iya cewa dutse naa *tafiiya a ruwa* ka’ida ggaskiya akan dutse daya, ko a lokacin farko da na gwada, ko a wani wuri. Ko ina sai sun bayyana halayya al’amari, waanda aka yarda aduniyan ce, sane, tabbatacce sannan fadadde.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+A karshe, akwai doka daya dake shafan komai, wani lokaci ana kiran ta Occam’s razor –wanda ke cewa, a duk ka’idoji guda biyu wanda keda karfin gaibu daya, mai saukin za’a fifita. Kafin Copernican juyin juya hali, a lokacin da ake ganin duniya a matsayin tsakiyar duniyan sama, motsin retrograde na duniya Mas idan ta wuce duniyan mu a kewayen shi a wurin rana na haifar da gagarumar matsala ga tsarin Ptolemaic na lissafin tsarin falaki. “Da’irar cikin da’irra” na nunkawa sosai, wanda za’a iya sharewa inda za’a matsa da ranan zuwa tsakiyar tsarin ranan da kuma yarda halittar shigewar kewayen duniyoyin.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Duk da duk gaskiyar ka’idar kimiya dole sai (a) duniya (b) dabaru (c) zurfin tunani (d) hayayyafa da (e) saukin gaske.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Tsarin hukunci da nuna ka’idar halin kirki daya yake da hanyoyin hukunci da nuna kowa ne irin ka’ida.
 
-#### Moral Rules: A Definition
+#### Dokokin Halin Kirki: Ayyana
 
-The first question regarding moral rules is: *what* are they?
+Tambayar farko akan halin kirki shine *mene ne* su?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+A saukake, *halin kirki* shine sa dokoki dake daidai da inganci gane abun da duniya tafi yarda dashi na halin mutane, kamar yadda *lissafin kimiya* ke sa dokokin dake daidai da ingancin bayana dokokin halayya al’amari.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Tambayar ta biyu ita ce: shin akwai wani abu kamar "kyakkyawar dabi'ar duniya"? Idan akwai, za mu iya fara gano abin da irin wannan hali zai kasance. Idan ba haka ba, to lallai dole ne mu tsayar da jarabawar mu a nan - kamar yadda jarrabawar astronomy na Ptolemaic ta dakatar da shi bayan da aka yarda da cewa rana shine tsakiyar cibiyar hasken rana.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: a lissafin kimiya, tambaya shine: shin dokokin duniya na zahiri gaskiya ne, ko a’a

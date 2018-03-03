@@ -1,59 +1,59 @@
-### "Don't Eat Fish"
+### "Không được ăn cá"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Trạng thái của mệnh đề đạo đức: “Ăn cá là tội ác” là gì?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Rõ ràng, mệnh đề này dường như thỏa mãn ít nhất một số yêu cầu của UPB - nó xuất hiện phổ quát, độc lập với thời gian và địa điểm, và tương đối khách quan.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Tuy nhiên, có vẻ như khó cho chúng ta để gọi nó một cách hợp lý là lý thuyết *đạo đức* thực sự - tại sao?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Trước hết, “tội ác” bao gồm các hành động có thể ngăn ngừa thông qua việc sử dụng vũ lực. Hiếp dâm là “tội ác”, và vì vậy tôi có thể sử dụng vũ lực để bảo vệ bản thân chống lại kẻ đang cố hãm hiếp mình.
 
-Can I justly shoot someone who eats a piece of fish?
+Tôi có thể bắn ai đó vì họ ăn một mẩu cá hay không?
 
-It would seem silly to argue that I can – but why?
+Thật ngớ ngẩn nếu tranh luận rằng tôi có thể - nhưng tại sao?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+Có một số giới hạn khách quan về tính phổ quát của học thuyết này. Ví dụ, một số người có thể không có cơ hội tiếp cận với cá - có thể họ sống trong sa mạc, - trong khi những người khác sống gần một hồ nước đầy cá, và thấy khó hoặc không thể sống mà không ăn cá. Tuy nhiên, điều này là không đủ, vì chúng ta đã thống nhất rằng sự bất lực của người bị hoạn không làm mất hiệu lực của mệnh đề  đạo đức “hiếp dâm là tội ác”.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Không, “sự đánh trống lảng” trong mệnh đề đạo đức “Ăn cá là tội ác” là từ “*cá*”.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Một nhà khoa học không thể nói chắc chắn rằng luật hấp dẫn của ông chỉ áp dụng cho đá màu hồng. Vì lý thuyết của ông liên quan đến trọng lực, nó phải áp dụng cho *tất cả* các thực thể có khối lượng.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Tương tự, trong ví dụ trên, UPB chấp nhận duy nhất *hành động* ăn, và từ chối *những gì* đang bị ăn, vì những gì đang bị ăn không phải là *hành động*, mà là hành động ăn.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Cũng như vậy, một nhà đạo đức không thể đề xuất một cách hợp lệ một mệnh đề đạo đức: “hiếp dâm *người già* là tội ác . “Hiếp dâm” là hành vi; dù nạn nhân có già hay không không liên quan đến mệnh đề đạo đức, vì miễn nạn nhân là con người thì yêu cầu về tính phổ quát vẫn không đổi. “Không được ăn cắp” là một mệnh đề đạo đức hợp lệ theo UPB – còn “không được ăn cắp *củ cải*” thì không phải, vì lý do đơn giản là hành vi trộm cắp liên quan đến khái niệm về tài sản - và củ cải, một tập hợp con của tài sản, không thể được mô tả hợp lý khỏi tất cả các loại tài sản khác và được chỉ định thành một nguyên tắc đạo đức riêng của chúng.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Mệnh đề đạo đức “ăn cá là tội ác” do đó không mang tính phổ quát vì nó quá cụ thể để khái quát hóa - nó giống như nói rằng “lý thuyết hấp dẫn của tôi áp dụng chỉ với đá màu hồng”. Nếu nó là luật hấp dẫn, thì nó phải áp dụng cho mọi thứ; nếu nó chỉ áp dụng cho đá màu hồng, thì đó không phải là luật hấp dẫn.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+UPB cũng bác bỏ tất cả các lý thuyết và coi nó  là bất hợp pháp nếu nó dẫn đến các phán quyết đạo đức trái ngược cho cùng một hành động. “tấn công vũ lực” không thể là đạo đức một ngày, và trái đạo đức ngày hôm sau. Vì vậy chúng ta biết rằng “ăn” không thể là đạo đức một ngày, và trái đạo đức ngày hôm sau.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+“Ăn” hoặc là đạo đức, hoặc là vô đạo đức, hoặc trung tính về mặt đạo đức. Nếu ăn là trái đạo đức, thì sẽ có hàng loạt vấn đề logic xuất hiện, mà tôi chắc chúng ta bây giờ đã khá quen thuộc rồi
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Nếu, mặt khác, ăn là *đạo đức*, thì việc ăn bắp cải trái đạo đức, và ăn cá là trái đạo đức, vì đó là hành vi vi phạm tính phổ quát, trong chừng mực những hành động giống nhau - được đánh giá vừa tốt cả vừa xấu.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Theo cách này chúng ta hiểu rằng mệnh đề “Ăn *cá* là tội ác” không mang tính phổ quát theo UPB và không hợp lệ như một học thuyết đạo đức.
 
-### Animal Rights
+### Quyền động vật
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Chúng ta không có thời gian để thảo luận đầy đủ về vấn đề quyền động vật, nhưng ít nhất chúng ta cũng có thể giải quyết mệnh đề đạo đức: “giết cá là tội ác”.
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Nếu giết cá là tội ác, thì UPB cho rằng bất cứ ai hoặc bất cứ thứ gì giết chết cá là tội ác. Điều này bao gồm không chỉ những ngư dân, mà cả cá mập nữa - vì nếu giết cá là xấu, thì chúng ta đã mở rộng định nghĩa của chúng ta về “diễn viên” đạo đức để bao gồm cả những sinh vật khác ngoài con người.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Rõ ràng là cá mập không có khả năng kiềm chế việc ăn cá, vì chúng cơ bản là cỗ máy ăn thịt có vây.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Do đó, chúng ta sẽ phải đối mặt với vấn đề lý luận về “điều ác không thể tránh khỏi”. Nếu giết cá là tội ác, nhưng cá mập không thể ngừng việc ăn cá, thì cá mập là “ác độc hiển nhiên”. Tuy nhiên, như chúng ta đã thảo luận ở trên, khi không còn sự lựa chọn nào khác - khi *sự cưỡng lại* là không thể - không thể tồn tại đạo đức. Do đó, mệnh đề “giết cá là tội ác” là cố định nghĩa đạo đức phổ quát bao gồm các tình huống phi đạo đức, không thể tồn tại một cách hợp lý.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Ngoài ra, từ “cá” vẫn có vấn đề trong công thức này, vì nó quá cụ thể để phổ quát. Công thức UPB thích hợp phải là: “ giết các sinh vật sống là tội ác”.
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Tuy nhiên, nếu giết chóc là tội ác, chúng ta lại phải đối mặt với vấn đề “điều ác không tránh khỏi”. Không một con người nào có thể tồn tại mà không giết các sinh vật khác như vi rút, thực vật, hoặc có thể động vật. Vì thế “cuộc sống con người” được định nghĩa là “tội ác”. Nhưng nếu cuộc sống con người được định nghĩa là tội ác, thì nó không thể *là* ác, vì dừng lại trở thành không thể.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Điều gì sẽ xảy ra nếu chúng ta nói: “giết người là tội ác” - liệu đó có làm cho một con cá mập ăn thịt người trở thành kẻ ác hay không?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Không - một lần nữa, vì cá mập không có khả năng để tránh giết người, chúng không thể chịu trách nhiệm về các hành động như vậy, cũng như không thể đưa một trận lở đất ra tòa án nếu nó giết chết một người.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB cho phép những ngoại lệ dựa trên vật chất phổ quát hay khách quan hoặc khác biệt sinh học, cũng như các khoa học khác. Lý thuyết khoa học cho rằng chất khí nở ra khi bị đốt nóng, tất nhiên, chỉ đối với chất khí. Tôi không thể làm mất hiệu lực lý thuyết bằng cách chứng minh rằng nó không áp dụng cho, ví dụ như, nhựa.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Tương tự như vậy, đạo đức chỉ áp dụng cho ý sự hiểu biết lý trí, do yêu cầu phải tránh. Nếu tôi cố áp dụng lý thuyết đạo đức lên ốc sên, cây, đá, hoặc khái niệm “số”, tôi đang cố đánh đồng sự hiểu biết lý trí với các thực thể không có lý trí hay ý thức, điều này là một sự mâu thuẫn lý luận. Tôi cũng có thể nói rằng Định lý Góc đối diện trong hình học không hợp lệ bởi vì nó không áp dụng cho một hình tròn hoặc một đám mây. Định lý Góc đối diện OAT chỉ áp dụng cho các đường giao nhau - cố áp dụng nó vào các trường hợp khác là tương đương với việc cố sơn lên không khí.
 
-In other words, misapplication is not disproof.
+Nói cách khác, việc áp dụng không đúng cách không thể dùng để bác bỏ hay phản chứng.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Có rất nhiều “khu vực xám” khác mà chúng tôi có thể tìm hiểu, từ phá thai đến quyền sở hữu trí tuệ hay bồi thường, nhưng tôi nghĩ rằng điều quan trọng hơn hết là phải đưa UPB ra khỏi lĩnh vực trừu tượng và bắt đầu áp dụng nó vào những vấn đề thực mà chúng ta phải đối mặt ngày nay.

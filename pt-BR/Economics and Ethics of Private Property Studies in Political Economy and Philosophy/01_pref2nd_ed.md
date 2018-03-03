@@ -1,6 +1,6 @@
 ## Prefácio para a Segunda Edição
 
-A primeira edição de * A Economia e Ética de Propriedade Privada *, publicado em 1993, esteve fora de circulação por muitos anos. Durante algum tempo e de vários ângulos tenho vindo a ser encorajado a preparar uma nova edição, e Llewellyn Rockwell graciosamente ofereceu-me o Instituto Ludwig von Mises para a publicar.
+A primeira edição de *A Economia e Ética de Propriedade Privada*, publicado em 1993, esteve fora de circulação por muitos anos. Durante algum tempo e de vários ângulos tenho vindo a ser encorajado a preparar uma nova edição, e Llewellyn Rockwell graciosamente ofereceu-me o Instituto Ludwig von Mises para a publicar.
 
 *A Economia e Ética de Propriedade Privada* foi dedicada ao meu professor e mentor, Murray N. Rothbard, com quem eu me tinha associado proximamente durante os seus últimos dez anos de vida, primeiro como estudante visitante ao Instituto Politécnico de Brooklyn na cidade de Nova Iorque e depois de 1986 como colega na Universidade de Nevada, em Las Vegas. O ano 2005 marca o décimo aniversário da morte de Rothbard. Portanto, pareceu-me uma altura apropriada a honrar Murray de novo com esta segunda edição.
 

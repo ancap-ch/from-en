@@ -3,10 +3,10 @@
 
 ---
 
-Title: Economics and Ethics of Private Property  
+# Economics and Ethics of Private Property    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1Rl4pqE6o9x6F8T61GppthSlEqXnZkXMY) / [PDF](https://drive.google.com/open?id=1pPQH03K3zkStj53yJAvOvDoEt8WXVhl7)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -45,10 +45,36 @@ Last generated:
 | 03_p01_ch07_05.md | :x: | :x: | 3k 620 | | | |
 | 03_p01_ch07_06.md | :x: | :x: | 3k 600 | | | |
 | 03_p01_ch08.md | :x: | :x: | 2k 430 | | | |
-| < more files to be added > | | | 0  000 | | | |
 | 03_p02.md | :x: | :x: |    001 | | | |
+| 03_p02_ch09.md | :x: | :x: | 010 | | | |
+| 03_p02_ch09_01.md | :x: | :x: | 400 | | | |
+| 03_p02_ch09_02.md | :x: | :x: | 4k 490 | | | |
+| 03_p02_ch09_03_01.md | :x: | :x: | 2k 720 | | | |
+| 03_p02_ch09_03_02.md | :x: | :x: | 3k 050 | | | |
+| 03_p02_ch09_04.md | :x: | :x: | 200 | | | |
+| 03_p02_ch10.md | :x: | :x: | 3k 220 | | | |
+| 03_p02_ch11.md | :x: | :x: | 10 | | | |
+| 03_p02_ch11_1.md | :x: | :x: | 2k 430 | | | |
+| 03_p02_ch11_2.md | :x: | :x: | 4k 290 | | | |
+| 03_p02_ch11_3.md | :x: | :x: | 3k 200 | | | |
+| 03_p02_ch12.md | :x: | :x: | 2k 890 | | | |
 | 03_p02_ch13.md | :x: | :x: | 2k 560 | | | |
-| < more files to be added > | | | 0  000 | | | |
+| 03_p02_ch14.md | :x: | :x: | 10 | | | |
+| 03_p02_ch14_1.md | :x: | :x: | 2k 760 | | | |
+| 03_p02_ch14_2.md | :x: | :x: | 4k 290 | | | |
+| 03_p02_ch14_3.md | :x: | :x: | 4k 780 | | | |
+| 03_p02_ch15.md | :x: | :x: | 1 | | | |
+| 03_p02_ch15_01.md | :x: | :x: | 310 | | | |
+| 03_p02_ch15_02.md | :x: | :x: | 2k 360 | | | |
+| 03_p02_ch15_03.md | :x: | :x: | 720 | | | |
+| 03_p02_ch15_04.md | :x: | :x: | 890 | | | |
+| 03_p02_ch15_05.md | :x: | :x: | 2k 020 | | | |
+| 04_apx.md | :x: | :x: | 1 | | | |
+| 04_apx_01.md | :x: | :x: | 1k 580 | | | |
+| 04_apx_02.md | :x: | :x: | 1k 870 | | | |
+| 04_apx_03.md | :x: | :x: | 1k 950 | | | |
+| 04_apx_04.md | :x: | :x: | 1k 810 | | | |
+
 
 </details>
 
@@ -56,10 +82,10 @@ Last generated:
 
 ---
 
-Title: Higher Costs Dont Mean Higher Prices  
+# Higher Costs Dont Mean Higher Prices    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1tiPXGeLA8b-DhcieWFJHAYtBdniMAOPw) / [PDF](https://drive.google.com/open?id=1N3GibdC5t4KdSmAx_zPn_Mhm6rcWgam_)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -72,10 +98,10 @@ Last generated:
 
 ---
 
-Title: Libertarianism and the Alt-Right  
+# Libertarianism and the Alt-Right    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1QGO1V-I1DLy3pxTUhBZjb0QNnfiy1H96) / [PDF](https://drive.google.com/open?id=1TI7B9aJDanBLDz118fH94-xqTUVqC_om)    
 
 <details>
   <summary>Progress and contributors</summary>
@@ -89,10 +115,10 @@ Last generated:
 
 ---
 
-Title: The Myth of National Defense  
+# The Myth of National Defense    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=1qcRGIbzbaHLyUy24Iy3mlZBLWmZ9cFiV) / [PDF](https://drive.google.com/open?id=1mKnB55Ul3gnAwyTDDBJiuwGNLF-rs9MP)  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -107,10 +133,10 @@ Last generated:
 
 ---
 
-Title: Universally Preferable Behaviour  
+# Universally Preferable Behaviour    
 Proofreaders:   
 Platform: **Github**  
-Last generated:  
+Last generated: [ALL](https://drive.google.com/open?id=18zi-_M8Dz6nev7ditKY1PM3iU11CPyfB) / [PDF](https://drive.google.com/open?id=1YTFT2-a0QDnXA7_WwoCjeVcnlg-MkgMd)  
 
 <details>
   <summary>Progress and contributors</summary>
@@ -151,5 +177,83 @@ Last generated:
 | p05_appendices.md | :x: | :x: |    880 | | | | | |
 
 </details>
+
+
+---
+
+# Human Action    
+Proofreaders:   
+Platform: **Github**  
+Last generated:  
+
+<details>
+  <summary>Progress and contributors</summary>
+
+| file name | translated | reviewed | words | translators | arbitrary | arbitrary |
+| - | - | - | - | - | - | - |
+| 00_00_01 | :x: | :x: | 230 | | | |
+| 00_00_02 | :x: | :x: | 790 | | | |
+| 00_00_03 | :x: | :x: | 490 | | | |
+| 00_01 | :x: | :x: | 1 | | | |
+| 00_01_01 | :x: | :x: | 1k 230 | | | |
+| 00_01_02 | :x: | :x: | 1k 480 | | | |
+| 00_01_03 | :x: | :x: | 1k 320 | | | |
+| 00_01_04 | :x: | :x: | 80 | | | |
+| 01 | :x: | :x: | 1 | | | |
+| 01_01 | :x: | :x: | 1 | | | |
+| 01_01_01 | :x: | :x: | 1k 100 | | | |
+| 01_01_02 | :x: | :x: | 1k 570 | | | |
+| 01_01_03 | :x: | :x: | 720 | | | |
+| 01_01_04 | :x: | :x: | 1k 460 | | | |
+| 01_01_05 | :x: | :x: | 580 | | | |
+| 01_01_06 | :x: | :x: | 2k 680 | | | |
+| 01_02 | :x: | :x: | 1 | | | |
+| 01_02_01 | :x: | :x: | 940 | | | |
+| 01_02_02 | :x: | :x: | 2k 340 | | | |
+| 01_02_03 | :x: | :x: | 1k 320 | | | |
+| 01_02_04 | :x: | :x: | 1k 390 | | | |
+| 01_02_05 | :x: | :x: | 570 | | | |
+| 01_02_06 | :x: | :x: | 650 | | | |
+| 01_02_07 | :x: | :x: | 1k 170 | | | |
+| 01_02_08 | :x: | :x: | 3k 110 | | | |
+| 01_02_09 | :x: | :x: | 2k 310 | | | |
+| 01_02_10 | :x: | :x: | 2k 130 | | | |
+| 01_02_11 | :x: | :x: | 850 | | | |
+| 01_03 | :x: | :x: | 1 | | | |
+| 01_03_01 | :x: | :x: | 1k 270 | | | |
+| 01_03_02 | :x: | :x: | 810 | | | |
+| 01_03_03 | :x: | :x: | 3k 050 | | | |
+| 01_03_04 | :x: | :x: | 1k 210 | | | |
+| 01_03_05 | :x: | :x: | 950 | | | |
+| 01_03_06 | :x: | :x: | 950 | | | |
+| 01_04 | :x: | :x: | 1 | | | |
+| 01_04_01 | :x: | :x: | 1k 180 | | | |
+| 01_04_02 | :x: | :x: | 710 | | | |
+| 01_04_03 | :x: | :x: | 270 | | | |
+| 01_04_04 | :x: | :x: | 470 | | | |
+| 01_05 | :x: | :x: | 1 | | | |
+| 01_05_01 | :x: | :x: | 420 | | | |
+| 01_05_02 | :x: | :x: | 645 | | | |
+| 01_05_03 | :x: | :x: | 170 | | | |
+| 01_05_04 | :x: | :x: | 1k 080 | | | |
+| 01_06 | :x: | :x: | 1 | | | |
+| 01_06_01 | :x: | :x: | 580 | | | |
+| 01_06_02 | :x: | :x: | 450 | | | |
+| 01_06_03 | :x: | :x: | 1k 100 | | | |
+| 01_06_04 | :x: | :x: | 1k 620 | | | |
+| 01_06_05 | :x: | :x: | 880 | | | |
+| 01_06_06 | :x: | :x: | 940 | | | |
+| 01_06_07 | :x: | :x: | 210 | | | |
+| 01_07 | :x: | :x: | 1 | | | |
+| 01_07_01 | :x: | :x: | 4k 000 | | | |
+| 01_07_02 | :x: | :x: | 1k 610 | | | |
+| 01_07_03 | :x: | :x: | 4k 460 | | | |
+| 01_07_04 | :x: | :x: | 820 | | | |
+<more to be added..>
+
+</details>
+
+
+
 
 

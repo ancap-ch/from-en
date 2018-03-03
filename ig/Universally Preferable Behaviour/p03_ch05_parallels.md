@@ -1,75 +1,75 @@
-## Parallels
+## Yiri
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Tupu mgbawe nka mmuta sayens, oga di ka agha si na ogaghi adi ma obu na ihe omume na maara abanyin n'ime ya. Anwu na ebilia na e so uzo dika chariot ikariri mmadu; onwa bu nwanne anwu owu na-ama ma oyi natu. Igwe kpakpandu n'edeputa akuko na ile chi, ma oke ifufe n'aputan n'iwe mmuojo.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Itche na okike na eke onweya ma na kwadokwa onweya gha di ka ana eche n'echiche. Mgbawe Darwinian, si na eke ghi ndu eke, mana o gbari usoro ya, wetara echiche a n'ime uwa anyi.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Tupu sayens, n'etiti usoro ngbaweju anya obula ewere ihe obi ucha n'tuzi aka n'edokwa usoro ahu ga bu na ewetuo ya, usoro ahu ga enwe ogbahara.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Dika odaba ghi, 'ihe obi ucha a' bu nro eji obioma nabata. Onweghi chi di, ihe *di* bu okwu onu onye ntu aja. Otu, ihe di n'ezie bu okwu na dichaghi ezi ndi ufodu, n'amaghi n'ezie na ara di ha.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Anyi e tiyebela echiche a n'ime otu anyi-kama oga di oke mkpa.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Anya ga si na odi oke mkpa itinye, n'atiti otu anyi, oke nkawado a bu ''ndi ochichi''. Mgbe eweghi ihe a, agasi n'ezieokwu ya na ogbahara ga di ma otu obodo anyi ga agbasa- dika ndi nna anyi chere na ewe ghi obula, ogbahara ga di n'eluigwe na ala ma gbasa sia.
 
-However, “the government” no more exists than “god” exists.
+Otu ahu, ''ndi ochichi'' adighi n'ezie kara otu ''chi'' di.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Ka anyi n'ekwu ''chi'', ihe anyi n'ekwu n'ezie bu ntuzi okwu onye nzuko”.
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Ka anyi n'ekwu ''ndi ochichi'', ihe anyi n'ekwu *n'ezie* bu ''ime ihe ike obere n'ime anyi'”.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Echiche e gosiri na ''iji oso oso'' n'ogbe fisics na usoro ndu, ekwekwa nwota nye anyi n'usoro otu uwa anyi.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Otu kwa ka, ''ndi ochichi'' a di mkpa n'ime nhazi na ngide usoro obodo kari otu ''chi'' di mkpa na nhazi na njiko eluigwe na ala.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+N'ezieokwu, otu okwukwe n'egbochi oganiru sayens kwa ka ndorondoro ochichi n'egbochi oganiru usoro obodo. Di ka aro okwukwe doro onwu igwe mmadu n'akuko ihe naambu, otu ahu kwa ka aro ndorondoro ochichi.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Dika asi n'ihe bayere okwukwe hapu otutu ihe ome, aruraala na ihe ike, otu kwa ka ndorondoro ochichi na eme. Dika anyi n'ekwete na aru, anyi na kwa n'ekwete na ihe mbibi, na udi nka ma obu nke ozo.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Ka anyi na ekwete iso uzo akuko ifo okwukwe n'ime otu obodo anyi, ogu, ihe ike, odida, ihe mmete, aruraala na ihe ihu abu bu ihe na che anyi n'ihu.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Ka anyi n'ekwete kwa n'usoro onye ndorondoro ochichi n'ime otu obodo anyi, onweghi kwa ihe ga di itche.
 
-We can either choose virtue or compulsion.
+Anyi nwere ike nhoputa omume maobu mmaye.
 
-We cannot have both.
+Anyi agaghi e nwe ha abuo.
 
-### Solutions
+### Nkowa Aziza
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Anyi nwere ike nkweye na ndorondoro ochichi bu ihe di oke mkpa ma bu kwa ndi obi oma. Anyi nwe kwara ike nkweye na ewepu ndorondoro ochichi, otu obodo anyi ga adabayen n'ime ogbe ''ogbahara,'' ma uwa ga daba n'aha ke onye megide ebeya. Anyi nwere ike nkweye na ewepu ndorondoro ochichi, anyi agaghi e nwe uzo, ma obu ulo akwukwo, ma obu ulo ogwu, ma obu penshion yin ndi oke, ma obu ebe ndobe akwukwo, ma obu nchebe onwunwe mmadu na ihe ndi di otu a.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Udi nkwekwe a, n'ezie, emegidele oganiru umummadu n'ime akuko ihe garaga. Ihe kacha negosi nambu ihe UPB n'egosi gbasara ndorondoro ochichi bu kwa ihe sayens n'egosi kwa gbasara okwukwe..
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Ngbe sayens bidoro gosiwa n'eluigwe na ala di ma enwe ghi chi di n'ime ya, ndi oke egwu di itchiche tiri na uwa achowala nmebi, na otu obodo anyi ga adabayen n'ime ogbahara, na mmepe anya anyi ga adaba n'ime aha, nke onye megide ebeya.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Ngbe obula usoro ke ne gosi na oga di ma ewepu ikikere ha, ndi n'ewete uru n'ime ya ga etipu na ihe nile ga emebi ma ewepu ya.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Ndi oka okwu chukwu mereya na mbido ntuari sayens. Ewepu chukwu, ndu aghaghi enwe isi obula. Ewepu chukwu, mmadu aghaghi enwe ubimmadu. Ewepu chukwu, nkpuru obi mmadu ga efu ohia. Ma ewepu chukwu, uwa ga adabayen n'ime ogbahara na njo.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Onweghi n'ime ya nke putara eziokwu. Kama, nke ntuari ya bu nke putara eziokwu. Ngbe okwukwe kwusiri i bu ihe uwa n'ile n'elekwasi ka nkewa ilouka na isi obodo, nkwusi oke ozuzu, mbili azumahia, mbido nwete onwe mmadu n'ime ebe ndi di oke mkpa n'ime uwa.
 
-The fall of God was the rise of mankind.
+Odida chi bu mmalite mmadu.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+N'otu uzo a kwa, anyi bedo lewa usoro obodo anyi otu ndi oka sayens mbo si neele eluigwe na ala- dika ihe n'lete onweya na choghi ikikere ochichi n'etiti ya- mgbe ahu ka anyi ga ebido nwema olilanya nwere onwe mmadu.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Okike ikikere otu onye di n'etiti otu obodo anyi na dola oganiru ihe ama, amamihe di mma nke ikeahu na ike uche- dika ikikere otu onye di n'etiti eluigwe na ala na dola oganiru ihw ama, amamihe di mma na sayens.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Otu mgbochi ndi aro bu ikwu eziokwu ma na tulegwu. Otu mgbochi chi bu site na amamihe, ihe ngosi na sayens.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Otu mgbochi isi obodo - ihe aro kacha emebi ihe - bu site na amamihe, ihe ngosi na sayens.
 
-### The Future
+### Ga-eme Di Niru
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Dika anyi choroya ma anyi achoghiya, UPB na abanye n'ime ihe nile anyi n'eme. Mmadu nwere nchocho ebe an'egidesike ebe anyi bu ihe nwere nkpuru obi, bi n'ime uwa digidere dimma. Mgeahu, ebe obula anyi chotara onwe anyi teye obi na idosa ya n'ime ndu anyi- na n'ime omenaala na mba anyi.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Mgbeahu, onye kwetara na mmegbu bu otu esi e nwete ihe onye choro, ga na cho mmegbu n'ime ndu ya nile. Onye si na ogu di mma ga na cho ogu n'ime ndu ya nile.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+N'ime otu okwa, UPB na cho nnogide ebe nnogide adighi, UPB na cho nnoko ebe omume aruraala di.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Ukwu omume gidere omenaala obula bu nraanya echile. Omenaala obula nwere mmegbu n'ime ya ga na cho mmegbu mgbe obula. Omenaala nwere mmalite n'ime nwete onwe mmadu bara uru aghaghi enwe oke mmegbu n'ime ya.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Ya meere ngosiputa ihe gbasara omenaala di oke mkpa.
 
-What we believe is what we become.
+Ihe anyi kwere ka anyi ga bu.
 
-If we believe lies, we shall become slaves.
+Anyi kwete n'asi, anyi ga bu ndi ohu odibo.

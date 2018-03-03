@@ -1,28 +1,28 @@
-## Internal Consistency
+## Consistency wey dey internal 
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+If I be architect, and I submit plan wey dem go use build a house, d first hurdle wey I must pass na weda if dem fit byuild my house or if dem no fit build am rara. If I submit plans wey dey wonderful say make dem use construct house wey be say na soap bubbles dem go use do am, I no fit get any commission, since dat kyn “house” no fit stand.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Similarly, if an engineer submit plan wey dem go use do bridge, d first criterion wey dem must satisfy be say weda d bridge to stand or e no go. Oda considerations lyk shey e go long, aesthethics and dem rest go only apply if d bridge don dey ground ni.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+E go dey illogical - make we no mention highly unproductive - to dey build bridge from dem random materials, make we dey use random “calculations”, so dat we fit see if e go stand or e no go stand. Since physical laws dey consistent and e dey universal, e dey relatively easy make we figure out weda d bridge go stand *before* we build am or e no go stand.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Na two ways wey we fit use sabi d viability of d bridge before we build am. D first na to look for d inconsistencies wey dey internal wey dey within d premises and calculations wey support d viability of d bridge. If dem significant errors dey for d calculations wey dey justify d weight wey d bridge fit carry, den d bridge go maybe be over-designed or make im be under-designed. If d mathematical calculations no correct and com giv result for strength wey be minus fifty tons per square foot for any part of d bridge, den for sure e no fit stand - or, if e stand, im viability na just by accident, dem no fit do am again.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+D mathematical calculations wey dey support d viability of d bridge must thus dey consistent internally before u fit consider anytin again.
 
-In computer terms, code that does not compile cannot be tested.
+For computer terms, code wey no dey compile dem no fit test am.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Dis na true for d scientific world self. Dem dey check Theories for consistency wey dey internal wella before dem submit am to empirical tests. D reason wey consistency wey dey internal dey essential na since theories dey claim say dem get value relative to reality, and reality dey consistent internally, any theory wey *no* dey consistent internally no fit get value wey dey relative to reality.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Na only *after* d dem don establish d internal consistency of d calculations na im d dem fit review d specifictions wey d bridge reach to one kyn degree. E dey possible make we write d spcifications of d consistency wey dey internal for one pelenge bridge wey be say na balsa wood de use build am finish, but na only if d engineer dey write article for a model rail-roading magazine, im specifications, though e dey consistent, e no go reach any industrial requirement.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Once we don sabi say d bridge go stand, we fit com sabi weda e go meet wetin we nid am for or e no go meet, lyk make e dey support dem people wey dey waka weight versus dem trains.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+For dem economics realm, d same criterion na im dem dey use. If ma economic theory nid say make price dey go up and down for d same time, den e no fit be correct, since e no dey possible. Once ma theory don dey checked for consistency wey dey internal, I fit to dey look for evidence, and/or make I start to dey use my theory to dey make proactive predictions.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Thus, we fit say before any theory, go dey correct, e nid d following:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Consistency wey dey internal (logic).
+2. Consistency wey dey external (fit test am).
 
-With this in mind, we can now turn to the core subject of this book.
+Wit dis one for our mind, we fit com look d core subject for dis book.

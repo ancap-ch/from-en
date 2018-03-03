@@ -1,109 +1,109 @@
-## Preferences
+## Fifiko
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Yanzu tunda mun fahimci halittar gardama mai rushe kai, zamu iya juya tambayan akan fifiko.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Fifiko Na tsakiyar hanyoyin ikirari da bayanin gaskiya –matsayin rarrabewa. Hanyoyin kimiya, kamar idan kace, n tattara bayani fifiko akan tantance dabaru ingartaccu da zurfin tunani. A kimiya, filin ne *idan* kana son nuna gaskiya akan halayya na al’amari da makamashi, yana da *fifiko* kayi amfani da hanyoyin kimiya.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+A hankali “fifiko” baya nufin “wannan yafi” amma ana “bukata.“ *idan* kana son rayuwa, *kowa ya yarda yafi* wai ka daina cin abinci cikin arsenic. *Idan* kana son gane gaskiya akan rayuwa, *fifikon duniya*shi ne ka’idojin ddaa inganci cikji da zurfin tunani ke bayyana wa. *Fifikon duniya* anan na fassara “hakkikan cin  da ake  bukata“ amma zamu rike  kalmar “fifiko“ wurin  bambam ta  hakikanin zabin mutane da wanda ba zabin mutane na hakika kamar nauyi ba.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Haka, idan ka’idojin da’a na iya zama gaskiya, sai munyi *a kalla* cikin da wajen inganci. A wani Kalmar, ka’idar da’a dake karyata kanshi bai zama daidai—kuma ka’ida da’a dake karya ta hujjan zurfin tunani da kusa da fifikon duniya bai zama gaskiya.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Duk da a da’a, kamar yadda a kimiya, lissafi, injiniyarin da duk wani horo dake danganta ka’idojin zuwa gaskiya, *lafiyayyun ka’idojin sai sun kasance dabaru ingantattu da kuma tunani mai zurfi.
 
-### Preferences And Existence
+### Fifiko da zamaa
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Idan nace “ina son ayis kirim” kalma daya kawai ya rage shubuha a cikin jumlar. Karara “ni “zama, tunda ina bayani akan abun dana fiso. Haka zalika karara, ayis kirim ya zama gaskiya. Amma kuma, Kalmar “so” na da matsala.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Fifiko baya zama dole a cikin gaskiya. Idan kana cike da abun mamaki, zaka iya bina zagayen gari kana rubuta dukan lokutan dana sha ayis kirim, wanda zai bada cikakken dalilin dana fifita shi. Dalilin na iya kasan cewa, ni mayen shi ne, ko kuma bana son shi kwata-kwata, shine yasa nake hora kaina da rashin dadin shi—sannan nake kokarin nuna ma kamar ina son shi.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Zamu iya samun *hujja* akan fifiko; baza mu samu fifiko kawai a gaskiya ba. Fifiko yana zama ne a cikin danganta ka tsakanin hankali da al’amari, kamar yadda nauyi ke zama tsakanin danganta kan jiki mai nauyi.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Ajiye tambaya tsakanin ganin dama da sanin ya kamata, ana ganin cewa duk wani abu da mutane keyi suna yi ne saboda sonfi son yin haka. Idan na tashi, sannan na tafi aiki, haka na nuna nafi son yin hakan ne, akan duk kan wani abu makaman shi. Koda ace bana son aiki na, karara kiyayyan na da aiki bai kai ace banda mafitsara ba.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Yadda mutane ke iya yin ko wani irin aiki, komai mutum ke yi a wani lokaci yafi son shine sama da kowane abu da zaa’a ajiye mai. Na zabi rubuta littaffin nan ne saboda nafi son shi sama da koyan buga kwallo.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Idan mu kayi amfani da wannan hujja da gaddamar da’a, zamu samu sakamako mai dadin gaske.
 
-### Preferences And Arguments
+### Fifiko da Gardama
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Tuna bayanin mu na baya akan gardama yakan kai, zamu iya gane sarkakiya halittar wannan maganan: “fifiko baya zama”. Bada cewa aikin mutane –harda yin maganan filosafas—shin zabe shine fifiko ga kowa ne aikin da zai yiwu, gardama akan fifikon da baya zama na bukatar *fifiko* wurin gardamar shin fifiko baya zama, wanda maganan ne mai yakar kanta. Gardama akan cewa fifiko baya zama daidai yake da gardamar cewa babu yare. Wannan kalma ce ta gardama mai yakan kai.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Tunda baya yiwuwa mu aikata wani aiki ba tare da fifiko ba—kamar jabu ko baro-baro-- duk wanda ya aikata aiki zai yarda akwai fifiko. Duk da abu ne mai wuya ayi gardama akan zaman fifiko ba tare da yarda da kasan cewar fifiko ba.
 
-### Preferences And Universality
+### Fifiko da Duniyan
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Tambaya ta gabe ta zama: shin fifiko motsin rai ne, ko kuma duniyan ce ne?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Karara, wasu fifiko motsin rai ne. son wakaa, ayyukan hutu, wallafe-wallafen da kafi so da sauran su dai akan motsin rai da fifiko daka fi so.
 
-The challenge arises when we try to define some preferences as *objective*.
+Kalubalen na tashi ne idan mukayi kokarin ayyana wasu fifiko a matsayin *hakika*.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Shawaran dake gaban mu itace: * shin wasu fifiko na iya kasan cewa hakika, shine mu ce duniyan ce?*
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Idan nace wasu fifikon na iya zama hakika, ba ina nufin ko wani mutum nabin wannan fifikon a ko wani lokaci bane. Idan zanyi gardama akan cewar *numfashi* abu ne na hakika wurin fifiko, abu mai sauki ne wasu su sani cikin misalin wadanda ke kisan kai tare da rataye wuyansu. Idan kuma nayi gardamar cewa cin abinci fifiko ne na hakika, ana iya kasafta gardamar a matsayin yajin aikin cin abinci da rashin dandano.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Idan mu nayi maganan fifiko a duniyan ce, ina magana ne akan abun da mutane, ya *kamata* su fifita ba abun da suka fi *son yi* kullum ba. Wurin amfani da misalin kimiya, wurin asalin fahiimtar duniya, mutane *suyi* amfani da hanyoyin kimiya –wannan baya nnufin suna hakan koda yaushe, tunda biliyoyin mutane har yanzu naaajin tatsuniyoyi fiye da kimiyar zamani wurin amsa. Babu wataaa haanyar cin ma gaskiya a duniya ba tare da kimiya ba, amma mutane  basa jin kyashin ayyana  “gaskiya” ko “kuskkure, ”  da gamsar da kansu da shirmen sufi.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Haka ma, idan mutum na son warkar da cuta, ya kamata yayi amfani da garkuwan jiki ba yin rawan yan bori ba. Fifikon amfani da garkuwa jiki ba yin rawan bori ba abu ne da duniya tayi rinjaye, tunda rawa bata warkar da ciwo. Duk da, akai lokacin da mahaukaci ke kokarin warkar da cutar shi da rawa, duk da haka a *fifikon duniya* idan mutum yana son warkewa, sai yasha magungunan garkuwan jiki.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+A wata Kalmar, idan kana son hawa saman tsauni, son hawan ba zai bata aiki ba. Idan kana son sanin asalin duniya, addu’a bazata taba baka amsa ba. Mutane har yanzu kanso ace, ko addu’a, amma haka bai sa son ace ko addu’ar fin tasiri. Da wannan a zuci, bari mu juya kan tambayar ko kuma fifikon duniya abun gaskiya ne.
 
-### Arguments And Universality
+### Gardama da Duniyanci
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Idan na zabi muhawarar, na yarda da jabun hanyoyin irin wanda jigo ke bukatar bata lokacin warware wa anan.
 
-#### Premise 1: We Both Exist
+#### Jigon 1: Duk Mun Zama
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Idan na zabi muhawara da kai, to ya zama dole na yarda ni da kai muna zama. Idan yarda ina zama, amma baka zama, to muhawarar bata da ma’ana, kuma zai zamo aikin mara hankali. Idan na fara gardama da kai na a cikin madubi, ya kamata a kaini asibiti a kwantar mun da hankali ne ba muhawara ba.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Jigo na 2: Kwakwalwa Nada Ikon Daidaito
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Tunda mutane basa iya gane wa a zahirce, duk kannin muhawara na bukatar hujja masu ma’ana. Rubuta abun da ya kamata a gani; magana na bukatar ji; braillena son tabi. Duk wani shawara na dogaro akan rashin gaskiyar ma ba wata-wata ta rushe-kanta.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Jigo Na 3: Yare nada ikon bada Ma’ana
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Kamar a jigo na 2, tunda duk wata gardama na bukatar yare, duk wani shawara dake rataye akan hurumin raye bashi da amfani ba’ yarda dashi. Amfani da yare wurin musun cewa yare bashi da ma’ana kamar amfani da jigila ne wurin aika sakon gardama cewa jigila baya bata isar da sako.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Jigo Na 4: Gyara Na Bukatar Fifikon Duniya
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Idan kai mun gyaran kuskuren da nayi, kana goyon bayan cewa hakan shine yafi zama daidai a gareni na gyara kuskuren.  Fifikon ka na gyara kuskure na ba tilas bane, amma hakika ne, kuma a duniyan ce.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+Ba zaka cemun: “na bar abun da na yarda dashi nabi naka ba saboda kafi son haka”, amma “ka gyara ra’ayin ka saboda hakikanin kuskuren ne”. Kuskure na ba daga kin yarda da kai bane, amma sakamakon kauce ma tsarin hakikan gaskiya. Gardaman ka cewa na gyara ra’ayin kuskure ya rataye ne akan ingancin hakikanin gaskiya—wanda idan gaskiya *fifikon duniya* akan kuskure, sannan kuma gaskiya *hakikanin duniya* ne.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Jigo Na 5: Kawai Hakikanin Hanyar Bambam ce Gaskiya da Karya
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Idan baka yarda dani ba, amma nace ma ka yarda dani saboda ni ko da yaushe daidai nake, ba a kan haka bane zaka yarda da gardama na. Idan ka bada hujjojin da suke nuna bani da gaskiya ba, amma naci gaba da fadin ka yarda da abun da nake cewa saboda ni *kullum* daidai nake, wannan musun namu ba za’a kira shi muhawara ba.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Da zaran na bada wasu hakkokin tantance gaskiya daga karya, na yarda cewa gaskiya ta wuce maganan ra’ayi.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Wannan bashi ke nufin hakkokin dalilai na *dabaru* ne ba – zan iya ishara da rubutun adini a misali. Duk da haka, idan nayi hakan, ina nan akan baka ta na cewa gaskiya ta wuce hashashen abun da mutum ke tunani – wai kawai hakikanin hanyoyin dake zama tsakanin gaskiya da karya.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Jigo Na 6: Gaskiya Tafi Karya
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Idan nace  ma duniya a lebur take, ka amsa cewa duniya ba lebur take ba, amma zagaye, to ka yarda cewa batun gaskiya da karya duk na zama hakika, sannan kuma gaskiya tafi karya.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Idan nace ina son ayis kirim mai cakulet, kai kuma kace kana son banila, zai yi matukar wahala bada hujja cewa banila yafi cakulet. A yayin da kai mun gyara da kwararan *bayanai* kuma hakikanin gaskiya a *fifikon duniya* yafi kuskure.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Zaman Lafiya Shi Hanya Warware Shawarwari
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Idan nace ma duniya lebur take, sai kawai ka ciro bindiga ka harbeni, wannan zaiyi karanci ace misalin muhawara.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Idan nace ma kafin nan cewa zamu hukunta duk wani rashiin yarda da harbi na, ba zanyi gasa da kai ba. Wannan karara na nuna cewa muhawara na jingine ne kan hujja, dalili, gaskiya da inganci kawai *fifikon duniya* hanyar warware shawarwari tsakanin mutane. Kwata-kwata zai zamo rashin dibara ayi gardama cewa ana warware bambam ci ra’ayi ta hanyar ta’addanci – abu kadai dake nuna *tasirin* ta’addanci a gardama shine ta’addanci.[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+A jigon, to, muhawara na bukatar hakikan hanyar, yare mai ma’ana, a wurin bayyana gaskiyar da duniya ta raja’a, wanda hakika haka aka fi so da kuskuren mutum.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+Wannan fifiko na gaskiyar da duniya tayi rinjaye bashi ne fifikon *digiri* ba, amma na *yanayi.* duk guntuwar hanyar da zata rage tafiyar zuwa rabi tafi doguwar hanyar kyau sau biyu—amma dukan su *nada kyau matuka* akan da mutum yayi batan hanya.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Hanya daya ne, gaskiya ba wai kawai *tafi* kuskure bane—*anfi son ne matuka* ko bukata.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Jigo Na 8: Mutane ke da Hakkin akan Ayyukan su
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Idan na musanta mutane ke da hakkin aikin su, zan tsinci kaina a rudani, wanda shine tambaya akan ko, ko a’a nine ke da hakki akan gardama na, kuma  nine, ko a’a ba kai bane ke da hakki akan mayar da martanin ka.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Idan gardama na akan cewa mutane *basu* da hakki akan ayyukan su ya zamo gaskiya, to bani da hakki akan gardama na, kuma kaima baka da hakkin martanin ka. Haka kuma, idan na yarda baka da hakkin martanin ka, zai bada ma’ana mu cigaba da gardama—zai zamo daidai da gardama da telebijin.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Duk, aikin, idan nace ma baka da hakki akan aikin ka, ina gayama cewa duk duniya an yarda cewa fifiko ba abu mai  yiwuwa bane, tunda idan baka da iko akan ayyukan ka, ba zaka iya zaben garin da kake so ba, wannan shine gaskiya ko karya. Haka zalika, wannan gardama da na saman na rushe kansu.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: yana da amfani matuka ka tuna wannan wuri, tunda yana da amfani a gaba.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: Tambayar hakki anan shine:  A kusa tambayar ganin dama da kaddara, wanda ke kunshe a cikin wani littaffi.

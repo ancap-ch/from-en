@@ -12,7 +12,7 @@ Oczywiście, jeśli ogłoszę, że "X" jest "dobrem", to przeciwieństwo "X" mus
 
 Zgłaszanie komuś jest pozytywnym działaniem, które musi zostać zainicjowane, wykonane, a następnie zakończone. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
 
-That which enables virtue cannot be evil. “Freedom,” for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
+That which enables virtue cannot be evil. “Freedom”, for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
 
 If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Mamy więc nieprzezwyciężony paradoks, w którym ofiara musi zaatakować cnotę, aby umożliwić cnotę - musi opierać się przemocy seksualnej, aby umożliwić "cnotę" gwałciciela. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
 
@@ -32,7 +32,7 @@ This is another central problem with any theory that posits a positive action su
 
 In this way, the concept of “avoidability” retains its use. Człowiek w śpiączce nie jest w stanie uniknąć leżenia w łóżku, ponieważ jest on w stanie nieprzytomności. Ponieważ nie jest on w stanie uniknąć swoich działań - lub bezczynności w tym przypadku - jego unieruchomienie nie może być niemoralne.
 
-W tym miejscu można całkiem słusznie podnieść zarzut, że jeśli człowiek w śpiączce nie może być niemoralny, to również nie może być moralny. Jednak wcześniej mówiliśmy, że przeciwieństwo niemoralnego działania musi być moralne. If we propose the moral rule, “thou shalt not rape,” then can we call the man in a coma *moral*, since he does not rape?
+W tym miejscu można całkiem słusznie podnieść zarzut, że jeśli człowiek w śpiączce nie może być niemoralny, to również nie może być moralny. Jednak wcześniej mówiliśmy, że przeciwieństwo niemoralnego działania musi być moralne. If we propose the moral rule, “thou shalt not rape”, then can we call the man in a coma *moral*, since he does not rape?
 
 #### Capacity
 
@@ -64,13 +64,13 @@ Once again, the UPB framework comes to the rescue.
 
 An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
 
-For instance, if my APA is: “be on time,” then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+For instance, if my APA is: “be on time”, then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
 With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable.”
+On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable”.
 
 Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
 
@@ -84,7 +84,7 @@ Perhaps rape is akin to a merely personal preference.[^2]
 
 The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people,” how does that stand up to the framework of UPB?[^3]
+If we propose the moral rule: “personal preferences must be violently inflicted upon other people”, how does that stand up to the framework of UPB?[^3]
 
 Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
 
@@ -118,21 +118,21 @@ Which leaves only…
 
 ### Evil
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil,” passes the “coma test,” insofar as it is impossible for a man in a coma to rape someone.
+If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil”, passes the “coma test”, insofar as it is impossible for a man in a coma to rape someone.
 
 In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral,” and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Since avoidability is one of the key differentiators between “unpleasant” and “immoral”, and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
 
 Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
 
-The rapist may justify his actions by avoiding the proposition “rape is good,” and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others.”
+The rapist may justify his actions by avoiding the proposition “rape is good”, and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others”.
 
 This proposition also fails the most basic logical test of UPB. Jeśli Bob uważa, że powinien odebrać sobie przyjemność, gwałcąc Douga - niezależnie od niezadowolenia Douga - to Bob nie może racjonalnie podnieść swoich preferencji do UPB.
 
 If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
 
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced.” Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced.”
+Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced”. Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced”.
 
 Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. Na przykład uwięzienie jest nieuchronnie uzasadnione odwołaniem się do teorii moralnej - a uwięzienie powoduje, że o wiele więcej osób zostaje zgwałconych, niż mogliby sobie wymarzyć prywatni przestępcy. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
 
@@ -140,7 +140,7 @@ Thus it would seem that the only logical possibility for rape is that *not* rapi
 
 ### Whew!
 
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good,” or “aesthetically preferable,” or “personally preferable,” or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
+The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good”, or “aesthetically preferable”, or “personally preferable”, or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
 
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
 

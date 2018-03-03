@@ -1,39 +1,39 @@
-## Ethical Categories
+## Ang mga etikal na Kategorya
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Sa pamamagitan ng balangkas ng UPB sa lugar, maaari na ngayong i-usisa ang pagsusuri kung paano napatunayan o ipinawalang-bisa ng UPB ang aming pinakakaraniwang mga panukalang moral. Kung ang aming "teorya ng pisika" ay maaaring ipaliwanag kung paano mahuhuli ng isang baseball ang isang tao, hindi na namin napasa ang unang - at pinakamahalaga - sagabal, at sinaktan ang una at pinakamalalim na suntok laban sa hayop.
 
-### The Seven Categories
+### Ang Pitong Mga Kategorya
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Tulad ng nabanggit sa itaas, ang mga panukala tungkol sa pag-uugali ng higit sa lahat ay nahulog sa tatlong pangkalahatang kategorya - positibo, negatibo at niyutral. Upang matulungan kaming makahiwalay ng mga aesthetics mula sa etika, simulan natin sa pamamagitan ng pagpapalawak ng mga kategoryang ito upang mapalibutan ang *anumang* pag-uugali na maaaring mapailalim sa isang etikal na pagtatasa. Ang pitong mga kategoryang ito ay:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Ito ay mabuti (higit na mas mainam at masusunod sa pamamagitan ng karahasan, tulad ng "hindi pagpatay").
+2. Ito ay aesthetically positibo (higit na higit sa lahat ngunit hindi maaaring ipatupad sa pamamagitan ng karahasan, tulad ng "kagalang-galang" at "pagiging nasa oras").
+3. Ito ay personal na positibo (alinman sa hindi pangkaraniwang lalong kanais-nais o maipapatupad, tulad ng isang predilection para kumain ng ice cream).
+4. Ito ay niyutral, o walang etikal o aesthetic na nilalaman, tulad ng pagtakbo para sa isang bus.
+5. Ito ay personal na negatibo (predilection para hindi kumain ng ice cream).
+6. Ito ay aesthetically negatibo ("kabastusan" at "pagiging huli").
+7. Masama (pangkaraniwang ipinagbabawal) ("panggagahasa").
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Sa isip, dapat nating magawa ang mga ito hanggang sa dalawang kategorya lamang - higit na mas mainam at positibong positibo - sa pamamagitan ng pagtukoy sa ating etikal na panukala upang ang ipinagbabawal sa lahat ay isang mirror na larawan ng kung ano ang higit na mas mainam, at ang paghuhukay lamang ng personal na mga kagustuhan at niyutral mga aksyon na walang kaugnayan sa isang diskusyon ng etika.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Halimbawa, ipinahayag ng Non-Aggression Principle (NAP) na ang pagsisimula ng paggamit ng puwersa ay imoral - kaya ang di-pagsisimula ng paggamit ng puwersa ay higit na mas mainam, samantalang ang pagsisimula ng paggamit ng lakas ay ipinagbabawal sa lahat. Kung ang pinagbawalan ay lamang ang kabaligtaran ng kung ano ang mas mabuti, diyan ay talagang hindi na kailangan para sa isang karagdagang kategorya.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Bukod pa rito, bilang mga pilosopong moral, dapat nating unahin ang ating pagsusuri sa makatuwiran na etika sa pamamagitan ng pagtukoy sa mga pinaka-mabigat na paglabag. Maliwanag, ang mga pinakapopular na aksyon ay dapat na ang marahas na pagpapatupad ng di-makatarungang mga kagustuhan sa iba. Kung ang mga pagkilos tulad ng "pagnanakaw" o "pagpatay" ay tinukoy bilang UPB, ang pagsusuri ng mga naturang mga kahulugan ay dapat na ang aming pinakamataas na priyoridad.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Kung kaya't dapat nating i-tuon ang ating mga pagsisikap lalo na sa mas higit na kahusayan at maipapatupad na mga pagkilos.
 
-### Virtue And Its Opposite
+### Ang Kabutihan at Ang Kabaligtaran nito
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Ang kabaliktaran ng "kabutihan" ay dapat na "bisyo" - ang kabaligtaran ng "mabuti" ay dapat na "kasamaan." Kung ipanukala ko ang moral na tuntunin, "huwag kang magnakaw," ang pagnanakaw ay dapat na masama, at *hindi* magpakabait. Hindi ito nangangahulugan na ang "refraining from theft" ay ang tanging kahulugan ng moral na kahusayan, siyempre, dahil ang isang tao ay maaaring isang mamamatay-tao, ngunit hindi isang magnanakaw. Maaari naming isipin ito bilang isang "kinakailangan ngunit hindi sapat" na kinakailangan para sa kabutihan.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Ang bawat mas mahusay na aksyon sa moral ay dapat sa pamamagitan ng likas na katangian nito ay may tapat na pagkilos - dahil kung hindi, walang kapasidad para sa pagpili, walang posibilidad na iwasan, at samakatuwid walang kakayahan para sa kabutihan o bisyo. Kung ipanukala ko ang tuntunin ng moralidad: "dapat mong salungatin ang grabidad," pagkatapos ay malinaw na ang moralidad ay nagiging imposible, ang imoralidad ay hindi maiiwasan, at sa gayon ay hindi wasto ang moral na tuntunin.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Kung ipanukala ko ang moral na tuntunin: "hindi ka dapat pumunta sa San Francisco," ito ay maaaring lohikal na rephrased bilang: "dapat kang pumunta sa kahit saan ngunit San Francisco." Sa ganitong paraan, ang moral na patakaran na "hindi ka dapat magnakaw" ay maaaring pantay na iminumungkahi sa positibong paraan - "igagalang mo ang mga karapatan sa pag-aari." Dahil ang paggalang sa mga karapatan sa pag-aari ay isang kabutihan, ang paglabag sa mga karapatan sa ari-arian ay dapat na isang bisyo.
 
-### What Is Missing
+### Ano ang nawawala
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Ang napapabilang absent mula sa listahan sa itaas ay mga tradisyunal na kabutihan tulad ng tapang, katapatan, integridad at iba pa - pati na rin ang kanilang mga kabaligtaran: kataksilan, kasinungalingan at katiwalian.
 
-It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
+Maaaring tila ang mga katangiang ito ay dapat mahulog sa kalagayan ng aesthetically positibong pag-uugali, tulad ng sa oras, ngunit ako para sa isa ay may may roong labis na paggalang sa mga tradisyonal na kabutihan upang ilagay ang mga ito sa parehong kategorya bilang mga social niceties. Ang dahilan kung bakit hindi nila maaaring ilagay sa kategorya ng lahat ng mas mabuti ay, tulad ng nabanggit sa itaas, ang balangkas ng UPB ay tumutukoy lamang sa *mga pag-uugali*, hindi sa mga saloobin, mga kaisipan, mga kalagayan ng pag-iisip o damdamin. Ang pang-agham na pamamaraan ay maaaring magproseso ng lohikal na panukala; hindi ito maaaring magproseso ng "galit" o "pagkadismaya." Ang mga estado ng pag-iisip ay hindi mahalaga, siyempre - sa katunayan, ang mga ito ay mahalaga - ngunit hindi sila maaaring maging bahagi ng anumang layunin na sistema para sa pagsusuri ng mga etikal na panukala, dahil ang mga ito ay talagang pansarili - samakatuwid unprovable - estado ng pagiging.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+Kaya ang UPB ay makitungo lamang sa mga bagay na maaaring totoong mapapatunayan tulad ng pagpatay, pag-atake at iba pa.

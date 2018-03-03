@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Ein Handlungsrahmen für Ethik
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Ethische Aussagen unterscheiden sich von anderen Arten von Wissensaussagen. Wenn ich sage, "Ich mag Jazz", dann mag das eine wahre oder falsche Aussage sein, aber es wird nicht allgemein als bindend für Sie angesehen. Meine Vorliebe für Jazz ist eine bloße Äußerung persönlicher Vorliebe; aufgrund meiner Aussage obliegt es Ihnen nicht, Jazz zu mögen oder abzulehnen.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Auch wenn ich sage: "Ich mag Gemüse", dann ist das nur eine bloße Aussage über die persönlichen Vorlieben. Wenn ich jedoch sage: "Gemüse ist gesunde Nahrung", dann habe ich mich von einer persönlichen Präferenzerklärung zu einer objektiven Tatsache gewandelt. Es ist der Unterschied zwischen "Ich mag Eiscreme" und "Eiscreme enthält Milch".
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Der grundlegende Unterschied zwischen Aussagen von *Präferenz* und Aussagen von *Tatsachen* besteht darin, dass Tatsachenaussagen objektiv, prüfbar - und verbindlich sind. Wenn Sie Wert auf Wahrheit legen, obliegt es Ihnen, die Tatsache zu akzeptieren, dass Eiscreme Milch enthält, sobald sie bewiesen ist.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Wenn ich sage, dass die Erde rund ist, und ich gebe dafür reichlich Beweise, dann ist es nicht mehr an Ihnen, nach eigenem Gutdünken zu entscheiden, ob die Aussage wahr ist. Wenn ich beweisen kann, dass die Erde rund ist, dann wirst du sie als wahr akzeptieren, es sei denn, du bist bereit, Vernunft und Beweise als Kriterien für die Wahrheit abzulehnen.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Wenn ich die Gültigkeit mathematischer Gesetze akzeptiere, kann ich einen mathematischen Beweis, der diesen Gesetzen entspricht, nicht willkürlich ablehnen. Wenn ich einen solchen Beweis ablehne, kann ich nicht mehr behaupten, die Gültigkeit mathematischer Gesetze zu akzeptieren. Meine Annahme dieser Gesetze bedeutet, dass ich *verpflichtet* bin, die Beweise, die diesen Gesetzen entsprechen, als gültig zu akzeptieren. Die Ablehnung eines Beweises, der den rationalen Normen entspricht, ist eine Ablehnung der rationalen Normen als Ganzes.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Die wissenschaftliche Methode, die Rationalität selbst und mathematische Gesetze sind Beispiele für *objektive* Kriterien zur Feststellung der Wahrheit eines Satzes. Es ist nicht meine Meinung, dass zwei und zwei vier ergeben - wenn Sie auch akzeptieren, dass zwei und zwei vier ergeben, dann unterwerfen Sie sich nicht meiner bloßen Meinung, sondern einer rationalen Wahrheit.
 
-### Objective Truth
+### Objektive Wahrheit
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Eine zentrale Herausforderung für das Verständnis der Natur der Wahrheit ist die Erkenntnis, dass "Wahrheit" in der Welt nicht in der gleichen Weise existiert wie ein Stein oder Baum.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Der Begriff "Wahrheit" ist notwendigerweise ein relativer Begriff - was aber nicht bedeutet, dass es sich um einen subjektiven oder willkürlichen Begriff handelt. Der Begriff "Gesundheit" ist auch ein relativer Begriff - wir vergleichen "Gesundheit" mit Krankheit, aber auch mit relativen Gesundheitsstandards. Was für einen Neunzigjährigen als "guter Gesundheitszustand" gilt, ist für einen Zwanzigjährigen kaum als guter Gesundheitszustand anzusehen. Die Definition eines langen Lebens ist heute ganz anders als vor fünfhundert Jahren.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Das bedeutet jedoch nicht, dass der Begriff "Gesundheit" völlig relativ und subjektiv ist. Ein Zehnjähriger, der an Leukämie stirbt, ist per Definition ungesund - so wie ein zwanzigjähriger Marathonläufer per Definition gesund ist. Gegenwärtig hat ein Mann, der bis zu neunzig Jahre alt ist, statistisch gesehen ein langes Leben gehabt, aber das würde sich ändern, wenn die Medizintechnik uns plötzlich erlauben würde, zweihundert Jahre alt zu werden.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Mit der Erweiterung unserer Definition von "Gesundheit" werden frühere Definitionen nicht ungültig, sondern erweitert. Wenn die Medizintechnik voranschreitet, damit die Neunzigjährigen Marathons gewinnen können, dann ändert sich unsere Definition dessen, was für die Alten gesund ist - aber das heißt nicht, dass der zwanzigjährige Marathonläufer plötzlich ungesund wird. Das Erlernen der Algebra macht die Arithmetik nicht ungültig.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Die Wahrheit hat auch einen Wert im Verhältnis zur Notwendigkeit. Die Newtonsche Physik wurde von der Einsteinschen Physik verdrängt, die sich in Extremsituationen wie außergewöhnlich hoher Gravitation oder Geschwindigkeit als wesentlich genauer erwiesen hat. Jedoch finden Segler, die den richtigen Weg über einen Ozean berechnen wollen, die Newtonsche Physik mehr als genau genug. Man möchte kein Raumschiff mit Hilfe der Newtonschen Physik zu Alpha Centauri schicken, aber es ist völlig in Ordnung, ein Schiff von Lissabon nach New York zu bekommen. Der Arbeitsaufwand, der mit dem Erlernen und Umsetzen der einsteinischen Physik verbunden ist, ist für einen Segler also ein Nettonegativ.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Der Satz "Die Newtonsche Physik ist weniger genau als die Einsteinsche Physik, aber die Newtonsche Physik ist der beste Weg, um den Weg eines Schiffes zu berechnen" kann als gültiger Vorschlag angesehen werden. Die Newtonsche Physik ist also sowohl *weniger genau*, als auch *angemessener*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Wenn wir das reinste Wasser trinken wollten, würden wir wahrscheinlich Tausende von Dollar pro Flasche zahlen. Wenn wir nicht enorm reich und sehr leichtfertig wären, würden wir nie so viel bezahlen, um unseren Durst zu stillen. Es stimmt, dass reines Wasser für uns besser ist, aber der Preis, den die Reinheit verlangt, stößt auf eine Schwelle sinkender Erträge. So weicht "reiner ist besser" dem "reiner ist schlechter".
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Auch dies bedeutet nicht, dass die Reinheit des Wassers völlig subjektiv ist. Destilliertes Wasser ist immer trinkbarer als Meerwasser.
 
-#### Truth And Objective Reality
+#### Wahrheit und objektive Realität
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Das Konzept der *Wahrheit* beinhaltet notwendigerweise das Konzept der *Genauigkeit*. Wenn ich versuche, einen Pfeil auf eine Zielscheibe zu schießen, hängt die Genauigkeit meines Schusses davon ab, wie weit mein Pfeil von der Mitte entfernt ist.
 
-What, then, is the “bull’s-eye” of truth?
+Was ist dann das "Bull's Eye" der Wahrheit?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Nun, die *Wahrheit* einer Aussage ist messbar in Bezug auf ihre Übereinstimmung mit der objektiven Realität.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Wenn ich die Herausforderungen der Sprache für den Moment beiseite schiebe, wenn ich auf eine Möwe zeige und sage: "Das ist ein Amboss", dann täusche ich mich ganz klar, denn Ambosse sind anorganisch und können nicht fliegen. Der Wahrheitswert meiner Aussage wird relativ zu den objektiven Tatsachen der Realität gemessen. Da die Möwe kein Amboss ist, ist meine Aussage falsch.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Natürlich erfordert diese Gleichung zwischen Wahrheit und Realität, dass Sprache und unsere Sinne als relativ objektiv betrachtet werden. Es gibt viele gute Gründe zu glauben, dass sowohl die Sprache als auch der Sinnesbeweis objektiv sind; wir könnten in eine komplizierte Diskussion darüber einsteigen, aber es sollte genügen zu sagen, dass wir uns zumindest darauf einigen können, dass Ihre Augen und die Sprache, die wir teilen, zumindest objektiv genug sind, damit Sie das, was ich schreibe, korrekt verarbeiten können. Wenn das nicht der Fall ist, haben wir nichts zu besprechen, und Sie haben nichts verstanden, was ich sowieso geschrieben habe, also wird dieser Satz genauso bedeutungslos sein, und er könnte genauso gut in "Wingdings" wiedergegeben worden sein.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Angenommen, Sie können den Unterschied zwischen den beiden oben genannten Schriftarten erkennen, können wir vernünftigerweise fortfahren.
 
-#### Accuracy And Consistency
+#### Genauigkeit und Konsistenz
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Es ist mir unmöglich, eine Wolke exakt zu malen, da sich die Wolke in der Zeit, in der sie gemalt wird, ständig verändert. Ich kann genau ein *Foto* einer Wolke malen, die in der Zeit eingefroren ist.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Wenn ich eine Stunde damit verbringe, eine Wolke zu malen, und dann frage ich Sie, ob mein Gemälde eine genaue Darstellung dieser Wolke ist oder nicht, müssen Sie unbedingt antworten, dass dies nicht der Fall ist.
 
-In other words, where there is no consistency, there can be no accuracy.
+Mit anderen Worten, wo es keine Konsistenz gibt, kann es keine Genauigkeit geben.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Wenn wir nachts träumen, sind unsere Wahrnehmungen, dass die Regeln von "Materie" und "Energie" in einem ständigen Fluss sind - wir sind immun gegen die Schwerkraft, und dann fliegen wir auf den Rücken eines Elefanten, und dann können wir durch Wände gehen. Es ist nicht mehr möglich, eine "wissenschaftliche Traumphysik" zu entwickeln, als eine Wolke präzise zu malen.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Logik, Wissenschaft und Wahrheit sind also ohne *Konsistenz* unmöglich.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Grundsätzlich leiten sich die Gesetze der Logik aus dem Verhalten von Materie und Energie ab, zumindest auf der Wahrnehmungsebene. Wenn ich Ihnen sage, dass Sie einen Ball gleichzeitig nach oben und unten werfen sollen, dann bitte ich Sie um das Unmögliche, das Sie leicht testen können, indem Sie versuchen, meinen Wunsch zu erfüllen. Wenn ich Ihnen sage, dass Sie sowohl das Nordfeld als auch das Südfeld gleichzeitig pflügen sollen, können Sie dem nicht nachkommen. Wenn ich verlange, dass du eine Rose in einen Esel verwandelst, wird meine Forderung nie erfüllt werden.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Wahrnehmungswirklichkeit ist konsistent und objektiv - und aus dieser Konsistenz und Objektivität leiten wir die Gesetze der Logik ab. Unsere Aussagen über die Realität können die Realität nur als direkte Folge dieser Konsistenz und Objektivität genau *repräsentieren*.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Die Tatsache, dass sich Möwen nicht willkürlich in Ambosse verwandeln - oder umgekehrt - ist die Wurzel unserer Fähigkeit, die Aussage "Das ist eine Möwe" richtig zu beurteilen. Wenn Möwen spontan und fortwährend ihre Natur verändern würden, könnten wir weder wahrheitsgemäße noch falsche Aussagen über sie machen - oder irgendetwas anderes.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Darin liegt die Wurzel eines Schlüsselkriteriums der wissenschaftlichen Methode - der Reproduzierbarkeit. Wenn ich eine universelle Behauptung über die Natur der Schwerkraft aufstelle, dann sollten Sie in der Lage sein, diese Behauptung in Ihrer eigenen Umgebung zu reproduzieren. Wenn die Realität *nicht* konsistent wäre, dann wäre die Reproduzierbarkeit ein irrationales Kriterium für die Feststellung der Wahrheit.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Wenn Sie ein Mathelehrer wären, wären es sehr unwahrscheinlich, eine falsche Antwort eines Schülers zu akzeptieren, auch wenn dieser Schüler behauptete, dass seine Antwort "richtig" sei, als er sie aufschrieb, sich aber in der Zwischenzeit irgendwie änderte.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+So können wir akzeptieren, dass wir die Gültigkeit einer Aussage im Verhältnis zur objektiven Realität messen müssen - sowohl empirisch als auch logisch. Logik als Disziplin entsteht nur durch die Konsistenz der Realität; empirische Beobachtungen sind auch gültig oder ungültig nur durch die Konsistenz der Realität.
 
-### The Existence Of "Truth"
+### Die Existenz von "Wahrheit"
 
-Truth, then, can be measured according to two central criteria:
+Die Wahrheit kann also anhand von zwei zentralen Kriterien gemessen werden:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Wahrheit ist ein Maß für die Korrelation zwischen den Ideen in unseren Köpfen und der Konsistenz der Rationalität, die sich direkt aus dem konsequenten Verhalten von Materie und Energie in der realen Welt ableitet.[^2]
+2. Die Wahrheit ist auch ein Maß für die Korrelation zwischen den Ideen in unserem Verstand und der Natur und dem Verhalten von Materie und Energie in der realen Welt.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Das erste Kriterium ist ein Maß für die Konsistenz von Ideen mit sich selbst - und diese Konsistenz ist Voraussetzung, weil die Realität mit sich selbst konsistent ist. Wenn ich sage: "Ich existiere nicht", dann ist das ein Beispiel für eine Idee, die mit sich selbst unvereinbar ist, denn ich muss existieren, um den Satz auszusprechen. Das zweite Kriterium ist ein Maß für die Genauigkeit von Ideen im Vergleich zu empirischen Beobachtungen der objektiven Realität.
 
-#### Empiricism Versus Rationality
+#### Empirie versus Rationalität
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Empirie kann man sich als die Fähigkeit vorstellen, einen geworfenen Ball instinktiv zu fangen oder seine Bewegung zu messen; Rationalität ist die Fähigkeit, den Weg vorherzusagen und zu verstehen, den der Ball auf der Grundlage universeller Prinzipien einschlagen wird. Wenn Bälle nach dem Zufallsprinzip in jede beliebige Richtung gehen würden - und obendrein magisch in Schwärme von Tauben verwandelt würden -, wären wir völlig unfähig, ihr Verhalten vorherzusagen.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Da Materie also unveränderlichen Gesetzen gehorcht, müssen unsere Theorien über Materie auch unveränderlichen Gesetzen gehorchen. Wenn ich nichts über Baseball weiß, aber ein Baseballspiel beobachte, in dem die Spieler immer die Regeln befolgen, wäre es irrational für mich, eine Theorie über die Regeln des Baseballs zu formulieren, die dem Verhalten der Spieler, die ich beobachtete, direkt widersprach. Da die Handlungen der Spieler konsistent sind, *muss jede Theorie, die ich bezüglich der Regeln, die diese Handlungen leiten, entwickle, auch konsistent sein*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Diese Forderung nach Konsistenz ist eine der grundlegendsten Anforderungen an die Wahrheit. Da die Realität konsistent ist, müssen auch die Theorien über die Realität konsistent sein.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Tatsächlich ist die erste Hürde, die jede Theorie überwinden muss, die der *internen Konsistenz*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Wenn Sie die Wahrheit nicht schätzen, wären Sie nie in dieser Debatte - oder irgendeiner anderen Debatte - an erster Stelle dabei!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Rationale Konsistenz oder interne Logik.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Empirische Evidenz oder Empirie.
