@@ -72,11 +72,11 @@ Ikaw hindi nagsabi sa akin:: kailangan mong baguhin ang iyong ideya para sa akin
 
 #### Saligan 5: ang isang layunin ng Pamamaraan ay umuosbong para sa pagbubukod ng katotohanan na galing sa kabulaanan
 
-Kung ikaw ay kumokontra sa akin, subali't ipapahayag ko sayo na kilangan kang sumang-ayon sa akin dahil ako ay palaging tama, ito ay malamang na hindi ikaw nasisiyahan sa mahigpit kong pagpapaliwanag. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Kung ikaw ay kumokontra sa akin, subali't ipapahayag ko sayo na kilangan kang sumang-ayon sa akin dahil ako ay palaging tama, ito ay malamang na hindi ikaw nasisiyahan sa mahigpit kong pagpapaliwanag. Kung ikaw ay nagbigay ng mga magandang katiwiran kung bakit ako ay mali, subali't paulit-ulit kong pinapanatiling ako ay tama dahil ako ay *palaging*tama, ang aming pakikipag-ugnayan ay maari na tawaging hindi naging kategorya bilang isang pagdedebate.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Ang saglit na nagbibigay ako ng ilang uri ng layunin na kriterya para sa pagtukoy ng katotohanan galing sa kabulaanan, ako ay tumatanggap na ang katotohanan ay mas higit pa sa isang bagay na ideya.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Ito ay hindi ibigsabihin na ang aking kriterion sa layunin ay *lohikal* -pwede kang mag-sangguni sa isang teksto na relihiyon, halimbawa. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
 
 #### Premise 6: Truth Is Better Than Falsehood
 
