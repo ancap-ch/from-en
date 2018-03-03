@@ -60,7 +60,7 @@ Kung ako ay pipili para makipagdebate sayo, kailangan kong tanggapin na kami ay 
 
 Dahil ang mga tao ay hindi pwedeng makipag-komunikasyon ng psychically, lahat ng mga pagtatalo ay dapat kasama ang mga ebidensya na mga pandama. Ang pagsusulat ay nangangahulugan lang ng paningin; ang pagsasalita ay kailangan ng pang-dinig; ang ay kailangan ng panghawak. Kaya naman kahit anung proposiyon na nakadepende sa kawalang-bisa ng mga pandama ay awtomatikong makakasira sa sarili.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Saligan 3: ang lenggwahe ay may kakayahan para sa mga ibigsabihin
 
 Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
 
