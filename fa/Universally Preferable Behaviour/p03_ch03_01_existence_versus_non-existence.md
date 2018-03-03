@@ -1,54 +1,54 @@
-## Existence Versus Non-Existence
+## وجود در برابر عدم وجود
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+غیر وجود را به عنوان آن چیزی تعریف می کنیم که جرم یا انرژی نداردو یا اثرات جرم یا انرژی را از خود نشان نمی دهد. مانند روابط قابل تشخیص مثل جاذبه زمین.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+خداوند جرم یا انرژی ندارد و یا اثرات آن را نشان نمی دهد-خداوند در حقیقت به هیچ طریقی، شکل و ساختاری تحقیق پذیر نیست؛ حتی از طریق حواس و یا از طریق عقلانیت.
 
-Thus if I say, “God exists,” what I am really saying is:
+بنابراین اگر بگویم، "خداوند وجود دارد"، چیزی که واقعا دارم می گویم این است:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*آنچه که وجود دارد باید قابل تشخیص باشد؛ خداوند قابل تشخیص نیست، اما وجود دارد-بنابراین، آنچه که وجود ندارد، وجود دارد.*"
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+به عبارت دیگر، با گفتن"خداوند وجود دارد" من یک تضاد غیرقابل تحمل ایجاد کرده ام. من "وجود" را به عنوان "عدم وجود تعریف کرده ام که همانند این حس را برای تعریف "زندگی" به عنوان "ماده بی جان" یا "تخته سنگ" در برابر "مقابل تخته سنگ" یا "مربع" در برابر"دایره" است.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+به همین ترتیب ، اگر من یک جهان متناوب ایجاد کنم که در آن " عدم وجود برابر با وجود" و "تناقض در برابر انسجام" و "حقیقت در مقابل دروغ" و "غیر منطقی برابر عقلانیت" است؛ پس آنچه که من واقعا انجام داده ام، ایجاد یک قلمرو به نام "خطا" است. هرچیزی که صحیح نیست را در آن قرار دهید و این قلمرو را به عنوان مکانی که در آن "خطا برابر است با حقیقت" تعریف کنید. [^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+البته ، مردم این"جهان متناوب" را ایجاد نمی کنند تا حقیقت را در جهان خود بی اعتبار کنند؛ بلکه برای نجات آنچه که در راقعیت اشتباه است و آن را درست می نامند، آن را ایجاد می کنند. برای مثال، هیچ کس ادعا نمی کند که "خدا ممکن است در جهان دیگری وجود داشته باشد، همانند که شما نمی توانید ادعا کنید که خدا وجود ندارد" از آنجا که *من* در آن جهان دیگر ممکن است وجود نداشته باشد، بنابراین نمی توانید ادعا کنید که من در اینجا وجود دارد.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+آنها همچنین ادعا دارند که به درستی به استدلال:"در جهان دیگر، شما ممکن است با من موافق باشید که خدا وجود ندارد که شما را به یک ملحد تبدیل می کند." به درستی پاسخ ندهید.[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+اگر اظهارات معتبر در مورد واقعیت می تواند بی نهایت مخالف باشد زیرا برخی از حوزه های خیالی مانند "خطا برابر است با حقیقت" آنها را نامعتبر می کند، پس چیزی که حقیقتا گفته می شود این است:" هیچ اظهار مثبتی درباره ی واقعیت نمی تواند معتبر باشد." -هرچند ما به عنوان فیلسوفان، آنقدر خردمند هستیم که می دانیم این بیانیه خود تضادی است. زیرا این بیانیه ی مثبتی است که در نظر گرفته می شود درست است که می گوید هیچ عبارت مثبتی درست نیست. اگر هیچ چیز نمی تواند درست یا غلط باشد، -حتی این بیانیه-در نتیجه، هیچ اظهار نظری درباره ی هیچ چیزی نمی تواند انجام شود. با استفاده از کلمات، زبان انگلیسی ، مفاهیم قابل فهم- هیچ چیز هیچ معنایی ندارد، زیرا در این "جهان متناوب" ، چنین سخنان ساختاری ممکن است کاملا بی معنا باشد. اگر چیزهایی که می توانند در این جهان متناوب درست باشند برروی بیانیه ی که ما در این جهان ایجاد می کنیم، پس واضح است که هرخلاف آن با شر نیز درست است، که به این معناست که هیچ بیانیه ای نمی تواند درباره ی هیچ چیزی ایجاد شود. زیرا دقیقا بخش مخالف آن ها نیز می تواند به همان میزان درست باشد.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+حقیقت درست از اظهار"خطا برابر است با حقیقت" ، حشو احمقانه جمله "تهی برابر تهی است" می باشد.
 
-### The "Alternate Universe" In Human Society
+### "جهان جایگزین" در جامعه بشری
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+دلیل آنکه ما زمان زیادی را برای نظریه ی "جهان جایگزین" صرف کرده ایم این است که ارتباط مستقیمی با جامعه بشری دارد و برای "توجیه" بزرگترین اشتباهاتی که میان ما انجام شده است، استفاده می شود.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+ما در تجربه شخصی خود، می دانیم که قتل اشتباه است.در تلاش از طریق این نظریه که قتل از نظر اخلاقی در موارد بالا اشتباه است ، من به شدت تردید دارم که هر کسی شوکه شده بود که اعتقادات اخلاقی خود را از طریق استدلال انتزاعی دقیق UPBتایید کند. با این حال در این بخش، به طور رسمی مجاز است که شما واقعا شوکه شوید.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+بزرگترین جهش در فهم علمی به اصطلاح "نظریه های یکپارچه" است. انیشتن چند دهه تلاش کرد تا نظریه ی میدان یکپارچه را بسازد؛ و نظریه های فیزیک که نیرو های قوی و ضعیف را متحد می کنند، الکترومغناطیس ، گرانش و غیره گریزان باقی می مانند.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+با این حال، UPB به عنوان چهارچوب، نه تنها توهمات اخلاقی ما را در سطوح شخصی، فلسفی و جهانی توجیه می کند-بلکه پیامدهای عمیق و تکان دهنده ای برای جامعه انسانی نیز دارد.
 
-#### UPB In Action
+#### UPB در عمل
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+چهارچوب UPB گزاره های اخلاقی را با درخواست اینکه آنها به صورت داخلی پایدار هستند و از نظر زمان، مکان و افراد جهانی هستند، معتبر می کند.
 
-If we accept UPB, we must also accept the following corollary:
+اگر ما چهارچوب UPB را قبول کنیم، باید موارد زیر را نیز قبول کنیم:
 
-- Moral propositions are independent of costume.
+- گزاره های اخلاقی خارج از صحنه و لباس.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+این به آن معناست که یک مرد نمی تواند خصوصیات اخلاقی خود را با لباسش عوض کند. عمل تغییر لباس کسی، طبیعت پایه آن شخص را عوض نمی کند. بنابراین، قوانین اخلاقی متضاد هم نمی تواند براساس لباس هایی که کسی می پوشد، معتبر باشد.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+سربازان، البته ، لباس هایی را که نسبت به مردم عادی متفاوت است می پوشند، ممنوع است که مردم عادی مرتکب قتل شوند؛ با این حال، سربازان نه تنها *اجازه دارند* که به قتل برسانند، بلکه از نظر اخلاقی ، برای قتل افراد ستایش نیز می شوند.
 
-Let’s take another example.
+بیایید مثال دیگری بزنیم.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+سرقت از نظر اخلاقی اشتباه است، همانطور که در بالا دیدیم. این از نظر اخلاقی برای همه ی مردم، در هر زمان و مکان و تحت هر شرایطی، اشتباه است. از آنجا که سرقت، گرفتن اموال شخص دیگری، بدون اجازه، است، در نتیجه، مالیات، به صورت جهانی و برای همیشه، یک شرارت اخلاقی است. مالیات بر اساس تعریف گرفتن اجباری اموال شخص بدون رضایت است. زیرا مالیات به شروع استفاده اجبار برای مصادره ی اموال یک فرد بستگی دارد.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+آنچه که ما دولت می نامیم، نمونه دیگری از این ناحیه تهی است؛ جایی که بالا، پایین است، سیاه، سفید است. حقیقت، دروغ است و شر، خوب است.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+جامعه دقیقا به درجه ای از علم و عقل پیشرفت کرده است که جستی بزرگ از شخصی بودن به جهانی بودن، و تخریب هر "نواحی تهی" غیر منطقی در هر راهی را ایجاد می کند. علم دقیقا به درجه ای پیشرفت کرده است که بی خردی خدا و "حقایق" غیر عینی را رد می کند. پزشکی دقیقا تا درجه ای پیشرفت کرده است که تاثیر نماز یا آیین خالی را به جای تکیه بر دلیل و شواهد، رد می کند. فلسفه و- جامه بشری به طور کلی- دقیقا به درجه ای خواهد رسید که "اخلاق مربع-دایره ای" غیر منطقی نظریه های اخلاقی و ساکن را رد می کند.
 
 ### Government
 
