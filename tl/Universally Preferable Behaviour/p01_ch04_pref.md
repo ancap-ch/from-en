@@ -76,11 +76,11 @@ Kung ikaw ay kumokontra sa akin, subali't ipapahayag ko sayo na kilangan kang su
 
 Ang saglit na nagbibigay ako ng ilang uri ng layunin na kriterya para sa pagtukoy ng katotohanan galing sa kabulaanan, ako ay tumatanggap na ang katotohanan ay mas higit pa sa isang bagay na ideya.
 
-Ito ay hindi ibigsabihin na ang aking kriterion sa layunin ay *lohikal* -pwede kang mag-sangguni sa isang teksto na relihiyon, halimbawa. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+Ito ay hindi ibigsabihin na ang aking kriterion sa layunin ay *lohikal* -pwede kang mag-sangguni sa isang teksto na relihiyon, halimbawa. Gayunpaman, kahit na ito ay gagawin ko, ako ay tumatanggap pa rin na ang katotohanan ay isang bagay na dumating sa independiyente ng isang personal na badya - na ang isang layunin na pamamaraan na umuosbong para sa pagbubukod ng katotohanan galing sa kabulaanan.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### Saligan 6: ang katotohanan ay mas mabuti kesa sa kabulaanan
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Kung ako ay magsasabi sayo na ang daigdig ay patag, at ang sagot mo ay ang mundo ay hindi patag, subali't bilog, samakatwid ay ganap na tinatanggap mo ang patunay na ang katotohanan at ang kabulaanan ay parehas na umuosbong na talaga, at ang katotohanan ay mas magaling kesa sa kabulaanan.
 
 If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
