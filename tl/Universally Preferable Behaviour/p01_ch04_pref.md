@@ -52,7 +52,7 @@ Sa mga ibang salita, kung gusti mong makapunta sa ibabaw ng isang bundok, ang ha
 
 Kung pillin ko na makipagdebate, lubos kong tinatanggap ang malawak na iba't ibang mga lugar na nagkakahalaga ng paggugulan ng ilang mga panahon para alisan ng laman dito.
 
-#### Premise 1: We Both Exist
+#### Saligan 1: parehas kaming magkaroon
 
 If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
 
