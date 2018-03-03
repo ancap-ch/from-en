@@ -100,7 +100,7 @@ Sa parehas na paraan, ang katotohanan ay hindi lamang "mas magaling" kesa sa mal
 
 Kung ako ay makipag-diskusyunan na ang mga tao ay walang pananagutan sa kanilang mga pagkilos, ako ay nahuli sa isang kabalintunaan, na kung saan ay ang tanong ng *kung ako o hindi ako ang may pananagutan sa aking argumento, at gayundin kung o hindi ako ang may pananagutan para sa iyong tugon*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Kung ang aking pagpapaliwanag na ang mga tayo ay *walang* pananagutan para sa kanilang pagkilos ay totoo. hindi ako ang mananagot sa aking argumento at hindi ka rin mananagaot sa iyong tugon. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
 
 Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
 
