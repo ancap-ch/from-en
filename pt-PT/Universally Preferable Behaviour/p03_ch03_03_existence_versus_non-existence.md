@@ -108,13 +108,13 @@ Assim, se é mau que os seres humanos violem posso, logicamente, criar uma categ
 
 *claro que não*.
 
-### Majority Rule
+### Regra da Maioria
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Será que posso criar uma regra moral que diga: "a maioria deve ser capaz de fazer o que quiser"?
 
-Of course I can, but it will never be valid or true.
+É claro que posso, mas nunca será válida ou verdadeira.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Somente os *indivíduos* agem - a "maioria" nunca o faz. Se as regras morais podem mudar quando um certo número de pessoas se junta, então o CUP é continuamente violado.
 
 If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
