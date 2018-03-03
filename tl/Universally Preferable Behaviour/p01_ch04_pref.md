@@ -94,11 +94,11 @@ Sa esensya, tsaka, ang pagtatalo ay kailangan sa isang layunin na pamamaraan, sa
 
 Itong kagustohan para sa pang-unibersal na katotohanan ay hindi kagustuhan ng isang *digri*, subali't ng *mabuti*. Ang isang shortcut na nagbabawas sa iyong oras sa pagbibiyahe sa pamamagitan ng kabiyak ay dalawang beses ang bilang mas magaling na bilang sa isang mas mahabang daan - subali't parehas at *walang hanggan na kanais-nais* sa pagbibiyahe sa ganap na hindi tamang direksyon.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Sa parehas na paraan, ang katotohanan ay hindi lamang "mas magaling" kesa sa mali - ito ay *walang hanggan na kanais-nais*, o kailangan.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Saligan 8: ang mga tao ay may pananagutan para sa kanilang mga pag-askyon
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Kung ako ay makipag-diskusyunan na ang mga tao ay walang pananagutan sa kanilang mga pagkilos, ako ay nahuli sa isang kabalintunaan, na kung saan ay ang tanong ng *kung ako o hindi ako ang may pananagutan sa aking argumento, at gayundin kung o hindi ako ang may pananagutan para sa iyong tugon*.
 
 If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
 
