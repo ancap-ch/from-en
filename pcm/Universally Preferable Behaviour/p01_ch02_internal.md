@@ -4,7 +4,7 @@ If I be architect, and I submit plan wey dem go use build a house, d first hurdl
 
 Similarly, if an engineer submit plan wey dem go use do bridge, d first criterion wey dem must satisfy be say weda d bridge to stand or e no go. Oda considerations lyk shey e go long, aesthethics and dem rest go only apply if d bridge don dey ground ni.
 
-E go dey illogical - make we no mention highly unproductive - to dey build bridge from dem random materials, make we dey use random “calculations,” so dat we fit see if e go stand or e no go stand. Since physical laws dey consistent and e dey universal, e dey relatively easy make we figure out weda d bridge go stand *before* we build am or e no go stand.
+E go dey illogical - make we no mention highly unproductive - to dey build bridge from dem random materials, make we dey use random “calculations”, so dat we fit see if e go stand or e no go stand. Since physical laws dey consistent and e dey universal, e dey relatively easy make we figure out weda d bridge go stand *before* we build am or e no go stand.
 
 Na two ways wey we fit use sabi d viability of d bridge before we build am. D first na to look for d inconsistencies wey dey internal wey dey within d premises and calculations wey support d viability of d bridge. If dem significant errors dey for d calculations wey dey justify d weight wey d bridge fit carry, den d bridge go maybe be over-designed or make im be under-designed. If d mathematical calculations no correct and com giv result for strength wey be minus fifty tons per square foot for any part of d bridge, den for sure e no fit stand - or, if e stand, im viability na just by accident, dem no fit do am again.
 

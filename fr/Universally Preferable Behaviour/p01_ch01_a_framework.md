@@ -77,7 +77,7 @@ La vérité peut donc être mesurée selon deux critères centraux:
 1. La vérité est une mesure de la corrélation entre les idées dans notre esprit et la cohérence de la rationalité, qui dérive directement du comportement cohérent de la matière et de l'énergie dans le monde réel.[^2]
 2. La vérité peut également être mesurée comme la corrélation entre les idées dans notre esprit et la nature et le comportement de la nature et de l'énergie dans le monde réel.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist”, that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
 #### Empiricism Versus Rationality
 

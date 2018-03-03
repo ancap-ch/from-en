@@ -4,7 +4,7 @@ Now wey we don understand how arguments wey dey make us loose be,  we go fit tur
 
 Preferences, wey be how we dey prefer, dey d centre of any methodology, wey be how things dey run, dey claim say e dey talk true – value of d words wey dem dey yan. The science method, for instance, na wetin dem know say how e dey prefer for reasons wey dey consistent and wetin based on observation or experience, na wetin dem born am with am.
 
-For dis sense, “preferable” nor mean “e kind of better” but wetin dey “required.” If you wan live, e dey preferred everywhere for d world say make you comot yourself  say you wan eat arsenic. If you wish to know real truth about reality, e dey preferred everywhere for d world say your theories wey you get go dey consistent for inside  and dem go fit verify d experience wey fit follow am. “Wetin dem prefer d world” kon  translate to “wetin nor too dey required,” but we go keep d word “preferable” take differentiate between those optional things for human being nor get perfection and  those physical things wey nor get perfection and e nor dey optional like gravity.
+For dis sense, “preferable” nor mean “e kind of better” but wetin dey “required”. If you wan live, e dey preferred everywhere for d world say make you comot yourself  say you wan eat arsenic. If you wish to know real truth about reality, e dey preferred everywhere for d world say your theories wey you get go dey consistent for inside  and dem go fit verify d experience wey fit follow am. “Wetin dem prefer d world” kon  translate to “wetin nor too dey required”, but we go keep d word “preferable” take differentiate between those optional things for human being nor get perfection and  those physical things wey nor get perfection and e nor dey optional like gravity.
 
 As e dey similar, if theories of correct good behaviuor go be true, then dem go must at least dey consistent for inside and outside. For other word, theory wey be good correct behaviour wey nor clear and e dey against eself nor go fit be true – and theory of good correct behaviour wey nor clear and e dey against eself and e near wetin dem prefer everywhere for d world nor go fit be true.
 
@@ -12,7 +12,7 @@ So, for correct good behaviour, just as e dey for science, mathematics, engineer
 
 ### Preferences And Existence
 
-If I say “I like ice cream,” na only one word get different meaning for that sentence. As e clear, “I” dey exist, since I dey express wetin I prefer personally. As e take clear, “ice cream” also dey exist for reality. Anyhow as e be, d word “like” dey give many problems.
+If I say “I like ice cream”, na only one word get different meaning for that sentence. As e clear, “I” dey exist, since I dey express wetin I prefer personally. As e take clear, “ice cream” also dey exist for reality. Anyhow as e be, d word “like” dey give many problems.
 
 How we dey prefer no dey exist for reality as we take wan get am. If you dey very curious, you go follow me normal around and record every time I eat ice cream, and e go fit give good basis for  experience to take establish wetin I prefer. E dey possible say e fit exist, anyhow as e be, say na fact say I be masochist, and kon dislike ice cream well well, kon prefer to suffer myself with taste wey nor good – and I kon confuse you by to dey claim say I  like am.
 
@@ -26,7 +26,7 @@ When we put this simple fact for correct good arguments, we go come with better 
 
 ### Wetin we prefer and Arguments
 
-As we dey remember d analysis wey  we don do before about arguments wey dey make us loose, we go fit easily understand the kind back and front way wey d statement be: “wetin we prefer nor dey exist.” As we get am say every action wey human being dey do – including statements wey dey philosophical – na wetin dey chosen to prefer to any other actions wey dey possible, to dey argue say wetin we prefer nor dey exist need “how we prefer am” to take argue say wetin we prefer nor dey exist, for which d statement  dey contradict itself. To dey argue say wetin we prefer nor dey exist na exactly d same as to dey argue say language nor dey exist. Na argument wey go totally dey win us.
+As we dey remember d analysis wey  we don do before about arguments wey dey make us loose, we go fit easily understand the kind back and front way wey d statement be: “wetin we prefer nor dey exist”. As we get am say every action wey human being dey do – including statements wey dey philosophical – na wetin dey chosen to prefer to any other actions wey dey possible, to dey argue say wetin we prefer nor dey exist need “how we prefer am” to take argue say wetin we prefer nor dey exist, for which d statement  dey contradict itself. To dey argue say wetin we prefer nor dey exist na exactly d same as to dey argue say language nor dey exist. Na argument wey go totally dey win us.
 
 Since e dey impossible to act without I nor express wetin I prefer – either closely or openly – anyone who dey act accept d premise say wetin dey preferred dey exist. So, e dey impossible to argue say d existence of wetin dem prefer without you nor   accept say wetin dem prefer dey exist.
 
@@ -41,7 +41,7 @@ D word wey we dey try relate na: some ofd things wey we prefer fit be wetin we d
 
 When I say some of wetin we prefer fit be wetin we dey pursue, I nor mean say na everybody dey follow dis same thing all time. If I wan argue say breathing na wetin dem prefer to pursue, examples of those wey don hang themselves commit suicide  go counter wetin I talk. If I wan argue say to dey eat na wetin dem dey prefer to pursue, examples of those wey dey hunger strike and those wey get problem of wetin to eat go counter wetin I talk. 
 
-So,when I talk about wetin dem prefer everywhere for d world, I dey talk about wetin people go prefer, not wetin dem dey always prefer. To use one science analogy, to take truly understand d universe, make people use science method – dis one nor mean say dem dey always do so, since as e clear say billions of people dey consult olden days tori than scince wey dey today for “answers.” E nor get any other way to get truth about d universe without science, but people dey free to change “truth” as “mistake,” and relax their mind with nonsense wey dey physical.
+So,when I talk about wetin dem prefer everywhere for d world, I dey talk about wetin people go prefer, not wetin dem dey always prefer. To use one science analogy, to take truly understand d universe, make people use science method – dis one nor mean say dem dey always do so, since as e clear say billions of people dey consult olden days tori than scince wey dey today for “answers”. E nor get any other way to get truth about d universe without science, but people dey free to change “truth” as “mistake”, and relax their mind with nonsense wey dey physical.
 
 As e be, if one man wan cure infection, make he take antibiotics than to go perform Aztec rain dance. To prefer to take antibiotics than to do the rain dance na wetin dey everywhere for d world, since to dey dance nor go fit cure infections. Now, although say one madman dey wey fit cure infection imself by to dey dance , e still dey preferred everywhere for d world say if d man wan cure infection, he must take antibiotics.
 
@@ -67,7 +67,7 @@ Like as Premise Two be, since all d arguments need language, any relation wey re
 
 If you correct me for one mistake wey I make, you dey closely accept d fact say e go dey better for me to correct my own mistake. Wetin you prefer for me to correct my mistake nor be personal felling, but open to catch and for everywhere.
 
-You  nor go say to me: “Make you change your opinion to my own because I go prefer am,” but rather: “Make you correct your opinion because e dey purposely incorrect.” My mistake nor arise from say I nor agree with you, but e come a result of my dodge from one purpose standard of truth. Your argument say make I correct my false opinion relax on value of truth wey dey to accomplish – that is, truth dey preferable everywhere for d world to error, and truth na wetin dem wan accomplish everywhere for d world.
+You  nor go say to me: “Make you change your opinion to my own because I go prefer am”, but rather: “Make you correct your opinion because e dey purposely incorrect”. My mistake nor arise from say I nor agree with you, but e come a result of my dodge from one purpose standard of truth. Your argument say make I correct my false opinion relax on value of truth wey dey to accomplish – that is, truth dey preferable everywhere for d world to error, and truth na wetin dem wan accomplish everywhere for d world.
 
 #### Premise 5: Objective Methodology Dey Exist To Separate Truth From Falsehood
 

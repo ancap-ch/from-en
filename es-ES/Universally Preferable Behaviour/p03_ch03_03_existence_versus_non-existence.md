@@ -1,8 +1,8 @@
 ### Governments And Religion
 
-La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión.”
+La idea de que nacer crea un contrato con una agencia ficticia, lo que en términos prácticos lo convierte a uno en casi un esclavo para algunos individuos, es un algo que tienen en común la religión y el Estado - y otra, una agencia mucho más personal, de la cual hablo en mi primer libro “Sobre la verdad: La tiranía de la Ilusión”.
 
-Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*.” Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
+Cada vez que un sacerdote dice “Obedece a Dios”, lo que en realidad está diciendo es: “Obedéceme*a mí*”. Al no existir Dios, cualquier mandamiento que el sacerdote diga que viene de parte de Dios, en realidad viene de su parte. “Dios” es meramente una entidad ficticia utilizada para atemorizarlo conceptualmente a fin de conseguir que sea un subordinado en el mundo real, con respecto a individuos reales, para que voluntariamente ceda su dinero, tiempo y recursos.
 
 Es mucho más eficiente para los exploradores que sus esclavos consideren que la esclavitud es una virtud, ya que eso disminuye sustancialmente el costo de de mantenerlos bajo control. Si yo puedo convencerlo de que evitar servirme es algo malo y ser mi esclavo es algo virtuoso, entonces no necesitaré contratar tantos matones para que lo intimiden, lo controlen y le roben.
 
@@ -116,7 +116,7 @@ Of course I can, but it will never be valid or true.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+If it is moral for Bob and Doug to rape Jane because they have “outvoted her”, what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
 Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
 

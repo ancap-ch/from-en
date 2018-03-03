@@ -42,7 +42,7 @@ E clear sey shark nor fit stop im sef to kill fish, since na eating machine with
 
 So now we don end up with de logical problem of "inevitable evil". If e bad to kill fish, but sharks dem nor fit avoid to kill fish, den sharks dem be " inevitable evil". Howeva as we don talk before, where person nor get choice – where e nor dey possible to avoid de thing – gud or bad nor fit dey dia. So de proposition of "e bad to kill fish" dey try to define universal morality for make non-moral situations follow inside, wey nor fit standa logically.
 
-Also, na de word "fish" still be de problem for d formulation, since e dey too specific to dey universal. De correct UPB reformulation na say "na bad thing for people to kill living things.”
+Also, na de word "fish" still be de problem for d formulation, since e dey too specific to dey universal. De correct UPB reformulation na say "na bad thing for people to kill living things”.
 
 If, somehow e dey bad to kill, we go face de problem of " inevitable evil" again. e nor get any human being wey fit exist without killing oda living things dem like virus, plant and even animal dem. So dem define  "human life" as "evil". But if dem define human life as evil, den e nor fit be evil wen avoidance nor dey possible.
 
