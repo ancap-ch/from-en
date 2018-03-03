@@ -40,7 +40,7 @@ Dahil wala tayong kasundaun ng isang buo, tumpak at rasyonal na balangkas ng pag
 
 Samakatuwid ang morality ay nananatili, relatibo tungo sa modernong syensya, gaya ng ginawa ng midibal na "astonomiya" sa modernong astronomiya - isang lupain ng imahinasyong mitolohiya, pinagtibay ng pagkukwento, pagbabanta, pamimilit at pananamantala - na siyang aktibong humahadlang sa tunay na pag-unlad tungong katotohanan.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+Ang "halimaw" na ito ng relatibong etika ay lumilitaw dahan-dahan sa ating itaas, sinisila tayo, binibigyang katwiran ang pagbubuwis, pagpapakulong, pagsensura at mga digmaan. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
 As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
