@@ -98,7 +98,7 @@ Kung si bob, doug at jane ay kumuha ng isang "boto" sa maging o hindi ito mabuti
 
 Bakit hindi?
 
-Mabuti, ang UPB ay hindi kinikilala ang tunay na pagtitipon-tipon, dahil ang "karamihan" sa isang malamang na sabi-sabing tanda: ito ay hindi maaalis sa tunay, anuman ang hihigit pa sa "diyos" o "pamahalaan" ginawa. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Mabuti, ang UPB ay hindi kinikilala ang tunay na pagtitipon-tipon, dahil ang "karamihan" sa isang malamang na sabi-sabing tanda: ito ay hindi maaalis sa tunay, anuman ang hihigit pa sa "diyos" o "pamahalaan" ginawa. Kaya upang makuha na ang consepto ng "nakararami" na mayroon anumang klase ng kabutihan ang itatayo bilang maging ganap na walang bisa – ito ay gaya ng sinabi para "ang sariling bayan" ay maaaring isang babae, o isang maaring umupo sa mundo "upuan."
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
