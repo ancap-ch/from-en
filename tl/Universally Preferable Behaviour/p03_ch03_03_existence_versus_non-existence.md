@@ -100,7 +100,7 @@ Bakit hindi?
 
 Mabuti, ang UPB ay hindi kinikilala ang tunay na pagtitipon-tipon, dahil ang "karamihan" sa isang malamang na sabi-sabing tanda: ito ay hindi maaalis sa tunay, anuman ang hihigit pa sa "diyos" o "pamahalaan" ginawa. Kaya upang makuha na ang consepto ng "nakararami" na mayroon anumang klase ng kabutihan ang itatayo bilang maging ganap na walang bisa – ito ay gaya ng sinabi para "ang sariling bayan" ay maaaring isang babae, o isang maaring umupo sa mundo "upuan."
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Sa sinabi na "ang karamihan"ay may katuwiran o may mga katangian na kung saan derektang sumasalungat at mangatwiran o katangian ng bawat isa na ganun din na sumasalungat sa makatuwiran sa mga alituntunin, dahil anumang sabi-sabing pagpapangkat ay iisa ang patunay sa wastong pagpapakilala ng bawat taong may mga katangiaan. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
 Of course not.
 
