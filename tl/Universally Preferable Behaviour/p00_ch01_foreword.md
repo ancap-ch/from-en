@@ -30,7 +30,7 @@ Sa pagkaintelektwal, wala ng mas mataas na pusta sa mundo. Ang kabiguan nating m
 
 Sa ibang pamamaraan, ang pusta ay mas lalong tumataas.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ang tumaas na impormasyon ng daloy ng internet ay nagtataas ng mga hinala ng makabagong henerasyon na kung tawagin ay ang "kabutihan" ay higit - kumulang - lamang na serbisyo-pansariling mga kwentong-diwata ng mga mapagkunwaring mga nakatatanda. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
 “Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
 
