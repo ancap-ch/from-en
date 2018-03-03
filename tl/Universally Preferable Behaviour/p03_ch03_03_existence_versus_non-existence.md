@@ -84,7 +84,7 @@ Dito nang lahat makikita ang parehong mga problema na gaya ng nasa itaas. Si bob
 
 Sa parehong paraan, kung ang isang tao ay kumuha ng kanyang konseptong tinatawag ay "ang pamahalaan" na nagbibigay katwiran sa kanya na pagkuha sa aking mga pag-aari, pagkatapos ako ay maaring kumuha ng aking konseptong tinatawag "ang kontra pamahalaan" katwiranan ang aking *pagpapanatili* sa aking mga ari-arian, at ang lahat ay kapwang pantay pantay "tunay" na nasa amin ang mga katarungan.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Kapag ang naniningil ng buwis ay kumuha ng kanyang konsepto na ang tawag ay "ang pamahalaan" isang mapangatwiran lamang para sa pagkuha ng *aking* pag-aari, at hindi ang aking pamamalagi sa mga ito, na ang lahat ay walang maramihan nanauuna. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
 #### "ang karamihan" at UPB
 
