@@ -8,19 +8,19 @@
 
 درندا ہمیشہ امر ہوتا ہے، اسی لیے گاوں والے اس ظالم حکمران سے چھٹکارا پانے کی امید نہیں رکھ سکتے. درندا کبھی عقلمند نہیں ہوتا اور انہیں سوداگری کی کوی خواہش نہیں ہوتی، اور اس لئے باتچیت اور بحث کرنا ممکن نہیں.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+مایوس امیدواروں کی ایک ہی امید ہے کہ کوئی ایسا شخص ظاہر ہو جو اس درندے کو مات دے سکے.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+لامحالہ، ایک آدمی آگے بڑھا جس نے کسی کو بھی موقع نہیں دیا اور سب کو متاثر کیا. وہ ایک مستحکم لڈکا، ایک موچی کا بیٹا، ایک نان ساز شاگر-اور کبھی کبھی آوارہ بھی ہے.
 
-This book is the story of my personal assault on just such a beast.
+یہ کتاب میری انفرادی حملے کی کہانی ہے جس میں ایک ایسا درندا ہے.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+یہ"درندا" ایک اعتبار ہے جس کا حقیقی ،عقلی، لامذھبی، سائینسی و اخلاقی نظام واضع کرنا ناممکن ہے. یہ "جانور" ایک فریب نظر ہے جس کے اخلاقیات بتوں اور حکومتی کے غیر منتقلی دلدل میں ہمیشہ کے لیے کھو جا نے چاہیے ،صرف معمولی وجوہات کے لیے مجبور کر نا، لیکن ہمیشہ کی طرح منطقی واجبیت اور واضح تعریف کی کمی محسوس ہوئی. یہ جانور ایک تصور پیدا کرنے کی طاقت ہے جو جوہر، ہماری بڈی اور گہری خوشی، اس زات پات اور لامذھبی سیانوں کو ایک طرف چھوڑ کر، اور دھول میں جانوروں کے پنجے پڈنے کے لیے چھوڑ دیا، جہاں سیاستدان اور پادری - اور والدین نے نمایش اور استحصال کیا. یہ جانور ایک وھم ہے جو، والدین کی طنزیھ نظم کے بغیر، بتوں اور سرکاری بندوقوں سے دھماکانا، ہم عاقل اور اچھے دونوں ایک ساتھ نہیں ہوسکتے.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+اس وحشی درندے نے بہت سے بہادر سپاہیوں، سکرات سے افلاطون، افلاطون سے اگسٹین، اگسٹین سے ہیومن، ہیوم سے کانت، کانت سے رینڈ.
 
-The cost to mankind has been enormous.
+بنی نوع انسان کی قیمت بہت ہی بے اندازہ ہے.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+چونکہ ہم کائناتی اصول اخلاقیات کے عقلی نظام کو واضع کرنے میں ناکام رہے، ہمیں مزہبی ڈراونی کہنیاں اپنے بچوں پر عائد کرنے پر مجبور کیا گیا، یا بندوق، حوالات، اور فوج دیتے جو چھوٹا اجارہ تھا جہاں بیجان سرکاری محاسب تھے جو اپنے آپ کو " ایک ریاست" کہتے تھے
 
 Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
 
