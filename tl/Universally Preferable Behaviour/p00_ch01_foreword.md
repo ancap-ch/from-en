@@ -14,15 +14,15 @@ Hindi maiiwasan, isang lalaki ang sumulong na ginulat ang lahat dahil siya ay lu
 
 Ang aklat na ito ay ang aking kwento ng personal na pag-atake sa nasabing halimaw.
 
-Ang halimaw ay ang paniniwala na imposibleng bigyang kahulugan ang isang makatwiran, rasyonal, sekula, at syentipikong etikal na sistema. Ang halimaw ay ang ilusyon na ang moralidad ay dapat magpakailanman mawala sa irasyonal na latian ng mga diyos at mga pamahalaan, na pinagtitibay ng praktikal na dahilan lamang, subalit magpakailanmang kulang sa lohikal na pagbibigay-katwiran at malinaw na pagbibigay-kahulugan. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+Ang halimaw ay ang paniniwala na imposibleng bigyang kahulugan ang isang makatwiran, rasyonal, sekula, at syentipikong etikal na sistema. Ang halimaw ay ang ilusyon na ang moralidad ay dapat magpakailanman mawala sa irasyonal na latian ng mga diyos at mga pamahalaan, na pinagtitibay ng praktikal na dahilan lamang, subalit magpakailanmang kulang sa lohikal na pagbibigay-katwiran at malinaw na pagbibigay-kahulugan. Ang halimaw ay ang pantasya na ang kabutihan, ating lubos na ligaya, ang ating pinakamalalim na kasiyahan, ay dapat ipagsantabi ng mga sekular na matatanda, at maiwan sa alikabok upang kalmutin, pagtawanan at pagsamatalahan ng mga pulitiko at mga pari - at mga magulang. Ang halimaw ay ang pamahiin na, kung walang pagbabatikos ng mga magulang, pananakot ng mga diyos o ng mga baril ng pamahalaan, hindi tayo magiging rasyonal at mabuti.
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+Ang halimaw ay nagpabagsak ng maraming mga bayani, mula kay Socrates tungo kay Plato tungo kay Augustine tungo kay Hume tungo kay Kant tungo kay Rand.
 
-The cost to mankind has been enormous.
+Ang dulot sa sangkatauhan ay lubhang napakalaki.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+Dahil tayo nananatiling walang mabigay kahulugan sa isang rasyonal na sistema ng unibersal na moralidad, tayo ay napilitang magpasakit ng mga relihiyosong kababalaghan sa ating mga anak, o magbigay ng baril, kulungan at sandatahan sa maliit na monopolyo ng mga walang kaluluwang mangongontrol na tinatawag ang kanilang mga sarili na "ang estado."
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+Dahil ang tinatawag nating "etika" ay nananatiling personal at *kultural* lamang, hindi natin maiwasan na umasa sa pang-aapi, takot at karahasan upang pagtibayin ang panlipunang tuntunin. Dahil ang etika ay kulang sa rasyonal na basehan ng syentipikong pamamaraan, ang "moralidad" ay nananatiling nagpaparumi sa panliping digmaan ng mga madugong alamat, bawat gang ay ubos-lakas na naglalabanan para sa pagkontrol ng katapatan ng mga tao sa "kabutihan."
 
 We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
 
