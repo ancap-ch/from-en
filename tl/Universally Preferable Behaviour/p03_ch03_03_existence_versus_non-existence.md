@@ -82,7 +82,7 @@ Ang sinasabing: "ikaw ay dapat na sumunod sa akin dahil ito ang ipinag-uutos ng 
 
 Dito nang lahat makikita ang parehong mga problema na gaya ng nasa itaas. Si bob ay may sinabi kay doug: "ikaw ay nararapat na bigyan ko ng layter, dahil ang aking gawa-gawang kaibigan ang nagsasabi sayo upang." ang likas, na si doug ay sumagot: "ikaw ay dapat na hindi aasa sa akin para sa iyong layter, dahil sa *aking* gawa-gawang kaibigan na ibinabawal kona ikaw." kung sakaling si bob's "ay may mga kautusan" na wasto, pagkatapos si doug's "ay mayroong mga kautusan" ay nagkaparehong wasto, at gayon paman ikinakansela na ang bawat isa na umalis.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Sa parehong paraan, kung ang isang tao ay kumuha ng kanyang konseptong tinatawag ay "ang pamahalaan" na nagbibigay katwiran sa kanya na pagkuha sa aking mga pag-aari, pagkatapos ako ay maaring kumuha ng aking konseptong tinatawag "ang kontra pamahalaan" katwiranan ang aking *pagpapanatili* sa aking mga ari-arian, at ang lahat ay kapwang pantay pantay "tunay" na nasa amin ang mga katarungan.
 
 If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
