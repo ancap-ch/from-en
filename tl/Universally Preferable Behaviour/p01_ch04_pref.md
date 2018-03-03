@@ -82,11 +82,11 @@ Ito ay hindi ibigsabihin na ang aking kriterion sa layunin ay *lohikal* -pwede k
 
 Kung ako ay magsasabi sayo na ang daigdig ay patag, at ang sagot mo ay ang mundo ay hindi patag, subali't bilog, samakatwid ay ganap na tinatanggap mo ang patunay na ang katotohanan at ang kabulaanan ay parehas na umuosbong na talaga, at ang katotohanan ay mas magaling kesa sa kabulaanan.
 
-Kung ipapahayag ko sayo na gusto ko ng sorbetes na tsokolate, at ipapahayag mo sa akin na gusto mo ng banilya, ito ay hindi mangyayari na "mapatunayan" na ang banilya ay mas magaling kesa sa tsokolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+Kung ipapahayag ko sayo na gusto ko ng sorbetes na tsokolate, at ipapahayag mo sa akin na gusto mo ng banilya, ito ay hindi mangyayari na "mapatunayan" na ang banilya ay mas magaling kesa sa tsokolate. Sa saglit na itama mo ako sa pagtukoy sa layunin *ng mga katotohanan*, ikaw ay tumatanggap na ang mga katotohanan umuosbong na layunin, at ang layunin ng katotohanan ay *higit na mas mabuti sa lahat* ng paksa na kamalian.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Saligan 7: ang mapayapang pagdedebata ay ang pinakamagadang paraan para mairesolba ang mga hindi-pagkakasundo
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Kung ipapahayag ko sayo na ang daigdig ay patag, at at ikaw ay kumuha ng baril at pinutok mo sa akin, ito ay mejo magiging isang halimbawa ng isang produktibong pagdedebate. Tunay, ang aming hindi pagkakaunawaan ay "naresolba" -subali't dahil isa lamang sa atin ang natitira sa pagtayo hanggang sa huli.
 
 If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
 
