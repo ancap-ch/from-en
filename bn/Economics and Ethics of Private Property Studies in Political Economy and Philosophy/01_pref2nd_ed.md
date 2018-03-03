@@ -1,11 +1,11 @@
-## Kata Pengantar untuk Edisi Kedua
+##  দ্বিতীয় সংস্কারনণের ভূমিকা 
 
-The first edition of *The Economics and Ethics of Private Property*, published in 1993, has been out of print for several years. For some time and from many sides I have been urged to prepare a new edition, and Llewellyn Rockwell has graciously offered the Ludwig von Mises Institute to serve as its publisher.
+১৯৯৩ সাল থেকে গোপন ব্যক্তিগত সম্পত্তি এবং *অর্থনৈতিক সম্পত্তির প্রাথমিক সংস্করণটি কয়েক বছর ধরে ছাপা হয়েছে। কিছু সময় এবং অনেক পক্ষের জন্য, আমি একটি নতুন সংস্করণ তৈরির জন্য জোর দিচ্ছিলাম, এবং Llewellyn Rockwell তার প্রকাশক হিসাবে Ludwig von Mises ইনস্টিটিউট হিসেবে তার সেবাটি উপস্থাপন করেন।
 
-*The Economics and Ethics of Private Property* was dedicated to my teacher and mentor, Murray N. Rothbard, with whom I had been closely associated during the last ten years of his life, first as a visiting scholar at the Brooklyn Polytechnic Institute in New York City and after 1986 as a colleague at the University of Nevada, Las Vegas. The year 2005 marks the tenth anniversary of Rothbard’s death. Thus, it seemed a most appropriate time to honor Murray anew with this second edition.
+*অর্থনীতি ও ব্যক্তিগত সম্পত্তি ডেডিকেটেড শিক্ষক ও পরামর্শদাতা এর এথিক্স, Murray N. Rothbard, যারা প্রথম নিউ ইয়র্ক সিটির মধ্যে ব্রুকলিনের পলিটেকনিক ইনস্টিটিউটে একটি গেস্ট বিজ্ঞানী হিসেবে এবং ১৯৮৬ পরে বিশ্ববিদ্যালয়ের একজন সহকর্মী হিসাবে ছিল,যাদের সাথে আমি তার জীবনের গত ১০ বছর ঘনিষ্ঠভাবে জড়িত ছিলাম, লাস ভেগাস বছর ২০০৫ Rothbard এর মৃত্যুর ১০তম বার্ষিকী চিহ্নিত করা হয়। সুতরাং, এটি Murray কে একটি রাজস্ব হিসাবে দ্বিতীয় সংস্করণ প্রকাশ করার সবচেয়ে উপযুক্ত সময় বলে মনে হয়।
 
-The present edition of *The Economics and Ethics of Private Property* is enlarged. It adds four articles written after the original publication of the book but related thematically to its central subject matter Of the economic and ethic rationale of the institution of private property—chapters 6, 7, 8, and 15. The opportunity of a new edition has also been used to make significant editorial improvements and revisions.
+ব্যক্তিগত সম্পত্তি ব্যক্তিগতীকরণ এবং নীতিশাস্ত্র বর্তমান সংস্করণে আরও যোগ করা হয়েছে। এই বইয়ের মূল মুদ্রণের পরে, এটি চার অধ্যায় অন্তর্ভুক্ত - ৬,৭,৮, এবং ১৫ কিন্তু তাদের সব মূল সম্পত্তি *অর্থনীতি এবং নৈতিকতা সম্পর্কিত। নতুন সংস্করণের জন্য এটি উন্নত এবং সংশোধন করার জন্য ব্যবহার করা হয়েছে।
 
 Hans Hermann Hoppe
 
-*Las Vegas, Nevada, 2005*
+*লাস ভেগাস, নেভাদা, ২০০৫*
