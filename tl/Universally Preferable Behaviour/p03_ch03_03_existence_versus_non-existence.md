@@ -100,9 +100,9 @@ Bakit hindi?
 
 Mabuti, ang UPB ay hindi kinikilala ang tunay na pagtitipon-tipon, dahil ang "karamihan" sa isang malamang na sabi-sabing tanda: ito ay hindi maaalis sa tunay, anuman ang hihigit pa sa "diyos" o "pamahalaan" ginawa. Kaya upang makuha na ang consepto ng "nakararami" na mayroon anumang klase ng kabutihan ang itatayo bilang maging ganap na walang bisa – ito ay gaya ng sinabi para "ang sariling bayan" ay maaaring isang babae, o isang maaring umupo sa mundo "upuan."
 
-Sa sinabi na "ang karamihan"ay may katuwiran o may mga katangian na kung saan derektang sumasalungat at mangatwiran o katangian ng bawat isa na ganun din na sumasalungat sa makatuwiran sa mga alituntunin, dahil anumang sabi-sabing pagpapangkat ay iisa ang patunay sa wastong pagpapakilala ng bawat taong may mga katangiaan. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Sa sinabi na "ang karamihan"ay may katuwiran o may mga katangian na kung saan derektang sumasalungat at mangatwiran o katangian ng bawat isa na ganun din na sumasalungat sa makatuwiran sa mga alituntunin, dahil anumang sabi-sabing pagpapangkat ay iisa ang patunay sa wastong pagpapakilala ng bawat taong may mga katangiaan. Kung ako ay magsasabi ng "mamal" ay mainit ang dugong dumadaloy sa buhay na nilalang, siguro ako ay lohikal kabilang ang tatlong plastik ng plaminggo sa mga uri ng "mamal"?
 
-Of course not.
+Siyempre hindi.
 
 Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
 
