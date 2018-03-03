@@ -66,7 +66,7 @@ Gaya ng saligan dalawa, dahil sa lahat ng mga argumento ay dapat ay kailangan ng
 
 #### Saligan 4: ang pagtatama ay kailangan sa panglahatang mga kagustuhan
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Kung itatama mo ang aking isang mali na ginawa ko, ikaw ay tanging tumatanggap ng katotohanan na ito ay nagiging *mas magaling* para sa akin na itama mo ang aking kamalian. Ang iyong kagustuhan para sa akin para iwasto ang aking mga kamalian ay hindi pansarili, subali't layunin, at panglahatan.
 
 You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
