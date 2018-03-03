@@ -94,9 +94,9 @@ Bumalik ang isang mula sa nahuhuling oras papunta sa silid ni bob at doug, at at
 
 Ngayon kaya mayroong tatlong tao sa silid, ang lahat ay pwedeng tumingin sa "karamihan sa mga patakaran" ay may prinsipyo.
 
-Kung si bob, doug at jane ay kumuha ng isang "boto" sa maging o hindi ito mabuti na halayin si jane, tayo ay ibig na ang lahat ay umurong sa gaya ng isang di-makatarungan at kasamaan sa saligan. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Kung si bob, doug at jane ay kumuha ng isang "boto" sa maging o hindi ito mabuti na halayin si jane, tayo ay ibig na ang lahat ay umurong sa gaya ng isang di-makatarungan at kasamaan sa saligan. Malinaw, na kahit si jane ay "labas na sa pagboto," lahat ay nais na hindi isaalang-alang ang naging resultang panghahalay sa naging pagbabago ng isang magandang pag-uugali sa mabuting pagkilos.
 
-Why not?
+Bakit hindi?
 
 Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
 
