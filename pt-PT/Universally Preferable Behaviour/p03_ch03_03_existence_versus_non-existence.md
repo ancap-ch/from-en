@@ -100,13 +100,13 @@ Por que não?
 
 Bem, o CUP não reconhece a realidade das associações, já que a "maioria" é uma simples etiqueta conceitual; Na realidade, não existe, mais do que os "deuses" ou "governos". Portanto, afirmar que o conceito de "maioria" tem qualquer tipo de posição moral é totalmente inválido - é como dizer que "a Pátria" pode engravidar uma mulher, ou que nos podemos sentar na palavra "cadeira"
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Dizer que "a maioria" tem direitos ou atributos que contradizem directamente os direitos ou atributos de qualquer indivíduo, também contradiz os princípios racionais, já que qualquer associação teórica só é validada pela identificação exacta de características individuais. Se eu disser que os "mamíferos" são criaturas vivas de sangue quente, posso incluir, logicamente, três flamingos plásticos na categoria de "mamífero"?
 
 Claro que não.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Assim, se é mau que os seres humanos violem posso, logicamente, criar uma categoria chamada "a maioria" e depois argumentar que para *estes* seres humanos, a violação agora é moralmente boa?
 
-Of *course* not.
+*claro que não*.
 
 ### Majority Rule
 
