@@ -32,7 +32,7 @@ i. **Licensed Rights**nangangahulugan na ang karapatan ay ipagkakaloob sa iyo sa
 
 h. **Lincensor** nangangahulugan na ang indibidwal(s) o mga entity ng karapatan sa ilalim ng pampublikong lesensya.
 
-i. **NonCommercial** nangangahulugan na hindi ukol sa nilaan o direkta patungo sa komersyal sa bentahi ng gantimpala sa pananalapi. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. **NonCommercial** nangangahulugan na hindi ukol sa nilaan o direkta patungo sa komersyal sa bentahi ng gantimpala sa pananalapi. Para sa mga layunin ng publikong Lesensya na ito, ang palitan ng lesensya sa Materyal at iba pang materyal ay paksa sa karapatang magpalathala at kahalintulad sa karapatan mula sa digital na pagbahagi ng paly kahalintulad sa nangangahulugan na NonCommercial ang nakalaan na ito ay walang pambayad sa pananalapi sa koneksyon kasama ang palitan.
 
 j. **Share** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
 
