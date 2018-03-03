@@ -4,7 +4,7 @@ Nibayi, a ti ni oye ijiyan ti on bori ara re, a lelosi ibeere iferanju.
 
 Iferanju wa laarin oye Kankan, o si man tumo iyi otito ninu imuwa fun ifiyesi. Ona sciencii, ni apeere, ni ale tunmo pelu iferanju fun lilo ede ati imule pelu empirically fun sciecii, ibi naani ti o ba fe mo otito ti o mule nipa iwa mata ati energy, onaa sciencii loye kalo.
 
-Ni ona yi,”mimu” o tunmo si “odarajulo” sugbon o tunmo si “nilo”. Ti o ba fe gbelaye, ose gbalagbaye wipe o gbodo je owo to kun pelu arseniki. Ti o ba fe mo otito ti o mule nipa iri, osegbalagbaye wipe awon oye re gbodo maaolodeede, o si gbodo ni imule empirically. “gbigbalagbaye” nigbana yipada si “imulo ti o ni oye” sugbon a maa gba oro “iferanu” sile lati mo iyato laarin oun eniyan ti a le she lai ni ati oun ayika ti a o le shee lai ni bi giraviti.
+Ni ona yi”,mimu” o tunmo si “odarajulo” sugbon o tunmo si “nilo”. Ti o ba fe gbelaye, ose gbalagbaye wipe o gbodo je owo to kun pelu arseniki. Ti o ba fe mo otito ti o mule nipa iri, osegbalagbaye wipe awon oye re gbodo maaolodeede, o si gbodo ni imule empirically. “gbigbalagbaye” nigbana yipada si “imulo ti o ni oye” sugbon a maa gba oro “iferanu” sile lati mo iyato laarin oun eniyan ti a le she lai ni ati oun ayika ti a o le shee lai ni bi giraviti.
 
 Bakannaa, ti oye as aba le ni imule, nigbana won gbodo ma lo deedee ninu ati nita. Ni oro miran, oye asa ti o ba tako arare o le ni imule sibeenaa, oye asa ti o ba tako ori ti a ni lona empirically, ti o si sunmo iferanju agbalaye kole ni imule.
 
@@ -69,7 +69,7 @@ Nijora si premise keji, niwon igba ti gbogbo ijiyan nilo ede, imuwa fun ifesi ka
 
 Ti o ba tomi sona fun ashishe ti mo she, o ngba otito ninu wipe yo dara fun mi lati to ara mi sona, kin shit un ashishe mi she. Ife re fun mi lati tun ashishe mi she o ni imule, sugbon o ni oye o si wa kiri aye.
 
-Ole so fun mi “kpe  ko da ero re pada si temi toripe mo nife re” sugbon dipo,” oye ko tun ero re she tori ko to”. Ashishe mi otayo lati ijiyan pelu re, sugbon bi esi oye mi lori oye to mule. Ijiyan re wipe kin tun ashishe mi she sun lori iyi otito-bi apeere. Ayan otito ju ashishe lo, otito shi ni imule kiri aye.
+Ole so fun mi “kpe  ko da ero re pada si temi toripe mo nife re” sugbon dipo”, oye ko tun ero re she tori ko to”. Ashishe mi otayo lati ijiyan pelu re, sugbon bi esi oye mi lori oye to mule. Ijiyan re wipe kin tun ashishe mi she sun lori iyi otito-bi apeere. Ayan otito ju ashishe lo, otito shi ni imule kiri aye.
 
 #### Premisi 5: ogbon we lati she iyato laarin otito ati aijeotito
 

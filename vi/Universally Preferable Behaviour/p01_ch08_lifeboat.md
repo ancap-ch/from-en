@@ -1,73 +1,73 @@
-## Lifeboat Scenarios
+## Kịch bản cứu nạn
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+Việc UPB chỉ xác nhận các lý thuyết đạo đức nhất quán hợp lý không có nghĩa là không có những trường hợp khả dĩ mà chúng ta có thể chọn cách hành động để *chống lại* các nguyên tắc của lý thuyết ấy.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Ví dụ, nếu chúng ta chấp nhận giá trị phổ quát của quyền sở hữu, thì đập vỡ cửa sổ và nhảy vào căn hộ của ai đó khi không có sự cho phép sẽ bị coi là xâm phạm quyền sở hữu của chủ nhà. Tuy nhiên, nếu chúng ta treo mình trên cột cờ bên ngoài cửa sổ một căn hộ, và đối mặt với cái chết nếu rơi xuống, rất ít người trong chúng ta sẽ không đá vào cửa sổ và nhảy tới chỗ an toàn thay vì tuân thủ theo lợi ích của một nguyên tắc trừu tượng.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+Trong thế giới thực, phải là một người cực kỳ nhẫn tâm mới có thể buộc tội người phá hủy cửa sổ để cứu mạng sống của anh ta - cũng như phải cực kỳ vô trách nhiệm mới từ chối trả tiền bồi thường cho cửa sổ bị vỡ nói trên. Nguyên tắc “khả năng tránh được” là trung tâm ở đây - một người đàn ông treo mình trên cột cờ không có lựa chọn nào khác buộc phải đá cửa sổ. Một người đàn ông đột nhập vào nhà của bạn để ăn cắp rõ ràng có khả năng để tránh xâm phạm tài sản của bạn - anh ta không bị dồn vào, mà là người *khởi xướng* của sự vi phạm. Điều này cũng tương tự như sự khác biệt giữa người phụ nữ có ngoại tình, so với người phụ nữ có chồng nhốt cô ấy trong tầng hầm.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Điều này không có nghĩa là phá cửa sổ để cứu mạng sống bạn không sai. Nhưng sai trái là hầu như tất cả chúng ta sẽ chọn cách phạm tội hơn là phải chết. Nếu tôi sắp chết đói, tôi sẽ ăn cắp một quả táo. Điều này không có nghĩa là việc tôi ăn cắp quả táo là *đúng* - mà là tôi sẽ thực hiện nó - và phải chấp nhận hậu quả của việc ăn cắp của tôi.[^10]
 
-### Grey Areas
+### Vùng xám
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Thực tế một số “vùng xám” nhất định tồn tại trong lĩnh vực đạo đức thường được sử dụng như một sự biện minh cho chủ nghĩa tương đối . Vì thỉnh thoảng có một số điều vẫn chưa rõ ràng (ví dụ ai khởi xướng sử dụng bạo lực) và vì không thể định nghĩa các nguyên tắc khách quan và chính xác cho mọi tình huống khả dĩ, kết luận thường được rút ra là không có cái gì có thể *từng* được coi là chắc chắn và rằng không có quy tắc khách quan nào tồn tại cho *mọi* tình huống.
 
-This is false.
+Điều này là sai.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Tất cả những người hiểu lý lẽ nhận ra rằng sinh học là một khoa học có căn cứ, dù cho có một số động vật được sinh ra với đột biến “one-off”. Nếu có một con chó có thể được sinh ra với năm chân không có nghĩa là “giống chó" trở thành một phạm trù hoàn toàn chủ quan. Nếu một loài côn trùng cụ thể nào đó khó để phân biệt không có nghĩa là không có sự khác biệt giữa bọ cánh cứng và cá voi.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Vì một số lý do tệ hại, vài nhà trí thức rất lấy làm vui từ sự suy đồi của các tiêu chuẩn đạo đức, có giá trị và hợp lý. Điều này có thể là bởi vì các nhà trí thức thường hưởng lợi ích từ các cá nhân thuộc tầng lớp tham như các chính trị gia, linh mục và các vị vua - hay có thể một người thường trở thành kẻ trí thức để tạo ra sự biện minh cho hành vi vô đạo đức của mình. Bất kể lý do là gì, hầu hết các nhà tư tưởng hiện đại đã trở thành một loài “chống nhà tư tưởng”, điều mà rất kỳ quặc. Nó cũng giống như việc tồn tại một tầng lớp đông đảo các “nhà sinh học” , người dành cả cuộc đời của mình cho rằng khoa học sinh học là vô lý. Nếu khoa học sinh học là vô lý, thì trở thành nhà sinh vật học là vô nghĩa, cũng như một người vô thần đấu tranh mạnh mẽ để trở thành một linh mục.
 
-### Shades Of Grey
+### Sắc thái của màu xám
 
-In the realm of “grey areas,” there are really only three possibilities.
+Trong lãnh thổ của “các khu vực xám”, thực sự chỉ có ba khả năng.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Không cái gì gọi là khu vực xám.
+2. Một số vùng xám nhất định tồn tại.
+3. Tất cả kiến thức là một khu vực màu xám.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Rõ ràng, lựa chọn đầu có thể dễ dàng loại bỏ. Lựa chọn ba cũng khá dễ loại bỏ. Tuyên bố “tất cả kiến thức là một khu vực xám” là một mệnh đề tự diệt, như chúng ta đã thấy ở trên, giống như “tất cả các tuyên bố là dối trá” cũng tự diệt.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Vì vậy, chúng ta phải chấp nhận lựa chọn thứ hai, đó là có một số vùng xám nhất định tồn tại, và chúng ta biết rằng chúng có màu xám so với các vùng không phải màu xám, ôxi  tồn tại trong không gian, và dưới nước, nhưng không ở dạng hoặc lượng mà con người chúng ta có thể tiêu thụ. *Mức độ* oxy hóa là một vùng xám, nghĩa là "ít hơn so với nhiều hơn”; câu hỏi về việc liệu con người có thể hít thở nước hay không là hoàn toàn rõ ràng.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Một nhà khoa học bị bắt bởi kẻ ăn thịt người có thể giả vờ là một pháp sư để trốn thoát - điều này không có nghĩa là chúng ta phải loại bỏ các phương pháp khoa học là hoàn toàn vô giá trị.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Tương tự, có thể có các tình huống cực đoan trong đó chúng ta có thể chọn thực  hiện các hành động vô đạo đức, nhưng những tình huống như vậy không làm mất hiệu lực tính khoa học của đạo đức, cũng như những trường hợp đột biến nào đó không làm mất hiệu lực khoa học sinh học. Trên thực tế, khoa học sinh học đang tiến triển rất nhiều thông qua việc chấp nhận và kiểm tra các đột biến - và tương tự, khoa học về đạo đức chỉ được củng cố thông qua việc kiểm tra các “kịch bản cứu nạn”, miễn là việc kiểm tra như vậy không bị theo đuổi một cách ám ảnh. 
 
-### Universality And Exceptions
+### Sự phổ quát và Ngoại lệ 
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Trước khi chúng tôi bắt đầu sử dụng khuôn khổ các hành vi thích hợp phổ quát để kiểm tra một số niềm tin đạo đức phổ biến, chúng ta phải giải quyết vấn đề “ngoại lệ”.
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Sử dụng “kịch bản cứu nạn” như trên, kết luận thường được rút ra rằng “cái tốt” chỉ đơn giản là *cái “tốt” cho cuộc sống của một cá nhân*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Trong các tranh luận đạo đức, nếu tôi được hỏi liệu tôi có ăn cắp một trái táo thay vì chết đói - và tôi nói “có” - lập luận sau đây là chắc chắn được thực hiện:
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1. Mọi người sẽ ăn cắp trái táo thay vì chết đói
+2. Vì vậy tất cả mọi người thường thích ăn cắp táo hơn là chết đói.
+3. Vì vậy, ăn cắp táo được *ưa thích phổ quát* hơn là chết đói.
+4. Vì vậy, sự sống còn được ưu thích phổ quát hơn quyền sở hữu
+5. Vì vậy, điều tốt cho cá nhân là tiêu chuẩn đạo đức tối ưu.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Điều này đã được sử dụng làm cơ sở cho một số học thuyết đạo đức và cách tiếp cận, từ Nietzsche đến Rand. Sự ưa chuộng của mỗi cá nhân đối với sự sống còn được chuyển thành các học thuyết đạo đức trong đó đặt sự sống còn của cá nhân ở trung tâm.[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Loại “chủ nghĩa khoái lạc sinh học” này có thể là mô tả về "động cơ sinh tồn”, nhưng nó chỉ đúng trong chừng mực nào đó vì nó mô tả những gì mọi người thực sự *làm*, không phải là những gì họ *nên* làm.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Nó cũng giới thiệu chủ nghĩa chủ quan hoàn toàn phi khoa học đối với vấn đề đạo đức. Ví dụ, nếu ăn cắp thực phẩm khi bạn đói được cho phép, vậy bạn có thể ăn cắp bao nhiêu thực phẩm ? Bạn phải đói đến mức nào? Bạn có thể ăn cắp thực phẩm không bổ dưỡng không? Thực phẩm phải dinh dưỡng đến đâu để biện minh cho việc ăn cắp nó? Bao lâu sau khi ăn cắp một bữa ăn, bạn có thể ăn cắp một bữa ăn khác? Bạn có được phép ăn cắp thức ăn thay vì tìm việc làm hoặc kêu gọi từ thiện?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Ngoài ra, nếu tôi có thể kiếm được nhiều tiền hơn khi là sát thủ hơn là chủ tiệm, tôi có không nên theo đuổi bạo lực như một nghề nghiệp hay không? Nó chắc chắn tăng khả năng sống còn *của tôi*... và vân vân. 
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Như chúng ta có thể thấy, sự giới thiệu về “điều gì là tốt cho con người trong trừu tượng - hay điều mà hầu hết mọi người làm - là cái được ưa chuộng phổ quát” sẽ phá huỷ chính khái niệm đạo đức như là một học thuyết nhất quán hợp lý và  thay thế các động cơ sinh học đơn thuần như sự biện minh cho hành vi. Đó là một lời giải thích về hành vi chứ không phải là một học thuyết luân lý được đề xuất.
 
-### The Purpose And The Dangers
+### Mục đích Và Những Nguy hiểm
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Với khoan dung kiên nhẫn của bạn, một câu hỏi cuối cùng cần được giải quyết trước khi chúng ta đi sâu vào một định nghĩa và kiểm tra các mệnh đề đạo đức phù hợp với khuôn khổ UPB như thế nào. Bởi vì phần khó khăn nhất nằm ở phía trước, chúng ta nên tạm dừng một chút và tự nhắc nhở bản thân vì sao chúng ta đặt ra tất cả những rắc rối và khó khăn này.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Nói cách khác, trước khi chúng ta đi sâu vào, rất đáng phải đặt ra câu hỏi: “Tại sao phải bận tâm?”
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Tại sao phải bận tâm định nghĩa các học thuyết đạo đức? Những người chắc chắn tốt không cần chúng, và những người xấu không tham khảo chúng. Mọi người sẽ làm những gì họ thích, và chỉ bịa ra biện minh khi cần thiết sau khi thực tế - tại sao *bận tâm* thuyết giảng cho mọi người về đạo đức?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Tất nhiên, sự nguy hiểm luôn tồn tại rằng một người vô đạo đức sẽ tấn công bạn vì mục đích cá nhân của anh ta. Cũng có thể là, mặc dù cuộc sống sạch sẽ và lành mạnh, bạn có thể bị ung thư trước khi qua đời - cái đầu không làm cho khoa học đạo đức thành không liên quan, cũng như cái sau làm cho khoa học y học, dinh dưỡng và tập thể dục không liên quan. Một tác động rõ ràng của một khoa học đạo đức hợp lý phải là để giảm bớt khả năng *tổn hại* bởi các hành động phi đạo đức như trộm cắp, giết người và hãm hiếp và theo tiêu chí này chúng ta cũng sẽ đánh giá các quy tắc đạo đức được đề xuất trong Phần ba của cuốn sách này. 
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Dĩ nhiên, nếu tôi là một con người không đủ năng lực hay rối trí đến nỗi tôi đã sắp chết đói, việc tống giam có thể cải thiện tình hình của tôi. 
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche "ý chí đến quyền lực” và Rand “những gì phục vụ cuộc sống của con người là điều tốt lành”.

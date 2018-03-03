@@ -64,7 +64,7 @@ Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
 APA adalah *aturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan *.
 
-Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun.[^1]
+Umpamanya, jika APA saya: ”tepat waktu”, lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun.[^1]
 
 Jika "tepat waktu" adalah APA, maka ada kemungkinan dua orang mencapai-nya secara bersamaan - jika keduanya tepat waktu.
 
@@ -122,17 +122,17 @@ Jika perkosaan didefinisikan sebagai kejahatan, maka itu harus melibatkan *inisi
 
 Selain itu, jika perkosaan jahat, maka *bukan* memperkosa harus baik-dengan cara ini, dua laki-laki di kamar keduanya dapat moral pada saat yang sama, cukup dengan tidak memperkosa satu sama lain.
 
-Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan” dan ”tidak bermoral,” dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, definisi "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
+Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan” dan ”tidak bermoral”, dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, definisi "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
 
 Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang –misalnya, ketika ereksi tidak dapat dicapai –definisi ”pemerkosaan sebagai kejahatan” memecahkan masalah orang-orang yang secara tidak sadar tidak bermoral, yang menurut definisi tidak mungkin, karena kriteria penghindaran.
 
-Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi. ”perkosaan itu baik,” dan sebaliknya mengganti proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: ”hal itu bermoral untuk mengambil kesenangan sendiri, terlepas dari Kesenangan orang lain.”
+Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi. ”perkosaan itu baik”, dan sebaliknya mengganti proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: ”hal itu bermoral untuk mengambil kesenangan sendiri, terlepas dari Kesenangan orang lain”.
 
 Proposisi ini juga gagal dalam tes logis paling dasar UPB. Jika Bob percaya bahwa ia harus mengambil kesenangan sendiri dengan memperkosa Doug - terlepas dari ketidaksenangan Doug - maka Bob tidak dapat secara rasional meningkatkan preferensinya ke UPB.
 
 Jika setiap orang harus mengambil kesenangan mereka sendiri terlepas dari korbannya *ini*kesenangan, kemudian Bob tidak berhak untuk mencabuli Doug, karena meskipun Bob *memilih* untuk mencabuli Doug, Doug hampir dipastikan untuk *tidak* memilih untuk dicabuli. Jika setiap orang harus mengambil kesenangannya terlepas dari ketidaksenangan orang lain, maka tidak ada alasan yang rasional kenapa pilihan Bob untuk memperkosa Dough harus diutamakan dari pada pilihan Doug untuk tidak diperkosa, terlepas dari ketidaksenangan yang menolak untuk diperkosa akan menyebabkan Bob.
 
-Jadi Doug bisa mengatakan kepada Bob: ”hal ini secara moral baik untuk saya memperkosa anda, karena pilihan pribadi bisa ditegakkan dengan keras.”Bob, tentu, bisa menjawab: ”secara moral itu lebih baik untuk saya untuk melawan dengan keras serangan anda, karena pilihan pribadi saya untuk tidak diperkosa juga bisa ditegakkan dengan keras.”
+Jadi Doug bisa mengatakan kepada Bob: ”hal ini secara moral baik untuk saya memperkosa anda, karena pilihan pribadi bisa ditegakkan dengan keras”.Bob, tentu, bisa menjawab: ”secara moral itu lebih baik untuk saya untuk melawan dengan keras serangan anda, karena pilihan pribadi saya untuk tidak diperkosa juga bisa ditegakkan dengan keras”.
 
 Tentu saja, beberapa pemerkosa adalah filsuf, tapi sebagaimana kami sebutkan diatas, bahaya utama untuk manusia bukanlah kriminal individu, tapi irasional dan eksploitatif teori moral. Misalnya, penahanan akan dibenarkan melalui seruan untuk teori moral – dan penahanan menyebabkan lebih banyak orang akan diperkosa ketimbang kriminal pribadi yang bisa difikirkan. Jika teori moral yang membenarkan penahanan adalah salah, kemudian *mengoreksi* teori moral ini seharusnya menjadi perhatian tertinggi siapapun yang ingin mengurangi prevalensi pencabulan.
 
