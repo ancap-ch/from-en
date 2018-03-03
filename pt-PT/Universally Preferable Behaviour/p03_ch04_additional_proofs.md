@@ -1,26 +1,26 @@
-## Additional Proofs
+## Provas Adicionais
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Existem outras provas adicionais que podemos trazer para a questão do comportamento universalmente preferível.
 
-### The Free-Market Economy
+### A Economia De Mercado Livre
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Uma economia de mercado livre é, sem dúvida, o método mais eficiente, de organizar a produção e o consumo de bens e recursos dentro da sociedade. O seu sucesso material é inigualável na história humana, ou em todo o mundo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+A estrutura do CUP antecipa, valida e explica o motivo dos êxitos materiais de uma economia de mercado livre.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Em teoria, uma economia de mercado livre está baseada na aplicação de uma teoria universal dos direitos de propriedade. Contrariamente, o comunismo está baseado na rejeição explícita de uma teoria universal dos direitos de propriedade. Dado que provamos anteriormente que os direitos de propriedade universais são a única teoria moral válida, isso explica no nível mais fundamental porque motivo o comunismo é um desastre, enquanto que uma economia de mercado livre é tão materialmente produtiva.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Já que os seres humanos *têm de fato* direitos iguais de propriedade, qualquer sistema social que rejeite este direito está condenado ao fracasso - assim como qualquer projector de ponte que rejeite a realidade da gravidade, jamais será capaz de construir uma ponte que fique de pé.
 
-### The Scientific Method
+### O Método Científico
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+A lógica e a ciência são, de fato, metodologias que existem - juntamente com a moralidade - debaixo do guarda-chuva do CUP. Por outras palavras, a lógica e a ciência são ambas validadas pela estrutura do CUP.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Uma pergunta central que necessita ser respondida é: *porque será que o método científico é infinitamente superior a outras "metodologias" de adquisição do conhecimento, como o misticismo? *
 
-UPB answers this question.
+O CUP responde a esta pergunta.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Dado que qualquer metodologia para a adquisição do conhecimento deve ser universal, coerente e independente do tempo e do local, o método científico responde a esses requisitos, enquanto que o misticismo irracional e subjectivo é exactamente o oposto dos mesmos.
 
 ### Public Education
 
