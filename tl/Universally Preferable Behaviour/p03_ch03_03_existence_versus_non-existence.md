@@ -114,7 +114,7 @@ Pwede akong gumawa ng isang mabuting patakaran na sinasabi: "ang karamihan ba ay
 
 Syempre ako ay maari, pero ito ay hindi pa naging tunay o totoo.
 
-Tanging *tao* ang gumagawa – nang sa "karamihan" hindi kailanman. kung mabuting patakaran siguro ang babaguhin kung ang isang siguradong bilang ng tao ay magkakasama, at pakatapos ang UPB ay patuloy parin sa paglabag.
+Isang *tao* lamang ang gumawa – nang sa "karamihan" ay hindi kailanman ginawa. kung mabuting mga patakaran siguro ang babaguhin at kung ang isang siguradong bilang ng tao ay magkakasama, at pakatapos ang UPB ay patuloy parin sa paglabag.
 
 If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
