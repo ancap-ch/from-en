@@ -24,9 +24,9 @@ Dahil tayo nananatiling walang mabigay kahulugan sa isang rasyonal na sistema ng
 
 Dahil ang tinatawag nating "etika" ay nananatiling personal at *kultural* lamang, hindi natin maiwasan na umasa sa pang-aapi, takot at karahasan upang pagtibayin ang panlipunang tuntunin. Dahil ang etika ay kulang sa rasyonal na basehan ng syentipikong pamamaraan, ang "moralidad" ay nananatiling nagpaparumi sa panliping digmaan ng mga madugong alamat, bawat gang ay ubos-lakas na naglalabanan para sa pagkontrol ng katapatan ng mga tao sa "kabutihan."
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+Hindi tayo mabubuhay ng walang moralidad, subalit hindi natin mabibigyang kahulugan ang moralidad ng tumpak - samakatuwid tayo ay walang hanggang nahatulan sa hungkag na buhay ng magarang pagkukunwari, mapangutyang pangingibabaw, o relihiyosong pang-aalipin.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+Sa pagkaintelektwal, wala ng mas mataas na pusta sa mundo. Ang kabiguan nating magbigay kahulugan sa tumpak at rasyonal na tuntuning moral ay nagbubuwis ng daang-daang buhay, sa digmaan ng mga relihiyon at mga estado.
 
 In many ways, the stakes are getting even higher.
 
