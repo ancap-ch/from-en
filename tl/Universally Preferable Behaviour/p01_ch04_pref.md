@@ -62,9 +62,9 @@ Dahil ang mga tao ay hindi pwedeng makipag-komunikasyon ng psychically, lahat ng
 
 #### Saligan 3: ang lenggwahe ay may kakayahan para sa mga ibigsabihin
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Gaya ng saligan dalawa, dahil sa lahat ng mga argumento ay dapat ay kailangan ng lenggwahe, kahit anung proposisyon na nakasalalay sa saligan na ang lenggwahe ay walang ibigsabihin ay agad na disproven. Ang paggamit ng lenggwahe para magpaliwanag na ang lenggwahe ay walang ibigisbihin kagaya ng paggamit ng isang padalahan para makapagpadala ng isang mensahe na nakipagtalo na ang mga padalahan ay hindi kailanman nagpadala ng mga mensahe.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Saligan 4: ang pagtatama ay kailangan sa panglahatang mga kagustuhan
 
 If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
