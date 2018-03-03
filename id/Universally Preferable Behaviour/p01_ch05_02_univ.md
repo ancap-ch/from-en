@@ -26,66 +26,66 @@ Secara sinis, ini adalah:
 
 1. Semua organisme membutuhkan perilaku yang disukai secara keseluruhan untuk hidup.
 2. Manusia adalah makhluk hidup.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+3. Oleh karena itu semua makhluk hidup masih hidup karena praktik perilaku yang disukai secara universal.
+4. Oleh karena itu, setiap argumen melawan perilaku yang lebih baik secara universal memerlukan penerimaan dan praktik perilaku yang disukai secara universal.
+5. Oleh karena itu tidak ada argumen yang menentang adanya perilaku yang lebih baik secara universal dapat berlaku.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Karena metode ilmiah memerlukan pembuktian empiris, kita juga harus melihat kenyataan untuk mengkonfirmasi hipotesis kita - dan di sini validitas perilaku yang lebih baik secara keseluruhan yang didukung sepenuhnya.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Setiap manusia waras percaya pada aturan moral.   Konteks | Permintaan Konteks. Ada beberapa perselisihan tentang apa yang *mencakup* aturan moral, tetapi setiap orang pasti memiliki aturan moral sah - seperti banyak ilmuwan tidak setuju, tetapi semua ilmuwan menerima kesahihan metode ilmiah sendiri. Orang dapat berpendapat bahwa Bumi itu bulat dan tidak datar - yang sama dengan mengubah definisi moralitas - namun orang tidak dapat membantah bahwa Bumi tidak ada sama sekali - yang seperti berpendapat bahwa tidak ada perilaku universal yang lebih baik.
 
-Or:
+Atau:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Agar teori ilmiah menjadi valid, maka harus didukung oleh pengamatan empiris.   Konteks | Permintaan Konteks.
+2. Jika konsep "perilaku yang lebih disukai secara universal" berlaku, maka umat manusia harus percaya pada perilaku yang lebih baik secara universal.
+3. Semua pria percaya pada perilaku yang lebih baik secara universal.   Konteks | Permintaan Konteks.
+4. Oleh karena itu ada bukti empiris untuk mendukung kesahihan perilaku sebaiknya secara universal - dan keberadaan bukti seperti *menentang* usul yang sebaiknya secara universal perilaku tidak sah.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Argumen keempat untuk validitas perilaku yang lebih baik secara universal juga bersifat empiris. Karena manusia memiliki jumlah pilihan yang hampir tak terbatas untuk dibuat dalam kehidupan, untuk mengatakan bahwa tidak ada prinsip perilaku yang lebih baik secara universal adalah mengatakan bahwa semua pilihan itu sama (yaitu subjektif). Namun, semua pilihan sama dengan *bukan*, baik secara logika maupun melalui pengamatan empiris.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Misalnya, jika makanan tersedia, hampir semua manusia lebih suka makan setiap hari. Saat dingin, hampir semua manusia mencari kehangatan. Hampir semua orang tua memilih untuk memberi makan, memberi perlindungan dan mendidik anak-anak mereka.   Konteks | Permintaan Konteks. Ada banyak contoh pilihan umum di antara manusia, yang menunjukkan bahwa perilaku yang lebih baik secara keseluruhan melebihi dan merupakan bagian dari sifat manusia.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Seperti disebutkan di atas, tidak ada teori fisika yang valid yang bisa menyangkal fakta sederhana bahwa anak-anak dapat menangkap bola terbang - dengan cara yang sama, tidak ada teori etika yang valid yang dapat menolak bukti tak berujung untuk penerimaan UPB.
 
-Or:
+Atau:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Pilihannya hampir tak terhingga.
+2. Kebanyakan manusia memjadikan pilihan yang sangat mirip.
+3. Sebab itu tidak semua pilihan bisa sama.
+4. Oleh karena itu pilihan yang lebih baik secara universal harus benar.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Argumen kelima untuk keabsahan perilaku yang lebih baik secara universal adalah evolusioner.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Sebab semua kehidupan organik memerlukan perilaku preferensial untuk bertahan hidup, dan kita dapat mengasumsikan bahwa organisme yang membuat pilihan paling sukses adalah yang paling kerap dipilih untuk bertahan hidup.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Karena manusia adalah spesies yang paling sukses, dan organ manusia yang paling khas adalah pikirannya, itu pasti milik manusia *pikiran* yang telah membantunya paling banyak dalam penyusunan pilihan yang sukses. Pikiran itu sendiri, kemudian, telah dipilih sesukses dengan kemampuannya untuk menjadikan pilihan yang sukses. Karena pikiran manusia hanya ada sebagai *hasil* memilih perilaku yang lebih baik secara universal, dan perilaku yang lebih baik secara universal harus merupakan konsep yang benar.
 
-Or:
+Atau:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Organisme berhasil dengan melakukan tingkah laku universal yang lebih baik.
+2. Manusia adalah organisme yang sangat sukses.
+3. Oleh sebab itu manusia pasti telah bertindak paling sukses atas dasar perilaku yang lebih baik secara universal.
+4. Pikiran manusia adalah organ yang paling khusus.
+5. Oleh sebab itu, pikiran manusia pasti telah bertindak paling berhasil atas dasar perilaku yang lebih baik secara universal.
+6. Oleh sebab itu perilaku yang lebih baik secara universal harus benar.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+Kita bisa membawa lebih banyak argumen untuk mendukung keberadaan dan validitas UPB, tetapi kita harus menyelesaikan kasus kita dengan hal di atas, dan beralih ke pemeriksaan tentang sifat UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Pilihan Dan Tujuan
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Karena kita telah membuktikan keabsahan perilaku yang lebih baik secara universal, pertanyaan tentang moralitas sekarang bergeser. Karena moralitas *adalah* berlaku, teori apa yang bisa mengukur, mengklasifikasikan, menerangkan dan memprediksinya ?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Pertama-tama, kita harus ingat bahwa moral jelas-jelas bersifat ikhtiar. Setiap orang tunduk pada gaya berat dan membutuhkan makanan untuk hidup, tapi tidak ada manusia yang harus bertindak secara moral. Jika saya memperkosa, mencuri atau membunuh, tidak ada petir yang menyambar saya. Aturan moral, seperti metode ilmiah atau klasifikasi biologis, hanyalah cara mengatur fakta dan dasar rasional yang relatif terhadap realitas obyektif.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Kenyataan bahwa kepatuhan terhadap peraturan moral adalah *pilihan*, bagaimanapun, telah membingungkan banyak orang yang berpikir untuk percaya bahwa moralitas itu sendiri adalah *subjektif*. Tidak ada yang bisa lebih jauh dari kebenaran.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Organisme hidup adalah bagian dari kenyataan material, dan kenyataan material bersifat rasional dan objektif. Menerapkan teori moral adalah pilihan, tapi itu tidak berarti bahwa semua teori moral bersifat pokok. Metode ilmiahnya juga bersifat memilih, namun tidak subjektif. Menerapkan klasifikasi biologis bersifat memilih, namun biologi tidak subjektif. Pilihan bersifat memilih; konsekuensi tidak. Saya bisa memilih untuk tidak makan, tapi saya tidak bisa memilih untuk hidup tanpa makan. Saya bisa memilih untuk memenggal seseorang, tapi saya tidak bisa memilih apakah mereka bisa hidup tanpa kepala atau tidak. Moral bersifat opsional, namun *efek* pilihan moral dapat diukur dan obyektif.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Nah, karena moralitas adalah konsep yang benar, pertanyaan selanjutnya adalah: sampai tingkat atau tingkat apakah moralitas itu berlaku?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Seperti disebutkan di atas, tes pertama dari setiap teori ilmiah adalah *universalitas*. Hanya sebagai sebuah teori ilmu fisika yang harus berlaku untuk *semua* hal ini, sebuah teori moral yang menuntut menerangkan sebaiknya tindakan-tindakan manusia *harus berlaku untuk **semua**manusia*. Tidak ada teori moral yang bisa berlaku jika berpendapat bahwa tindakan tertentu benar *benar* di Syria, tetapi *salah* di San Francisco. Ia tidak boleh mengatakan bahwa orang sebuah *harus* melakukan X, tetapi orang B harus *Jangan* melakukan X. Ia tidak boleh mengatakan bahwa apa yang *Salah* kemarin adalah *benar* saat ini atau sebaliknya. Jika ya, itu salah dan harus disempurnakan atau dibuang.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+Untuk mengesahkan, teori moral apa pun juga harus melewati kriteria dari *konsistensi logis*. Karena perilaku materi adalah logis, konsisten dan dapat diprediksi, semua teori yang melibatkan materi - baik organik atau anorganik - juga harus logis, konsisten dan dapat diprediksi. Teori relativitas tidak dapat membantah bahwa kecepatan cahaya konstan dan tidak konstan pada saat bersamaan, atau kecepatan seratus delapan puluh enam ribu kilometer per detik, lima kilometer secara mendalam, dan juga berwarna hijau.
 
 However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness”, which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
 
