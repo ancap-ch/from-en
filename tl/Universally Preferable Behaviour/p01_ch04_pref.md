@@ -100,9 +100,9 @@ Sa parehas na paraan, ang katotohanan ay hindi lamang "mas magaling" kesa sa mal
 
 Kung ako ay makipag-diskusyunan na ang mga tao ay walang pananagutan sa kanilang mga pagkilos, ako ay nahuli sa isang kabalintunaan, na kung saan ay ang tanong ng *kung ako o hindi ako ang may pananagutan sa aking argumento, at gayundin kung o hindi ako ang may pananagutan para sa iyong tugon*.
 
-Kung ang aking pagpapaliwanag na ang mga tayo ay *walang* pananagutan para sa kanilang pagkilos ay totoo. hindi ako ang mananagot sa aking argumento at hindi ka rin mananagaot sa iyong tugon. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+Kung ang aking pagpapaliwanag na ang mga tayo ay *walang* pananagutan para sa kanilang pagkilos ay totoo. hindi ako ang mananagot sa aking argumento at hindi ka rin mananagaot sa iyong tugon. Gayunpaman, kung ako ay naniniwala na wala kang pananagutan para sa iyong pag-tugon, ito ay gagawin ng kaunting pang-unawa para maiusad ang isang argumento - ito ay magiging sapat kagaya ng pagpapaliwanag sa isang telebisyon.[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Samakatuwid, sa panimula, kung ako ay magsasabi sayo na wala kang pananagutan sa iyong mga pagkilos. ipinapahayag ko sayo na higit na mas mabuti sayo na maniwala na hindi mangyayari ang kagustuhan, dahil kung ikaw ay walang pagpipigil sa iyong mga pagkilos, ikaw ay hindi pwedeng pumili ng gustong kalagayan, i,e. ang katotohanan ay higit sa kabulaanan. Thus this argument, like the above arguments, self-destructs.
 
 [^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
 
