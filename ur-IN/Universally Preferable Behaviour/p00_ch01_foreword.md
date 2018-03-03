@@ -22,19 +22,19 @@
 
 چونکہ ہم کائناتی اصول اخلاقیات کے عقلی نظام کو واضع کرنے میں ناکام رہے، ہمیں مزہبی ڈراونی کہنیاں اپنے بچوں پر عائد کرنے پر مجبور کیا گیا، یا بندوق، حوالات، اور فوج دیتے جو چھوٹا اجارہ تھا جہاں بیجان سرکاری محاسب تھے جو اپنے آپ کو " ایک ریاست" کہتے تھے
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+چونکہ جس کو ہم "اصول" کہتے ہیں وہ محض موضوعی اور تہذیبی رہے، اور ہم نے لامحالہ دھمکانے، ڈر اور تشدد پر بھروسہ کرنا چھوڑ دیا جس کی وجہ سے سماجی حکومت لاگو ہوی. چونکہ اخلاقیات میں عقلی بنیاد اور سائنسی طریقے کی کمی تھی، "شرافت" شکار بن گئ جس میں دیوتاؤں کے قصے قبائلی خونی جنگ بن گئی، ہر کوئی گروہ اپنی طرف سے پوری کوشش میں لگا تھا کہ ہم ان لوگوں کی فضیلت کی تابعداری پر اختیار پا سکے
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+ہم اخلاقیات کے بغیر نہیں رہ سکتے، لیکن ہم حقیقی طور پر اخلاقیات کی توضیع نہیں کر سکتے-اس طرح سے ہم شاندار فریب، ترش دو کے غلبے یا دیندار غلامی کی خالی زندگی کو ہمیشہ کے لئے ملمت کر گئے.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+زہنی طور پر، دنیا میں کوئی اونچے مفادات نہیں. ہم مقصد اور عقلی اور اخلاقی قوانین کی وضاحت کرنے میں ناکام رہےجس کی وجہ سے ہزاروں لاکھوں انسانی جانیں گیی، ان مزہبی اور ریاستی جنگوں میں.
 
-In many ways, the stakes are getting even higher.
+اور بہت سے طریقوں میں، یہ مفادات اور بھی زیادہ بڈھنے لگے.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+انٹرنیٹ کی وجہ سے بڈھتی ہوی معلومات کے بہاؤ نے نیی نسل میں شک وشبہا بڈھا دیا ہے جسے" فضیلت" کہتے ہیں جو ان پرفریب بزرگوں کی خودمختار پریوں کی کہانیوں سے - کم یا زیادہ نہیں تھا. جن کو اختیار تھا انہوں نے متقیی جھوٹ بولے-اور ان عبادت کرنے والوں کی سازشیں - پہلے سے زیادہ صاف و شفاف ہیں.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"سچائی" کا خلاصہ دستکاری کے طور پر؛ "صفت" اختیار کے طور پر؛" نمق حلالی" غلامی کے طور پر؛ اور جس کو ہم "شرافت" بولتے ہیں اسے ایک بدترین کٹھ پتلیوں کا کھیل بولا گیا جو کمزور اور ڈرپوک لوگوں کو ان کی غلامی کروانے کی چال تھی.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+اس اندازے سے ایک نئی عدمیت نسل کا آغاز ہوا، جس طرح انیسویں صدی میں جرمنی نے پیر ایش کی. یہ انتہائی اضافے اپنے پرجوش حملے کو اس کے لئے موجود رکھتے ہیں جو کسی بھی قسم کے مطالبے پر یقین رکھتے ہیں. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
 Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
