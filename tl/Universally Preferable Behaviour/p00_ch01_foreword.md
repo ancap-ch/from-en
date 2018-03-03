@@ -28,7 +28,7 @@ Hindi tayo mabubuhay ng walang moralidad, subalit hindi natin mabibigyang kahulu
 
 Sa pagkaintelektwal, wala ng mas mataas na pusta sa mundo. Ang kabiguan nating magbigay kahulugan sa tumpak at rasyonal na tuntuning moral ay nagbubuwis ng daang-daang buhay, sa digmaan ng mga relihiyon at mga estado.
 
-In many ways, the stakes are getting even higher.
+Sa ibang pamamaraan, ang pusta ay mas lalong tumataas.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
