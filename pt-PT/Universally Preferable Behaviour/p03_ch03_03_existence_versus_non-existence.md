@@ -82,9 +82,9 @@ A afirmação: "Deves obedecer-me porque Deus o ordena", deve ser actualizada co
 
 Aqui vemos os mesmos problemas anteriores. Bob diz a Doug: "tens que me dar o teu isqueiro, porque o meu amigo imaginário o disse." Naturalmente, Doug responde: "não me podes pedir o isqueiro, porque o *meu* amigo imaginário proíbe que o faças" "Se as "ordens" de Bob são válidos, as de Doug são igualmente válidas e assim, cancelam-se mutuamente.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Do mesmo modo, se um homem afirma que o seu conceito chamado "governo" justifica o roubo da minha propriedade, então eu posso afirmar que o meu conceito chamado "anti-governo" justifica a *retenção* da minha propriedade, e ambos estamos igualmente "válidos" nas nossas justificações.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Se este cobrador de impostos afirmar que o seu conceito chamado "o governo" só justifica o roubo da *minha* propriedade e não a minha retenção, então não estamos de acordo. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
 
 #### UPB And "The Majority"
 
