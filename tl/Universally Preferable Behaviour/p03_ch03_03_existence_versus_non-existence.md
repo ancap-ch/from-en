@@ -112,7 +112,7 @@ Sa *paraan* hindi.
 
 Pwede akong gumawa ng isang mabuting patakaran na sinasabi: "ang karamihan ba ay marapat na kayanin ang gawain sa anumang mga pangangailangan"?
 
-Of course I can, but it will never be valid or true.
+Syempre ako ay maari, pero ito ay hindi pa naging tunay o totoo.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
