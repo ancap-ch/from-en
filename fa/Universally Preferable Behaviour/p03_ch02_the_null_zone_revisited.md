@@ -1,55 +1,55 @@
-## The Null Zone Revisited
+## ناحیه ی تهی بازدید شد
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+در ابتدای این کتاب، من راهی را برای چگونگی بررسی پردازش حقیقت و مقایسه ی آن با فیزیک در پیش رو قرار دادم. از "حقایق کوچک" درباره ی گرفتن توپ بیسبال، ما به "حقایق بزرگی" در علم فیزیک دست یافتیم- و حقایق بزرگ نمی تواند متضاد حقایق کوچک باشند.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+همین امر درباره ی اخلاق نیز وجود دارد. از حقایق کوچک درباره ی "من نباید مرتکب قتل شوم"، می توانیم به حقایق بزرگی مانند "آغاز استفاده از زور از نظر اخلاقی اشتباه است." برسیم.
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+در قلمرو فیزیک، یک مانع مرکزی برای برون یابی منطقی حقایق از تجربه شخصی به نظریه ی جهانی، دین شده است.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+برای مثال، هیچ انسانی تا به حال به صورت مستقیم، یک دایره ی کامل را تجربه نکرده است- چنین چیزی در انتزاع وجود دارد، و در علم ریاضی، اما نه در ذهن و نه در دنیای واقعی نمی تواند تجربه شود. در هیچ جای طبیعت، در دانش ما، چنین دایره ی کاملی وجود ندارد. هم چنین در "حقایق کوچک" تجربیات شخصی و یا در "حقایق بزرگ" علم فیزیک.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+با این حال، برای هزاران سال، علم نجوم برای تلاش برای این "دایره ی کامل" عاجز است. مدارهای سیاره ای باید دایره ی کامل باشند، زیرا خداوند هیچ چیز را "ناقص" و به صورت بیضوی نمی آفریند.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+مشکل این رویکرد-خب، یکی از مشکلات این رویکرد-پس روی مریخ بود. از سیاره ی ما، در بسیاری از موارد به نظر می رسید که مریخ "پس روی" می کند، برخلاف اینکه زمین به دور خورشید "پیشی می گیرد". اعتقاد دروغین این بود که زمین مرکز منظومه ی خورشیدی است و با هیجان و عشق با دایره های "کامل" ادغام شده است و منظومه نجومی بطلیموسی را تولید کرده است که تمام این دایره های کامل را به نقطه ای از پوچی، به منظور در نظر گرفتن مدارهای بیضوی و پس روی مریخ، تکثیر کرده است.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+چرا این تصور از کامل بودن، به عنوان یک نیاز برای بدن های آسمانی در نظر گرفته شد؟ قطعا شواهدی از ماه، با سطح کثیف و خاکی آن، می توانست از ناکامل بودن بهشت ها پشتیبانی کند اما تاییدات مذهبی از مدارک نفسانی هردو نقص سریع و بین الکواکب عبور کرده است. کشفیات گالیله از کوه های ماه، لکه های خورشیدی و قمرهای مشتری، همگی به عنوان مطالب مبنی بر فساد، مورد حمله واقع شدند.
 
-We can also turn this analysis to the question of the existence of God as well.
+همچنین می توانیم این تحلیل را به مسئله ی وجود خدا نیز تبدیل کنیم.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+ما هیچ شواهد مستقیم، تجربی یا منطقی برای وجود خدا نداریم. انتزاعی ترین اندازه گیری های علمی نیز هیچ مدرکی برای وجود خدا ارائه نمی دهد. اما در این بین، حقیقت تجربه ی خود ما، که این است که هیچ خدایی وجود ندارد، و انتزاعی ترین اندازه گیری علمی و نظریه ها- که آنها نیز عدم وجود خدا را تایید می کنند- نوعی "ناحیه ی تهی" بوجود می آید، *که به طور کامل همه ی استاندارد های عقلانی حقیقت را در بر می گیرد*.
 
-### Bigotry
+### تعصب
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+عقاید ممکن است درست باشند یا غلط یا *ضد حقیقت*. این یک اعتقاد درست است که دشت صحرا در آفریقای شمالی است. این اعتقاد غلط است که دشت صحرا در اسکاتلند است و این یک امر *ضد حقیقت* است که دشت صحرا، هر چیزی است که من بخواهم و هرجایی وجود دارد که من بخواهم. عقیده ی اول درست است؛ عقیده ی دوم غلط است و عقیده ی سوم، یک ادعای متعصب است که مفهوم اثبات را از بین می برد.
 
-We can say:
+می توانیم بگوییم:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. قضیه  Xدرست است زیرا  منطقی می باشد.
+2. قضیه  Yغلط است زیرا غیر منطقی می باشد.
+3. قضیه  Zدرست است زیرا من *می خواهم* که درست باشد.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+ادعای سوم یک تناقض کامل است. "حقیقت" مستقل از تمایل است؛ زیرا تمایل بر طبق تعریف، یک ترجیح عینی است؛ و حقیقت بر طبق تعریف، تایید ایده ها بر اساس استاندارد های عینی منطق و واقعیت تجربی است. گفتن اینکه چیزی درست است زیرا شما می خواهید که درست باشد، مانند این است که عینی بودن را با ذهنی بودن "برابر بدانیم" که این خود یک بیانیه ی خود-متضادی است.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+اظهارات متعصبانه- یا "اعتقاد" – بنابر تعریف نمی توانند آزمایش شوند، زیرا آنها در *نبود* مدرک، اعتقاد نیستند، اما در مخالفت با دلیل یا/و مدرک، اعتقاد هستند.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+ما می توانیم چیزهای اثبات شده را به عنوان درست، باور کنیم. قبل از اینکه ثابت شود زمین گرد است ،- کسی بدون شک، به این امر باور داشته است- اما "ناحیه تهی" قلمروی است که ما به اعتقاد در چیزهایی که *نمی توانند درست باشند* به آن چسبیده ایم.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+اگر من بگویم که ۲ به اضافه ی ۲ می شود ۵، من مرتکب اشتباهی می شوم که می توان آن را با استفاده از منطق اصلاح کرد. اگر بگویم که یک دایره ی مربعی وجود دارد، من دارم به صورت ضمنی یک بیانیه خود تضادی ایجاد می کنم که خودش را نقض می کند. با این حال، اگر بیشتر بروید، و به طور قطع ادعا کنید که "فو به اضافه ی تری برابر است با دستی"- و تعریف هر یک از لغات مرا رد کنید،- من دارم بیانیه ای را ایجاد می کنم که منطق و مدرک را *نمی توان بر آنها اعمال کرد*.
 
-### Next Stop: The "Alternative Universe"
+### توقف بعدی: "جهان جایگزین"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+به طور کلی، شیوه ای که مردم سعی می کنند باور های ضد تجربی و ضد منطقی خود را "نجات دهند" این است که "قلمرو جایگزین" یا "جهان جایگزین" ایجاد کنند؛ جاییکه بیانیه های خود تضادی آنها، به نوعی درست باشد.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+اگر بگویم: "یک دایره ی مربعی وجود دارد"، من ادعایی می کنم که در این جهان غیر ممکن است. بنابراین ، اگر می خواهم بر اعتقادم باقی بمانم، باید جهان یا قلمرو دیگری را اختراع کنم که بیرون از این جهان است و دایره ی مربعی در آن وجود دارد.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+اگر من جایی را ایجاد کنم که خود تضادی، حقیقت است؛ می توانم ادعا کنم که آنان که می گویند دایره ی مربعی وجود *ندارد*، خودشان متعصب و سرسخت هستند؛ زیرا دارند امکاناتی را که *می توانند* درست باشند را حذف می کنند. [^1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+با توجه به این "ناحیه ی تهی" ، تنها ۲ امکان واقعا وجود دارد. یا این "ناحیه تهی" به صورت کاملا مستقل از جهان ما وجود دارد و هیچ گاه قابل اندازه گیری، فهمیدن، دیدن، به هیچ طریقی، شکل یا ساختار نخواهد بود- یا، در برخی موارد، ما باید بتوانیم با این سرزمین جادویی تعادل برقرار کنیم و آن را شناسایی کنیم؛ همانجایی که خود متضادی برابر است با حقیقت.
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+اگر، در برخی موارد، معلوم شود که ما *می توانیم* با این *ناحیه ی تهی* تعامل برقرار کنیم، پس باید شواهد حسی یا منطقی مستقیم از وجود آن داشته باشیم. به عبارت دیگر، این باید به روشی به جهان ما تحمیل شده باشد. با این حال، لحظه ای که این در جهان ما قابل شناسایی است، باید مثل هر چیز دیگری که ما می توانیم شناسایی کنیم، وجود تجربی و منطقی داشته باشد. بنابراین، این "تحمیل ها" از جهانی – جهان ما،*نمی تواند ظرفیتی برای جهان ما برای پشتیبانی از وجود دایره ی مربعی ایجاد کند*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+بنابراین، ما می توانیم مطمئن باشیم که اگر ما قادر به شناسایی این جهان دیگر *هستیم*، مدارکی که جمع آوری کرده ایم، به هیچ طریقی وجود بیانیه های خود-متضادی را پشتیبانی نمی کند. دایره های مربعی، خدایان و دیگر مفاهیم خود متضادی، نمی توانند در آنجا پنهان شوند اما می توانند در رویای خیس لپراگون پنهان شوند.
 
-On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
+از سوی دیگر، اگر معلوم شود که ما،* هیچ گاه *قادر به شناسایی این جهان دیگر نیستیم، و این یک نهاد کاملا نظری، بدون هیچ مدرک یا منطق برای پشتیبانی از آن، باقی بماند؛ به این ترتیب، این یک کیسه ی مفهومی ساده است که برای قرار دادن چیزهایی که به صورت آشکار صحیح نیستند، "راحت" است.
 
-[^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
+[^1]: این ناچارا با مقایسه کسانی پایان می یابد که اظهار داشتند فیزیک انیشتین، غیرممکن است؛ و زمین نمی تواند گرد باشد و غیره. عدم اطمینان در *محتوا* - برای مثال، نظریه- به نظر می رسد با فرض عدم قطعیت در *روش شناسی* یعنی دلیل و شواهد، معادل است. واقعیت اینکه یک قضیه ریاضی می تواند رد شود، اصول ریاضی را رد نمی کند، بلکه آنها را تایید می کند.
