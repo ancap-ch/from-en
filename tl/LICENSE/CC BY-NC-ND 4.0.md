@@ -22,7 +22,7 @@ a. **Adapted Material**nangangahulugan na ang paksa ng materyal para sa karapata
 
 b. **Copyright and Similar Rights** nangangahulugan na ang karapatan magpalathala at/o katulad ng malapit na karapatan kaugnay sa kasamang karapatan magpalathala. ng walang limitasyon, pagganap, pag lathala, pagrerekord ng tunog at karapatan ng Sui Generis Database ng walang pagsaalang alang kung pa paano ang karapatan ay nakalebel o naikategorya. Para sa mga layunin ng Pampublikong Lesensya na ito, ang karapatan ay natukoy sa Seksyon 2(b)(1)-(2) hindi lahat ay may karapatang magpalathala at katulad sa Magkapareha na Karapatan.
 
-e. **Effective Technological Measures** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. **Effective Technological Measures**nangangahulugan na iyong mga sukat ay, nasa pagliban ng tamang awtoridad, hindi maari na mapigil sa ilalim ng batas na nagsasakatuparan ng mga obligasyon sa ilalim ng artikolo 11 ng WIPO Copyright kasunduan sa pagtitibay sa araw ng Desyembre 20,1996 at/o kahalintulad sa pagdaigdigang mga argumento.
 
 f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
 
