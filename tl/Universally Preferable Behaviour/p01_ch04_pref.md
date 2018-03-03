@@ -56,9 +56,9 @@ Kung pillin ko na makipagdebate, lubos kong tinatanggap ang malawak na iba't iba
 
 Kung ako ay pipili para makipagdebate sayo, kailangan kong tanggapin na kami ay parehas na umuosbong. Kung ako ay naniniwala na umusbong, subali't hindi mo, pagkatapos ng debate ay walang halaga, at ang naging pagkilos ng isang luko-luko. Kung ako ay magsisimula makipagtalo sa aking sarili sa saalamin, kailangan kong mag-pakalma, at hindi makipag-debate.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Saligan 2: ang mga pandama ay may kakayahan para sa ganap na kawastuan
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Dahil ang mga tao ay hindi pwedeng makipag-komunikasyon ng psychically, lahat ng mga pagtatalo ay dapat kasama ang mga ebidensya na mga pandama. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
 
 #### Premise 3: Language Has The Capacity For Meaning
 
