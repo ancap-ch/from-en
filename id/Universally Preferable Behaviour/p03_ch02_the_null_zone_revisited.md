@@ -1,55 +1,55 @@
-## Zona Null Revisited
+## The Null Zone Revisited
 
-Pada awal buku ini, saya mengajukan cara untuk melihat bagaimana kita memproses kebenaran, analogisasikan dengan fisika. Dari "kebenaran kecil" untuk menangkap bola bisbol, sampai pada "kebenaran besar" fisika - dan kebenaran besar tidak dapat bertentangan dengan kebenaran kecil.
+At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
-Hal yang sama berlaku untuk moralitas. Dari kebenaran kecil "Saya seharusnya tidak membunuh" kita bisa mencapai kebenaran besar seperti "inisiasi penggunaan kekerasan secara moral yang salah."
+The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
 
-Di ranah fisika, penghalang utama ekstrapolasi logis dari kebenaran dan pengalaman pribadi ke teori universal adalah agama.
+In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
-Misalnya, tidak ada orang yang pernah secara langsung mengalami lingkaran yang sempurna - entitas semacam itu ada dalam abstrak, dan dalam matematika, namun tidak dapat divisualisasikan dalam pikiran, atau dialami secara sensual di dunia nyata. Tidak ada tempat di alam, sepengetahuan kita, apakah lingkaran sempurna ada, baik dalam "kebenaran kecil" pengalaman pribadi, atau "kebenaran besar" fisika.
+For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
-Namun, selama ribuan tahun, ilmu astronomi dilumpuhkan oleh pencarian akan lingkaran sempurna ini. Orbit planet harus menjadi lingkaran sempurna, karena Tuhan tidak akan pernah membiarkan sesuatu yang "tidak sempurna" sebagai elips dalam ciptaan-Nya.
+However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
-Masalah dengan pendekatan ini - yah, satu masalah juga - adalah gerak mundur Mars. Dari planet kita, Mars kadang-kadang tampak bergerak "mundur", saat Bumi "menyusul" mengelilingi matahari. Adalah keyakinan palsu bahwa Bumi adalah pusat tata surya, dikombinasikan dengan mania untuk lingkaran "sempurna", menghasilkan sistem astronomi Ptolema, yang melipatgandakan lingkaran sempurna ini sampai pada titik absurd, untuk memperhitungkan orbit elips dan gerakan retrograde Mars.
+The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 
-Mengapa ilusi kesempurnaan ini dianggap sebagai persyaratan bagi benda langit? Pastinya bukti bulan, dengan permukaannya yang terjal dan pinggiran kawah, nampaknya mendukung ketidaksempurnaan langit, namun fiksasi agama melewati bukti sensual langsung dari ketidaksempurnaan langsung dan antarplanet. Penemuan Galileo tentang gunung bulan, bintik matahari dan bulan Jupiter semuanya diserang sebagai bidah.
+Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
-Kita juga dapat mengubah analisis ini menjadi pertanyaan tentang keberadaan Tuhan juga.
+We can also turn this analysis to the question of the existence of God as well.
 
-Kita tidak memiliki bukti secara langsung, empiris atau rasional untuk keberadaan Tuhan. Pengukuran ilmiah yang paling abstrak tidak memberikan bukti adanya Tuhan - namun di antara kebenaran pengalaman kita sendiri, yaitu bahwa tidak ada Tuhan, dan pengukuran dan teori ilmiah yang paling abstrak - yang juga menegaskan bahwa tidak ada Tuhan - semacam "zona nol" akan ada,*yang benar-benar membalikkan standar kebenaran rasional*.
+We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
 
-### Kefanatikan
+### Bigotry
 
-Keyakinan mungkin benar, salah, atau *anti-kebenaran*. Ini adalah keyakinan yang benar bahwa Gurun Sahara ada di Afrika Utara; Ini adalah keyakinan yang salah bahwa Sahara ada di Skotlandia; itu adalah keyakinan *anti-benar* bahwa Sahara adalah apapun yang saya inginkan, dan ada dimanapun saya menginginkannya. Keyakinan pertama adalah benar; Yang kedua salah - yang ketiga adalah pernyataan fanatik yang meledakkan konsep pembuktian.
+Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
 
-Kita bisa bilang:
+We can say:
 
-1. Proposisi X itu benar karena bersifat rasional.
-2. Proposisi Y salah karena tidak masuk akal.
-3. Proposisi Z benar karena saya *ingin* itu benar.
+1. Proposition X is true because it is rational.
+2. Proposition Y is false because it is irrational.
+3. Proposition Z is true because I *want* it to be true.
 
-Pernyataan ketiga adalah kontradiksi diri yang lengkap. "Kebenaran" tidak tergantung pada keinginan, karena keinginan didefinisikan secara subjektif, dan kebenaran adalah definisi kesesuaian gagasan dengan standar objektif logika dan realitas empiris. Mengatakan bahwa ada sesuatu yang benar karena Anda *ingin* memang benar adalah menyamakan subjektivitas dengan objektivitas, yang merupakan pernyataan kontradiktif itu sendiri.
+The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
 
-Pernyataan yang terlalu besar - atau "iman" - menurut definisi tidak dapat diuji, karena mereka tidak percaya pada *ketidakhadiran* bukti, tapi percaya pada *tantangan* alasan/bukti.
+Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
 
-Kita dapat mempercayai hal-hal yang tidak terbukti yang ternyata benar - seseorang pasti berpikir bahwa dunia ini bulat sebelum terbukti - namun "zona nol" adalah wilayah dimana kita berpegang teguh pada keyakinan akan hal-hal yang *tidak mungkin dapat kita ubah. tidak mungkin dan ternyata itu benar*.
+We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
 
-Jika saya mengatakan bahwa dua ditambah dua sama dengan lima, saya membuat kesalahan yang bisa diperbaiki dengan referensi pada logika. Jika saya mengatakan bahwa saya percaya bahwa ada lingkaran persegi, maka saya membuat pernyataan yang bertentangan secara eksplisit, yang menyangkal dirinya sendiri. Jika saya melangkah lebih jauh, bagaimanapun, dan dengan tegas mengklaim bahwa "foo plus tury sama dengan desty" - dan menolak untuk menentukan persyaratan apa pun - saya membuat sebuah pernyataan yang logika dan terbukti *tidak dapat diterapkan*.
+If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
 
-### Pemberhentian selanjutnya: "Dunia Alternatif"
+### Next Stop: The "Alternative Universe"
 
-Secara umum, cara orang mencoba untuk "menyelamatkan" keyakinan anti-empiris dan anti-logika mereka adalah dengan menciptakan "dunia alternatif" atau "alam semesta alternatif" di mana pernyataan kontradiktif mereka sendiri dapat menjadi kenyataan.
+In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
 
-Jika saya katakan: "Lingkaran persegi ada," saya menegaskan apa yang jelas tidak mungkin ada di alam semesta ini. Jadi, jika saya ingin mempertahankan keyakinan saya, saya harus menciptakan alam semesta lainnya, atau alam "di luar" alam semesta ini dimana lingkaran persegi bisa ada.
+If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
-Jika saya membuat sebuah dunia di mana kontradiksi-diri sama dengan kebenaran, kemudian saya dapat mengklaim bahwa mereka yang mengatakan lingkaran persegi *tidak* memiliki kekejaman dan prasangka, adalah karena mereka menghilangkan kemungkinan itu *bisa*menjadi benar.[^1]
+If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
-Sehubungan dengan ini "zona nol", hanya ada dua kemungkinan yang benar-benar ada. Antara ini *zona nol* ada sepenuhnya terlepas dari alam semesta kita, dan tidak akan pernah dapat diukur, terdeteksi atau bahkan dapat ditemukan dengan cara apapun, bentuk atau bentuk - atau, pada titik tertentu, kita dapat mendeteksi dan berinteraksi dengan tanah magis ini dimana kontradiksi-diri sama dengan kebenaran.
+With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
-Jika, pada titik tertentu, ternyata kita *adalah* dapat berinteraksi dengan hal ini *zona nol*, maka kita akan memiliki bukti sensual atau rasional langsung tentang keberadaannya. Dengan kata lain, itu harus "menonjol" ke alam semesta kita dengan cara tertentu. Namun, saat itu menjadi terdeteksi di alam semesta kita, itu harus memiliki eksistensi rasional dan empiris, seperti segala hal lain yang dapat kita deteksi. Demikian, "tonjolan" dunia lain di alam semesta *kita tidak dapat menciptakan kapasitas bagi alam semesta kita untuk mendukung keberadaan lingkaran persegi*.
+If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 
-Dengan demikian kita dapat memastikan bahwa jika kita *dapat* mendeteksi alam semesta lain ini, bukti yang kita kumpulkan sama sekali tidak mendukung adanya pernyataan kontradiktif-diri. Lingkaran persegi, Tuhan dan konsep kontradiksi-diri lainnya tidak dapat disembunyikan di sana, lebih dari yang bisa mereka sembunyikan dalam mimpi buruk tentang leprechaun.
+We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
 
-Di sisi lain, jika ternyata kita *tidak pernah* mampu mendeteksi alam semesta lain ini, dan tetap menjadi entitas yang sepenuhnya teoritis, tanpa bukti atau rasionalitas untuk mendukungnya, maka itu hanyalah tas konseptual yang "nyaman" untuk menempatkan hal-hal yang jelas tidak benar.
+On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
 
-[^1]: Ini pasti berakhir dengan perbandingan dengan mereka yang mengatakan bahwa ilmu fisika Einstein tidak mungkin dilakukan, bahwa dunia tidak dapat berputar dan sebagainya. Ketidakpastian dalam *konten* - yaitu teori - bagaimana seharusnya disamakan dengan ketidakpastian dalam *metodologi*, yaitu alasan dan bukti. Fakta bahwa sebuah teorema matematis dapat tidak disetujui jika tidak menyangkal prinsip-prinsip matematika, melainkan menegaskan mereka.
+[^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
