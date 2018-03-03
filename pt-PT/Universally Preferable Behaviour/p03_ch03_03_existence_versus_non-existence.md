@@ -78,9 +78,9 @@ Por outras palavras, qualquer justificação imaginária e abstracta para o uso 
 
 O mesmo é verdadeiro para a religião.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+A afirmação: "Deves obedecer-me porque Deus o ordena", deve ser actualizada com mais precisão para: "uma entidade que eu criei ordena que me obedeças. Então " O princípio que o CUP exige, é: "Os seres humanos devem impor obrigações positivas "não eleitas" aos outros e justifica essas obrigações de acordo com as entidades imaginárias "
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Aqui vemos os mesmos problemas anteriores. Bob diz a Doug: "tens que me dar o teu isqueiro, porque o meu amigo imaginário o disse." Naturalmente, Doug responde: "não me podes pedir o isqueiro, porque o *meu* amigo imaginário proíbe que o faças" "Se as "ordens" de Bob são válidos, as de Doug são igualmente válidas e assim, cancelam-se mutuamente.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
