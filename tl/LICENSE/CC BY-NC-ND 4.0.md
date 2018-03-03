@@ -14,9 +14,9 @@ Ang Creative Commons na pampublikong lesensya ay maglalaan ng matibay na mga ter
 
 ## Ang Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Pandaigdigang Pampublikong Lesensya
 
-Sa pamamagitan ng karapatan sa Lesensya (nakasaad sa baba), Tanggap mo at payag na mapasakop sa mga termino at mga kondisyon dito sa Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Pandaigdigang Pampublikong Lesensya ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Sa pamamagitan ng karapatan sa Lesensya (nakasaad sa baba), Tanggap mo at payag na mapasakop sa mga termino at mga kondisyon dito sa Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Pandaigdigang Pampublikong Lesensya ("Public License"). Sa abot ng Publikong Lesensya na ito maaring ipaliwanag bilang isang kontrata, Ikaw ay pinag kakalooban ng Karapatan sa Lesensya bilang konsederasyon sa iyong pag tanggap sa termino at mga kondisyon na ito, ang tagapaglesensya ay pinag kakalooban ka gayon ng karapatan sa konsederasyon at mga benepisyo na natatanggap ng tagapaglesensya mula sa paggawa ng materyal na lesensya na magagamit sa ilalim ng mga termino ay kondisyon na ito.
 
-### Section 1 – Definitions.
+### Seksyon 1 - Mga Depenesyon.
 
 a. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
