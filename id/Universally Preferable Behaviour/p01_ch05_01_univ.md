@@ -52,22 +52,23 @@ Jika kita dapat membuktikan bahwa teorimoral bisa objektif, rasional dan dapat d
 
 Sebelum bangkitnya metode ilmiah, orang-orang percaya bahwa materi mematuhi keinginan subjektif Tuhan dan setan serta orang-orang percaya sama dengan moralitas sekarang. Gunung berapi meletus karena dewa gunung marah; Hasil panen yang baik dihasilkan dari pengorbanan manusia atau hewan. Tidak ada yang percaya bahwa hukum fisik absolut bisa membatasi kehendak para dewa, dan karena itu ilmu pengetahuan tidak akan pernah bisa berkembang. Mereka yang secara historis mendapatkan keuntungan dari mendefinisikan realitas fisik sebagai subjektif yang mana kebanyakan imam dan aristokrat melawan penaklukan teori fisik ke metode ilmiah, sama seperti mereka yang saat ini memperoleh keuntungan dari mendefinisikan moralitas sebagai subjektif yang mana kebanyakan imam dan politisi yang saat ini melawan penaklukan teori *moral* dengan prinsip-prinsip yang obyektif dan universal.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Seperti yang disebutkan di atas, metode ilmiah pada dasarnya adalah sebuah metodologi untuk memisahkan yang akurat dari teori yang tidak akurat dengan menundukkan mereka pada dua tes utama: konsistensi logis dan pengamatan empiris dan dengan selalu menundukkan konsistensi logis ke pengamatan empiris. Jika saya mengajukan teori konsisten dan teori logis yang sempurna dan mengatakan bahwa sebuah batu akan mengapung *naik* saat dilemparkan dari tebing, uji empiris membuktikan bahwa teori saya salah, karena pengamatan selalu mengalahkan hipotesis.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Aspek selanjutnya dari metode ilmiah adalah keyakinan bahwa, karena materi terdiri dari kombinasi atom dengan sifat umum, stabil dan dapat diprediksi, perilaku materi juga harus umum, stabil dan dapat diprediksi. Dengan demikian percobaan harus *direproduksi* di lokasi dan waktu yang berbeda. Saya tidak bisa mengatakan bahwa teori "rock floating" saya benar hanya untuk satu batuan tertentu, atau pada hari pertama saya mengujinya, atau di satu lokasi. Teori saya menggambarkan perilaku *materi*, yang universal, umum, stabil dan dapat diprediksi.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Akhirnya, ada peraturan yang berlaku umum yang kadang-kadang bisa disebut Pisau Occam yang menyatakan bahwa, dari dua teori yang memiliki kekuatan prediktif yang sama, dan yang lebih sederhana dari keduanya lebih baik. Sebelum revolusi Copernicus, ketika Bumi dianggap sebagai pusat alam semesta, gerakan Mars yang retrograde ketika Bumi melewatinya di orbit mengelilingi matahari menyebabkan masalah besar pada sistem perhitungan astronomi Ptolema. Lingkaran dalam lingkaran sangat banyak, yang semuanya dibersihkan hanya dengan menempatkan matahari di pusat tata surya dan menerima sifat elips orbit planet.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Jadi, setiap teori ilmiah yang valid harus (a) universal (b) logis (c) dapat diverifikasi secara empiris (d) dapat direproduksi dan (e) sesederhana mungkin.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Metodologi untuk menilai dan membuktikan teori  *moral* sama persis dengan metodologi untuk menilai dan membuktikan teori lainnya.
 
-#### Moral Rules: A Definition
+#### Aturan moral: Definisi
 
-The first question regarding moral rules is: *what* are they?
+Pertanyan pertama mengenai peraturan moral adalah *apakah* mereka?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Sederhananya, *moral* adalah seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi perilaku manusia yang lebih baik secara universal, sama seperti *fisika* adalah seperangkat aturan yang mengklaim secara akurat dan konsisten mengidentifikasi universal perilaku materi.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Pertanyaan kedua yang harus ditanyakan adalah: adakah hal seperti itu "perilaku yang sama sekali lebih baik secara universal"? Jika ada, maka kita bisa mengekbolarasi perilaku seperti itu. Jika tidak, maka pemeriksaan kita harus berhenti disini, sama seperti pemeriksaan astronomi plolemeos yang berhenti setelah diterima secara umum bahwa materi sebenarnya adalah pusat taata surya.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: Dalam fisika, pertanyaannya adalah: apakah aturan fisik universal itu benar atau tidak.
+.
