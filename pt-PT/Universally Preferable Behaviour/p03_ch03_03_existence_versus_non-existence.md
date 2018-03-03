@@ -116,12 +116,12 @@ Será que posso criar uma regra moral que diga: "a maioria deve ser capaz de faz
 
 Somente os *indivíduos* agem - a "maioria" nunca o faz. Se as regras morais podem mudar quando um certo número de pessoas se junta, então o CUP é continuamente violado.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Se é moral que Bob e Doug violem Jane, porque têm "maioria de votos", o que será que vai acontecer quando os dois amigos de Jane aparecerem e votarem contra os desejos perversos de Bob e Doug?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Bem, de repente, Bob e Doug são os que estão em minoria e a violação torna-se "má" para eles, novamente.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Não mudou nada substancial nestes cenários de "votação", mas temos uma série de regras morais opostas para os mesmos homens - uma violação do CUP e por isso, inválida.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+A violação não pode ser boa, depois má, logo boa de novo, só porque algumas mãos se levantam ou baixam.
 
 Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
