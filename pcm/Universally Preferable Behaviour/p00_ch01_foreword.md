@@ -88,6 +88,6 @@ I truly believe say d definition of a normal ethical framework na d main beta wo
 
 I ride enta fyt wey odas arm me.
 
-[^1]:Na most of dis tins we go talk about wella for all dis book so.
+[^1]: Na most of dis tins we go talk about wella for all dis book so.
 
 [^2]: Of course, If I don fail, I sha don fail spectacularly, wey be say e dey edifying and entertaining itself!

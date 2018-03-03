@@ -68,6 +68,6 @@ Kedu ife kpatara nkowa ako? Ogbasaro ndi oma, na ndi oji anaha etinye anya na ya
 
 Eyeh, ife di egwu na adi onye njo ga enyie gi egwu, m'obu jiri ogu bia kwute gi maka ife di ya n'obu na ife ochoro iwen n'aka gi. Owen kwuru ike ibu, otu isi wen dozie be gi ka od ocha na isi ebi ndu amaa, iwenre ike iwe onyia obara tupu mgbe ikwesiri iwun -- nke izizi emero ka nkowa ako buru ife nlafu, karia otu nke ikpeazu mere nkowa ogwu, ife ne-edozi aru na ime eksazizu ka oburu ife nlafu. Ofu di n'ime ife ako bekee n enweta mmadu kwesiri ibu iwedata afufu njo dika ori, ogbugbu mmadu na repu -- na oburu iso iwu ah ka anyi ga eji etinye anya na iwu ako di na Nke Ato akwukwo ah.
 
- [^10]: Eyeh, oburu na mu amaro ihe m'obu anaha ma aghota ife aguru ana achor igbu mu, itu mkporo ga enye mu aka.
+[^10]: Eyeh, oburu na mu amaro ihe m'obu anaha ma aghota ife aguru ana achor igbu mu, itu mkporo ga enye mu aka.
 
- [^11]: "Ike uche" Nietzsche na "ife na enye ndu mmadu anuri bu ihe oma" nke Rand.
+[^11]: "Ike uche" Nietzsche na "ife na enye ndu mmadu anuri bu ihe oma" nke Rand.

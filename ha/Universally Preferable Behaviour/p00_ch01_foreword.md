@@ -88,6 +88,6 @@ Na gaskanta cewa ma'anar tsarin tsarin dabi'a shine aikin da ya fi dacewa da ke 
 
 Na shiga cikin yaƙi da makamai da sauran suka hada mun.
 
-[^1]:Zamu tattauna yawanci wadanna abubuwa dalla-dalla a cikin wannan littafin.
+[^1]: Zamu tattauna yawanci wadanna abubuwa dalla-dalla a cikin wannan littafin.
 
 [^2]: Hakika, idan na gaza, na cikakken gaza, wanda kanta zata iya ingantawa da kuma nishaɗi!
