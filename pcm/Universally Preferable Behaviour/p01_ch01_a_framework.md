@@ -1,8 +1,8 @@
 ## Framework for ethics dem
 
-Ethical propositions dey different from dem oda types of knowledge statements. If i talk say, “I like jazz,” dat one fit be true talk or make im be lie, but e no dey binding to u for any way. Ma own like for jazz na just talk of wetin I gbafun; based on my talk so, e no dey incumbent ontop u say make u like jazz or make u no like am.
+Ethical propositions dey different from dem oda types of knowledge statements. If i talk say, “I like jazz”, dat one fit be true talk or make im be lie, but e no dey binding to u for any way. Ma own like for jazz na just talk of wetin I gbafun; based on my talk so, e no dey incumbent ontop u say make u like jazz or make u no like am.
 
-Similarly, if i talk say “I like vegetables,” dat one too na just ma talk of wetin I like. However, if I talk say, “vegetables na healthy food,” den I don comot from ma own talk com enta talk wey be objective fact. E dey different from “I like ice cream,” and, “Ice cream get milk inside.”  
+Similarly, if i talk say “I like vegetables”, dat one too na just ma talk of wetin I like. However, if I talk say, “vegetables na healthy food”, den I don comot from ma own talk com enta talk wey be objective fact. E dey different from “I like ice cream”, and, “Ice cream get milk inside”.  
 
 D fundamental difference wey dey between d talk *preference* and talk *fact* na say talk of facts dey objective, testable - and dey binding. If u value truth so, e dey incumbent ontop u make u agree say ice cream get milk inside, once wey dem don prove am.[^1]
 
@@ -26,7 +26,7 @@ Truth self dey ogbonge wey dey relative to necessity as well. Newtonian physics 
 
 As a result, d sentence “Newtonian physics no too dey accurate dan Eisteinian physics, but Newtonian physics na d beta way to calculate a ship's way” we fit call am ogbonge proposition. Newtonian physics com be *less accurate*, and *more appropriate*.
 
-If we wan drink water wey dey pure pass, we go lyk pay thousands of dollars dem for one bottle. Unless say we get ego wella and too dey frivolous, we neva fit pay dat ego say make we just drink water. Na true say water wey pure beta for us, but d price wey da purity nid don reach threshold of diminishing return dem. So “purer dey beta, na im dey reach “purer na im worse.”
+If we wan drink water wey dey pure pass, we go lyk pay thousands of dollars dem for one bottle. Unless say we get ego wella and too dey frivolous, we neva fit pay dat ego say make we just drink water. Na true say water wey pure beta for us, but d price wey da purity nid don reach threshold of diminishing return dem. So “purer dey beta, na im dey reach “purer na im worse”.
 
 Again, dis no mean say purity of water dey utterly subjective. Water wey dem distill dey potable pass seawater.
 
@@ -38,7 +38,7 @@ Wetin, den, be d “bull’s-eye” of truth?
 
 Well, d *truth* of a talk dey measurable relative to how e go in line wit objective reality.
 
-Make we put dem language challenges for one corner now, if I point to one seagull and talk say, “Dat na anvil,” I dey clearly mistaken because say anvils na inorganic, and no fit fly. D truth value of ma statement dey measured relative to dem objective facts of reality. Since wey be say Seagull no be anvil, den ma statement no true.
+Make we put dem language challenges for one corner now, if I point to one seagull and talk say, “Dat na anvil”, I dey clearly mistaken because say anvils na inorganic, and no fit fly. D truth value of ma statement dey measured relative to dem objective facts of reality. Since wey be say Seagull no be anvil, den ma statement no true.
 
 Naturally, dis equation between truth and reality nid say make our language and sense make dem call am relatively objective. Plenty good reasons dey to believe say both language and sense evidence dey objective; we fit enta discussion wey dey complicated ontop dis, but make e suffice to talk say since na ur eyes u dey use read book wey dem write for man pikin language, we fit agree say ur eyes, and d language we share, na d least objective wey dey enough for u make u accurately process wetin I dey write. If dem no be, we no get anytin to yarn, and u neva sabi anytin wey I don write, so dis sentence no go get meaning be dat, and dem fit com render am for “Wingdings”.
 
@@ -62,7 +62,7 @@ Fundamentally, d laws of logic na im dey derive from d matter and energy behavio
 
 Perceptual reality dey consistent and objective - and e no dey from dis consistency and objectivity wey we derive from dem logic laws. Our statement about reality fit only accurately *represent* reality wey be direct result of dis consistency and objectivity so.
 
-D fact say seagulls no arbitrarily turn enta anvils - or vice versa - na d root of our capacity to judge d talk accurately: “Dat one na seagull.” If seagulls dey change dia nature spontaneously and continually, we no go fit make maybe na tru or false talk ontop dem - or anytin for dat matter.
+D fact say seagulls no arbitrarily turn enta anvils - or vice versa - na d root of our capacity to judge d talk accurately: “Dat one na seagull”. If seagulls dey change dia nature spontaneously and continually, we no go fit make maybe na tru or false talk ontop dem - or anytin for dat matter.
 
 Dis na d root of a key criterion of d scientific method - reproducibility. If I make a universal claim say about d nature og gravity, den you suppose fit reproduce dat claim for ur own environment. If reality *no* dey consistent, den reproducibiliyu go be irrational criterion for truth wey dem wan establish.
 
@@ -77,7 +77,7 @@ Truth, den, fit dey measured acoording to two central criteria:
 1. Truth na measure of correlation wey dey between d ideas for our minds and d consistency of rationality dem, wey be say dem derive am straight from d consistent behaviour of matter and energy wey dey d real world.[^2]
 2. Truth na also measure of d correlation wey dey between d ideas for our minds and d nature and behaviour of matter and energy for d real world.[^3]
 
-D first criterion na measure of d consistency of idease wit demself - and dat kyn consistency na requirement because say reality dey consistent im self. If I talk say, “I no dey exist,” dat one na exaple of idea wey no dey consistent im self, since I must dey exist before I talk dat kyn tin. D second criterion na measure of d accuracy of ideas wey dey relative to empirical observtions of reality wey dey objective.
+D first criterion na measure of d consistency of idease wit demself - and dat kyn consistency na requirement because say reality dey consistent im self. If I talk say, “I no dey exist”, dat one na exaple of idea wey no dey consistent im self, since I must dey exist before I talk dat kyn tin. D second criterion na measure of d accuracy of ideas wey dey relative to empirical observtions of reality wey dey objective.
 
 #### Empiricism Versus rationality dem
 

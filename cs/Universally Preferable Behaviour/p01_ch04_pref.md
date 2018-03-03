@@ -4,7 +4,7 @@ Now that we understand the nature of self-defeating arguments, we can turn to th
 
 Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+In this sense, “preferable” does not mean “sort of better”, but rather “required”. *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable”, then, translates to “objectively required”, but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
 Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
 
@@ -12,7 +12,7 @@ Thus in ethics, just as in science, mathematics, engineering and all other disci
 
 ### Preferences And Existence
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+If I say “I like ice cream”, only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
 
 Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
 
@@ -26,7 +26,7 @@ When we apply this simple fact to ethical arguments, we come up with some very i
 
 ### Preferences And Arguments
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist”. Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
@@ -42,7 +42,7 @@ The proposition before us is thus: *can some preferences be objective, i.e. univ
 
 When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers”. There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error”, and content themselves with mystical nonsense.
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
@@ -68,7 +68,7 @@ Similar to Premise Two, since all arguments require language, any proposition th
 
 If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+You don’t say to me: “You should change your opinion to mine because I would prefer it”, but rather: “You should correct your opinion because it is objectively incorrect”. My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
 #### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
 

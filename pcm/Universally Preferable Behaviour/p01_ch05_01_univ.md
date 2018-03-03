@@ -4,7 +4,7 @@ Because of the argument wey dey up, we see say e dey impossible to enter inside 
 
 I use the word “behavior” for here instead of “thought” because e dey important to differentiate between internal and states wey nor dey verifiable such as “thinking” from objective and states wey dey verifiable such as “acting”, “writing” and speaking”.
 
-E nor dey possible to prove say I dream of elephant last night. E nor dey possible to prove say I don write the word “elephant,” and that na why I use the word “behavior” instead of “thought”;
+E nor dey possible to prove say I dream of elephant last night. E nor dey possible to prove say I don write the word “elephant”, and that na why I use the word “behavior” instead of “thought”;
 
 To agree after dem don convince me to superior logic inside argument na *action*. If every time wey I tey lose a point to you, I no talk anything, but instead, I just dey look you blankly, you go find am irritating rather than to dey follow me argue. To concede one point, I must do the action of verbal agreement upon conviction.
 

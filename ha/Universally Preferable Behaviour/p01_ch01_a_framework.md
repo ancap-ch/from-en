@@ -1,8 +1,8 @@
 ## Yanayin Tsarin Da’a
 
-Shawarwarin da’a daban suke da sauran ilimin bayanai. Idan nace, “ina son jazz,” wannan bayanin zai iya zama gaskiya ko karya, amma da yawa ba zai zamo laifi a gareka ba ta ko wane hanya. Fifiko na jazz bayani ne akan abun da nake so; akan abun da nace, ba tilas bane ace sai kaso jazz ko kaki jazz.
+Shawarwarin da’a daban suke da sauran ilimin bayanai. Idan nace, “ina son jazz”, wannan bayanin zai iya zama gaskiya ko karya, amma da yawa ba zai zamo laifi a gareka ba ta ko wane hanya. Fifiko na jazz bayani ne akan abun da nake so; akan abun da nace, ba tilas bane ace sai kaso jazz ko kaki jazz.
 
-Haka kuma, idan nace “ina son ganye,” wannan ma bayani ne daya shafe abun da ni nake so. Amma, idan nace, “ganye abu ne mai kara lafiya,” wannan ya tashi daga bayani na zuwa bayani na hakika. Wannan shine bambam ci tsakanin “Ina son ayis kirim” da ayis kirim akwai madara.”
+Haka kuma, idan nace “ina son ganye”, wannan ma bayani ne daya shafe abun da ni nake so. Amma, idan nace, “ganye abu ne mai kara lafiya”, wannan ya tashi daga bayani na zuwa bayani na hakika. Wannan shine bambam ci tsakanin “Ina son ayis kirim” da ayis kirim akwai madara”.
 
 Muhimman hakkokin dake tsakanin bayani na “fifiko” da bayani na “gaskiya” shine bayanin gaskiya hakika ne, an jaraba kuma an daure. Idan kai ma’abocin gaskiya ne, ya zama tilas a gareka ka yarda akwai madara a cikin ayis kirim, da zaran an tabbatar da hakan.[^1]
 
@@ -38,7 +38,7 @@ Don hakka mennenee idon-sanniyyarr na gaskiya?
 
 *Gaskiyan* bayanin zaa’a auna shine ddanganee da nutsuwan shi daga hakikan gaskiya.
 
-Ajiye matsalolin yare a gefe a yanzun, idan nayi ishara da tsintsun seagull ina cewa, “wancan makera ne,” karara nayi kuskure, saboda makera inorganic ne, kuma basa tashi. Gaskiya wannan bayanin nawa zaa gwada shi dangane da hakikanin gaskiyan lamarin. Tunda tsintsun seagull a zahirce ba makera bane, bayani na karya ne.
+Ajiye matsalolin yare a gefe a yanzun, idan nayi ishara da tsintsun seagull ina cewa, “wancan makera ne”, karara nayi kuskure, saboda makera inorganic ne, kuma basa tashi. Gaskiya wannan bayanin nawa zaa gwada shi dangane da hakikanin gaskiyan lamarin. Tunda tsintsun seagull a zahirce ba makera bane, bayani na karya ne.
 
 A zahirce, wannan danganta ka tsakanin gaskiya da hakikan gaskiya na bukatan yare da hankalin mu dangane da ra’ayin. Dda  akwai kwararan dalilai  masu yawan gaske dake yare dda hujja hankali a  ra’ayin gaske; zamu iya kutsawa cikin bayani maii  rudanni akan hakan, amma ya kamata  ace  ya wuce ace  tunda  munaa amfani da ido ne wurin karanta littaffi akan yarukan mutane, zamu iya a kallan  yarda cewa idonka da yaren  da  muke yi, hujjoji ne da  zasu baka  daman tantance yanayin abun da nake rubutawa. Idan babu wani abu da zamu ce, kuma baka fahimci komai dana rubuta ba, wannan jimlar dana rubuta daidai yake da shirme, kuma zamu iya cewa “jita-jita” ne.
 
@@ -62,7 +62,7 @@ Muhimman hakkokin, dokokin dabaru an kirkire su ne daga halayyar al’amari da m
 
 Hakikan gaskiya na daidaito da ra’ayi—da kuma daidaito da ra’ayi da muka samo daga dokokin dabaru. Bayanin mu akan gaskiya zai iiya zama daidai *wakiltar* gaskiya a matsayin sakamako daga daidaito da ra’ayi.
 
-A gaskiya tsintsun seagull baya iya rikida zuwa makera—ko sabanin hakan—shine dalilin da yasa muke yanke hukunci daidai akan wani bayani: wancan tsintsun seagull ne,” idan tsintsun seagull na maras wata-waata da cigaba da canja halittar sa, to zai zama mana abu mai wahala gane  gaskiyar lamarin su—ko wani akan hakan.
+A gaskiya tsintsun seagull baya iya rikida zuwa makera—ko sabanin hakan—shine dalilin da yasa muke yanke hukunci daidai akan wani bayani: wancan tsintsun seagull ne”, idan tsintsun seagull na maras wata-waata da cigaba da canja halittar sa, to zai zama mana abu mai wahala gane  gaskiyar lamarin su—ko wani akan hakan.
 
 Wannan shine tushen makullin rarrabewa na hanyoyin kimiya—hayayyafa. Idan nayi ikirari akan halittar nauyi, to zai zamanto kaima zaka iya yaya da wannan ikirarin a mazaunar ku. Idan hakikani gaskiya *ba* daidai bane, yaya da zance zai zamo abu mara tasiri wurin fadin gaskiya.
 

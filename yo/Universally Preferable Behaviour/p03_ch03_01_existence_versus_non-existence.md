@@ -10,15 +10,15 @@ Bayii ti mo ba sọ wipe, "Ọlọrun wa," ohun ti mo n sọ ni pe:
 
 Ni awọn ọrọ miiran, sisọ wipe "Ọlọhun wa," mo ti ṣedà idaniloju ti ko ni agbara. Mo ti ṣe ìtumọ̀ alaye "wiwa laaye" bi "Ai wa laaye", eyi ti o jẹ ki o ni oye pupọ gẹgẹbi a ṣe apejuwe "igbesi aye" bi "ohun ailopin", tabi apata bi "idakeji ti apata", tabi "onihamerin" gẹgẹbi "ayika"
 
-Bakan naa, ti mo ba ṣe dá aye miiran nibi ti "iwalaaye dipo aiwalaaye" ati "iṣirò túmọ̀ si ibamu" ati "òtítọ́ túmọ̀ si irọ nla" ati "imọ aimogbonwa túmọ̀ si imọ mogbonwa", lehinna ohun ti mo ti ṣe gan ni pe mo ti ṣe dá ipin kan ti a n pe ni "àṣìṣe", fi ohun gbogbo sinu rẹ ti ko jẹ òtítọ́, ati pe o ṣe alaye ipin yii gẹgẹbi ibi ti "àṣìṣe ti túmọ̀ si òtítọ́.”[^2]
+Bakan naa, ti mo ba ṣe dá aye miiran nibi ti "iwalaaye dipo aiwalaaye" ati "iṣirò túmọ̀ si ibamu" ati "òtítọ́ túmọ̀ si irọ nla" ati "imọ aimogbonwa túmọ̀ si imọ mogbonwa", lehinna ohun ti mo ti ṣe gan ni pe mo ti ṣe dá ipin kan ti a n pe ni "àṣìṣe", fi ohun gbogbo sinu rẹ ti ko jẹ òtítọ́, ati pe o ṣe alaye ipin yii gẹgẹbi ibi ti "àṣìṣe ti túmọ̀ si òtítọ́”.[^2]
 
-Dajudaju, awọn eniyan ko ṣe dá "àyídáyidà aye miiran" lati le sọ òtítọ́ di alaimo laarin ara wa, sugbọn kuku lati gba ohun ti o jẹ àṣìṣe ni òtítọ́, ati pe o jẹ òtítọ́. Fún àpẹẹrẹ, ko si ẹni ti o jiyan pe "Ọlọhun le wa ni aaye miiran, nitori naa a ko le sọ wipe Ọlọrun ko wa laaye" ti jiyan "emi ko le wa ni aye miiran, nitori naa o ko le sọ wipe mo wa nibi.”
+Dajudaju, awọn eniyan ko ṣe dá "àyídáyidà aye miiran" lati le sọ òtítọ́ di alaimo laarin ara wa, sugbọn kuku lati gba ohun ti o jẹ àṣìṣe ni òtítọ́, ati pe o jẹ òtítọ́. Fún àpẹẹrẹ, ko si ẹni ti o jiyan pe "Ọlọhun le wa ni aaye miiran, nitori naa a ko le sọ wipe Ọlọrun ko wa laaye" ti jiyan "emi ko le wa ni aye miiran, nitori naa o ko le sọ wipe mo wa nibi”.
 
-Wọn tún sọra lati ma dahun daradara si ariyanjiyan naa pe : "Ni agbaye miiran, o le gba pẹlu mi wipe Ọlọrun ko si tẹ́lẹ̀, nitori naa o mu ki o jẹ alaigbagbọ.”[^3]
+Wọn tún sọra lati ma dahun daradara si ariyanjiyan naa pe : "Ni agbaye miiran, o le gba pẹlu mi wipe Ọlọrun ko si tẹ́lẹ̀, nitori naa o mu ki o jẹ alaigbagbọ”.[^3]
 
 Ti àwọn gbolohun òtítọ́ nipa ile aye le jẹ ipalara ti ko ni opin nitori awọn opin kan ti a n pe ni" àṣìṣe ti o túmọ̀ si òtítọ́ " ṣe aisedede wọn, nigba naa ohun ti a n sọ ni pe "ko si awọn àsọyé gbolohun nípa òtítọ́ le jẹ iyi ti o wulo" - sibẹsibẹ, a ti lọ gbọn tó bi awọn onímọ̀ nisinsinyi lati mọ pe gbolohun yi gan gan nipasẹ ara ti o lodi, nitori o jẹ gbolohun ti o daju ti a ro si ọrọ òtítọ́ tó sọ wipe ko si gbolohun òtítọ́ tó le jẹ ododo. Ti ko ba si nkan ti o le jẹ òtítọ́ tabi eke - paapaa gbolohun naa - lehinna ko si ọrọ gbolohun ohunkohun ti a le ṣe nipa ohunkohun. Lilo awọn ọrọ, lilo ede gẹ̀ẹ́sì, lilo awọn gbolohun ọrọ ti oye - gbogbo wọn ko ni oye nigbakigba, nitori ni "agbaye aye miiran" iru awọn ọrọ ti a sọ yii le jẹ ọrọ lasan. Ti àwọn ohun ti o le jẹ òtítọ́ ni aaye miiran yii ni ipa lori awọn gbolohun ti a ṣe ni aaye yii, lehinna iyipada tún jẹ́ òtítọ́ kedere, eyi ti o túmọ̀ si pe ko si gbolohun kan ti a le ṣe nipa ohunkohun, niwọn gba ti idakeji ọrọ naa le jẹ òtítọ́.
 
-Òtítọ́ ti gbolohun "àṣìṣe túmọ̀ sí òtítọ́" jẹ asan ọrọ ti ajerisi ti "asan ni o jẹ asan.”
+Òtítọ́ ti gbolohun "àṣìṣe túmọ̀ sí òtítọ́" jẹ asan ọrọ ti ajerisi ti "asan ni o jẹ asan”.
 
 ### Awọn "Agbegbe Aye Miiran" ni Awujọ Eniyan
 
@@ -136,7 +136,7 @@ Wọn sọ fún wa pe a "fẹ" Bob lati gba owo wa - eyi ti o takọ dajudaju pe
 
 “Nitori wọn *jẹ* mi ni owo wọn!”
 
-“Mo rò pé o sọ wipe wọn fẹ fún ọ ni owo wọn.”
+“Mo rò pé o sọ wipe wọn fẹ fún ọ ni owo wọn”.
 
 “Rara, rara - wọn jẹ mi lowo. Owo mi *ni* ni òtítọ́!”
 
@@ -152,7 +152,7 @@ Wọn sọ fún wa pe a "fẹ" Bob lati gba owo wa - eyi ti o takọ dajudaju pe
 
 “Bẹẹni, dajudaju - wo ibi bayii!”
 
-“Daradara, eyi jẹ àkọsílẹ̀ atowowa kan ti o sọ wipe ìwọ lo ni gbogbo adugbo - ati pe o jẹ iwe ọwọ̀ kan naa pẹlu ibuwolu rẹ. Mo bẹru pe a ni lati ṣe iwe fún ọ - eleyii jẹ nkan adehun pẹlu ara rẹ, eyi ti o ń fi ṣesún si awọn elomiran ni ojude ìbọn.”
+“Daradara, eyi jẹ àkọsílẹ̀ atowowa kan ti o sọ wipe ìwọ lo ni gbogbo adugbo - ati pe o jẹ iwe ọwọ̀ kan naa pẹlu ibuwolu rẹ. Mo bẹru pe a ni lati ṣe iwe fún ọ - eleyii jẹ nkan adehun pẹlu ara rẹ, eyi ti o ń fi ṣesún si awọn elomiran ni ojude ìbọn”.
 
 Eleyii jẹ ẹgan asiwere ati ibajẹ bi emi n tesiwaju lati ṣo fún arabinrin kan ti mo n ba fi agidi ni ibalopọ pe oun fẹ ni ibalopọ pẹlu mi. Njẹ o le fojunu bi mo ba wa ni idajọ ifipabanilopo, ati pe o ni afihan fidio ti arabinrin yii n bẹbẹ lati da duro, ati pe mo ni ọbẹ̀ si ọfun rẹ, bawo ni a ṣe le gba idabo mi ti mo ba n tesiwaju lati sọ pe arabinrin yii ni o fẹ ibalopo pẹlu mi?
 
@@ -162,6 +162,6 @@ Aa, sugbọn ni "ibi ailewu" ti ijọba, ifipabanilopo jẹ ifẹ ṣíṣe, fif
 
 Eyi ni ohun ti o túmọ̀ si nigba ti mo ba sọ wipe "agbegbe idakeji aye aisinkankan" ni idiwo pataki julọ si idunnu eniyan ni gbogbo agbaye. Ole jija jẹ àṣìṣe fún wa ; ole jija jẹ àṣìṣe ninu awọn alailegbe - sugbọn ole jija jẹ bakan naa ohun "ti dara" ninu ọta aye miiran ti a n pe ni "ijọba"?
 
-[^2]: Ẹ jẹ ki a ma *bẹ̀rẹ̀* lati ala ibanuje ti òtítọ́ ti o wa ninu ọrọ gbolohun yii "àṣìṣe túmọ̀ si òtítọ́.”
+[^2]: Ẹ jẹ ki a ma *bẹ̀rẹ̀* lati ala ibanuje ti òtítọ́ ti o wa ninu ọrọ gbolohun yii "àṣìṣe túmọ̀ si òtítọ́”.
 
 [^3]: Ariyanjiyan yii tun duro lati ma ṣíṣe daradara pẹlu awọn olùkọ́ ẹkọ iṣirò - mi o ti ri ọmọ iwe kan ti o jiyan pe idahun ti ko tọ le jẹ atunse ni aye miiran, ati pe o jẹ alaisoto lati sàmì si bi àṣìṣe.

@@ -6,7 +6,7 @@ I have written dozens of articles exposing the falsehood of this position, so I 
 
 The “argument from practicality” in no way solves the problem of violence. If I see you eating cheeseburgers every day, I can tell you that it is impractical for you to do so, if you want to maintain a healthy weight. I cannot claim that it is *evil* for you to eat cheeseburgers, for reasons that we have gone into already. I cannot justly compel you through force to increase the “practicality” of your actions.
 
-Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical,” which in fact they are not.
+Thus saying that the government is justified in forcing us to become more “practical” is completely false, which is verified by the UPB framework – even if we assume that government solutions are more “practical”, which in fact they are not.
 
 Ponadto, jeśli przedstawiciele rządu twierdzą, że umowa społeczna pozwala im zmusić "niepraktyczną" populację do bardziej "praktycznego zachowania", powstaje niesprawiedliwa sprzeczność.
 
@@ -16,7 +16,7 @@ Kiedy zmuszam tę kobietę do małżeństwa, mogę usprawiedliwić użycie siły
 
 If the woman is mentally unfit to make her own choices with regards to marriage, then clearly she is also *mentally unfit to delegate a representative to make that choice for her*. If she has no idea what constitutes a good or suitable husband, then how can she evaluate me as fit to decide who will be a good or suitable husband for her?
 
-If a man of extraordinarily low intelligence does not understand the concept of “health,” would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
+If a man of extraordinarily low intelligence does not understand the concept of “health”, would it be reasonable to expect him to be rational in his choice of a doctor? In order to competently choose a doctor, we must understand the concepts of health, efficacy, cost, professionalism and so on. In the same way, if I do not allow a woman to have any say in who she marries, then clearly I must believe that she has no understanding of what makes a good husband – but if she has no understanding of what makes a good husband, then she has no capacity to transfer that choice to me, since she will have no way of evaluating *my* criteria for what makes a good husband.
 
 If I cannot decide what colour to paint my house, and my solution is to sign a contract with a painter allowing him to choose the colour for me – and in that contract I sign away all my future freedoms to resist his decisions, and give him the right to kidnap and enslave me if I disagree with any of his decisions, or refuse to pay for them – then clearly I am not of sound mind. If I give someone the power to compel me *for the rest of my life*, then clearly I do not believe that I am competent to make my own decisions.
 
@@ -30,13 +30,13 @@ W ten sam sposób, nawet jeśli zdecyduję się dobrowolnie płacić podatki, ni
 
 ### The Necessity Of The State?
 
-This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority.”
+This whole question becomes even more ludicrous when we look at the most common moral “justification” for the power of democratic governments, which is based upon the “will of the majority”.
 
-First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth.” If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
+First of all, “will” is an aspect of the individual, while “majority” is a conceptual tag for a group. The “majority” can no more have a “will” than a “chorus line” can “give birth”. If you doubt this, just try building a tree house with the concept “forest” rather than with any individual pieces of wood.
 
 Two additional objections constantly recur whenever the question of the necessity of a government arises. The first is that a free society is only possible if people are perfectly good or rational – in other words, that citizens *need* a centralised government because there are evil people in the world.
 
-The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Obywatele mogą bronić się przed złymi osobami, ale nie mają żadnych szans przeciwko agresywnemu rządowi uzbrojonemu po zęby policją i wojskiem. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals.” Where on earth do people think the counterfeiters will go first?[^5]
+The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Obywatele mogą bronić się przed złymi osobami, ale nie mają żadnych szans przeciwko agresywnemu rządowi uzbrojonemu po zęby policją i wojskiem. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals”. Where on earth do people think the counterfeiters will go first?[^5]
 
 Logically, there are four possibilities as to the mixture of good and evil people in the world:
 
@@ -77,7 +77,7 @@ There are a number of reasons, which can only be touched on here. The first is t
 
 Drugim jest to, że rząd nigdy nie uczy dzieci o korzeniach jego władzy - przemocy - zamiast tego udaje, że jest po prostu kolejną instytucją społeczną, jak biznes, kościół czy organizacja charytatywna, ale bardziej moralna.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education.” In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education”. In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
 
 At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
 
@@ -111,6 +111,6 @@ Fleeing from imaginary devils into the protective prisons of governments only en
 
 [^9]: Probably more, since evil people are always drawn to power.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue,” see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue”, see [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
 [^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".

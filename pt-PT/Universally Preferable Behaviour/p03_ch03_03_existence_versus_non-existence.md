@@ -18,7 +18,7 @@ O nosso desejo de ser bom - combinado com a emoção da virtude que obtemos obed
 
 Uma razão central que sabemos que os governos e os deuses são desnecessários é que eles são tão eficazes. *Sabemos que a maioria das pessoas deseja desesperadamente ser boa porque são tão facilmente controladas por teorias morais*.
 
-. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer *o padre*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+. A lógica da obediência à mitologia é manifestamente tola. Se um sacerdote me diz que tenho que obedecer "Deus", isso é exatamente o mesmo que ele me diz que devo obedecer a uma entidade chamada "Nog". Mesmo que eu aceite que essa entidade ficcional é digna de obediência eterna, isso ainda de forma alguma obrigaria-me a obedecer *o padre*. If I tell you to “obey your heart”, can I then reasonably say: “and *I alone* speak for your heart”?
 
 Claro que não.
 
@@ -60,15 +60,15 @@ We can revolutionise the world by accepting the claim – and the proof – that
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+The proposition that is most often used to justify government power is: “the government has the right to take your money”. This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
 
 “*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
 
 If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force”.
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force”.
 
 As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
 
@@ -78,9 +78,9 @@ In other words, every imaginary abstract justification for the use of force can 
 
 The same holds true for religion.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+The statement: “You must obey me because God commands it”, must be restated more accurately as: “an entity that I have made up commands you to obey me”. The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities”.
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to”. Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to”. If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
 
 In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
 
@@ -88,17 +88,17 @@ If this tax collector then claims that his concept called “the government” o
 
 #### UPB And "The Majority"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army”, but they cannot reverse gravity, or make murder moral.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Returning one last time to the room of Bob and Doug, let’s introduce “Jane”.
 
 Now that there are three people in the room, we can look at the “majority rule” principle.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted”, we would not consider the resulting rape to be transformed into a morally good act.
 
 Why not?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair”.
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
@@ -116,7 +116,7 @@ Of course I can, but it will never be valid or true.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+If it is moral for Bob and Doug to rape Jane because they have “outvoted her”, what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
 Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
 

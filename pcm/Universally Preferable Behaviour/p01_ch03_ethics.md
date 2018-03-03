@@ -8,7 +8,7 @@ If I fit catch ball wey dey fly, then I get a *feel* wey dey instinctual for the
 
 For the same way, the moral revulsion wey we get in common for matters wey concern rape and murder nor necessarily dey inaccurate, but dem nor dey give us the capacity to tey create or validate moral theories wey dey consistent and empirical.
 
-If I bring up one scientific theory wey invalidate the power wey baseball player get to take catch ball wey dey fly completely, then I get one big problem to tey explain how the baseball player tey *dey* catch the ball. Also, if my grand theory nor fit predict the arc of ball wey dey fly correctly, then I get a “great truth” wey dey contradict directly a “little truth,” wey  nor fit dey valid. Since the necessity wey dey with logical consistency dey rise from the “little truths” of experience wey dey perpetual, any theory wey dey directly contradict all those kind experience nor fit dey valid.
+If I bring up one scientific theory wey invalidate the power wey baseball player get to take catch ball wey dey fly completely, then I get one big problem to tey explain how the baseball player tey *dey* catch the ball. Also, if my grand theory nor fit predict the arc of ball wey dey fly correctly, then I get a “great truth” wey dey contradict directly a “little truth”, wey  nor fit dey valid. Since the necessity wey dey with logical consistency dey rise from the “little truths” of experience wey dey perpetual, any theory wey dey directly contradict all those kind experience nor fit dey valid.
 
 In another word, na the senses dey make logic dey come out – therefore logic nor fit contradict the evidences wey senses get. Evidence dey always get power pass explanation.
 
@@ -28,13 +28,13 @@ If I dey talk of preference wey dey universal, I dey really define wetin be *obj
 
 As Ethics be discipline wey dem fit define as theory wey concern human behavior wey dey universal, objective, consistent – and e dey binding. Naturally, behavior wey dey natural go only fit dey binding if the goal dey desired. If I talk say e dey *preferable* for human beings to dey exercise and chop well, I nor dey talk say human beings *nor go* sit down on top couch or to chop potato chips. Wetin I dey talk na say *if* you wan dey healthy, you *suppose* dey exercise and dey chop well.
 
-As Hume popularly point come out, e nor dey possible to get an “ought” from inside an “is.” Wetin e mean by that thing na say that *preference* nor fit come out axiomatically from inside *existence*. Na true say man wey nor dey exercise and wey dey chop poorly go dey unhealthy. That one come mean say e “suppose” to dey exercise and dey chop well? No. The “ought” dey conditional on top the *preference*. If he wan dey healthy, he *suppose* to dey exercise and chop well. Na true say if man nor chop well, he go die – we nor fit get am logically from that fact principle wey dey binding say e *suppose* to eat. *If* he wan dey alive, then im *must* to chop. However, na im get the choice if he go dey alive or not.
+As Hume popularly point come out, e nor dey possible to get an “ought” from inside an “is”. Wetin e mean by that thing na say that *preference* nor fit come out axiomatically from inside *existence*. Na true say man wey nor dey exercise and wey dey chop poorly go dey unhealthy. That one come mean say e “suppose” to dey exercise and dey chop well? No. The “ought” dey conditional on top the *preference*. If he wan dey healthy, he *suppose* to dey exercise and chop well. Na true say if man nor chop well, he go die – we nor fit get am logically from that fact principle wey dey binding say e *suppose* to eat. *If* he wan dey alive, then im *must* to chop. However, na im get the choice if he go dey alive or not.
 
 The same way, e nor get anything like “better” direction wey dey universal – everything depend on the destination wey dem prefer. If I wan drive go New York from San Francisco, I “suppose” to follow East. If I wan drive enter inside ocean from San Francisco, I “suppose” to follow west. Them nor fit consider both east or west say im “better” pass universally.
 
 Na true say na only very small number of people *dey* drive enter ocean, but that one nor mean say na universally true say nobody *suppose* to drive enter inside ocean. Principles nor dey democratic – or if them dey, we go face the problem of rank subjectivism again and must troway everything wey concern the concept of ethics follow window.
 
-“Behaviour” dey exist for reality wey dey objective, outside our minds – the concepts wey involve “ought”, “should,” and “preference,” nor dey exist outside our minds. But the fact say “ought” nor dey exist inside reality wey dey objective nor mean say “ought” dey subjective completely. Scientific method or numbers themselves, no one wey dey exist inside reality sef, but still science and mathematics na still disciplines wey dey objective.
+“Behaviour” dey exist for reality wey dey objective, outside our minds – the concepts wey involve “ought”, “should”, and “preference”, nor dey exist outside our minds. But the fact say “ought” nor dey exist inside reality wey dey objective nor mean say “ought” dey subjective completely. Scientific method or numbers themselves, no one wey dey exist inside reality sef, but still science and mathematics na still disciplines wey dey objective.
 
 ### Argument wey dey Defeat imself
 
@@ -46,10 +46,10 @@ If we wan look am generally, any theory wey dey contradict imself for utterance 
 
 If I submit mathematical proof wey dey complex to you, and you notice say for the very beginning, I talk say my proof depend on the fact say two plus two go give four and five at the same time, you nor need to come dey read further to tey know say my proof dey invalid.
 
-In the same way, as I tey talk before, if I waka come meet you, come talk say: “I nor dey exist,” my thesis don destroy imself automatically. If I fit tell you say I nor exist, then e clear say I dey exist.
+In the same way, as I tey talk before, if I waka come meet you, come talk say: “I nor dey exist”, my thesis don destroy imself automatically. If I fit tell you say I nor exist, then e clear say I dey exist.
 
-If I come meet you, and tell you say: “e nor get anything wey dem dey call truth,” then I dey make a statement wey I consider say na true say truth nor dey exist again. Again, my argument don destroy imself.
+If I come meet you, and tell you say: “e nor get anything wey dem dey call truth”, then I dey make a statement wey I consider say na true say truth nor dey exist again. Again, my argument don destroy imself.
 
 If I tell you say “Language nor get meaning” then I don also contradict myself. For me to even communicate with you verbally say language dey meaningless, then language suppose at least get small meaning.
 
-If I tell you say “Your senses nor dey valid,” then my argument don already destroy eself, since I dey use your sense of hearing tey dey communicate to you say your sense of hearing nor dey valid. If I fit successfully tell you my thesis, then your sense of hearing dey valid. Therefore, I must assume say your senses dey valid for me to tey convince you say your senses nor dey valid, and e nor fit stand.
+If I tell you say “Your senses nor dey valid”, then my argument don already destroy eself, since I dey use your sense of hearing tey dey communicate to you say your sense of hearing nor dey valid. If I fit successfully tell you my thesis, then your sense of hearing dey valid. Therefore, I must assume say your senses dey valid for me to tey convince you say your senses nor dey valid, and e nor fit stand.

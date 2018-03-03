@@ -12,7 +12,7 @@ Nipase fifi awon imoye meji wera won, eyi yi ni wipe:
 
 Gbogbo wa ni a mo wipe awon nkan kan wa ti olukuluku eniyan ni ife si lotooto, bi ki a feran wara inu yinyin tabi ori igbafe oni feere, ko kan dandan fun awon elomiran lati kopa tabi lati bani feran iru awon nkan bawonyi. Ni ona miran ewe, awon nkan miran wa ti awon elomiran ni ife si, bii ifipabanilopo ati ipaniyan, awon nkan ti won *je* ipalara elomiran. Awon kan tun ni ife si imoye inu ero okan, otito ati eri, awon nkan wonyi kan elomiran (sugbon won kii se ipalara tipatipa) niwon igba ti o ba je wipe gbogbo wa gba wipe aba ti ko ba ni ero ogbon tabi imoye ninu gbudo je iro tabi eyi ti ko ni ifidimule.
 
-Awon nnkan ti a ni ife si ti a si le ka si awon nkan ti won kan dandan fun elomiran ni a lee ka si “nnkan ti a ni ife si ti won si se itewogba fun gbogbo eniyan” tabi “awon ilana fun ohun ti o to tabi eyi ti ko to.”
+Awon nnkan ti a ni ife si ti a si le ka si awon nkan ti won kan dandan fun elomiran ni a lee ka si “nnkan ti a ni ife si ti won si se itewogba fun gbogbo eniyan” tabi “awon ilana fun ohun ti o to tabi eyi ti ko to”.
 
 Ona miran wo ni a tun ti le mo pe agbekale “awon ilana fun ohun ti o to tabi ti ko to” fi idi mule?
 

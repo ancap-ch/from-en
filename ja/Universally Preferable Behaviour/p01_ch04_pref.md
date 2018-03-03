@@ -4,7 +4,7 @@
 
 嗜好中央載の方法論が正確ではないことにご注意願を定義する真理値の提案を含んでいます。 の科学的方法インスタンスは、大きく定義された自然の好みのための論理的整合性のとれた実証的な検証します。 科学, の前提は、: *の場合* する有効な真実の挙動、物質とエネルギー, であ *好ましい* 利用の科学的な方法です.
 
-その意味で, “好ましい” りません “のようなより良い,” ではなく “必要.” *の場合* 居したい, であ *普遍的に好ましい* お控えいただきますの食一握りのヒ素. *の場合* ご希望の決定に有効な真実を現実について, であ *普遍的に好ましい* この理論が社内で一貫した実証的に検証可能な. “普遍的に好ましい,” その, 変換する “客観的に必要,” が適切に管理され保存されましの言葉 “好ましい” を判別するためのオプション人に絶対は非オプション物理的に絶対はなどの重.
+その意味で, “好ましい” りません “のようなより良い”, ではなく “必要”. *の場合* 居したい, であ *普遍的に好ましい* お控えいただきますの食一握りのヒ素. *の場合* ご希望の決定に有効な真実を現実について, であ *普遍的に好ましい* この理論が社内で一貫した実証的に検証可能な. “普遍的に好ましい”, その, 変換する “客観的に必要”, が適切に管理され保存されましの言葉 “好ましい” を判別するためのオプション人に絶対は非オプション物理的に絶対はなどの重.
 
 同様に, 場合倫理的な理論で有効なすべての, その上で *少なくとも* る社内外一貫した. その他の言葉, 倫理の理論と矛盾すること自体は有効 – や倫理の理論と矛盾する実証的証拠の近くのユニバーサルの設定もできないときに有効になり.
 
@@ -12,7 +12,7 @@
 
 ### 定に存在
 
-あえて言えば “私のようなアイスクリーム,” 一つの単語も含め不透明な部分が文. 明確に “私” 存在し, って表現することは、個人的に好き. 同様に明確に, “アイスクリーム” でも現実にある. しかし, の言葉 “のように” で以上に問題な.
+あえて言えば “私のようなアイスクリーム”, 一つの単語も含め不透明な部分が文. 明確に “私” 存在し, って表現することは、個人的に好き. 同様に明確に, “アイスクリーム” でも現実にある. しかし, の言葉 “のように” で以上に問題な.
 
 設定が存在しない客観的に内実現. また好奇心を表現, きものを守していただいたと記録時に食べたときのアイスクリーム, るろうに求められる実証的基盤の確立私の好みで. の可能性をされたかどうかを確認する, しかし, 私が実際にはmasochist, と嫌い、アイスクリーム強く, とり拷問をもってその不快な味わい、そしてその間違いによる正確ではないことにご注意願い.
 
@@ -26,7 +26,7 @@
 
 ### Preferences And Arguments
 
-ふり、上記分析の自滅引数, することで矛盾する自然の声明: “設定が存在しない.” される人間行動 – とも含めて哲学的な諸表 – が選択された優先毎の他るものであること, と主張する設定が存在しないが必要で *優先* たと主張する設定が存在しない, 自己矛盾する声明. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+ふり、上記分析の自滅引数, することで矛盾する自然の声明: “設定が存在しない”. される人間行動 – とも含めて哲学的な諸表 – が選択された優先毎の他るものであること, と主張する設定が存在しないが必要で *優先* たと主張する設定が存在しない, 自己矛盾する声明. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
 
 Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
@@ -42,7 +42,7 @@ The proposition before us is thus: *can some preferences be objective, i.e. univ
 
 When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. 利用の科学的類推, を理解し、宇宙, 人 *すべ* 利用の科学的方法 – であるということではありませんとい, 以来、明確に数十億人もの人々が相談に古代の話ではなく現代の科学 “回答.” あめのように宇宙のない科学, ですが、人間はこれによって完全に自由に再定義 “真実” として “エラー,” -コンテンツに身を神秘的なナンセンス.
+Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. 利用の科学的類推, を理解し、宇宙, 人 *すべ* 利用の科学的方法 – であるということではありませんとい, 以来、明確に数十億人もの人々が相談に古代の話ではなく現代の科学 “回答”. あめのように宇宙のない科学, ですが、人間はこれによって完全に自由に再定義 “真実” として “エラー”, -コンテンツに身を神秘的なナンセンス.
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
@@ -68,7 +68,7 @@ Similar to Premise Two, since all arguments require language, any proposition th
 
 If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+You don’t say to me: “You should change your opinion to mine because I would prefer it”, but rather: “You should correct your opinion because it is objectively incorrect”. My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
 #### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
 

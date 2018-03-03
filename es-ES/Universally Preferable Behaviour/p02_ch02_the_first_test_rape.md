@@ -12,7 +12,7 @@ Claramente, si proclamo que “X” es “el bien”, entonces lo opuesto a “X
 
 Violar a alguien es una acción positiva que debe ser iniciada, ejecutada, y luego completada. Si “violar” es un bien moral, entonces “no violar” es un mal moral - por lo tanto es imposible para dos hombres en la misma habitación ser *ambos morales al mismo tiempo*, ya que sólo uno de ellos puede ser un violador en cualquier momento dado - y solamente puede ser un violador si el otro hombre se convierte en su víctima.
 
-Aquello que pemite lo virtuoso no puede ser vil. La “libertad,” en este caso, es un pre-requisito para la virtud - sin libertad, no podemos ser virtuosos - por lo tanto la “libertad” no puede ser mala, ya que es *requerida* para el bien.
+Aquello que pemite lo virtuoso no puede ser vil. La “libertad”, en este caso, es un pre-requisito para la virtud - sin libertad, no podemos ser virtuosos - por lo tanto la “libertad” no puede ser mala, ya que es *requerida* para el bien.
 
 Si es moralmente bueno ser un violador, y uno puede ser un violador solamente atracando sexualmente a una víctima, entonces la víctima debe ser éticamente buena resistiéndose al ataque sexual - ya que si no se resiste, entonces por definición sería una no violación, y por ello, no virtuoso. En otras palabras, *atacando* la virtud por definición *posibilita* la virtud. Entonces, tenemos una paradoja insuperable, en la cual la víctima debe atacar a la virtud a fin de posibilitar la virtud - ella debe resistir un ataque sexual a fin de posibilitar la “virtud” del violador. Por ende, no solamente la víctima de una violación puede *no* ser virtuosa, si no que debe resistir y atacar la “virtud” a fin de posibilitarla.
 

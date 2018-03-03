@@ -32,7 +32,7 @@ Surely, in the knowledge of such universal and preventable poisoning, I should n
 
 Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters”.
 
 If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
 

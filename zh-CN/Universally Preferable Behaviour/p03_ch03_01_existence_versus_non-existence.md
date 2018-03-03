@@ -163,6 +163,6 @@ UPB框架验证道德命题要求他们是内在一致的，地点和个人方�
 
 当我说这个“相反的世界无效区”是世界上人类幸福最根本的障碍时，这就是我的意思偷窃对我们来说是错误的。摘要中的偷窃行为是错误的 - 但是在这个疯狂的被称为“政府”的另类宇宙中，偷窃是“正确的”吗？
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth”.
 
 [^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.

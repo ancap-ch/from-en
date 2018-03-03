@@ -4,17 +4,17 @@ We dey talk say “warin nor dey exist” and warin nor carry weight or power, o
 
 God nor carry weight or energy, or show d effects of mass or energy – God nor fix be detectable or verifiable at all, shape or form, weather na wit human being senses or wit rationality.
 
-ok, if I talk say “God dey,” warin I dey talk be dat na:
+ok, if I talk say “God dey”, warin I dey talk be dat na:
 
 “*anything way dey live must be detectable; God nor fit  be detect by man, but God dey – as e be say warin nor dey exist, be dey exit.*” 
 
-E-hen as we dey talk say “God dey,” I don make and stand gidigba. I don show “warin dey exist ” as “ warin nor dey exist”, dis one come dey explain about dis life as something way nor get “life” , or rock as “nor be d same as rock” or as “square” or as a “circle”.
+E-hen as we dey talk say “God dey”, I don make and stand gidigba. I don show “warin dey exist ” as “ warin nor dey exist”, dis one come dey explain about dis life as something way nor get “life” , or rock as “nor be d same as rock” or as “square” or as a “circle”.
 
-As d same, if I com make something different as in warin “nor dey exist na d same thing as watin dey exist” and confusion na d same as watin dey continue and nor dey stop” and “I say dis thing correct, and “lie na lie” and “watin nor dey equal na d same as watin dey equal” now watin I don do na warin “nor dey correct,” and all d things I put na lie, and talk say dis na place where lie com be com correct."[^2]
+As d same, if I com make something different as in warin “nor dey exist na d same thing as watin dey exist” and confusion na d same as watin dey continue and nor dey stop” and “I say dis thing correct, and “lie na lie” and “watin nor dey equal na d same as watin dey equal” now watin I don do na warin “nor dey correct”, and all d things I put na lie, and talk say dis na place where lie com be com correct."[^2]
 
 Warin dey now, people nor dey make dis “alternate universe” take am to invalidate warin dey right and correct inside our own universe, but na to safe warin be erroneous in reality, and com call am correct. For example nor body dey argue say “God fit dey for different universe, na so if no fit say God nor dey exist” or talk say “ e nor dey for another universe, na so me I nor fit talk say I exist here."
 
-Dem nor if talk say or agree say dat: “ In another universe, u go gree with me say that God nor dey exit, I go talk say u be unbeliever.”[^3]
+Dem nor if talk say or agree say dat: “ In another universe, u go gree with me say that God nor dey exit, I go talk say u be unbeliever”.[^3]
 
 Na correct talks to say about reality nor get end opposed becos some think say realm called “lie na d same with truth talk” warin nor dey validates dem, den warin be dey self na “nor better talk abouth correct thing na really valid” – however, we know book as dose philosophers by now we don know say the talk dey confusing small, since na better talk to say dat na correct true e b dat means to say nor better talk b true. If something nor be true or lie – even dat talk – dem nor talk at all go fit make anything at all. When u dey use words, like using English, using comprehensible sentence – all of dem nor make sense at all, since in dis “alternative universe”  some structured utterance go fix be something make e no make senses at all. If something way fix be true in dis alternate universe come get effect on talk we make in dis universe, then we go truly know say the universe dey correct, dat is to say dat nor statements can ever fix make about anything, since dere exact opposite can be d same as true
 
@@ -48,11 +48,11 @@ Theft na dose people way dey go steal other people things e nor good at all, as 
 
 As we dey call “government” na just another example of dis null zone where dey go say something way dey up na down, black na white, truth na lie and bad thing na good thing
 
-Where things dey happen na d degree dat reason and evidence go make big thing leap from d personal to d universal, and com scatter any irrational null zones na d way. Where Science com make thing happen exactly to d degree dat dey nor agree d irrationality of God and subjective “absolutes.” Dose people who dey make medicine to d extend dat dey rejects d power of prayer and empty native juju, and instead believe say na their on studies and evidence beta or good pass. Philosophy also – and place where human being dey live and gather – will get and grow up high dat e nor agree with d irrational “square-circle character or behavior” of statist and religion ethical theories.
+Where things dey happen na d degree dat reason and evidence go make big thing leap from d personal to d universal, and com scatter any irrational null zones na d way. Where Science com make thing happen exactly to d degree dat dey nor agree d irrationality of God and subjective “absolutes”. Dose people who dey make medicine to d extend dat dey rejects d power of prayer and empty native juju, and instead believe say na their on studies and evidence beta or good pass. Philosophy also – and place where human being dey live and gather – will get and grow up high dat e nor agree with d irrational “square-circle character or behavior” of statist and religion ethical theories.
 
 ### Government
 
-Dey are talking say dat d government work under opposite character rules way different from other community na d same thing we dey talk say “leprechauns are immune to gravity. “Frist of all, leprechauns nor dey exit – and one of d way which we go know say dem nor dey exist na by d thing dem dey claimed say dat dey are immune to gravity. Everything dat get weight na subject to gravity – dat one na immune to gravity by definition na e nor get mass, and d thing nor dey exist. D talk way dey ground “leprechauns are immune to gravity” na a tautology, dis one only com be true say na d non-existence of leprechauns – dis one com b d semantic equivalent of “dat which nor dey exist, nor dey exist.” A na A, Aristotle’s first law of logic, does precious little to confirm d existence of dat which is defined as non-existence.     
+Dey are talking say dat d government work under opposite character rules way different from other community na d same thing we dey talk say “leprechauns are immune to gravity. “Frist of all, leprechauns nor dey exit – and one of d way which we go know say dem nor dey exist na by d thing dem dey claimed say dat dey are immune to gravity. Everything dat get weight na subject to gravity – dat one na immune to gravity by definition na e nor get mass, and d thing nor dey exist. D talk way dey ground “leprechauns are immune to gravity” na a tautology, dis one only com be true say na d non-existence of leprechauns – dis one com b d semantic equivalent of “dat which nor dey exist, nor dey exist”. A na A, Aristotle’s first law of logic, does precious little to confirm d existence of dat which is defined as non-existence.     
 
 In de same way, as we dey talk say dat it is morally beta for soldiers to kpai and government people to thief, we know dat “soldiers” and “government peoples” dey get moral differently are *completely invalid*.  
 
@@ -62,11 +62,11 @@ If I com buy one soldier’s cloth for blend down select shope, and I com wear a
 
  I com ask dese rhetorical question becos dem dey in fact deadly serious. Clearly, a soldier fine cloth nor go fit change de way of a human being, any more than a cutting of his hair  nor go change am into a duck, a concept, or a god.    
 
-“Ah,” you if talk say, “but de cloth/shirt nor be de right one becos you buy am for blend down select shop  – com wear de uniform of de soldier nor go fit make you resemble a soldier than to dey pretend to get a doctorate gives you a Ph.D”  
+“Ah”, you if talk say, “but de cloth/shirt nor be de right one becos you buy am for blend down select shop  – com wear de uniform of de soldier nor go fit make you resemble a soldier than to dey pretend to get a doctorate gives you a Ph.D”  
 
 De example nor dey correct, becos getting a Ph.D. or pretending to get a doctorate nor go fit change any of de moral rules dat you dey bring to for as a human being.   
 
- “Well,” you may talk say, “but de different way dey is dat de soldier com get de moral rights dat are giving to him by de ordinary people, for de sake of  collective protecting  dem self and so on.”  
+ “Well”, you may talk say, “but de different way dey is dat de soldier com get de moral rights dat are giving to him by de ordinary people, for de sake of  collective protecting  dem self and so on”.  
 
 Dis com bring a very important point, which is de question of whether subjection go fit change every thing for life.   
 
@@ -84,7 +84,7 @@ Becos subjection nor dey change reality, I nor fit permit you any exception or r
 
 ### Government As Voluntarism
 
-De open force way dey inside de institution of government – de conceptual wrapper dat change moral rules for a particular people way gather together – na something dat na always  kept off de table in debates. When we dey talk about government, e never show dat we dey point or bring out a positive thing “de gun way dey de room.” Almostly as we dey explain, governments are considered to be selected by and for de people, and to work with dere expressed or implicit approval.       
+De open force way dey inside de institution of government – de conceptual wrapper dat change moral rules for a particular people way gather together – na something dat na always  kept off de table in debates. When we dey talk about government, e never show dat we dey point or bring out a positive thing “de gun way dey de room”. Almostly as we dey explain, governments are considered to be selected by and for de people, and to work with dere expressed or implicit approval.       
 
 However, dis na pure rubbish.   
 
@@ -106,13 +106,13 @@ Or, if I com kpai, and my will com show dat make I kpai dis woman’s pikins if 
 
 To com talk say dat force be de same with voluntarism na completely illogical and self-contradictory. To com talk say dat de initiation of de use na completely de same to de non-initiation of de use of force na to talk say dat up na down, black na white, and truth na lie.
 
-Without de “null zone,” dese corrupt fictions nor go be sustained.
+Without de “null zone”, dese corrupt fictions nor go be sustained.
 
 De “null zone” na de lier of de beast we hunt. 
 
 As we dey see, we com know dat personally e dey wrong to thief; we get small problems with an abstract and logical ban on thief, like as if we com get worked out above – na still, dere com exists dis “null zone” or alternate universe for where dose oppositions go fit be accepted without nor question or concern.
 
- As UPB dey talk say, e dey wrong for me and you to go steal. Yet somehow, in dis “null zone,” e nor dey allow, but also perfectly *moral*, for any person to go steel. We *no go* steal – dey *must* steal. E dey moral madness!
+ As UPB dey talk say, e dey wrong for me and you to go steal. Yet somehow, in dis “null zone”, e nor dey allow, but also perfectly *moral*, for any person to go steel. We *no go* steal – dey *must* steal. E dey moral madness!
 
 ### Policemen
 
@@ -124,11 +124,11 @@ When Bob com chop him morning food, he nor go fit com attack his neighbor and co
 
 Surprisingly, dis na de only characteristic way him get dat he com totally change itself. He nor go fit fly, he nor go fit change his shape, he nor go fit com successfully digest ball bearings or com live inside an inferno; he no go fit run one thousand kilometres for one hour, and neither him go fit waka pass a brick wall. He na absolutely, utterly, and completely *de same man make e be **before** he punched in* - yet now, he com dey subject to completely de other moral rules.
 
-Even e com dey more surprisingly, if I nor be a “policeman,” but I com follow Bob go work, and com do exactly warin him dey do – I com wear a shirt, com waka enter de police station, and I com a piece of cardboard inside a punch clock – why, if I com then dey do exactly warin Bob dey do, I be completely and totally immoral, although warin Bob’s do dey completely and totally *moral*.
+Even e com dey more surprisingly, if I nor be a “policeman”, but I com follow Bob go work, and com do exactly warin him dey do – I com wear a shirt, com waka enter de police station, and I com a piece of cardboard inside a punch clock – why, if I com then dey do exactly warin Bob dey do, I be completely and totally immoral, although warin Bob’s do dey completely and totally *moral*.
 
 Warin beta dis thing com make? How we go fit conceivably unravel dis impenetrable magic?
 
-De simple true na *nor go fit* be unraveled, becos na completely deranged. De true dat dis “opposite world” moral madness na completely irrational – nor come talk violently exploitive – na so obvious dat dey must buried in warin nor get end cavalcade of mythlogical “voluntarism.”
+De simple true na *nor go fit* be unraveled, becos na completely deranged. De true dat dis “opposite world” moral madness na completely irrational – nor come talk violently exploitive – na so obvious dat dey must buried in warin nor get end cavalcade of mythlogical “voluntarism”.
 
 Dey com tell us dat we “want” Bob to take our money – which completely nor be de true dat Bob com appear com de front of our door com dey point a gun where full of bullet for our face. By dis logic, I go fit waka up and down dey street stealing money from my neighbors, and then I com dey show say I dey  utterly shocked when dey com arrested me:
 
@@ -138,7 +138,7 @@ Dey com tell us dat we “want” Bob to take our money – which completely nor
 
 “Becos dey *owe* me dere money!”
 
-  “I com dey think say dat dey want give you dere money.”
+  “I com dey think say dat dey want give you dere money”.
 
 “No, no – dey owe me. Na really *me* get de money!”
 

@@ -22,7 +22,7 @@ Also, if human beings cannot validly act to prevent harm to themselves, then act
 
 Well, we create another paradox. Self-defence is the use of violence to prevent violence. If self-defence is always wrong, then it cannot be violently “inflicted” upon an attacker. However, preferences that cannot be inflicted upon others fall into the APA or morally neutral category. To place the violence of self-defence into these categories is to say that violence cannot be inflicted on others – but the very nature of violence is that it *is* inflicted on others, and thus this approach results in a surfeit of contradictions.
 
-Self-defence cannot be “evil,” since evil by definition can be prevented through force. However, self-defence is a response to the initiation of force, and thus cannot be prevented through force, any more than you can stop the motion of a soccer ball by kicking it violently.
+Self-defence cannot be “evil”, since evil by definition can be prevented through force. However, self-defence is a response to the initiation of force, and thus cannot be prevented through force, any more than you can stop the motion of a soccer ball by kicking it violently.
 
 Self-defence also cannot be *required* behaviour, since required behaviour (“don’t rape”) can be enforced through violence, which would mean that anyone failing to violently defend himself could be legitimately aggressed against. However, someone failing to defend himself is *already* being aggressed against, and so we end up in a circular situation where everyone can legitimately act violently against a person who is not defending himself, which is not only illogical, but morally abhorrent.
 

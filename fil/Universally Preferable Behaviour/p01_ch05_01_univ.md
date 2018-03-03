@@ -2,9 +2,9 @@
 
 As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting”, “writing” and “speaking”.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant”, which is why I use the word “behaviour” rather than “thought”.
 
 Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
 
@@ -22,7 +22,7 @@ Let us now turn to a series of positive proofs for UPB.
 
 ### UPB And Validity
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect”.
 
 The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
 

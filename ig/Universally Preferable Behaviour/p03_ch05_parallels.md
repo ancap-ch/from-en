@@ -14,9 +14,9 @@ Anya ga si na odi oke mkpa itinye, n'atiti otu anyi, oke nkawado a bu ''ndi ochi
 
 Otu ahu, ''ndi ochichi'' adighi n'ezie kara otu ''chi'' di.
 
-Ka anyi n'ekwu ''chi'', ihe anyi n'ekwu n'ezie bu ntuzi okwu onye nzuko.”
+Ka anyi n'ekwu ''chi'', ihe anyi n'ekwu n'ezie bu ntuzi okwu onye nzuko”.
 
-Ka anyi n'ekwu ''ndi ochichi'', ihe anyi n'ekwu *n'ezie* bu ''ime ihe ike obere n'ime anyi'.”
+Ka anyi n'ekwu ''ndi ochichi'', ihe anyi n'ekwu *n'ezie* bu ''ime ihe ike obere n'ime anyi'”.
 
 Echiche e gosiri na ''iji oso oso'' n'ogbe fisics na usoro ndu, ekwekwa nwota nye anyi n'usoro otu uwa anyi.
 

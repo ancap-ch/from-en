@@ -4,7 +4,7 @@ A sakamakon gardaman mu na sama, zama iya ganin cewa ba zai yu a shiga ko wani m
 
 Nayi amfani da kamar “halayya” anan a me makon “ tunani” saboda ba zai yu a bambam ta tsaftaccen ciki da jihar da ba’a tabbatar ba kamar “tunani” daga hakika da jihar da aka tabbatar kamar “kirkira”, “rubutu” da “magana”.
 
-Abun da ba zai yu bane na tabbatar da mafarkin giwa jiya da daddare. Zai yu na tabbatar da rubuta kalmar “giwa,” wanda shine dalilin da na rubuta “halayya” a me makon “tunani.”
+Abun da ba zai yu bane na tabbatar da mafarkin giwa jiya da daddare. Zai yu na tabbatar da rubuta kalmar “giwa”, wanda shine dalilin da na rubuta “halayya” a me makon “tunani”.
 
 Nuna amince wa da babban dabara a cikin gardama shine *aiki*. Idan, ko wane lokaci na samu maki a akan ka, ban ce komai ba, kawai ddai na kyafta ma ido, zaka ji kyashin yin muhawara dani. Samun maki, dole sai nayi aikin magana da aka amince wa.
 
@@ -22,7 +22,7 @@ Bari mu juya jerin hujjoji masu ma’ana na UPB.
 
 ### UPB da Gaskiya
 
-Daya daga cikin matsalar da ake fuskan ta a wurin masu kwakwalwar kwarai shine bukatar tabbatar da dokokin kirki masu yiwuwa da yarda duk duniya. Har sai dokokin halin kirki ya zama rigor da dabara kamar kowa ne shawara, zamu zauna har a bada a madatsar tafiyar hawainiya a mallake, hassadar siyassa da hadin “gardama daga sakamako.”
+Daya daga cikin matsalar da ake fuskan ta a wurin masu kwakwalwar kwarai shine bukatar tabbatar da dokokin kirki masu yiwuwa da yarda duk duniya. Har sai dokokin halin kirki ya zama rigor da dabara kamar kowa ne shawara, zamu zauna har a bada a madatsar tafiyar hawainiya a mallake, hassadar siyassa da hadin “gardama daga sakamako”.
 
 Mafi kusanci daga masalin tarihi a matsayin mu ya faru ne a karni na sha-biyar da sha-shida, a lokacin da ilimin kimiya ya fara yaduwa. Magagatan farko dake yada abunda ya kamata da zurfin tunani wurin sarraffa ilimi sun fuskanci irin wannan hasssadar da muke fuskanta—duk irin wannan adawar, samun daurin gindin cocina da jahohi, sufi da masu mulki “daidai” da ilimin farkon shamakai. Wa’inda ke yada gaskiya na farko da zurfin tunani akan muhiman hakkokin injilla da azzalumman shugabanni sun fuskanci adawa daga masu bauta da wukake... Da yawan su an basu horo mai tsananin saboda gaskkiyar ililmin su—muna fuskantar karancin haka, don haka ya kamata muyi juriya wurin yada abun da yake *gaskiya* akan abun  da aka yarda dashi.
 

@@ -42,11 +42,11 @@ foo plus tury na same thing as desty” – come refuse to explain any of those 
 
 de way wey people dey try to “save” dem belief wey no make sense at all na to just for “alternate realm” or “alternate universe” wey be say anytin wey dem believe go dey true.
 
-If I talk say: “square circle dey,” I dey try talk wetin nor dey possible for dis world. Dat one mean say, if I stand gidigba for my tori, I get to form new world  wey dey “outside” d world wey  square circle fit dey.
+If I talk say: “square circle dey”, I dey try talk wetin nor dey possible for dis world. Dat one mean say, if I stand gidigba for my tori, I get to form new world  wey dey “outside” d world wey  square circle fit dey.
 
 If I come form  world wey be say my own beliefs dey equal to wetin dey true, dat one mean say I fit come talk say people wey nor believe say square circle dey nor dey reason well , cos dem nor dey reason wetin dey possible.
 
-If we consider wetin dem call “null zone,” na only two possibilities  really dey. na either dis null zone dey on im own and e no relate wit dis world and we nor fit measure am or find am in any way, or shape or form- or at a time we go fit find, den relate with dis our magic world wey say our belief go dey equal to wetin dey true.
+If we consider wetin dem call “null zone”, na only two possibilities  really dey. na either dis null zone dey on im own and e no relate wit dis world and we nor fit measure am or find am in any way, or shape or form- or at a time we go fit find, den relate with dis our magic world wey say our belief go dey equal to wetin dey true.
 
 If, time come reach wey be say e come be say we fit come dey relate with dis null zone, den we fit get direct feeling wey be like to touch sometin wey mean say e dey exist. Dis one follow mean say, e gats enter our real world anyhow wey e be. But stilll, d moment wey be say we fit find am for dis our real world..e gats dey real like everytin wer we fit feel and see. So dis oda world wey wan enta our real world nor fit create space wey go let our real world gree say square circle dey real
 

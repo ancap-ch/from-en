@@ -26,7 +26,7 @@ Idan mu kayi amfani da wannan hujja da gaddamar da’a, zamu samu sakamako mai d
 
 ### Fifiko da Gardama
 
-Tuna bayanin mu na baya akan gardama yakan kai, zamu iya gane sarkakiya halittar wannan maganan: “fifiko baya zama.” Bada cewa aikin mutane –harda yin maganan filosafas—shin zabe shine fifiko ga kowa ne aikin da zai yiwu, gardama akan fifikon da baya zama na bukatar *fifiko* wurin gardamar shin fifiko baya zama, wanda maganan ne mai yakar kanta. Gardama akan cewa fifiko baya zama daidai yake da gardamar cewa babu yare. Wannan kalma ce ta gardama mai yakan kai.
+Tuna bayanin mu na baya akan gardama yakan kai, zamu iya gane sarkakiya halittar wannan maganan: “fifiko baya zama”. Bada cewa aikin mutane –harda yin maganan filosafas—shin zabe shine fifiko ga kowa ne aikin da zai yiwu, gardama akan fifikon da baya zama na bukatar *fifiko* wurin gardamar shin fifiko baya zama, wanda maganan ne mai yakar kanta. Gardama akan cewa fifiko baya zama daidai yake da gardamar cewa babu yare. Wannan kalma ce ta gardama mai yakan kai.
 
 Tunda baya yiwuwa mu aikata wani aiki ba tare da fifiko ba—kamar jabu ko baro-baro-- duk wanda ya aikata aiki zai yarda akwai fifiko. Duk da abu ne mai wuya ayi gardama akan zaman fifiko ba tare da yarda da kasan cewar fifiko ba.
 
@@ -68,7 +68,7 @@ Kamar a jigo na 2, tunda duk wata gardama na bukatar yare, duk wani shawara dake
 
 Idan kai mun gyaran kuskuren da nayi, kana goyon bayan cewa hakan shine yafi zama daidai a gareni na gyara kuskuren.  Fifikon ka na gyara kuskure na ba tilas bane, amma hakika ne, kuma a duniyan ce.
 
-Ba zaka cemun: “na bar abun da na yarda dashi nabi naka ba saboda kafi son haka,” amma “ka gyara ra’ayin ka saboda hakikanin kuskuren ne.” Kuskure na ba daga kin yarda da kai bane, amma sakamakon kauce ma tsarin hakikan gaskiya. Gardaman ka cewa na gyara ra’ayin kuskure ya rataye ne akan ingancin hakikanin gaskiya—wanda idan gaskiya *fifikon duniya* akan kuskure, sannan kuma gaskiya *hakikanin duniya* ne.
+Ba zaka cemun: “na bar abun da na yarda dashi nabi naka ba saboda kafi son haka”, amma “ka gyara ra’ayin ka saboda hakikanin kuskuren ne”. Kuskure na ba daga kin yarda da kai bane, amma sakamakon kauce ma tsarin hakikan gaskiya. Gardaman ka cewa na gyara ra’ayin kuskure ya rataye ne akan ingancin hakikanin gaskiya—wanda idan gaskiya *fifikon duniya* akan kuskure, sannan kuma gaskiya *hakikanin duniya* ne.
 
 #### Jigo Na 5: Kawai Hakikanin Hanyar Bambam ce Gaskiya da Karya
 

@@ -12,7 +12,7 @@ A surgeon can “stab” you with a scalpel, but we can easily understand that h
 
 This difference can be understood through a further analysis of *initiation*.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent”, just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
 
 The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
 
@@ -25,7 +25,7 @@ On the other hand, if I stay home every night, I am not exactly courting crime, 
 ### The Non-Aggression Principle (NAP)
 
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist”, insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong”. Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
 
 When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
 

@@ -1,8 +1,8 @@
 ## Malukpanon Kaayo nga Nagustuhan nga Gawi
 
 Isip resulta sa mga argumento sa ibabaw, makita nato nga imposible kini nga makasulod og bisan unsa nga lantugi nga wala mingdawat sa basehanan nga pamahayag nga ang mga tino nga gawi kay *malukpanon kaayo nga nagustuhan*.
-Gigamit nako ang pulong nga “gawi” diri kay sa “hunahuna” tungod kay importante kini aron sa paglahi tali sa putli kaayo sa sulod ug dili masuta nga mga estado susama sa “paghunahuna” gikan sa katuyoan ug masuta nga mga estado susama sa “pag-akto,” “pagsuwat” ug “pagsulti.”
-Imposible kini nga mapamatud-an nga gadamgo ko og usa ka elepante sa miaging gabii. Posible kini nga mapamatud-an nga ako nakasulat og pulong nga “elepante,” nga mao ang hinungdan nga nigamit ko sa pulong nga “gawi” kay sa “hunahuna.”
+Gigamit nako ang pulong nga “gawi” diri kay sa “hunahuna” tungod kay importante kini aron sa paglahi tali sa putli kaayo sa sulod ug dili masuta nga mga estado susama sa “paghunahuna” gikan sa katuyoan ug masuta nga mga estado susama sa “pag-akto”, “pagsuwat” ug “pagsulti”.
+Imposible kini nga mapamatud-an nga gadamgo ko og usa ka elepante sa miaging gabii. Posible kini nga mapamatud-an nga ako nakasulat og pulong nga “elepante”, nga mao ang hinungdan nga nigamit ko sa pulong nga “gawi” kay sa “hunahuna”.
 Ang pagsanong ngadto lohika nga naglabaw sa argumento kay usa ka *aksyon*. Kung, matag higayon nga ako modawat og punto nganha kanimo, wala ko ningsulti, apan hinoon ningtutok rako nimo nga blangko kaayo, makita nimo kini nga makairitar nga makiglantugi hinoon ka nako. Sa pagdawat og punto, kinahanglan ko mobuhat sa aksyon nga binaba nga pagsanong.
 
 Busa mamahimo kini nga makita nga, kinaiyahanon sa matag akto sa pagkiglalis nga kwentada sa nasukip nga mga basehanan nga pamahayag nga dili mamahimo nga matuali nga mahunahunaan.
@@ -16,7 +16,7 @@ Moadto na kita karon ngadto sa mga siris sa positibo nga mga pruweba alang sa UP
 
 ### UPB ug Pagkatinuod
 
-Usa sa sentro nga mga hagit nga giatubang sa mga moderno nga pilosopo kay ang gikinahanglan nga pagpamatuod nga ang mga mando sa batasan mao ang duha nga posible og malukpanon. Hangtod nga ang mga mando sa pamatasan nga mahimo nga mahilisgotan sa susama nga kapig-ot ug katarong isip bisan unsa nga uban nga mga proposisyon, hangtud sa hangtud gayud kita nga mapakgang sa subhektibismo, mga pihig sa pulitika ug ang pragmatiko nga “argumento gikan sa epekto.”
+Usa sa sentro nga mga hagit nga giatubang sa mga moderno nga pilosopo kay ang gikinahanglan nga pagpamatuod nga ang mga mando sa batasan mao ang duha nga posible og malukpanon. Hangtod nga ang mga mando sa pamatasan nga mahimo nga mahilisgotan sa susama nga kapig-ot ug katarong isip bisan unsa nga uban nga mga proposisyon, hangtud sa hangtud gayud kita nga mapakgang sa subhektibismo, mga pihig sa pulitika ug ang pragmatiko nga “argumento gikan sa epekto”.
 
 Ang labing duol nga kapareha nga makasaysayanon sa atong sitwasyon sa pagkakaron kay nahitabo niadtong ika-kinse ug ika-desisayis nga mga siglo, sa panahon sa pagtumaw sa pamaagi nga siyentipiko. Ang mga nag-una nga payoner nga mingpasiugda sa makatarunganon ug empirikal nga diskarte ngadto sa kahibawo nga nag-atubang og susana ka mga pihig nga karon atung gisagubang – sa tanan nga mga susama nga dili makatarunganon, ang gisabwag nga mga gahom sa simbahan ug estado, mistikal ug hilisgotanan nga “mga hingpit” ug sa nag-una nga mga babag sa edukasyon. Kadtong mingpasiugda sa pag-una sa pagka-makatarunganon ug empirikal nga nabantayan batok sa Biblikal nga pundamentalismo ug sekular nga pagkasalbahis nga nakasagubang og determinado nga opisyon sa kadtong naggunit sa duha ang krus ug espada. Daghan ang natortyur ngadto sa kamatayon alang sa ilaha nga intelektwal nga kaligdong – kita nagasubang og risgo nga menos, ug kinahanglang mahimo nga labaw pa nga maisud sa pag-adbokar kung unsa ang *tinuod* ngadto sa kung unsa ang *gituohan*.
 

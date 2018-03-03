@@ -1,8 +1,8 @@
 ## ilana agbekale asa
 
-ilana ti atupale ni oye asa yato si awon oro oye toku. Timobasowipe,”mo nife si”jazzi”. Ole je oro otito tabior ta da lori iro,sugbon a o le sowipe o dimimu ni ona kan tabi omiran oye mi lori jazzi je oro lasan lori iferan mi; lori oro mi, ko kin shee dandan ji o nife jaazi tabi ki o mase nife re.
+ilana ti atupale ni oye asa yato si awon oro oye toku. Timobasowipe”,mo nife si”jazzi”. Ole je oro otito tabior ta da lori iro,sugbon a o le sowipe o dimimu ni ona kan tabi omiran oye mi lori jazzi je oro lasan lori iferan mi; lori oro mi, ko kin shee dandan ji o nife jaazi tabi ki o mase nife re.
 
-Bakanna, ti mba sowipe, “ mo nife efo”, eleyi naa je oro lasan lori iferan mi. sibesibe, ti mob a sowipe,”efo je ounje to dara” bayi moti sunlati oro toda lori mi si oro ti o ni imule. Oje iyato laarin “ monife icy creamu” ati “ icy creamu ni miliki ninu”
+Bakanna, ti mba sowipe, “ mo nife efo”, eleyi naa je oro lasan lori iferan mi. sibesibe, ti mob a sowipe”,efo je ounje to dara” bayi moti sunlati oro toda lori mi si oro ti o ni imule. Oje iyato laarin “ monife icy creamu” ati “ icy creamu ni miliki ninu”
 
 Iyato to wa laarin oro to da lelorimi ati oro otito ni wipe, oro otito maa n ni imule, asile danwo- o si wapo. Ti o ba ri iyi ninu otito, owa lorimi lati gba wipe icy cramu ni miliki ninu je oro otito, ti a bati fidire mule.[^1]
 

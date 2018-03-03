@@ -4,21 +4,21 @@ Ang tinutukoy namin ang "hindi-pagkakaroon" ng hindi nagtataglay ng masa o lakas
 
 Ang Diyos ay hindi nagtataglay ng masa o lakas, o ipakita ang mga epekto ng masa o enerhiya – Sa katunayan, ang Diyos ay hindi nakikita o napapatunayan sa anumang paraan, hugis o anyo, alinman sa pamamagitan ng pandama, o sa pamamagitan ng pagkamaykatwiran.
 
-Kaya kapag sinasabi ko, “mayroong Diyos,” ang talagang sinasabi ko:
+Kaya kapag sinasabi ko, “mayroong Diyos”, ang talagang sinasabi ko:
 
 “*Ang umiiral ay dapat na detectable; Hindi pweding makita ang Diyos, subalit mayroong Diyos – kaya nga kung saan ay hindi umiiral, umiiral.*”
 
-Sa madaling salita, sa pagsasabing "Mayroong Diyos,” Gumawa ako ng hindi malulutas na pagkakasalungatan. Tinukoy ko ang "pag-kakaroon" bilang "hindi-pagkakaroon,” na gumagawa ng tungkol sa mas maraming kahulugan bilang pagtukoy sa "buhay" bilang "walang buhay na bagay,” o isang bato bilang "kabaligtaran ng isang bato,” o isang "parisukat" bilang "bilog.”
+Sa madaling salita, sa pagsasabing "Mayroong Diyos”, Gumawa ako ng hindi malulutas na pagkakasalungatan. Tinukoy ko ang "pag-kakaroon" bilang "hindi-pagkakaroon”, na gumagawa ng tungkol sa mas maraming kahulugan bilang pagtukoy sa "buhay" bilang "walang buhay na bagay”, o isang bato bilang "kabaligtaran ng isang bato”, o isang "parisukat" bilang "bilog”.
 
-Ang katulad nito, kung gumawa ako ng ilang alternatibong uniberso kung saan ang "hindi-pagkakaroon ay katumbas ng pag-kakaroon” at "nagkakasalungatan ang pagkakasalungatan” at "katotohanan ay katumbas ng kasinungalingan" at "hindi makatwiran ang katumbas ng pagkamakatuwiran,” kung ano talaga ang ginawa ko ay lumilikha ng isang lupon na tinatawag na "pag-kakamali,” ilagay ang lahat sa loob nito na hindi totoo, at tinutukoy ang lupain na ito bilang isang lugar kung saan ang "pagkakamali ay katumbas ng katotohanan.”[^2]
+Ang katulad nito, kung gumawa ako ng ilang alternatibong uniberso kung saan ang "hindi-pagkakaroon ay katumbas ng pag-kakaroon” at "nagkakasalungatan ang pagkakasalungatan” at "katotohanan ay katumbas ng kasinungalingan" at "hindi makatwiran ang katumbas ng pagkamakatuwiran”, kung ano talaga ang ginawa ko ay lumilikha ng isang lupon na tinatawag na "pag-kakamali”, ilagay ang lahat sa loob nito na hindi totoo, at tinutukoy ang lupain na ito bilang isang lugar kung saan ang "pagkakamali ay katumbas ng katotohanan”.[^2]
 
-Oo naman!, hindi nilikha ng mga tao ang "kahaliling uniberso" upang mapawalang-bisa ang katotohanan sa loob ng ating sariling uniberso, subalit sa halip na iligtas ang mali sa katotohanan, at tawagin itong totoo. Ang halimbawa, walang sinumang nag-tuturo na "ang Diyos ay pweding umiiral sa ibang uniberso, kaya hindi mo ma-tanggap na ang Diyos ay hindi umiiral "kailanman magpakilala" Maaaring hindi *ako* umiiral sa iba pang uniberso, kaya hindi mo ma-tanggap na umiiral ako dito.”
+Oo naman!, hindi nilikha ng mga tao ang "kahaliling uniberso" upang mapawalang-bisa ang katotohanan sa loob ng ating sariling uniberso, subalit sa halip na iligtas ang mali sa katotohanan, at tawagin itong totoo. Ang halimbawa, walang sinumang nag-tuturo na "ang Diyos ay pweding umiiral sa ibang uniberso, kaya hindi mo ma-tanggap na ang Diyos ay hindi umiiral "kailanman magpakilala" Maaaring hindi *ako* umiiral sa iba pang uniberso, kaya hindi mo ma-tanggap na umiiral ako dito”.
 
-Sila rin ay may posibilidad na hindi tumugon nang maayos sa argumento na: “Sa ibang uniberso, pwedi kang sumang-ayon sa akin na ang Diyos ay hindi umiiral, kaya ginagawa mo ang isang ateista.”[^3]
+Sila rin ay may posibilidad na hindi tumugon nang maayos sa argumento na: “Sa ibang uniberso, pwedi kang sumang-ayon sa akin na ang Diyos ay hindi umiiral, kaya ginagawa mo ang isang ateista”.[^3]
 
 Kung ang tamang mga pahayag tungkol sa katotohanan ay pweding walang katapusang sumasalungat dahil ang ilang mga haka-haka na kaharian na tinatawag na "pag-kakamali ay katumbas ng katotohanan" na nagpawalang-bisa sa mga ito, kung ano talaga ang sinabi ay "walang positibong pahayag tungkol sa katotohanan na pweding maging wasto" - gayunpaman, kami ay matalino sapat bilang mga pilosopo sa ngayon upang malaman na ang napaka-pahayag na ito ay kontrahan sa sarili, dahil ito ay isang positibong pahayag na itinuturing na totoo na nagsasabing walang positibong pahayag na pweding totoo. Kung walang pweding totoo o hindi – kahit na pahayag na iyon – at pagkatapos ay walang pahayag kung ano pa man ang pweding gawin tungkol sa anumang bagay. Paggamit ng mga salita, gamit ang Ingles, gamit ang mga mahahalagang pangungusap – ang lahat ay walang anumang kahulugan, yamang sa ganitong "alternatibong sansinukob" ang gayong nakabalangkas na mga pananalita ay pweding kumpleto na walang kapararakan. Kung ang mga bagay na pweding totoo sa kahaliling sansinukob na ito ay may epekto sa mga pahayag na ginagawa natin sa sansinukob na ito, pagkatapos ay malinaw na ang kabaligtaran ay totoo rin, na nangangahulugan na walang mga pahayag na pweding gawin tungkol sa anumang bagay, dahil ang kanilang eksaktong kabaligtaran ay pweding maging totoo.
 
-Ang tunay na katotohanan ng pahayag na "Pagkakamali ay katumbas ng katotohanan” ang tautological na pagkaloko ng "null equals null.”
+Ang tunay na katotohanan ng pahayag na "Pagkakamali ay katumbas ng katotohanan” ang tautological na pagkaloko ng "null equals null”.
 
 ### Ang "Kapalit na daigdig" Sa Human Society
 
@@ -26,7 +26,7 @@ Ang dahilan kung bakit kami ay gumugol ng labis na oras sa pagharap sa "kapalit 
 
 Sa sarili nating karanasan, alam natin na ang pagpatay ay mali. Sa pagsasagawa ng tuntunin na ang pagpatay ay mali sa moralidad sa mga halimbawa sa itaas, Mahigpit akong nag-dadalawang isip na ang sinuman ay nagulat na magkaroon ng kanilang mga ugali sa moral na nakumpirma sa pamamagitan ng mahigpit na abstract na pangangatwiran ng UPB. Gayunman, sa bahaging ito, ito ay opisyal na pinapayagan para sa iyo upang simulan na maging tunay na nagulat.
 
-Ang pinakadakilang lumakad pasulong sa pang-agham na pag-unawa ay ang tinatawag na "nagkakaisa teorya.” Ginugol ni Einstein ang mga dekada na nagsisikap na gumawa ng pinag-isang teorya ng patlang; at mga teorya ng pisika na nagkakaisa ng malakas at mahina na pwersa, ang electromagnetism, ang grabidad at iba pa ay nananatiling mahirap hulihin.
+Ang pinakadakilang lumakad pasulong sa pang-agham na pag-unawa ay ang tinatawag na "nagkakaisa teorya”. Ginugol ni Einstein ang mga dekada na nagsisikap na gumawa ng pinag-isang teorya ng patlang; at mga teorya ng pisika na nagkakaisa ng malakas at mahina na pwersa, ang electromagnetism, ang grabidad at iba pa ay nananatiling mahirap hulihin.
 
 Gayunpaman, ang UPB bilang balangkas, hindi lamang pinahihintulutan ang aming mga moralidad sa personal na kalikasan, pilosopiko at unibersal na antas – subalit may malalim at nakakagulat na implikasyon para sa lipunan ng tao.
 
@@ -48,11 +48,11 @@ Ang pagnanakaw ay mali sa moralidad, katulad ng nakita natin sa itaas. May moral
 
 Ang tinatawag nating "pamahalaan" ay isa lamang halimbawa ng *null zone* na kung saan ang taas ay pababa, itim ay puti, ang katotohanan ay kasinungalingan at kasamaan ay mabuti.
 
-Ang pag-unlad ng lipunan ay eksakto sa antas na dahilan at katibayan na gumagawa ng mahusay na hakbang mula sa personal hanggang sa unibersal, at wasakin ang alinmang hindi makatwiran *null zones* sa paraan. Ang agham ay umuunlad nang eksakto sa antas na tinatanggihan nito ang kawalang katwiran ng Diyos at ang mga pansarili "Tiyak.” Ang paggalaw ay eksaktong eksakto sa antas na tinatanggihan nito ang bisa ng panalangin at walang-saysay na ritwal, at sa halip ay nakasalalay sa dahilan at katibayan. Pilosopiya din – at lipunan ng tao sa pangkalahatan – ay isulong nang eksakto sa antas na tinatanggihan nito ang hindi-makatwirang "parisukat na balangkas ng moralidad" ng istatistika at relihiyosong mga teoryang etika.
+Ang pag-unlad ng lipunan ay eksakto sa antas na dahilan at katibayan na gumagawa ng mahusay na hakbang mula sa personal hanggang sa unibersal, at wasakin ang alinmang hindi makatwiran *null zones* sa paraan. Ang agham ay umuunlad nang eksakto sa antas na tinatanggihan nito ang kawalang katwiran ng Diyos at ang mga pansarili "Tiyak”. Ang paggalaw ay eksaktong eksakto sa antas na tinatanggihan nito ang bisa ng panalangin at walang-saysay na ritwal, at sa halip ay nakasalalay sa dahilan at katibayan. Pilosopiya din – at lipunan ng tao sa pangkalahatan – ay isulong nang eksakto sa antas na tinatanggihan nito ang hindi-makatwirang "parisukat na balangkas ng moralidad" ng istatistika at relihiyosong mga teoryang etika.
 
 ### Ang gobiyerno
 
-Sinasabi na ang gobyerno ay pinapatakbo sa ilalim ng tapat na mga tuntunin ng moralidad mula sa iba pang lipunan ay eksaktong katulad ng sinasabi, “Ang leprechauns ay hindi tinatablan ng grabidad.” Una sa lahat, walang leprechauns – at isa sa mga paraan kung saan alam natin na hindi sila umiiral ay inaangkin na sila ng hindi tinatablan ng grabidad. Ang lahat ng may masa ay napapailalim sa grabidad – ang di-tinatablan ng grabidad sa pamamagitan ng kahulugan ay walang masa, at samakatuwid ay hindi umiiral. Ang pahayag na "leprechauns ay hindi tinatablan ng grabidad" ay isang tautolohiya, na nagpapatunay lamang sa ang hindi-pagkakaroon ng mga leprechauns – na ito ay ang semantikong katumbas "na kung saan ay hindi umiiral, na hindi umiiral.” A ay A, Unang batas ng lohika ni Aristotle, ay mahalaga maliit upang kumpirmahin ang pagkakaroon ng na kung saan ay tinukoy bilang di-pagkakaroon.
+Sinasabi na ang gobyerno ay pinapatakbo sa ilalim ng tapat na mga tuntunin ng moralidad mula sa iba pang lipunan ay eksaktong katulad ng sinasabi, “Ang leprechauns ay hindi tinatablan ng grabidad”. Una sa lahat, walang leprechauns – at isa sa mga paraan kung saan alam natin na hindi sila umiiral ay inaangkin na sila ng hindi tinatablan ng grabidad. Ang lahat ng may masa ay napapailalim sa grabidad – ang di-tinatablan ng grabidad sa pamamagitan ng kahulugan ay walang masa, at samakatuwid ay hindi umiiral. Ang pahayag na "leprechauns ay hindi tinatablan ng grabidad" ay isang tautolohiya, na nagpapatunay lamang sa ang hindi-pagkakaroon ng mga leprechauns – na ito ay ang semantikong katumbas "na kung saan ay hindi umiiral, na hindi umiiral”. A ay A, Unang batas ng lohika ni Aristotle, ay mahalaga maliit upang kumpirmahin ang pagkakaroon ng na kung saan ay tinukoy bilang di-pagkakaroon.
 
 Sa parehong paraan, kapag sinasabi nating maganda ang moralidad ng mga sundalo sa pagpatay at mga kinatawan ng gobyerno na magnakaw, alam namin na ang "mga sundalo" at "mga kinatawan ng gobyerno" bilang mga kategorya ng moralidad ay *ganap na di-wasto*.
 
@@ -62,11 +62,11 @@ Kung bibili ako ng kasuutan ng kawal sa pangalawang tindahan ng kamay, at ilagay
 
 Hinihiling ko ang mga tanong na retorika dahil sa katunayan sila ay seryosong nakamamatay. Malinaw, ang isang militar na kasuutan ay hindi babaguhin ang likas na katangian ng isang tao, alinmang higit pa sa isang gupit ay lumiliko siya sa isang pato, isang konsepto, o isang diyos.
 
-"Ah," pwedi mong sabihin, “subalit ang kasuutan ay hindi tama dahil nakuha mo ito sa isang pangalawang tindahan ng kamay – ang paglalagay ng uniporme ng kawal ay hindi na gumagawa ng kawal kaysa sa pag-kupya sa doktor ay nagbibigay sa iyo ng Ph.D.”
+"Ah," pwedi mong sabihin, “subalit ang kasuutan ay hindi tama dahil nakuha mo ito sa isang pangalawang tindahan ng kamay – ang paglalagay ng uniporme ng kawal ay hindi na gumagawa ng kawal kaysa sa pag-kupya sa doktor ay nagbibigay sa iyo ng Ph.D”.
 
 Ang pagkakapareho ay hindi tama, dahil sa pagkakaroon ng isang Ph.D. o ang pag-kupya sa isang titulo ng doktor ay hindi nagbabago sa alinman sa mga panukalang moral na napapa sailalim sa iyo bilang isang tao.
 
-"Buweno," Pwedi kang tumugon, “subalit ang kaibahan ng sundalo ay nagtataglay ng mga karapatan sa moralidad na ibinibigay sa kanya ng pang-karaniwang mamamayan, alang-alang sa kolektibong pagtatanggol sa sarili at iba pa.”
+"Buweno," Pwedi kang tumugon, “subalit ang kaibahan ng sundalo ay nagtataglay ng mga karapatan sa moralidad na ibinibigay sa kanya ng pang-karaniwang mamamayan, alang-alang sa kolektibong pagtatanggol sa sarili at iba pa”.
 
 Itinataas nito ang isang napaka-kagiliw-giliw na punto, kung saan ang tanong kung ang mga opinyon ay pweding magbago ng katotohanan.
 
@@ -81,11 +81,11 @@ ipalagay na ikaw ay isang isda na hindi lalaktawan ang iyong pangangailangan par
 
 Ang mga opinyon ay hindi nagbabago sa katotohanan.
 
-Dahil ang mga opinyon ay hindi nagbabago sa katotohanan, Hindi ko maibibigay sa iyo ang anumang eksepsiyon o pagkabaligtad tungkol sa isang unibersal na patakaran ng moralidad. Dahil ang mga patakaran ng moralidad ay batay sa unibersal na lohika, pati na rin ang pisikal na kalikasan at katotohanan ng isang tao, Hindi ko maibibigay sa iyo ang "karapatan sa pagpatay,” anumang higit na pwedi kong bigyan ka ng kakayahang lumabas, lumakad sa tubig o tumpak na sabihin na dalawa at dalawa ang gumawa ng lima.
+Dahil ang mga opinyon ay hindi nagbabago sa katotohanan, Hindi ko maibibigay sa iyo ang anumang eksepsiyon o pagkabaligtad tungkol sa isang unibersal na patakaran ng moralidad. Dahil ang mga patakaran ng moralidad ay batay sa unibersal na lohika, pati na rin ang pisikal na kalikasan at katotohanan ng isang tao, Hindi ko maibibigay sa iyo ang "karapatan sa pagpatay”, anumang higit na pwedi kong bigyan ka ng kakayahang lumabas, lumakad sa tubig o tumpak na sabihin na dalawa at dalawa ang gumawa ng lima.
 
 ### Ang Pamahalaan bilang pagboboluntaryo
 
-Ang bukas na lakas na kasangkot sa institusyon ng gobyerno – ang konseptong pambalot na nagbabaligtad sa mga panukala ng moralidad para sa isang partikular na pangkat ng mga indibidwal – na isang bagay na laging itinatago sa talahanayan sa mga debate. Kapag pinag-uusapan ang tungkol sa pamahalaan, ito ay hindi itinuturing na isang positibong bagay upang ituro "ang baril sa silid.” Halos sa kahulugan, Ang mga pamahalaan ay itinuturing na pinili at para sa mga tao, at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
+Ang bukas na lakas na kasangkot sa institusyon ng gobyerno – ang konseptong pambalot na nagbabaligtad sa mga panukala ng moralidad para sa isang partikular na pangkat ng mga indibidwal – na isang bagay na laging itinatago sa talahanayan sa mga debate. Kapag pinag-uusapan ang tungkol sa pamahalaan, ito ay hindi itinuturing na isang positibong bagay upang ituro "ang baril sa silid”. Halos sa kahulugan, Ang mga pamahalaan ay itinuturing na pinili at para sa mga tao, at upang gumana sa kanilang ipinahayag o pahiwatig na pag-apruba.
 
 Gayunpaman, ito ay dalisay na walang kabuluhan.
 
@@ -105,7 +105,7 @@ Ito ay tunay, subalit ito ay ganap na walang katuturan. Kung sasabihin ko sa isa
 
 Ang pagsasabi na ang lakas ay katumbas ng pagboboluntaryo ay ganap na hindi makatwiran at kontradiksyon sa sarili. Upang sabihin na ang pagsisimula ng paggamit ng lakas ay ganap na katumbas ng hindi-pagsisimula ng paggamit ng lakas ay upang sabihin na ang pag-taas ay pababa, itim ay puti, at ang katotohanan ay kasinungalingan.
 
-Kung wala ang “null zone,” ang mga maling kathambuhay na ito ay hindi mapapatuloy.
+Kung wala ang “null zone”, ang mga maling kathambuhay na ito ay hindi mapapatuloy.
 
 Ang “null zone” ay ang tirahan ng halimaw na hinahanting namin.
 
@@ -123,11 +123,11 @@ Kapag may almusal si Bob, hindi rin siya makakaatake sa kanyang kapwa at kukunin
 
 Kakaiba, ito ang tanging katangian ng kanyang ganap na nababaligtad. Hindi siya pweding lumipad,hindi niya mababago ang kanyang hitsura, hindi niya matagumpay na mahuli ang bearings ng bola o mabuhay sa isang impyerno; hindi siya pweding tumakbo ng isang libong kilometro isang oras, at hindi rin siya pweding maglakad sa isang pader ng laryo. Siya ay walang pasubali, lubos, at ganap *ang parehong tao bilang siya **bago** siya manuntok sa* – sa ngayon, siya ay napapasailalim sa ganap na kabaligtaran sa mga panukala ng moralidad.
 
-Kahit na mas kakaiba, kung hindi ako isang “pulis,” subalit sinusunod ko si Bob upang gumana, at gawin nang eksakto kung ano ang ginagawa niya – Nagsuot ako ng kasuutan, naglakad papunta sa istasyon ng pulisya,  – at ilagay ang isang piraso ng karton sa isang punch orasan, Ako ay ganap at ganap na imoral, bagama't ang magkatulad na pagkilos ni Bob ay ganap at nilagay ang isang piraso ng karton sa isang punch orasan at ganap na *moral*
+Kahit na mas kakaiba, kung hindi ako isang “pulis”, subalit sinusunod ko si Bob upang gumana, at gawin nang eksakto kung ano ang ginagawa niya – Nagsuot ako ng kasuutan, naglakad papunta sa istasyon ng pulisya,  – at ilagay ang isang piraso ng karton sa isang punch orasan, Ako ay ganap at ganap na imoral, bagama't ang magkatulad na pagkilos ni Bob ay ganap at nilagay ang isang piraso ng karton sa isang punch orasan at ganap na *moral*
 
 Anong uri ng kahulugan ang ginagawa nito? Paano natin malalaman ang hindi napipintong misteryo na ito?
 
-Ang simpleng katotohanang ito ay hindi pweding malutas, dahil ito ay ganap na baliw. Ang katotohanan na ang "kabaligtaran sa mundo" na moral na kabaliwan ay ganap na hindi makatwiran – hindi babanggitin ang marahas na pagsasamantala – ay napakalinaw na dapat itong ilibing sa isang walang katapusang kawalkada ng mitolohiko “pag-boboluntaryo.”
+Ang simpleng katotohanang ito ay hindi pweding malutas, dahil ito ay ganap na baliw. Ang katotohanan na ang "kabaligtaran sa mundo" na moral na kabaliwan ay ganap na hindi makatwiran – hindi babanggitin ang marahas na pagsasamantala – ay napakalinaw na dapat itong ilibing sa isang walang katapusang kawalkada ng mitolohiko “pag-boboluntaryo”.
 
 at sinabi sa amin na "gusto" ni Bob na kunin ang aming pera – na kung saan ganap na sumalungat ang katotohanan na nagpapakita kay Bob sa aming pintuan pagturo ng isang pag-karga ng baril sa aming mga mukha. Sa pamamagitan ng lohika na ito, Pwedi rin akong pumunta pataas at pababa ang kalye ng pagnanakaw ng pera mula sa aking mga kapitbahay, at pagkatapos ay tanggapin na lubos na ikagulat kapag ako ay naaresto:
 
@@ -137,7 +137,7 @@ at sinabi sa amin na "gusto" ni Bob na kunin ang aming pera – na kung saan gan
 
 “Dahil sila *ay may utang* ako sa kanilang pera!”
 
-“Akala ko ay sinabi mo na gusto mo na ibigay sa iyo ang kanilang pera.”
+“Akala ko ay sinabi mo na gusto mo na ibigay sa iyo ang kanilang pera”.
 
 “Hindi, hindi – may utang ako sa kanila. totoo nga *sa aking* pera!”
 
@@ -153,7 +153,7 @@ at sinabi sa amin na "gusto" ni Bob na kunin ang aming pera – na kung saan gan
 
 “Oo, syempre – magkaroon ng isang hitsura dito!”
 
-“Magaling!, ito ay isang sulat-kamay na tala na nagsasabi na pagmamay-ari mo ang buong kapitbahayan – at ito ay parehong sulat-kamay bilang iyong lagda. Natatakot ako na kailangan naming i-taan ka – ito ay isang kontratang ginawa sa iyong sarili, na kung saan ikaw ay magdadala sa iba pang mga tao sa punto ng isang baril.”
+“Magaling!, ito ay isang sulat-kamay na tala na nagsasabi na pagmamay-ari mo ang buong kapitbahayan – at ito ay parehong sulat-kamay bilang iyong lagda. Natatakot ako na kailangan naming i-taan ka – ito ay isang kontratang ginawa sa iyong sarili, na kung saan ikaw ay magdadala sa iba pang mga tao sa punto ng isang baril”.
 
 Ito ay bilang ganap na sira ang ulo at sira habang ako ay patuloy na nagsasabi sa isang babae na aking ginahasa na siya *gusto* upang makipag-talik sa akin. Pwedi mong isipin kung ako ay sinusubukan para sa panggagahasa, at nagkaroon ng videotape ng babae na nanghihingi sa akin na huminto, at may kutsilyo ako sa kanyang leeg, kung paano matatanggap ang pagtatanggol ko kung patuloy kong iginiit na talagang *gusto niya* makipag talik sa akin?
 

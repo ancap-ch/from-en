@@ -22,7 +22,7 @@ Namun, terdapat dalam pikiran kita entitas imajiner yang disebut "Tuhan", dan en
 
 Dengan demikian kita memiliki kebenaran kecil (*jangan memukul*) dan kebenaran besar (*kekerasan adalah salah*) tetapi di tengah, kita memiliki “zona mansuh” *yang mana kebalikan dari kedua kebenaran kecil kami dan kebenaran besar kami dianggap sangat benar*.
 
-Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. Tidak ada lingkaran sempurna dalam pengalaman langsung kita, namun karena kepercayaan terhadap Tuhan, semua gerak planet harus menjadi "lingkaran sempurna" - sebuah premis yang memperlambat astronomi selama berabad-abad. Demikian pula, jika seorang pria menoleh, dia tidak yakin bahwa seluruh dunia berputar di sekelilingnya - dan dia dengan senang hati menempatkan ini ke depan tidak hanya sendirinya “kebenaran kecil,” tetapi juga sebagai *kebenaran besar*, atau prinsip universal. Namun untuk sebagian besar sejarah manusia, diyakini bahwa bintang dan planet berputar di sekitar Bumi, dan bukan yang diputar di Bumi. Di sini sekali lagi kita bisa melihat "zona mansuh" antara pengalaman langsung dan prinsip universal, dimana prinsip-prinsip yang berlawanan sama-sama dianggap sangat valid.
+Secara historis, kita bisa melihat inkonsistensi yang sama dalam fisika. Tidak ada lingkaran sempurna dalam pengalaman langsung kita, namun karena kepercayaan terhadap Tuhan, semua gerak planet harus menjadi "lingkaran sempurna" - sebuah premis yang memperlambat astronomi selama berabad-abad. Demikian pula, jika seorang pria menoleh, dia tidak yakin bahwa seluruh dunia berputar di sekelilingnya - dan dia dengan senang hati menempatkan ini ke depan tidak hanya sendirinya “kebenaran kecil”, tetapi juga sebagai *kebenaran besar*, atau prinsip universal. Namun untuk sebagian besar sejarah manusia, diyakini bahwa bintang dan planet berputar di sekitar Bumi, dan bukan yang diputar di Bumi. Di sini sekali lagi kita bisa melihat "zona mansuh" antara pengalaman langsung dan prinsip universal, dimana prinsip-prinsip yang berlawanan sama-sama dianggap sangat valid.
 
 Tidak ada orang waras yang merasakan Tuhan secara langsung. Dalam kehidupan sehari-harinya, dia sepenuhnya menerima itu *Bahwa yang tidak dapat dirasakan tidak ada*. Tidak ada orang yang masuk akal tersentak setiap kali dia mengambil langkah, takut akan dinding tak terlihat yang mungkin menghalangi jalannya. Abstraksi terbesar sains mendukung pendekatannya.
 
@@ -89,7 +89,7 @@ Dunia jatuh karena batu-batu jatuh.
 
 Secara biologis, parasitisme adalah sebuah strategi bertahan hidup yang sepenuhnya bertahan untuk banyak makhluk. Dengan tidak adanya norma etika, mencuri energi dan sumber daya dari makhluk lain sangat masuk akal. Secara umum, bentuk parasitisme yang paling stabil dan stabil adalah *simbiosis*, atau koeksistensi yang saling menguntungkan. Dengan demikian bakteri yang menghuni usus-usus kita membantu kelangsungan hidup mereka sendiri dengan membantu kita mencerna makanan kita.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial”. If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
 
 When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
 
@@ -113,7 +113,7 @@ However, the philosophers who oppose *all* intellectual error are the sworn enem
 
 The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths”, which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
 
 ### Effective Parasitism
 
@@ -121,12 +121,12 @@ The most effective parasites – or viruses – are those which fool the body in
 
 If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+This is an example of a “little truth”, which is: “Stealing from me is wrong”.
 
 However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong”.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+This book will focus on exposing and destroying these false “middle truths”. I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
 
 My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.

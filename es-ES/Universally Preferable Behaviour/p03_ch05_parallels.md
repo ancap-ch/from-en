@@ -16,9 +16,9 @@ Como sea, “el gobierno” no existe más de lo que “dios” existe.
 
 Cuando hablamos de “dioses”, realmente estamos hablando de “las opiniones de los sacerdotes”.
 
-Cuando hablamos de “el gobierno”, *realmente* queremos decir “la violencia de una pequeña minoría.”
+Cuando hablamos de “el gobierno”, *realmente* queremos decir “la violencia de una pequeña minoría”.
 
-La idea de un “orden espontáneo,” que está bien probado en los ámbitos de la física y la biología, permanece en gran parte inconcebible para nosotros en el ámbito de la sociedad.
+La idea de un “orden espontáneo”, que está bien probado en los ámbitos de la física y la biología, permanece en gran parte inconcebible para nosotros en el ámbito de la sociedad.
 
 Cómo sea, los “gobiernos” no son más necesitados para la organización y la continuidad de la sociedad que los “dioses” son requeridos para la organización y continuidad del universo.
 
@@ -40,7 +40,7 @@ Podemos escoger creer que el gobierno es una institución tanto necesaria como m
 
 Supersticiones similares, por supuesto, han retrasado el progreso de la humanidad a través de la historia. El precursor más significante de lo que el CUP revela acerca del gobierno es lo que la ciencia reveló acerca de la religión.
 
-Así como la ciencia inició a prácticamente postular un universo que podía funcionar sin un dios, toda forma de histeria exclamaba que el fin del mundo estaba cerca, que la sociedad colapsaría en la “anarquía,” y que la civilización se disolvería en una guerra de todos contra todos.
+Así como la ciencia inició a prácticamente postular un universo que podía funcionar sin un dios, toda forma de histeria exclamaba que el fin del mundo estaba cerca, que la sociedad colapsaría en la “anarquía”, y que la civilización se disolvería en una guerra de todos contra todos.
 
 Cada vez que un sistema justifica que el poder puede ser concebido de correr *sin* ese poder, todos los que se benefician de la manipulación de ese poder gritarán que sin ellos, todo está perdido.
 

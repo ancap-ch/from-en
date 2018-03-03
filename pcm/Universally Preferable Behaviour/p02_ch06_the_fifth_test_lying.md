@@ -34,6 +34,6 @@ So e nor bad if we lie to who dey lie, just as e nor bad if we use punch defend 
 
 de difference na say " to dey late" nor dey too spoil things as to lie. Person wey like lateness dey annoying, but im nor block your eye to see wetin dey happen.  Na one thing for me to show up one hour late for meeting wey go start by seven o'Clock for morning – na another thing for me to try to convince you say we been set de meeting for eight o'clock in de morning, wen I know say nor be true.
 
-To dey attack your confidence for your own mind  dey far more egregious than just to make you wait, since you dey use anoda person trust for you, to spoil de trust wen im get for im sef, and dis one dey highly corrupt, since na to use value spoil value, like to make counterfeit. Na so UPB validate the illogic of the proposition wey say "to lie na gud thing"  and e confirm say to lie to person worse pass lateness but e beta pass assault.”
+To dey attack your confidence for your own mind  dey far more egregious than just to make you wait, since you dey use anoda person trust for you, to spoil de trust wen im get for im sef, and dis one dey highly corrupt, since na to use value spoil value, like to make counterfeit. Na so UPB validate the illogic of the proposition wey say "to lie na gud thing"  and e confirm say to lie to person worse pass lateness but e beta pass assault”.
 
 [^5]: Sometimes dem dey call am "gas-lighting" cos of one olden days movie like dat.

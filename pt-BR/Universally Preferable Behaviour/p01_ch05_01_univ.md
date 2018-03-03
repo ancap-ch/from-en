@@ -2,9 +2,9 @@
 
 Como resultado dos argumentos acima, podemos ver que é impossível entrar em qualquer debate sem aceitar a premissa que certos comportamentos são *universalmente preferíveis*.
 
-Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo”,”escrevendo” e “falando.”
+Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo””,escrevendo” e “falando”.
 
-É impossível provar que eu sonhei com um elefante noite passada. É impossível provar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
+É impossível provar que eu sonhei com um elefante noite passada. É impossível provar que eu tinha escrito a palavra “elefante”, e é por isso que eu uso a palavra “comportamento” em vez de “pensamento”.
 
 Permitir que a lógica superior seja um argumento é uma "ação". Se o tempo todo eu concedesse um ponto a você, não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. Para conceder um ponto, eu devo executar a ação da acquiescência verbal.
 
