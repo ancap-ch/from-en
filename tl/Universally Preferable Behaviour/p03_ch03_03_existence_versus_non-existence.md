@@ -116,7 +116,7 @@ Syempre ako ay maari, pero ito ay hindi pa naging tunay o totoo.
 
 Isang *tao* lamang ang gumawa – nang sa "karamihan" ay hindi kailanman ginawa. kung mabuting mga patakaran siguro ang babaguhin at kung ang isang siguradong bilang ng tao ay magkakasama, at pakatapos ang UPB ay patuloy parin sa paglabag.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Kung ito ay mabuti para kay bob at doug na halayin si jane dahil sila'y "labas na sa pagboto," ano ang mga mangyayari kung si jane ay may dalawang kaibigan na nagpakita at bumoto na salungat naman kay bob at doug's na makagawa ng makademonyong pagnanais?
 
 Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
 
