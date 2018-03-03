@@ -122,6 +122,6 @@ Mabuti, biglaan sina bob at doug ay mga nagbago na ilabas na sa pagboto, at mang
 
 Walang matibay ang may pagbabago dito sa "labas na sa pagboto" mga nangyayari, ngunit ang lahat ay may isang palabas na lumalaban ang mabuting mga patakaran para sa parehong lalaki – isang pagsuway ng UPB, at kaya naman walang bisa.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Ang panghahalay ay hindi mabuti, pagkatapos masama, pagkatapos ay mabuti ulit, lamang dahil isa lang sa iilang mga kamay ang maitataas o maibababa.
 
 Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
