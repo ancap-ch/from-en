@@ -90,11 +90,11 @@ Se este cobrador de impostos afirmar que o seu conceito chamado "o governo" só 
 
 O CUP não permite à aglomeração de indivíduos, pisar ou passar por cima das propriedades de cada indivíduo. Dez leões não fazem um elefante, um governo ou um deus. Dez mil soldados podem fazer um "exército", mas não podem reverter a gravidade, nem fazer que o assassinato seja moral.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Regressando uma última vez para a sala de Bob e Doug, vamos apresentar "Jane"
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Agora que há três pessoas na sala, podemos examinar o princípio da "regra da maioria".
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Se Bob, Doug e Jane fazem uma "votação" sobre se é ou não moral violar Jane, todos nós recuaremos perante uma premissa tão injusta e imoral. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
 
 Why not?
 
