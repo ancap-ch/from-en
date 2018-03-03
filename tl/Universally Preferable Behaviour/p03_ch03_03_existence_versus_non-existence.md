@@ -104,9 +104,9 @@ Sa sinabi na "ang karamihan"ay may katuwiran o may mga katangian na kung saan de
 
 Siyempre hindi.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Kaya kung ito ay hindi mabuti para sa taong nilalang na hinalay, siguro ako ay lohical na gagawa ng mga uri na ang tawag ay "kalamangan" at pagkatapos ay kukuhain para sa *mga* taong nilalang, panghahalay nga ba sa ngayon ay kagandahang-asal at nakabubuti?
 
-Of *course* not.
+Sa *paraan* hindi.
 
 ### Patakaran ng karamihan
 
