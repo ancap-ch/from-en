@@ -30,9 +30,9 @@ Sa pagkaintelektwal, wala ng mas mataas na pusta sa mundo. Ang kabiguan nating m
 
 Sa ibang pamamaraan, ang pusta ay mas lalong tumataas.
 
-Ang tumaas na impormasyon ng daloy ng internet ay nagtataas ng mga hinala ng makabagong henerasyon na kung tawagin ay ang "kabutihan" ay higit - kumulang - lamang na serbisyo-pansariling mga kwentong-diwata ng mga mapagkunwaring mga nakatatanda. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+Ang tumaas na impormasyon ng daloy ng internet ay nagtataas ng mga hinala ng makabagong henerasyon na kung tawagin ay ang "kabutihan" ay higit - kumulang - lamang na serbisyo-pansariling mga kwentong-diwata ng mga mapagkunwaring mga nakatatanda. Ang relihiyosong kasinungalingan ng mga awtoridad - at pakikipagsabawatan ng mga sumasamba sa kanila - ay mas malinaw ngayon kaysa noon.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+Ang "katotohanan" ay nalantad bilang manipulasyon; kabutihan bilang pagkontrol; katapatan bilang pagka-alipin, at ang tinaguriang "moralidad" ay nahayag bilang katawa-tawang tanghalang puppet na dinesenyo upang linlangin ang mga mahihina at matatakuting tao tungo sa pag-alipin sa kanilang mismong mga sarili.
 
 This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
 
