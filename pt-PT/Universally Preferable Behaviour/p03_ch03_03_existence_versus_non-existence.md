@@ -86,9 +86,9 @@ Do mesmo modo, se um homem afirma que o seu conceito chamado "governo" justifica
 
 Se este cobrador de impostos afirmar que o seu conceito chamado "o governo" só justifica o roubo da *minha* propriedade e não a minha retenção, então não estamos de acordo. Ele pode tomar os meus milhares de dólares, mas então eu posso invocar o meu conceito de "roubar" esse dinheiro e a sua teoria moral ordena que passemos o resto da eternidade, tomando e roubando os mil dólares.
 
-#### UPB And "The Majority"
+#### CUP e "A Maioria"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+O CUP não permite à aglomeração de indivíduos, pisar ou passar por cima das propriedades de cada indivíduo. Dez leões não fazem um elefante, um governo ou um deus. Dez mil soldados podem fazer um "exército", mas não podem reverter a gravidade, nem fazer que o assassinato seja moral.
 
 Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
 
