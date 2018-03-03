@@ -24,9 +24,9 @@ b. **Copyright and Similar Rights** nangangahulugan na ang karapatan magpalathal
 
 e. **Effective Technological Measures**nangangahulugan na iyong mga sukat ay, nasa pagliban ng tamang awtoridad, hindi maari na mapigil sa ilalim ng batas na nagsasakatuparan ng mga obligasyon sa ilalim ng artikolo 11 ng WIPO Copyright kasunduan sa pagtitibay sa araw ng Desyembre 20,1996 at/o kahalintulad sa pagdaigdigang mga argumento.
 
-f. **Exceptions and Limitations** means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. **Exeptions and Limitations**nangangahulugan na wastong paggamit, wastong pakikitungo, at/o sa kahit anong pagbubukod o limitasyon para sa karapatang magpalathala at kahalintulad sa Karapatan na naaangkop sa iyong gamit na Materyal na Lesensya.
 
-h. **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. **Licensed Material** nangangahulugan na ang pagka masining o gawain na pampanitikan, database, o iba pang Materyal kung saan ang tagapaglesensya ay nilalapat itong Pampublikong Lesensya.
 
 i. **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
 
