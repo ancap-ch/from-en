@@ -94,11 +94,11 @@ Regressando uma última vez para a sala de Bob e Doug, vamos apresentar "Jane"
 
 Agora que há três pessoas na sala, podemos examinar o princípio da "regra da maioria".
 
-Se Bob, Doug e Jane fazem uma "votação" sobre se é ou não moral violar Jane, todos nós recuaremos perante uma premissa tão injusta e imoral. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Se Bob, Doug e Jane fizessem uma "votação" sobre se é ou não moral violar Jane, todos nós recuaríamos perante uma premissa tão injusta e imoral. Obviamente, mesmo que Jane fosse "minoria", não iríamos achar que a violação resultante seria um ato moralmente bom.
 
-Why not?
+Por que não?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Bem, o CUP não reconhece a realidade das associações, já que a "maioria" é uma simples etiqueta conceitual; Na realidade, não existe, mais do que os "deuses" ou "governos". Portanto, afirmar que o conceito de "maioria" tem qualquer tipo de posição moral é totalmente inválido - é como dizer que "a Pátria" pode engravidar uma mulher, ou que nos podemos sentar na palavra "cadeira"
 
 To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
 
