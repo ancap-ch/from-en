@@ -1,12 +1,12 @@
-## Foreword
+## دیباچہ
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+بہت سی پریوں کی کہانیوں میں ایک عظیم الشان طاقت کا خونخوار درندا،ایک اذدھا یا ایک امریکی گدگٹ، جس نے آ س پاس کے علاقوں میں تشدد پھیلا یا. مقامی گانوں والے اس درندے سے کانپ اٹھتے تھے؛ انہوں نے اپنے مویشیوں کا بلدان دیا،انہوں نے اس قاتلانہ لھر سے چھٹکارا پانے کی امید میں بہت سے پینسے اور خون ادا کیا.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+بہت سے لوگوں نے اس درندے کے خوفناک سایے میں رہ کر اپنا سر جھکایا،اپنے ڈر کو ہوشیاری سمجھ بیٹھے،لیکن ان میں کچھ-شرابی شاید دلیری یا احمقانہ بھادری دکھا کر جنگ کا فیصلہ کر بیٹھے. سالوسال،برسوبرس،ان امیدوار پہلوانوں نے یہی کوشش کی کہ ہم اس درندے کو اپنی طاقت، خوبی اور اپنی ہوشیاری سے اس کو برابر کی ٹکر دے سکھے.
 
-Try – and fail.
+کوشش کی-لیکن ناکام ہوے.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+درندا ہمیشہ امر ہوتا ہے، اسی لیے گاوں والے اس ظالم حکمران سے چھٹکارا پانے کی امید نہیں رکھ سکتے. درندا کبھی عقلمند نہیں ہوتا اور انہیں سوداگری کی کوی خواہش نہیں ہوتی، اور اس لئے باتچیت اور بحث کرنا ممکن نہیں.
 
 The desperate villagers’ only hope is for a man to appear who can defeat the beast.
 
