@@ -48,11 +48,11 @@ Ang dahilan kung bakit ang modernong moralidad - at ang moralidad sa kabuuan ng 
 
 Ang katotohanan ay kailangan natin ng moralidad; ang kasinungalingan ay ang mga diyos at pamahalaan ay maaaring rasyonal na bigyang kahulugan o makatarungang pagtibayin ito.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+Ang aking layunin sa aklat na ito ay ang bigyang kahulugan ang pamamaraan para sa pagsasabisa ng teoryang moral na tumpak, hindi nagbabago, malinaw, rasyonal at impirikal - at *totoo*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+Ako ay may buong kamalayan na, sa mga oras na ito, ikaw ay nakakadama ng tumataas na bugso ng pag-aalinlangan. Aking buong-buong nauunawaan ang magkasalungat-kaganapan na merong isang lalaki kung saanman sa Internet - ang tahanang mundo ng mga baliw - ang kahit papaanong naresolba ang pilosopikong suliranin ng mga edad ay hindi tiyak na mataas - sa katunayan, ito ay maaaring malapit sa sero hanggang sa birtwal na hindi na matutukoy pa mula rito.
 
-Still, not *quite* zero.
+Gayonman, hindi pa rin *lubos* sero.
 
 ### Ground Rules
 
