@@ -72,7 +72,7 @@ Ikaw hindi nagsabi sa akin:: kailangan mong baguhin ang iyong ideya para sa akin
 
 #### Saligan 5: ang isang layunin ng Pamamaraan ay umuosbong para sa pagbubukod ng katotohanan na galing sa kabulaanan
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Kung ikaw ay kumokontra sa akin, subali't ipapahayag ko sayo na kilangan kang sumang-ayon sa akin dahil ako ay palaging tama, ito ay malamang na hindi ikaw nasisiyahan sa mahigpit kong pagpapaliwanag. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
 
 The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
