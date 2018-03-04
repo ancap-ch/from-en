@@ -6,9 +6,9 @@ A ideia de que a natureza era um sistema auto-sustentável e auto-criador, era q
 
 Antes da ciência, no centro de cada sistema complexo, jazia uma consciência virtuosa - sem a qual esse sistema flutuaria no caos e deixaria de existir.
 
-Infelizmente, essa "consciência virtuosa" era, simplesmente, uma ilusão, para torná-la mais benevolente. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Infelizmente, essa "consciência virtuosa" era, simplesmente, uma ilusão, para torná-la mais benevolente. Não existiam tais deuses - tudo o que *existia* eram as declarações dos sacerdotes. Assim, o que realmente estava no centro era o ponto de vista de indivíduos irracionais, que não tinham ideia do loucos que estavam, na verdade.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Ainda não aplicámos essa mesma iluminação às nossas concepções de sociedade - mas agora é *essencial* que o façamos.
 
 We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
