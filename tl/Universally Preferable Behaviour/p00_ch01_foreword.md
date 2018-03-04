@@ -1,6 +1,6 @@
 ## Paunang salita
 
-Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamang-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng saalpi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
+Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamangha-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng saalpi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
 
 Karamihan ng tao ay tumitimbuwang sa ilalim ng anino ng halimaw na ito, tinatawag ang kanilang takot na "kabaitan, " - subalit may iilan - na lasing sa katapangan o kahangalan - na nagdesisyong lumaban. Taon kada taon, dekada kada dekadam, laksa kada laksa ng mga kampiyong punong-puno ng pag-asa ang sumubok na tapatan ng kanilang lakas, bertud at katusuhan laban sa teribleng mapagmalupit.
 
