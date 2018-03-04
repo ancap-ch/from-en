@@ -95,11 +95,11 @@ a. ***pagpapalagay.***
     
     1. Kailngan na masiyahan ka sa mga kondisyon sa Seksyon 3(a)(1) sa kahit anong resonable na paraan base sa medyum, nangangahulugan, at konteksto kung saan maari mong ibahagi ang Lesensyadong Materyal. Halimbawa, ito ay maaaring resonable para masiyahan sa mga kondisyon sa pamamagitan ng pagbibigay ng URI o hyperlink para sa mapagkukunan kasama ang kinakailangan na impormasyon.
     
-    2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+    2. Kung hiling ng Tagapaglesensya, Kailangan mong alisin ang kahit anong impormasyon na kailangan sa Seksyon 3(a)(1)(A) sa lawak ng makatuwiran.
 
 ### Section 4 – Sui Generis Database Rights.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Kung saan ang Karapatan ng Lesensya ng Sui Generis Database mga karapatan ay mailapat sa iyong paggamit ng Lesensyadong Materyal:
 
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
 
