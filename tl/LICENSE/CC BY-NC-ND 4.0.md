@@ -57,11 +57,11 @@ a.***magbigay ng lisensya.***
 
 4. **midya at mga pormat: technical modifications allowed.**Ang tagapaglesensya ay awtorisado ka na mag sanay sa Karapatan ng Lesensya sa lahat ng medya at mga pormat maging kilala ngayon o pagkatapos na malikha, at magawa ang teknikal na mga modipikasyon na kinakailangan gawin. Ang mga pag paubaya sa Tagapaglesensya at/o sangayon at hindi pagiit sa tama o pinagbabawalan ka ng awtoridad mula sa pag gawa ng teknikal na mga pagbabago sa pangangailangan para sanayin ang karapatan ng lesensyado. kasama ang teknikal na mga pagbabago sa pangangailangan para iwasan ang epektibong teknolohikal na mga pagsukat. Para sa layunin ng Pampublikong Lesensya, gawing simple ang mga awtorisadong pagbabago mula sa Seksyon na ito 2(a)(4) wag maglabas ng inangkop na materyal.
     
-    1. **Ang mga Downstream na tatanggap.**
+    1. **Ang mga tatanggap ng downstream.**
         
         A. **Offer from the Licensor - Liscensed Material.** Bawat tatanggap ng Lesensyadong Material ay awtomatikong makakatanggap ng mga pagmungkahi mula sa pag sasanay ng karapatan sa tagapaglesensya termino at mga kondisyon ng Pampublikong Lesensya na ito.
         
-        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+        B. **No downstream restrictions.** Maari kang sumangguni o magpataw ng kahit ilan na dagdag o magkaibang tema o kondisyon, o pag-apply ng kahit anong epektibong Teknolohiya na masusukat ito. ang Materyal na Lesensya ay pinag babawal ang pag gawa ng pagsasanay sa Karapatan ng Lesensya mula sa tatanggap ng Materyal na Lesensya.
     
     2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
