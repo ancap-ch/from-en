@@ -10,15 +10,15 @@ Infelizmente, essa "consciência virtuosa" era, simplesmente, uma ilusão, para 
 
 Ainda não aplicámos essa mesma iluminação às nossas concepções de sociedade - mas agora é *essencial* que o façamos.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Consideramos que é fundamental que, coloquemos no centro da sociedade, uma entidade virtuosa chamada "o governo". Na ausência desta entidade, achamos axiomático que a sociedade irá flutuar no caos e deixar de existir - tal como os nossos antepassados consideraram que, na ausência dos deuses, o próprio universo flutuaria no caos e deixaria de existir.
 
-However, “the government” no more exists than “god” exists.
+Contudo, "o governo" não existe mais do que "Deus" existe.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Quando falamos de "deuses", realmente estamos a falar sobre "as opiniões dos sacerdotes"
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Quando falamos de "o governo", *realmente* queremos significar "a violência de uma pequena minoria"
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+A ideia de "ordem espontânea", que é bem comprovada nos domínios da física e da biologia, continua a ser, em grande medida, inconcebível para nós, no contexto da sociedade.
 
 However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
 
