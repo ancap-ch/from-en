@@ -59,7 +59,7 @@ a.***magbigay ng lisensya.***
     
     1. **Ang mga Downstream na tatanggap.**
         
-        A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
+        A. **Offer from the Licensor - Liscensed Material.** Bawat tatanggap ng Lesensyadong Material ay awtomatikong makakatanggap ng mga pagmungkahi mula sa pag sasanay ng karapatan sa tagapaglesensya termino at mga kondisyon ng Pampublikong Lesensya na ito.
         
         B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
     
