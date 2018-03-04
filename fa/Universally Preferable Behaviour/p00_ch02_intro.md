@@ -1,133 +1,133 @@
-## Introduction
+## مقدمه
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+برای نسل بیشماری بشر در خودخواهی ناشی از تحمیل جهل به خود زندگی می کند.دنیا شامل زمین مسطح خورشید ماه و ستارگانی که به دور او می چرخند.گذشتگان اورا به سمت ابهامات مرگ فرا می خوانند و رعد وبرق خشم خدایان است.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+برای رهایی از این خودشیفتگی ناشی از تفکرات ذهنی تلاش هزار ساله وبهای زندگی میلیون ها نفر ضروری است.تلاش لازم برای تغییر دیدگاه ما از تجربه ادراکی  به منظق مفهومی وحشتناک هیجان انگیز بسیار ناسازگار وخطرناک است.درک اینکه جهان ان چیزی نیست که احساس کرده ایم و یا به نظر میرسد بزرگترین شاهکار هوش ماست و باقی می ماند.درستی واقعیت معلوم شد که در چشم ذهن است نه گوشت.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+جهان به نظر می رسد مسطح است که این نیست.خورشید و ماه به نظر می رسد اندازه یکسانی دارند که اینطور نیست.به نظر می رسد ستاره ها به دورزمین میچرخند که اینطورنیست. یادگیری حقیقت مستلزم آن است که ما جهان را از خارج از حواسمان ببینیم - این به معنای رد حس های ما نیست. بلکه انطباق قطعی با شواهد  واقعی  حواس است. نه اینکه جهان مسطح است.اما مواد انرژی وقوانین فیزیکی سازگار هستند.هنگامی که ما اجازه می دهیم سنگی را در دست بگیریم، افتادن آن مدرک حقیقی حسی است نه اینکه زمین ثابت و غیرقابل تحمل است. این ایده که جهان ثابت است، فرض اشتباه است که با شواهد مستقیم حواس ما مخالف است، که هر چیزی می افتد. اگر همه چیز می افتد، جهان نمی تواند ثابت و .غیرقابل تحمل باشد
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths,” we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+این حقیقت کوچکی از هرروز ما است؛ که سنگ ها سقوط می کنند، افزایش دود، آتش گرم است و خورشید و ماه هر دومی چرخند. اگر به طور مستمر و دقیق به این حقیقت های کوچکی متعهد باقی بمانیم، می توانیم در حقیقت حقایق بزرگ فیزیک را به دست آوریم که دانش و قدرت بسیار خوبی .را به ما می دهد
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+با این حال، در فیزیک و اخلاق بین حقیقت های کوچک و بزرگ، توهماتی هستند که ما را کور می کنند.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+در فیزیک، حقایق بزرگ نمی توانند با حقیقت های کوچک مخالفت کنند. هیچ نظریه میدانی یکپارچه نمیتواند به طور قابل اعتماد تجربه حسی مستقیم ما  رااز یک سنگ در حال سقوط یا یک شعله در حال افزایش نقض کند. بزرگترین تئوری ریاضی را نمی توان معتبر دانست باکاربرد .آن تغییرات نادرست در بررسی جواب برگردانده میشوند
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone.”
+با این حال، از لحاظ تاریخی، در میان حقیقت های کوچک خودمان و حقیقت های بزرگ، آنچه که من آنرا ناحیه ناخودآگاه می نامم دروغ است.
 
-### The "Null Zone"
+### ناحیه ناخودآگاه 
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+ما به فرزندانمان می گوییم که به یکدیگر ضربه نزنید، و ما معتقدیم که خشونت به صورت انتزاعی اشتباه است، به عنوان یک قانون اخلاقی کلی. حقیقت کوچک این است ضربه نزنید. حقیقت بزرگ این است که خشونت اشتباه است.
 
-However, there exists in our minds an imaginary entity called “God,” and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions,” sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+با این حال، در ذهن ما موجودیتی پنداری به نام خدا وجود دارد و این موجودیت کاملا معنوی است. متأسفانه، این وجودیت به طور مداوم و عمیقا نقض قانون اشتباه بودن خشونت با غرق شدن در جهان است، اعطای جان به جهنم، با وجود پیش بینی کامل از "تصمیمات" خود، مجازات تجاوز، قتل، سرقت، حمله و اقدامات دیگر که ما تمایل  داریم هرفردی را به عنوان کاملا شرور محکوم کنیم.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+ بنابراین ما حقیقت کوچک را ضربه نزنید و حقیقت بزرگ (خشونت اشتباه است) داریم ، اما در این بین ناحیه خالی داریم  که در آن به طورکامل در مقابل هر دو حقایق کوچک و بزرگ مطرح شده است که کاملا درست است.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth,” but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+ از لحاظ تاریخی، ما می توانیم همان تناقض در فیزیک را ببینید. در تجربه مستقیم ما هیچ دایره ای کامل وجود ندارد، اما به دلیل اعتقاد به خدا، حرکت تمام سیاره ها باید "دایره ای کامل" باشد و فرضیه ستاره شناسی قرن  پیش به همین ترتیب، اگر یک مرد سر خود را بچرخاند، به طور منطقی اعتقاد ندارد که کل دنیا در اطراف او چرخش دارد - و او با خوشحالی می تواند آن را نه تنها به عنوان «حقیقت کوچک» خود، بلکه به عنوان یک حقیقت بزرگ یا اصل جهانی پیش ببرد. با این حال برای بسیاری از تاریخ بشر، اعتقاد بر این بود که ستارگان و سیارات در اطراف زمین چرخیدند، نه اینکه زمین می چرخد، در اینجا دوباره می توانیم  ناحیه صفر  بین تجربه حس مستقیم و اصل جهانی را ببینیم، در حالی که اصول کلی در مقابل اصول مطحرح شده کاملا معتبر هستند.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+هیچ انسان عاقل مستقیما خدا را تجربه نمی کند. در زندگی روزمره او به طور کامل می پذیرد که آن چیزی که نمی تواند درك شود، وجود نداردهرمرد معقولی هر لحظه جا میزند تا یک قدم بردارد، ترس از دیوار نامرئی که ممکن است مانع راه آن شود. بزرگترین انتزاع علم از رویکرد او حمایت می کند.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+برعکس، در ناحیه خالی دین، دقیق در مقابل هر دو حقیقت کوچک و حقایق بزرگ باور درستی است. شخصا، یک مرد معتقد است که آنچه که قابل درک نیست، انجام نمی دهد و به لحاظ علمی وجود دارد، علم این را بارها ثابت کرده است. با این حال، در ناحیه خالی الهیات، در حقیقت در مقابل قضیه درستی است و اصولا چیزی که نمیتوان آن را درک کرد باید وجود داشته باشد.
 
-Our belief in the virtue of the military also lies in this “null zone.” If a private man is paid to murder another man, we call him a “gun for hire,” and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+ اعتقاد ما به فضیلت نظامی نیز در این ناحیه خالی قرار دارد. اگر یک فرد خصوصی توسط مرد دیگری کشته شود، ما او را تفنگدار می نامیم و او را به عنوان یک مرد متهم محکوم می کنیم. با این حال،اگر این مرد لباس  سبز را با نوارهای خاصی بپوشد و همین عمل را مرتکب شود، ما او را به عنوان یک قهرمان می شناختیم و به او حقوق می دهیم ، حقیقت کوچک من نباید قتل عام کاملا باید با حقیقت بزرگ مطابقت داشته باشد و قتل اشتباه است در عین حال در وسط یک  دروغ ناحیه خالی وجود دارد، جایی که قاتل جادویی با فضیلت می شود
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+اگر این ناحیه صفر معتبر باشد، هیچ گزاره منطقی هم نمیتواند داشته باشد. اگر یک گزاره درست باشد ، و دقیق مخالف آن گزاره نیز درست است و سپس استدلال منطقی غیرممکن می شود. رشد علم منطقی حمله مستمر به این ناحیه ناخودآگاه است و تهاجم به تحقق یکپارچگی عینی در این جنجال بسته ی کوچکی از خیالات ذهنی بوده است.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+در نقشه های قدیمی، قبل از اینکه نقشه کاران اکتشافات خود را به اتمام برسانند، طرح زمین شناخته شده برروی کاغذ خالی کم کم محو می شوند. رشد دانش نیاز به اولویت بندی آنچه که شناخته نشده نیست، وبنابراین گسترش اصول شناخته شده به مناطق ناشناخته است.
 
-The same is true in the realm of morality.
+همین امر در قلمرو اخلاق درست است.
 
-### The Casualties
+### تلفات
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+عبوراز اين نقطه پوچ همراه با خطر ميباشد.معبري از حقايق كوچك تا بزرگ با ميليونها استخوان سنگ فرش شده است.از مرگ سقراط تا شكنجه ي دانشمندان پيشين توسط مجاهدين مذهبي، تا ميليونها نفر كه به خاطر تمايلات سياه اصول فاشيسم و كمونيسم، هر حركت رو به جلوي دانش بشري .در نقطه پوچ همراه با خطر خاصي ميباشد
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+آيا عبور از نقطه پوچ يا اتحاد يكپارچه حقايق كوچك و بزرگ ، بايد ناچارا سخت و خطرناك باشد؟ تركيب كردن شهود ادراكي با شهود نظري در راستاي استدلال منطقي ، چالش بزرگي بحساب ميايد. اما اين پيشرفت بايد هزاران سال طول بكشد و اقيانوس هاي خون جاري شود.
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+اگر به رشد اقتصادي و فني بشر نگاه كنيم كم و بيش خط صافي براي هزاره هاي مختلف ميبينيم كه لبه هاي بزرگ و تقريبي در چند صد سال اخير دارد. غير قابل تصور است كه جهش رژنتيكي گسترده اي ميتواند دليلي بر اين شتاب ناگهاني و عظيم در انسجام ذهني و موفقيت دنيوي باشد.نظريه ها ادعا ميكنند كه يك اثر پر شتاب خاصي وارد موجوديت و هستي شده كه به طور مرموزي توسط افزايش دانش پيش رانده ميشود، كه از آغاز تمدن اتفاق افتاده است و ميتواند با توضيحات گذشته از دست خارج شود چون ارزش قابل پيش بيني ندارد.
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+اگر بدانيم كه پتانسيل پراكنده ما براي دهها هزار سال در دسترس ميباشد، و سود و لذت زيادي در پرورش آن وجود دارد، يكباره آشكار ميشود و به طور قطع ميخواهيم كه از ذهن پرتحيرمان استفاده كنيم.
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+بنابراين بايد نيروي رو به پاييني وجود داشته باشد كه از نظر تاريخي آزادي طبيعي بشر را شكست دهد و به بندگي بگيرد.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+در حيطه علوم، خيلي سخت نيست كه نيروهاي خرد كننده اي را ببينيم كه پيوسته ذهنمان را نزديك به جهل نخستين نگه دارد. تركيب خرافات زير سايه مذهب و خشونت بشكل اشراف گرايانه ، متفكران عقلاني را با ترساندن، زنداني شدن، شكنجه و قتل تهديد ميكند. همانطور كه كشاورزي از هوش پايين گاو خود سود ميبرد و يا برده داري از ترس بردگانش، كشيشان و پادشاهان ارزش خود را با تهديد كردن هر كسي كه جرئت فكر كردن داشته باشد، حفظ ميكنند.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
+حقيقت ساده اين است كه كشيشان و شياطين كه گمان ميرفت قوانينشان بحق دانسته شود، هرگز وجود نداشته اند.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths.”
+ما گام هاي بزرگي در فهم طبيعت و حقيقت برابري انسانها برداشته ايم. اما حقيقت تلخ موضوع اين است كه قلمرو واقعيت هنوز در نقطه پوچ گم شده است- در توهمات مخرب حقيقت ميانه.
 
-### "Middle Truths"
+### "حقیقت میانه"
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths.”
+بگذاريد در مورد اصول مخالف نقطه پوچي صحبت كنيم. جايي بين ادراك حسي و سازگاري مفهومي، حقايق ميانه ارتباطی است
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+حقايق ميانه خطرناكترين نوع اوهام هستند زيرا ظاهر حقيقت را قبول كرده اند در حاليكه در اصل به حقيقت حمله ميكنند.
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
+با ايجاد وهم در مي يابيم كه حقيقت ميانه در واقع ما را از رسيدن به حقيقت باز مي دارد. آنها آخرين خط دفاع در برابر تمايلات، غارتگري و استثمار هستند.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
+ از آنجايي كه آنها نه تنها فاقد نيروي فكر و استدلال هستند بلكه ضد عقلاني نيز ميباشند. حقايق ميانه تا بينهايت انعطاف پذير باقي ميمانند. تا جايي كه آنها را به خدمت بگيرد. مسيحيت از فاشيسم رو به رشد امپراطوري روم قديم بر خواسته است كه تا قسمتي در خرافات اوليه خداشناسي موجود به سختي مورد انتقاد قرار ميگيرد. خدايان قديم را فراموش كنيد ما نشاني از خدايي داريم كه بسيار بهتر است
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God.”
+حقايق ميانه هميشه با پيروي از دروغ شكل حقيقت را گرفته اند. زئوس وهمي كافرانه است؛ اين عبارت صحيح ميباشد كه توسط نوكيشان مسيحي ارائه شده بود. دروغي كه بدنبال آن آمده اين است: يهوه وهمي كافرانه نيست بلكه خداي واقعي و زنده است. 
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+ميتوانيم فدري اين موضوع را با مثالي شخصي سازي كنيم تا براي هر كس كه با دوستي ناكارآمد مشورت كرده، قابل درك و آشنا شود. دختري ميگويد دوست پسر قبلي من يك عوضي بود  و شما اغلب قبول خواهيد كرد، دختر اضافه ميكند كه  دوست پسر جديدش عالي است  شما سعي خواهيد كرد كه حرفهاي او را باور نكنيد.
 
-It is very hard not to replace one illusion with another.
+خيلي سخت است كه خرافه اي را با خرافه ديگر عوض كنيد.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+خيلي سخت است كه خرافه اي را با خرافه ديگر عوض كنيد، دولت بريتانيا حكومتي استبدادي است  اين جمله توسط انقلابيون آمريكايي در قرن هجدهم فرياد زده شد و پس از خروج نيروهاي بريتانيايي ، حكومت خود را بنا كردند و به شهروندان خود حمله كردند.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
+در حاليكه ديگر انقلابيون ميگفتند  اشرافيت پليدي ستمگرايانه است  و آنها كساني بودند كه استبداد اكثريت را به شكل دموكراسي برپا كردند.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation,” or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether,” just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether,” either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+"حقایق میانی" می تواند در علم نیز وجود داشته باشد و به همین ترتیب از پیشرفت طبیعی تبدیل شدن حقیقت های کوچک به حقایق بزرگ جلوگیری می کنند. به عنوان مثال ، تا قرن هجدهم ، زیست شناسان به نظریه خلق الساعه  یا  پیدایش خود به خودی حیات از مواد غیر زنده معتقد بودند. البته این باورهرگز با مشاهده تایید نشده بود اما مطابق با متون دینی و فلسفی قدیمی بوده ، بنابراین به عنوان یک حقیقت پذیرفته شده بود. همچنین پیش از انقلاب انیشتین در سال 1905 ، می پنداشتند  نور از طریق یک ماده مشخص و نامرئی به نام اتر منتشر می شود ، همانطور که امواج صوتی از طریق هوا حرکت می کنند. هیچ یک از دانشمندانی که به این نظریه اعتقاد داشتتند هیچ گونه شواهد تجربی برای ماده اتر چه شخصی و چه علمی ، نداشتند اما آن را برای مطابقت با ویژگی های قابل مشاهده دیگرلازم می دیدند.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+دین یکی دیگر از حقایق میانی است ، یکی از خطرناک ترین آنها. تا آنجا که ما میدانیم ، این درست است که ما یک گونه منحصربه فرد در جهانیم. یک زرافه از بلندترین چهارپایان است اما انسان تنها یکی از نخستی سانان نیست ، بلکه چیزی کاملا متفاوت است. ماهیت این تفاوت تا حد زیادی ناشناخته باقی مانده است. توضیح دینی این که ما مانند حیوانات نیستیم زیرا روح داریم و توسط خدا آفریده شده ایم، نمونه ای دیگر از یک حقیقت میانی است. این درست است که ما نسبت به حیوانات متفاوت هستیم . این درست نیست که ما روح داریم و توسط خدا آفریده شده ایم .
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+همانطوریکه انگل ها تا زمانی که انگلهای پیشین را از جای خود برانند ، نمیتوانند ریشه بدوانند ، حقایق میانی نیز تنها با حمله به توهمات قبلی میتوانند جای خود را بگیرند. کسانی که نسبت به توهمات پیشین تردید دارند ، به سمت توهمات جدید کشیده می شوند. بنابراین مسیحیت جایگزین کفر و الحاد ، مارکسیسم جایگزین مسیحیت ، پست مدرنیسم جایگزین مارکسیسم ، دموکراسی جایگزین حکومت اشرافی شده است والی آخر.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
+تا زمان دستیابی به حقایق بزرگ و پیوستن به حقایق کوچک ، حقایق میانی تنها در مسیر نادرست و مخرب خود دور باطل را طی میکنند و به طور خاص برای جلوگیری از دستیابی به حقایق بزرگ طراحی شده اند.
 
-And the great truths are always achieved from the little truths.
+و حقایق بزرگ همیشه از حقایق کوچک به دست می آیند.
 
-The world falls because a rock falls.
+جهان به خاطر افتادن یک صخره  فرومیریزد.
 
-### "Middle Truths" And Exploitation
+### حقیقت میانی و  بهره برداری
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+از نگاه زیست شناختی ، زندگی انگلی یک استراتژی بقای کاملا مناسب  برای بسیاری از موجودات است. به طور کلی پایدارترین نوع زندگی انگلی ، همزیستی یا همزیستی متقابل است. بنابراین باکتریهایی که در روده های ما زندگی میکنند، با هضم غذای ما به بقاء خود کمک میکنند.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+با این حال، ویروسی که به بدن ما می آید و به طور مداوم ما را خسته میکند و خود را به سختی زنده نگه میداریم ، به ندرت سود متقابل نامیده می شود.اگر ما به تاریخ طولانی و ترسناک خود ، فاجعه ، گرسنگی ، جنگ ، بیماری و فقر فکر کنیم و آن را با موفقیت های نوین خود مقایسه کنیم ، روشن است که یک نوع انگل انگاری هزاران سال است که بر ذهن و ظرفیت ما غلبه کرده است. اکنون که چندصد سال گذشته قدرت و خلاقیت روح انسان را نشان داده است ، میتوانیم به گونه خود به عنوان یک ارگانیسم که یک از یک انگل وحشتناک خلاص شده و از یک بسترمرگ توسط فنربرای اجرای یک شاهکار ژیمناستیک پرتاب شده است.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+وقتی ما خود را در برابر یک بیماری درمان میکنیم ، احساس خوبی پیدا میکنم اما بیماری نه. از دیدگاه ویروس آبله ، واکسن آبله یک قتل عام است.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+به همین ترتیب ، انگل هایی که باعث خفقان بشر می شوند ، از آزادی اکثریت را هراس دارند. از آنجایی که زندگی طفیلی آن ها را نسبت به خواستن واقعیت آزاد میکند ، برای به دست آوردن نان روزانه خود ، به ناچار آزادی دیگران را بردگی برای خود می پندارند. بدین ترتیب یک کشاورز رهایی دام خود را یک فاجعه بزرگ می بیند.
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+مشخص کردن حقیقت الزاما تمایلات را محدود میکند. محدود کردن تمایلات الزاما بهره برداری یا استثمار را محدود می کند. اگر من بتوانم شما را قانع کنم که من از طرف خداوند هستم و خداوند که مرا متولد ساخت از شما میخواهد که ده درصد از درآمدتان را به من بدهید وگرنه تا ابد مجازات خواهید شد ، من میتوانم بسیار ثروتمند شوم. من یک انگل توهمی هستم و بسته به تخیلات برای معیشت خود قطعا مانند قارچ هستم که وابسته به گرما ، رطوبت و تاریکی است.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+کسانی که مخیلات اخلاقی استفاده میکنند تا از بشریت بهره برداری کرده و همیشه با چنگ و دندان در پی کشف و انتشار حقیقت هستند تا کسی را که معاش آن ها را به خطر می اندازد تهدید کنند. 
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+ما با نمونه ای از مافیا آشنا هستیم که رقبای بالقوه خود را با صدمه و مرگ تهدید می کنند ، یا ناظر حمله فرقه های مذهبی به یکدیگر ، یا حمله دولت به یکدیگر هستند.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+زمانی که اندیشمندان برای ادامه بهره برداری دروغ و فریبکاری را لازم  می بینند ، با این حال ، به طور ایده آل در صدد رقابت با یکدیگر نیستند . آنها نمیخواهند مافیا یا کلیسا را جایگزین کنند بلکه می خواهند آن را به طور کامل حذف کنند.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+قیاس مدرن تر رابطه بین دولت ، لابی گران و مالیات دهندگان خواهد بود.لابی گران به شدت با یکدیگر برای مالیات مشابه رقابت می کنند. با این حال ، تصور کنید که چگونه همه لابی گران با یکدیگر در برابر کسی که درصدد حذف دولت است به عنوان یک نهاد متحد خواهند شد.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+انگل ها به شدت در استفاده از منابع محدود میزبان رقابت می کنند، اما به در عین حال علاقمندند تا در مورد هر چیزی که خود میزبان را تهدید میکند متحد شوند.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+بدین ترتیب ، در هر جامعه ای که در آن دولت و کلیسا  جداسازی شده اند، هر یک تمایل دارند برای هواخواهان بیشتر رقابت کنند. هر جایی که کلیسا رو به ضعیف شدن می رود ، دولت به شدت وطن پرستان را جذب می کند که منجر به سوسیالیسم سکولار می شود. جایی که دولت تضعبف می شود ، کلیسا به شدت طرفداران را جذب می کند که منجر به بنیادگرایی دینی می شود و اغلب با تمایل به آزادی خواهی همراه است.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+فیلسوف هایی که با تمام خطاهای فکری مخالف هستند دشمنان قسم خورده ی همه انگل هایی هستند که از توهم ها تغذیه میکنند.حقایق بزرگ فیزیک نیاز به عوامل ماورا طبیعی را از بین میبرند و معجزات را غیر ممکن میسازند.قدرت تفسیری علم به طور کامل از تخیلات مذهبی که به عنوان دانش درمورد دنیای فیزیکی پوشیده شده است فراتر رفته است.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+روش علمی مستلزم ان است که هر فرضیه با شواهد و عقلانیت پشتیبانی شود.از انجا که مدارکی برای وجود خدایان وجود ندارد و خیلی از ایده های خدایان خود ذاتی است، متناقض، فرضیه ی وجود خدایان نمیتواند بماند.به ناچار پارازیت های مذهبی تلاش میکنند تا از فرضیه خود دفاع کنند با تلاش برای تقسیم واقعیت به "دو حوزه" علمی و معنوی با این حال هیچ مدرکی برای وجود این  معنوی وجود ندارد هرچند بیش از انکه جهان موازی از اشکال افلاطونی دو هزار و پانصد سال پیش وجود داشته باشد.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+در نتیجه ایجاد حقیقت سازگار و جهانی ضرورتا پتانسیل استثمار توهم را از بین میبرد.به طور دقیق حقایق بزرگ که جهانی و سازگار هستند حقایق میانه را از بین میبرند و مسخره میکنند که در واقع استثمار فانتزی هستند.ما با حقایق میانه دین اشنا هستیم:چند نفر دیگر مورد بررسی قرار خواهند گرفت که بعضی از انها شما را شوکه میکنند.
 
-### Effective Parasitism
+### پارازیتیسم موثر
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+موثر ترین انگل شناسی یا ویروس ها-انهایی هستند که بدن را به بی تفاوتی فریب میدهند.سیستم ایمنی بدنما برای حمله به مواد خارجی درون بدن مجزا کردن و کشتن انها طراحی شده است.ما از ابتلا به ایدز و سرطان میترسیم مخصوصا از انجا که قادر به کنار زدن سیستم ایمنی ما هستند.همان تکنیکی که توسط انگل های فکری استفاده میشود تا سیستم های دفاع شخصی کسانی را که دعا میکنند غیرفعال کنند. 
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+اگر یک غریبه در یک کوچه به شما حمله کند و پول شما را بخواهد شما میترسید و وحشت زده میشوید.شما ممکن است مبارزه کنید ممکن است فرار کنید یا ممکن است کیف پول خود را به او بدهید اما شما شوکه شده اید.عصبانی و وحشت زده از اتفاقی که رخ داده.وقتی که شما داستان را بازگو کنید به ان میگویید که پایه و نقض حریم شخصی و حقوق مالکیت شما را تقویت میکند.دیگران با شما همدردی میکنند برای وضع نامساعد شما و در اینده نمیگویند کوچه. 
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+این یک نمونه از یک حقیقت کوچک است.که:سرقت از من اشتباه است.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+با این حال هنگامی که یک نماینده دولت به شما نامه ای میفرستد که از شما درخواست پرداخت پول میکند ممکن است شما احساس ازردگی خاصی داشته باشید اما شما داستان را با همان خشم و وحشت به دوستانتان نمیگویید.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+این یک نمونه از یک حقیقت میانه است.انکه حقیقت بزرگ را خراشیده این است که سرقت اشتباه است.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+این کتاب در مرد افشای نابود کردن این حقایق میانه است.من بر این باورم که بشر به طور بی پایان تحت استبداد حقایق میانه اخلاقی دروغین قرار میگیرد که جهان مخرب را توجیه میکند مشاهدات خرافات مذهبی استبداد دنیوی و فرقه خانواده.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+فرضیه من در این کتاب این است که در اخلاق مانند هر رشته فکری دیگر حقایق بزرگ مستقیما از حقیقت های کوچک به وجود می ایند.تیرگی مهلک از حقایق میانه یک مسیر جهنمی است اما ارزش ان را دارد زیرا جایگزین اساسی برای حقیقت.استثمار.ویرانی و به ناچار نابودی غیر منتظره ی میلیون ها نفر است.

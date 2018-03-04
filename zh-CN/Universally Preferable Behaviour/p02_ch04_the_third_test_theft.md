@@ -1,118 +1,117 @@
-## The Third Test: Theft
+## 第三个测试：盗窃
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+我们将花更多的时间在盗窃上，因为它带来了产权问题，这对一些人来说是很有争议的。
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+处理产权问题的方法有很多种，从“家园”的法律定义的实际考虑，我不会在这里解决这些问题，因为产权问题必须落入UPB的框架，如果UPB是站作为评价道德命题的理性方法论。
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+显然，关于产权的道德命题是这样的：人拥有财产权，或者他们不拥有财产权。
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+现在必须处理的第一个“财产”是身体。“所有权”首先必须包括对自己身体的控制，因为如果这种控制不存在，或者被认为是无效的，那么整个道德问题（更不用说财产）- 就要走出这个窗口。
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB是评价道德主张框架，或者是关于全人类普遍喜欢的行为的论点。首先，一个人必须对自己的行为负责，如果他们要在道德上进行判断，因为如上所述，选择行动的能力是任何道德评价的基础。
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+如果一个人不能控制自己的身体，那么显然他对自己的行为没有责任 -事实上，他不是“他的”行为，而是他身体的行为。现在，没有人会理性地认为，如果一个人扼杀另一个人，是要放在审判和惩罚凶手。显然，身体不能完全控制自己，而是必须在某种程度上在意识的指导下。
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+这意味着一个人对自己的行为负责，因此他对这些行为的后果负责。一个人负责他把阴茎放在哪里，这就是我们知道我们可以判断他强奸某人的原因。他“拥有”他身体的动作，就像他拥有自己的身体一样。说一个人对他的身体负责，而不是对他的身体的影响，是说一个人负责瞄准和投掷一把刀，但不是为了它在哪里。
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+另外，争辩说一个男人对自己身体的影响没有责任是一种自我引爆声明，类似于我们在上面检查过的语句。如果我对你说：“男人不负责他们身体的动作”，你问我谁是我的声带和嘴巴，这将是非常公平的。如果我说我无法控制我的言语 – 这是身体一种效果 –那么我就会“维持”我的论点，而不惜以完全无效为代价。
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+如果我对我的演讲完全不负责任，那么与我争论是没有意义的。录音机也不负责它的讲话，这就是因为我们不倾向于与磁条产生强烈的分歧。俗气的恐怖电影，年轻女孩似乎特别容易受到恶魔附身–不可避免的牧师与女孩的恶魔谈话，在这一点上，女孩开始做一个像Don Ho球轴承漱口的声音。
+ 
+这种荒谬的肖像在某种意义上是准确的 - 如果有其他人完全控制了女孩的声带，那就是需要解决的问题，而不是女孩，她无法控制自己的反应。
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+因此，如果我对你说我无法控制我的演讲，你可以问我：谁呢?  如果我回答说没有人这样做，那么和我争论就好像和电视机争论，或者前面提到的巨石在山坡上撞向你的车时，这是很有意义的。
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+因此，控制我的身体产生言语的行为要求接受我控制自己讲话的能力 - 这是对我对自己身体的所有权的一种肯定的肯定。
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+现在，如果恶魔的占有是合法的，一个被恶魔附身的女孩向神父吐唾沫，我们就不会叫那个女孩粗鲁，而是宁愿可怜她被这样一个不礼貌的魔鬼所居住。谁控制了女孩的身体对她的行为的影响是有罪的 -这就是因为我们不会称一个在梦游偷走时的人“邪恶”, 因为他没有对自己的身体完全控制（虽然我们可能以其他方式阻止他）。这也是“疯狂无罪”的法律辩护的基础，即我们假定精神失常的人不能完全控制自己的行为。
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+因此，拒绝身体的所有权就是拒绝所有的道德，正如我们所看到的，这是完全不可能的。从逻辑上讲，由于道德被定义为UPB的一个可强制执行的子集，因此拒绝道德就是说普遍认为不存在普遍偏好的东西。 
+最后，以言语的形式使用自己的身体来拒绝自己能控制自己身体的观念，这是一种公然的、无法克服的自相矛盾。
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+就是这样，任何抛弃自我所有权的行为都会被彻底抛弃。
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+既然我们拥有我们的身体，我们也不可避免地拥有我们行为的影响，不管它们是好是坏。如果我们拥有我们行动的影响，那么我们就清楚地拥有我们所生产的东西，无论我们生产的是弓、书还是谋杀。
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+### 财产和UPB
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+即使我们拒绝上述，我们仍然可以使用UPB明确断言普遍产权存在。
 
-### Property And UPB
+如上所述，一个人可有财产权，或者他们没有财产权。除了少数几个灰色地带，我们很快就会看到，这仍然是一个普遍的命题。
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+如果一个人没有使用财产的权利，那么他就没有权利使用自己的身体。他没有权利使用自己的肺，因此必须停止呼吸。虽然
+这听起来很愚蠢，但这是人类没有财产权这一前提的必然结果。
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+假设任何你在辩论产权的人都在吸气，并且因此同意你的观点，他至少有权利使用自己的身体。
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+那么，问题就在于人类是否有权独占使用财产。例如，财产可以被定义为一种所有权的时间分享原则，因为每个人都有权在某个时间表或另一个时间拥有一切东西。
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+当然，这意味着肺癌患者有权获得至少一个健康人的肺。既然所有权始于身体，如果我们无权独占我们自己的身体，那么我们就必须与其他人分享我们的身体，否则就会变得不道德。病人有权呼吸我们的肺，如果我们不给他，那就等于偷了它。同样的，你和我都有权使用Celine Dion的歌声，因为这是她假装她是完全独家拥有权。
 
-The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
+如果人类对自己的身体不拥有专属所有权，那么强奸罪就变得毫无意义了，因为女人显然不完全拥有她的阴道，男人也不拥有自己的各种窍。如果排他性的自主所有权不是公理，那么即使谋杀罪也变得毫无意义。
 
-This means of course that a man with lung cancer has a right to at least one lung of a healthy person. Since all ownership starts with the body, if we do not have the right to exclusive ownership over our own body, then we must share our body with other people, or be immoral. The sick man has a right to one of our lungs, and if we withhold it from him, that is exactly the same as stealing it. Similarly, both you and I have the right to use Celine Dion’s singing voice, since it is wholly selfish of her to pretend that she has exclusive ownership of it.
+自杀不是犯罪，更不是放火烧自家的房子，因为毁坏自己的财产是有效的行使所有权。但是，如果排他性的自主权无效，那么谋杀和自杀就没有区别了。如果我的肝脏是失败的，并且我有权利接受你的治疗，那么我可以完全按照道德和尊严行为“收回”它。如果这种方法杀死你，那又怎样? 没有专属自主权，就没有“你”开头…
 
-If human beings do not possess exclusive ownership over their own bodies, then the crime of rape becomes meaningless, since a woman clearly does not exclusively own her vagina, and neither does a man own his own various orifices. If exclusive self-ownership is not an axiom, then even the crime of murder becomes meaningless.
+因此，我们可以合理地说，专属自主权是一个基本的现实，即所有时间和所有地方的所有人都拥有自己的身体的专属所有权，因此无论在道德行为和财产创造或购置方面，都拥有对自己身体的影响的专属所有权。
 
-It is no crime to commit suicide, any more than it is to set fire to your own house, since the destruction of one’s own property is a valid exercise of ownership. However, if exclusive self-ownership is invalid, then there can be no distinction between murder and suicide. If my liver is failing, and I have a right to take yours, then I can “repossess” it in perfect accordance with morality and honourable behaviour. If this procedure kills you, so what? Without exclusive self-ownership, there is no “you” to begin with…
+### 灰色区域
 
-Thus we can reasonably say that exclusive self-ownership is a basic reality – that all human beings at all times and in all places have exclusive ownership over their own bodies, and thus have exclusive ownership over the effects of their own bodies, both in terms of moral behaviour and property creation or acquisition.
+当然，任何如上所述的陈述都会带来无法避免的“复杂性” , “我完全同意这种说法。
 
-### The Grey Areas
+让我们说，我想给你一个礼物，五美元，但是我错误地向你递交了一张十美元的钞票，说，“这是给你的。”很少有人会认为盗窃.  如果我说，我把它交给你的那一刻：“对不起，我的意思是给你五美元，而不是十美元”，尽管我收回了我自愿放弃的财产，但还是把更大的笔记拿回来了。
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+在另一个极端，如果你是我的儿子之一，我为你的大学教育买单，并且明确地告诉你，你永远不需要回报我，我的慷慨无疑会影响你的消费习惯。毕业典礼后拍我的额头，哭着说：“哦，我还以为你是我的另一个儿子呢？！并要求还款。
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+同样，人们普遍认为，儿童不能签订法律合同，但成年人可以。在许多社会中，年龄是十八岁。当然，这意味着，在第十七岁到第十八岁生日的午夜时分，这人进入法律合同的能力完全形成。他在那一刹那经历了大规模的生物转变吗?  当然不是，虽然在十八岁时，他在生理上和十岁时完全不同，无论是在生理上还是心理上都有所发展。
 
-On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
+为了效率，如果不是完美的道德，任意的转换通常放在一个状态和另一个状态之间。童年无疑是一种状态，成年则是另一种状态。童年和成年之间的过渡是混合的；它不是黑白的，而是像一天下到黄昏，然后是夜晚。中午绝对不是夜晚，午夜绝对不是白天，但有时是很难分辨清楚的，虽然过渡的方向总是清晰的。
 
-Similarly, it is generally accepted that children cannot enter into legal contracts, but that adults can. In many societies, the differentiating age is eighteen years. This means, of course, that at the stroke of midnight between a man’s seventeenth year and eighteenth birthday, his capacity to enter into legal contracts arrives fully formed. Has he gone through some massive biological transformation in that split second? Certainly not, although at eighteen he is biologically very different than he was at the age of ten, both in terms of physical and mental development.
+同样地，一个智力严重不足的人可以被认为对自己的行为有多大的责任。智商高达六十五的人在心理上几乎不比小孩小-智商高达一百的人是成年人。如果我们说一个智商为八十的人变得有责任感，那么我们从定义上说，一个智商为七十九的人是不负责任的 -这是一个明确，公平和完全客观的界限? 当然不是，但为了使大多数概念具有实用性，必须建立“足够好”和合理的成本/效益分析的标准。如上所述，没有水是完全纯净的，但等待完美的纯净只会导致一个人渴死。
 
-For the sake of efficiency, if not perfect morality, arbitrary transitions are often placed between one state and another. Childhood is definitely one state; adulthood is quite another. The transition between childhood and adulthood is blended; it is not black and white, but rather like the day descending into dusk, and then night. Noon is definitely not night, and midnight is definitely not daytime, but there are times in between when it is harder to tell, although the direction of the transition is always clear.
+考虑到道德责任和智力能力的问题只适用于在边境上的一小部分人，并且创造客观和完美的测试很可能被证明是不可能的，因此不可避免地会有一些“经验法则”赢得这一天。我们只能假设，由于生物学家每天都生活在这种偶然的主观主义中，所以道德哲学家也可以以某种方式生存。
 
-In the same way, a man who is greatly mentally deficient can be considered far less responsible for his own actions. A man with an IQ of sixty-five is mentally scarcely more than a little child – a man with an IQ of one hundred is an average adult. If we say that a man with an IQ of eighty becomes responsible, then we are by definition saying that a man with an IQ of seventy-nine is not responsible – is that a clear, fair, and utterly objective demarcation? Certainly not, but in order for most concepts to be practical, the criterion of “good enough” and a reasonable cost/benefit analysis must be put into place. As mentioned above, no water is perfectly pure, but waiting for perfect purity would simply cause a man to die of thirst.
+### 产权的普遍性
 
-Given that the question of moral responsibility and intellectual capacity only applies to a very small percentage of people right on the border, and that creating objective and perfect tests is very likely to prove impossible, there will inevitably be some “rules of thumb” that win the day. We can only assume that, since biologists live with this kind of occasional subjectivism every day, moral philosophers can somehow survive as well.
+因此，UPB为我们提供了清晰的产权选择。有些人拥有财产权，而另一些人却不拥有，这是不可能的。华盛顿人不可能拥有财产权，而巴尔的摩妇女则不具备这种权利。人不可能今天拥有财产权，而明天没有，等等。
 
-### Property As Universality
+人只有百分之五十的财产权也不可能这种情况。
 
-UPB thus gives us clear options with regards to property rights. It cannot be the case that some men have property rights, while other men do not. It cannot be the case that men in Washington have property rights, while women in Baltimore do not. It cannot be the case that men have property rights today, but not tomorrow, and so on.
+如果我争辩说：“男人只有百分之五十个产权”，那么我创造了另一个不可逾越的矛盾。你可能会问我，我的句子中有哪一半不是由我产生的。如果我只有百分之五十个产权，那么显然我只有百分之五十个控制我自己的身体权 -如果我提出上述判决，那么很明显我只控制了百分之五十个句子，因为我只有百分之五十个控制我的声音。那么，谁对我另一半的判决负责?
 
-It also cannot be the case that men have only fifty percent property rights.
+这听起来可能有些深奥，但这是一个非常严肃的问题，我们很快就会找到原因。
 
-If I argue: “Men only have fifty percent property rights,” then I create yet another insurmountable contradiction. You may well ask me which half of my sentence was *not* generated by me. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+让我们说，我们可以以某种方式神奇地绕过“百分之五十个身体所有权”的问题，并且说人类在涉及外部物体时只有百分之五十的财产权。 
+这在实践中如何运作？
 
-This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
+好吧，如果我有两个割草机，而你没有割草机，那么显然它是合乎逻辑的你有权利把我的一个剪草机，因为我只能拥有我的一半割草机系列。
 
-Let us say that we can somehow magically bypass the “fifty percent ownership of the body” problem, and say that human beings only have fifty percent property rights when it comes to *external* objects.
+然而，当你把我一个剪草机占有，不幸的是你只允许拥有一半的剪草机，因为我们只在外部对象有权百分之五十股权。因此，您必须立即找到与您共享割草机的人。这使你的“公正”所有权降低到百分之二十五。然而，你的新老板不能有权百分之二十五的剪草机，因为他只有百分之五十的权利，不管他有所有权– 因此他必须找一个人来取百分之二十五百分之五十 -依此类推等等。
 
-How does that work in practice?
+任何争论不到百分之一百产权的理论的问题在于，它立即创造了一种无限回归的“多米诺效应”，每个人最终都拥有几乎所有东西的无限小的所有权，这显然是不可能的。因此，无论是在逻辑上还是实际上，我们都必须对自己的身体拥有完全的所有权，而我们的身体对外部财产的影响是完全的。我们不需要一个家的理论，或其他“采集”的方法来证明产权–他们是合理的因为任何人以任何方式，形状或形式 – 包括争论–都在公理上对自己的身体进行百分之百的控制，氧气和声波为了他的案件。
 
-Well, if I have two lawnmowers and you have none, then clearly it would be logical for you to have the right to take one of my lawnmowers, since I can only ever own half of my lawnmower collection.
+因此，通过这一公理化现实与UPB相结合，我们可以很容易理解，因为任何人讨论产权是行使自己的财产的百分之一百控制，唯一的问题是是否产权因人而异–一个明确解决的问题通过自我拥有的公理性事实以及UPB框架。任何道德主张都必须具有普遍性和一致性，这也是我们如何知道每个人都有百分之一百项财产权利的。
 
-However, when you take possession of one of my lawnmowers, unfortunately you are only ever allowed to own *half* of that lawnmower, since we only have the right to fifty percent ownership over external objects. Thus you must immediately find somebody with whom you can share the lawnmower. This brings your “just” ownership down to twenty-five percent. However, your new co-owner cannot have the right to twenty-five percent of the lawnmower, because he only has fifty percent rights for whatever ownership he possesses – thus he must find somebody to take fifty percent of the twenty-five percent that he has – and so on and so on and so on.
+任何其他可能性在逻辑上和经验上都是不可能的。
 
-The problem with any theory that argues for less than one hundred percent property rights is that it instantly creates a “domino effect” of infinite regression, wherein everybody ends up with infinitely small ownership rights over pretty much everything, which is clearly impossible. Thus it must be the case – both logically and practically – that we have full ownership over our own bodies, and over the effects of our bodies, in terms of external property. We do not need a homesteading theory, or other “just acquisition” approaches to justify property rights – they are justified because anybody who acts in any way, shape or form – including arguing – is axiomatically exercising one hundred percent control over his own body, and “homesteading” both oxygen and sound waves in order to make his case.
+### 测试“盗窃”
 
-Thus, by combining this axiomatic reality with UPB, we can easily understand that since anyone debating property rights is exercising one hundred percent control over his own property, the only question is whether or not property rights vary from individual to individual – a question definitively settled by the axiomatic fact of self-ownership, as well as the UPB framework. Any moral proposition must be universal and consistent, and this is how we also know that *everyone* has one hundred percent property rights.
+让我们回到耐心的道德豚鼠鲍, Bob和 Doug。
 
-Any other possibility is logically and empirically impossible.
+如果盗窃在道德上是好的，那么我们又一次面临着不可能同时道德的问题。如果 Bob有打火机，而且在道德上很好偷，那么道格必须偷 Bob 打火机。然而，Doug偷了 Bob打火机的那一刻，Bob就不能自己是道德的了。Doug偷了打火机后，Bob必须偷回“他”打火机，但是，如果打火机不是 Bob的第一手，那只能是“偷窃”。当Doug偷了Bob的打火机时，打火机不能合法地变成Doug的财产，否则盗窃的概念就毫无意义了。如果我偷东西的时候，它成了我的合法财产，那么归还本身就会变成盗窃。然而，如果我不通过偷窃Bob的打火机来建立合法的所有权，那么显然Bob不可能“偷”打火机回来，因为我们不能偷我们已经拥有的东西，而我的偷窃并没有使Bob对打火机的所有权失效。
 
-### Testing "Theft"
+因此，如果偷窃是好的，那么只有在道格偷走鲍伯打火机的那一刻，善良才能成为可实现的状态。在那一刻，只有Doug是有道德的，而Bob是不可能的。之后，任何一方都不可能实现善，除非Doug继续把鲍伯的打火机还给他，然后再把它抢走。
 
-Let us return to our patient moral guinea pigs, Bob and Doug.
+当然，想象一下，理想的道德状态是让一个人继续把他偷走的财产给予另一个人，然后立即再次窃取它，这似乎很荒谬。这样的逻辑似乎验证了我们的本能的理解这种愚蠢的作为道德理想的 – 但让我们走得更远一点，看它是否仍然成立。
 
-If theft is morally good, then once again we face the problem of the impossibility of simultaneous morality. If Bob has a lighter, and it is morally good to steal, then Doug must steal Bob’s lighter. However, the moment that Doug is stealing Bob’s lighter, Bob cannot himself be moral. The moment *after* Doug steals his lighter, Bob must then steal “his” lighter back – however, it is only “stealing” if the lighter is *not* legitimately Bob’s in the first place. When Doug steals Bob’s lighter, the lighter does not legitimately become Doug’s property, otherwise the concept of theft would make no sense. If, the moment I steal something, it becomes my legitimate property, then restitution would itself become theft. If, however, I do *not* establish legitimate ownership by stealing Bob’s lighter, then clearly it is impossible for Bob to “steal” the lighter *back*, because we cannot steal what we already own, and my theft has not invalidated Bob’s ownership of his lighter.
+请记住，我们不是特别关心个别罪犯，而是用道德理论来证明侵犯财产权的正当性。例如，如果Doug偷了Bob的打火机，因为道格认为“没有产权是有效的，那么Doug的道德理论立即自我引爆。
 
-Thus, if stealing is good, then goodness becomes a state achievable only in the instant that Doug steals Bob’s lighter. In that instant, only Doug can be moral, and Bob cannot be. After that, goodness becomes impossible to achieve for either party, unless Doug keeps giving Bob’s lighter back and then snatching it away again.
+如果没有财产权是有效的，那么偷窃是一种完全不合逻辑的行为，因为偷窃是控制财产的正当愿望的一种主张。
 
-Of course, it seems patently ridiculous to imagine that the ideal moral state is for one man to keep giving another man back the property he has stolen, and then immediately stealing it again. Thus logic seems to validate our instinctual understanding of the foolishness of this as a moral ideal – but let’s go a little further, to see if it still holds.
+产权本身不过是声称保留对资产的控制权。这是可选的，只要你和我可以加入嬉皮士公社，并决定永远不再主张我们的产权。或者，如果在我的邻居中知道如果有人拿走我的财产我更高兴，那么我的割草机将更有可能失踪。同样，如果我把一台笔记本电脑放在我前面的草坪上，上面写着“如果你想要的话”，那么我清楚地表明我不想保留当前或将来对笔记本的控制权。
 
-Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object”.
 
-If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
-
-Property rights themselves are nothing more than the assertion of a just desire to retain control over assets. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
-
-If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object.”
-
-If Doug does steal Bob’s lighter, but then defends his theft through a rejection of property rights, then clearly Doug cannot object to Bob taking his lighter back – since property rights are invalid, Doug now has no more valid claim to own the lighter than Bob did. Finally, if Doug steals Bob’s lighter under the principle “theft is good,” then clearly Doug could have no logical objection to someone else stealing the lighter immediately. However, it would make precious little sense for Doug to spend time and energy stealing Bob’s lighter if the moment he had it in his hot little hands, someone else snatched it away from him. In other words, working to gain control of a piece of property is only valid if you can assert your property rights over the stolen object. No man will bother stealing a wallet if he has certain knowledge that it will be stolen from him the moment he gets his hands on it.
+If Doug does steal Bob’s lighter, but then defends his theft through a rejection of property rights, then clearly Doug cannot object to Bob taking his lighter back – since property rights are invalid, Doug now has no more valid claim to own the lighter than Bob did. Finally, if Doug steals Bob’s lighter under the principle “theft is good”, then clearly Doug could have no logical objection to someone else stealing the lighter immediately. However, it would make precious little sense for Doug to spend time and energy stealing Bob’s lighter if the moment he had it in his hot little hands, someone else snatched it away from him. In other words, working to gain control of a piece of property is only valid if you can assert your property rights over the stolen object. No man will bother stealing a wallet if he has certain knowledge that it will be stolen from him the moment he gets his hands on it.
 
 In other words, theft in practice is both an affirmation of property rights and a denial of property rights. Any moral theory that supports theft thus both affirms and denies the existence of property rights – an insurmountable contradiction which completely invalidates any such theory.
 

@@ -1,75 +1,75 @@
 ## Parallels
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Before science kon take everywhere, people be dey  reason am say na unthinkable thing for our natural world to fit survive alone without living with open eye common  sense  whether something dey right or wrong. D  sun dey shine well well like a spiritual warrior; d moon just jejely dey shine small and e kon be d lonely brother wey sun get.  Olden days stories about gods na common tori wey dem dey yan all d time, and storms dey happen when demons dey vex.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Dat sense wey say nature dey survive on im own and fit grow by imself na wetin people nor fit imagine. D  Darwinian revolution, d research about life say dem nor create life, but na life come out on im own,  kon bring out the idea from ordinary material to biological world.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Before science kon dey exist, inside d centre of evri complex system na correct good consciousness dey for inside – wey e be say if d correct sense nor dey, na wahala and scatter scatter everitin go be, and e go stop d system to exist.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+But as e kon be, e kon bad. D correct good consciousness na wetin nor be real, na false idea, make e nor kon be like say e bad. Nothing like those gods dey exist, and those wey dem think say e dey exist na mouth of their priest dem for hear am. Wetin e really be na d yeye people wey nor dey reason well, dem nor even know d kind mumu wey dem be.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+We go soon put dis same sense for d mind of people wey dey d society – and as e kon be now, e dey important say we do am.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+We make am dey important, say inside d centre of society we put one correct thing wey dem dey call “government”. If dis government nor dey, we go see am say true true d society go enter wahala and scatter scatter, and d world go stop – just as our olden days papa and mama think am say if their gods nor dey, na wahala go full everywhere, and  world go stop.
 
-However, “the government” no more exists than “god” exists.
+But as e kon be, d “government” nor dey exist as d gods nor dey exist.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+When we dey talk about “gods”, we dey really talk about wetin the “priests dey think and reason”.
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+When we talk of “government”, na  d  “violence of small group of people” we mean.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+D idea of how fast fast things about life dey happen, which dem don already prove for physics and biology,  still remain unthinkable to us wey dey for d society.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+But as e kon be, “governments” nor kon dey needed again for organisation and to make d society continue to dey live just as “gods” nor dey needed again for organisation and to make d society continue to dey live.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+In fact, just as religion take disturb and slow d progress of science, na so government take dey disturb and slow d progress of d society.  Just as the false idea of religion don cause hundreds of millions of people to die throughout for history, na so d false idea about d government don do.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Just as d false things and beliefs of religion dey judge any kind of abuse, corruption and violence, na so d false things and belief of the government dey be. When we kon choose to live our life by thinking and reasoning wetin nor be real, we dey choose destruction wey we nor go fit avoid in one form or d other.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+When we kon choose to live in d society according wetin religion talk or say make we do, na war we go end up, violence, control under force, abuse, corruption and yeye lifestyle go be d order of d day.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+When we kon choose to live in the society say make government dey control our social and economic life, d result nor make any difference.
 
-We can either choose virtue or compulsion.
+We go fit choose either good behavior  or force person to do wetin im nor wan do
 
-We cannot have both.
+We nor go fit choose and carry d two of dem.
 
 ### Solutions
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+We fit choose to believe say d government na both necessary and correct people. We fit choose to believe dat,  without d government, d society go collapse to anarchy, a condition wey government nor dey and no control for the society, and d world go scatter into war with one another. We fit choose to believe dat if government nor dey, roads, education, healthcare, old-age pensions, libraries, protection of properties and many more nor go dey.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+False beliefs wey resemble dis one don drop d progress of mankind throughout for history. D one reasonable talk wey UPB yan about the government na wetin science don already talk about religion before.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+As science kon dey carry on practicals about d universe say d universe fit live without god, fear kon dey trouble people for mind say d world go soon end, and say d society fit collapse to lack of control without government and civilization go cause war for d world.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Any time a system wey dey judge power con dey conceived say e dey run without d power, those wey dey  profit from d manipulation of dat power go dey cry out say if dem nor dey, everything  go loss.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Priests do dis thing during dat time wey science dey take everywhere. Without God, life no get meaning at all. Without God, man no get better behavior for the society. Without God, our souls nor go save. Without God, d world go drop to evil and wahala go full everywhere.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+None of dem kon turn out to be true sef. In fact, na d reverse be d case. D end of religion wey be dey top everywhere for d world kon open way for church and state to separate, d end of aristocracy (where people get level pass other people), d rise of free market, people with freedom for many important areas of d world.
 
-The fall of God was the rise of mankind.
+D fall of God na d rise of mankind.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+With dat same eye, when we start begin to look d society as d early scientists dey see d universe dat time  – say e fit survive on im own without any oga kpata kpata – then, we go start to dey see am say many possibilities of freedom for mankind dey.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+D establishment of oga kpata kpata and d use of force and ojoro wey nor dey give other people chance dey reduce d progress of knowledge, of wisdom, of body and d health of d brain – just as d establishment of oga kpata kpata and d use of force in d universe dey reduce d progress of knowledge, of wisdom, and science.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+D way to oppose d things wey nor be real na with truth wey no fit rest. D way to oppose God na with reason, evidence and science.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+D way to oppose d state – d thing wey nor be real and dangerous pass –na with reason, evidence and science.
 
-### The Future
+### D Future
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Whether we like am or not, UPB dey everything wey we do. Human beings get one natural way  to dey dey consistent, since we be human beings wey sabi reason very clear, and we dey live for consistent and clear universe wey sense dey. Anything wey we accept for our life sabi push us to dey get more consistent behavior throughout our lives – and throughout d life of our culture and nation sef.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Man wey believe say force and fight na good way to get wetin im want go dey continue to dey do am over and over again for im life. Man wey believe say bad things  good go dey become more bad for im life. 
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+For another style of talk, UPB dey ask for life in consistency and even when e nor dey consistent. UPB dey ask for clear thing wey nor dey scatter even for  inside  immorality.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+From where culture come from dey determine d future of dat culture. Culture wey dem build take dey judge people say dem dey use force go become too much force sef. Culture wey dem build on good reasoning and  freedom go become less force.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Na why d correct explanation for correct behaviour about how to live better for life dey very important.
 
-What we believe is what we become.
+D thing wey we believe, na dat we go become.
 
-If we believe lies, we shall become slaves.
+If we dey believe lies, na slaves and servants we go become

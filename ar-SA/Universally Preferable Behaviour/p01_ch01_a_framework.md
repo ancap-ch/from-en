@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## إطار للأخلاقيات
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+تختلف المقترحات الأخلاقية عن الأنواع الأخرى من البيانات المعرفية. إذا قلت، "أنا أحب الجاز"، قد يكون هذا البيان صواب أو خطأ، لكنه لا يعتبر عموما ملزم لك بأي شكل من الأشكال. تفضيلي لموسيقى الجاز هو مجرد بيان من الولاء الشخصي. استنادا إلى بياني، ليس من الضروري عليك  أن تحب أو تعجب بموسيقى الجاز.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+وبالمثل، إذا قلت "أنا أحب الخضار"، وهذا هو أيضا مجرد بيان من تفضيل شخصي. ومع ذلك، إذا قلت، "الخضروات هي الغذاء الصحي"، ثم تحولت من بيان تفضيل شخصي لبيان حقيقة موضوعية. هذا هو الفرق بين "أنا أحب الآيس كريم"، و "الآيس كريم يحتوي على الحليب".
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+والفرق الأساسي بين بيانات * التفضيل * وبيانات * الحقيقة هو أن بيانات الواقع موضوعية قابلة للاختبار  وملزمة. إذا كنت تقيم الحقيقة، فإنه يجب عليك أن تقبل حقيقة أن الآيس كريم يحتوي على الحليب،  في اول مرة يتم اثبات ذالك. [^ 1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+إذا قلت أن الأرض مستديرة، وأنا أقدم دليلا وافيا على هذا البيان، فإنه لم يعد متروك لك تحديد ان كان البيان صحيحا عبر رأيك الشخصي. إذا أمكنني إثبات أن الأرض مستديرة، فأنت ملزم بقبولها على أنها صحيحة، إلا إذا كنت على استعداد لرفض العقل والأدلة كمعايير للحقيقة.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+إذا قبلت صحة القوانين الرياضية، لا أستطيع أن أرفض بشكل تعسفي برهان رياضي يتفق مع تلك القوانين. إذا كنت * انا * ارفض مثل هذا الدليل، لم يعد بإمكاني المطالبة بقبول صحة القوانين الرياضية. إن قبولي لهذه القوانين يعني أنني ملزم * بأن أتقبل صحة تلك البراهين التي تتفق مع هذه القوانين. إن رفض الدليل الذي يتطابق مع المعايير الرشيدة هو رفض المعايير العقلانية ككل. 
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+المنهج العلمي، العقلانية نفسها، والقوانين الرياضية كلها أمثلة على * موضوع* معايير لتحديد الحقيقة من الاقتراح. ليس رأيي أن اثنين واثنين اصبحا أربعة  إذا كنت تقبل أيضا أن اثنين واثنين اصبحا أربعة، أنت لا تخضع نفسك لرأيي المجرد ، ولكن إلى حقيقة عقلانية.
 
-### Objective Truth
+### الحقيقة الموضوعية 
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+ويتمثل التحدي الرئيسي في فهم طبيعة الحقيقة في إدراك أن "الحقيقة" ليست موجودة في العالم بنفس الطريقة التي تقوم بها الصخور أو الأشجار.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+مفهوم "الحقيقة" هو بالضرورة مصطلح نسبي على الرغم من أن هذا لا يعني مصطلح شخصي أو تعسفي. مفهوم "الصحة" هو أيضا مصطلح نسبي مقارنتا "بالصحة" والمرض، وأيضا إلى المعايير النسبية للصحة. ما يعتبر "صحة جيدة" لمن يبلغ من العمر تسعين عاما نادرا ما يعتبر صحة جيدة لمن يبلغ من العمر 20 عاما. إن تعريف الحياة الطويلة يختلف كثيرا الآن عما كان عليه قبل خمسمائة سنة.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+بيد أن هذا لا يعني أن مفهوم "الصحة" مفهوم نسبي وذاتي تماما. وفاة شخص ذو 10 سنوات من سرطان الدم غير صحي بأي تعريف تماما كما عداء الماراثون ذو عشرين عاما هو صحي من قبل أي تعريف. حاليا، رجل يعيش حتى التسعين لديه إحصائيا حياة طويلة، على الرغم من أن من شأنه أن يتغير إذا سمحت التكنولوجيا الطبية فجأة لنا أن نعيش لمائتي سنه.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+ومع توسع تعريفنا "للصحة"، فإنه لا يلغي التعاريف السابقة، بل يوسعها. إذا تقدمت التكنولوجيا الطبية للسماح للفتيات في سن التسعين للفوز بالماراثونات، فإن تعريفنا لما هو صحي بالنسبة للمسنين سيتغير ولكن هذا لا يعني أن عداء الماراثون البالغ من العمر 20 عاما يصبح فجأة غير صحي. تعلم الجبر لا يبطل الحساب. 
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+الحقيقة لها أيضا قيمة بالنسبة إلى الضرورة أيضا. تم استبدال الفيزياء النيوتونية من قبل فيزياء أينشتاين، والتي أثبتت انها أكثر دقة في الحالات القصوى مثل الجاذبية العالية للغاية أو السرعة. ومع ذلك، البحارة الراغبين في حساب المسار الصحيح عبر المحيط يجدون الفيزياء النيوتونية أكثر  دقة بما فيه الكفاية. انت لا تريد  أن ترسل سفينة فضاء إلى ألفا سينتوري باستخدام الفيزياء النيوتونية، ولكن لا بأس تماما ان حصلت على سفينة من لشبونة الى نيويورك. وبالتالي فإن العمل في تعلم وتنفيذ فيزياء اينشتاين هو سلبي للبحارة.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+ونتيجة لذلك، فإن جملة "الفيزياء النيوتونية أقل دقة من فيزياء أينشتاين، ولكن الفيزياء النيوتونية هي أفضل وسيلة لحساب مسار السفينة" يمكن اعتبارها اقتراح صالح. وبالتالي فإن الفيزياء النيوتونية على حد سواء * أقل دقة *، و * أكثر ملاءمة *.  
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+إذا أردنا أن نشرب أنقىماء ممكن، نحن على الأرجح سندفع آلاف الدولارات للزجاجة الواحدة. وما لم نكن غنيين جدا وباهظين للغاية، فإننا لن ندفع ذلك لإخماد عطشنا. صحيح أن الماء النقي هو أفضل بالنسبة لنا، ولكن الثمن الذي يتطلب نقاءه يضرب عتبة تناقص العوائد. وهكذا "أنقى هو أفضل" يعطي الطريق إلى "أنقى هو أسوأ".
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+مرة أخرى، هذا لا يعني أن نقاء الماء هو ذاتي تماما. الماء المقطر هو دائما أكثر صلحا للشرب من مياه البحر.
 
-#### Truth And Objective Reality
+#### الحقيقة والهدف الواقعي
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+مفهوم * الحقيقة * ينطوي بالضرورة على مفهوم * الدقة *. إذا كنت أحاول أن أطلق سهم على عين الثور، يتم تحديد دقة طلبي من قبل إلى أي مدى السهم سيسقط من المركز.
 
-What, then, is the “bull’s-eye” of truth?
+ماذا، إذن، هي " عين الثور " من الحقيقة؟
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+حسنا، * الحقيقة * للبيان قابلة للقياس بالنسبة لمطابقتها للواقع الموضوعي.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+وبصرف النظر عن تحديات اللغة في هذه اللحظة، إذا كنت أشير إلى النورس واقول: "هذا سندان"، أنا مخطئ بوضوح، لأن السندانات غير عضوية، ولا يمكن أن تطير. وقيمة الحقيقة في بياني تقاس بالنسبة إلى الحقائق الموضوعية للواقع. وبما أن النورس ليس في الواقع سندان، فإن بياني غير صحيح. 
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+وبطبيعة الحال، فإن هذه المعادلة بين الحقيقة والواقع تتطلب أن تكون اللغة واحاسيسنا موضوعية نسبيا. وهناك أسباب وجيهة كثيرة تدعو إلى الاعتقاد بأن كل من اللغة والشعور بالأدلة هما في الواقع موضوعيان؛ يمكننا أن ندخل في نقاش معقد حول هذا الموضوع، ولكن يكفي أن نقول أنه بما أنك تستخدم عينيك لقراءة كتاب مكتوب بلغة بشرية، يمكننا أن نتفق على الأقل على أن عينيك، واللغة التي نشاركها، هي أقل هدف بما فيه الكفاية بالنسبة لك لمعالجة بدقة ما أكتبه. إذا لم تكن كذلك، ليس لدينا ما نتحدث عنه، ولم تفهم أي شيء قمت بكتابته على أي حال، لذلك ستكون هذه الجملة بلا معنى على قدم المساواة، وربما تم تقديمها أيضا في "وينغ دينغس".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+على افتراض أنك تتمكن من معرفة الفرق بين الخطين أعلاه، يمكننا الاستمرار بشكل معقول.
 
-#### Accuracy And Consistency
+#### الدقة والاتساق
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+من المستحيل بالنسبة لي أن ارسم بدقة سحابة، لأنه في الوقت الذي يستغرقه رسم ذلك، السحابة تتغير باستمرار. أنا يمكن أن ارسم بدقة * صورة * لسحابة، والتي أصبحت مجمدة في الوقت المناسب.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+إذا كنت أمضي ساعة في محاولة لرسم سحابة، وبعد ذلك أسألك ما إذا كانت اللوحة هي تمثيل دقيق لتلك السحابة، يجب عليك بالضرورة الرد على أنها ليست كذلك.
 
-In other words, where there is no consistency, there can be no accuracy.
+وبعبارة أخرى، حيث لا يوجد اتساق، لا يمكن أن يكون هناك دقة.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+عندما نحلم في الليل، تصوراتنا هي أن قواعد "المسألة" و "الطاقة" في حالة مستمرة من التدفق  نحن في مأمن من الجاذبية، ثم نطير على ظهر الفيل، وبعد ذلك يمكننا المشي على الجدران. ليس من الممكن تطوير "فيزياء علمية من الأحلام" أكثر مما هو عليه أن ترسم بدقة سحابة.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+المنطق، العلم والحقيقة،  مستحيلان في غياب * الاتساق *.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+في الأساس، قوانين المنطق مستمدة من سلوك المادة والطاقة، على الأقل على المستوى الإدراك الحسي. إذا قلت لك رمي الكرة على حد سواء صعودا وهبوطا في نفس الوقت، وأنا أسأل عن المستحيل، والدي يمكنك اختباره بسهولة عن طريق محاولة تلبية طلبي. إذا كنت أقول لك حراثة كل من الحقل الشمالي والجنوبي في وقت واحد، سوف تكون غير قادر على الامتثال. إذا كنت أطلب منكم تحويل وردة إلى حمار، لن يتم تلبية طلبي أبدا.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+الحقيقة الإدراكية متسقة وموضوعية ومن هذا الاتساق والموضوعية نستمد قوانين المنطق. إن بياناتنا عن الواقع لا يمكن أن تمثل إلا بدقة * الواقع * كنتيجة مباشرة لهذا الاتساق والموضوعية.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+حقيقة أن النورس لا يتحول بشكل تعسفي إلى سندان أو العكس بالعكس هو جذور قدرتنا على الحكم بدقة على البيان: "هذا هو النورس". إذا طيور النورس بشكل عفوي وتغيرت باستمرار طبيعتها، فإننا لن نكون قادرين على تقديم تصريحات صحيحة أو خاطئة بشأنهم أو أي شيء لهذه المسألة.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+هذا هو جذر معيار أساسي من المنهج العلمي استنساخه. إذا قدمت مطالبة عالمية حول طبيعة الجاذبية، يجب أن تكون قادر على إعادة إنتاج هذا الادعاء في البيئة الخاصة بك. إذا كان الواقع * غير * متسق، الاستنساخ سيكون معيارا غير عقلاني لإقامة الحقيقة.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+إذا كنت مدرس رياضيات، فمن المستبعد جدا أن تقبل إجابة خاطئة من الطالب، حتى لو ادعى هذا الطالب أن إجابته كانت "صحيحة" عندما كتبها، ولكن فقط تغيرت بطريقة أو بأخرى في الفترة الانتقالية.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+وهكذا يمكننا أن نقبل أننا يجب أن نقيس صحة بيان يتعلق بالواقع الموضوعي سواء تجريبيا أو منطقيا. المنطق كما ينشأ الانضباط فقط نتيجة لاتساق الواقع. تكون الملاحظات التجريبية صالحة أو غير صالحة فقط نتيجة لطبيعة الواقع المتسقة.
 
-### The Existence Of "Truth"
+### وجود "الحقيقة"
 
-Truth, then, can be measured according to two central criteria:
+الحقيقة، بعد ذلك، يمكن قياسها وفقا لمعيارين مركزيين:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. الحقيقة هي مقياس للارتباط بين الأفكار في عقولنا واتساق العقلانية، وهي مستمدة مباشرة من السلوك المتسق للمادة والطاقة في العالم الحقيقي. [^ 2]
+2. الحقيقة هي أيضا مقياس للارتباط بين الأفكار في عقولنا وطبيعة وسلوك المادة والطاقة في العالم الحقيقي. [^ 3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+المعيار الأول هو مقياس لاتساق الأفكار مع أنفسهم وهذا الاتساق هو شرط لأن الواقع يتسق مع نفسه. إذا قلت، "أنا غير موجود"، وهذا هو مثال على فكرة لا تتفق مع نفسها، لأنني يجب أن اوجد من أجل نطق الجملة. والمعيار الثاني هو مقياس لدقة الأفكار المتعلقة بالملاحظات التجريبية للواقع الموضوعي.
 
-#### Empiricism Versus Rationality
+#### التجريبية مقابل العقلانية
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+يمكن أن ينظر إلى التجريبية على أنها القدرة على صيد كرة القيت غريزيا ، أو قياس حركتها. العقلانية هي القدرة على التنبؤ وفهم المسار الذي سوف تتخذ الكرة على أساس المبادئ العالمية. ومن الواضح أنه إذا ذهبت كرات عشوائيا في أي وكل اتجاه  وتحولت سحريا إلى قطعان من الحمائم فنحن سوف لن نكون قادرين تماما على التنبؤ بسلوكهم.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+وهكذا، بما أن المسألة تطيع قوانين قابلة للتغيير، يجب لنظرياتنا * حول * المسألة أيضا طاعة القوانين القابلة للتغيير. إذا كنت لا أعرف شيئا عن لعبة البيسبول، ولكن مشاهدة لعبة البيسبول حيث يطيع اللاعبين دائما القواعد، سيكون من غير المنطقي بالنسبة لي صياغة نظرية حول قواعد البيسبول التي تناقض مباشرة سلوك اللاعبين كما كنت أشاهد. بما ان الإجراأت من اللاعبين متسقة، * أي نظرية أنا اطورها بشأن القواعد التي توجه تلك الإجراأت يجب أيضا أن تكون متسقة *.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+وهذا الشرط المتعلق بالاتساق هو أحد أهم المتطلبات الأساسية للحقيقة. وبما أن الواقع متسق، فإن النظريات المتعلقة بالواقع يجب أن تكون متسقة أيضا.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+في الواقع، العقبة الأولى التي يجب أن تتغلب عليها أي نظرية هي * الاتساق الداخلي *.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^ 1]: إذا كنت لا تقدر الحقيقة، فلن تكون أبدا في هذه المناقشة  أو أي نقاش آخر في المقام الأول!
 
-[^2]: Rational consistency, or internal logic.
+[^ 2]: الاتساق العقلاني، أو المنطق الداخلي.
 
-[^3]: Empirical evidence, or empiricism.
+[^ 3]: أدلة تجريبية، أو تجريبية.

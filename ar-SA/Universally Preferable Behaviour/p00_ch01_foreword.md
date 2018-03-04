@@ -1,78 +1,78 @@
-## Foreword
+## مقدمة
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+في العديد من القصص الخيالية،  يعيش الوحش الرهيب مع قوة هائلة، والتنين أو باسيليسك، الذي يستغنى على الأراضي المحيطة به. القرويون المحليون يرتعشون من هذا الوحش. يضحون حيواناتهم ويدفعون المال والدم على أمل استرضاء نبضاته القاتلة.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+معظم الناس يرقدون تحت ظل هذا الوحش، ويدعون خوفهم "الحكمة"، ولكن عدد قليل  في حالة سكر ربما  شجاعة أو حماقة يقررون القتال. سنة بعد سنة، عقد من الزمان بعد عقد ، موجة بعد موجة من الابطال يحاولون جمع قوتهم لمحاربة هذا الطاغية الرهيب.
 
-Try – and fail.
+المحاولة والفشل.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+الوحش دائما خالد، وبالتالي فإن القرويين لا يمكنهم وضع امالهم في الوقت ليمر ويخلصهم من الطغاة. الوحش ليس عقلاني أبدا، وليس لديه الرغبة في التجارة، ولذالك لا يمكن إجراء مفاوضات.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+الأمل الوحيد للقرويين اليائسين هو أن يظهر الرجل الذي يمكن أن يهزم الوحش.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+حتما، رجل يتقدم للأمام ويضرب جميع التحديرات بعرض الحائط. وهو صبياسطبل، ابن صانعة، متدرب خباز، أو أحيانا، مجرد متشرد. 
 
-This book is the story of my personal assault on just such a beast.
+هذا الكتاب هو قصة اعتداءي الشخصي على هذا الوحش.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+هذا "الوحش" هو الاعتقاد بأنه من المستحيل تحديد نظام أخلاقي موضوعي وعقلاني وعلماني وعلمي. هذا "الوحش" هو الوهم بأن الأخلاق يجب أن تضيع إلى الأبد في المستنقعات غير العقلانية من الآلهة والحكومات، فرضت لأسباب براغماتية فقط، ولكن إلى الأبد تفتقر إلى مبرر منطقي وتعريف واضح. هذا "الوحش" هو الخيال في الواقع، أعظم فرحنا، أعمق سعادتنا، يجب أن يلقي جانبا من قبل العلمانيين الكبار، ويترك في الغبار ليتم نصبه ، واستعرض واستغلال من قبل السياسيين والكهنة  والآباء والأمهات. هذا "الوحش" هو الخرافات التي، بدون خطب من الآباء والأمهات، البلطجة من الآلهة أو البنادق من الحكومات، ونحن لا يمكن أن نكون عقلانيين وجيدين على السواء. 
 
-This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
+وقد أسقط هذا الوحش العديد من الأبطال الكبار، من سقراط إلى أفلاطون إلى أوغسطين إلى هيوم إلى كانت إلى راند.
 
-The cost to mankind has been enormous.
+لقد كانت تكلفة البشرية هائلة.
 
-Since we have remained unable to define a rational system of universal morality, we have been forced to inflict religious horror stories on our children, or give guns, prisons and armies to a small monopoly of soulless controllers who call themselves “the state.”
+وبما أننا ظللنا غير قادرين على تحديد نظام عقلاني للأخلاق العالمية، فقد أجبرنا على إلحاق قصص رعب دينية على أطفالنا، أو إعطاء السلاح والسجون والجيوش لاحتكار صغير للمتحكمين بلا روح الذين يطلقون على أنفسهم "الدولة".
 
-Since what we call “ethics” remains subjective and merely *cultural*, we inevitably end up relying on bullying, fear and violence to enforce social rules. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+وبما أن ما نسميه "الأخلاق" لا يزال موضوعيا ومجرد *ثقافيا*، فإننا ننتهي حتما بالاعتماد على البلطجة والخوف والعنف لتنفيد القواعد الاجتماعية. وبما أن الأخلاق تفتقر إلى الأساس المنطقي للمنهج العلمي، فإن "الأخلاق" لا تزال غارقة في حرب قبلية من الأساطير الدموية، كل عصابة تقاتل بالأسنان والأظافر للسيطرة على ولاء الناس ل "الفضيلة". 
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+لا يمكننا أن نعيش بدون أخلاق، ولكننا لا نستطيع أن نحدد الأخلاق بموضوعية  وبالتالي فإننا لا نزال مدانين بالأبدية لإفراغ أرواح النفاق المضطرب، الهيمنة الساخرة أو العبودية التقية.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+فكريا، لا توجد حصص أعلى في العالم. إن فشلنا في تحديد القواعد الأخلاقية الموضوعية والعقلانية قد يكلف ذالك مئات الملايين من الأرواح البشرية، في حروب الأديان والدول.
 
-In many ways, the stakes are getting even higher.
+من نواح كثيرة، فإن الرهانات تزداد. 
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+وقد أثارت زيادة تدفق المعلومات من شبكة الإنترنت شكوك جيل جديد أن ما يسمى "الفضيلة" ليست أكثر  أو أقل  من حكايات الخدمة الذاتية من شيوخهم المنافقين. والأكاذيب المتقنة التي يرويها من هم في السلطة  وتواطؤ أولئك الذين يعبدونهم  هي أكثر وضوحا الآن من أي وقت مضى.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"الحقيقة" قد تعرضت للتلاعب. "الفضيلة" كسيطرة؛ "الولاء" كعبودية، وما يسمى "الأخلاق" وقد كشفت عن عرض دمية سخيف يهدف إلى خداع الضعفاء وتخويف الناس واستعبادهم.  
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+وقد ولد هذا الإدراك جيل جديد من العدماء، تماما كما فعل في ألمانيا في القرن التاسع عشر. هؤلاء النسبيون المتطرفون يحتفظون بأكبر هجماتهم على أي شخص يدعي أي شكل من أشكال اليقين. وقد تجاوز هذا الجيل ما بعد الحداثة الثقافية من تاريخه الجماعي، ولكن الآن عرض *كل* الحقيقة مجرد تأكيد مسبق. مثل الأطفال ذوي العيون العريضة الذين تم شحذهم في "الحكمة" الساخرة، فإنهم ينظرون إلى جميع الاتصالات كالإعلانات، وجميع المطالبات كالدعاية، وجميع الدعوات الأخلاقية كسرقة او نفاق.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+وبما أننا لم نتفق على إطار متماسك وموضوعي وعقلاني لتقييم المقترحات الأخلاقية، فإن "الأخلاق" لا تزال غارقة في التصوف، ونتيجتها الحتمية للعنف. تماما، قبل التنوير، الطوائف الدينية حلت ما لا نهاية للسيطرة على شفرات الأرستقراطية، وحتى الآن تنافس الأساطير الأخلاقية الحرب للسيطرة على الدولة، وجميع آليات الإكراه.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+وهكذا تبقى الأخلاق، بالنسبة إلى العلم الحديث، تماما كما فعل علم الفلك في القرون الوسطى لعلم الفلك الحديث  عالم الأساطير الخيالية، التي فرضت من خلال القص والتهديدات والإكراه والاستغلال  التي تحمي بنشاط أي تقدم حقيقي نحو الحقيقة.
 
-This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+هذا "الوحش" من الأخلاق النسبية يلوح في الأفق فوقنا، يسبقنا، مبررا الضرائب والسجن والرقابة والحروب. وهو يستعبد الشباب في المدارس الحكومية ويوم الأحد. فهو ينخرط الفقراء في الأوساط الناعمة للرفاهية؛ فإنه يستعبد حتى الجنين في قعر الديون الوطنية.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+كما كتبت في كتابي السابق، "في الحقيقة: طغيان الوهم،" الكذبة الأكثر أهمية في مركز النظريات الأخلاقية غير مؤكدة أن مثل هذه النظريات ترد دائما على الأطفال كهدف وحقائق لا تقبل الجدل، عندما تكون الحقيقة  مجرد ثقافي. السبب في أن العلماء لا يحتاجون إلى حكومة أو الفاتيكان هو أن العلماء لديهم منهجية موضوعية لحل النزاعات: المنهج العلمي. والسبب في أن اللغة لا تحتاج إلى سلطة مركزية لتوجيه تطورها هو أنها تعتمد على "السوق الحرة" من التفضيلات الفردية المتراكمة للأسلوب والمنفعة.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+والسبب في أن الأخلاق الحديثة  والأخلاق على مر التاريخ  كانت دائما تعتمد على تعنيف  الأطفال، وعلى تهديد البالغين، هو أنها وكذب وتلاعب يتنكر كحقیقة فاضلة.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+والحقيقة هي أننا نحتاج إلى الأخلاق؛ الكذب هو أن الآلهة أو الحكومات يمكن أن تحدد بشكل عقلاني أو بإنفاذها بشكل عادل.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+هدفي في هذا الكتاب هو تحديد منهجية للتحقق من النظريات الأخلاقية التي هي موضوعية، منسقة، واضحة، عقلانية، تجريبية  و *صحيحة*.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+وأنا أدرك تماما أنه في هذه اللحظة، ستشعرون على الأرجح بموجة متزايدة من التشكك. وأنا أفهم تماما أن احتمالات أن شخص ما هناك على شبكة الإنترنت  قد حل بطريقة أو بأخرى المشكلة الفلسفية من العصور وهو ليس منتشيا في الواقع، فإنها ستكون قريبة جدا من الصفر على أن تكون غير قابلة للتمييز تقريبا منه. 
 
-Still, not *quite* zero.
+لا تزال، لا *تماما* صفر.  
 
-### Ground Rules
+### القواعد الأساسية
 
-Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
+مطالبات غير عادية تتطلب دليلا غير عادي. في اتخاذ هذه المهمة الضخمة  وخاصة في مثل هذا الكتاب القصير  لقد وضعت بنفسي بعض القواعد الأساسية التي تستحق  ان تكون هنا.[^1]
 
-1. I fully accept the Humean distinction between “is” and “ought.” Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
-2. Ethics cannot be objectively defined as “that which is good for man’s survival.” Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
-3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe,” either material or immaterial. If morality exists in some “other realm,” it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic,” society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
-4. I do not believe that morality can be defined or determined with reference to “arguments from effect,” or the predicted consequences of ethical propositions. Utilitarianism, or “the greatest good for the greatest number,” does not solve the problem of subjectivism, since the odds of any central planner knowing what is objectively good for everyone else are about the same as any central economic planner knowing how to efficiently allocate resources in the absence of price – effectively zero. Also, that which is considered “the greatest good for the greatest number” changes according to culture, knowledge, time and circumstances, which also fails to overcome the problem of subjectivism. We do not judge the value of scientific experiments according to some Platonic higher realm, or some utilitarian optimisation – they are judged in accordance with the scientific method. I will take the same approach in this book.
-5. I also refuse to define ethics as a “positive law doctrine.” Although it is generally accepted that legal systems are founded upon systems of ethics, no one could argue that every law within every legal system is a perfect reflection of an ideal morality. Laws cannot directly mirror *any* objective theory of ethics, since laws are in a continual state of flux, constantly being overturned, abandoned and invented – and legal systems the world over are often in direct opposition to one another, even at the theoretical level. Sharia law is often directly opposed to Anglo-Saxon common-law, and the modern democratic “mob rule” process often seems more akin to a Mafia shoot-out than a sober implementation of ethical ideals.
-6. I am fully open to the proposition that there is no such thing as ethics at all, and that all systems of “morality” are mere instruments of control, as Nietzsche argued so insistently. In this book, I start from the assumption that there is no such thing as ethics, and build a framework from there.
-7. I do have great respect for the ethical *instincts* of mankind. The near-universal social prohibitions on murder, rape, assault and theft are facts that any rational ethicist discards at his peril. Aristotle argued that any ethical theory that can be used to prove that rape is moral must have something wrong with it, to say the least. Thus, after I have developed a framework for validating ethical theories, I run these generally accepted moral premises through that framework, to see whether or not they hold true.
-8. I respect your intelligence enough to refrain from defining words like “reality,” “reason,” “integrity” and so on. We have enough work to do without having to reinvent the wheel.
-9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong.” In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
+1. أنا أقبل تماما التمييز البشري بين "هو" و "يجب". القواعد الأخلاقية الصحيحة لا يمكن أن تكون مشتقة مباشرة من وجود أي شيء في الواقع. حقيقة أن البشر بشكل عام *يفضلون* العيش، ويجب أن نتفاعل بنجاح مع الواقع من أجل القيام بذلك، لا يمكن أن تكون أساسا لأي نظرية صالحة للأخلاق. ومن الواضح أن بعض الناس لا يفضلون العيش، ويرفضون بحزم الواقع، لذلك يظل تعريف الأخلاقيات هذا موضوعيا ومشروطا.
+2. لا يمكن تعريف الأخلاقيات بشكل موضوعي على أنه "ما هو صالح لبقاء الإنسان". يمكن لبعض الأفراد البقاء على قيد الحياة بشكل جيد جدا من خلال التظاهر على الآخرين، لذلك هذا التعريف للأخلاقيات لا يتغلب على مشكلة الموضوعية. من الناحية البيولوجية، فإن هذا سيكون مشابها لوصف الاتجاهات التطورية بأنها "جيدة ل *الحياة* البقاء على قيد الحياة"  وهذا لن يكون له معنى. المجتمع البشري هو نظام إيكولوجي من المصالح المتنافسة، تماما كما الغابات المطيرة، وما هو "جيد" لرجل واحد غالبا ما يأتي على حساب آخر. 
+3. لا أؤمن بأي "مجال أعلى" من أشكال المثالية. لا يمكن تصور الأخلاق كما هي موجودة في "الكون الآخر"، سواء كانت مادية أو غير مادية. إذا كانت الأخلاق موجودة في بعض "المجالات الاخرى"، فإنه لا يمكن بعد ذلك أن تخضع لتحليل عقلاني أو تجريبي دقيق  وكما أشار أفلاطون نفسه في "الجمهورية"، بالتالي فإن المجتمع يتطلب من كادر النخبة من الفيلسوف الملوك للتواصل و ، بشكل أكثر دقة، *فرض*  المراسيم غير المفهومة من هذا "العالم الآخر" على الجميع. هذا أيضا لا يحل مشكلة الموضوعية، لأن ذلك الذي لا يمكن الوصول إليه لسبب والأدلة بحكم التعريف الشخصي.
+4. لا أعتقد أن الأخلاق يمكن تعريفها أو تحديدها بالإشارة إلى "الحجج من التأثير"، أو النتائج المتوقعة من المقترحات الأخلاقية. النفعية، أو "أعظم خير لأكبر عدد"، لا يحل مشكلة موضوعية، لأن احتمالات أي مخطط مركزي معرفة ما هو موضوعيا جيدا للجميع وهو تقريبا نفس أي مخطط اقتصادي مركزي لمعرفة كيفية تخصيص بكفاءة الموارد في غياب السعر  الصفر على نحو فعال. كما أن ما يعتبر "أعظم خير لأكبر عدد" يتغير وفقا للثقافة والمعرفة والوقت والظروف التي تفشل أيضا في التغلب على مشكلة الموضوعية. نحن لا نحكم على قيمة التجارب العلمية وفقا لبعض العلم الأفلاطوني الأعلى، أو بعض التحسين النفعي الذي يتم التحكم به وفقا للطريقة العلمية. وسوف نتخذ نفس النهج في هذا الكتاب. 
+5. كما أرفض تعريف الأخلاق بأنه "مبدأ القانون الإيجابي". على الرغم من أنه من المقبول عموما أن النظم القانونية تقوم على نظم الأخلاق، لا يمكن لأحد أن يجادل بأن كل قانون في كل نظام قانوني هو انعكاس كامل للأخلاق المثالية . لا يمكن للقوانين أن تعكس مباشرة أي نظرية موضوعية للأخلاق، لأن القوانين هي في حالة مستمرة من التغيير، والانقلاب المستمر، المهجورة والمخترعة  والنظم القانونية في جميع أنحاء العالم غالبا ما تكون في معارضة مباشرة لبعضها البعض، حتى على المستوى النظري . غالبا ما يعارض القانون الشرعي بشكل مباشر القانون العام الأنجلو سكسوني، وغالبا ما تبدو عملية "حكم الغوغاء" الديمقراطية الحديثة أقرب إلى إطلاق النار على المافيا أكثر من التنفيذ الرصين للمثل الأخلاقية.
+6  إنني منفتح تماما على الافتراض القائل بأنه لا يوجد شيء من قبيل الأخلاقيات على الإطلاق، وأن جميع نظم "الأخلاق" مجرد أدوات للرقابة، كما قال نيتشه بإصرار شديد. في هذا الكتاب، أبدأ من افتراض أنه لا يوجد شيء مثل الأخلاق، وبناء إطار من هناك.
+7. لدي احترام كبير للأخلاقية *الغرائز* للبشرية. إن المحظورات الاجتماعية شبه العالمية على القتل والاغتصاب والاعتداء والسرقة هي حقائق يخفيها أي عاقل عقلاني في خاطره. وقال أرسطو أن أي نظرية أخلاقية يمكن استخدامها لإثبات أن الاغتصاب هو أخلاقي يجب أن يكون خطأ في ذلك، على أقل تقدير. وهكذا، بعد أن وضعت إطارا للتحقق من النظريات الأخلاقية، وأنا تشغيل هذه الأماكن الأخلاقية المقبولة عموما من خلال هذا الإطار، لمعرفة ما إذا كانت أو لم تكن صحيحة.
+8. أحترم ذكائك بما فيه الكفاية للامتناع عن تحديد كلمات مثل "الواقع"، "السبب"، "النزاهة" وهلم جرا. لدينا ما يكفي من العمل للقيام به دون الحاجة إلى إعادة اختراع العجلة.
+9  وأخيرا، أعتقد أن أي نظرية  ولا سيما نظرية واحدة باعتبارها نظرية أخلاقية  لا تفيد إلا إذا كانت تؤكد فقط ما يعرفه الجميع بالفعل غريزيا. أنا لم أمض سنوات من حياتي في العمل على نظرية الأخلاق من أجل السيطرة حول إثبات أن "القتل خطأ". في رأيي، أفضل النظريات هي تلك التي تحقق من الحقائق التي نحن جميعا نفهم حدسيا  ومن ثم استخدام تلك المبادئ للكشف عن حقائق جديدة قد تكون تماما بديهية.
 
-Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+بعد أن أمضيت السنوات القليلة الماضية من حياتي في الإعداد والتدريب، ومن ثم مكافحة هذا الوحش، وآمل أن أكون قد برأت نفسي مع قدر من الشرف. وأعتقد أنني قد برزت منتصرا  وإنني لم اكن مصابا تماما وأتطلع إلى رؤية من يشاركني هذا الرأي.[^2]
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+درست تاريخ الفلسفة في كلية الدراسات العليا، وحصلت على درجة الماجستير، ولكن ليس لدي درجة الدكتوراه في الفلسفة. أنا بعيد عن المثقف المعترف به علنا. بينما أنا قد لا اكون *الأكثر احتمالا* بطل، وأنا أيضا بعيدا عن الأكثر احتمالا. ما إذا كنت قد نجحت أم لا ليس متروك لكم، وليس الأمر متروك لي.
 
-If the reasoning holds, the greatest beast is down.
+إذا كان المنطق يتحمل، فأعظم الوحوش هو تحت .
 
 ### A Modest Suggestion
 

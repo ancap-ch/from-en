@@ -1,48 +1,48 @@
-## The Third Test: Theft
+## Ìdánwò kẹta: Olè jíjà
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+A ma ni lati pẹ diẹ lórí olè jíjà, nígbàtí o jẹ wípé yíò ṣe òkùnfà ìbéèrè nípa ẹtọ lórí dukia, èyí tó pọ lọdọ awọn kan.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Oríṣiríṣi ọnà ni a lè gbà wo ìbéèrè ẹtọ lórí dukia, lati "ilé gbígbé" sí ìmọ ofin sí àgbéyẹ̀wò iṣé ati bẹbẹ lọ. Mi kò ní sọrọ lori èyíkéyìí níbí, nitoripe ìbéèrè ẹtọ dukia gbọdọ wà nínú ìlànà ti UPB, ti UPB ba ma dúró gẹgẹbi ètò ọgbọn fún ayẹwo àlàyé ìwà.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+O daju, àlàyé ìwà lori ẹtọ dukia ni pé: yálà ki èèyàn ni ẹtọ lati ni dukia, tàbí kó má ní.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Nisinyii "dukia" àkọkọ tí a má yẹwo ni ara. "Ẹtọ níní" gbọdọ kọkọ ati ṣáájú ni ìkápá lórí ara tiẹ, nitoripe ti ìkápá na ko ba sí, tàbí a ko mo ìwúlò rẹ, nígbà náà gbogbo ìbéèrè ìwà rere - ka ma sọ ti dukia - kò ní anfààní kánkan.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB jẹ ìlànà fún àyẹwò àlàyé ìwà, tabi àríyànjiyàn lori ìwà ti àgbáyé ni ifẹ sí. Ni akọkọ ati ṣáájú, èèyàn gbudọ le dúró fún ìhùwàsí rẹ ti a ba ni lati ṣe ìdájọ pẹlu ìwà, bi a ti ṣe jiyàn lókè, ìkápá láti mú ìhùwàsí jẹ pàtàkì fún èyíkéyìí ìṣirò ìwà.
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+Ti èèyàn kan ko ba ni ìkápá lórí ara rẹ, a jẹ wípé ko le dúró fún ìhùwàsí rẹ - pàápàá wọn ki nṣe ìhùwàsí "rẹ", sugbon ìhùwàsí ara rẹ. Nísìsiyìí, kò sí ẹni tí yíò jiyàn pẹlu ọgbọn wipe ti ẹnikan ba fún ẹlòmíràn lọrùn pa, ọwọ tó dáràn náà ni a má ṣe ìdájọ ìyá fún. O fihàn, pé ara ko le ni gbogbo ìkápá ara rẹ, ṣugbọn ọ gbọdọ wa pẹlu odiwọn kan labẹ ìdarí ọkan olóye.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+Ìtumọ èyí ni wípé èèyàn ní láti duro fún ìhùwàsí ara rẹ, ati pàápàá yíò dúró fún àwọn *ipá* ti ìhùwàsí na kò. Èèyàn gbọdọ dúró fún ìbí ti o fi okó rẹ sí, leyi ti a le fi ṣe ìdájọ pé o fi ipa ba obìnrin lo. Òún lo "ni" ìhùwàsí ara rẹ bi ọ ti dájú pé òún lo ni ara rẹ. Lati sọ wípé èèyàn lè dúró fún ara rẹ ṣugbọn kò lè dúró fún ipá ti ara rẹ ko dàbí ki a jiyàn wipe èèyàn èèyàn le dúró fún afojusi ati jiju ọbẹ́, ṣugbọn kò le duro fún iṣẹ ti ọbẹ́ na ṣe.
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies,” it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+Bákanáà, ijiyan wipe èèyàn kò lè dúró fún ipá ti ara rẹ ko jẹ ọrọ tí n tako ara rẹ, gẹgẹbi awọn ta gbe yẹwo lókè. Ti mo ba sọ fún ẹ wipe: "Èèyàn kinle dúró fún ipá ti ara wọn n ko," kò ní jẹ àìdá fún ẹ lati bèrè lọwọ mi wipe tani o n dárí ọna-ọfun ati ẹnu mi. Ti mo ba sọ wipe mi kò ni ìkápá lórí ohùn mi - leyi to jẹ ipá kan ti ara mi n ko - a jẹ wípé mo ti dá iwadi mi duro pẹlu odiwọn kíkọ aiṣedeede pátápátá.
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+Ti mi kò bá lè dúró fún òrò tí mo sọ, a jẹ wípé ko sí kókó láti jiyàn pẹlu mi. Ẹrọ igbasilẹ ohùn náà kò lè dúró fún ọrọ tó bá sọ, leyi to mu wa ma le ṣe àríyànjiyàn to lagabara pẹlu rẹ. Ninu awọn eré agbelewo olóró, awọn ọmọbinrin má n rọrùn fún ẹ̀mí láti lò - àlùfáà alagbara ti yíò yọjú má n ba ẹ̀mí ti n ló obìrin na soro, leyi to jẹ pe lásìkò kan obirin náà yíò má sọrọ bí Don Ho.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Aworan burúkú yíì ṣe déédéé lọnà kan - ti o ba jẹ wípé ẹ̀dá mìíràn lọ ní ìkápá lórí ọrọ sísọ obirin náà, ẹ̀dá náà ni a ni lati ba sọrọ, kìí ṣe obìrin náà, ti ko ni ìkápá lórí ìhùwàsí rẹ.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Nitorinà ti mo ba sọ fún ẹ wipe mi kò ní ìkápá lórí ọrọ sísọ mi, o le béèrè lọwọ mi pé: ta wa lo ni ìkápá na? Ti mo ba fèsì pe ko sí ẹnìkankan, a jẹ wípé ko sí oye nínú ijiyan pelu mi gẹgẹbi ọ ti ri lati ba ẹrọ amóunmáwòrán jiyàn, tàbí àpáta tí n bọ lati okè sí ọdọ ọkọ ayọkẹlẹ rẹ.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Bayi ìgbésẹ iṣakóso ara mi lati sọ ọrọ yíò nilo gbigba pe mo ni ìkápá lórí ọrọ sísọ mi - ni ijẹrisi wipe emi ni mo ni ara mi.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil,” since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity,” which is that we assume that a man who is insane does not have full control over his actions.
+Nisinyii, ti ìṣẹlẹ pe ẹ̀mí n lo èèyàn ba je òtítọ, ati pe obirin tí ẹ̀mí n lo náà tu itọ sí àlùfáà, a ko ni so wipe *ọmọbinrin* náà bajẹ, ṣugbọn a má ṣe ṣe anu fún nitori ẹ̀mí àìdá to n lo. Èyíkéyìí ẹdá tó ní ìkápá lórí ara obìnrin náà yíò jẹbi fún ipá ti awọn ìhùwàsí rẹ ba ko - èyí ni idi ti a ko ni pe ọkunrin to jále lójú orun ni "èèyàn búburú," nígbà tó jẹ wípé ko ni ìkápá lórí ara rẹ (biotilẹjẹpe a lè kọ fún lọnà mìíràn). Èyí ni ìpìlẹ fún idabobo ofin ti "kò jẹbi pẹlu ìdí pe aṣiwere ni," èyí tó jẹ pé a lérò pé ọkùnrin tó jẹ aṣiwere kò ní ìkápá lórí ìhùwàsí rẹ.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+A jẹ wípé kikọ ẹtọ ati ni ara yíò jẹ kíkọ gbogbo iwa, leyi ti a ti foju rí lókè, wípé ko ṣeéṣe. Pelu ọgbọn, nígbàtí a ti ṣàlàyé iwa gẹgẹbi ẹka agbára kan ninu UPB, lati kọ ìwà rere yíò túmọ sí sísọ wipe o jẹ ààyò lágbayé lati gbagbọ́ wipe kò sí nkan ti n jẹ ààyò apapọ àgbáyé.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Nígbèyìn, lilo ẹtọ níní ara ẹni ni ti ọrọ sísọ lati kọ imọran wipe èèyàn lè ni ìkápá ara rẹ, yíò jé itako nlá fún ara ẹni.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Ni ọnà yìí ni kíkọ ẹtọ níní ara ẹni fi lè jẹ nkan ti a sọnù.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Níwọ̀n ìgbà tí a bá ní ara wa, dandan ni ki a ni *ipá* ti ìhùwàsí wa ko, yálà eyi tó da tabi bajẹ. Ti a ba ni ipa ti ìhùwàsí wa ko, a jẹ pé awa la ni ohun tí mú jade, yálà ko je wípé ọfà la mu jade, tàbí ìwé - tabi ipaniyan.
 
-### Property And UPB
+### Dukia ati UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Koda ti a ba ko tí òkè yìí, a tún lè lò UPB lati so pataki iwalaye ẹtọ dukia ti àgbáyé.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Gẹgẹbi a ti sọ lókè, yálà ki èèyàn ni ẹtọ dukia tàbí kò má ní. Àyàfi àwọn iyasọtọ diẹ, leyi ti a má mẹnu ba laipẹ, èyí jẹ àlàyé àgbáyé.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Ti èèyàn kan ko ba ni ẹtọ lati lo dukia, a jẹ pé kò ni ẹtọ lati lo ara rẹ. Ko ni ẹtọ lati lo ẹdọfóró rẹ, o sí gbọdọ da mimi duro. Kódà èyí jọ pé kò ní ìtumọ, ọ jẹ àbájáde ẹsẹkẹsẹ ati dandan lori àlàyé pe èèyàn kò ni ẹtọ dukia.
 
-It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
+Ko sí ewu lati ro wípé ẹnikẹni ti o n ba jiyàn lori ẹtọ dukia n mi sínú síta, ati pé yíò sì gba fun ẹ wipe òún ni ẹtọ lati lo ara òun leyi to kéré jù.
 
 The question then comes up whether or not human beings have the right to *exclusive* property use. For instance, property could be defined as a sort of time-share principle of ownership, insofar as everyone should have the right to own everything, on some schedule or another.
 
@@ -56,9 +56,9 @@ Thus we can reasonably say that exclusive self-ownership is a basic reality – 
 
 ### The Grey Areas
 
-Naturally, any statement such as the above brings the inevitable howls of “complexity,” which I fully agree with.
+Naturally, any statement such as the above brings the inevitable howls of “complexity”, which I fully agree with.
 
-Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you.” Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten,” and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
+Let us say that I mean to give you five dollars as a gift, but by mistake I hand you a ten dollar bill, saying, “This is for you”. Few people would consider it theft if I said, the moment after I handed it to you: “Sorry, I meant to give you five dollars, not ten”, and took the larger note back, even though I am taking back property that I have voluntarily relinquished.
 
 On the other extreme, if you are one of my sons, and I pay for your university education, and explicitly tell you that you never need to pay me back, my generosity will doubtless affect your spending habits. It would scarcely seem reasonable for me to clap my forehead after your graduation ceremony and cry, “Oh, I thought you were one of my *other* sons!” and demand repayment.
 
@@ -76,7 +76,7 @@ UPB thus gives us clear options with regards to property rights. It cannot be th
 
 It also cannot be the case that men have only fifty percent property rights.
 
-If I argue: “Men only have fifty percent property rights,” then I create yet another insurmountable contradiction. You may well ask me which half of my sentence was *not* generated by me. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
+If I argue: “Men only have fifty percent property rights”, then I create yet another insurmountable contradiction. You may well ask me which half of my sentence was *not* generated by me. If I only have fifty percent property rights, then clearly I only have fifty percent control over my own body – if I put forward the above sentence, then clearly I am only in control of fifty percent of that sentence, since I only have fifty percent control over my voice. Who, then, is responsible for the other fifty percent of my sentence?
 
 This may sound esoteric, but it is a deadly serious question, for reasons that we will get to shortly.
 
@@ -104,15 +104,15 @@ Thus, if stealing is good, then goodness becomes a state achievable only in the 
 
 Of course, it seems patently ridiculous to imagine that the ideal moral state is for one man to keep giving another man back the property he has stolen, and then immediately stealing it again. Thus logic seems to validate our instinctual understanding of the foolishness of this as a moral ideal – but let’s go a little further, to see if it still holds.
 
-Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid,” then Doug’s moral theory instantly self-detonates.
+Remember, we are not particularly concerned with individual criminals, but rather with moral theories that justify violations of property rights. For instance, if Doug steals Bob’s lighter because Doug believes that “No property rights are valid”, then Doug’s moral theory instantly self-detonates.
 
 If no property rights are valid, then stealing is a completely illogical action, since stealing is an assertion of the just desire to control property.
 
-Property rights themselves are nothing more than the assertion of a just desire to retain control over assets. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it,” then I am clearly signalling that I have no desire to retain current or future control over the notebook.
+Property rights themselves are nothing more than the assertion of a just desire to retain control over assets. It is optional, insofar as you and I can join some hippie commune, and decide to never assert our property rights ever again. Or, if it becomes known in my neighbourhood that I am more than happy if somebody takes my property, it seems somewhat more likely that my lawnmower will go missing. Similarly, if I put a notebook computer on my front lawn with a sign saying “yours if you want it”, then I am clearly signalling that I have no desire to retain current or future control over the notebook.
 
-If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object.”
+If Doug steals Bob’s lighter, it is because Doug has a desire to gain control over the lighter – which is the very definition of property rights. If Doug steals Bob’s lighter because Doug believes that property rights are invalid, then what he is really saying is: “I want to gain control over Bob’s lighter because it is never valid to gain control over any object”.
 
-If Doug does steal Bob’s lighter, but then defends his theft through a rejection of property rights, then clearly Doug cannot object to Bob taking his lighter back – since property rights are invalid, Doug now has no more valid claim to own the lighter than Bob did. Finally, if Doug steals Bob’s lighter under the principle “theft is good,” then clearly Doug could have no logical objection to someone else stealing the lighter immediately. However, it would make precious little sense for Doug to spend time and energy stealing Bob’s lighter if the moment he had it in his hot little hands, someone else snatched it away from him. In other words, working to gain control of a piece of property is only valid if you can assert your property rights over the stolen object. No man will bother stealing a wallet if he has certain knowledge that it will be stolen from him the moment he gets his hands on it.
+If Doug does steal Bob’s lighter, but then defends his theft through a rejection of property rights, then clearly Doug cannot object to Bob taking his lighter back – since property rights are invalid, Doug now has no more valid claim to own the lighter than Bob did. Finally, if Doug steals Bob’s lighter under the principle “theft is good”, then clearly Doug could have no logical objection to someone else stealing the lighter immediately. However, it would make precious little sense for Doug to spend time and energy stealing Bob’s lighter if the moment he had it in his hot little hands, someone else snatched it away from him. In other words, working to gain control of a piece of property is only valid if you can assert your property rights over the stolen object. No man will bother stealing a wallet if he has certain knowledge that it will be stolen from him the moment he gets his hands on it.
 
 In other words, theft in practice is both an affirmation of property rights and a denial of property rights. Any moral theory that supports theft thus both affirms and denies the existence of property rights – an insurmountable contradiction which completely invalidates any such theory.
 

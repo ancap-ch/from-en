@@ -1,75 +1,71 @@
-## Parallels
+## Mga Pararilo
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Sa wala pa ang Rebolusyon nga Siyentipiko, gikonsiderar kini nga dili mahimo sa kinaiyahan nga kalibutan nga makasustinar sa iyang kaugalingon kung wala ang nakahimungawon ug entidad sa “pamatasan” nga sentro niini. Ang adlaw nisaka nga nagsubay sa mga kadina sa usa ka engkantohanon nga karwahe; ang buwan kay usa ka bugnaw ug nag inusara nga igsuon sa adlaw. Ang porma sa mga bitoon kay nagpakita sa storya ug lubnganan sa mga ginoo, ug ang mga mga bagyo kay nagagikan sa kalagot sa mga demonyo.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Ang ideya nga ang kinaiyahan kay makagama sa iyang kaugalingon ug makasustinar sa iyang kaugalingon nga sistema kay halos dili nga mahunahunaan. Ang rebolusyon nga Darwinyano, ang ideya nga ang kinabuhi kay dili ginama, pero kini hinoon kay nilambo, nagdala ani nga ideya gikan sa materyal hangtud sa biyolohikal nga kalibutan.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Sa wala pa ang siyensya, sa tunga sa matag malisod nga sistema kay anaa ang nakahimungaya nga kaayohan - kay kung wala pa kini nga sistema kay magkagubot, og moundang nga ingon ato ra.
+Sa kadimalas, ang kining “nakahimungaya nga kaayohan” kay daw naa ra sa hunahuna, kung ibutang ta lang. Walay ginoo nga anaa – ang tanan *nahimo* nga anaa kay puro ra mga storya og opinyon sa mga pari. Busa ang katinuod nga nagatungkad sa sentro kay ang kabayas sa dili makatarunganon nga mga tawo, nga walay ideya kung unsa sila kasuko.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Apan ang parehong kahayag wala pa nato nadapat sa atong panghunahuna sa katilingban – pero karon *importante* kini nga atong buhaton.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Gikonsiderar nato nga importante kini, sa tunga sa atong katilingban, nagbutang kita og maayong entitad na ginatawag nga “gobyerno”. Ang kawad-on sa niini nga entidad, gikonsiderar nato nga sobra kaklaro nga ang katilingban kay magkagubot og pag-ayo, ug maundang sa ing-ana – sa ingon nga ang atong mga katigulangan nga nagkonsiderar nga, sa kawad-on sa mga ginoo, ang tibuok uniberso kay magkagubot og maayo sa kaugalingon, ug maundang sa ing-ana.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Bisan pa niana, “ang gobyerno” kay wala minglungtad kompara sa “ginoo” nga anaa.
 
-However, “the government” no more exists than “god” exists.
+Kung maghisgot kita og “mga diyos”,ang atong tinuod nga gipasabot niana kay kabahin sa“ang mga opinyon sa mga pari”.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Kung maghisgot kita og “gobyerno”, ang atong gipasabot niana kay “ang kaguliyang sa gagmay ra nga minoriya”.
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Ang ideya sa “wala giplano nga kahan-ayan”, diin nga maayo kaayo nga napruwebahan ngadto sa dominyo sa pisika og biyolohia, nga nagpabilin nga dili masamkon nganhi kanato sa dominyo sa katilingban.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Bisan pa niana, ang“mga gobyerno” kay dili na kinahanglan alang sa pakighugpong ug pagpadayon sa katilingban kompara sa gikinahanglan sa “mga ginoo” alang sa pakighugpong ug pagpadayon sa uniberso.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Sa tinuod, sa ingon nga gipugngan sa mga relihiyon ang paglambo sa siyensya, sa ingon sab nga ang gobyerno kay mingpugong sa paglambo sa katilingban. Sa ingon sa mga ilusyon sa *relihiyon* nga ang hinungdan sa mga kamatayon sa mga gatosan ka minilyon nga mga tawo sa tibuok kasaysayan, sa ingon sab nga mga ilusyon sa *gobyerno*.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Sa ingon nga “pagpangatarungan” sa mga dili tinuod nga etika sa mga relihiyon sa tanang matang sa pangabusar, korapsyon ug kagubot, parehas ra sab nga dili tinuod nga etika sa mga gobyerno. Kung pilion nato nga mabuhi sa pantasya, dili nato malikayan nga nipili sa kagubaan sa tanan, sa usa ka matang o sa lain.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Kung pilion nato ang pagdumala sa katilingban nga nagbasi sa mga mitolohiya sa pamatasan nga pangrelihiyon, kita mopatubang sa gubat, kagubat, pagsanta, abusar, korapsyon ug walay kinutoban nga hipokrisiya.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Kung pilion nato ang pagpadagan sa katilingban nga nagbasi sa mga mitolohiya sa pamatasan nga *statista*, parehas ra kini og resulta.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Makahimo ra kita nga mopili kon sa ligdong o pamugos.
 
-We can either choose virtue or compulsion.
+Dili nato makuha ang duha. 
 
-We cannot have both. 
+### Mga Solusyon
 
-### Solutions
+Pwede kita makapili nga motuo kita nga ang gobyerno kay parehong kinahanglan ug usa ka institusyon sa pamatasan. Pwede kita makapili nga motuo kita ana, kung walay gobyerno, ang katilingban kay malugmok ngadto sa“anarkiya”, ug ang kalibutan kay magunaw patubang sa gubat sa tanan nga batok sa tanan. Pwede kita makapili nga motuo kita nga kung wala ang gobyerno, wala sab ang mga kadalanan, walay edukasyon, walay pagtagad sa lawasnong kaayohan, walay pensyon para sa katigulangan, walay mga laybrari, walay proteksyon sa mga katigayunan ug uban pa.
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Parehas nga mga pagtuotuo, kay lagi, ang nagkulungo sa paglambo sa katawhan sa tibuok kasaysayan. Ang labing importante nga pangsugod kung unsa ang gipaila sa UPB kabahin sa gobyerno kay mao sab ang gipaila sa siyensya kabahin sa relihiyon.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Sa ingon nga ang siyensiya kay nagsugod aron sa praktikal basehan nga ang uniberso kay molambo maski walay ginoo, tanan pamaagi sa pagsinggit-singgit og pagpanawagan nga ang katapusan sa tibuok kalibutan kay nagkaduol na, nga ang katilingban kay mopatubang sa “anarkiya”, ug ang sibilisasyon kay mawala patubang sa gubat sa tanan batok sa tanan.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Sa bisan unsa nga panahon nga ang sistema nga mingkatarungan og gahom kay makasamkon nga makadumala ra kung *wala* to nga gahom, kadtong tanan nga nakaginansya gikan sa pagtuis sa kadto nga gahom kay mingsinggit ngadto kanila nga kung wala kato nila, wala na sab ang tanan.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Gibuhat kini sa mga pari kaniadtong gisugdan ang rebolusyon nga siyentipiko. Kung wala ang Ginoo, walay kahulugan ang kinabuhi. Kung wala ang Ginoo, walay moralidad ang tao. Kung wala ang Ginoo, dili maluwas ang atong mga kalag. Kung wala ang Ginoo, kagubot og kademonyohan ang kapadulngan sa kalibutan.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Wala niining tanan ang nahimong tinuod, bitaw. Sa tinuod, *balit-ad* gyud ang mingtumaw nga nahimo nga tinuod. Ang kataposan sa relihiyon isip naglabaw sa panlataw sa kalibutan nakahimo og paagi alang sa pagbuwag sa simbahan ug estado, ang paghunong sa aristokrasiya, ang pagsulbong sa gawasnon nga merkado, ang pagestablisar sa nagkadaghan nga mga kagawasan sa tawo sa mga mahinungdanon nga dapit sa kalibutan.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Ang pagkahagbong sa Ginoo kay mao ang pagsulbong sa mga katawhan.
 
-The fall of God was the rise of mankind.
+Sa susama nga pamaagi, sa diha nga nagsugod kita og paglantaw sa katilingban sa ingon sa nakita sa karaan nga mga sayantis sa uniberso– nga usa ka sistema nga makasustinar sa kaugalingon nga wala nanginhanglan og sentro sa kagamhanan nga anaa ra sa hunahuna – unya diha ra kita makasugod sa tinuod nga masabot ang mga posibilidad sa kagawasan alang sa katawhan.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Ang pag-establisar sa sentro ug mapamugsanon nga monopolyo sa katilingban kay ang walay kaundangan nga mga kulungo sa paglambo sa nahibawo-an, sa kinaadman, sa katarungan, sa pisikal ug mental nga kaayohan – sa ingon sa pagkaestablisar sa sentral og mapamugsanon nga monopolyo sa *uniberso* nga walay kaundangan nga pagtinunto sa paglambo sa nahibawo-an, sa kinaadman ug siyensya.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Ang pamaagi para supakon ang mga entidad nga anaa ra sa hunahuna kay ang walay katapusan nga katinuoran. Ang pamaagi para supakon ang Ginoo kay ang pagamit sa rason, ebidensya ug siyensya.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Ang pamaagi sa pagsupak sa estado – nga mao ang labing delikado nga entidad nga naa sa hunahuna – kay ang pagamit sa rason, ebidensya ug siyensya.
+### Ang Umaabot
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science. 
+Bisan ganahan kita o dili, ang UPB kay madapat nato sa tanan natong ginabuhat. Ang mga tawo kay anaay kinaiyahan nga posibilidad padung sa pagkamakanunayon, tungod kita nga mga linalang nga adunay panimuot nga makatarunganon, nagapuyo sa nagpadayun og makatarunganon nga uniberso. Busa ang bisan unsa nga mga lugar nga ginadawat nato sa atong mga kinabuhi kay makahimo nga makapugos og labaw pa og nagka-labaw og kamakanunayon nga gawi sa tibuok nato nga mga kinabuhi– ug sa tibuok nga “kinabuhi” sa atong kultura o nasud sab.
 
-### The Future
+Busa ang usa ka tawo nga nagtuo nga ang pangdaugdaug kay maayong paagi aron makuha iyang mga gusto kay magpadayun nga sige og pangdaugdaug sa iyang tibuok nga kinabuhi. Ang tawo nga nagtuo nga ang kaguboy kay maayo kay mamahimo nga labaw ug labaw pa ang pagkapintas.
+Sa lain nga pagkastorya, ang UPB kay nagasugo og pagkamakanunayon maski na sa dili makanunayon. Ang UPB kay nagasugo og pagkaparehas bisan sa imoralidad.
+Ang sinugdanan sa pasiuna sa pamatasan sa kultura kay busa mingdiktar og dili malikayan nga umaabot. Ang kultura nga nahimo sa pagpangatarongan alang sa pagpamugos kay kanunay nga mamahimo pang mas mapamugsanon. Ang kultura nga nahimo sa makatarunganon nga kagawasan kay mamahimo gyud nga mas dili mapugsanon.
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Mao na nga ang paghulagway sa makatarungan nga tigbayon alang sa etika kay importante kaayo.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Kung unsa atong ginatuohan mao sab ang makahimo kanato.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
-
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
-
-That is why the delineation of a rational framework for ethics is so essential.
-
-What we believe is what we become.
-
-If we believe lies, we shall become slaves. 
+Kung motuo kita sa mga ilad, mamahimo gayud kitang mga ulipon.

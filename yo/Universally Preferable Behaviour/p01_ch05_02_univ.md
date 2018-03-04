@@ -1,142 +1,142 @@
-### UPB: Five Proofs
+### UPB: Awon Ayewo Maarun
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+Bi ase ti so siwaju loke, oke aimoye awon isoro imoye inu ero okan ati eri ti a lee gbamu nipase agbeyewo ni o wa ninu aba wipe ko si irufe nkan bi ise ti a yan fe. “Ise ti gbogbo aye yan fe” gbudo je erongba ti o ni idaniloju, fun idi marun gboogi.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+Idi akoko ni imoye ninu ero okan: ti mo ba *jiyan* lodi si aba wipe ise ti gbogbo aye yanfe wa, a je wipe mo ti fi aayo mi han siwaju fun otito dipo iro – ni ona kan na bi fifi aayo mi han fun tito awon ti won n soro lona eke sona otito. Nipa siso wipe ko si irufe nnkan bi ise ti gbogbo aye yanfe jo po mo kike igbe si eti elomiran wipe ko si nkanti o n je iro ohun  – eyi je ise ti o tako ara re ninu sise. Ni ona miran, ti ko ba *si irufe nnkan* bi ise ti gbogbo aye yan fe, a je wipe a *gbudo* tako enikeni ti o ba so wipe irufe nnkan bi ise ti gbogbo aye yanfe wa. Ni ona miran ewe, ti o ba di “dandan” ki eniyan se nkan kan, a je wipe eniyan sese se eda isa ti gbogbo aye yanfe. Fun idi eyi, ise gbogbo aye yanfe – tabi awon ilana nkan ti o to tabi ti ko to – gbodo je eyi ti a lee gabmu.
 
-Syllogistically, this is:
+Nipase fifi awon imoye meji wera won, eyi yi ni wipe:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1. Aba eyi ni wipe: erongba ti o je ti "ise ti gbogbo aye yanfe" gbudo je eyi ti a lee gbamu tabi fi idi re mule.
+2. Awijare ti o tako igbamu tabi ifidimule ise ti gbogbo aye yanfe tikalara re se apejuwe ise ti gbogbo aye yanfe.
+3. Nipase idi eyi, ko si awijare ti o tako ifidimule ise ti gbogbo aye yanfe.
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+Gbogbo wa ni a mo wipe awon nkan kan wa ti olukuluku eniyan ni ife si lotooto, bi ki a feran wara inu yinyin tabi ori igbafe oni feere, ko kan dandan fun awon elomiran lati kopa tabi lati bani feran iru awon nkan bawonyi. Ni ona miran ewe, awon nkan miran wa ti awon elomiran ni ife si, bii ifipabanilopo ati ipaniyan, awon nkan ti won *je* ipalara elomiran. Awon kan tun ni ife si imoye inu ero okan, otito ati eri, awon nkan wonyi kan elomiran (sugbon won kii se ipalara tipatipa) niwon igba ti o ba je wipe gbogbo wa gba wipe aba ti ko ba ni ero ogbon tabi imoye ninu gbudo je iro tabi eyi ti ko ni ifidimule.
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+Awon nnkan ti a ni ife si ti a si le ka si awon nkan ti won kan dandan fun elomiran ni a lee ka si “nnkan ti a ni ife si ti won si se itewogba fun gbogbo eniyan” tabi “awon ilana fun ohun ti o to tabi eyi ti ko to”.
 
-How else can we know that the concept of “moral rules” is valid?
+Ona miran wo ni a tun ti le mo pe agbekale “awon ilana fun ohun ti o to tabi ti ko to” fi idi mule?
 
-We can examine the question biologically as well as syllogistically.
+A lee se ayewo ibeere yi nipa imonjile lori ohun abemi ati bakan naa nipa fifi imoye we imoye.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+Fun apeere, gbogbo nnkan ti a lee fi oju ri tabi fi owo kan ni won n be labe ofin ti a lee fi oju ri – ati wipe gbogbo nnkan abemi ni won nii lo awon nkan kan pelu, fun idi eyi, ti nkan ba ti je abemi, o gbudo je nkan ti awon iwa ti gbogbo eniyan fe tele. Iwalaaye, fun apeere, nilo epo ati afefe ti a nmi sinu. Okan ti o ba ti ti wa laaye pelu tun je arak an Pataki aye ti a le fi oju ri, ba kan na ni o si tun wa labe ofin ti a lee fi oju ri ti osi tun gbudo je eyi ti awon iwa ti gbgbo eniyan fe tele pelu – lati wa se atotonu ni onamiran to yato si eyi maa nilo eri wipe iye eniyan kii se ohun ti o ni nkan ti a le fi oju ri tabi fi owo kan ninu., ati nkan ti ko ni ajosepo mo ohun abemi – eyi ti ko seese, niwon igba ti o je wipe iye eniyan ni iwn, agbara ati aaye. Sise atotonu wipe iye eniyan kosi labe awon ofin ti a lee f oju ri tabi awon iwa ti gbogbo aye fe gbudo fara jopo mo sise atotonu wipe eniyan ti o ba fo si oke ko ni pad abo wa sile, ati lati so wipe eda le wa laaye lalai maa je ounje.
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+Fun idi eyi, ko seese ki eniyan kan se atotonu to ni oye ninu lo di si awon iwa to gbogbo aye yan laayo, niwon igba ti o je wipe ti iru eniyan bee ba ti wa laye lati se iru atotonu bayi, ohun tikalara re ti gbudo ni lati tele awon iwa ti gbogbo aye yan laayo bi mimi, jije ounje ati mimu. 
 
-Syllogistically, this is:
+Nipa fifi imoye we imoye, eyi jasi wipe:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. Gbogbo nkan abemi nili awon ise ti gbogbo aye yan laayo lati wa laaye.
+2. Eniyan je nkan abemi.
+3. Fun idi eyi, gbogbo eniyan ti o n mi n be laaye nitori wipe won n se awon ise ti gbogbo aye yan laayo.
+4. Fun idi eyi awijare ki awijare ti o ba tako awon ise ti gbogbo aye yan fe nilo itewogba ati sise awon ise ti gbogbo aye yan fe.
+5. Fun idi eyi, ko si awijare kan ti o tako wiwa awon ise ti gbogbo aye yan fe ti o lee fi idi kankan mule.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+Niwon igba ti o ti je wipe ona imo ijinle science nilo eri lori ohun ti a lee fi idi re mule nipase agbeyewo tabi iriri, a gbudo tubo gbojule ohun ti a le se arigbamu re lati fidi ohun ti a funra si mule – pelu nibi yi ni ifidmule ti o se atileyin ti o muna doko fun ise ti gbogbo aye yan fe.
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+Enikeni ti opolo re pe gbagbo ninu awon ilana kan ti o wa fun iwa ti o to ati eyi ti ko to. Awon ariyanjayan die wa lori bi a se le mo awon ilana fun iwa ti o to ati eyi ti ko to daju, sugbon gbogbo eniyan mo daju wipe awon ilana fun iwa ti o to ati eyi ti ko to ni a lee fi idi won mule – bi o ti le je wipe awon opolopo onimojinle ni o tako tako eyi, sugbon gbogbo awon onimojinle gba wipe ona imo ijinle tikalara re ni ifidimule. Eniyan le se aroye wipe ile aye ri rubutu dipo pelebe – eyi ti o je ohun ti a le fi safiwe yiyipada alaye iwa ti o to ati eyi ti ko to – sugbon enikan ko lee se awijare kan tako wiwa ile aye – eyi ti o fi ara jo sise awijare wipe ko si irufe nkan bi ise ti gbogbo aye yan fe.
 
-Or:
+Tabi:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1. Fun imojinle lati wulo, o gbudo je eyi ti agbeyewo ti a lee fi idi re mule se atileyin fun.
+2. Ti o ba je wipe erongba “ise ti gbogbo aye yanfe" je ohun ti o ni ifidimule, a je wipe eda omo eniyan gbudo gbagbo ninu ise ti gbogbo aye yanfe.
+3. Gbogbo eniyan gbagbo ninu ise ti gbogbo aye yanfe.
+4. Nitori idi eyi, eri ti a lee fi idi re mule wa to se atileyin ifidimule ise ti gbogbo aye yanfe – ati pelupelu ifidimule iru eri eyi tako aba wipe ise ti gbogbo aye yanfe ko si.
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+Awiye eleekerin fun ifidimule ise ti gbogbo aye yanfe tunbo je eyi ti a lee fi idi re mule. Niwon igba ti o je wipe omo eniyan ni oke aimoye awon nkan ti iyanfe ni ile aye, siso wipe ko si agbekale fun ise ti gbogbo aye yanfe yio tumo si siso wipe awon nkan ti gbogbo eniyan lee yan fe je bakan naa (eyi to tumo si ife oluluku eniyan). Ni ona miran, gbogbo ife olukuluku eniyan ko ri bakan na, yala ni imoye ero okan tabi ninu imo ti a le fi ide re mule nipa  agbeyewo tabi iriri.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+Fun apere, ti ounje ba wa,feere gbogbo eniyan ni o fe ma jeun lojojumo. Ninu otito,feere gbogbo eniyan ni o mafe idaabo bo lati lo wooro. Feere gbogbo awon obi ni wan yan lati fun ounje,daabo bo ati lati je ki awon omo wan kawe. Awon apeere to po lori yiyan lowa loro eniyan, ti o si fiyo wipe iwa ti a le gba lagbaye ni imule, o si je ninu ara eniyan.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+Bi ase so loke, ko si oye fisiki ti o ni imule le ko oye wipe awon omokekere le gba baalu mu-ni onakana,ko si oye asa ti o ni imule le ko awon eri fungbigba iwa ti a legba lagbaye ti ilana UPB.
 
-Or:
+Tabi:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. Ko fe lesi ipin fun yiyan.
+2. Pupo ninu eniyan man yan nkan to jora.
+3. Nigbana,ko kin se gbogbo yiyan lo dogba.
+4. Nigbana,iyan ti a fe lagbaye gbodo ni imule.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+Ijiyan karun fun imule iwa ti a le gba lagbaye je itankale.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+Niwon igba ti gbogbo oun ti o mi nilo iwa ki a ma yan lati ye, ale so wipe gbogbo oun ti o n mi to ba yan yiyanto tayo julo ni awon ti a ma n mu fun iye.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+Nigba ti eniyan lo tayo ju ni awujo oun ti o n mi,irinshe eniyan ti a si ya soto ni okan re,ogbodo je wipe okan re loje ki o ma yan yiyan to tayo julo. Okan furare,ati yan fun itayo gege bi agbara re lati ma yan yiyan to tayo julo. Nigba ti okan eniyan wa gegebi esi yiyan iwa ti ale gbalagbaye,iwa ti a le gbalagbaye je oye ti o ni imule.
 
-Or:
+Tabi:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. Oun ti o lemi ma n se aseyori ninu gbigbe igbese lori iwa ti a lewu lagbaye.
+2. Eniyan ni o se aseyori julo ninu gbogbo oun ti olemi.
+3. Nitori naa, eniyan ti gbodo gbe igbese fun isegun julo lori ipinle iwa ti ale wu lagbaye.
+4. Okan eniyan ni eya ara ti o yato julo.
+5. Nitori naa, okan eniyan ti gbodo gbe igbese fun aseyori julo lori ipinle iwa ti a le wu lagbaye.
+6. Nitori naa iwa ti ale wu lagbaye gbodo ni imule.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+A le mu ijiyan pupo si wa lati se atileyin fun wiwa ati imule iwa ti alewulagbaye ti UPB, sugbon a ma simi lori awon ti o wa loke yi,ki a si lo si yiyewo bi iwa ti ale wu lagbaye seri lori UPB.
 
-#### UPB: Optional And Objective
+#### UPB: Asayan ati Erongba
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+Nigba ti a ti fi imule iwa ti a le wu lagbaye han, ibeere iwa wa sun. Nigba ti iwa ni imule, awon oye wo lo le sopo re, pin,tunmo ati se asotele re?
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+Ni akoko, agbodo mo wipe iwa je asayan. Gbogbo eniyan lo tele ofin giraviti ati pe gbogbo eniyan losi gbodo jeun lati wa laye, sugbon ko si eniyan to gbodo tele ofin iwa. Ti mo ba fipa bayanlopo, jale tabi payan, ko si are to ma san pami. Ofin iwa gegebi ona sayensi tabi ona biologi, je awon ona keke imuse lati se eto idaju ati ipinle oye fun iri iwa tootoo.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+Titele awon ofin iwa je asayan, sibesibe,o ti daru mo opolopo ologbon lati gbagbo wipe iwa funrare ni iteriba. Ko si oun ti ole ju otito lo.
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+Oun ti o n mi je ara awon oun ti ale ri,oun ti ale ri si ni iteriba ati oye. Lilo awon oye iwa je asayan, sugbon eleyii ko sope gbogbo oye iwa loni iteriba. Lilo onakona biologi je asayan,sugbon ko ni iteriba. Yiyan je asayan; ere re o siribe. Mo le yan lati ma jeun, sugbon mi o le gbe aye lai jeun. Mo le yan lati ge ori eniyan, sugbon mi o le yan boya won le gbe laisori. Iwa nitori naa je asayan, sugbon awon ere iwa ti asayan ni wiwon ati pe o si ni erongba.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+Nisinsinyi, nigba ti iwa rere jẹ agbekale ti o wulo, ibeere ti o tele ni : ipele tabi iye wo ni iwa rere jẹ eyi ti o wulo?
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+Bi a ti ṣe sọ loke, awọn idanwo akọkọ ninu ilana sayensi ni ajopo. Gẹgẹbi bi imọ fisisi yẹ fun gbogbo nkan, awọn ilana imọ iwa ti o jẹ yọ lati sapejuwe ilana ododo ti awa ọmọ eniyan gbọdọ jẹ yọ si gbogbo eniyan lagbaye. Ko si ilana iwa rere ti o le jẹ òtítọ́ ti o ba jiyan pe iwa kan jẹ nkan gidi ni ilu Syria, sugbọn owa jẹ nkan buburu ni ilu San Francisco. Ko le sọ wipe ki eyan A ṣe nkan X, sugbọn eyan B ko gbọdọ ṣe nkan X. Ko le sọ wipe nkan ti o buru lana jẹ nkan gidi tabi òtítọ́ loni - tabi idakeji. Ti o ba jẹ bẹ, o jẹ eke ati pe a gbọdọ tún sọ tabi o ma jẹ asonu.
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+Lati jẹ òtítọ́, eyikeyi iwa imọ gbọdọ tu kọja awọn abawon imoye asedede. Nigba ti iwa ẹkùn jẹ toni imoye, ibamu ati àsọtẹ́lẹ̀, gbogbo awọn akori ti o ni ṣe pẹlu ẹkùn - boya nipasẹ agbekale tabi alagidi - gbọdọ jẹ tọ lọ gbọn, ibamu ati àsọtẹ́lẹ̀. Awọn ilana ifarahan ko le jiyan pe iyara ti ina je iyipada ati eyi ti o ṣe yipada nigba kan na, tabi wipe o jẹ ọta ọgọrun mẹfa ibuso fun isẹju aya, ibuso marun ni ijinlẹ, ati pe alawọ ewe ni.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+Sibẹsibẹ, nigba ti ilana iwa waye si awọn eniyan agbaye, ati pe gbogbo eniyan agbaye jẹ ẹlẹ́ran ara, awọn iye ti imudarasi to ba le lori ti a si beere fun awọn ilana imọ o kere si iyi ti o beere fun ilana asedede. Gbogbo awọn apata, fun àpẹẹrẹ, gbọdọ subu silẹ, sugbọn ko n ṣe gbogbo ẹṣin ni a ni lati bi pẹlu ori kan. Ẹkọ biologi ṣe ọna mẹta ti "alaileto", ti o jẹ ayika, iyipada jiini ẹda ati iyooda ọ̀fẹ́. Fun àpẹẹrẹ, awọn ẹya aja kan wa ti wọn ma ṣe ọrẹ eyan ni gbogbo igba, sugbọn ti a n ba lu wọn fun igba ọdun, yo le jẹ oni ibinu. Ẹṣin túmọ̀ si nini olori kan, sugbọn lee kankan, wọn le bi eniyan olori meji. Bakan naa, awọn omo eniyan araye nifẹ jijẹ oúnjẹ si ebi pipa - ayafi awọn alaisan ti wọn le jẹun. Awọn iyatọ yi ko mu gbogbo imọ sayensi biologi walẹ. Bayii, nigba ti ofin ilana iwa túmọ̀ eda araye, wọn ko le túmọ̀ si ibeere kan naa fun ibamu lilo po gẹgẹbi ilana ti o túmọ̀ ohun ti o mọ.
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
+Idanwo igbeyin ti imọ iwa gbọdọ fihan tabi gbe kọja ni awari ayẹwo ti o gbe lori ilana naa. Fun àpẹẹrẹ, imọ iwa gbọdọ ṣàlàyé iwaja gbogbo agbaye ti imọ iye onigbagbọ laarin awọn ọmọ eniyan, bakan naa pẹlu esi ìyàtọ̀ gbogbo ti iwa imọ "igbeyewo" bi àpẹẹrẹ ijọba ifipamuni, ijọba ibasepo, ijosepo tabi kapitalisimu. O tu gbọdọ ṣàlàyé awọn ododo ọrọ kan nipa àwùjọ ẹda eniyan, bi àpẹẹrẹ idi eyi pe agbara ipinlẹ ma n ṣe alekun si, tabi ẹtan ma n lekun si bi agbara ipinle naa ṣe tobi si. Ti o ba kuna lati ṣàlàyé awọn ti o kọjá, ni oye igba isin ati ṣe àsọtẹ́lẹ̀ ọjọ waju, sibi a gbọdọ kọ bi òtítọ́ tabi ododo.
 
-#### UPB: The Practice
+#### UPB: Awọn iṣe
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+Bawo ni gbogbo ṣe ri ninu ìṣe? Ẹ jẹ ki a wo bi awọn ibeere fun ajopo nipa lori ilana imọ iwa. A ba lori ẹri ati iseduro fun iwa isesi pato, ti a ma wo lekun rere ni apa keji.
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+Ti mo ba sọ wipe grafiti nipa lori ibi isele, o gbọdọ nipa lori gbogbo ibi iṣẹlẹ. Ti okuta wẹ́wẹ́ ṣe afihan láìṣe si ijabole, ilana mi wa ninu wahala. Ti mo wa gbero ilana imọ to jiyan pe awọn eniyan o gbọdọ payan, o gbọdọ ni ibamu si gbogbo eniyan. Ti awọn eniyan kan (iru bi awọn ọmọ ogun) jẹ aláyọ̀ kúrò ninu ofin yi, nibẹ mo gbọdọ fi daniloju boya wipe awọn ọmọ ogun wọn ṣe eyan, tabi gba pe ilana iwa mi jẹ eke. Ko si iyato miiran. Lori ọwọ miiran, ti mo ba gbero iwa imọ to jiyan pe gbogbo eniyan gbọdọ payan, nigba naa mo ti ṣe abo fun àwọn ọmọ ogun díẹ̀, sugbọn da lebi si buburu gbogbo àwọn eniyan ti ko payan lowolowo (pẹlu awọn ti a n pa lọwọ!) - eyi ti o jẹ alailoto.
 
-If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
+Ti, o ba fẹ gba iwa rere awọn ọmọ ogun, mo paaro ilana mi lati jiyan pe o jẹ iwa rere fun awọn eniyan lati paniyan ti elomiran ba sọ fun wọn ki wọn ṣe (awọn onise lu, ka fi sọ), nigba naa mo gbọdọ ṣe ayẹwo pẹlu isoro ti ajopo. Ti oselu A ba sofin fun ọmọ ogun lati lọ pa ọmọ ilu Iraqi, nigba naa ara ilu Iraqi naa tu le sofin pe fun ọmọ ogun lati pa oselu A, ati pe ọmọ ogun na le sofin fun oselu A lati pa ara ilu ọmọ Iraqi. Ohun elo naa ti ilana yi ni abajade ti gbogbo ati idibo arun ẹgba, ati bayi ti fihan aifesemule.
 
-I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
+Emi naa ko le jiyan ologbon pe koda fun awọn eniyan miiran lati paniyan, sugbọn daaraa fun awọn eniyan kan lati paniyan. Nigba ti gbogbo ẹda eniyan pín àwọn ohun ini ti ara ati ibeere, ti ṣe apejuwe ofin kan fun ẹni kan ati idakeji ofin fun elomiran jẹ aifesemule - o jọ bi n pe ka daro ilana fisisi ti o sọ wipe awọn apata kan jabo silẹ, nigba ti awọn kan lọ soke. Ki se wipe o jẹ aifogbonyo, o dena riri òtítọ́ ti agbaye, ti o sọ wipe awa ọmọ eniyan gẹgẹbi bi awọn eya pín awọn abuda wọpọ, ati pe a ko le túmọ̀ rẹ si ofin atako. Awọn eleko biologi o ni isoro lati pín awọn oganisimu bi "ẹda eniyan" nitori wọn pín eya kan na ati ise - o jẹ awọn oniwa nikan ti o dabi lati ri ipele yi ni isoro.
 
-Furthermore, if my moral theory “proves” that the same man should not murder one day, but *should* murder the next day (say, when he steps out into the Iraqi desert), then my position is even more ludicrous. That would be equivalent to arguing that *one day a rock falls downward, and the next day it falls upward!* To call this any kind of consistent theory is to make madness sanity.
+Siwaju si, ti ilana iwa mi ba "jẹri" pe arakunrin kan naa ko gbọdọ paniyan lọjọ kan, sugbọn o gbọdọ payan lọjọ keji (wipe, ti o ba tese bota wo nu asale ilu Iraqi), igba naa ipo mi ṣe ilo iwa oponu díẹ̀ si. Ìyẹn a túmọ̀ si jijiyan wipe apata yo subu lole, ati wipe lọjọ keji yo subu lo soke! Lati pe iru yi ni eyikeyi ilana ni lati ṣe isiwin ni alafia.
 
-Since valid theories require *logical consistency*, a moral theory cannot be valid if it is both true and false at the same time. A moral theory that approves of stealing, for instance, faces an insurmountable logical problem. No moral theory should, if it is universally applied, directly eliminate behaviour it defines as moral while simultaneously creating behaviour it defines as *immoral*. If everyone *should* steal, then no one *will* steal – which means that the moral theory can never be practised. And *why* will no one steal? Well, because a man will only steal if he can *keep* the property he is stealing. He’s not going to bother stealing a wallet if someone else is going to immediately steal that wallet from him. Any moral theory proposing that “stealing is good” is also automatically invalid because it posits that property rights are both valid and invalid *at the same time*, and so fails the test of logical consistency. If I steal from you, I am saying that *your* property rights are invalid. However, I want to *keep* what I am stealing – and therefore I am saying that *my* property rights are valid. However, property rights cannot be both valid and invalid at the same time, and so this proposition itself must be invalid.
+Nigba ti ilana òtítọ́ nilo iwasepo aisedeedee, ilana iwa ko le jẹ òtítọ́ ti o ba jẹ òtítọ́ ati eke lè kan naa. Ilana iwa rere ti o lọwọ si ole jija, fun àpẹẹrẹ, kọjú isoro alagbara. Kosi ilana iwa rere to gbọdọ, ti o ba fi ha ni gbogbo agbaye, to yọ imukuro iwa to túmọ̀ bi imọ iwa nigba ti o seda iwa ti o túmọ̀ si iwa aida. Ti gbogbo eniyan ba jale, sibe kosi ẹnikẹni ti o ma jale - ti o túmọ̀ wipe ilana imọ iwa ko lee ṣe se. Kilode ti eyan ko ni jale? Daradara sibe, nitori eniyan yo jale ti o ba le tọju ohun ini ti o ji. Ko ni ṣe asoro lati ji woleti ti elomiran wa fe ji woleti naa lọwọ rẹ lesekese. Eyikeyi ilana imọ iwa ti n o gbero pe "ole jija dara" túmọ̀ si oun ti o jẹ òtítọ́ nitori o túmọ̀ si wipe ẹtọ ohun ini jẹ òtítọ́ ati eke nigba kan naa, ati pe o kuna idanwo imoye iwasepo. Ti mo ba jale lati ọdọ rẹ, mo sọ wipe awọn ohun ini ẹtọ rẹ jẹ iyi to n ṣe òtítọ́ tabi opuro. Sibẹsibẹ, mo fẹ́ tọju ohun ti mo n ji - ati nitori naa mo n sọ wipe awọn ohun ini mi ṣe iwulo. Sibẹsibẹ, ẹtọ ohun ini ko le jẹ eyi ti o wulo ati iyi ti o wulo nigba kan naa, igba yẹn ilana yi funrare gbọdọ jẹ iyi ti o wulo.
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+Bakan naa, eyikeyi ilana imọ iwa to ṣe onigbawi ifipabanilopo kọjú irina irufẹ. Ifipabanilopo ko le lailai jẹ ohun gidi, nigba ti eyikeyi ilana ti o je wo si irufẹ rẹ lara rẹ. Ti ifipabanilopo ba da lori ilana pe "gbigba idunnu jẹ nkan to dara gan an ni," nigba naa iru ilana yi lesekese ti kuna si idanwo imoye ọlọ́gbọ́n wa, nigba ti olubanilopo le ma "ni idunnu," sugbọn ogbe rẹ ko jẹ ninu igbadun na.[^7]
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+Bayi gbigbe akori ilana imọ iwa si ti ilana sayensi ṣe asejade fun oye to ṣe iduro fun isẹ mogbonwa, ayewo idalelori ati ọgbọn ori. Ipaniyan, ole jija, ifole, ifipabanilopo àti doju ija ko eniyan jẹ imọ eke to han kedere.[^8]
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+Lati ṣe iranlọwọ nigba gbigbemi ogun ti o tobi gan an yi, ni isale jẹ tabili kan to salaye awọn ilana ti fisisi ati biologi pẹlu ilana sayensi ti ipo ihuwasi (tabi iwa) gbogbo araye:
 
-|                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
+|                            | Pisisi                                                                                           | Biologi                                                                                      | Iwa rere                                                                                                                      |
 |:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **Subject**                | Matter                                                                                            | Organic Matter                                                                               | Preferable behaviour for mankind                                                                                              |
-| **Instance**               | A rock                                                                                            | A horse                                                                                      | A man                                                                                                                         |
-| **Sample Rule**            | Gravity                                                                                           | The desire for survival                                                                      | Self-ownership                                                                                                                |
-| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property rights                                                                                                               |
-| **Sample Classification**  | Matter/Energy                                                                                     | Repitile/Mammal                                                                              | Good/Evil                                                                                                                     |
-| **Example**                | Matter cannot be created or destroyed, merely converted to energy and back                        | If it is alive and warm-blooded, it is a mammal                                              | Stealing is wrong                                                                                                             |
-| **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
-| **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
-| **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+| **Ori oro**                | Oro                                                                                            | Oro agbekale                                                                               | Iwa ihuwasi gbogbo omo araye                                                                                              |
+| **Apeere**               | Apata                                                                                            | Esin                                                                                      | Arakunrin                                                                                                                         |
+| **Ayewo ofin**            | Wiwale                                                                                           | Awon ife fun iwalaaye                                                                      | Nini ti ara eni                                                                                                                |
+| **Ayewo ilana**          | Entrofi                                                                                           | Aseda                                                                                    | Eto ohun ini                                                                                                               |
+| **Ayewo isori**  | Oro/Agbara                                                                                     | Afayafa/Eranko                                                                              | Didara/Buburu                                                                                                                     |
+| **Apeere**                | A ko le seda oro tabi ka baje, a le yi pada si agbara ati pada                        | Ti o ba wa laye ati to ba je eleje ara gbigbona, eranko la ma pe                                              | Ole jija je nkan buburu                                                                                                             |
+| **Oro ipile**             | Awon ami pin awon eya wopo ati ohun ini, nipa naa won wuwa asotele ati ni iwa ona ibamu | Oro agbekale ni ofin – tabi ibeere – ti o jeyo larin gbogbo ijerisi          | Ipo ihuwasi gbogbo agbaye pin awon ofin to wopo ati ibeere                                                         |
+| **Ilana**                  | Iwasepo ologbon, imudaniloju igbala                                                       | Ibamu ologbon, imudaniloju igbala                                                  | Ibamu ologbon, imudaniloju igbala                                                                                   |
+| **Odi Ilana Apeere** | Ti ofo ko ba fa ofo mora, awon ilana to n gbeke lori isubu je iro                          | Ti oganisimu ko ba wa ounje fun gbigbe aye, ilana gbigbe aye je lasan | Ti o ba je pe igbimo ibasepo bori  awon afojusun to fi siba, ilana to ba lori wiwulo agbaye ti eto ohun ini je eyi ti ko se ododo |
 
-Table: Theories of physics and biology and of UPB
+Tabili: Awọn ilana ti pisisi ati biologi pẹlu ti UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+Ni paripari, o jẹ ailewu lati sọ wipe (a) ofin imọ iwa wulo, ati (b) awọn ilana iwa gbọdọ túmọ̀ si okun ti isaro ati ẹri, gẹgẹbi awọn ilana ti pisisi ati biologi ṣe ri. Eyikeyi ilana iwa ti o ba lori láìṣe ti gbogbo agbaye tabi awọn ilana to lòdì sí ara jẹ eke nla.
 
-#### UPB: The Framework
+#### UPB: Awọn ipo adehun
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+UPB le se bayi gẹgẹbi a ti ri bi ilana tabi ipo fun ifowoda ilana imọ tabi imoye igbero - gẹgẹbi bi ilana sayensi jẹ ipo ti a le fi ṣe ifowoda ilana sayensi tabi imoye igbero.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+Àpẹẹrẹ iru ibase igbero ni : "idasile ti lilo agbara buru jai." UPB ni ilana ti o ṣe awọn idanwo pe igbero ilodi si  iwasepo to jọ nu ati ayewo igbekale. UPB bayi kọ́kọ́ bere pe : ṣe igbero na jẹ eyi ti o mogbonwa tabi o ni ibamu? UPB nigba naa tu bere : *iru ẹri wo ni o wa laye fun òtítọ́ ayewo igbero na?*
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+Lati tọju iwe yi si ọna ti o tọ, a ma lapapọ ṣe isowo pẹlu akotele akọkọ ti ọlọ́gbọ́n ibamu. Fun akotele ikeji, a ma gbekele fun ẹri lori ifin òfin de kọjá gbogbo asa to lodi si awọn isẹ kan àpẹẹrẹ bi ifipabanilopo, ole jija, doju ija ko eniyan ati pipayan.Opolopo la tu le kọ lori ẹri àtijọ́ ti o ṣe iranlọwọ atileyin tabi ko orisirisi iwa imọ igbero, sugbọn a o fi silẹ fun akoko miiran. Ti a ba se da wiwulo ti UPB, ati ṣe aseyori lọpọlọpọ ọna. Ti a ba ko, ẹri yo fere lati ranwa lọwọ.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+Ẹ jẹ ki a yi wo ibeere boya ilana UPB ni ṣíṣe pẹlu *igbero iwa*, tabi *ilana oye agbaye*, tabi mejeeji.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^7]: Iru kan naa lọ fun, dajudaju, fun apaniyan ati idoju ija ko eniyan. A máa wa pada si awọn ẹri yi - síbẹ̀ si idanwo siwaju si fun ẹtọ ohun ini - ni alaye lekun rere ni apa keji iwe yi.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[^8]: Gbogbo aye ati awọn ofin iwa rere le jẹ afihan - ti o jẹ ti wiwulo gbogbo agbaye lori ohun ini ati lai lo iwa ipa - sugbọn a salaye rẹ ni apa keji.

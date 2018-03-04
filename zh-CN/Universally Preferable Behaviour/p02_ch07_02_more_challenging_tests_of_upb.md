@@ -1,59 +1,55 @@
-### "Don't Eat Fish"
+### “不要吃鱼”
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+道德主张的地位如何：“吃鱼是邪恶的”？ 
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+显然，这个命题似乎至少满足了UPB的一些要求 - 它看起来是普遍的，与时间和地点无关，并且相对客观。 
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+然而，我们似乎很难合理地将其称为真正的道德理论 - 为什么？ 
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+首先，“邪恶”包含可以通过使用武力防止的行为。强奸是“邪恶的”，所以我可以用武力来捍卫自己，试图强奸我。 
 
-Can I justly shoot someone who eats a piece of fish?
+我能公正地射杀吃了一条鱼的人吗？
 
-It would seem silly to argue that I can – but why?
+说我可以 - 但是为什么呢？似乎很愚蠢。
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+这种学说的普遍性有一些客观的限制。例如，有些人可能没有鱼，它们可能生活在沙漠里，比如说，其他人生活在一个充满鱼类的湖中，生存就很难或不可能。然而，这还不够，因为我们已经接受了一个事实，即太监不能强奸，这并不能否定“强奸是邪恶的”这一道德命题。
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+不，在道德主张“吃鱼是邪恶的”中，“红鲱鱼”就是“鱼”一词。
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+科学家不能有效地说他的重力理论只适用于粉红色的岩石。因为他的理论涉及重力，所以它必须适用于所有有质量的实体。
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+同样，在上面的例子中，UPB仅接受饮食行为，并拒绝被吃掉，因为所吃的不是行动，而是正在采取行动。
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+以同样的方式， 伦理学家也不能有效地提出道德主张：“强奸老人是邪恶的”。“强奸”是行为; 受害者是否为老年人与道德主张无关，因为只要受害者是人，对普遍性的要求就会保持不变。根据UPB的规定，“不偷盗”是一种有效的道德主张 - “你不能偷盗萝卜”不是因为盗窃与财产的概念有关 - 而萝卜作为财产的一个子集是不可能的理性地从所有其他形式的财产中划分出来并分配他们自己的道德规则。
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+“吃鱼是邪恶的”这一道德命题，因为它过于具体化而不能一概而论，这是不符合一般性的，这就像是说：“我的重力理论只适用于粉红色的岩石”，如果它是万有引力理论，那么它必须适用于所有事物；如果它只适用于粉红色的岩石，那么它就不是万有重力理论。
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+UPB还拒绝无效的任何理论，结果在相同的行动，反对道德判断。“突击”不能道德有朝一日，而不道德是下一个。因此，我们知道“吃”不能道德有朝一日，不道德是下一个道德。
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+“吃”是道德的，不道德的或道德中立的。如果吃饭是不道德的，那么会出现一系列的逻辑问题，我相信我们现在已经很熟悉了。
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+另一方面，如果饮食是道德的，那么吃白菜就不合乎道德，而吃鱼是不道德的，因为这违反了普遍性，因为同样的行为 - 饮食 - 被认为是好的和坏的。
+ 
+正是通过这种方式，我们明白了“吃鱼是邪恶的”命题不符合UPB的考验，并且不适合作为道德理论。
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+### 动物权益
 
-### Animal Rights
+我们没有时间充分讨论动物权利问题，但我们至少可以处理道德主张：“杀鱼是邪恶的”。 
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+如果杀鱼是邪恶的，那么UPB说任何杀死鱼的人都是邪恶的。这不仅包括渔民，也包括鲨鱼 - 因为如果杀死鱼是邪恶的，我们已经将我们对道德“行动者”的定义扩大到包括非人类生活。 
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+很明显，鲨鱼没有能力避免杀鱼，因为他们基本上是在吃带有鱼鳍的机器。
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+然而，如果杀人是邪恶的，我们又会面临“不可避免的邪恶”的问题。没有杀死其他有机体如病毒，植物或动物，任何人都不能存在。因此，“人的生命”被定义为“邪恶”。但是如果人的生命被定义为邪恶，那么它就不会是邪恶的，因为回避是不可能的。
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+如果我们说：“杀人是邪恶的”，那会使一个人吃鲨鱼邪恶吗？
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+不，再一次，因为鲨鱼没有能力避免杀害人，他们不能对这样的行为负责，如果一个人被杀了，就可以被判上法庭。
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+与其他科学一样，UPB允许基于客观和普遍物质或生物差异的例外。气体在加热时膨胀的科学理论当然只适用于气体。通过证明它不适用于塑料，我不能使理论失效。
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+同样，道德只适用于理性意识，因为要求避免。如果我尝试将道德理论应用于蜗牛，树木，岩石或“数字”概念，我试图将理性意识等同于既不是理性也不是有意识的实体，这是一个合乎逻辑的矛盾。我可能会说，几何中的相反角度定理是无效的，因为它不适用于圆或云。 OAT只适用于相交线 - 试图将其应用于其他情况是试图绘制空气的概念等同物。 
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+换句话说，误用并不是无法保证的。 
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
-
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
-
-In other words, misapplication is not disproof.
-
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+还有很多其他的“灰色地带”，我们可以从堕胎到知识产权恢复原状等，但我认为将UPB带出抽象领域更重要，并开始将其应用于我们今天面临的现实世界问题。

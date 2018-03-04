@@ -1,109 +1,93 @@
-## Preferences
+## Mga Kagustuhan
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Karon nga kita nakasabot na sa kinaiyahan sa mga argumento nga makapapildi sa kaugalingon, mobalhin na kita ngadto sa pangutana sa mga kagustuhan.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Ang mga kagustuhan mao ang sentro sa bisan unsa nga pamaagi nga nag-angkon nga mingpasabot sa tinuod nga bili sa mga proposisyon. Ang pamaagi nga siyentipiko, pananglitan, kay gipasabot og maayo pinaagi sa tiunay nga mga kagustuhan alang sa makatarunganon nga pagmakanunayon ug pagsuta nga empirikal. Alang sa siyensya, ang gibasihan kay: *kung* gusto nimo nga makadeterminar og balido nga kamatuoran kabahin sa linihokan sa butang ug enerhiya, kini kay *labing nagustuhan* nga gamiton sa pamaagi nga siyentipiko.
+Sa niini nga pagbati, “labing nagustuhan” wala nagpasabot nga “matang nga arang-arang”, pero hinoon “gikinahanglan”. *Kung* gusto nakong mabuhi, kini mao ang *labing nagustuhan nga malukpanon kaayo* nga magdumili gikan sa pagkaon sa usa ka hakop nga arseniko. *Kung* gusto ka nga makadeterminar sa mga kamatuoran nga balido kabahin sa reyalidad, kini mao ang *labing nagustuhan nga malukpanon kaayo* nga ang imoha nga mga teorya kay mahimong duha nga sa sulod nga kanunay ug mapamatud-an sa empirikal. “Labing nagustuhan nga malukpanon kaayo”, unya , minghubad ngadto sa “gikatuyoan nga gikinahanglan”, pero mohawid kita sa pulong nga “labing nagustuhan” aron sa ilahi-lahi ang tali sa mapili nga katinud-anon sa tawo ug dili mapili nga katinud-anon sa pisika sama sa grabidad.
+Sa susama, kung ang mga teorya nga pang-etika kay pwede nga mamahimo sa tanan nga balido, unya sila kinahanglang og *labing menos* nga duha nga pang-sulod ug pang-gawas nga pagkanunay. Sa lain nga mga pulong, ang usa ka teorya nga pang-etika nga mingsukwahi sa kaugalingon kay dili pwede mamahimo nga balido – ug ang usa ka teorya nga pang-etika nga mingsukwahi sa ebidensya nga empirikal ug sa duol sa malukpanon nga mga nagustuhan dili sa pwede nga mamahimo nga balido.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+Busa sa etika, sa ingon sad ngadto sa siyensiya, matematika, inhenyiriya ug tanan nga uban pa nga mga disiplina nga makompara sa mga teorya sa reyalidad, *ang mga teorya nga balido kinahanglan nga sa duha nga kanunay nga makatarunganon ug pang-empirikal nga masusi.* 
+### Mga Kagustuhan ug Paglungtad
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+Kung ako mosulti mga “Ganahan ko og sorbete”, usa lang ka pulong ang nagpabili nga walay klaro sa kato nga hugpulong. Klaro man nga “Ako” anaa, tungod kay ako mingsitar sa ako nga kaugalingong nagustuhan. Parehas kaayo nga klaro, ang “sorbete” anaa sab sa reyalidad. Bisan pa niana, ang pulong nga “ganahan” kay labaw pa nga problemado.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*. 
+Ang mga nagustuhan sa tinuod wala minglungtad sa sulod sa reyalidad. Kung ikaw nasobraan sa pagkakuryoso, makahimo tingala ka nga mosunod kanako bisan asa ug motala sa matag higayon nga ako mokaon og sorbete, nga makahimo tingali og hatag og usa ka maayo nga basihan sa empirikal alang sa pag-establisar sa akong nagustuhan alang niina. Ang posibilidad nga minglungtad, bisan pa niana, ang ako sa pagkatinuod usa ka masokista, ug hugtanon nga wala ganahi og sorbete, ug ganahan nga tortyuron ang kaugalingon uban sa niini nga dili maayo og lasa – ug unya maglibog ka nga moangkon nga ganahan ka niana. 
+Makakita kita og *ebidensya* alang sa mga kagustuhan: nga sa reyalidad dili makahimo nga makakita og kagustuhan sa *kaugalingon*.  Ang kagustuhan minglungtad isip usa ka *relasyon* tali sa pagkamasusihon ug butang, sa ingon sa paglungtad sa grabidad isip relasyon tali sa bugon sa mga butang.
 
-### Preferences And Existence
+Sa paglikay sa mga makahagit nga pangutana sa gawasnon nga kagustuhan batok sa determinismo, kini mao ang rasonable nga maka-asumir nga kung bisan unsa nga gibuhat sa tawo sa pagkakaron mao ang iyaha nga “gusto” nga buhaton. Kung ako nibangon ug mipatubang sa trabaho, unya klaro kaayo nga *gusto* kato nako buhaton, sa ingon sa mingsukwahi sa tanan nga uban nga mga alternatibo. Bisan pa og wala ko ganahi sa akong trabaho, klaro kaayo nga wala ko ganahi niini nga *dili* kaayo, butang ta, pagkawalay sensilyo.
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+Sa gihatag na nga ang mga linalang nga tawo kay makahimo nga mobuhat og duol sa way katapusan nga klase sa mga aksyon, bisan unsa nga gibuhat sa usa ka tawo sa pagkakaron kay napilian gawas sa tanan nga uban nga mga posible nga pilianan. Ningpili ko nga suwaton ning libroha kay sa, butang ta lang, magkat-on kung unsaon ang tango.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Kung kita modapat niini nga sayon nga kamatuoran ngadto sa mga argumento nga pang-etika,  kita nakasabot uban sa pipila ka mga makaikag kaayo nga mga resulta.
+### Mga Kagustuhan Ug Mga Argumento
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Paghinumdom sa atong naa sa ibabaw nga pagsusi sa mga argumento nga makapapildi sa kaugalingon, dali ra kaayo kita nga makasabot sa sukwahi nga kinaiyahan sa pamahayag nga: “wala minglungtad ang mga kagustuhan”. Sa gihatag nga ang matag aksyon sa tawo – uban na ang paggama og mga pamahayag nga pang-pilosopoya – nga napilian sa kagustuhan sa matag lain nga posible nga aksyon, paglalis nga ang mga kagustuhan wala minglungtad nanginahanglan nga usa ka *kagustuhan* alang sa pakiglalis nga ang mga kagustuhan wala minglungtad, nga usa pamahayag nga mingsukwahi sa kaugalingon. Ang pakiglalis nga ang walay mga kagustuhan ang nilungtad kay sakto kaayo nga sama sa pakiglalis nga walay pinulongan ang nilungtad. Mao kini usa ka labing hingpit nga argumento nga makapapildi sa kaugalingon.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Tungod kini kay imposible nga makalihok nga wala nagpadayag og kagustuhan – kini man masugyot o tino kana kaayo – ang bisan kinsa nga makalihok ang midawat sa gibasihan nga aduna gyuy mga kagustugan. Busa imposible kini nga malantugi nga ang paglungtad sa mga kagustuhan nga wala midawat sa paglungtad sa mga kagustuhan.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+### Mga Kagustuhan Ug Pagkamalukpanon
+Ang sunod nga pangutana busa nahimo nga: ang mga kagustuhan putli kaayo nga pagahilisgotan, o mahimo nga sila nga malukpanon?
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Tataw kaayo, nga pipila ka mga kagustuhan kay pagahilisgotan. Ang giganahan sa pangtukar, mga kalingawan sa kaugalingon, mga paborito nga kapanulatan ug uban pa kay tanan pagahilisgotan ug mga kaugalingon nga kagustuhan.
+Ang hagit mingtumaw sa diha kita mingsuway og pagpasabot sa pipila ka mga kagustuhan isip *katuyoan*.
 
-### Preferences And Arguments
+Ang proposisyon atubangan kanato kay busa: *makahimo ba ang pipila ka mga kagustuhan nga katuyoan, pananglitan malukpanon?*
+Sa diha nga mosulti ko nga pipila  ka mga kagustuhan nga pwede nga mahimo nga katuyoan, wala ko nagpasabot nga ang tanan nga tawo nga sa  tanan nga mga higayon mingsunod sa niini nga mga kagustuhan. Kung ako ang palalison nga ang *pagginhawa* kay usa ka katuyoan nga kagustuhan, dali ra kaayo ko maparangan pinaagi sa pananglitan nga kadtong nakabuhat nga naghikog pinaagi sa pagbitay sa ilaha nga mga kaugalingon. Kung ako ang palalison nga ang mokaon kay usa ka katuyoan nga kagustuhan, ang akong argumento kay maparangan sa mga pananglit nga mga welga sa pagpagutom ug kawad-on sa gana.
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Busa sa diha nga molitok ko kabahin sa mga kagustuhan nga malukpanon, naglitok ko kabahin sa unsa ang *kinahanglan* nga gustuhan sa tawo, dili ang unsa nga kanunay nila nga nagustuhan nga *gihimo*. Aron sa paggamit og kaparehas nga siyentipiko, aron sa tinuod kaayo nga pagsabot sa uniberso, ang tawo *kinahanglan* nga mogamit og pamaagi nga siyentipiko – wala kini nagpasabot nga sila kanunay nga nibuhat ato, tungod kay mga binilyon ka mga tawo ang mingkonsultar sa kinaraan nga mga sugilanon nga engkantohanon kay sa moderno nga siyensya alang sa “mga tubag”. Walay pamaagi nga makab-ot ang kamatuoran  kabahin sa uniberso nga wala ang siyensya, pero ang katawhan kay perpekto kaayo nga gawasnon nga makasabot og balik sa “kamatuoran” isip “sayop”, ug kontento na sa ilaha nga mga kaugalingon uban sa walay pulos nga pagka-misteryoso.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Sa susama, kung ang tawo gusto nga tambalan ang usa ka impeksyon, *kinahanglan* niya nga motumar og mga antibayotik kay sa pagbuhat og usa ka bayle alang sa uwan sa Aztec. Ang kagustuhan alang sa pagtumar og mga antibayotik kay sa pagbuhat og bayle alang sa uwan kay malukpanon, tungod kay ang pagbayle dili makahimo nga makatambal sa mga impeksyon. Busa, bisan nga adunay buangon sa panagsa nga mosulay og tambal sa iyahang kaugalingon pinaagi sa pag-bayle, kini gihapon kay *nagustuhan nga pangmalukpanon* nga kung ang usa ka tawo gusto nga tambalan ang iyaha nga kaugalingon, kinahanglan siya nga motumar og mga antibayotik.
+Sa lain nga mga pulong, kung gusto nimo nga makaadto sa tumoy sa usa ka bungtod, ang pagpangandoy alang niani kay dili makabuhat. Kung gusto nimo mahibaw-an ang mga gigikanan sa uniberso, ang ampo dili gayud makahatag og tubag. Nangandoy gihapon ang tawo, ug nangampo, pero wala kana naghimo nga ang pagpangandoy o pag-ampo nga bisan unsa nga labaw pa nga epektibo. Uban niana sa atong panghunahuna, moadto na kita ngadto sa pangutana nga kon o dili ang mga kagustuhan nga pang-uniberso kay mamahimo ba nga balido.
+### Mga Argumento Ug Pagkamalukpanon
+Kung ako mingpili nga makiglantugi, gipamahayag nako ang akong pagdawat sa klase-klase nga mga saligan nga dako nga bililhon nga makagahin og pipila ka oras aron mabungkag dinhi.
+#### Ika-1 nga Basehanan nga Pamahayag: Anaa Kitang Duha
 
-### Preferences And Universality
+Kung ako mingpili nga makiglantugi uban kanimo, unya kinahanglan kaayo ko nga modawat nga kitang duha minglungtad. Kung ako mingtuo nga ako minglungtad, pero ikaw wala, unya walay pulos ang atong pagkiglantugi, ug makahimo og aksyon sa usa ka buang. Kung pasugdon ko og pakiglalisay uban sa akong repleksiyon sa samin, dapat ko nga mapakalma, dili malantugian. 
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+#### Ika-2 nga Basehanan nga Pamahayag: Ang mga Pagbati Kay Adunay Kapasidad Alang sa Katukma
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Tungod ang mga linalang nga tawo kay dili makahimo nga makakomunikar nga pang-kalag, ang tanan nga lantugi kinahanglan nga molambigit sa mga pagbati nga ebidensya. Ang pagsuwat nagkinahanglan og pagtan-aw; ang pagsulti nagkinahanglan og pandungog; ang Braille nagkinahanglan og paghikap. Busa ang bisan unsa nga proposisyon nga nagsalig ngadto sa dili pagkabalido sa mga pagbati nga awtomatik kaayo nga mingguba sa kaugalingon.
 
-The challenge arises when we try to define some preferences as *objective*.
+#### Ika-3 nga Basehanan nga Pamahayag: Ang Pinulongan Kay Adunay Kapasidad Alang sa Kahulugan
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Parehas ngadto sa Ikaduha nga Basehan nga Pamahayag, tungod kay ang tanan nga mga argumento nagkinahanglan og pinulongan, ang bisan unsa nga proposisyon nga nagsalig ngadto sa basehan nga pamahayag nga ang pinulongan kay walay kapuslanan nga dali kaayo nga gihimakak. Ang paggamit og pinulongan aron sa pakiglalis nga ang pinulongan walay kahulogan kay sama sa paggamit og usa ka tigdala aron sa pagpadala og mensahe nga minglalis nga ang mga tigdala kay dili gyud maghatod og mga mensahe.. 
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+#### Ika-4 nga Basehan nga Pamahayag: Ang Koreksyon Nagkinahanglan og mga Kagustuhan nga Malukpanon
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+Kung imo kong gikorehir ngadto sa usa ka sayop nga akong nabuhat, mipamahayag ka nga midawat sa kamatuoran nga  kini mahimo nga *arang-arang* nga ako ang mokorehir sa ako nga sayop. Ang imong kagustuhan alang kanako aron sa pagkorehir sa ako nga sayop kay dili pagahilisgotan, pero katuyoan, ug malukpanon.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Dili ka mosulti nako nga: “Kinahanglan nimo nga ilisan ang imo nga opinyon nganhi sa akoa tungod kay kini akong gusto”, pero hinoon: “Kinahanglan nimo nga saktohon ang imoha nga opinyon tungod kay dili ni sakto nga katuyoan”. Ang akong sayop dili motumaw gikan sa pagsupak lang dinha nimo, pero isip resulta sa akong pagsupak gikan sa sukdanan nga katuyoan sa kamatuoran. Ang imoha nga argumento nga kinahanglan nako nga saktohon ang akong dili tinuod nga opinyon kay nagsalig sa bili sa katuyoan sa kamatuoran – pananglitan nga ang kamatuoran kay *nagustuhan nga pagkamalukpanon* aron sa pagsayop, ug ang kamatuoran kay *katuyoan sa pagkamalukpanon*.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid. 
+#### Ika-5  nga Basehanan nga Pamahayag: Adunay Sistema sa Pamaagi nga Katuyoan Alang sa Paglahi sa Kamatuoran Gikan sa Bakak
 
-### Arguments And Universality
+Kung ikaw mingsupak kanako, pero mingsulti ako kanimo nga kinahanglan nimo nga mouyon uban kanako tungod kay kanunay ko nga sakto, way purohan kini nga ikaw matagbaw sa pagkatukma sa ako nga argumento. Kung ikaw nakahatag og mga maayo nga rason kabahin sa kung ngano ako nasayop, pero nagsige ko og balik nga sakto ko tungod kay *kanunay* ko sakto, ang atong interaksyon sa panagsa kay mahimo nga makategoriyahan isip usa ka lantugi.
+Sa higayon nga ako minghatag og pipila ka matang sa panukdanan sa katuyoan alang sa pagdeterminar sa kamatuoran gikan sa bakak, gidawat na nako ang kana nga kamatuoran kay labaw pa sa usa ka butang nga opinyon.
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here. 
+Wala kini nga nagpasabot dayun nga ang akong sukdanan sa katuyoan kay *makatarunganon* – makahimo ko nga iduso tika ngadto sa usa ka teksto nga pang-relihiyon, pananglitan. Bisan pa niana, bisan og buhaton pana nako, mingdawat gihapon ko sa kamatuoran nga usa ka butan nga ming-abot nga independente sa kinaugalingon nga pagpatigbabaw lang – nga ang adunay mga sistema nga pamaagi sa katuyoan alang sa paglahi sa kamatuoran gikan sa bakak. 
 
-#### Premise 1: We Both Exist
+#### Ika-6 nga Basehanan nga Pamahayag: Ang Kamatuoran Kay Mas Maayo Kompara sa Bakak
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated. 
+Kung sultihan tika nga ang kalibutan kay patag, ug mingbalos ka nga ang kalibutan kay dili patag, apan patag, unya mingpamahayag ka nga gidawat nimo ang aksyom nga ang kamatuoran ug bakak parehao nga minglungtad sa katuyoan, ug ang kamatouran kay mas maayo kay sa bakak.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+Kung sultihan tika nga ganahan ko og tsokoleyt nga sorbete, ug ningsulti sad ka nga ganahan ka og banilya, imposible kini nga “pamatud-an” nga ang banilya kay sa katuyoan mas maayo kay sa tsokoleyt. Sa higayon nga imo kung korehiran uban sa kasayoran ngadto sa *mga tinuod* nga katuyoan, gidawat nimo nga adunay mga tinuod nga katuyoan, ug kana nga katuyoan sa kamatuoran kay *nagustuhan sa malukpanon kaayo* kay sayop nga pagahilisgotan.
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs. 
+#### Ika-7 nga Basehanan nga Pamahayag: Malinawon Nga Pakiglantugi Mao Ang Labing Maayo Nga Pamaagi Aron sa Pagresolbar sa Mga Bikil
+Kung sultihan tika nga ang kalibutan kay patag, ug mibunlot ka sa imoha nga pusil ug gipusil ko nimo, kini mahimo nga talagsaon nga usa ka pananglitan nga usa ka lantugi nga produktibo. Tinood, ang atong panagdis-uyonay “makaresolbar” unta – pero tungod kay usa lang sa atoa ang magpabilin nga magbarog sa kataposan.
 
-#### Premise 3: Language Has The Capacity For Meaning
+Kung ningsulti paka og sayo nga imong patigayonan ang bisan unsa nga panagdis-uyonay pinaagi sa pagpusil kanako,  wala gyuy purohan nga makigsabot ko nimo og usa ka lantugi uban kanimo. Busa klaro kini nga ang bisan unsa nga lantugi kay nagsalig sa gipamahayag nga basehanan nga pamahayag nga ebidensya, rason, kamatuoran ug pagka-katuyoan kay mao ang *nagustuhan nga malukpanon kaayo* nga mga pamaagi sa pagresolbar sa mga bikil tali sa mga indibidwal. Klaro kaayo nga dili makatarunganon nga ilalis ang mga managlahi nga opinyon nga kinahanglan maresolbar pinaagi sa kapintasan – ang nag-inusara nga argumento nga kanunay alang sa *bili* sa kapintasan mao ang paggamit sa kapintasan.[^4]
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages. 
+[^4]: Mamahimo kini nga gamit kaayo aron sa pag-alima sa niini nga partikular nga basehanan nga pamahayag sa hunahuna, tungod kay mamahimo nga importante kaayo kini unya.
+Sa pagka-importante, unya, ang pakiglantugi nagkinahanglan og sistema sa pamaagi sa katuyoan, pinaagi sa pinulongan nga puno sa kapuslanan, ngadto sa pagpangagpas sa kamatuoran nga malukpanon, nga mao ang nagustuhan sa katuyoan nga sayop sa kaugalingon.
 
-#### Premise 4: Correction Requires Universal Preferences
+Kini nga kagustuhan alang sa kamatuoran kay dili usa ka kagustuhan sa *titulo*, pero sa *matang*. Usa ka laktoranan nga nagpagamay sa oras sa imohang pagbiyahe og katunga nga kaduhaon sa ingon nga maayo sa ingon nga labaw pa ang gitas-on sa ruta – pero ang duha kay *walay kahunungan nga nagustuhan* aron sa pagbiyahe ngadto sa sayop kaayo nga direksyon.
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Sa susama nga pamaagi, ang kamatuoran kay dili lang “mas maayo* kay sa sayop – mao kini ang *walay kahunungan nga nagustuhan*, o gikinahanglan.
+#### Ika-8 nga Basehanan nga Pamahayag: Ang Mga Indibidwal Mao Ang Responsable Alang Sa Ilahang Mga Aksyon
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*. 
+Kung ako minglalis nga ang linalang nga mga tawo kay dili responsable alang sa ilaha nga mga aksyon, naungot ko sa usa ka balibato, nga mao ang pangutana nga *kon o dili man ko responsable alang sa ako nga argumento, ug usab kon o dili man ikaw responsable alang sa imoha nga balos*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+Kung ang akong argumento nga ang mga linalang nga tawo kay *dili* responsable alang sa ilaha nga mga aksyon kay tinuod, unya dili sad ko responsable alang sa ako nga argumento, ug dili sad ka responsible alang sa imoha nga balos. Bisan pa niana, kung mituo ko nga ikaw dili responsable alang sa imoha nga balos, makabuhat kini og bililhon nga gamay nga pulos nga mapagsiugda og usa ka argumento – makahimo kini nga sakto kaayo nga pareha sa ingon nga nakiglalis uban sa set sa telebisyon.[^5]
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+[^5]: Ang pangutana sa responsibilidad kay, bitaw, duol kaayo iglabot ngadto sa pangutana sa gawasnon nga kabubut-on batok sa determinismo, nga maoy mamahimo nga pagahilisgotan sa lain nga libro.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
-
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood. 
-
-#### Premise 6: Truth Is Better Than Falsehood
-
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
-
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error. 
-
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
-
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
-
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
-
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
-
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
-
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
-
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required. 
-
-#### Premise 8: Individuals Are Responsible For Their Actions
-
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
-
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
-
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
-
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Busa, sa pagkapundamental, kung mosulti ko nimo nga dili ka responsible sa imoha nga mga aksiyon, nagsulti ko nimo nga mao kini ang nagustuhan nga malukpanon kaayo alang kanimo aron sa pagtuo nga ang kagustuhan kay imposible, tungod kung dili ka makakontrolar batok sa imoha nga mga aksiyon, dili ka makahimo nga mopili og estado nga nagustuhan, pananglit kamatuoran batok sa bakak. Busa kini nga argumento, susama sa mga argumento sa ibabaw, mingguba sa kaugalingon.

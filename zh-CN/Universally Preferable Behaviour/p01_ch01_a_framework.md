@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## 道德伦理框架
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+道德主张与其他类型的知识陈述不同。如果我说，“我喜欢爵士乐”，这可能是一个真实或错误的陈述，但一般认为它对你没有任何约束力。我对爵士乐的偏爱只是个人喜好的陈述；基于我的陈述，你不必喜欢或不喜欢爵士乐。
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+同样，如果我说“我喜欢蔬菜”，那也只是个人偏好的陈述。然而，如果我说“蔬菜是健康食品”，那么我已经从个人偏好陈述转向了客观事实的陈述。这就是“我喜欢冰淇淋”和“冰淇淋含有牛奶”的区别。
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+偏好陈述与事实陈述之间的根本区别在于事实陈述是客观的，可测试的和有约束力的。如果你重视真理，你有义务接受一个事实，即一旦证明冰淇淋，牛奶就含有牛奶。[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+如果我说地球是圆的，而且我为这个陈述提供了充分的证据，那么你是否可以随心所欲地决定是否声明是真的。如果我能证明地球是圆的，那么你必然会接受它为真，除非你愿意拒绝理性和证据作为真理的标准。 
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+如果我接受数学定律的有效性，我就不能武断地否定符合这些规律的数学证明。如果我拒绝
+这样的证明，我可以不再要求接受数学定律的有效性。我接受这些法律意味着我必须接受那些符合这些法律的证据。拒绝符合理性标准的证据是对整个理性标准的拒绝。
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+科学方法，理性本身和数学规律都是确立命题真相的客观标准的例子。我认为两个人和两个人做出四个不同的看法 - 如果你也接受两个人和两个人做出四个人，那么你就不会把自己局限于我的观点，而是一个理性的真理。
 
-### Objective Truth
+### 客观真相
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+理解真理本质的一个主要挑战是认识到 “真理” 并不存在于世界上，就像岩石或树木一样。
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+“真理”这个概念必然是一个相对的术语，但这并不意味着主观或任意的术语。“健康”这个概念也是一个相对术语，我们把“健康”与疾病以及健康的相对标准进行比较。对于90岁的人来说，被认为是“健康”的东西几乎不被认为是120岁老人的健康。长寿的定义现在比五百年前大不一样了。
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+然而，这并不意味着“健康”的概念是完全相对的和主观的 10 岁的白血病死亡是不健康的任何定义。 -就像20岁的马拉松运动员是健康的任何定义目前，一个活到九十岁的人在统计上有很长的寿命，但如果医疗技术突然允许我们活到二百岁，这种情况就会改变。
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+随着我们对“健康”的定义的扩展，它并没有使早期的定义失效，而是扩展了它们。如果医疗技术进步，让90岁的年轻人赢得马拉松，那么我们对老年人健康的定义就会改变 – 但这并不意味着这位20岁的马拉松运动员突然变得不健康了。学习代数不会使算术失效。
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+真理也具有相对于必然性的价值。牛顿物理学已经被爱因斯坦物理学所取代，在极端情况下，例如极高的重力或速度，这已被证明更加准确。然而，希望计算海洋中正确路径的水手们发现牛顿物理学的精确度不够准确。你不会想用牛顿物理学将宇宙飞船发送给阿尔法半人马座，但从里斯本到纽约的船只是完全正确的。因此，参与学习和实施爱因斯坦物理的劳动力对于水手来说是净负面的。
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+因此，“牛顿物理学不如爱因斯坦物理学准确，但牛顿物理学是计算船舶路径的最佳方式”这句话可以被认为是一个有效的命题。因此，牛顿物理学既不准确，也更恰当。
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+如果我们想喝最纯净的水，我们可能会支付每瓶数千美元。除非我们是非常富有和高度轻浮的人，否则我们永远也不会花那么多钱来解渴。的确，纯净水对我们更好，但纯度所需的价格达到递减的门槛。因此，“更纯粹更好”让位于“更纯粹更糟糕”。  
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+同样，这并不意味着水的纯度是完全主观的。蒸馏水总是比海水更容易饮用。
 
-#### Truth And Objective Reality
+#### 真理与客观现实
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+真理的概念必然涉及精确的概念。如果我试图用箭射靶心，我拍摄的精度是由多远我的箭地从中心。
 
-What, then, is the “bull’s-eye” of truth?
+那么，什么是真相的“牛眼”呢？
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+一句话的真实性相对于它与客观现实的一致性是可度量的。
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+撇开语言的挑战的时刻，如果我点对海鸥说，“这是一个铁砧，“我显然是错的，因为砧是无机的，不能飞。我的陈述的真实价值是相对于现实的客观事实来衡量的。因为海鸥实际上不是铁砧，我的陈述是不真实的。
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+当然，真理与现实之间的这个等式要求语言和我们的感官被认为是相对客观的。有很好的理由相信，语言和意义的证据是客观的；我们可以进入这个复杂的讨论，但应该说，因为你是用你的眼睛去读写在人类语言的一本书，我们至少可以认为，你的眼睛，和我们的语言份额，至少目的足够你准确地处理我的写作。如果不是，我们没什么好谈的，你还是一点都不明白我写呢，所以这句话也同样毫无意义，而且可能也已呈现“宋体” 。
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+假设您能辨别以上两种字体的区别，我们可以合理地继续下去。
 
-#### Accuracy And Consistency
+#### 准确性和一致性
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+我不可能准确地画一朵云，因为在画云的时候，云总是在变化。我能准确地画出一张云彩的照片，因为云已经被冻结了。
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+如果我花一个小时试图画一个云彩，然后我问你我的画是否准确地代表了那朵云，你必须回答它不是。
 
-In other words, where there is no consistency, there can be no accuracy.
+换句话说，如果没有一致性，就不会有准确性。
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+当我们在夜晚做梦时，我们的感知是“物质”和“能量”的规则处于不断变化的状态 –我们不受重力的影响，然后我们飞到大象的背部，然后我们可以走路通过墙壁。开发“梦想的科学物理学”不再是可能的，而是准确地描绘云。
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+因此，逻辑、科学和真理在没有一致性的情况下是不可能的。
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+根本上，逻辑定律来自于物质和能量的行为，至少在感性层次上。如果我告诉你在同一时间上下掷一个球，我要求的是不可能，你可以很容易地通过测试来满足我的要求。如果我告诉你同时犁北地和南地，你就不能服从了。如果我要求你把玫瑰变成驴子，我的要求永远不会满足。
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+感性的现实是一致的和客观的 -正是从这种一致性和客观性，我们得出了逻辑规律。我们对现实的陈述只能准确地代表现实，这是这种一致性和客观性的直接结果。 
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+事实上，海鸥不要随意变成砧–或反之亦然–是我们的能力，准确判断语句的根：“这是海鸥。“如果海鸥自发的和不断变化的性质，我们将无法做出正确或者错误对于他们–或任何有关此事的事情。
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+这是科学方法的关键标准 - 重复性的根源。如果我对万有引力的性质提出一个普遍的要求，那么你应该能够在你自己的环境中重现这一主张。如果现实不一致，那么重复性将是建立真理的一个不合理的标准。
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+如果你是一个数学老师，你很可能不会接受一个学生的错误答案，即使那个学生声称他写的答案是正确的，但在某种程度上改变了。
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+因此，我们可以接受的是，我们必须从客观上和逻辑上衡量一个相对于客观现实的陈述的有效性。逻辑作为一门学科，仅仅是由于现实的一致性而产生的；经验的观察也仅仅是由于现实的一致性而有效或无效的。
 
-### The Existence Of "Truth"
+### “真理”的存在
 
-Truth, then, can be measured according to two central criteria:
+那么，真理可以根据两个中心标准来衡量：
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. 真理是衡量我们的思想与理性一致性之间的关系的一种尺度，它直接来源于现实世界中物质和能量的一致行为。[^2]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+2.  真理也是衡量我们的思想与现实世界中物质和能量的性质和行为之间的相互关系的标准。[^3]
 
-#### Empiricism Versus Rationality
+#### 经验主义与理性
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+经验主义可以被认为是本能地抓住一个被抛出的球，或测量它的运动；理性是根据普遍原则预测和理解球将采取的路径的能力。显然，如果球随机地朝任何一个方向运动，并且神奇地变成一群鸽子来引导 - 我们将完全无法预测它们的行为。
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+因此，由于物质服从不可改变的规律，我们关于物质的理论也必须遵循不可变的规律。如果我对棒球一无所知，但是看一场球员们总是遵守规则的棒球比赛，我就不可能制定出一个与棒球运动员的行为有直接矛盾的规则的理论。由于球员的行为是一致的，我制定的关于指导这些行动的规则的任何理论也必须是一致的。
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+这种对一致性的要求是对真理最基本的要求之一。由于现实是一致的，关于现实的理论也必须是一致的。
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+事实上，任何理论必须克服的第一个障碍是内部一致性。
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]：如果你不重视真理，你将永远不会参与这场辩论 - 或任何其他辩论 - 首先！ 
 
-[^2]: Rational consistency, or internal logic.
+[^2]：合理一致性或内部逻辑。 
 
-[^3]: Empirical evidence, or empiricism.
+[^3]：经验证据，或经验主义。

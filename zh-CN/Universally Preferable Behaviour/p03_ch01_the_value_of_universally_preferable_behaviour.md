@@ -1,9 +1,10 @@
-## The Value Of Universally Preferable Behaviour
+## 普遍优越行为的价值
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+如果只指出显而易见的道理，一种新理论是没有什么价值的。如果物理学只准确地描述了我们如何接住一个球，那么物理就不是很值得追求的，因为我们已经能接住球了。发现世界是圆形的只能帮助海上长距离导航 -它无助于我们进入下游城镇量子力学只有在其他方法无法提供必要的准确性时才有用 - 它无助于建造汽车。
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+以同样的方式，UPB框架，并验证或拒绝道德规则，应该为我们提供一些惊人的见解关于我们在世界上
+的生活及我们彼此的关系。
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+如果这一切都是为了证明UPB强奸、谋杀和偷窃是不道德的，它不会增加多少价值，因为几乎没有人认为这些东西是道德上的权利开始。
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+因此，让我们开始将这个框架应用于我们所生活的世界，看看它会产生什么价值。

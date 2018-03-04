@@ -38,7 +38,7 @@ Podobnie mogą zdarzyć się ekstremalne sytuacje, w których możemy zdecydowa�
 
 Zanim zaczniemy korzystać z naszego systemu zachowań powszechnie preferowanych w celu zbadania niektórych powszechnie uznawanych przekonań etycznych, musimy zająć się kwestią "wyjątków."
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Using the above “lifeboat scenarios”, the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
 Jeśli chodzi o argumenty etyczne, jeśli zostanę spytany, czy wolę ukraść jabłko zamiast umrzeć z głodu - i odpowiem tak" - nieunikniony jest następujący argument:
 
@@ -48,9 +48,9 @@ Jeśli chodzi o argumenty etyczne, jeśli zostanę spytany, czy wolę ukraść j
 4. W ten sposób przetrwanie jest powszechnie preferowane w stosunku do praw własności.
 5. Zatem to, co jest dobre dla jednostki, jest ostatecznym standardem moralnym.
 
-Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum. [^11]
+Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum.[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+This kind of “biological hedonism” may be a description of the “drive to survive”, but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
 To wprowadza także całkowicie nienaukowy subiektywizm do kwestii moralności. Na przykład, jeśli moralnie dopuszczalna jest kradzież jedzenia w momencie, gdy umierasz z głodu, ile jedzenia możesz ukraść? How hungry do you have to be? Can you steal food that is not nutritious? Jak ważne jest jedzenie w celu uzasadnienia kradzieży? Jak długo po kradzieży jednego posiłku możesz ukraść kolejny posiłek? Czy wolno ci kraść posiłki zamiast szukać pracy lub apelować do organizacji charytatywnej?
 
@@ -70,4 +70,4 @@ Of course, the danger always exists that an immoral person will attack you for h
 
 [^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good”.

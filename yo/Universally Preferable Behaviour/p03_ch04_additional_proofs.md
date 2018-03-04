@@ -1,35 +1,35 @@
-## Additional Proofs
+## Afikún àwọn ẹri
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Àwọn ẹri pọ gan-an tí a le mú wá láti jẹri lórí ìbéèrè gbogbo àgbáyé ìlànà ìhùwàsí.
 
-### The Free-Market Economy
+### Awọn òṣùwọ̀n ọjà ajé ọ̀fẹ́
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Òṣùwọ̀n ọjà ajé ọ̀fẹ́ láìsí iyèméjì èyí tí ó dára àti oro-oja-n ṣe ọna kan tí a le gba bẹ̀rẹ̀ ìṣe kíkọ àti jíjẹ òun mímú ṣe nù pẹ̀lú àwọn ohun èlò larin ìlú. Àwọn àṣeyọrí ohùn èlò jẹ nkan ti o dọ́gba ni ìtàn ènìyàn, àbí ni gbogbo aráyé.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Àwọn ìlànà UPB ni ìfojúsọ́nà, ifowosi àti àlàyé nípa ìdí fún àṣeyọrí ohùn èlò òṣùwọ̀n ọjà aje ọ̀fẹ́.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Lekun rẹ rẹ, òṣùwọ̀n ọjà aje ọ̀fẹ́ dá lórí ohùn èlò tí ìròyìn àgbáyé àwọn ètò ohùn ìní. Nípasẹ̀ ìtànṣán, komunisiti dá lórí ikosile tí ó kedere nínú àwọn ètò ohùn ìní. Ní sìn tí a ti jẹ wo ní òkè pé àwọn ètò ohùn ìní gbogbo agbaye nìkan ní ìwà èlò tí ó wúlò, eléyìí ṣe àlàyé ní pàtàkì jù lọ ìdí tí komunisiti ó jẹ àjálù burúkú, nígbà tí òṣùwọ̀n ọjà aje ọ̀fẹ́ jẹ ohùn elo ọjà.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Nígbà tí àwa ènìyàn 'ṣe ní òtítọ́' ni àwọn ètò tó dogba sì ohun ìní, èyíkéyìí eto àwùjọ tí ó lòdì sì eto yìí tí wá ní ìparun ikuna ńlá - ní ìlànà wípé bí Alákóso aafo náà tí ó kọ ẹyin sì òtítọ́ ìṣubú àti ìwà lè kó lè jẹ́ ẹni ti o le kọ aafo nà tí ó dúró.
 
-### The Scientific Method
+### Ona ìjìnlẹ̀ sayensi
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Ibaro àti sayensi jẹ́ àwọn ìlànà tí ó wà tẹ́lẹ̀ - pẹlu ìwà réré tí ọmọlúwàbí - lábẹ́ isiwo UPB. Ní àwọn ọ̀rọ̀ mìíràn, Ibaro àti sayensi tí ṣe iyasoto méjèèjì nípa ìlànà UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Ìbéèrè òdodo tí ó ní ìdáhùn sí : kí ló dé tí ona ìjìnlẹ̀ sayensi jú àwọn ìlànà mìíràn tí ìmò akomora, irú bí mysctism.
 
-UPB answers this question.
+UPB dáhùn àwọn ìbéèrè wonyii.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Níwọ̀n èyíkéyìí ọna fún akomora ọgbọ́n gbọ́dọ̀ jẹ́ e kàn nà ní gbogbo àgbáyé, ní ìbámu pẹ̀lú, àti Olominira tí àkókò àti ibí, àwọn ìlànà sayensi pàdé àwọn ìbéèrè wọn yìí, nígbà tí ìyàtọ̀ àti ìpinnu àṣàyàn mysctism jẹ ìyè idakeji àwọn ìbéèrè wọn yìí.
 
-### Public Education
+### Ẹ̀kọ́ ilé ìwé
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Ìlànà kán tí ó kọjú òṣùwọ̀n ọjà aje ọ̀fẹ́ ni pé dídára nìkan ní o wa lati ìwà pé irọrun. Ìṣọ̀kan, ní pàtàkì, kò dára - ìwà ipá máa ní àbájáde búburú. Àwọn òní ilé ṣe búrẹ́dì àtijọ́ ará Sovieti wọn gba búrẹ́dì gidi, ara kùnrin tí ó na ìyàwó rẹ kò lè ní ìgbéyàwó ayọ̀.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Idasile tí lílo agbára ṣe dá akọ nígbà gbogbo sì èyíkéyìí ìwà tí ó rọrùn - ó jẹ èyí kàn pàtó àti ìjẹ tí UPB. Nígbà tí ilé ìwé ìjọba tí ni owo nípasẹ̀ ìpilẹ̀ṣẹ̀ tí agbára, wọn jẹ foomu tí *asopo tí ó ní agbára *, tí ó jẹ ìjẹ tí *òmìnira egbe* tí fọwọ́ sì UPB.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Níwọ̀n tí agbára rú òfin ìwà isẹ sì tì *ó wà nílé tẹ́lẹ̀* - nípasẹ̀ àìní òfin má ń pinu jáde ìjáde búburú - UPB yóò bá wà pinu pé ile iwe ijọba yòò pèsè imọ ẹ̀kọ́ tí kò dára.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Àti síwájú sí, UPB yóò sì rán wa lọ́wọ́ láti ṣe àsọtẹ́lẹ̀ pé bí wọ́n ṣe ń lọ agbára sì agbára ni ile iwe ìjọba, yálà owó orí, ìṣọ̀kan agbaso àti bèbè lọ ṣe ń lọ sókè - dídára ẹ̀kọ́ to ń pèsè yòò sì máa burú sì lọ.
 
-This, of course, was – and is – exactly the case.
+Eléyìí, ní dájúdájú, jẹ - àti pé - gangan ni ọ̀rọ̀ náà.

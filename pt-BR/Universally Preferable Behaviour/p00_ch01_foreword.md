@@ -68,7 +68,7 @@ Afirmações extraordinárias exigem provas extraordinárias. Ao assumir essa gi
 8. Eu respeito sua inteligência o suficiente para abster-se de definir palavras como "realidade", "razão", "integridade" e assim por diante. Temos bastante trabalho a fazer, sem ter que reinventar a roda.
 9. Finalmente, eu acredito que qualquer teoria, especialmente um tão fundamental como uma teoria da ética – faz bem se apenas confirma o que todos já sabem instintivamente. Eu não passei anos da minha vida trabalhando em uma teoria de ética, a fim de correr por aí provando que "assassinato é errado". Na minha opinião, as melhores teorias são aquelas que verificam as verdades que todos intuitivamente entendemos – e em seguida, usar esses princípios para revelar verdades novas que podem ser completamente contra-intuitivas.
 
-Tendo passado os últimos anos da minha vida preparando, treinando e então combatendo essa fera, espero que eu tenha adquirido alguma medida de honra. Eu acredito que emergi vitorioso – embora não inteiramente ileso- e estou ansioso para ver quem partilha desta opinião. [^2]
+Tendo passado os últimos anos da minha vida preparando, treinando e então combatendo essa fera, espero que eu tenha adquirido alguma medida de honra. Eu acredito que emergi vitorioso – embora não inteiramente ileso- e estou ansioso para ver quem partilha desta opinião.[^2]
 
 Estudei a história da filosofia na faculdade e tenho um mestrado, mas eu não tenho um PhD em filosofia. Estou longe de ser um intelectual reconhecido publicamente. Mesmo que não seja o campeão *mais* improvável, eu também estou longe de ser o mais provável. Se sucedi nessa batalha ou não, não está em suas mãos e nem nas minhas.
 

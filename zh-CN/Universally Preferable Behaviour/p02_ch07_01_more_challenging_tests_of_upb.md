@@ -42,30 +42,32 @@
 
 之前，当我们谈到UPB的时候，我们注意到，UPB之中也有例外，生物学中必须有客观的差异。 或者，更准确地说，只要有生物学上的客观差异，就可能会有UPB的合理例外或差异出现。 一个五岁孩子的大脑和神经系统发育不成熟，因此不能理性地处理他的长期行为后果。 这里的关键在于不成熟的大脑，如果一个成年男性的智力也等同于五岁的大脑，那么他的行为责任也就减轻了。
 
-因此，当我们指出减少责任的情况时，我们并不是*带走*责任的存在，而是承认责任可能不存在的情况，至少在某种程度上是如此。 If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
+因此，当我们指出减少责任的情况时，我们并不是*带走*责任的存在，而是承认责任可能不存在的情况，至少在某种程度上是如此。 如果我说坐轮椅的人不能用
+自动扶梯，我并没有剥夺他用自动扶梯的权利，只是指出他实际上不能使用自动扶梯。当我说UPB并不适用于一个五岁的行动，我并不是说UPB是主观的，不仅仅是对过山车的身高要求不知何故使得“高”主观的概念成为现实。
 
-If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
+如果我自愿与你签订合同，我承诺支付一年的账单，我没有签署自己成为奴隶制度，但我当然承担了我现在负责的积极义务。
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+如果我经营一个疗养院，并且接受无法自理的病人，那么如果我不给这些病人提供食物，我就要为他们的死亡负责。没有人强迫我接受这些病人，但一旦我表达了一种愿望并愿意照顾他们，我就对他们的持续幸福负责。
 
-In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
+同样，如果我借用你的割草机，我有义务将它恢复到与我借用割草机时相同的状态。同样，如果我去宠物商店买狗，我已承担自愿义务照顾那只狗。这并不意味着我现在是狗的奴隶，直到它死去的那一天，但这确实意味着只要狗拥有我，我有责任努力保持它的健康。 
 
-These kinds of implicit contracts are quite common in life. We do not sign a contract with a restaurateur when we go to eat a meal in his restaurant; it is simply understood that we will pay before we leave. I have never signed a contract when I walk into a store promising not to shoplift, but they have the right to prosecute me if I do. I also have never signed a contract promising not to rape a woman if we go on a date, yet such a “contract” certainly exists, according to UPB.
+这些隐性契约在生活中相当普遍。当我们去餐厅吃饭时，我们不与餐馆老板签订合同;简单理解，我们会在我们离开前付款。当我走进一家承诺不卖店的商店时，我从来没有签过合同，但他们有权起诉我，如果我这样做。根据UPB的说法，如果我们约会，我也从未签署过承诺不强奸女性的合同，但这样的“合同”当然存在。
 
-If I run a nursing home, and disabled people rely on me to feed them, if I prove unable to feed them for some reason, then my responsibility is clearly to find somebody else who will feed them. The grave danger is not that *I* don’t feed them, but rather that everyone else thinks that I *am* feeding them, and so do not provide them food. This accords with an old moral argument about diving into a river to save someone from drowning. I am not obligated to dive into a river to save someone from drowning, but the moment that I do – or state my intention openly – then I am responsible for trying to save that person, for the very practical reason that everyone else thinks that I am going to save that person, and so may not take direct action themselves.
+如果我经营一家养老院，而残疾人依靠我养活他们，如果我因为某种原因证明他们无法喂养他们，那么我的责任显然是找到其他人来喂养他们。严重的危险不在于我没有喂它们，而是所有人都认为我正在喂它们，所以不要给它们提供食物。这符合一条关于潜入河中以拯救溺水者的古老道德观点。我没有义务潜入河中救人免于溺水，但是当我做到这一点时 - 或公开表达我的意图 - 然后我有责任试图挽救这个人，因为其他人都认为我的实际原因是我我要去救那个人，所以不可能直接采取行动。
 
-Thus it is assumed that parents will feed and take care of their newborn baby. If said parents decide against such care-giving, then they are obligated to give the child up to other people who *will* care for it, or face the charge of murder, just as the manager of a home for the disabled must either feed those who utterly depend on him, or give them up to someone who will. If I decide that I no longer want to take care of my dog, I must find him another home, not simply let him starve to death.
+因此，假设父母会喂养和照顾他们的新生婴儿。如果说父母不同意这样的照顾，那么他们有义务把孩子交给其他人照顾，或者面对谋杀的指控，就像一个残疾人的家里的经理必须供养那些完全依赖他的人，或者把他们交给愿意的人。如果我决定不再照顾我的狗，我必须为它找到另一个家，而不仅仅是让它饿死。
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
+T这一切都依赖于第三方自卫原则，这是由UPB框架完全支持，因为自卫权利是普遍的。如果我看到一个坐在轮椅上的男人遭到一个女人的袭击，我有权为他辩护 - 如果他缺乏自卫能力，这一点就更正确了。
 
-Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
+因为孩子们不能养活自己、谋生或独立生活，他们的道德相当于绑架受害者，或者说我们的妻子在她丈夫把她锁在地下室之前谈论过。由于儿童身材矮小，并且几乎完全依赖父母，儿童也缺乏有效的自卫能力。 
 
-Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
+因此，既然是肯定的情况下，我们有权自卫别人–成为更强大的人不能在自己的自卫，这是完全合法的使用武力对付父母不养活自己的孩子，只是因为它是完全合法的使用武力对付丈夫谁是饥饿的妻子死亡，把她锁在地下室。
 
-As we also mentioned above, the less able a victim is to avoid the situation, the worse the crime is. Even the wife who ends up locked in the basement has at least *some* ownership in the matter, because she chose to marry this evil lunatic to begin with. Once she is locked in the basement, the situation is unavoidable, yet there were doubtless many clues hinting at her husband’s abusive nature, from the day she first met him.
+正如我们前面提到的那样，受害者越是能够避免这种情况，犯罪就越严重。甚至最终被关在地下室的妻子也至少有一些所有权，因为她选择嫁给这个邪恶的疯子开始。一旦她被锁在地下室，情况就不可避免了，但从她第一次见到他的那一天起，毫无疑问，许多线索暗示了她丈夫的虐待天性。
 
-Children, however, are the ultimate victims, because they never had any chance to avoid the situations they find themselves in. Thus we can logically establish the responsibility of parents towards their children by using the UPB framework. Since every person is responsible for the effects of his or her body, and children are an effect of the body, then parents are responsible for their children. Since everyone has the right to self-defence, for themselves and for others – since it is a universal right – then anyone can act to defend children. Since everyone must fulfil voluntary obligations, and having children is a voluntary obligation, parents must fulfil those obligations related to children. Since, through inaction, causing the death of someone completely dependent upon you is the equivalent of murder, parents are liable for such a crime.
+然而，儿童是最终的受害者，因为他们从来没有机会回避自己发现的处境。因此，我们可以在逻辑上建立父母的责任对他们的孩子用UPB框架。因为每个人都对他或她的身体的影响负责，而孩子是身体的作用，那么父母对他们的孩子负责。既然人人都有自卫的权利，不管是对自己还是对他人，因为这是一种普遍权利，那么任何人都可以采取行动保护儿童。既然每个人都必须履行自愿义务，生育是一项自愿义务，父母必须履行与儿童有关的义务。由于通过无所事事，导致完全依赖你的人的死亡等同于谋杀，父母应对此类罪行负责。
 
-We could of course put forward the proposition that parents do not have to take care of their children, but that is far too specific a principle to be a moral premise – it would be the same as saying “parents can murder,” which is not UPB-compliant, and so would require a biological differentiation to support an exception – and becoming a parent does not utterly overturn and reverse one’s biological nature.
+我们当然可以提出父母不必照顾他们的孩子这一主张，但这是一个太具体的道德的原则，是一个道德前提 - 也就是说“父母可以谋杀”，这不是符合UPB标准，因此需要生物学差异来支持例外 - 成为父母并不能彻底颠覆和扭转自己的生物性质。 
 
-Parents who starve a child to death are clearly guilty of murder. Children are born into this world in a state of involuntary imprisonment within the family – this does not mean that the family is evil, or corrupt – it is simply a statement of biological fact. Children are by the parents’ choice enslaved to the parents – this form of biological incarceration puts negligent parents in the same moral position as a kidnapper who allows his captive to starve to death, or a nurse who lets her utterly-dependent patients die of thirst.
+把孩子饿死的父母显然犯了谋杀罪。孩子出生在一个非自愿监禁的家庭里，这并不意味着家庭是邪恶的，或者是腐败的，这只是一个生物学事实的陈述。孩子们被父母的选择所奴役，父母的这种形式的生物监禁使粗心的父母处于与绑架者一样的道德地位，绑架者让他的俘虏饿死，或让她完全依赖患者口渴的护士。
+

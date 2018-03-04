@@ -1,75 +1,75 @@
-## Parallels
+## 平行线
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+在科学革命之前，人们认为，如果没有意识和“道德”实体在其中心，自然世界可以维持下去，这是不可想象的。太阳尾随着一辆超自然的战车而升起；月亮是太阳寒冷而孤独的兄弟。星群描绘了神的故事和坟墓，风暴源于恶魔的狂怒。
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+认为自然是一个自我生成和自我维持的系统的想法几乎是不可想象的。达尔文进化论—认为生命不是被创造出来的，而是进化而来的，把这个概念从物质世界带到了生物世界。
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+在科学之前，每一个复杂系统的中心都有一个道德意识——没有它，这个系统就会变得一片混乱，并且终止。
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+不幸的是，最合理的说，这种“良性意识”只是一种错觉。没有这样的神存在——所有这些都是牧师的宣言。因此，真正的中心是非理性个体的偏见，他们不知道他们到底有多疯狂。
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+我们还没有讲相同的启示应用到我们的社会概念中，但现在我们必须这样做了。
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+我们认为，在社会的中心，我们必须建立一个叫做“政府”的道德实体这是非常有必要的。如果没有这个实体的存在，我们认为社会将陷入混乱，并最终停止，这是不需证明的结果——正如我们的祖先们所认为的那样，在没有上帝的情况下，宇宙本身就会陷入混乱，并最终停止。
 
-However, “the government” no more exists than “god” exists.
+然而，“政府”并不比“上帝”存在得多。
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+当我们说到“神”时，我们其实是在谈论“牧师的意见”。
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+当我们谈到“政府”时，我们真正指的是“一小撮人的暴力行为”。
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+“自发秩序”这个概念在物理学和生物学领域得到了很好的证明，但在社会领域对我们来说仍然是难以想象的。
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+然而，政府对于组织和延续社会来说，并不比神对于组织和宇宙存续需求的多。
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+事实上，正如宗教阻碍科学进步一样，政府也阻碍社会进步。正如宗教的幻想在历史上造成数亿人死亡一样，政府的幻想也是如此。
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+正如宗教的虚假伦理“证明”所有的虐待、腐败和暴力行为一样，政府的虚假道德也是如此。当我们选择以幻想为生时，我们不可避免地选择以某种形式毁灭。
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+当我们选择按照宗教道德神话来经营我们的社会，我们就结束了战争、暴力、镇压、滥用、腐败和无底的虚伪。
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+当我们选择根据集权的道德神话来运营社会，结果是不同的。
 
-We can either choose virtue or compulsion.
+我们可以选择美德或强制。
 
-We cannot have both.
+我们不能两者都拥有。
 
-### Solutions
+### 解决
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+我们可以选择相信政府既是有必要的又是一个有道德的机构。我们可以选择相信，没有政府，社会就会崩溃成“无秩序状态”，世界就会变成一场反对一切的战争。我们可以选择相信没有政府，就没有道路，没有教育，没有医疗保健，没有养老金，没有图书馆，没有财产保护等等。
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+当然，类似的迷信阻碍了人类在历史上的进步。科学揭示了什么是宗教就是UPB揭示了什么是政府的前体。
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+当科学开始假设一个没有神的宇宙可以存在的时候，各种各样的歇斯底里的声音大声疾呼，世界末日即将来临，社会将陷入“混乱”，文明会变成了一场所有人对所有人的战争。
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+任何时候，如果一个系统能够证明权力是在没有权力运行的情况下运行的，那么所有那些从权力的操纵中获利的人都会大声疾呼，没有权利，一切都将失去。
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+在科学革命开始时，神父就这么做了。没有上帝，生命就没有意义了。没有上帝，人就没有道德。没有上帝，我们的灵魂无法得到救赎。没有上帝，世界将陷入混乱和邪恶。
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+当然，没有一件事是真的。实际上，事实却恰恰相反。以宗教为主导的世界观的结束，为政教分离、贵族的结束、自由市场的兴起、在世界重要地区建立人权自由铺平了道路。
 
-The fall of God was the rise of mankind.
+上帝的堕落是人类的崛起。
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+同样地，当我们开始看到社会的时候，就像早起科学家看到宇宙那样—将他视为一个不需要一个想象中的中央权威的自我维持的系统，那么我们就可以真正开始感知到人类自由的可能性。
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+在社会中建立一个中央和强制性的垄断，永远阻碍了知识、智慧、美德、身体和精神健康的进步——就像在宇宙中建立一个中央和强制性的垄断，永远阻碍知识、智慧和科学的进步。
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+反对想象实体的方法是应用无情的真理。反对上帝的方式有理性，有证据，有科学。
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+反对国家——最危险的假想实体——的方法是有理性、有证据、有科学依据的。
 
-### The Future
+### 未来
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+无论我们喜欢与否，UPB都适用于我们所做的一切。 人类有一种自然的一致性倾向，因为我们是有着理性意识的生物，栖息在一个连贯而又合理的宇宙中。因此，无论我们在生活中接受什么前提，都会迫使我们一生中的行为越来越一致，在我们的文化或国家的“生命”中也是如此。 
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+因此，一个相信欺凌是一个让他可以获取他想得到的东西的好办法的时候，他将会在他的生活中越来越多的施加欺凌。 一个相信暴力是一个好的途径的的人往往会变得越来越暴力。
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+换句话说，UPB也需要保持性，即使在一个不一致的环境中。即使不道德，UPB也要求统一。
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+一个文化的根本道德前提决定了它不可避免的未来。 建立在强制理由基础上的文化将永远变得更为强制。 建立在理性自由之上的文化总是变得不那么强制。
 
-That is why the delineation of a rational framework for ethics is so essential.
+这就是为什么划定一个合理的道德框架非常重要的原因。
 
-What we believe is what we become.
+我们相信什么，我们就会成为什么。
 
-If we believe lies, we shall become slaves.
+如果我们相信谎言，我们将成为奴隶。

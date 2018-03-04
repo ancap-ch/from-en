@@ -1,88 +1,87 @@
-## UPB: Ethics Or Aesthetics?
+## UPB: UPB: Da’a or Ado?
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+A jimulla, za muyi amfani da Kalmar *Ado* wurin da ba’a karkafa fifita- a bayyane ko sirri- a inda *Da’a ko *halin kirki* za’a mika shi wurin karfafa fifita. A *duniya anfi son haka* (ma’ana bukatar Da’a) amfani da hanyoyin kimiya don inganta dabara mai zurfi, amma ba zamu iya amfani da karfi ba wurin *aiwatar* da hanyoyin kimiya akan wadanda basa son amfani da shi, tunda *kin amfani da hanyoyin kimiyan ba laifi bane* hanyoyi marasa hadari halittarsu ne *guje wa*. Idan likita yabar amfani da hanyoyin kimiya, amma kuma me makon fara zuwa ganin mai-duba, ba yana tilastani akan zabin shi bane, kuma zan iya share shi. Shi kuma mai fyade, in ka lura yana karfafa ra’ayin shi akan wanda ya cutar.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Hasali mun karkata hankalin mu na UPB akan daular Da’a, UPB na iya shafan “reshen yanayi” wanda ya kunshi horo Kaman su:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+-Hanyoyin kimiya
+-Dabaru
+- Halayya
+-Muhawara
+-Harshe
+-Da’a
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+Da’a shi tsarin cikin tsarin UPB ne wande ke kula da *samar da* hali, ko amfanar da tashin hankalin. Duk dubara mai zurfin da ke tabbatar wa ko kin tashin hankalin *halin kirki* ne, kuma yana maganan akan bukata a dabaru daidai da hujjojin halayya.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+Bari mu lura d aiyuka uku, da zasu taimaka mana wurin tantan cewa tsakanin Da’a da ado. Aiki na farko shine *rashin hankali* na biyu shine *karya*; na uku kuma *kisa*.[^9]
 
-### Irrationality
+### Rashin Ma’ana
+Bari muce kai da ni muna muhawara akan yarda da ubangiji. Bayan nayi gardama, sai ka toshe kunnen ka, kana fadin ubangijinka ya fada ma yana nan, sannan kuma wai duk abun da nace ba komai bane. A zahirce, abun da kace a kaina bashi da ma’ana. Sannan kuma halin zai iya bata min rai, ko da, yake da kamar wuya na nuna ma fushhi na da har zan ciro bindiga na harbe ka. Na tabbata *duniya kan fifita hakan* wato amfani da dabaru da hujja fiye da dogaro akan rashin hankalin mu, amma fifita a duniya baya karfafa abunda ke a *zahirce*, na tashin hankali ko tsoratarwa ko wanin haka.
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+### Karya
 
-### Lying
+Bari muce kai da ni mun sa dokokin muhawara, kuma duk mun yarda da tambaya akan cewar akwai ubangiji akan hujja da shaida. Idan, muna cikin muhawara, ka fara sakin layi, kuma kaki yarda da shaida na *bayan* inganci da hujja na, ka ki cika alkawarin ka. Ta wani fuska, kayi karya Kenan sanda kace ka yarda mu amsa tambayan akan hujja da shaida.
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+Bambamci tsakanin wadanda yanayin (rashin asali da karya) shine bambam cin dake tsakanin yarjejeniya kwangila. Idan na mika ma dala dari  sannan na wuce, ba zai yiwu na dawo bayan shekara daya sannan nace ina bin ka  dala dari, saboda bashi ne. amma idan kai ne ka yarda zaka biya bayan shekara, sannan baka  cika alkawarin  ba, wannan wani abu ne daban.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+A misalin  “karya ”, bacin kin cika alkawarin, da bata min lokaci,  ba tarbiya  ko kwakwaran  dalili anan da zai sa na ciro bindiga  na  harbe ka
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+Kwakwaarann halin kirki zai bayyane dalilin aikaataa hakan
 
-A reasonable moral theory should be able to explain why this is the case.
+### Kissa
 
-### Murder
+Idan ka nufe ni da wuka gadan gadan, mutane kalillan ne zasu musa hakkina na kare kai na. Idan harbin ka ne hanya kadai da zan kare kaina, za’a yarda cewa ba makawa sai hakan ya faru
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+### Abun da ake Bukata a Da’a
 
-### Requirements For Ethics
+Wani sharadin dole ne, ko kuma yarda, idan har hukuncin da’a ko dabaru masu zurfi da aka yarda dasu. A fili, zabi da hidimar mutum sai sun kasan ce yardaddu.  Idan dutse ya gangaro daga tsauni sannan ya lalata ma mota, ba zai yu mu tsare dutsen ba saboda ya bata ma mota. Amma, idan ka ganni ina turo dutsen, ni zaka laka ma laifin. Don karin ruddani, idan ace kuma ace wani mutum ne ya tilas tani da bindiga, sai kafi samun natsuwan tsare wanda ya tillas tani turo dutsen a maimakon kace ni.
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+Kamar yadda mu kayi bayani a baya, shiga ko wani irin shawarwari na bukatar yarda da zabi, yanayi da halin kirki. Duk da yake wadanda dalilan na da amfani a wurin fentin daki, duk da haka yana wuya ace ya dafa abun kirki ne. Duk da yake dole ne akwai wasu zabi da za’a iya zaba ko shawara na kirki.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+Kowa yana da fifiko- daga cikin halayya (ina son alewa)  zuwa  fifikon zaman  jama’a (yana  da kyau hallaran taro akan lokaci) zuwa fifikon duniya( kar kayi kisa).
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+Akwai hujjoji kalilan akan rubuta littaffin fifikon mutum –kuma zamu iya juyawa wurin Ann Landers akan fifikon zaman jama’a- anan zamu karkata akan yiwuwan fifikon duniya na halayya
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+### Zabi
 
-### Choice
+Idan na yarda ka gayyace ni cin abinci,   amma kuma hirar ta bata min rai, zan iya tashi na tafi –koma naki yarda da gayyatar ka daga ranan. Wannan yanayi ne na guduwa kuma ko guje wa halayya ne ke bambam cewa tsakanin *ado*da *da’a* 
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+Idan kuma, a lokacin da na yanke hukuncin barin wurin fatin, ka yinkura ka daure ni a kujeran da nake zaune, a zahirce bani da wani zabi na barin wurin. A wannan lokacin ne rashin hankalin ka ya zamo zalunci, kuma ya tashi daga ado ya zamo da’a.
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+In kuma nayi alkawarin zama da mata daya ne, sannan na saba wannan alkawarin. Sai matana ta yanke hukuncin rabuwa dani, saboda ban kyauta mata ba, amma sabawa na ba dai dai yake da ace na daure ta ne a cikin daki dan karta tafi. Ba zai yu muce matan da ta harbi mijinta saboda rashin da’a ta kyauta ba, amma zamu iya mata uzuri idan hakan tayi ne don ta kufce ma zalunci shi. A yanayin farko, matan na da zabi da ikon barin mijinta, ta’addacci ba hujja bane a gareta cikin wannan yanayin. A yanayi na biyu kuma, zabin barin mijinta ya kufce mata saboda ya kulle ta. Rashin da'a baya lalata zabin abokin Zama; amma kulle ta kuma yana da illa.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+### Kauracewa
 
-### Avoidance
+Idan ace kai dani muna tsaye ne akan tsauni, sai na kalle ka nace, “ka tsaya a gaba na, saboda na jefo ka kasa”, me zaka yi? Idan ka zabi tsayawa a gabana, ni kuma na turo ka, wannan kamar kayi kisan kai ne, a maimakon ace nine na kashe ka. Dalilin anan shine zaka iya kauracewa, idan kaki tsayawa a gabana.
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+Haka kuma, idan na hadu da kai a gidan giya, nace “ina son ka dawo gida na, don  na daure  ka  a  gado har sai ka mutu saboda  yinwa, “ idan  ka bini, zai kasan ce da kwakwaran dalili ka takaita rayuwanka. Ta wani fuska, ace kwaya nasa a abun shanka, da ka farka sai ka tsinci kanka daure a gado na, karara ba wani abu da zaka iya yi a wannan yanayin.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Tambaya anan shine shin *kauracewa* ne abun da zai banbanta ado da da’a. Ado yana daukar yanayi mara dadi, amma wanda ke baka ikon yin zabi.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+####  Kauracewa da kwaikwayo
 
-#### Avoidance And Initiation
+Da akwai wata yar matsala da  kauracewa wanda zamu tattauna  nan gaba a  wannan  littaffi,  wanda ke da  mahimanci  matuka.
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+Idan ace ina zama a saman tsauni mai tsawon kilomiita  dubu biyar daga inda kake ne, sai na tura ma  sakon yanan gizo ina cewa duk sanda ka wuce ta gaban gida na, sai na  harbe ka, wannan matsala ce mai sauki  da zaka iya guje ma. Barazana na abu ne mara kyau, amma tambaya anan dole ta taso idan ka hau jirgin sama ya sauke ka saman tsaunin sannan ka nufi gaban gida na. 
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+Ta wani fuskar kuma, idan kana zama inda ihunka banza ne kuma hanya daya ce, sai nace duk sanda ka kara bin hanyar nan zuwa gida, sai na harbe ka, karfin kauracewa a wannan yanayin bai da tasiiri.  Zaka iya haka rami zuwa gidan ka, ko kuma kabi bayan gidan mutune kana haura Katanga, amma duk wadannan hanyoyi ne mara su inganci.
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+A yanayi makamancin haka, idan dan daba yazo gida na sannan yayi mun barazanan kona gidana idan ban biya kudin kariiya ga kungiyan su duk wata ba, zan iya kiyaye wannan barazanan idan na bar unguwan, amma duk da hakka wannan hanya ce wanda bata da inganci a wannan yanayi, tunda dole sai na tashi a takure don kaurace ma baraza nan. 
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
+A wannan lokacin, zamu iya cewa*duk* barazana da ke iya haifar da ta’addacci abu ne mara kyau. Amma tambaya akan kauracewa anan- musamman saboda *tsananin* da kauracewa ke bukattaa- yana da amfani matuka.  A gaba daya, duk wani barazana dake takun saka da hanya mai saukin hukunci, yafi ata. Idan har sai na hau jirgin sama daga wani kasa saboda kawai na wuce ta gaban gidan ka, wannan ba abu da zai faru kullum bane. Amma idan akai mun bazanan wuce hanya da zata kai ni gida, wannan takura ne sosai a wurina. Idan ya zama dolle na dauki mataki da hukuncin da zai haifar da barazanan, wannan wani abu ne kuma- idan na tsokano barazanan ta hanya madaidaiciya a kullum, wannan wani abune daban. Idan nace ma zan mare ka idan ka tsaya a kanka a cikin duhun dare abu ne da ba zai faru ba, amma idan nace zan mareka idan ka shaki numfashi fa.
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+### Da’a, Ado da Kauracewa
 
-### Ethics, Aesthetics, And Avoidability
+Bari ace ni da kai munyi alkawarin haduwa karfe shida dai dai- Amma sai bayan minti talatin ya wuce nazo. Wani irin mataki zaka dauka? Da farko, zaka yi fushi kadan. Idan kuma nazo nace ma na taimaki wani mara lafiya a hanya, na mai shake don cecen ran shi, fushin ka zai zamo farin ciki. Idan ko cema nayi latti na saboda na tsaya wasan vidiyo gem ne, fushin ka zai karu ne. Taimaka wa mutumin da bai da lafiya abu ne da ba’a kawo zai auku, sannan kuma ba makawa- tsayawa wasan gem kuwa abu ne da za’a iya kauracewa, sannan karara yana nuni da rashin damuwa da kai.
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+Wannan tsananin *kauracewa* lamari ne da ya samo asali daga hukuncin da’a. Matan da masu fyade suka zalunta abun a tausaya ne. Matan da akai ma fyade bayan ta bugu a wurin fati bayan rawa tsirara akan tebur na da laifi sosai. Karara fyaden abu ne da sai ya faru, tunda da gangan aka tono shi- amma kuma, yanayin da ke haifar da fyade abu ne da zamu iya kiyaye wa.
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+IIdan wani ya shigo gidan ka sannan ya karbe jakan kudi bayan ya ciro bindiga, kana da dukkan daman fusata. Idan kuma, na bar jakan kudina a tasha ne kan benci har tsawon sati, ina da hujja fusata idan na dawo ban gani ba? A takaice mun san cewa wannan matsalan ka ne.
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+Karara, tambayan kauracewa shine muhalli sha’ir akan halin kirki wajen tantance sanadi da matsalar sa. Ciwon dake zuwa ba shiri, kuma ba makawa, yafi tsoratar wa akan abun da zamu iya kauracewa. Zamu iya rage hanyoyin kamuwa da cutar in muka kaurace ma misalin shan taba, kamar yadda zamu kare kansar fata idan muna amfani da kolbar rana, kuma kare karaya idan bama mugun wasa. Haka zalika, zamu iya rage ta’addacci idan muna halin kirki, kamar zaban abokin  kirki,  kiyaye jahilci da yanayin da ke haifar da  ta’addacci, da kauracewa shaye shaye da sauran su.
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+Da akwai wani yanayi da ake cewa *kisan dan sanda* a yayin da wani zai kashe kanshi ke gaddama da dan sanda, sai yayi kamar zai ciro bindiga don dan sanda ya harbe. Wannan misali ne wanda ke nuna sai abun ya shafi wani dole. Yakan faru a gida, a inda mata zata afka wa mijinta cikin maye, bayan tasan idan yasha giya yana saurin fushi.  A wannan yanayi, zamu iya tausaya ma mijin da aka sace ma jakan kudi a tasha, ko matar da akai ma  fyade a wurin fati, ko matan da mijinta ya  buga- A lokaci daya kuma, akwai alamar tambaya akan  yadda suka tafiyar da alamarin, ko kuma laifin su da ya haifar musu wahhalla. Don adalci, bari mu bambamce tsakanin mutumin da aka amsan ma jakan kudi da bindiga da wanda ya bar jakan kudin shi cikin jama’a. Duk kansu an sace musu jakan kudi, amma ba zai yu ace duk laifiin su ne ba.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+Shin danyen aikin UPB zai iya taimaka mana fahimtar, karkasuwan da gane zurfin halin kwarai?
 
-Can the UPB framework help us understand, classify and extend these moral standards?
-
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]: Ka kula cewa wannan misalai ne ba hujja ba, amma yanayi ne da da’a tunani mai zurfi ya kamata ta kunsa ta kuma yi bayani akai.  Zamu kai ga gaskiyan lamarin nan bada dadewa ba.

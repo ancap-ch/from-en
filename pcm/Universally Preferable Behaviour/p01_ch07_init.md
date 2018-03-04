@@ -1,49 +1,49 @@
-## Initiation
+## Bibere
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+Iwa ti o ni alaye ti o si  mopolowa ye kole salaye gbogbo boseyekori lagbaye bi a se salaye loke. Bi alaye to mopolowa phisiki ye kole salaye bi omokunrin le she ishiro aarki basii baluu ti a ju, kale gbamu.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+Ti liana iwa ti alewulagbaye le shalaye oun ti wa loke, o ma taayo idanwo laakaye.
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+Eleyii ko sowipe awon iyalenu- eyi to le sherubayan- ti ale ri nipari le yori lati alaye iwa wa, sugbon a ti ma bori isoro kama salaye eyitofarahan katoshe itupale eyi ti o jina si eyi ti o fihan kedere.
 
-With that in mind, let us turn to the question of *initiation*.
+Eleyii ni okan, e j aka wo ibeere ti a ni lori *bibere*.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+Onise abe le gunyan pelu irinse ti a fi ma n la eran ara, sugbon a le ni oye wipe ishe re yato si muga ti o gun yan pelu obe.
 
-This difference can be understood through a further analysis of *initiation*.
+Iyato yii le ni alaye pelu itusiwewe bibere.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent,” just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+Ti o ba ni kancer, ole so fun onise abe ki o to e; idi ti gigun oniseabe o se buru niwipe kancer lo bere ija lori aaye reati ilera re. oniseabe yi shi n shishe bi eni ti o ma gbayan; bi eni ti o yiban mo onise ibi ti o fe shebi funyan. Osi ti je ki onise abe mo wipe o mo nipare ishe abe naa, ositi fi ikawo si awon iwa ti o le wu pelu awon contirati kan.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+Onishee ibi ti ogun e, o n beere ikolu si aye re ati ilera re, ti o si je idi ti ikolu re she je ibi o si yato si ero ti o nishe abe.
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+Ti mob a je eni ti o n fa eefin lati ojo totipe, mo n fiowofa kancer oun ara ti a fi ma mi. bibere pelu ishe iwa fifa eefin, moti gbegbese ninu oun ti ole ge ile aye eniyan si kukuru. Mo si le ni kancer oun ara ti a fin ma milai ma faa eefin tabi kin ma faa efin lai shi ni kancer oun ara ti a fin mi- sugbon mo ti din iwaye re ku.
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+Nijora, o lesele funmi lati fi wallet mi si ijoko parki fun ose kan, padawa lati ri nibe, sugbon kin file fun ojopipe, aaye riri waletti naa nibe si ti kere si.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+Ni owo keji, ti mob a joko sile ni aale, mi o fe lufin, ti oniwala ba wole mi tipatipa, o si jamilole, won o le debi lemilori fun ipa ti mo ni lori isele naa.
 
-### The Non-Aggression Principle (NAP)
+### Ipinle-oye Aisefiran
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist,” insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong.” Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+Ofin iwa kan lan pe ni ipinle oye aisefiran. Osi man lo agbara fi gbeja arare. Ipinle-oye aisefiran ni “bibere fifi agbara o aara ni oju iwa”. Tabi, ka fijekolo daadaa pelu alaye iwa, aifiagbara lafibere se itewogba lagbaye.
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+Ti a ba shee itupale ipinu oye bi ti aisefiran, oun meje loleshele, meta ni odi, meta ni otun, okan si wa laarin won:
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- Bibere liloagbara okin she iwa to dara.
+- Bibere liloagabara o kin she iwa to daara ni leekokan.
+- Bibere liloagbara okin je iwa ti ko lailai je iwa to dara.
+- Bibere liloagbara o ni akoonu iwa.
+- Bibere liloagbara je iwa ti ko lailai dara.
+- Bibere lilo agbara je iwa to dara leekokan.
+- Bibere liloagbara je iwa to dara.
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+Bi a se ri loke, iwa to ose gba lagbaye je aala to je gbogbo abi korofo. Ti ishe kan ba se gba lagbaye, a o le daaduro leyokokan, layika, lasiko ati beebeelo. Ti ko ba dara lati payan ni Algiersi beeni ko dara lati paayan ni Belgiumu,Unitedi Stati, ni guusu ati ni ori osupa. Ti koba dara lati payan lana,ko le dara lati payan ni ola. Ti koba ye fun boobu lati payan, o gbodo maaye fun Dougu lati paayan.
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+Ifipo ti ipinle oye aisefiran ati iwa ti alagbalagbaye, je ki ale so awon pointi meje to wa loke si meta:
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. Osegba lagbaye lati loagbara.
+2. Ose gba lagbaye lati ma bere agbara lilo.
+3. Bibere ka ma lo agbara o daun si bi a se ri nkan lagbaye.
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+Eyi ni esi adayeba fun kammalo oun ti a nilo fun lilo deede asa. Imuwa fun ifeyesi. Oye to mogbonwa ole sowiope oun iyato to le shele lati ishele kaanaa. Oye sciencii ko le jiyan wipe apata kan gbodo jabo, apata miran si gbodo jasoke. Eistein  o shi jiyan wipe E=MC^2^ ni ojo bo, sugbon¬¬¬¬, E=MC^3^ ni ojoti,tabi ni marrsi tabi nigba ti bulu moonu ba n shele. ofin ibaraenisoro wipe oun le di dida tabi bibaje - koje tooto nigba ti o fe ko je be, tabi o sanwo fun omo kunrin lati jekoribe, tabi ti ologboduau ba gba ona re kooja. awon ofin fisiki o ba igba, ayika,ero sise: aitasera yi niwulo fun opo asa, tabi iwa tiosegbalagbaye, a si ma soronipa iwa ti a legba ni apa keji, iwa die si.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+Sibesibe, a n soro nipa ibere lilo deede, ose Pataki lati soro lori agbara aini aitasera.

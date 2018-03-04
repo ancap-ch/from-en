@@ -1,109 +1,110 @@
-## Preferences
+## 偏好性
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+现在, 既然我们理解了自我毁灭论证的本质，那么我们可以转向偏好的问题。
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+偏好是任何声称定义命题真值的方法论的核心。例如，科学方法主要由对逻辑一致性和经验证实的先天偏好来定义。对于科学而言，前提是：如果你想确定一个关于物质和能量行为的有效真理，最好使用科学方法。
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+从这个意义上说，“优先”并不意味着“更好”，而是“需要”。如果你想活下去，你最好不要吃一把砒霜。如果你想确定关于现实的有效真理，那么你的理论必须是内在一致的和经验可验证的。“普遍优选”，然后，就是”的客观要求”，但我们会保留“优先”来区分人类和非可选可选绝对物理绝对如重力之间。
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+同样，如果道德理论能够完全有效，那么它们至少必须是内外一致的。换句话说，一个自相矛盾的伦理理论是无效的 -而一种与经验证据和近乎普遍偏好相抵触的伦理学理论也是无效的。
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+因此，在伦理学中，正如在科学、数学、工程和其他所有将理论与现实相比较的学科中一样，有效的理论必须是逻辑一致的和经验可验证的。
 
-### Preferences And Existence
+### 偏好性与存在性
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+如果我说“我喜欢冰淇淋”，那句话中只有一个词是模棱两可的。显然“我”存在，因为我表达了个人偏好。同样明显的是，冰淇淋也存在于现实中。然而，“喜欢”这个词更具问题性。
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+偏好在客观上并不存在于现实中。如果你非常好奇，你也许可以跟着我，每次吃冰淇淋时记录下来，这可能为确定我的喜好提供了一个很好的经验基础。然而，这种可能性可能存在，我实际上是一个受虐狂，并且不喜欢冰激凌，并且喜欢用不愉快的口味来折磨自己 - 然后通过声称喜欢它来混淆你。 
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+我们可以找到偏好的证据，我们在现实中找不到自己的偏好。偏好存在于意识和物质之间的关系，就像重力存在于质量体之间的关系一样。
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+撇开自由意志和决定论这两个具有挑战性的问题，我们可以合理地假设，无论一个人在目前做什么，都是他或她更愿意做的事。如果我起床去上班，显然我宁愿那样做，而不是所有其他的选择。即使我讨厌我的工作，但我显然讨厌它比一无所有还要讨厌。
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+鉴于人类可以进行各种各样的行动，无论一个人现在在做什么，都可以从所有其他可能的选择中选出。我选择写这本书，而不是学习如何探戈。 
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+当我们将这个简单的事实应用于伦理论证时，我们会得出一些非常有趣的结果。
 
-### Preferences And Arguments
+### 偏好性和争论性
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+记住我们上面的自我挫败的参数分析，我们可以很容易地理解语句的矛盾性：“偏好不存在。”考虑到每个人的行动–包括哲学陈述–是优先于其他可能的行动选择，认为偏好不存在需要一个认为偏好不存在偏好，这是一个自相矛盾的陈述。认为偏好不存在的说法与语言不存在完全相同。这是一个完全自我挫败的论点。
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+既然无论是隐含还是明确地表达偏好都不可能采取行动，任何行为的人都会接受偏好存在的前提。因此，如果不接受偏好的存在，就不可能辩论偏好的存在。
 
-### Preferences And Universality
+### 偏好性和普遍性
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+下一个问题就是：偏好是主观的，还是普遍的？
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+显然，有些偏好是主观的。音乐爱好、个人爱好、喜爱的文学等等都是主观的和个人的喜好。
 
-The challenge arises when we try to define some preferences as *objective*.
+当我们试图将某些偏好定义为目标时，就会产生挑战。
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+我们面前的命题是：有些偏好是客观的，即普遍性的吗？
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+当我说一些偏好可能是客观的，我并不意味着所有人都会遵循这些偏好。如果我认为呼吸是一种客观的偏好，我可以很容易地通过自杀者自杀的例子来反驳。如果我说吃是客观的偏好，我的论点可以用饥饿和厌食的例子来反驳。
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+因此，当我谈到普遍的偏好时，我是在谈论人们应该喜欢什么，而不是他们总是喜欢什么。用一个科学的类比，真正了解宇宙，人们应该用科学的方法–这并不意味着他们总是这样做，因为显然数十亿人查阅古代童话故事而不是现代科学的“答案”是没有办法实现的真相，没有科学的宇宙，但人们完全可以自由地将“真理”重新定义为“错误”，并以神秘的废话满足于自己。
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+同样，如果一个人想治愈感染，他应该服用抗生素，而不是表演阿兹台克舞。因为跳舞不能治愈感染，所以选择服用抗生素而不是跳跳舞是很普遍的。因此，虽然偶尔会有疯子试图通过舞蹈来治疗自己，但总的来说，如果一个人想治愈自己，他必须服用抗生素。
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+换句话说，如果你想登上山顶，希望它永远不会工作。如果你想知道宇宙的起源，祈祷永远不会给出答案。人们仍然希望和祈祷，但这并不能使祈祷或祈祷更有效。考虑到这一点，让我们谈谈是否普遍优惠是否有效的问题。
 
-### Arguments And Universality
+### 争论性和普遍性
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+如果我选择辩论，我已经含蓄地接受了各种值得花费一些时间在这里解开的前提。
 
-#### Premise 1: We Both Exist
+#### 前提1：我们都存在
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+如果我选择和你辩论，那么我必须承认我们都存在。如果相信我存在，但你不相信，那么辩论是没有意义的，那将是一个疯子的行为。如果我开始对着镜子里的镜子争论，我应该镇静下来，不要争论。
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### 前提2：感官有准确性的能力
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+因为人类无法沟通的精神，所有的争论必然涉及感官的证据。写作以视觉为前提；谈话需要听觉；盲文需要触摸。因此，任何命题，取决于感官失效自动自毁。
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### 前提3：语言具有表达意义的能力
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+与前提二相似，由于所有论点都需要语言，所以任何基于语言无意义的命题立即被证实。用语言来表示语言没有意义，就像用信使发送信息，认为信使从来不传递信息。
 
-#### Premise 4: Correction Requires Universal Preferences
+#### 前提4：纠正需要普遍的偏好
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+如果你纠正了我所犯的错误，你就含蓄地接受了一个事实，那就是我最好改正我的错误。你喜欢我纠正我的错误不是主观的，而是客观的和普遍的。
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+你不要对我说：“你应该改变你的意见，我因为我喜欢它，”而是：“你应该纠正你的意见，因为它是客观正确的。“我的错误不会出现只是不同意你，但由于我的偏差从真理的客观标准。你的论点，我应该纠正我的错误意见取决于客观价值的真理-即真理普遍优于错误，真理是普遍的客观。
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### 前提5：客观存在的方法是区分事实和谬误
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+如果你不同意我的看法，但我告诉你，你必须同意我的观点，因为我永远是对的，你不会满足于我的论点的严谨性。如果你提供了很好的理由说明我错了，但我只是不断重复说我是对的，因为我总是对的，我们的互动很少被归类为辩论。 
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+当我提供某种客观的标准来判断真理和谬误的时候，我就接受了真理不仅仅是一个意见的问题。
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+这并不一定意味着我的客观标准是合乎逻辑的，例如，我可以引用你的宗教文本。然而，即使我这样做了，我仍然承认，真理是独立于个人断言而来的，客观的方法论存在将真理与谬误分开。
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### 前提6：真理胜于谬误
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+如果我告诉你这个世界是平坦的，并且你回答说世界不是平坦的，而是圆的，那么你隐含地接受真理和虚假都客观存在的公理，而且真理比虚假更好。
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+如果我告诉你我喜欢巧克力冰淇淋，你告诉我你喜欢香草，就不可能证明香草比巧克力更好。当你根据客观事实纠正我时，你是在接受客观事实，客观真理比主观错误更普遍。
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### 前提7：和平辩论是解决争端的最好办法
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+如果我告诉你这个世界是平坦的，你拿出一把枪射击我，这几乎不会成为一个富有成效的辩论的例子。诚然，我们的不同意见将会“解决” - 但是因为我们中只有一个人被留在最后。 
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+如果你事先告诉我，你会通过射击我来解决任何分歧，我不太可能与你进行辩论。因此，很明显，任何辩论都依赖于一个隐含的前提，即证据、理性、真理和客观性是解决个人之间争端的普遍可取的方法。主张通过使用暴力解决意见分歧是完全不合逻辑的。暴力价值的唯一一致论点是使用暴力。[^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+从本质上讲，辩论需要一种客观的方法论，通过有意义的语言来追求普遍真理，而这是客观上优于个人错误的。
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+这种对普遍真理的偏好不是度数的偏好，而是好的。将行车时间缩短一半的捷径是较长路线的两倍 - 但这两种方式都比驾驶完全错误的方向更适合。
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+同样的道理，真理并不仅仅是“比错误更好”，它是无限可取的，或者是必需的。
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### Premise 8: 前提8：个人对自己的行为负责
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+如果我认为人类对他们的行为没有责任，我就陷入了一个悖论，那就是我是否对我的论点负责，还有你是否对你的回应负责。 
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+如果我的论点是人类对自己的行为不负责，那么我对我的论点不负责任，你也不必对你的回答负责。然而，如果我认为你对你的回答不负责，那么提出一个论点就没有什么意义了，这和用电视机争论完全一样。[^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+因此，从根本上讲，如果我告诉你，你对自己的行为没有责任，我告诉你，相信优先是不可能的，因为如果你无法控制自己的行为，你就不能选择首选状态，即真相而非虚假。因此，这个论点，就像上面的论点一样，自毁。
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]：记住这个特定的前提是很有用的，因为它在以后会非常重要。
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]：当然，责任问题当然与自由意志和决定论的问题密切相关，这将是另一本书的主题。
+
