@@ -103,7 +103,7 @@ Kung saan ang Karapatan ng Lesensya ng Sui Generis Database mga karapatan ay mai
 
 a. para sa pag-iwas sa pagdududa. eksyon 2(a)(1) nagbibigay saiyo ng karapatan na kunin, gamitin, magparami at ibahagi ang lahat o ang malaking bahagi ng mga nilalaman ng database para sa NonCommercial lamang na hangarin at nakalaan na hindi mo maaring ibahagi ang Materyal;
 
-b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
+b. kapag isinama mo lahat o ang isang matibay na bahagi ng mga nilalaman ng database sa kung saan ang database na meron ka sa Sui Generis Database Rights, Kung saan ang database na meron ka ng Sui Generis Database Rights (ngunit hindi ang indibidwal na nilalaman nito) na Hango sa Materyal; at
 
 c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
