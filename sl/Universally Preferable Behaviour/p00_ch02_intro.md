@@ -94,50 +94,52 @@ Velike resnice se vedno dosežejo z malo resnicami.
 
 Svet pade, ker pada skala.
 
-
 ### "Srednje resnice" in izkoriščanje
 
 Biološko, parazitizem je popolnoma preživela strategija za preživetje mnogih bitij. Če ni etičnih norm, je kradenje energije in virov drugih bitij popolnoma smiselno. Na splošno je najbolj trajnostna in stabilna oblika parazitizma * simbioza * ali obojestransko koristen soobstoj. Tako bakterije, ki nasijo v črevesje, pomagajo preživeti tako, da nam pomagajo prebaviti našo hrano.
 
 Vendar pa se virus, ki nas neprestano izčrpava in komaj ostanemo  živi, teško rečemo, da je koristino kot "obojestransko koristen". Če razmišljamo o naši dolgi in mračni zgodovini nesreče, stradanja, vojne, bolezni in revščine - in ga primerjamo s presenetljivimi materialnimi uspehi modernosti - je jasno, da je oblika parazitizma tiranizirala naše misli in zmožnosti tisočletja. Zdaj, ko je zadnjih nekaj sto let pokazala moč in ustvarjalnost človeškega duha, si lahko ogledamo našo vrsto kot organizem, ki je pretresel groznega parazita in se iztegnil iz neskončne plavajoče smrtne postelje, da bi izvedel najbolj presenetljive podvige gimnastike.
 
+Ko se zdravimo zaradi bolezni, se počutimo bolje, vendar bolezen ne. Z vidika virusa črnih koz je cepivo proti črnim kozam genocidno.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Na enak način paraziti, ki zadavijo človeštvo, vidijo svobodo večine z grozo. Ker jih parazitizem osvobodi zahtev resničnosti - da zaslužijo vsakodnevni kruh - neizogibno gledajo na svobodo mase kot obliko zasužnjevanja zase. Tako bi kmet gledal "osvoboditev" svoje živine kot popolno katastrofo…
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Vzpostavljanje resnice nujno omejuje domišljijo. Omejitev fantazije nujno omejuje izkoriščanje. Če te lahko prepričam, da sem živi človek, Bog, in da mi Bog, ki si me rodil, želi, da mi daš deset odstotkov svojega dohodka ali pa boš kaznovan za večnost, potem postanem preveč bogat. Jaz sem parazit iluzij in odvisen je od teh iluzij za mojo preživetje, kot je zagotovo, ker se gliva opira na toploto, vlažnost in temo.
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Tisti, ki uporabljajo moralne fantazije za izkoriščanje človeštva, so se z zobmi in žebletmi vedno borili proti tistim, ki ogrožajo preživljanje z odkrivanjem in razširjanjem resnice.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Poznamo primer mafije, ki ogroža potencialne tekmovalce s pohabljanjem in smrtjo ali spektakel verskih sektov, ki se napadajo drug na drugega, ali ena vlada napada druge.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+Ko filozofi razkrijejo lažne podatke, ki so potrebni za nadaljnje izkoriščanje, pa idealno ne iščejo sebe kot tekmeci. Ne želijo * nadomestiti * mafije ali cerkve - želijo jih popolnoma odpraviti.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Sodobnejša analogija bi bila odnos med državo, lobisti in davkoplačevalci. Lobisti bodo močno napadli druge lobiste, ki tekmujejo za iste davčne dolarje. Vendar pa si predstavljajte, kako bi se * vsi * lobisti združili, da bi napadli vsakogar, ki je predlagal odpravo države kot institucije.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Paraziti se bodo agresivno tekmovali med seboj za omejene vire gostitelja - vendar je v njihovem najboljšem interesu združiti skupaj, da napadajo vse, kar grozi, da bi odstranili gostitelja.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+Na ta način se v vsaki družbi, kjer sta država in cerkev nominalno ločeni, vsaka entiteta tekmuje za pristaše. Če se cerkev začne izgubljati, bo država agresivno zaposlovala domoljubje - kar bi povzročilo sekularni socializem. Kjer se država začne znebiti tleh, bo cerkev agresivno pritegnila pristaše - kar bo povzročilo verski fundamentalizem, pogosto z odtenki libertarijanstva.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Vendar pa so filozofi, ki nasprotujejo * vsem * intelektualnim napakam, zaprti sovražniki vseh parazitov, ki hranijo iluzije. "Velike resnice" fizike odpravljajo potrebo po nadnaravnih sredstvih in onemogočajo čudeže. Razlagalna moč znanosti v celoti izpodriva religiozne fikcije, ki maskerejo kot znanje o fizičnem svetu.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths”, which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
 
-### Effective Parasitism
+Znanstvena metoda zahteva, da se vsako tezo podpira z dokazi in racionalnostjo. Ker ni dokazov za bogove - in samo- *ideja * bogov je navznoter samo-protislovna - teza "bogovi obstajajo" ne morejo stati. Neizogibno je, da verski paraziti poskušajo braniti svojo tezo, tako da poskušajo razdeliti realnost v "dve kraljesti" - znanstveni in duhovni. Vendar pa ni nobenega dokaza o obstoju tega "duhovnega" območja v sedanjosti, temveč za vzporedni ves Platonovih "Obrazcev" pred dvatisočpetsto leti.
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Tako vzpostavitev dosledne in univerzalne resnice nujno omejuje in uničuje izkoriščevalski potencial iluzije. Zlasti so "velike resnice", ki so univerzalne in dosledne, odvečne in smešne "srednje resnice" - ki so dejansko izkoriščene fantazije. Poznamo "srednjo resnico" vere; nekaj drugih bo preučenih in razkritih tukaj, od katerih lahko nekateri šokirajo.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+### Učinkovit parazitizem
 
-This is an example of a “little truth”, which is: “Stealing from me is wrong”.
+Najbolj učinkoviti paraziti - ali virusi - so tisti, ki zavarujejo telo v ravnodušnost. Naši imunski sistemi so zasnovani tako, da napadajo tuje snovi v telesu, jih izolirajo in ubijajo. Bojimo se HIV in raka, zlasti zato, ker lahko obidejo naše imunske sisteme. Isto tehniko uporabljajo intelektualni paraziti, da onemogočijo obrambne sisteme tistih, ki so jim žrtve.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Če te tujec napade v uličico in zahteva svoj denar, vas bo zgrožen in grozljiv. Lahko se boriš nazaj, lahko tečeš ali pa mu daš denarnico, vendar bi ostala šokirana, jezna in prestrašena zaradi interakcije. Ko boste ponovili zgodbo, bi to povedali na način, ki je okrepil osnovno in grdo kršitev vaših osebnih in premoženjskih pravic. Drugi bi čutili sočutje za vaše težave in bi se izognili omenjeni ulici v prihodnosti.
 
-This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong”.
 
-This book will focus on exposing and destroying these false “middle truths”. I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+To je primer "majhne resnice", ki je: "Kraja od mene je narobe".
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Toda, ko vam vladni agent pošlje zahtevo, da mu plačate denar, se boste morda počutili do neke mere ponižani, vendar ne bi povezali zgodbe z isto grozo in ogorčenjem pri svojih prijateljih.
+
+To je primer "srednje resnice", ki ovira "veliko resnico", kar pomeni, da je "kraja napačno".
+
+Ta knjiga se bo osredotočila na izpostavljanje in uničevanje teh lažnih "srednjih resnic". Menim, da človeštvo trpi neskončno pod tiranijo lažnih etičnih "srednjih resnic", ki upravičujejo uničujoče svetovne poglede verskega praznoverja, sekularnega despotizma in kulta družine.
+
+Moja teza v tej knjigi je, da v etiki, kot v vsaki drugi intelektualni disciplini, velike resnice izhajajo neposredno iz majhnih resnic. Dezorientirana megla "srednjih resnic" je peklenska pot za krmarjenje, vendar se je vredno boriti, ker je edina temeljna alternativa resnici izkoriščanje, uničenje - in, neizogibno, prezgodaj umiranje milijonov.
