@@ -46,117 +46,117 @@ a.***magbigay ng lisensya.***
 
 1. Ang paksa sa mga termino at kondisyon para dito sa publikong lesensya, ang tagapaglesensya ay pagkakalooban ka sa buong mundo, Libreng royalidad, di-sublicensable, hindi eksklusibo, hindi mababawi na ehersisyo sa Karapatan ng Lesensya ng Materyal na Lesensyang ito:
     
-        A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
+        A. muling paghayag at pag bahagi ng Materyal na Lesensya, sa kabuuang parte, para sa layunin lamang ng NonCommercial: at
         
-        B. produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
+        B: lumikha at muling paghayag, ngunit hndi maaaring ibahagi, Inangkop na materyal para sa NonCommercial ng mga layunin lamang.
         
 
 2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
 3. **Term.** The term of this Public License is specified in Section 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. Para sa mga layunin nga Lisensyang Pampubliko nito, simpleng gumawa ng mga modipikasyon na naka-awtorisa sa pamamagitan ng ika-2(a)(4) na Seksyon na hinding-hindi nagpoprodyus ng Materyal na Kinukupkop.
+4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
     
-    1. **Pag-downstream sa mga tumatanggap.**
+    1. **Downstream recipients.**
         
-        A. **Alok mula sa Tagapagpapalisensiya - Materyal na Lisensiyado.** Bawat resipyent sa Materyal na Lisensiyado ay awtomatikong nakakatanggap ng isang alok mula sa Tagapagpapalisensiya para makagamit sa mga Karapatan sa Nakalisensiya na napapabilang sa mga termino at mga kondisyon ng Lisensiyang Pampubliko na ito.
+        A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
         
-        B. **Walang mga restriksyon na pang-downstream.** Ikaw ay maaaring hindi mag-offer o mag-lapat ng kahit anumang adisyonal o magkakaibang mga termino o mga kondisyon dito, o mag-aplay sa kahit anumang mga Hakbang na Pangteknolohikal na Epektibo, ang Materyal na Lisensiyado sa paggawa ng mga restrik na pagsasanay sa mga Karapatang Nakalisensiyado sa numang resipyent sa Materyal na Lisensiyado.
+        B. **No downstream restrictions.** You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
     
-    2. **Walang Pagkakaendorso.**Walang ni isang mga konstityut sa Lisensiyang Pampubliko o maaaring maka-construe bilang isang permisyon para maka-asert o maka-implay na Ikaw ay, o na Iyong paggamit sa Materyal na Lisensiyado, naka-konektado sa, o naka-sponsor, inendorso, gina-grant sa opisyal na istatus, ang Tagapagpapalisensya o iba pang mga nakalaan sa atribyusyong natanggap na naprovide sa ika-3(a)(1)(A)(i) na Seksyon.
+    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
-b. ***Iba pang mga karapatan.***
+b. ***Other rights.***
 
-1. Mga karapatang moral, kagaya ng sa karapatan sa integridad, ay hindi lisensiyado na napapabilang aa Lisensiyang Pampubliko, o publisidad, pribasiya, at/o iba pang kaparehas na karapatang pang-personalidad; gayonpaman, sa ekstent na posible, ang Tagapagpapalisensya ay nagwi-waive at/o pumapayag na hindi i-asert ang anumang mga karapatan na hinhawak ng Tagapagpapalisensiya sa ekstent na limitado na kinakailangan para mapayagan Ikaw na maka-gamit sa mga Karapatan ng Lisensiyado, ngunit kung hindi ay.
+1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
-2. Mga Karapatan sa patent at trademark ay hindi lisensiyado sa Lisensiyang Pampublikong ito.
+2. Patent and trademark rights are not licensed under this Public License.
 
-3. Sa ekstent na posible, ang Tagapagpapalisensya ay nagwi-waive sa anumang karapatan para maka-kolekta ng mga royaltiya mula sa Iyo para maka-eksersays sa mga Karapatan ng Lisensiyado, mapa-direkta o sa pamamagitan ng nangongolektang pamamamayan na nappabilang da ano mang boluntaryong o nawi-waive na istatutorya o pwersahang iskema sa paglilisensya. Sa lahat ng mga kaso ang Tagapagpapalisensya ay nagre-reserba ng ekpres sa anumang karapatan para maka-kolekta kagaya ng mga royaltiya, kasama na kung kailan ang Materyal na Losensiyado ay nagamit sa iba pang mga layunin na HindiKomersiyal.
+3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
-### Ika-3 na Seksyon - Mga Kondisyon sa Lisensya.
+### Section 3 – License Conditions.
 
-Ikaw ay mag-eksersays sa mga Karapatan ng Lisensiyado ay ginawang subjek sa pag-ekspres para sa mga sumusunod na kondisyon.
+Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-a. ***Atribyusiyon.***
+a. ***Attribution.***
 
-1. Kung Ikaw ay Mag-Share sa Materyal na Lisensyado, kailangan Mong:
+1. If You Share the Licensed Material, You must:
     
-    A. I-retain ang mga sumusunod kung ito ay sinusuplayan ng Tagapagpapalisensya ng Materyal na Lisensyado:
+    A. retain the following if it is supplied by the Licensor with the Licensed Material:
     
-         i. identipikasyon ng (mga) gumagawa sa Materyal na Lisensyado at anumang ibang nakalaan para makatanggap ng atribyusiyon, sa anumang rasonableng pamamaraan na nai-rekwest ng Tagapagpapalisensya (kasama na ang pseudonym kung inilaan);
+         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
-        ii. isang paalala sa kapyrayt;
+         ii. a copyright notice;
         
-        iii. isang paalala na nagre-refer sa Lisensiyang Pampublikong na ito;
+         iii. a notice that refers to this Public License;
         
-        iv. isang paalala na nagre-refer sa disclaimer ng mga warrantiya;
+         iv. a notice that refers to the disclaimer of warranties;
         
-        v. isang URI o hyperlink sa Materyal na Lisensyado para sa ekstent ng rasonableng pagpa-prakris;
-        
-    
-    B. iindika kung Ikaw ay nakapag-modifika sa Materyal na Lisensyado at nag-retain ng indikasyon sa anumang mga nakaraang mga modipikasyon; at
-    
-    C. i-indika ang Materyal na Lisensyado ay naka-lisensya na napapabilang sa Lisensyang Pampubliko, at isama na ang teksto ng, o ang URI o hyperlink sa, Lisensyang Pampubliko na ito.
-    
-        Para sa pag-iiwas ng pag-aalinlangan, Ikaw ay walang permisyon sa Lisensyang Pampublikong ito na makapag-Share sa Materyal na Kinupkop.
+         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
         
     
-    1. Ikaw ay maaaring masisiyagan sa mga kondisyon sa ika-3(a)(1) na Seksyon sa anumang rasonableng pamamaraan basi sa medyum, mga pamamaraan, at konteksto na kung saan Ikaw ay Nag-Share sa Mayeryal na Lisensyado. Halimbawa, ito ay maaaring rasonable na makapagsisiya sa mga kondisyon sa pamamagitan ng pagpo-provide ng isang URL o hyperlink sa pinagkukunan na may kasamang impormasyong kinakailangan.
+    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
     
-    2. Kung ito ay nai-rekwest ng Tagapagpapalisensya, Ikaw ay dapat magtanggal ng anumang impormasyon na ni-rekwayr sa ika-3(a)(1)(A) na Seksyon sa ekstent ng pagpapapraktis na rasonable.
-
-### Ika-4 na Seksyon - Mga Karapatan sa Database na Sui Generis.
-
-Kung saan ang mga Karapatan sa Lisensyado ay kasama ang mga Karapatan sa Database na Sui Generies na na-aplay sa Iyong paggamit sa Materyal na Lisensyado:
-
-a. para sa pag-iiwas ng pag-aalinlangan, ang ika-2(a)(1) na Seksyon ay nag-grant sa Iyo ng karapatang makapag-ekstrak, makagamit muli, makapag-reprodyus, at maka-Bahagi sa lahat o isang porsyon na substansyal sa mga nilalaman sa database para sa mga layuning HindiKomersyal lamang at sa pagpapalagay na hindi Mo nai-Share ang Materyal na Kinupkop;
-
-b. kung Ikaw ay nagsama sa lahat o mga porsyon na substansiyal sa mga nilalaman ng database sa database na kung saan Ikaw ay mayroong Mga Karapayan sa Database na Sui Generis, kung kayat ang database na kung saan Ikaw ay mayroong Mga Karapatan sa Database na Sui Generis (ngunit hindi aa mga indibidwal na mga kontento nito) ay isang Materyal na Kinupkop; at
-
-c. Kailangan mong i-komplay ang mga kondisyon sa ika-3(a) na Seksyon kung Ikaw ay Nag-share sa lahat o porsyong substansiyal sa mga nilalaman ng database.
-
-Para sa pag-iiwas ng pag-aalinlangan, ang ika-4 na Seksyon ay nagsusuplementa at hindi pumapalit sa Iyong mga obligasyon sa Lisensyang Pampublikong ito na kung saan kasama ang ibang Kapyrayt at Mga Karapatang Kapareha sa Mga Karapatan ng Nakalisensya.
-
-### Ika-5 na Seksyon - Disclaimer sa mga Warantiya at Limitasyon sa Layabilidad.
-
-a. **Maliban nalang kung ina-undertake ng Tagapagpapalisensya ng magkahiwalay, sa posibleng ekstent, ang Tagapagpapalisensiya ay nag-aalok ng Materyal na Lisensyado bilang-ang at bilang-magagamit, at hindi gumagawa ng mga representasyon o mga warantiya sa anumang klase na nagkokonsern sa Materyal na Lisensiyado, kahit ekspres, naka-imolay, istatutorya, o iba pa. Kasama na dito ang, walang limitasyon, mga warantiya ng titulo, merkantabilidad, pagkaka-angkop para sa isang partikur na layinin, hindi-infringement, akyurasiya, o ang presensiya o absensiya ng mgakamalin, kahit o hindi kilala o nadidiskubre. Kung saan ang mga disklimer ng mga warantiya ay hindi pinapayagan sa buong o sa parteng, ang disklimer na ito ay maaaring hindi makaka-aplay sa Iyo.**
-
-b. **Sa ekstentong posible, sa walang pangyayari ang Tagapagpapalisensya ay maaaring maging layable sa Iyo sa anumang teoryang legal (kasama na ang, walang limitasyon, pagpapakabaya) o kaya ay para sa anumang direktang, espesyal, hindi direkta, insidental, konsekwensyal, punitibo, eksemplaryo, o ibang mga lugi, mga paggugol, mga gastos, o mga sira na lumitaw sa Lisensyang Pampublikong ito o ang paggamit sa Materyal na Lisensyado, kahit na kung ang Tagapagpapalisensya ay inabisuhan sa posibilidad kagaya ng mga pagkakalugi, mga pagugol, mga gastos o mga pagkasira. Kung saan ang isang limitasyon ng layabilidad ay pinapayagan ng buo o sa parte, ang limitasyong ito ay hindi mai-aplay sa Iyo.**
-
-c. Sa disklimer ng mga warantiya at limitasyon ng layabilidad na naipamigay sa itaas ay nararapat na mai-interpreta sa pamamaraang na, sa ekstentong posible, sa pinakamalapit na tinatanyang isang ganap na disklimer at waiver sa lahat ng mga layabilidad.
-
-### Ika-6 na Seksyon - Termino at Terminasyon.
-
-a. Ang Lisensiyang Pampublikong ito ay nag-a-aplay para sa termino ng Kapyrayt at Mga Karapatan sa Kapareha na lisensyado dito. Subalit, kung Ikaw ay nabigo sa pag-komplay sa Lisensyang Pampublikong ito, kung gayon ang Iyong mga karapatan ay awtomatikong mate-termina sa Lisensiyang Pampublikong ito.
-
-b. Kung saan ang Iyong karapatan sa paggamit sa Materyal na Lisensyado ay nai-termineyt sa ilalim ng ika-6(a) na Seksyon, ito ay nagsasabing muli:
-
-1. sa petsang ito ang paglapastangan ay awtomatikong nalunasan, ipagpalagay na sa loob ng 30 na mga araw ng Iyong pagkadiskubre sa pagkakalapastangan ito ay nalunasan; o
-
-2. sa sandaling na-ekpres ang pagkakasabing muli ng Tagapagpapalisensya.
+    C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
     
-    Para sa pag-iiwas sa pagdududa, ang ika-6(b) na Seksyon na ito ay hindi nakakaapekto sa anumang karapatan ng Tapagpapalisensya na maaring makahanap ng mga remediya para sa Iyong mga pagsuway sa Lisensiyang Pampublikong ito.
+        For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
+        
+    
+    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    
+    2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
-c. Para sa pag-iiwas ng pagdadalawang-isip, ang Tagapagpapalisensya ay maaaring makapag-alok ng Materyal na Lisensyado sa ilalim ng mga termino nakahiwalay o mga kondisyon o ipatigil ang pagdidistribyut sa Materyal na Lisensyado kahit ano mang oras; ganunpaman, sa pagsagawa nito ay hindi makakapag-termineyt sa Lisensyang Pampublikong ito.
+### Section 4 – Sui Generis Database Rights.
 
-d. Ang ika-1, 5, 6, 7, at 8 na mga Seksyon ay nakaligtas sa terminasyon ng Lisensyang Pampublikong ito.
+Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
-### Ika-7 na Seksyon - Iba Pang Mga Termino at Mga Kondisyon.
+a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
 
-a. Ang Tagapagpapalisensya ay hindi nararapat na maisaklaw sa anumang adisyonal o mga terminong magkakaiba o mga kondisyon na nakomunika Mo maliban nalang sa pagpayag na naekspres.
+b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
 
-b. Anumang mga pagkakaayos, mga pagkakaintindihan, o mga kasunduan ukol sa Materyal na Lisensiyado na hindi naisabi dito ay hiwalay at independente mula sa mga termino at kondisyon sa Lisensiyang Pampubliko na ito.
+c. You must comply with the conditions in Section 3(a) if You Share all or a substantial portion of the contents of the database.
 
-### Ika-8 na Seksyon - Interpretasyon.
+For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
-a. Para sa pag-iwas ng pagdadalawang-isip, ang Lisensiyang Pampublikong ito ay hinding-hindi, at dapat hindi na nai-interpret sa, pag-redyus ng limit, pag-restrik, o pagpapataw ng mga kondisyon sa anumang paggamit sa Materyal na Lisensyado na maaaring magawa ng makatarungan na walang permisyon sa ilalim ng Lisensiyang Pampublikong ito.
+### Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
-b. Sa ekstentong posible, kung anumang probisyon sa Lisensiyang Pampublikong ito ay tinuturing na hindi na maiisakatuparan, ito ay maaaring ma-awtomatikong mapagreporma sa ekstentong minimo na kinakailangan nang sa ganin ito ay magiging maiisakatapuran. Kung ang probisyon ay hindi maaaring mareporma, ito ay dapat nang putulin mula sa Lisensiyang Pampublikong ito na hindi nakaka-apekto sa pagkaka-sakatuparan sa natitirang mga termino at mga kondisyon.
+a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
-c. Walang termino o kondisyon sa Lisensiyang Pampublikong ito na mai-i-waive at walang pagpalya sa pagko-komplay na kinokonsente maliban nalang ko ito ay nagpakasunduan na inekspres ng Tagapagpapalisensiya.
+b. **To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.**
 
-d. Walang bagay sa Lisensiyang Pampublikong ito ay nagkokonstityut o maaaring mapag-interpret bilang isang limistasyon sa, o waiver ng, anumang mga prebilihiyo at mga immunidad na maa-aplay sa Tagapagpapalisensiya o sa Iyo, kasama mula sa mga prosesong legal ng anumang hurisdjkasyon o awtoridad.
+c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
-> Ang Creative Common ay hindi isang party sa mga lisensiyang pampublikong nito. Gayunpaman, ang Creative Commons ay maaaring makapaghalal para mai-aplay ang isa sa kanilang mga lisensiyang pampublikong ito upang ang materyal na ipu-publish at sa mga instansyang iyon na makokonsiderang bilang ang "Tagapagpapalisensiya." Maliban nalang yung para sa layuning limitado ang pag-iindika sa material na naipabahagi sa ilalim ng isang lisensiyang pampubliko ng Creative Commons o kaya'y pinermisohan ng nai-publish na mga polisiya ng Creative Commons sa [creativecommons.org/policies](http://creativecommons.org/policies), ang Creative Commons ay hinding-hindi nag-a-awtorisa sa paggamit ng "Creative Commons" na trademark o anumang ibang trademark o logo ng Creative Commons na walang prayor na konsent nito kasama ang, walang limitasyon, sa koneksyon ng anumang mga hindi na-awtorisang pagmo-modipika sa anumang mga lisensiyang pampubliko nito o anumang ibang pagkakaayos, mga pagkakaintindihan, o mga kasunduan na nakaukol sa paggamit sa materyal na lisensiyado. Para sa pag-iwas ng pagdadalawang-isip, ang talatang ito ay hindi pumoporma ng parte sa mga lisensyang pampubliko.
+### Section 6 – Term and Termination.
+
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+
+b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+
+1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+
+2. upon express reinstatement by the Licensor.
+    
+    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+
+c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+
+d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+
+### Section 7 – Other Terms and Conditions.
+
+a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+
+b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+
+### Section 8 – Interpretation.
+
+a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+
+b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+
+c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+
+d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+
+> Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 > 
-> Ang Creative Commons ay maaaring mai-kontak sa creativecommons.org
+> Creative Commons may be contacted at creativecommons.org
