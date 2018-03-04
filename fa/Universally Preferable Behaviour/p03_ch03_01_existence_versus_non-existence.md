@@ -96,72 +96,72 @@
 
 می دانیم که از نظر تجربی غلط است زیرا *هیچ قرارداد اجتماعی وجود ندارد*. نه شما و نه من ، *هرگز* سندی را امضا نکرده اید که به صورت داوطلبانه از در آمد خود، مالیات بپردازید- ما به سادگی در نظامی به دنیا آمده ایم که پول ما را با اسلحه از ما می گیرد.
 
-### The Gun In The Room
+### تفنگ در اتاق
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+بسیاری از مردم استدلال می کنند که مالیات به زور اسلحه از آنها گرفته نمی شود و مردم آن را به صورت داوطلبانه پرداخت می کنند. برای مثال، من هرگز توسط یک مامور جمع کننده ی مالیات یا پلیس با اسلحه تحدید نشده ام اما برای سالهای سال، مالیات پرداخته ام.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+این ممکن است درست باشد اما کاملا نا مربوط است. اگر من به زنی بگویم که اگر با من رابطه جنسی نداشته باشد، فرزندان او را خواهم کشت، و او خودش را برده ی جنس من کند، ما به روشنی متوجه می شویم که یک عمل غیر اخلاقی صورت گرفته است- هرچند که من از هیچ اسلحه ای در تهدید خود استفاده نکرده ام. واضح است که زن از من اطاعت می کند زیرا می ترسد اگر این کار را نکند، من تهدیدم را عملی کنم. اگر من او را تهدید کنم که لپراگون خانگی ام، در صورتی که او با من رابطه جنسی برقرار نکند، فرزندانش را خواهد کشت، او احتمالا خیلی اذیت خواهد شد اما از تهدید من به هیچ وجه نخواهد ترسید زیرا این برای لپراگون خانگی من غیرممکن است که فرزندان خانگی او را بکشد. یا، اگر من بمیرم، و در وصیت نامه ام بنویسم که اگر این زن با من رابطه جنسی برقرار نمی کرد، می خواستم فرزندان او را بکشم، واضح است که او بیشتر احساس تسکین می کند تا ترس. زیرا من قاعدتا نمی توانم از درون قبر، تهدید خود را عملی کنم. بنابراین، ما مالیات می پردازیم  زیرا می دانیم اگر این کار را نکنیم، احتمال برکناری نمایندگان دولت ، بسیار زیاد است. اگر من مالیات خویش را نپردازم، من یک اخطار دریافت می کنم. پس اخطار دوم، بعد تماس تلفنی، بعد یک دعوت نامه به دادگاه – و اگر در دادگاه حاضر نشوم و یا مالیات خود را پرداخت نکنم، و جریمه و سود را انباشته کنم ، پلیس ها با اسلحه می آید تا مرا به زندان ببرند. اگر در برابر آن پلیس ها مقاومت کنم، آنها به من شلیک خواهند کرد.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+گفتن اینکه کار اجباری با کار داوطلبانه برابر است، کاملا غیرمنطقی و خود تضادی است. گفتن اینکه شروع استفاده از نیرو ، به طور کامل برابر است با عدم شروع نیرو، مانند این است که بگویم : بالا، پایین است، مشکی ،سفید است و حقیقت، دروغ است.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+بدون "ناحیه ی تهی" این تخیلات فاسد نمی توانند پایدار باشند.
 
-The “null zone” is the lair of the beast we hunt.
+"ناحیه ی تهی" آشیانه ی حیوانی است که ما شکار می کنیم.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+همانطور که می توانیم ببینیم، می دانیم که شخصا، دزدی کردن غلط است؛ ما مشکلات بسیار کمی را ممنوعیت انتزاعی و منطقی سرقت داریم، همانطور که در بالا کار کردیم- اما هنوز، این "ناحیه تهی" یا جهان جایگزین وجود که در آن چنین فرضیه هایی می توانند بدون هیچ سوال یا نگرانی پذیرفته شوند.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+براساس چهارچوب  UPBاین برای من و شما اشتباه است که دزدی کنیم. با این حال، در این "ناحیه تهی" برای بقیه، نه تنها این کار مجاز است بلکه کاملا *اخلاقی* می باشد. ما *هرگز نباید* دزدی کنیم- آنها *حتما باید* دزدی کنند. این جنون اخلاقی است!
 
-### Policemen
+### پلیس
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+بیایید دوست خوبمان، باب را از خانه ی کوچکش، برای سنجش نظریه ی اخلاق برای شغل او به عنوان یک پلیس، دور کنیم.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+واضح است هنگامی که باب هر صبح در خانه اش بیدار می شود، قبل از شیفتش، نمی تواند به خانه ی همسایه اش برود و با تهدید اسلحه از او پول تقاضا کند، هیچ اهمیتی ندارد که چه کسی به او می گوید که این اشکالی ندارد.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+هنگامی که باب صبحانه اش را خورد، نیز نمی تواند به خانه ی همسایه اش حمله کند و پول بگیرد. هنگامی که  به سمت محل کارش رانندگی می کند،-هرچند که لباس یونیفرم خود را پوشیده باشد- او هنوز وارد محل کارش نشده است،و بنابراین از سایر شهروندان، حق بیشتری ندارد. با این حال، هنگامی که او به محل کارش وارد شد، اگر یک ستون آتش از آسمان به زمین بیاید، او این توانایی شگفت انگیز را بدست می آورد که به همسایه هایش حمله کند و پول آنها را بگیرد.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+بطور غریب، این تنها مشخصه ی او است که به طور کامل خود را تغییر داده است. او نمی تواند پرواز کند، نمی تواند بدن خود را تغییر دهد، نمی تواند در هضم بیلبرینگ موفق شود و یا نمی تواند در یک جهنم زندگی کند. نمی تواند در یک ساعت، یک هزار کیلومتر بدود و نمی تواند از بین یک دیوار آجری راه برود. او مطلقا، کاملا و به طور کلی *همان مردی است که بود**قبل از** اینکه وارد محل کاررش شود.* -اگرچه اکنون، او به طور کامل با قوانین اخلاقی مخالف است.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+عجیب تر اینکه، اگر من یک "پلیس" نباشم، اما باب را تا محل کارش تعقیب کنم، و دقیقا هر آنچه را که انجام می دهد، انجام دهم،_یک لباس فرم بپوشم، تا ایستگاه پلیس راه بروم و یک مقوای نازک را به ساعت ببندم ، من به طور کامل غیر اخلاقی هستم، اگرچه اعمال باب، کاملا*اخلاقی* است.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+این چه معنایی دارد؟ چگونه می توانیم این رمز و راز غیرقابل نفوذ را به طور قابل ملاحظه ای حل کنیم؟
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+واقعیت ساده این است که این "نمی تواند" حل شود، زیرا کاملا از بین رفته است. واقعیت این است که در این "دنیای مخالف" ، جنون اخلاقی ، کاملا غیرمنطقی است- نه اینکه کاملا به صورت استشمار خشونت آمیز در نظر گرفته شود- اما، این واضح است که باید در یک غار بی پایان از "اراده گرایی" دفن شود.
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+به ما گفته شده است که باب را "می خواهیم" تا پول ما را بگیرد- که به طور کامل با این واقعیت مخالف است که باب را در حالی که اسلحه را در ورودی به سمت ما گرفته نشان می دهد. با این منطق، من می توانم در حال دزدی  پول از همسایه هایم در خیابان بالا و پایین بروم و سپس ادعا کنم که کاملا شوکه شده بودم وقتی که دستگیر شدم:
 
-“They *want* me to take their money!”
+"آنها مرا می خواهند تا پولشان را بگیرم!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"اما چرا آنها را وقتی که پولشان را به تو نمی دادند، تهدید به شلیک گلوله می کردی؟"
 
-“Because they *owe* me their money!”
+"زیرا آنها پولشان را به من *بدهکار* بودند!"
 
-“I thought you said that they want to give you their money.”
+"من فکر کردم که میگویی آنها می خواهند پولشان را به تو بدهند."
 
-“No, no – they owe me. It’s really *my* money!”
+"نه،نه- آنها به من بدهکارند. این ووقعا پول*من* است!"
 
-“On what grounds do they owe you this money?”
+"به چه دلیل آنها به تو بدهکارند؟"
 
-“We have a contract!”
+"ما یک قرارداد داشتیم!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"می توانی این قرارداد را به من نشان بدهی؟ آیا آنها این قرارداد را با میل خودشان امضا کردند؟"
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"این، چنین قراردادی نیست! این یک -قرارداد اجتماعی است... به علاوه – طبق این قرارداد اجتماعی، من به هرحال ، به همه ی اهالی این خیابان بدهکارم- در حقیقت، به همه ی این همسایه های لعنتی! هرکس که از پرداخت پولم سرباز بزند، می تواند به جای دیگری نقل مکان کند!"
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"چگونه می دانی که صاحب این محله هستی؟ آیا اسناد مالکیت داری؟"
 
-“Yes, of course – have a look here!”
+"بله، البته-نگاهی به اینجا بیاندازید!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+"خب، این فقط یک نوشته ی دستی است که نشان می دهد شما صاحب این محله هستید. و یک نوشته مانند امضای شما. متاسفم که باید شما را بازداشت کنیم- این تنها یک قرارداد ساختگی با خودتان است که شما با آن به مردم دیگر با تهدید اسلحه آسیب می رسانید.
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+این کاملا احمقانه و فاسد است که من ادامه دهم و به زن بگویم دارم به تو تجاوز می کنم در حالی که او *می خواهد* با من رابطه جنسی داشته باشد. می توانید تصور کنید که من برای تجاوز در دادگاه محاکمه شوم و در آنجا یک فیلمی از زن، در حال التماس کردن به من برای متوقف کردن کارم باشد، و من چاقویی را بر گلوی او قرار داده باشم، وجود داشته باشد؟ دفاع من از خودم چگونه برداشت می شد اگر من همچنان اصرار داشتم که آن زن ، واقعا خودش *می خواست* با من رابطه جنسی داشته باشد؟
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+در دادگاه، من بخاطر ریاکاری آشکار، فاسد، عصبانی و خود محورم محکوم می شدم و به زندان می افتادم.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+آه، اما در "ناحیه ی تهی" دولت؛ تجاوز، عشق ورزی است. آدم ربائی، دعوت است. رد سرقت، خودخواهی شرور است و اجبار، مهربانی است.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+این همان چیزی است که وقتی می گویم "جهان مخالف*ناحیه تهی*" می کنم. اساسی ترین مرز خوشحالی بشر در سراسر جهان است، منظورم دزدی برای ما اشتباه است؛ دزدی در انتزاع اشتباه است-اما دزدی، به گونه ای در این جهان جایگزین "درست" است و "دولت" نامیده می شود؟
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: بیایید حتی کابوس منطقی مقدار حقیقت موجود در جمله ی "خطاها برابر با حقیقت هستند" را شروع نکنیم.
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: این استدلال ها تمایل دارند که با معلمان ریاضی به خوبی کار نکنند-من هیچگاه ندیدم که دانش آموزی به طور موفقیت آمیزی استدلال کند که جوابی که غلط است، در دنیای دیگری، ممکن است صحیح باشد در نتیجه این نا عدالتی است که این پاسخ را به عنوان پاسخ اشتباه تصحیح کنید.
