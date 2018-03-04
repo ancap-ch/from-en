@@ -59,9 +59,9 @@ a.***magbigay ng lisensya.***
     
     1. **Ang mga tatanggap ng downstream.**
         
-        A. **Offer from the Licensor - Liscensed Material.** Bawat tatanggap ng Lesensyadong Material ay awtomatikong makakatanggap ng mga pagmungkahi mula sa pag sasanay ng karapatan sa tagapaglesensya termino at mga kondisyon ng Pampublikong Lesensya na ito.
+        A. **ang alok galing sa Licensor - Liscensed Material.** Bawat tatanggap ng Lesensyadong Material ay awtomatikong makakatanggap ng mga pagmungkahi mula sa pag sasanay ng karapatan sa tagapaglesensya termino at mga kondisyon ng Pampublikong Lesensya na ito.
         
-        B. **No downstream restrictions.** Maari kang sumangguni o magpataw ng kahit ilan na dagdag o magkaibang tema o kondisyon, o pag-apply ng kahit anong epektibong Teknolohiya na masusukat ito. ang Materyal na Lesensya ay pinag babawal ang pag gawa ng pagsasanay sa Karapatan ng Lesensya mula sa tatanggap ng Materyal na Lesensya.
+        B. **walang mga limitasyon ang downstream.** Maari kang sumangguni o magpataw ng kahit ilan na dagdag o magkaibang tema o kondisyon, o pag-apply ng kahit anong epektibong Teknolohiya na masusukat ito. ang Materyal na Lesensya ay pinag babawal ang pag gawa ng pagsasanay sa Karapatan ng Lesensya mula sa tatanggap ng Materyal na Lesensya.
     
     2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
