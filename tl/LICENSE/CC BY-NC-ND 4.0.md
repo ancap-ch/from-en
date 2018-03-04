@@ -93,7 +93,7 @@ a. ***pagpapalagay.***
         Para sa pag-iwas ng pag-aalinlangan, Wala kang pahintulot na permiso sa ilalim ng Pampublikong Lesensya na ito para Ibahagi sa Naaangkop na Materyal.
         
     
-    1. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+    1. Kailngan na masiyahan ka sa mga kondisyon sa Seksyon 3(a)(1) sa kahit anong resonable na paraan base sa medyum, nangangahulugan, at konteksto kung saan maari mong ibahagi ang Lesensyadong Materyal. Halimbawa, ito ay maaaring resonable para masiyahan sa mga kondisyon sa pamamagitan ng pagbibigay ng URI o hyperlink para sa mapagkukunan kasama ang kinakailangan na impormasyon.
     
     2. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
