@@ -1,6 +1,7 @@
-## Internal Consistency
+## الاتساق الداخلي
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+إذا كنت مهندس معماري، وأقدم خطة لبناء منزل، العقبة الأولى التي يجب التغلب عليها هي ما إذا كان ممكنا أو لا يمكن بناء بيتي على الإطلاق. إذا قدمت خطط رائعة لمنزل شيد تماما من فقاعات الصابون، أنا لن احصل ابدا على المرتب، لأن مثل هذا "المنزل" لا يمكن أبدا أن يقف. 
+
 
 Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
 
