@@ -68,64 +68,64 @@
 
 البته ما می توانیم گزاره ای را ارائه دهیم که والدین نباید از فرزندانشان مراقبت کنند، اما این اصل بسیار متداول است که می بایست یک فرض اخلاقی باشد - این مانند آن است که بگوییم والدین میتوانند مرتکب قتل شوند که سازگار با UPBنمی باشد. و به همین ترتیب تمایز زیست شناختی برای حمایت از یک استثنا نیاز دارد و پدر و مادر شدن، کاملا طبیعت زیست شناختی یک فرد را بازنمیگرداند و برعکس نمیکند.
 
-Parents who starve a child to death are clearly guilty of murder. Children are born into this world in a state of involuntary imprisonment within the family – this does not mean that the family is evil, or corrupt – it is simply a statement of biological fact. Children are by the parents’ choice enslaved to the parents – this form of biological incarceration puts negligent parents in the same moral position as a kidnapper who allows his captive to starve to death, or a nurse who lets her utterly-dependent patients die of thirst.
+والدینی که کودک را از گرسنگی میکشند، به وضوح قاتل هستند. کودکان در حالت غیر داوطلبی و محبوس از طریق خانواده به این دنیا می آیند-این بدان معنا نیست که خانواده بد یا فاسد است- این به سادگی یک حالت از حقیقت زیست شناختی است. کودکان به وسیله انتخاب والدین به والدین تحمیل می شوند - این فرم از محبوس بودن زیست شناختی، والدین فروگذار را در همان موقعیت اخلاقی که یک آدم ربا اجازه میدهد قربانی اش از گرسنگی بمیرد، یا پرستاری که اجازه میدهد بیمارانی که کاملا به او وابسته هستند از تشنگی بمیرند،قرار میدهد.
 
-### "Don't Eat Fish"
+### "ماهی نخورید"
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+وضعیت گزاره اخلاقی "ماهی خوردن بد است." چه خواهد بود؟
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+مشخصا، به نظر میرسد این گزاره حداقل برخی از الزامات یو پی بی را برآورده میکند. به نظر میرسد جهانی، مستقل از زمان و مکان و نسبتا هدفمند است.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+با این حال، به نظر میرسد نامیدن آن به عنوان یک نظریه ی اخلاقی درست به صورت منطقی برای ما مشکل است چرا؟
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+اول از همه، "شر" شامل اعمالی میشود که میشود با استفاده از اجبار از آنها جلوگیری کرد. تجاوز به عنف شر است. بنابراین، من میتوانم با استفاده از اجبار در مقابل کسی که سعی دارد به من تجاوز کند از خود دفاع کنم.
 
-Can I justly shoot someone who eats a piece of fish?
+آیا میتوانم به کسی که قطعه ای ماهی میخورد، شلیک کنم؟
 
-It would seem silly to argue that I can – but why?
+این احمقانه میرسد که بگویم که من میتوانم این کار را بکنم اما چرا؟
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+محدودیت های عینی برای عمومیت این موضوع وجود دارد. برای مثال، ممکن است برخی از مردم به ماهی دسترسی نداشته باشند_ ممکن است آنها صحرا نشین باشند_ درحالی که بقیه در کنار دریاچه ای پر از ماهی زندگی میکند و بدون خوردن ماهی، به سختی از گرسنگی نجات پیدا کنند. با این حال، این نمیتواند کاملا کافی باشد زیرا ما قبلا این حقیقت را پذیرفته ایم که ناتوانی اخته برای تجاوز، گزاره ی اخلاقی " تجاوز به عنف ناپسند است" را نامعتبر نمیکند.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+نه، نکته انحرافی در گزاره اخلاقی" ماهی خوردن بد است"، کلمه ماهی است.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+یک دانشمند نمیتواند اظهار کند که نظریه ی گرانش او تنها برای سنگ های صورتی کاربرد دارد. به دلیل اینکه نظریه ی او درباره ی گرانش است، پس باید برای هر وجودی که جرم دارند، کاربرد داشته باشد.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+به همین ترتیب، در مثال بالا، یو پی بی تنها عمل خوردن را میپذیرد و آنچه که در حال خورده شدن است را رد میکند به همین دلیل چیزی که در حال خورده شدن است یک عمل نیست بلکه چیزی که دارد انجام میگیرد، یک عمل است.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+به همین ترتیب، یک اخلاق گرا نمیتواند به طور قانونی گزاره ی اخلاقی تجاوز به افراد مسن "بد است" را مطرح کند. تجاوز، رفتار است؛ این نسبت به گزاره ی اخلاقی نامربوط است که قربانی مسن باشد یا نه، زیرا تا زمانی که قربانی انسان است، این الزام برای عمومیت، پایدار خواهد ماند. "تو نباید مرتکب سرقت شوی" براساس چهارچوب پو پی بی، یک گزاره اخلاقی معتبر است . "تو نباید شلقم بدزدی" به دلیل اینکه سرقت به مفهوم دارایی مربوط است، نیست و شلقم ها، به عنوان زیرمجموعه ای از دارایی، نمیتواند به صورت مستدل به عنوان اشکال دیگر دارایی تعیین شوند و قوانین دارایی مخصوص به خود را مشخص کنند.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+بنابراین، گزاره ی اخلاقی" خوردن ماهی بد است" . در آموزن عمومیت بخششی، رد میشود زیرا برای تعمیم دادن بیش از حد اختصاصی است. همانند این است که بگوییم نظریه ی من درباره ی گرانش تنها برای سنگ های صورتی کاربرد دارد. اگر نظریه ای درباره ی گرانش است پس باید، برای همه چیز کاربرد داشته باشد. اگر تنها برای سنگ های صورتی به کار برود پس این یک نظریه ی گرانش نیست.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+یو پی بی ، همچنین هرگونه نظریه ی نا معتبری که منجر به مخالفت با احکام اخلاقی برای اعمال یکسان شود، رد میکند. "تهاجم" نمیتواند روزی اخلاقی و روز دیگر غیر اخلاقی باشد. به همین ترتیب میدانیم که "غذا خوردن" نمیتواند روزی اخلاقی و روز دیگر غیر اخلاقی باشد.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+خوردن" یا اخلاقی و یا غیر اخلاقی است و یا از نظر اخلاقی بی طرف است. اگر خوردن غیر اخلاقی است، پس یک مجموعه ی کامل از مشکلات منطقی بوجود می آید که من اکنون کاملا مطمئن هستم که کاملا با آنها آشنا هستیم.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+اگراز سوی دیگر، خوردن "اخلاقی" باشد پس خوردن یک کلم نمیتواند اخلاقی باشد و خوردن ماهی غیر اخلاقی باشد؛ از آنجایی که این یک نقض جهان شمول است، زیرا یک عمل یکسان، هم خوب و هم بد قضاوت میشود.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+به این صورت است که ما متوجه میشویم گزاره "خوردن ماهی بد است" در آزمون یو پی بی رد میشود و به عنوان یک نظریه ی اخلاقی معتبر نیست.
 
-### Animal Rights
+### حقوق حیوانات
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+ما در اینجا وقت کافی نداریم که به بحث کامل درباره ی حقوق حیوانات بپردازیم؛ اما حداقل می توانیم به گزاره اخلاقی ”کشتن ماهی ها بد است. “ بپردازیم.
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+اگر کشتن ماهی ها بد است، در نتیجه یو پی بی اظهار می کند که هرکس یا هر چیزی که ماهی هارا بکشد، بد است. این نه تنها شامل ماهیگیران می شود،بلکه کوسه ها را نیز در برمیگیرد. - به دلیل اینکه کشتن ماهی ها بد است،ما تعریف خود را از ”فاعلان“ اخلاقی گسترش دادیم تا زندگی غیر انسانی را نیز شامل شود.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+واضح است که کوسه ها قادر به جلوگیری از کشتن ماهی ها نیستند؛ زیرا آنها اساسا موجوداتی را که باله دارند، می خورند.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+بنابراین، ما در نهایت با مشکل ”بد ناگزیر“ رو به رو هستیم. اگر کشتن ماهی ها بد است، اما کوسه ها نمی توانند از کشتن آنها دست بردارند، پس کوسه ها ”شهرهای ناگزیر “ هستند. با این حال، همانطور که در بالا توضیح دادیم، جایی که هیچ گزینه ای نباشد،-جایی که ”توانایی ممانعت“ غیر ممکن است- آنجا هیچگونه اخلاقی نمی تواند وجود داشته باشد. به این ترتیب گزاره ی ”کشتن ماهی ها بد است“، تلاش میکند تا یک اخلاق جهانی که شامل شرایط غیر اخلاقی است را تعریف کند، که از نظر منطقی پایدار نیست.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+هم چنین، کلمه ی ”ماهی“ در فرمولاسیون، مشکل ساز باقی می ماند. زیرا برای عمومیت بخشیدن بسیار خاص است. اصطلاح مناسب یو پی بی این است: ”برای مردم، کشتن موجودات زنده بد است. “
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+با این حال، اگر کشتن بد است، ما دوباره با مشکل ”بد ناگزیر“ رو به رو می شویم. هیچ انسانی نمی تواند بدون کشتن موجوداتی مانند ویروس ها، گیاهان و احتمالا جلنوران، زنده باقی بماند. بنابراین، زندگی انسانی به عنوان ”شر“ تعریف می شود. اما اگر زندگی انسانی، به عنوان شر تعریف شود، پس این نمی تواند ”بد“ باشد؛ زیرا اجتناب، غیر ممکن می شود.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+چه می شود اگر بگوییم: ”کشتن مردم بد است. “ آیا این یک کوسه آدم خوار را شر میکند؟
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+نه، بار دیگر، از آنجایی که کوسه ها هیچ گنجایشی برای ممانعت از کشتن مردم ندارند،نمی توانند برای انجام چنین عملی مسئول باشند، اگر انسانی را بکشند، چیزی بیشتر از یک زمین لغزه نمی تواند به دادگاه برده شود.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+یو پی بی به استثنا های مبتنی بر مواد عینی و جهانی و تفاوت های بیولوژیکی اجازه می دهد که مانند سایر علوم عمل کننده، مانند نظریه علمی که اذعان دارد گازها زمانیکه حرارت ببینند،منبسط می شوند. که البته این فقط برای گازها است. من نمی توانم این نظریه را بخاطر اینکه در مورد پلاستیک صدق نمی کند، نامعتبر بدانم.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+به همین ترتیب، اخلاق به علت نیاز به اجتناب ناپذیر بودن، تنها برای آگاهی عقلانی به کار می رود. اگر من تلاش کنم که یک نظریه اخلاقی را برای یک حلزون، یک درخت، یک سنگ یا مفهوم ”اعداد“ اعمال کنم، من سعی می کنم آگاهی عقلانی را با اشیایی که ممکن است نه عقلانی و نه آگاه باشند، برابر کنم که این یک تضاد منطقی است. من همچنین می توانم بگویم که قضیه زوایای متضاد در هندسه نامعتبر است زیرا برای دایره یا یک ابر کاربرد ندارند. او آ تی تنها برای خطوط راست اعمال می شود. تلاش برای اعمال آن به سایر شرایط، معادلی مفهومی از تلاش برای رنگ زدن هوا است.
 
-In other words, misapplication is not disproof.
+به عبارت دیگر،استعمال بیجا، دلیل رد چیزی نیست.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+بسیاری از ”مناطق خاکستری“ دیگری وجود دارند که می توانیم بر روی آنها کار کنیم. از سقط جنین تا حقوق مالکیت انتزاعی تا بازپرداخت و غیره. اما من فکر میکنم که بسیار مهم است تا یو پی بی را از قلمرو انتزاع جدا کنیم؛ و استفاده از آن برای مشکلات دنیای واقعی که با آنها مواجه هستیم را شروع کنیم.
