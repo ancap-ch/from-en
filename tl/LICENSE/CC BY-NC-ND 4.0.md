@@ -55,7 +55,7 @@ a.***magbigay ng lisensya.***
 
 3. **Term** Ang termino ng Pampublikong Lesensya ay natukoy sa Seksyon 6(a).
 
-4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **midya at mga pormat: technical modifications allowed.**Ang tagapaglesensya ay awtorisado ka na mag sanay sa Karapatan ng Lesensya sa lahat ng medya at mga pormat maging kilala ngayon o pagkatapos na malikha, at magawa ang teknikal na mga modipikasyon na kinakailangan gawin. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
     
     1. **Downstream recipients.**
         
