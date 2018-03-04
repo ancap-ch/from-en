@@ -147,7 +147,7 @@ b. Sa posibleng lawak, sa kahit anong probisyon ng Pampublikong Lesensya na ito 
 
 c. Walang tuntunin o kondisyon sa Pampublikong Lesensya na ito at ito dapat ay talikdan at walang pagkakamali upang sumunod sa paghayag at payag sa Tagapaglesensya.
 
-d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
+d. Wala sa Pampublikong Lesensya ng mga bumubo o maaring mabigyang-kahulugan bilang limitasyon sa, o pagwawaksi, ng kahit anong pribilehiyo at kaligtasan na mai-lalapat sa Lesensyado i ikaw, kasama ang mula sa mga legal na pag-proseso ng kahit anong hurisdiksyon o awtoridad.
 
 > Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the “Licensor.” Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](http://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
 > 
