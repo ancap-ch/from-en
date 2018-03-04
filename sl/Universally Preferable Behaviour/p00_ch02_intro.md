@@ -1,40 +1,48 @@
-## Introduction
+## Uvod
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Za nešteto generacij, je človeštvo živelo v nekakšni egocentrični materici neznanosti, ki je bila samoumevna: svet je bil raven, okoli njega so se vrteli sonce, luna in zvezde, predniki so mu klicali izven megle smrti in grom je bil jeza Bogov.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+Izkopavanje iz te narcisistične maternice subjektivne interpretacije je zahtevalo delo tisočletja - in stalo življenje milijonov ljudi. Prizadevanje, da bi našo perspektivo razkrili od perceptualne izkušnje do konceptualne logike, je bilo zastrašujoče, vznemirljivo, zelo dezorientirno in izjemno nevarno. Razumevanje, da svet ni bil to, kar se je * počutil kot *, ali * se je zdelo kot *, je - in ostaja - največji podvig naše inteligence. * Resnica * resničnosti se je izkazala v očeh uma, ne mesa.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+Svet izgleda ravno; pa ni. Sonce in luna sta enako velika; pa nista. Zdi se, da se zvezde gibljejo po Zemlji; pa se ne. Učenje resnice zahteva, da svetu vidimo izven naših čutov - to ne pomeni zavrnitve naših čutov, ampak nepropustno skladnost z * resničnimi * dokazi o čutilih, ki niso, da je svet raven, ampak da je to vprašanje , energija in fizični zakoni so dosledni. Ko spustimo kamen iz roke, pada - to je * resnično * dokaz čutov, ne da je Zemlja fiksna in nepremična. Zamisel, da je svet nepremičen, je nepravilna domneva, ki je v nasprotju z neposrednimi dokazi o naših čutih, to je, da vse pade. Če vse pade, svet ne more biti pritrjen in nepremičen.
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths”, we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+To so majhne resnice vsakdana; kamenje pade, dim se dviguje, ogenj je vroč in sonce in luna sta oba okrogla. Če bomo ostali trdno in strogo zavezani temi "majhnim resnicam", lahko sčasoma pridobimo velike resnice fizike, ki nam dajejo tako neverjetno znanje in moč.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Med majhnimi resnicami in velikimi resnicami pa so iluzije, ki nas slepi - tako v fiziki kot v etiki.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+V fiziki, velike resnice ne morejo biti v nasprotju z majhnimi resnicami. Nobena "enotna teorija polja" ne more veljavno nasprotovati našemu neposrednemu smislu občutka padajoče skale ali naraščajočega plamena. Največja matematična teorija ne more biti veljavna, če se nanjo vrne nepravilna sprememba na števcu.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone”.
+Zgodovinsko pa je, da med svojimi lastnimi resnicami in resnicami leži tisto, kar bom imenoval "ničelno območje".
 
-### The "Null Zone"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+### "Ničelno območje"
 
-However, there exists in our minds an imaginary entity called “God”, and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions”, sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Otrokom govorimo, naj se ne tepejo drug drugega, in verjamemo, da je nasilje na abstraktnem mestu napačno, kot splošno moralno pravilo. "Mala resnica" je: * ne udari *. "Velika resnica" je: * nasilje je narobe *.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Vendar pa v naših mislih obstaja namišljena enota, imenovana "Bog", in ta entiteta velja za popolnoma moralno. Na žalost ta subjekt nenehno in grobo krši ukaz, da "nasilje je narobe" s tem, da je utonil v svet, da je kljub popolnemu predhodnemu poznavanju svojih "odločitev", sankcioniranju posilstev, umorov, kraje, napadov in drugih dejanj, ki bi jih obsodili, kot povsem zlo v vsakem posamezniku.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth”, but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+Tako imamo malo resnice (* ne udarimo *) in velika resnica (nasilje je narobe), ampak na sredini imamo to "ničelno cono" *, kjer je popolna nasprotja obeh naših malih resnic in naše velike resnice se štejejo za popolnoma resnične *.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+V zgodovini vidimo enako neskladje v fiziki. V naših neposrednih izkušnjah ni nobenih popolnih krogov, ampak zaradi vere v Boga, morajo biti vsa planetarna gibanja "popoln krog" - predpostavka, ki je stoletja upočasnjevala astronomijo. Podobno, če človek obrne svojo glavo, neupravičeno verjame, da se ves svet vrti okoli njega - in z veseljem bi to postavil kot ne samo svojo "malo resnico", ampak kot veliko resnico * ali univerzalno načelo . Vendar se je v večini človeške zgodovine domnevalo, da se zvezde in planeti vrtijo okoli Zemlje, namesto da se Zemlja vrti. Tukaj spet vidimo "ničelno območje" med neposrednim občutkom in univerzalnim načelom, pri čemer veljajo popolnoma nasprotna načela popolnoma veljavna.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+Noben razumen človek ne bo neposredno doživljal Boga. V svojem vsakdanjem življenju v celoti sprejema, da * tisto, kar ni mogoče zaznati, ne obstaja *. Noben razumen človek se ne zdrznei vsakič, ko naredi korak, ker se boji nevidne stene, ki bi mu lahko onemogočala njegovo pot. Največje abstrakcije znanosti podpirajo njegov pristop.
 
-Our belief in the virtue of the military also lies in this “null zone”. If a private man is paid to murder another man, we call him a “gun for hire”, and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone”, where murder magically becomes “virtuous”.
+Nasprotno, v "ničelnem območju" vere se verjame, da je * ravno nasprotje * majhnih resnic in velikih resnic resnično. Osebno verjamem, da * tisto, kar ni mogoče zaznati, ne obstaja * - intelektualno, znanost je to večkrat dokazala. Vendar pa v "ničelnem območju" teologije velja resnična nasprotna trditev - aksiom obstaja * tisto, ki je ni mogoče zaznati ** mora obstajati *.
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone”, and the incursion of objective consistency into these mad little pockets of subjective whim.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Naše prepričanje v vrlino vojske je tudi v tem "ničelnem območju". Če se zasebnemu človeku plača za umor drugega človeka, mu pravimo "plačanec" in ga obsojamo kot morilca. Vendar, če pa ta človek obleče uniformo z določenimi trakovi * in naredi isto dejanje *, ga pozdravljamo kot junaka in ga nagradimo s pokojnino. Mala resnica (* ne smem umoriti *) je povsem v skladu z veliko resnico (* umor je napačen *) - a na sredini leži "ničelna cona", kjer umor magično postane "dober".
 
-The same is true in the realm of morality.
+Če je to "ničelno območje" veljavno, potem noben logični predlog ne more nikoli zadržati. Če je predlog resničen - in ravno nasprotno od tega predloga je tudi res - potem logično sklepanje postane nemogoče. Rast racionalne znanosti je bil stalni napad na to "ničelno cono" in vdor objektivne konsistence v te nore majhne žepe subjektivne muhavosti.
+
+V starih zemljevidih, preden so kartografi končali svoje raziskovanje, bi risbe znanih dežel na praznem papirju zbledele. Za rast znanja je najprej potrebna razmejitev tega, kar ni znano, in nato razširitev znanih načel na neznana področja.
+
+Enako velja za področje morale.
+
+### Žrtve
+
+Prečkanje tega  "ničelnega območja" je polna nevarnosti. Cesta od majhnih resnic do velikih resnic je tlakovana s kostmi milijonov. Od smrti Sokrata do mučenja zgodnjih znanstvenikov s strani verskih hudodelcev, milijonov, ki so bili umorjeni in umrli zaradi črnih fantazij fašizma in komunizma, je vsaka napoved človeškega znanja v "ničelni coni" preobremenjena s precejšnjo nevarnostjo .
+
+Ali mora biti "prečkanje ničelne cone" - ali neovirano združiti majhne resnice z velikimi resnicami - neizogibno  tako težko in nevarno? To je ogromen izziv, da združimo perceptualno s konceptualno v ravni liniji logičnega razmišljanja - vendar a * mora * ta napredek trajati na tisoče let in terjati oceane krvi?
 
 ### The Casualties
 
