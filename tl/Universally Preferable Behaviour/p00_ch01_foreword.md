@@ -72,9 +72,9 @@ Aking ginugugol ang natitirang taon ng aking buhay sa paghahanda, pagsasanay, at
 
 Ako ay nag-aral ng kasaysayan ng pilisopiya sa pinakamataas na paaralan, at nagtataglay ng Masters digri, subalit wala akong PhD sa pilosopiya. Ako ay mula sa kinikilalang publikong intelektwal. Hindi ako ang masasabing *pinakang* kampyon, pero ako ay halos malapit dito. Kung ako man ay nagtagumpay ay hindi na iyon nakasalalay sa iyo, at hindi rin nakasalalay sa akin.
 
-If the reasoning holds, the greatest beast is down.
+Kung ang katwiran ay manatili, ang pinakadakilang halimaw ay babagsak.
 
-### A Modest Suggestion
+### Isang Patas na Mungkahi
 
 It is the height of audacity to suggest to readers how to read a book, but given the challenges of the task before us, I would like to make one small suggestion before we embark.
 
