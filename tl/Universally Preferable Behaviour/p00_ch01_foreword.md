@@ -68,9 +68,9 @@ Ekstraordinaryong pagpapahayag ay nangangailangan ng ekstraordinaryong ebidensya
 8. Aking iginagalang ang iyong pag-iisip na magtimpi sa mga mapagtakdang salita gaya ng "reyalidad." "dahilan," "integridad," atbp. Mayroon na tayong sapat na gagawin ng hindi na kailangang baguhin pa ang nakasanayan na.
 9. Panghuli, ako ay naniniwala na bawat teorya - lalo na ang gaya ng mga pundamental na teorya ng etika - ay maliit ang nagagawa kung kinokompirma lamang nito ang likas ng alam na ng lahat. Hindi ako gumugol ng maraming taon ng aking buhay sa pagtatrabaho sa teorya ng etika upang magpaikot-ikot at patunayang ang "pagpaslang ay mali." Sa aking pananaw, ang pinakamainam na mga teorya ay yung mga nagpapatunay na ang mga katotohanan na ating inaakalang nauunawaan - at ginagamit ang mga prinsipyong ito upang ilantad ang mga bagong katotohanan na maaaring kontra-akala.
 
-Aking ginugugol ang natitirang taon ng aking buhay sa paghahanda, pagsasanay, at matapos ay makipagtunggali sa halimaw na ito, umaaasa ako na naabswelto ko na ang aking sarili sa anumang sukat ng karangalan. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+Aking ginugugol ang natitirang taon ng aking buhay sa paghahanda, pagsasanay, at matapos ay makipagtunggali sa halimaw na ito, umaaasa ako na naabswelto ko na ang aking sarili sa anumang sukat ng karangalan. Naniniwala akong lumalabas na ako ay nagwagi - kahit paano'y nasaktan - at umaasa ako na makatagpo ng sinumang may kaparehas na pananaw.[^2]
 
-I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
+Ako ay nag-aral ng kasaysayan ng pilisopiya sa pinakamataas na paaralan, at nagtataglay ng Masters digri, subalit wala akong PhD sa pilosopiya. Ako ay mula sa kinikilalang publikong intelektwal. Hindi ako ang masasabing *pinakang* kampyon, pero ako ay halos malapit dito. Kung ako man ay nagtagumpay ay hindi na iyon nakasalalay sa iyo, at hindi rin nakasalalay sa akin.
 
 If the reasoning holds, the greatest beast is down.
 
