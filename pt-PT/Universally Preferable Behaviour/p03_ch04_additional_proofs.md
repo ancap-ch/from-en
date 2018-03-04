@@ -22,9 +22,9 @@ O CUP responde a esta pergunta.
 
 Dado que qualquer metodologia para a adquisição do conhecimento deve ser universal, coerente e independente do tempo e do local, o método científico responde a esses requisitos, enquanto que o misticismo irracional e subjectivo é exactamente o oposto dos mesmos.
 
-### Public Education
+### Educação Pública
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Um princípio central da economia de mercado livre é que a qualidade só resulta, realmente, do *voluntariado*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
 
 The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
 
