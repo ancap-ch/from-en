@@ -137,9 +137,9 @@ d. Mga Seksyon 1, 5, 6, 7, at 8 ang mabuhay sa terminasyon ng Pampublikong Lesen
 
 a. Ang Tagapaglesensya ay hindi dapat nakatali ang naumang karagdagan o magkaibang mga tuntunin o mga kondisyon sa pakipagugnay saiyo maliban kung nag mamadali na pumayag.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Kahit anong mga kaayusan, mga pagkakaintindihan, o mga pagkakasunduan hinggil sa Lesensyadong Materyal hindi nakasaad dito na magkahiwalay mula sa malayang mga tuntunin at mga kundisyon sa Pampublikong Lesensya.
 
-### Section 8 – Interpretation.
+### Seksyon 8 - Interpretasyon.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 
