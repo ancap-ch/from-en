@@ -36,9 +36,9 @@ Não podemos ter ambos.
 
 ### Soluções
 
-Podemos escolher acreditar que o governo é uma instituição necessária e moral. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Podemos escolher acreditar que o governo é uma instituição necessária e moral. Podemos optar por acreditar que, sem o governo, a sociedade entrará em colapso, em "anarquia", e o mundo destruir-se-à numa guerra de todos contra todos. Podemos escolher acreditar que, sem o governo, não haverá estradas, nem educação, nem cuidados de saúde, nem pensões de velhice, nem bibliotecas, nem protecção da propriedade, etc.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Semelhantes superstições, certamente, têm retardado o progresso da humanidade ao longo da história. O precursor mais significativo para o que o CUP revela sobre o governo é o que a ciência revelou sobre a religião.
 
 As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
 
