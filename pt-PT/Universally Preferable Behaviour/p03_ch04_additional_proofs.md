@@ -30,6 +30,6 @@ O início do uso da força é sempre contrário a qualquer teoria moral racional
 
 Já que a força viola a condição moral de *evitabilidade* e a falta de evasabilidade sempre produz uma qualidade baixa - o CUP ajudar-nos-ia a prever, facilmente, que as escolas públicas proporcionariam uma educação de baixa qualidade.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Além disso, o CUP também ajudou- nos a prever que, quanto mais e mais força fosse usada no domínio da educação pública - como impostos, imposições sindicais e assim por diante - a qualidade da educação fornecida seria pior.
 
-This, of course, was – and is – exactly the case.
+Isso, certamente, foi - e é - exactamente o caso.
