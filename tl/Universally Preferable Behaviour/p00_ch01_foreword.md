@@ -84,10 +84,10 @@ Kung ang aking tungkulin ay tumugon sa bawat posibleng pagtutol sa bawat linggwi
 
 Samakatuwid aking mapagkumbabang iminumungkahi sa iyo na maghintay hanggang makita mo kung gaano kaepektibo ang etikal na balangkas na aking ipinapahayag sa pagpapatunay ng pinakakaraniwang tinanggap na moral na mga kasabihan ng sangkatauhan bago magbigay ng huling husga sa teorya.
 
-Ako ay lubos na naniniwala na ang kahulugan ng rasyonal na etikal na balangkas ay ang pinakamahalagang tungkulin na kinakaharap ng sangkatauhan. Aking lubos na ikinalulugod ang iyong interes na mahalagang bagay na ito - at muli gaya ng palagi pinasasalamatan ang mga nagbigay donasyon na siyang naging daan upang ang gawain na ito ay maging posible.
+Ako ay lubos na naniniwala na ang kahulugan ng rasyonal na etikal na balangkas ay ang pinakamahalagang tungkulin na kinakaharap ng sangkatauhan. Aking lubos na ikinalulugod ang iyong interes sa mahalagang bagay na ito - at muli gaya ng palagi pinasasalamatan ang mga mabubuting nagbigay donasyon na siyang naging daan upang ang gawain na ito ay maging posible.
 
 Ako ay tutungo sa digmaan na armado ng dahil sa ibang tao.
 
-[^1]: Karamihan dito ay tatalakayin ng mas detalyado sa kabuuan ng kurso ng librong ito.
+[^1]: Karamihan ng mga ito ay tatalakayin ng mas detalyado sa kabuuan ng kurso ng librong ito.
 
-[^2]: Syempre, ako ay nabigo, subalit ako ay nabigo ng kagila-gilalas, sa siyang parehong nakakapagpatatag at kawili-wili!
+[^2]: Syempre, ako ay nabigo, subalit ako ay nabigo ng kagila-gilalas, na siyang parehong nakakapagpatatag at kawili-wili!
