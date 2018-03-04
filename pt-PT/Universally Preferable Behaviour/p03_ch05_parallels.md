@@ -26,17 +26,17 @@ Na verdade, assim como as religiões impediram o progresso da ciência, os gover
 
 Assim como a falsa ética das religiões "justifica" todos as formas de abuso, corrupção e violência, também a falsa ética dos governos as justifica. Quando escolhemos viver na fantasia, inevitavelmente escolhemos a destruição, de um modo ou outro.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Quando optamos por dirigir a sociedade de acordo com as mitologias morais religiosas, terminamos com guerras, violência, repressão, abuso, corrupção e hipocrisia insondável.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Quando optamos por dirigir a sociedade de acordo com *estadistas* de mitologias morais, os resultados não são diferentes.
 
-We can either choose virtue or compulsion.
+Podemos escolher virtude ou imposição.
 
-We cannot have both.
+Não podemos ter ambos.
 
-### Solutions
+### Soluções
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Podemos escolher acreditar que o governo é uma instituição necessária e moral. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
