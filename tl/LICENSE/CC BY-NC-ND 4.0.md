@@ -44,7 +44,7 @@ i.**You**nangangahulugan na ang indibidwal o pag gamit ng entidad sa Karapatan n
 
 a.***magbigay ng lisensya.***
 
-1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+1. Ang paksa sa mga termino at kondisyon para dito sa publikong lesensya, ang tagapaglesensya ay pagkakalooban ka sa buong mundo, Libreng royalidad, di-sublicensable, hindi eksklusibo, hindi mababawi na ehersisyo sa Karapatan ng Lesensya ng Materyal na Lesensyang ito:
     
         A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
         
