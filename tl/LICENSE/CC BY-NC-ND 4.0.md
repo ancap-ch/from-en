@@ -127,9 +127,9 @@ b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa il
 
 2. sa muling pagbibigay ng pagpapahayag ng Tagapaglesensya.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para maiwasan ang pag-dududa, ang seksyon 6(b) ay hindi maa-apektuhan ang kahit anong karapatan sa Tagapaglesensya maaring mag hanap ng mga remedyo para sa iyong mga paglabag sa Pampublikong Lesensya na ito.
 
-c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
+c. Para maiwasan ang pag dududa, ang tagapaglesensya ay nag aalok ng Materyal na Lesensya sa ilalim ng mag kahiwalay na mga termino o mga kondisyon para mapigilan ang pag-papasa ng Materyal na Lesensya sa kahit anong oras; gayunman, ang pag-gawa ay hindi mapapawalang bisa ng Pampublikong Lesensya na ito.
 
 d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
