@@ -1,62 +1,62 @@
-### Governments And Religion
+### دولت ها و مذهب
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+این ایده که متولد شدن یک قرارداد با پیشکاری داستانی ایجاد می کند که شما را مشابه برده برای افراد خاص تبدیل می کند، برای هر دو دولت و مذهب مهم است - و یکی دیگر، پیشکار های بسیار شخصی که من در کتاب اول خود درباره ی آن صحبت کردم. "در حقیقت: طغیان توهم."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+هرگاه کشیش می گوید: "از خدا اطاعت کنید"، چیزی که او درواقع می گوید این است: "از *من* اطاعت کنید." از آنجا که خدا وجود ندارد، هر فرمانی که کشیش ادعا می کند از خداوند می آید، درواقع از طرف کشیش می آید. "خدا" فقط نهاد خیالی است برای سوء استفاده مفهومی شما به منظور تهیه ی کمک های عملی در دنیای واقعی، برای افراد واقعی، برای تسلیم داوطلبانه ی پول ، وقت و منبع استفاده می شود.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+برای برده داران بسیار سودمندتر است که بردگان خود را وادارند که بردگی را به عنوان فضیلت در نظر بگیرند، زیرا این به شدت بر هزینه ی کنترل آنها تاثیر می گذارد. اگر من بتوانم شما را متقاعد کنم که خیلی بد است که به من خدمت نکنید، و برده ی من بودن، فضیلت است، پس من مجبور نیستم تقریبا تعداد زیادی جانی را برای سوء استفاده ، کنترل و دزدی از شما ، استخدام کنم.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+سپس، افسانه های مذهبی و دولتی، تخیلاتی هستند که به شدت هزینه های کنترل جمعیت را کاهش می دهند؛ آنها سوخت و روان کننده ماشین آلات ترسناک که خشونت در آنها نهادینه شده ، هستند.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+در سراسر جهان، حاکمان، درصد بسیار کمی از جمعیت هستند. چطور برای یک یا دو درصد از مردم ممکن است که همه ی افراد دیگر را کنترل کند؟ این یک انحصار خاص برای جنگ افزار است، برای اطمینان، رو به رویی با این انحصار، نسبتا آسان است؛ زیرا اکثر دولت ها با فروش اسلحه پول بسیار زیادی در می آورند.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+واقعیت غم انگیز این است که به طور کلی، مردم به نهاد های خیالی مانند ملت ها، خدایان، فرهنگ ها - و دولت ها اسیر می شوند.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+غرور شخصی ما به طور غریزی علیه برده داری فوری و اجباری برای انسان دیگر، شورش می کند - با این حال، به نظر می رسد ما تقریبا در برده داری به *اساطیر* برسیم.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+میل ما به خوب بودن، - همراه با هیجان فضیلت است که ما با رعایت اسطوره های اخلاقی دریافت می کنیم - به ما کمک می کند تا با آرزوی خود، منابع خود را به کسانی که ادعا می کننداین اسطوره ها را نمایندگی می کنند، تسلیم کنیم.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+یک دلیل اصلی که ما می دانیم دولت ها و خدایان غیرضروری هستند، این است که آنها بسیار مؤثرند. *می دانیم که اکثر مردم به شدت می خواهند خوب باشند، زیرا آنها خیلی راحت با نظریه های اخلاقی کنترل می شوند*.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+منطق اطاعت از اساطیر، به روشنی احمقانه است. اگر یک کشیش به من بگوید که باید از "خدا" اطاعت کنم، این دقیقا مانند آن است که او به من بگوید باید از موجودی که "میخ بزرگ چوبی" نام دارد، اطاعت کنم. حتی اگر من قبول کنم که این موجود داستانی ارزش اطاعت ابدی را دارد، باز هم مرا مجبور به اطاعت از *کشیش* نمی کند. اگر به شما بگویم "از قلب خود پیروی کنید"، آیا ممکن است که به صورت منطقی بگویم:"و *من فقط* برای قلب شما صحبت می کنم"؟
 
-Of course not.
+البته که نه.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+وقتی که ما از اساطیر و داستان از "تعاملات" خود با حاکمان می گذریم، چیزی که ظهور می کند، یک واقعیت ظالمانه، خشن و قاتلانه ی استشمارگرا است.
 
-Let’s take as an example a very real and present danger: taxation.
+بیایید به عنوان یک مثال بسیار خطرناک و واقعی، مالیات را بیاوریم.
 
-#### Taxation
+#### مالیات
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+من گفته ام که به موجب اقامت در کانادا، من به "دولت" بیشتر از ۵۰درصد درآمدم را مدیون هستم.
 
-Stripped of mythology, what does this really translate to?
+گذشته از اسطوره شناسی، این واقعا به چه چیزی ترجمه می شود؟ 
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+در واقعیت، من تا آخر وقت برای "دولت" صبر می کنم تا بیاید و پول خود را بگیرد. منتظر "دولت" بودن برای دیدن، مانند تمایل به قرار گذاشتن با مفهوم "زنانگی" است. من هم چنین می توانم شامم را با کلمه "پول" بپردازم.
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+در حقیقت، هنگامی که به من گفته شود که باید مالیات خود را به "دولت" بپردازم، چیزی که واقعا معنی آن است، این است که من باید یک چک را برای انتقال پول خود به یک حساب بانکی خاص که توسط افراد خاص قابل دسترسی است، بنویسم. این افراد، پس از آن حق دارند که آن پول را بگیرندو هرطوری که مناسب ببینند، آن راخرج کنند - بنابراین، این افراد خاص کنترل کامل بر پول من دارند.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+به هیچ وجه هر یک از این نهادها به عنوان "دولت" کاری انجام نمی دهد، حرکتی نمی کند، حساب بانکی باز نمی کند و حتی یک پنی هم خرج نمی کند. تصور کنید که یک مفهوم به نام "دولت" دارای ظرفیتی برای جذب یا صرف پول خود است؛ این دقیقا همان انتظار برای آمدن "خدا" و گرفتن شما و بردن شما به کلیسا است.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+بنابراین، تعامل واقعی آن است که یک نفر به من نامه می نویسد و می گوید که من به او پول بدهکار هستم. من هیچ قراردادی با این طرف ندارم و او در حقیقت، چیزی از اموال مرا نگرفته است؛ هرچند برخی افراد یک "قرارداد" فرضی می نویسند که ادعا می کنداین کار را انجام داده است.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+اگر من به او پرداخت نکنم، او شخص دیگری را به خانه ی من می فرستد تا پول را جمع کند– به علاوه " سود" و "هزینه" .
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+ به طور معمولی، وقتی کسی با اسلحه وارد خانه ام می شود و از من پول می خواهد، من حق این را دارم که با استفاده از زور، از خود دفاع کنم. هرچند، در این مورد، بخاطر این که او لباس ویژه پوشیده و ادعا می کند که نماینده موجود داستانی است، من اجازه ندارم که برای دفاع از خودم، از اجبار استفاده کنم.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+اکنون، اگر من امشب، در حالی که "لباس الف در نارنیا" را پوشیده ام ، به خانه ی شما بیایم ، و پولی را که شما به "ملکه غم و انبوه" بدهکار بودیدرا تقاضا کنم، با فرض اینکه این هالووین نیست، شما مجاز هستید که با شگفتی به من خیره شوید و به من دستور دهید دست از اموال شما بردارم.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+اگر من به فردی که به خانه ام، برای گرفتن پولم آمده ، پولی ندهم، او مجاز است که اسلحه را بیرون آورد و سینه ی من را نشانه بگیرد و مرا آدم ربایی کند - یا اگر مقاومت کردم، به من شلیک کند. او می تواند مرا برای سال های سال در یک سلول کوچک، جایی که بیشترین خشم ظالمانه و تجاوز دائم به من تحمیل خواهد شد، نگه دارد؛ تا زمانی که انتخاب کند و بگذارد من بروم.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+جالب توجه است که اگر یک فرد به صورت قانونی به من پول قرض بدهد، من اجازه ندارم که او را برپاییم و برای سال هاسال ، او را تجاوز و شکنجه کنم. بنابراین، مالیات به طور کلی از چهارچوب UPBنقض می شود؛ زیرا این انتقال خشونت آمیز از اموال ، با استفاده از آغاز اجبار است.
 
-Stealing, as we have proven, is evil.
+سرقت، همانطور که ثابت شده، شر است.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+انیشتن - با ادعا و اثبات - اینکه سرعت نور مدارم است، فیزیک انقلاب کرد.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+ما می توانیم جهان را با پذیرش ادعا - و اثبات آن - انقلابی کنیم که سرقت همیشه شر است.
 
-### Government, Religion, And UPB
+### دولت، مذهب و UPB
 
 When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
 
