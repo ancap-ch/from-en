@@ -70,7 +70,7 @@ Ekstraordinaryong pagpapahayag ay nangangailangan ng ekstraordinaryong ebidensya
 
 Aking ginugugol ang natitirang taon ng aking buhay sa paghahanda, pagsasanay, at matapos ay makipagtunggali sa halimaw na ito, umaaasa ako na naabswelto ko na ang aking sarili sa anumang sukat ng karangalan. Naniniwala akong lumalabas na ako ay nagwagi - kahit paano'y nasaktan - at umaasa ako na makatagpo ng sinumang may kaparehas na pananaw.[^2]
 
-Ako ay nag-aral ng kasaysayan ng pilisopiya sa pinakamataas na paaralan, at nagtataglay ng Masters digri, subalit wala akong PhD sa pilosopiya. Ako ay mula sa kinikilalang publikong intelektwal. Hindi ako ang masasabing *pinakang* kampyon, pero ako ay halos malapit dito. Kung ako man ay nagtagumpay ay hindi na iyon nakasalalay sa iyo, at hindi rin nakasalalay sa akin.
+Ako ay nag-aral ng kasaysayan ng pilosopiya sa pinakamataas na paaralan, at nagtataglay ng Masters digri, subalit wala akong PhD sa pilosopiya. Ako ay mula sa kinikilalang publikong intelektwal. Hindi ako ang masasabing *pinakang* kampyon, pero ako ay halos malapit dito. Kung ako man ay nagtagumpay ay hindi na iyon nakasalalay sa iyo, at hindi rin nakasalalay sa akin.
 
 Kung ang katwiran ay manatili, ang pinakadakilang halimaw ay babagsak.
 
@@ -78,11 +78,11 @@ Kung ang katwiran ay manatili, ang pinakadakilang halimaw ay babagsak.
 
 Isang katapangan na imungkahi sa mga mambabasa kung paano magbasa ng aklat, taglay ang mga hamon ng tungkulin na nasa ating harapan, nais kong magbigay ng isang maliit na mungkahi bago tayo pumasok.
 
-Kung tayo ay nabuhay noong ikalabinlimang siglo, at sinusubukan kong kumbinsihin ka na ang mundo ay bilog, ako ay magbibigay ng bungkos ng mga matematika at pisikang patunay. Kung ikaw ay magbigay ng salungat na opinyon, ikaw ay natural na tutugon ng may pag-aaalinlangan, at iiwas sa anumang linya ng patunay. Gayonpaman, kung ikaw at ako ay maglalayag sa buong mundo, at dadating kung saan tayo nagsimula ng hindi na tutuntunin pa ang ating mga hakbang, ikaw ay magiging handang tanggapin ang mga konseptwal na mga patunay na iyong *naranasang* totoo pala. Ikaw ay makatatagpo ng mali sa partikular na lohikal na hakbang o metapora, subalit ikaw ay sumasang-ayon na sa konkulsyon, at samakatuwid ay mas tutulong na maitama ang mga detalye kaysa tanggihan ang teorya sa kabuuan.
+Kung tayo ay nabuhay noong ikalabinlimang siglo, at sinusubukan kong kumbinsihin ka na ang mundo ay bilog, ako ay magbibigay ng bungkos ng mga matematika at pisikang patunay. Kung ikaw ay magbigay ng salungat na opinyon, ikaw ay natural na tutugon ng may pag-aaalinlangan, at iiwas sa anumang linya ng patunay. Gayonpaman, kung ikaw at ako ay maglalayag sa buong mundo, at dadating kung saan tayo nagsimula ng hindi na tutuntunin pabalik ang ating mga hakbang, ikaw ay magiging handang tanggapin ang mga konseptwal na mga patunay na iyong *naranasang* totoo pala. Ikaw ay makatatagpo ng mali sa partikular na lohikal na hakbang o metapora, subalit ikaw ay sumasang-ayon na sa konkulsyon, at samakatuwid ay mas tutulong na maitama ang mga detalye kaysa tanggihan ang teorya sa kabuuan.
 
 Kung ang aking tungkulin ay tumugon sa bawat posibleng pagtutol sa bawat linggwistika, lohikal at impirikal na hakbang, ang gawaing ito ay magpakailanmang hindi matatapos - at hindi mababasa. Ang Perpeksyonismo ay, sa pinakadiwa, pagkabalam, at aking ipinagpapalagay na ang tungkulin ng aklat na ito ay napakaimportante - ang panganib ng huwad na moralidad ay napakalala at napakalapit - sa paggugol ng napakahabang panahon sa pagsubok na marating ang langit ay napunta tayo sa impyerno.
 
-Samakatuwid aking mapagkumbabang iminumungkahi sa iyo na maghintay hanggang makita mo kung gaano kaepektibo ang etikal na balangkas na aking ipinapahayag sa pagpapatunay ng pinakakaraniwang tinanggap na moral na mga maksim ng sangkatauhan bago magbigay ng huling husga sa teorya.
+Samakatuwid aking mapagkumbabang iminumungkahi sa iyo na maghintay hanggang makita mo kung gaano kaepektibo ang etikal na balangkas na aking ipinapahayag sa pagpapatunay ng pinakakaraniwang tinanggap na moral na mga kasabihan ng sangkatauhan bago magbigay ng huling husga sa teorya.
 
 Ako ay lubos na naniniwala na ang kahulugan ng rasyonal na etikal na balangkas ay ang pinakamahalagang tungkulin na kinakaharap ng sangkatauhan. Aking lubos na ikinalulugod ang iyong interes na mahalagang bagay na ito - at muli gaya ng palagi pinasasalamatan ang mga nagbigay donasyon na siyang naging daan upang ang gawain na ito ay maging posible.
 
