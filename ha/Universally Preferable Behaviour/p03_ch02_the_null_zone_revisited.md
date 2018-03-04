@@ -1,46 +1,46 @@
-## The Null Zone Revisited
+## An komadubisashen/yankinsarari
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+A farkonwannanlittafi, nagabatar da hanya yadda mukeaiwatar da gaskiya, nayi nazari da kwatancin shizuwailiminlissafi. Daga "ƙananangaskiya" irinnakamunkwallo, zamu kai ga "babbangaskiyar" nakimiyyarlissafi - kumababbangaskiyarbaza ta iyamusantaƙananangaskiyarba.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong”.
+Haka ma gaskiya ne game da aƙida. Dagaainihingaskiya na "kada in kashewa" za mu iyasamunbabbangaskiyairin su "farawaramfani da karfirashinadalci ne."
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+A cikiniliminkimiyyarlissafi, wanibabbancikasgawajenambacingaskiyamaima’anadagarayuwarmutumharzuwagaka'idarduniyashi ne addini.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+A misali, babumutumin da yataɓaganincikakkiyarda’ira - irinwannanmahalužiyakasance ne a cikintarihi, kuma a cikinilminlissafi, ammabaza'aiya gani a cikintunaniba, kokumaba a cikinrayuwarmutumba. Babuwaniabu a cikinhalittawandayana da cikakkiyarda’ira da mukasani, kodai a cikin "ƙananangaskiya" nakwarewa ta mutum, ko "babbangaskiyar" kimiyyarlissafi.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle”. Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Duk da haka, harshekarudubbai, kimiyyarilimintaurari ta gurgunta ta hanyarnemanwannan "cikakkenda’ira". A cikintsarinsu, dole ne falakainataurarimasukewaye rana suzamacikakkiyarsiffarkamarƙwallo, domin sun daukacewa Allah bazaibariwaniabu a cikinhalittarsayazama "ajizai" a matsayinsiffarkwai (wato, maimarascikakkiyarda’iraba) ba.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards”, as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Gudadagacikinmatsaloli ta wannanra’ayiitacekewayenbaya-bayana Mars (duniya ta biyarmaikewaye rana). Dagaduniyarmu, Mars a wasulokutayanamotsawa "a baya," a sa’ad da Duniyarmu ta cim ma Mars idansunakewaye rana. Aƙidarkarya ne cewaduniya ta kasance a tsakiyarcibiyarna rana, tare da ra’ayin "cikakkiyar" da’ira, su ne sukasamar da tsarinnazarin Ptolemy nailimintaurari, wandayaninkadukkaninwaɗannancikakkiyarda’iraharzuwagabanza, dominla'akarinfalakaimasusiffofinkwai  dakumamotsinbaya-bayana Mars.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Me yasawannanmafarkinra’ayindaidaitayazamaabin da akebuƙatagaabubuwanasararin-sama? Tabbas, hujjarnawatã, tare da farfajiyanmurƙushensa, zainunagoyonbayagarashindaidaituwanaabubuwansama, ammagyaranaddiniyawucehujjanaainihinarashindaidaituwagaabubuwanga. Binciken Galileo da yasamu game da tsaunukanwatau, wajajenturari a sama da kumawatan Jupiter duk sun riki da su a matsayinnzindiki.
 
-We can also turn this analysis to the question of the existence of God as well.
+Lallaikuma, za mu iyajuyawannanbincikezuwagabatunwanzuwar Allah.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Ba mu da watahujja ta hanyar kai tsaye, maitabbatarwakoma'anagawanzuwar Allah. Masanankimiyyamafikyawunbasusamar da shaidaakanwanzuwar Allah ba - duk da haka, a tsakaningaskiyarabubuwan da mukegani, wanda shine cewababuwani Allah, da kumanazari da ra’ayinkimiyyamafitsinkaye da akidar - wandayatabbatar da cewababu Allah - waninau'ina "yankinsarari" yana so yazama, * wandayajuyadukwanika'idargaskiya da mu kasani*.
 
-### Bigotry
+### NunaBambanci
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Akidanaiyazamagaskiya, ƙarya, ko * korau-gaskiya *. Gaskiya ne cewayankinhamadan Sahara yanacikinArewanAfirka; bagaskiya ta bacewa Sahara yanacikin Scotland; *korau-gaskiya* ne cewa Sahara shine dukabin da nake so yakasance, kumayakasance a dukindanake son shiyawanzu. Na farkogaskiya ne; nabiyushi ne ƙarya - naukushi ne ra’ayinanunabambancinwandayawarwareainihinshaidangaskiya.
 
-We can say:
+Zamuiyacewa:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Shawarwarin X gaskiya ne sabodayana da nazari.
+2. Shawarwarin Y karya ne sabodaba ta da nazari.
+3. Shawarwarin Z gaskiya ne sabodadaiina son * yazamagaskiya ne.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Furci ta uku mai rikitarwa ne. "Gaskiya" ta kasance mai zamankanta, wnadaya na da bambancidaga son zuciya, tun da sha'awashine a cikinma'anara'ayi ko son zuciya, kumagaskiyashine a cikinma'anadaidaituwagaka'idojinmasaniya na ainihi. Da'awarcewawaniabugaskiya ne saboda ka * son * shizamagaskiyane adangantabatunrashindaidaituwa tare da rashinamincewa, wandashinebayaninkalma mai rikitarwa.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+In kalura, maƙaryatanakida - watora’ayin "addini" – su ne da ma'anakora’ayiwandabaza'aiyajarrabcesuba, tun da bawaiba sun yadda da rashinhujjojikorashinshaidaba *, ammaakidansuwaniyanki ne mairashinamincewa da dalili da/koshaida.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Zamuiyayarda da abubuwan da basu da shaidawaɗandasukazamagaskiya - waniyayitsammanicewaduniyamaisaiffanda’ira ne kafin a tabbatar da haka - amma "yankinsarari" itacebangare da mukejinginagaimani da abubuwan da * bazaitabayiwuwa a fito da su a cikingaskiyaba*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+Idannacebiyu a hada da biyuzaizamabiyar, ina yin kuskurewandaza'aiyagyara tare da saninlisafi. Idannaceina da tabbacincewaakwaiwanida’iramaisiffarmurabba’i, to, ina yin bayaninra’ayinarikitarwa, wandayakaryatarkansa. Idannakaragaba, duk da haka, nakumakarfafacewa “foo an hada da tury zaiyidaidai da desty" - kumanakibayyananufina - Ina yin watanazarigawanda a wajenfahimtarsabaza a iyaamfani da dabarukoshaida *.
 
-### Next Stop: The "Alternative Universe"
+### Tsayawanabiyu: Ƙa'idar "TsarinDuniyaDabam"
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+Gabaɗaya, hanyar da mutanesukeƙoƙarisu "cece" ra’ayinkansunamagancerikice-rikice da maƙalafi shine ƙirƙirar "sararindabam" ko "trsarinduniyadabam" indama'anarrikice-rikicennasunaiyazamagaskiya.
 
-If I say: “A square circle exists”, I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Idannace: "Akwaida’iramaisiffarmarabba’i," Ina tabbatar da abin da bazaiyiwuwaba a wannanduniyar. Saboda haka, idanna so in rikeka'idodina, dole ne in kirkirowasusararinduniya, kowatabangaredabamdagawannanduniyar da za a iyakasancewa da bayanina.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
