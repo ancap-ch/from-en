@@ -51,9 +51,9 @@ a.***magbigay ng lisensya.***
         B: lumikha at muling paghayag, ngunit hndi maaaring ibahagi, Inangkop na materyal para sa NonCommercial ng mga layunin lamang.
         
 
-2. **Exceptions and Limitations.** For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
+2. **mga exepyions at limitasyon.**Para sa pag iwas sa pangamba, kung saan ang mga pasubali at mga limitasyon ay ilalapat para ito ay magamit, Ang pampublikong Lesensya ay hindi dapat ilapat, at ikaw ay hindi na ngangailangan na umayon sa mga termino at mga kondisyon.
 
-3. **Term.** The term of this Public License is specified in Section 6(a).
+3. **Term** Ang termino ng Pampublikong Lesensya ay natukoy sa Seksyon 6(a).
 
 4. **Media and formats; technical modifications allowed.** The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
     
