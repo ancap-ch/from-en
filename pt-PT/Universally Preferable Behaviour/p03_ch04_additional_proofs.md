@@ -24,9 +24,9 @@ Dado que qualquer metodologia para a adquisição do conhecimento deve ser unive
 
 ### Educação Pública
 
-Um princípio central da economia de mercado livre é que a qualidade só resulta, realmente, do *voluntariado*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Um princípio central da economia de mercado livre é que a qualidade só resulta, realmente, do *voluntariado*. A coerção, é ineficiente - a violência sempre resulta em má qualidade. As padarias soviéticas de estilo antigo nunca fizeram um bom pão; Um homem que bate na sua esposa nunca terá um casamento feliz.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+O início do uso da força é sempre contrário a qualquer teoria moral racional - é uma violação específica e explícita do CUP. Dado que as escolas públicas são financiadas através do início do uso da força, são uma tipo de *associação obrigatória*, o que é uma clara violação da *liberdade de associação* validada pelo CUP.
 
 Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
 
