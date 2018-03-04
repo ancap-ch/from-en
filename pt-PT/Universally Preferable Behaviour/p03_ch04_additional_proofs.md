@@ -28,7 +28,7 @@ Um princípio central da economia de mercado livre é que a qualidade só result
 
 O início do uso da força é sempre contrário a qualquer teoria moral racional - é uma violação específica e explícita do CUP. Dado que as escolas públicas são financiadas através do início do uso da força, são uma tipo de *associação obrigatória*, o que é uma clara violação da *liberdade de associação* validada pelo CUP.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Já que a força viola a condição moral de *evitabilidade* e a falta de evasabilidade sempre produz uma qualidade baixa - o CUP ajudar-nos-ia a prever, facilmente, que as escolas públicas proporcionariam uma educação de baixa qualidade.
 
 Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
 
