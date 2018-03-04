@@ -63,9 +63,9 @@ a.***magbigay ng lisensya.***
         
         B. **walang mga limitasyon ang downstream.** Maari kang sumangguni o magpataw ng kahit ilan na dagdag o magkaibang tema o kondisyon, o pag-apply ng kahit anong epektibong Teknolohiya na masusukat ito. ang Materyal na Lesensya ay pinag babawal ang pag gawa ng pagsasanay sa Karapatan ng Lesensya mula sa tatanggap ng Materyal na Lesensya.
     
-    2. **No endorsement.** Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
+    2. **walang pag-endorso.** Wala dito sa Publikong Lesensya ang bumubuo o siguro naipaliwanag bilang isang permiso para igiit o ipahiwatig na ikaw ay, o gamit ang iyong Materyal na Lesensya ay konektado kasama ang, taga-taguyod na nag indorso, ipagkaloob ang opisyal na estado, ang Tagapaglesensya o iba pang itinalaga na makatanggap ng paratang sa pag laan ng seksyon 3(a)(1)(A)(i).
 
-b. ***Other rights.***
+b. ***ibang mga karapatan.***
 
 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
