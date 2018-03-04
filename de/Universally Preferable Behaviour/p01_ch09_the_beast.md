@@ -20,7 +20,7 @@ Jeder Ethiker, der sich auf die bloße Kriminalität konzentriert und nicht auf 
 
 Private Kriminelle gibt es natürlich *aber sie haben kaum Auswirkungen auf unser Leben, vergleichbar mit denen, die uns auf der Grundlage falscher Moraltheorien regieren*. Einmal, als ich elf war, stahl mir ein anderer Junge ein paar Dollar. Ein anderes Mal, als ich sechsundzwanzig war, ließ ich meine Geldautomatenkarte in einem Bankautomaten und jemand stahl ein paar hundert Dollar von meinem Konto.
 
-Andererseits habe ich mir durch die Moraltheorie von "Steuern sind gut" Hunderttausende von Dollars mit Gewalt wegnehmen lassen. Ich war gezwungen, vierzehn Jahre lang in den grimmigen und hirnzerstörenden mentalen Gulags öffentlicher Schulen zu sitzen, basierend auf der Moraltheorie, dass "staatliche Bildung eine Tugend ist".”[^12]
+Andererseits habe ich mir durch die Moraltheorie von "Steuern sind gut" Hunderttausende von Dollars mit Gewalt wegnehmen lassen. Ich war gezwungen, vierzehn Jahre lang in den grimmigen und hirnzerstörenden mentalen Gulags öffentlicher Schulen zu sitzen, basierend auf der Moraltheorie, dass "staatliche Bildung eine Tugend ist"”.[^12]
 
 Der Junge (und der Mann), der mein Geld gestohlen hat, benutzte es zweifellos für ein persönliches Vergnügen oder Bedürfnis. Die Regierung, die mein Geld stiehlt, benutzt es dagegen, um die Armen zu unterdrücken, Kriege zu finanzieren, die Reichen zu bezahlen, Geld zu verleihen und so meine Kinder zu verarmen - und die Gehälter derer zu bezahlen, die mich bestehlen.
 

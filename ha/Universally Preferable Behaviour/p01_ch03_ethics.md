@@ -30,7 +30,7 @@ Da’a a matsayin horo shine duk wani ka’ida dake bada fifiko ga dabi’un mut
 
 Kamar yadda Hume yayi fitaccen nuni, ba zai yu ka cire “kamata” daga “ne”. Abunda yake nufi shine * fifiko* ba inda za ka ciro shi daga *zama*.  Da gaske ne duk mutumin da baya motsa jini kuma ke cin abinci mara gina jiki zai rasa koshin lafiya. Toh haka na nufin shi “ya kamata” ya motsa jini kuma yaci mai kyau? A’a “’kamatan” dalili ne akan *fifiko*.  Idan yana son zama lafiya, yya *kamata*ya motsa jini kuma yaci abinci me kyau. Da gaske ne idan mutum bai ci abinci ba—zai mutu—bamu iya dabara akan cewa ya *kamata* ya ci abinci. *Idan* yana son rayuw. Toh sai *dole* yaci.  Amma kuma, ra’ayin shi na rayuwa ko mutuwa nashi ne.
 
-Haka ma, idan kana son tuki daga New York zuwa San Francisco, ya *kamata”’ nabi gabasko kudu na iiya zama abun da duniya ta yarda cewa “’yafi.”
+Haka ma, idan kana son tuki daga New York zuwa San Francisco, ya *kamata”’ nabi gabasko kudu na iiya zama abun da duniya ta yarda cewa “’yafi”.
 
 Da gaske ne mutane kalilan ne *ke* tuki zuwa teku, amma hakan baya nufin duk duniya an yarda ba wanda zaai tuki zuwa cikin teku. Ka’idoji ba siyasa bane – ko, idan suka, mu bata samun matsalar bambam ce matsayin, kuma dole mu ajiye maganan da’a gaba daya daga harkan.
 
@@ -46,10 +46,10 @@ A jimulla, duk ka’’idar da ta Saba da kanta wurin bayani bata zama gaskiya. 
 
 Idan na baka hujjar lissafi mai sarkakiya, kuma ka kula, daga farko, nace wannan hujjojin sun ginu ne akan biyu ga biyu na nufin hudu da kuma biyar duk a tare, ba sai kaci gaba da karantar hujjojin karya ne.
 
-Haka nan, abunda muka ce kafin yanzu, idan nazo wurin ka nace “bana nan,” takaitaccen labari na ya rushe kansa. Idan ni na fada ma bana nan, ina nan kenan.
+Haka nan, abunda muka ce kafin yanzu, idan nazo wurin ka nace “bana nan”, takaitaccen labari na ya rushe kansa. Idan ni na fada ma bana nan, ina nan kenan.
 
-Idan nazo wurinka nace: “ba wani abu wai shi gaskiya,” ai ina bayani ne da nake ganin gaskiya ne bayan kuma nace ba gaskiya.  Hakan kuma, gardama na ya rushe kanshi.
+Idan nazo wurinka nace: “ba wani abu wai shi gaskiya”, ai ina bayani ne da nake ganin gaskiya ne bayan kuma nace ba gaskiya.  Hakan kuma, gardama na ya rushe kanshi.
 
-Idan nace ma wai “yare bai da ma’ana,”’ ai na karya ta kai na. Tunda maganan da nayi cewa yare bashi da ma’ana, yare a kalla nada ma’ana.
+Idan nace ma wai “yare bai da ma’ana”,’ ai na karya ta kai na. Tunda maganan da nayi cewa yare bashi da ma’ana, yare a kalla nada ma’ana.
 
 Idan nace ma “baka da hankali” anan gardama Na ya rushe kanshi, tunda ina amfani da hankalin ka ne wurin fada ma baka da hankali. Idan nayi nasara wurin takaitaccen labari na kan ka, wannan na nufin kana da hankali. Tunda sai na yarda kana da hankali kafin na fada kka yarda baka da hankali wanda baya yiwuwa.

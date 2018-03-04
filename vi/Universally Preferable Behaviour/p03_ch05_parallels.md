@@ -14,9 +14,9 @@ Chúng ta cho rằng thật thiết yếu khi đặt một chủ thể có đạ
 
 Tuy nhiên, sự tồn tại của “chính quyền” chẳng khác gì sự tồn tại của “Chúa”.
 
-Khi chúng ta nói về “Chúa,” điều chúng ta đang thực sự nói đến là “quan điểm của các linh mục.”
+Khi chúng ta nói về “Chúa”, điều chúng ta đang thực sự nói đến là “quan điểm của các linh mục”.
 
-Khi chúng ta nói về “chính quyền”, chúng ta *thật sự* muốn nói đến “sự bạo tàn của một thiểu số nhỏ.”
+Khi chúng ta nói về “chính quyền”, chúng ta *thật sự* muốn nói đến “sự bạo tàn của một thiểu số nhỏ”.
 
 Quan niệm của “trật tự tự phát,” cái đã được chứng minh rõ ràng trong các lĩnh vực vật lý và sinh học, đối với chúng ta vẫn còn là điều không thể tưởng tượng trong lĩnh vực xã hội.
 
@@ -36,11 +36,11 @@ Chúng ta không thể có cả hai thứ được.
 
 ### Những Giải pháp
 
-Chúng ta có thể chọn cách tin rằng chính quyền là một thể chế đạo đức và cần thiết. Chúng ta có thể chọn cách tin rằng không có chính quyền, xã hội sẽ rơi vào “tình trạng hỗn độn,” và thế giới sẽ chuyển sang chiến tranh lẫn nhau. Chúng ta có thể chọn tin rằng không có chính quyền, sẽ chẳng có đường xá, giáo dục, chăm sóc sức khỏe, lương hưu, thư viện hay bảo vệ tài sản, vân vân.
+Chúng ta có thể chọn cách tin rằng chính quyền là một thể chế đạo đức và cần thiết. Chúng ta có thể chọn cách tin rằng không có chính quyền, xã hội sẽ rơi vào “tình trạng hỗn độn”, và thế giới sẽ chuyển sang chiến tranh lẫn nhau. Chúng ta có thể chọn tin rằng không có chính quyền, sẽ chẳng có đường xá, giáo dục, chăm sóc sức khỏe, lương hưu, thư viện hay bảo vệ tài sản, vân vân.
 
 Những sự mê tín dị đoan tương tự, dĩ nhiên, đã làm trì trệ sự tiến bộ của nhân loại xuyên suốt lịch sử. Điềm báo đáng kể nhất đối với những gì UPB tiết lộ về chính phủ là những gì khoa học tiết lộ về tôn giáo.
 
-Khi mà khoa học thực tế đã bắt đầu mặc nhiên công nhận một vũ trụ vận hành mà không có Chúa trời, tất cả các hành vi cuồng loạn kêu gào rằng sự diệt vong của thế giới đang gần kề, rằng xã hội sẽ rơi vào “tình trạng hỗn độn,” rằng nền văn minh sẽ chuyển sang chiến tranh lẫn nhau.
+Khi mà khoa học thực tế đã bắt đầu mặc nhiên công nhận một vũ trụ vận hành mà không có Chúa trời, tất cả các hành vi cuồng loạn kêu gào rằng sự diệt vong của thế giới đang gần kề, rằng xã hội sẽ rơi vào “tình trạng hỗn độn”, rằng nền văn minh sẽ chuyển sang chiến tranh lẫn nhau.
 
 Bất cứ thời điểm nào một hệ thống đi bào chữa cho quyền lực có thể được hình thành để vận hành mà *không* có quyền lực đó, tất cả những người có lợi từ việc thao túng quyền lực đó sẽ kêu gào rằng không có họ, tất cả đều sẽ bị mất đi.
 

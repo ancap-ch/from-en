@@ -116,7 +116,7 @@ Of course I can, but it will never be valid or true.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+If it is moral for Bob and Doug to rape Jane because they have “outvoted her”, what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
 Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
 

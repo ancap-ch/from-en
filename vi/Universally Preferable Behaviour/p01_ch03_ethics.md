@@ -46,10 +46,10 @@ Nói chung, bất kỳ học thuyết nào tự mâu thuẫn thì không có gi�
 
 Nếu tôi gửi một bằng chứng toán học phức tạp cho bạn, và bạn nhận thấy rằng, ngay từ đầu, tôi nói rằng bằng chứng của tôi dựa trên thực tế là hai cộng với hai đồng thời bằng cả cả bốn và năm, bạn không cần phải đọc nữa để biết rằng bằng chứng của tôi là vô giá trị.
 
-Tương tự, như đã đề cập ở trước, nếu tôi đến chỗ bạn và nói: “Tôi không tồn tại,” luận điểm của tôi tự động tự diệt.Nếu tôi có thể giao tiếp với bạn rằng tôi không tồn tại, thì rõ ràng tôi tồn tại.
+Tương tự, như đã đề cập ở trước, nếu tôi đến chỗ bạn và nói: “Tôi không tồn tại”, luận điểm của tôi tự động tự diệt.Nếu tôi có thể giao tiếp với bạn rằng tôi không tồn tại, thì rõ ràng tôi tồn tại.
 
-Nếu tôi đến với bạn và nói rằng: “Không có điều gì gọi là sự thật cả,” nghĩa là tôi đang đưa ra một khẳng định mà tôi cho là đúng rằng sự thật không tồn tại. Một lần nữa, lập luận của tôi tự diệt.
+Nếu tôi đến với bạn và nói rằng: “Không có điều gì gọi là sự thật cả”, nghĩa là tôi đang đưa ra một khẳng định mà tôi cho là đúng rằng sự thật không tồn tại. Một lần nữa, lập luận của tôi tự diệt.
 
-Nếu tôi nói với bạn rằng “Ngôn ngữ là vô nghĩa,” thì tôi cũng đã mâu thuẫn với bản thân mình. Để tôi giao tiếp bằng lời nói rằng ngôn ngữ là vô nghĩa, ngôn ngữ ít nhất phải có một số ý nghĩa nào đó.
+Nếu tôi nói với bạn rằng “Ngôn ngữ là vô nghĩa”, thì tôi cũng đã mâu thuẫn với bản thân mình. Để tôi giao tiếp bằng lời nói rằng ngôn ngữ là vô nghĩa, ngôn ngữ ít nhất phải có một số ý nghĩa nào đó.
 
 Nếu tôi nói với bạn rằng “giác quan của bạn không có hiệu lực” thì lập luận của tôi cũng tự diệt, vì tôi đang sử dụng thính giác của bạn để nói với bạn rằng thính giác của bạn là không có hiệu lực. Nếu tôi có thể truyền đạt thành công luận điểm của tôi cho bạn, thì thính của bạn phải có hiệu lực. Vì vậy tôi phải giả định rằng các giác quan của bạn là hợp lệ để thuyết phục bạn rằng các giác quan của bạn là không hợp lệ, điều này không thể có ý nghĩa.

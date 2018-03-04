@@ -13,11 +13,11 @@ Gikonsiderar nato nga importante kini, sa tunga sa atong katilingban, nagbutang 
 
 Bisan pa niana, “ang gobyerno” kay wala minglungtad kompara sa “ginoo” nga anaa.
 
-Kung maghisgot kita og “mga diyos,”ang atong tinuod nga gipasabot niana kay kabahin sa“ang mga opinyon sa mga pari.”
+Kung maghisgot kita og “mga diyos”,ang atong tinuod nga gipasabot niana kay kabahin sa“ang mga opinyon sa mga pari”.
 
-Kung maghisgot kita og “gobyerno,” ang atong gipasabot niana kay “ang kaguliyang sa gagmay ra nga minoriya.”
+Kung maghisgot kita og “gobyerno”, ang atong gipasabot niana kay “ang kaguliyang sa gagmay ra nga minoriya”.
 
-Ang ideya sa “wala giplano nga kahan-ayan,” diin nga maayo kaayo nga napruwebahan ngadto sa dominyo sa pisika og biyolohia, nga nagpabilin nga dili masamkon nganhi kanato sa dominyo sa katilingban.
+Ang ideya sa “wala giplano nga kahan-ayan”, diin nga maayo kaayo nga napruwebahan ngadto sa dominyo sa pisika og biyolohia, nga nagpabilin nga dili masamkon nganhi kanato sa dominyo sa katilingban.
 
 Bisan pa niana, ang“mga gobyerno” kay dili na kinahanglan alang sa pakighugpong ug pagpadayon sa katilingban kompara sa gikinahanglan sa “mga ginoo” alang sa pakighugpong ug pagpadayon sa uniberso.
 
@@ -35,11 +35,11 @@ Dili nato makuha ang duha.
 
 ### Mga Solusyon
 
-Pwede kita makapili nga motuo kita nga ang gobyerno kay parehong kinahanglan ug usa ka institusyon sa pamatasan. Pwede kita makapili nga motuo kita ana, kung walay gobyerno, ang katilingban kay malugmok ngadto sa“anarkiya,” ug ang kalibutan kay magunaw patubang sa gubat sa tanan nga batok sa tanan. Pwede kita makapili nga motuo kita nga kung wala ang gobyerno, wala sab ang mga kadalanan, walay edukasyon, walay pagtagad sa lawasnong kaayohan, walay pensyon para sa katigulangan, walay mga laybrari, walay proteksyon sa mga katigayunan ug uban pa.
+Pwede kita makapili nga motuo kita nga ang gobyerno kay parehong kinahanglan ug usa ka institusyon sa pamatasan. Pwede kita makapili nga motuo kita ana, kung walay gobyerno, ang katilingban kay malugmok ngadto sa“anarkiya”, ug ang kalibutan kay magunaw patubang sa gubat sa tanan nga batok sa tanan. Pwede kita makapili nga motuo kita nga kung wala ang gobyerno, wala sab ang mga kadalanan, walay edukasyon, walay pagtagad sa lawasnong kaayohan, walay pensyon para sa katigulangan, walay mga laybrari, walay proteksyon sa mga katigayunan ug uban pa.
 
 Parehas nga mga pagtuotuo, kay lagi, ang nagkulungo sa paglambo sa katawhan sa tibuok kasaysayan. Ang labing importante nga pangsugod kung unsa ang gipaila sa UPB kabahin sa gobyerno kay mao sab ang gipaila sa siyensya kabahin sa relihiyon.
 
-Sa ingon nga ang siyensiya kay nagsugod aron sa praktikal basehan nga ang uniberso kay molambo maski walay ginoo, tanan pamaagi sa pagsinggit-singgit og pagpanawagan nga ang katapusan sa tibuok kalibutan kay nagkaduol na, nga ang katilingban kay mopatubang sa “anarkiya,” ug ang sibilisasyon kay mawala patubang sa gubat sa tanan batok sa tanan.
+Sa ingon nga ang siyensiya kay nagsugod aron sa praktikal basehan nga ang uniberso kay molambo maski walay ginoo, tanan pamaagi sa pagsinggit-singgit og pagpanawagan nga ang katapusan sa tibuok kalibutan kay nagkaduol na, nga ang katilingban kay mopatubang sa “anarkiya”, ug ang sibilisasyon kay mawala patubang sa gubat sa tanan batok sa tanan.
 
 Sa bisan unsa nga panahon nga ang sistema nga mingkatarungan og gahom kay makasamkon nga makadumala ra kung *wala* to nga gahom, kadtong tanan nga nakaginansya gikan sa pagtuis sa kadto nga gahom kay mingsinggit ngadto kanila nga kung wala kato nila, wala na sab ang tanan.
 

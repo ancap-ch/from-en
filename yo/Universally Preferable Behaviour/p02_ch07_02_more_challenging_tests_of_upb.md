@@ -6,13 +6,13 @@ Ni kedere, imuwa fun ifiyesi yi tea won ibeere iwa ti o se gbalagbaye lorun-o ye
 
 Oshi ri bi pe o fe le fun wa lati fi ogbon pe eleyi ni iwa ti o ni alayeologbon-kilode?
 
-Lakoko,”ibi” je ishe ti a le daduro pelu lilo owo agbara. Fifi tipatipa bayan lo je ishe “ibi”, tori naa, mole lo agbara lati gbeja aara mi lati owo eni ti o fe fipa bnamilopo.
+Lakoko”,ibi” je ishe ti a le daduro pelu lilo owo agbara. Fifi tipatipa bayan lo je ishe “ibi”, tori naa, mole lo agbara lati gbeja aara mi lati owo eni ti o fe fipa bnamilopo.
 
 She mole yiban fun eni ti o jeja lair u ofin?
 
 Yoo dabi wipe ko mopolowa lati jiyan wipe mole yiban-sugbon kinidi?
 
-Awon ila kam wa si gbigbalagbaye oye yii. Lapere, awon kan le maa jeeja- won le ma gbe ni aginju, sowipe awon toku n gbe leti odo ni bi ti eja posi, won si maleshe laijeja. Sibesibe, eyi koleto, nigbati a gba wipe aishe omokunrin ti ko le she si fifabayanlopo kosowipe imuwa fun ifiyesi yi “ ibi ni latifipabayanlo” je otitoo.”
+Awon ila kam wa si gbigbalagbaye oye yii. Lapere, awon kan le maa jeeja- won le ma gbe ni aginju, sowipe awon toku n gbe leti odo ni bi ti eja posi, won si maleshe laijeja. Sibesibe, eyi koleto, nigbati a gba wipe aishe omokunrin ti ko le she si fifabayanlopo kosowipe imuwa fun ifiyesi yi “ ibi ni latifipabayanlo” je otitoo”.
 
 Rara, eja pupa yi ni imuwa fun ifesii yi ibi ni lati jeeja” ni oro ti a n pe ni “eja”
 
@@ -20,7 +20,7 @@ Omowe kole ri otito ninu sisowipe oye giravitii lo fun apata pupa nikan. Nigba t
 
 Bakanaa, ni alaye ti o waloke, iwati alegbalagbaye le gba ishee ijeun, kosi magba ounti a n je, nigba ti oun ti an je okin shee isshe, sugbon bi oun ti a shishe lori.
 
-Ni bakanaa, alaigbagbo kole ri otito ninu imuwa fun ifiyesi ibi ni lati fipa ba agbalagba lopo. Fifipabayanlopo ni iwa, boya ojiya je agbalagba abi omiran o nise pelu imuwa fun ifiyesi yii, niwon igba ti ojiya ba je eniyan, elo fun agbaye je bakana.” Eko gbodo jale” je imuwa fun ifiyesi to je tooto gege bi iwa ti a le gba lagbaye- o ko gbodo ji ewe ojebe- fun idi kekere yi wipe ole ni ibaramu pelu oun ini- ewe shi je omo labe oun ini, a o sile  yo lara awon oun ini to ku ki asi fun won ni ofin iwa tiwon.
+Ni bakanaa, alaigbagbo kole ri otito ninu imuwa fun ifiyesi ibi ni lati fipa ba agbalagba lopo. Fifipabayanlopo ni iwa, boya ojiya je agbalagba abi omiran o nise pelu imuwa fun ifiyesi yii, niwon igba ti ojiya ba je eniyan, elo fun agbaye je bakana”. Eko gbodo jale” je imuwa fun ifiyesi to je tooto gege bi iwa ti a le gba lagbaye- o ko gbodo ji ewe ojebe- fun idi kekere yi wipe ole ni ibaramu pelu oun ini- ewe shi je omo labe oun ini, a o sile  yo lara awon oun ini to ku ki asi fun won ni ofin iwa tiwon.
 
 Imuwa fun ifiyesi”jijeja jeibi” ko se aseyege idanwo nkan agbaye toriwipe o ti wa lojukan ju ki a fi siagbaye lo- odabi kama sowipe” oye giraviti mi she lo fun apata pupa nikan”. Ti oba je oye giraviti, ogbodo lo fun gbogbo nkan: ti o ba lo fun apatapupa nkan, nigbana, ko kin shee oye giraviti.
 
@@ -44,7 +44,7 @@ Nibayi, a pari pelu iodiwo lori” ibi ti ale she laaishee” ti oba je ibi lati
 
 Nibakanaa, oro naa “eja” je iyolenu ninu ishele oro yi, nigba ti o ti wa loju kan ju ko wa lagbaye lo. Iwa ti alegbalagbaye ni iyipada jr ‘nkan ibi ni ki eyan ma pa oun ti o lemi”
 
-Ti obaribe, ibi ni lati pa, a wa dojuko wahala” ibi ti a o le maishashe.” ko si eniyan kan ti ole she lai pa oun elemi miran bi virussi,ewe,tabi eanko. Nibayi,”emi eniyan” tunmo si “ibi”, sugbon tie mi eniyan ba tunmo si ibi, nibayi ko le je ibi, tori aishe re ko le sheeshee.
+Ti obaribe, ibi ni lati pa, a wa dojuko wahala” ibi ti a o le maishashe”. ko si eniyan kan ti ole she lai pa oun elemi miran bi virussi,ewe,tabi eanko. Nibayi”,emi eniyan” tunmo si “ibi”, sugbon tie mi eniyan ba tunmo si ibi, nibayi ko le je ibi, tori aishe re ko le sheeshee.
 
 Ti aba so wipe “ ibi ni lati paayan”-shee eleyi ma jeki eja ti o njeyan je eranko ibi?
 

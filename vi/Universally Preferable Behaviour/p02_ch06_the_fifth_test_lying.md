@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## Phép Thử Thứ năm: Nói dối
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Câu hỏi về *nói dối* thật thú vị vì nói lên sự thật thường được coi là ưu thích phổ quát hơn, nhưng lại không thể thực thi bằng bạo lực.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Nhìn chung nó được coi là một yêu cầu nghiêm ngặt *hơn* so với “đúng giờ,” nhưng *ít* nghiêm ngặt hơn “ăn trộm.” Khuôn khổ của UPB nói gì về điều này?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Đương nhiên, bất kỳ giả thuyết đạo đức nào đề xuất “nói dối là tốt” ngay lập tức tự diệt, vì nếu người đề nghị *là* nói dối – là tốt – vậy thì nói dối là xấu, bởi vì anh ta đã nói sự thật là nói dối là xấu.
 
-For instance:
+Ví dụ:
 
-**Bob:** Lying is always good.
+**Bob:** Nói dối luôn luôn là tốt.
 
-**Doug:** Are you lying?
+**Doug:** Bạn đang nói dối phải không?
 
-**Bob:** Yes.
+**Bob:** Đúng vậy.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Vậy thì , nói dối phải là xấu, vì bạn đang nói dối về việc nó là tốt.
 
-Or:
+Hoặc là:
 
-**Bob:** Lying is always good.
+**Bob:** Nói dối luôn luôn là tốt.
 
-**Doug:** Are you lying?
+**Doug:** Bạn đang nói dối phải không?
 
 **Bob:** No.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Vì vậy nói dối không phải luôn luôn tốt, vì bạn nói sự thật về nói dối là tốt.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Tuy nhiên, nói dối, không đòi hỏi bắt đầu bằng sự ép buộc, và như vậy nó không vi phạm khả năng *có thể tránh được*. Chính vì chúng ta có thể tránh được những kẻ lừa dối, chúng ta không thể bắt họ một cách hợp lí.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Nói dối cũng phù hợp hơn trong phạm vi *bạo lực*, trong chừng mực đạo đức dùng lời nói dối để tự vệ, cũng như việc sử dụng bạo lực để tự bảo vệ mình. Thật khó để nghĩ đến một tình huống mà một người sẽ “bị trễ” trong khi tự bảo vệ, hoặc “thô lỗ.” Tuy nhiên, nếu một người đàn ông đột nhập vào nhà của bạn và đòi biết vị trí mà người vợ yêu quý của bạn đang ở đó để đánh đập cô ấy, điều đó có vẻ như là một sự châm biếm cho sự toàn vẹn nếu từ chối dùng lời nói dối. Trong trường hợp này nói dối sẽ là một hình thức tự vệ của bên thứ ba và cũng như là việc sử dụng bạo lực trong tự vệ. Tương tự như vậy, nếu một người đàn ông có được một trăm đô la từ chúng tôi bằng cách nói dối, chúng tôi có thể nói dối anh ta để lấy lại.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+Vì vậy chúng ta có thể nói dối với một kẻ bịp bợm, giống như cách chúng ta tự vệ bằng cú đấm, nhưng chúng ta sẽ không hoàn toàn ủng hộ hành động leo thang nhỏ nhen của việc “đáp trả” một người chậm trễ bằng cách xuất hiện trễ hơn thế nữa.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Sự khác biệt là “bị trễ” không gây ra tổn hại một cách tích cực như là nói dối. Một người chậm trễ thường gây phiền nhiễu, nhưng về cơ bản không làm suy yếu khả năng xử lý thực tế của bạn. Một bên là tôi trễ một giờ cho cuộc họp vào lúc bảy giờ đúng vào buổi giờ sáng - một bên khác nữa để thuyết phục bạn rằng chúng ta thực sự đã lên lịch cuộc họp vào tám giờ đúng vào buổi sáng, khi tôi biết rằng đây là điều không đúng.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Tấn công sự tự tin của bạn trong tâm trí[^5] thì khôn ngoan hơn nhiều so với là chỉ làm cho bạn chờ đợi, vì nó là hành động *sử dụng* sự tin tưởng của người khác để làm suy yếu lòng tin của một người, một điều thật sai lạc, vì dùng một giá trị để làm suy yếu một giá trị, như việc giả mạo. Đây là cách UPB xác nhận tính phi hợp lý của đề xuất “nói dối là tốt,” và khẳng định rằng hành động lừa dối ai đó tệ hơn là “bị trễ”, nhưng tốt hơn “hành hung.”
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Đôi khi được gọi là "ánh sáng khí,” sau bộ phim cũ.

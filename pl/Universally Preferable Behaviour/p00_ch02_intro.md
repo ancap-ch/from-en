@@ -28,7 +28,7 @@ No sane man experiences God directly. In his daily life, he fully accepts that *
 
 Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
 
-Nasza wiara w cnotę wojska leży także w tej "strefie zerowej". Jeśli prywatny człowiek dostaje pieniądze za morderstwo innego człowieka, nazywamy go "pistoletem do wynajęcia" i potępiamy go jako zabójcę. Jeśli jednak ten człowiek założy zielony kostium z pewnymi odznakami *i popełni ten sam czyn*, witamy go jako bohatera i nagradzamy go emeryturą. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone,” where murder magically becomes “virtuous.”
+Nasza wiara w cnotę wojska leży także w tej "strefie zerowej". Jeśli prywatny człowiek dostaje pieniądze za morderstwo innego człowieka, nazywamy go "pistoletem do wynajęcia" i potępiamy go jako zabójcę. Jeśli jednak ten człowiek założy zielony kostium z pewnymi odznakami *i popełni ten sam czyn*, witamy go jako bohatera i nagradzamy go emeryturą. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone”, where murder magically becomes “virtuous”.
 
 Jeśli ta "pusta strefa" jest poprawna, żadna logiczna propozycja nie może się utrzymać. Jeśli twierdzenie jest prawdziwe - i dokładne przeciwieństwo tego zdania jest również prawdziwe - wówczas logiczne rozumowanie staje się niemożliwe. Rozwój racjonalnej nauki był ciągłym atakiem na tę "strefę zerową" i wtargnięciem obiektywnej konsekwencji w te szalone kieszenie subiektywnego kaprysu.
 
@@ -66,7 +66,7 @@ Since they are not only irrational, but *anti*-rational, “middle truths” rem
 
 "Środkowe prawdy" zawsze przyjmują formę prawdy, po której następuje kłamstwo. "Zeus to pogański przesąd" jest prawdziwym stwierdzeniem, które zostało otwarcie przyznane przez chrześcijańskich prozelitatorów. Kłamstwo następujące: "Jahwe nie jest pogańskim przesądem, ale prawdziwym i żywym Bogiem."
 
-Możemy spersonalizować to nieco bardziej na przykładzie, który będzie znany każdemu, kto kiedykolwiek doradzał dysfunkcyjnemu przyjacielowi. “My last boyfriend was a real jerk,” she will say, and you will fervently agree. “My new boyfriend is really *great* though,” she will add, and you will try not to roll your eyes.
+Możemy spersonalizować to nieco bardziej na przykładzie, który będzie znany każdemu, kto kiedykolwiek doradzał dysfunkcyjnemu przyjacielowi. “My last boyfriend was a real jerk”, she will say, and you will fervently agree. “My new boyfriend is really *great* though”, she will add, and you will try not to roll your eyes.
 
 It is very hard not to replace one illusion with another.
 
@@ -76,7 +76,7 @@ It is very hard not to replace one illusion with another.
 
 “Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Na przykład, aż do XVIII wieku, biolodzy wierzyli w "spontaniczne generowanie" lub ideę, że życie może wyrastać z nieżywej materii. Oczywiście nigdy nie zostało to zaobserwowane, ale było zgodne ze starożytnymi pismami zarówno filozoficznymi, jak i religijnymi, a więc zostało przyjęte jako fakt. Również przed rewolucją Einsteina w 1905 r. Uważano, że światło przemieszcza się przez stałą i niewidzialną substancję zwaną "eterem świetlnym", tak jak fale dźwiękowe poruszają się w powietrzu. Żaden naukowiec, który wierzył w tę teorię, nie posiadał żadnych dowodów empirycznych dla tego "eteru", ani osobiście, ani naukowo - ale uznano za konieczne dostosowanie się do innych obserwowalnych cech.
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth.” It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth”. It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
 
 Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
 
@@ -114,7 +114,7 @@ However, the philosophers who oppose *all* intellectual error are the sworn enem
 
 Metoda naukowa wymaga, aby każda teza była poparta dowodami i racjonalnością. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Nieuchronnie religijni pasożyci próbują bronić swojej tezy, próbując podzielić rzeczywistość na "dwa królestwa" - naukowe i duchowe. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths”, which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
 
 ### Effective Parasitism
 
