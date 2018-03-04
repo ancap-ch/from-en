@@ -117,9 +117,9 @@ b. ** sa posibleng lawak, kung saan hindi mananagot ang Tagapaglesensya sa iyo s
 
 c. Ang disclaimer ng mga garantiya at limitasyon ng nakalaan na pananagutan sa taas ay dapat na bigyang kahulugan sa tamang pag uugali, Para sa posibleng lawak. lalo na sa higit-kumulang na pagganap ng disclaimer at pananagutan sa lahat.
 
-### Section 6 – Term and Termination.
+### Seksyon 6 - Termino at Pagwawakas.
 
-a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
+a. Ang Pampublikong Lesensya ay ilalapat para sa tema ng Copyright at halintulad sa Karapatan ng Lesensyado dito. Gayunpaman, kapah ikaw ay nagkamali sa pag-comply sa Pampublikong Lesensya na ito, ang iyong karapatan sa ilalim ng Pampublikong Lesensya ay awtomatikong tapos na.
 
 b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
 
