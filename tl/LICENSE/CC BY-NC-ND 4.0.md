@@ -141,9 +141,9 @@ b. Kahit anong mga kaayusan, mga pagkakaintindihan, o mga pagkakasunduan hinggil
 
 ### Seksyon 8 - Interpretasyon.
 
-a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
+a. Para maiwasan ang pag-dududa, ang pampublikong Lesensya na ito ay hindi, at hindi dapat na ma interpretasyon para, mabawasan. limitahan, pagbawalan, o mapatawan ng mga kondisyon sa kahit anong gamit na Materyal na Lesensya na maaring maging ayon sa batas na gamuwa ng walang permiso sa ilalim ng Pampublikong Lesensya na ito.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sa posibleng lawak, sa kahit anong probisyon ng Pampublikong Lesensya na ito ay hindi itinuturing maipatupad, ito dapat ay awtomatikong mareporma sa minimum na lawak na kinakailangan magawang maipatupad. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
