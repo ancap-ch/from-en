@@ -121,11 +121,11 @@ c. Ang disclaimer ng mga garantiya at limitasyon ng nakalaan na pananagutan sa t
 
 a. Ang Pampublikong Lesensya ay ilalapat para sa tema ng Copyright at halintulad sa Karapatan ng Lesensyado dito. Gayunpaman, kapah ikaw ay nagkamali sa pag-comply sa Pampublikong Lesensya na ito, ang iyong karapatan sa ilalim ng Pampublikong Lesensya ay awtomatikong tapos na.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa ilalim ng Seksyon 6(a), ibalik ito:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. awtomatiko bilang simula sa petsa ng paglabag ay magaling na, ibinigay ito ng magaling sa loob ng 30 na araw ng iyong na diskubre sa paglabag: o
 
-2. upon express reinstatement by the Licensor.
+2. sa muling pagbibigay ng pagpapahayag ng Tagapaglesensya.
     
     For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
 
