@@ -48,15 +48,15 @@ Os sacerdotes fizeram-no durante o início da revolução científica. Sem Deus,
 
 Nada disso demonstrou ser verdade, é claro. Na verdade, foi exactamente o *contrário* que acabou por ser verdade. O fim da religião como visão predominante do mundo, pavimentou o caminho para a separação da igreja e do estado, para o fim da aristocracia, o surgimento do mercado livre e o estabelecimento de muitas liberdades humanas, em áreas significativas do mundo.
 
-A queda de Deus foi a ascensão da humanidade.
+A queda de Deus foi a elevação da humanidade.
 
 De igual modo, quando começámos a ver a sociedade como os primeiros cientistas viram o universo - como um sistema auto-sustentável sem a necessidade de uma autoridade central imaginária - pudemos começar a perceber, realmente, as possibilidades de liberdade para a humanidade.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+O estabelecimento de um monopólio central e impositivo na sociedade, atrasa perpétuamente o progresso do conhecimento, da sabedoria, da virtude e da saúde física e mental - tal como o estabelecimento de um monopólio central e obrigatório no *universo* retardou, infinitamente, o progresso do conhecimento, da sabedoria e da ciência.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+A única forma de opor-se às entidades imaginárias é com a verdade implacável. A maneira de se opor a Deus é com a razão, a evidência e a ciência.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+O modo de se opor ao Estado - a entidade imaginária mais perigosa - é com a razão, a evidência e a ciência.
 
 ### The Future
 
