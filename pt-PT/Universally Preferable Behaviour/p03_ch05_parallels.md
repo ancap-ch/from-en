@@ -1,12 +1,12 @@
 ## Paralelos
 
-Antes da Revolução Científica, era considerado impossível que o mundo natural se pudesse sustentar sem uma agremiação consciente e "moral" no seu centro. O sol subia nas correntes de uma carruagem sobrenatural; A lua era um irmão frio e solitário do sol. As constelações delineavam contos e sepulturas dos deuses e as tempestades resultavam da fúria dos demónios.
+Antes da Revolução Científica, era considerado impossível que o mundo natural se pudesse sustentar sem uma deidade consciente e "moral" no seu centro. O sol subia nas correntes de uma carruagem sobrenatural; A lua era um irmão frio e solitário do sol. As constelações delineavam contos e sepulturas dos deuses e as tempestades resultavam da fúria dos demónios.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+A ideia de que a natureza era um sistema auto-sustentável e auto-criador, era quase inimaginável. A revolução de Darwin, a ideia de que a vida não foi criada, mas que evoluiu, trouxe essa teoria do material para o mundo biológico.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Antes da ciência, no centro de cada sistema complexo, jazia uma consciência virtuosa - sem a qual esse sistema flutuaria no caos e deixaria de existir.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Infelizmente, essa "consciência virtuosa" era, simplesmente, uma ilusão, para torná-la mais benevolente. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
