@@ -84,10 +84,10 @@ Kung ang aking tungkulin ay tumugon sa bawat posibleng pagtutol sa bawat linggwi
 
 Samakatuwid aking mapagkumbabang iminumungkahi sa iyo na maghintay hanggang makita mo kung gaano kaepektibo ang etikal na balangkas na aking ipinapahayag sa pagpapatunay ng pinakakaraniwang tinanggap na moral na mga maksim ng sangkatauhan bago magbigay ng huling husga sa teorya.
 
-I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
+Ako ay lubos na naniniwala na ang kahulugan ng rasyonal na etikal na balangkas ay ang pinakamahalagang tungkulin na kinakaharap ng sangkatauhan. Aking lubos na ikinalulugod ang iyong interes na mahalagang bagay na ito - at muli gaya ng palagi pinasasalamatan ang mga nagbigay donasyon na siyang naging daan upang ang gawain na ito ay maging posible.
 
-I ride into battle well armed by others.
+Ako ay tutungo sa digmaan na armado ng dahil sa ibang tao.
 
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
+[^1]: Karamihan dito ay tatalakayin ng mas detalyado sa kabuuan ng kurso ng librong ito.
 
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
+[^2]: Syempre, ako ay nabigo, subalit ako ay nabigo ng kagila-gilalas, sa siyang parehong nakakapagpatatag at kawili-wili!
