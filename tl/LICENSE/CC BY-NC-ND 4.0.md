@@ -143,9 +143,9 @@ b. Kahit anong mga kaayusan, mga pagkakaintindihan, o mga pagkakasunduan hinggil
 
 a. Para maiwasan ang pag-dududa, ang pampublikong Lesensya na ito ay hindi, at hindi dapat na ma interpretasyon para, mabawasan. limitahan, pagbawalan, o mapatawan ng mga kondisyon sa kahit anong gamit na Materyal na Lesensya na maaring maging ayon sa batas na gamuwa ng walang permiso sa ilalim ng Pampublikong Lesensya na ito.
 
-b. Sa posibleng lawak, sa kahit anong probisyon ng Pampublikong Lesensya na ito ay hindi itinuturing maipatupad, ito dapat ay awtomatikong mareporma sa minimum na lawak na kinakailangan magawang maipatupad. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Sa posibleng lawak, sa kahit anong probisyon ng Pampublikong Lesensya na ito ay hindi itinuturing maipatupad, ito dapat ay awtomatikong mareporma sa minimum na lawak na kinakailangan magawang maipatupad. Kung ang probisyon ay hindi maaring mabago. ito ay dapat na inihihiwalay mula sa Pampublikong Lesensya ng hindi naaapektuhan ang pagpapatupad ng natitirang mga tuntunin at mga kondesyon.
 
-c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
+c. Walang tuntunin o kondisyon sa Pampublikong Lesensya na ito at ito dapat ay talikdan at walang pagkakamali upang sumunod sa paghayag at payag sa Tagapaglesensya.
 
 d. Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
