@@ -14,7 +14,7 @@ Trở lại với con chuột thí nghiệm về đạo đức kém may mắn, c
 
 Sau đó chuyện gì sẽ xảy ra?
 
-Rõ ràng, nguyên tắc rằng “gian lận là điều tốt” không thể được áp dụng đồng thời trên cả Doug và Bob - bởi để có thể thực hiện được hành động gian lận, Doug phải hành động gian dối và Bob phải hành động thật thà. Chính vì thế để làm cho hành động “đạo đức” của Doug xảy ra, Bob phải hành động “một cách vô đạo đức.”
+Rõ ràng, nguyên tắc rằng “gian lận là điều tốt” không thể được áp dụng đồng thời trên cả Doug và Bob - bởi để có thể thực hiện được hành động gian lận, Doug phải hành động gian dối và Bob phải hành động thật thà. Chính vì thế để làm cho hành động “đạo đức” của Doug xảy ra, Bob phải hành động “một cách vô đạo đức”.
 
 UPB hủy bỏ khả năng này, vì không một lý thuyết đạo đức nào có thể yêu cầu các hành động trái ngược nhau trong cùng một hoàn cảnh.
 

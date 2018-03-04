@@ -2,7 +2,7 @@
 
 Nói chung, chúng ta sẽ sử dụng thuật ngữ *thẩm mỹ* để đề cập đến các sở thích không bắt buộc – phổ quát hay cá nhân - trong khi *đạo đức* hoặc *phẩm hạnh* sẽ đề cập đến các sở thích bắt buộc. Sử dụng phương pháp khoa học để làm các lý thuyết vật lý có hiệu lực là *ưu thích phổ quát* (tức là bắt buộc), nhưng chúng ta không thể sử dụng vũ lực để *áp đặt* phương pháp khoa học đối với những người không sử dụng nó, vì *không sử dụng phương pháp khoa học không phải là hành động bạo lực*. Các hành động phi bạo động theo như bản chất của chúng là *có thể tránh được*. Nếu một nhà vật lý ngừng sử dụng phương pháp khoa học, nhưng thay vào đó bắt đầu tham khảo các lá bài, anh ta sẽ không áp đặt sự lựa chọn của mình cho tôi, và tôi có thể tránh được anh ta. Một kẻ hiếp dâm, mặt khác, là dùng bạo lực áp đặt sở thích của mình lên nạn nhân của mình.
 
-Mặc dù trước tiên chúng tôi tập trung vào UPB trong lĩnh vực đạo đức, UPB bây giờ có thể được xem như là một “thuật ngữ ô", bao gồm các nguyên tắc như:
+Mặc dù trước tiên chúng tôi tập trung vào UPB trong lĩnh vực đạo đức, UPB bây giờ có thể được xem như là một “thuật ngữ ô”, bao gồm các nguyên tắc như:
 
 - Phương pháp khoa học
 - Luận lý
@@ -25,7 +25,7 @@ Giả sử bạn và tôi thiết lập các quy tắc cho một cuộc tranh lu
 
 Sự khác biệt giữa hai tình huống này (phi lý và dối trá) là sự khác biệt giữa cam kết khế ước và cam kết phi khế ước. Nếu tôi đưa cho bạn một trăm đô la và sau đó đi chỗ khác, tôi không thể chỉ đơn giản đến chỗ bạn sau một năm và nói rằng bây giờ bạn nợ tôi một trăm đô la, bởi vì nó là một khoản vay. Nếu ,mặt khác, bạn đồng ý trả lại tiền cho tôi trong một năm, và sau đó không làm như vậy, đó là tình huống khác.
 
-Trong ví dụ về “dối trá,” mặc dù bạn đã rõ ràng không giữ lời, và lãng phí thời gian của tôi, sẽ không có vẻ là đạo đức hoặc hợp lý nếu tôi rút súng ra và bắn bạn.
+Trong ví dụ về “dối trá”, mặc dù bạn đã rõ ràng không giữ lời, và lãng phí thời gian của tôi, sẽ không có vẻ là đạo đức hoặc hợp lý nếu tôi rút súng ra và bắn bạn.
 
 Một lý thuyết đạo đức hợp lý nên có khả năng giải thích tại sao lại như vậy.
 
@@ -53,9 +53,9 @@ Nếu, sau khi tuyên thệ một vợ một chồng, tôi lừa dối vợ tôi
 
 ### Avoidance
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff”, what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death”, if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
 
 This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
 
@@ -81,7 +81,7 @@ If someone breaks into my house and takes my wallet at gunpoint, I have every ri
 
 Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+There is a phenomenon known as “death by cop”, wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
 
 Can the UPB framework help us understand, classify and extend these moral standards?
 

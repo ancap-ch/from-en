@@ -20,7 +20,7 @@ Vì một số lý do tệ hại, vài nhà trí thức rất lấy làm vui t�
 
 ### Sắc thái của màu xám
 
-Trong lãnh thổ của “các khu vực xám,” thực sự chỉ có ba khả năng.
+Trong lãnh thổ của “các khu vực xám”, thực sự chỉ có ba khả năng.
 
 1. Không cái gì gọi là khu vực xám.
 2. Một số vùng xám nhất định tồn tại.
@@ -50,7 +50,7 @@ Trong các tranh luận đạo đức, nếu tôi được hỏi liệu tôi có
 
 Điều này đã được sử dụng làm cơ sở cho một số học thuyết đạo đức và cách tiếp cận, từ Nietzsche đến Rand. Sự ưa chuộng của mỗi cá nhân đối với sự sống còn được chuyển thành các học thuyết đạo đức trong đó đặt sự sống còn của cá nhân ở trung tâm.[^11]
 
-Loại “chủ nghĩa khoái lạc sinh học” này có thể là mô tả về "động cơ sinh tồn,” nhưng nó chỉ đúng trong chừng mực nào đó vì nó mô tả những gì mọi người thực sự *làm*, không phải là những gì họ *nên* làm.
+Loại “chủ nghĩa khoái lạc sinh học” này có thể là mô tả về "động cơ sinh tồn”, nhưng nó chỉ đúng trong chừng mực nào đó vì nó mô tả những gì mọi người thực sự *làm*, không phải là những gì họ *nên* làm.
 
 Nó cũng giới thiệu chủ nghĩa chủ quan hoàn toàn phi khoa học đối với vấn đề đạo đức. Ví dụ, nếu ăn cắp thực phẩm khi bạn đói được cho phép, vậy bạn có thể ăn cắp bao nhiêu thực phẩm ? Bạn phải đói đến mức nào? Bạn có thể ăn cắp thực phẩm không bổ dưỡng không? Thực phẩm phải dinh dưỡng đến đâu để biện minh cho việc ăn cắp nó? Bao lâu sau khi ăn cắp một bữa ăn, bạn có thể ăn cắp một bữa ăn khác? Bạn có được phép ăn cắp thức ăn thay vì tìm việc làm hoặc kêu gọi từ thiện?
 
@@ -70,4 +70,4 @@ Tất nhiên, sự nguy hiểm luôn tồn tại rằng một người vô đạ
 
 [^10]: Dĩ nhiên, nếu tôi là một con người không đủ năng lực hay rối trí đến nỗi tôi đã sắp chết đói, việc tống giam có thể cải thiện tình hình của tôi. 
 
-[^11]: Nietzsche "ý chí đến quyền lực” và Rand “những gì phục vụ cuộc sống của con người là điều tốt lành.”
+[^11]: Nietzsche "ý chí đến quyền lực” và Rand “những gì phục vụ cuộc sống của con người là điều tốt lành”.
