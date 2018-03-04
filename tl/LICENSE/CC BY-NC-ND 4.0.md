@@ -75,13 +75,13 @@ b. ***ibang mga karapatan.***
 
 ### Seksyon 3 -Mga Kondisyon ng Lesensya.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Ang iyong pagsasanay sa karapatan ng Lesensya ay hayagang gawa ng paksa sa mga sumusunod na kundisyon.
 
-a. ***Attribution.***
+a. ***pagpapalagay.***
 
-1. If You Share the Licensed Material, You must:
+1. Kung ibabahagi mo ang Materyal sa Lesensya. Dapat kang:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. panatilihin ang sumusunod kung ito ay sumusunod sa tagapaglesensya kasama ang Materyal na Lesensya:
     
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
