@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+## ارزش رفتار  ترجیح داده شده جهانی
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+تئوری جدید، اگر فقط واضحات را بیان کند، ارزش کمی دارد. اگر فیزیک فقط توضیحی دقیق از چگونگی گرفتن توپ را بیان کند، پس فیزیک نمی تواند یک پیشه ی ارزشمند باشد؛ زیرا ما از قبل *میتوانستیم* یک توپ را بگیریم. کشف اینکه زمین گرد است، تنها به سفر های دریایی طولانی مدت کمک میکند - هیچ کمکی به ما برای رفتن به مرکز شهر نمیکند. مکانیک کوانتومی تنها زمانی مفید است که روش شناسی های دیگر نتوانند دقت لازم را فراهم آورند -این در ساختن یک اتومبیل کمکی نمیکند.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+به همین ترتیب، چهارچوب UPB و قوانین اخلاقی که تایید یا رد میکند، باید به صورت ایده آل، بینش های شگفت انگیز در مورد جهانی که در آن زندگی میکنیم و روابطی که با یکدیگر داریم را به ما ارائه دهد.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+اگر هر آنچه که UPBانجام داد فقط اثبات این بود که تجاوز، قتل و سرقت اشتباه است، ارزش زیادی نداشت؛ زیرا هیچ کس اعتقاد ندارد که این اعمال از نظر اخلاقی پسندیده هستند.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+بنابر این اجازه دهید استفاده از این چهارچوب را برای جهانی که در آن زندگی میکنیم، شروع کنیم، و ببینیم که چه ارزش هایی از آن ساطع میشود.
