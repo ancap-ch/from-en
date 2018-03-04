@@ -71,9 +71,9 @@ b. ***ibang mga karapatan.***
 
 2. Ang Maliwanag at tatak ng karapatan ay hindi lesensyado sa ilalim ng Pampublikong Lesensya.
 
-3. Para sa posibleng lawak, ang mga pagpapaubaya ng lesensyado sa kahit anong karapatan na kolektahin mula saiyo ang pagsasanay ng Karapatan ng Lesensya, kung derekta o hanggang sa pag kolekta sa lipunan sa ilalim ng kahit ilang bolontaryo o pagpapaubaya ayon sa batas o sapilitang pamamaraan ng Lesensya. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+3. Para sa posibleng lawak, ang mga pagpapaubaya ng lesensyado sa kahit anong karapatan na kolektahin mula saiyo ang pagsasanay ng Karapatan ng Lesensya, kung derekta o hanggang sa pag kolekta sa lipunan sa ilalim ng kahit ilang bolontaryo o pagpapaubaya ayon sa batas o sapilitang pamamaraan ng Lesensya. Sa lahat ng mga kaso ang Tagapaglesensya ay hayagang irereserba ang kahit anong mga karapatan na kolektahin katulad ng mga royalty, Kabilang ang lesensya kung saan ang Materyal ay gamit para sa ibang NonCommercial na layunin.
 
-### Section 3 – License Conditions.
+### Seksyon 3 -Mga Kondisyon ng Lesensya.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
