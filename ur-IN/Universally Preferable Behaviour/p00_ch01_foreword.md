@@ -40,19 +40,19 @@
 
 اسی لئے اخلاقیات جدید علمی میں اضافی رہ گئی، جس طرح قرون وسطٰی "فلکیات" نے جدید فلکیات کے ساتھ کیا-ایک خیالی پران کا دایرہ، داستاں گویی، خطرے، مجبوری اور استحصال کی وجہ سے مجبور کیا-جس کی وجہ سے کوئی بھی اصلی پیشرفت جو سچائی کی طرف تھی وہ فعال طور پر خارج ہوی.
 
-یہ "درندا" جو اضافیتی اخلاقیات کا ہے دھندلا سا ہمارے اوپر منڈا رہا ہے، ہمارا شکار کرنا چاہتا ہے، جوازپیش محصول طریقہ اپنا رہا ہے، قید، احتساب اور جنگ اپنا رہا ہے. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
+یہ "درندا" جو اضافیتی اخلاقیات کا ہے دھندلا سا ہمارے اوپر منڈا رہا ہے، ہمارا شکار کرنا چاہتا ہے، جوازپیش محصول طریقہ اپنا رہا ہے، قید، احتساب اور جنگ اپنا رہا ہے. یہ ان نوجوانوں جو محدود نشست اور ریاستی اداروں میں ہے ان سے اپنی غلامی کروا رہا ہے؛ یہ ان غریبوں کو جو مزدور خیموں میں رہتے ہیں اپنی چال پھنستا ہے؛ یہاں تک کہ ان کو بھی اپنی غلامی کروا تا ہے جو نوزائیدہ اور عمیق کنووں کے قومی ادھاروں میں ہیں.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+جیسا کہ میں نے اپنی پرانی کتاب "پر حق: ایک فریب نظر ظلم" میں لکھا، ایک سب سے ضروری جھوٹ جو غیر ثابت اخلاقی نظریات کے بیچ میں تھا-ایسے نظریات ہمیشہ ان بچوں کو حقیقی اور صریح حقائق کی شکل میں دکھایا جاتا ہے، جبکہ سچائی تو یہ ہے کہ وہ محض ایک ثقافتی تعصب ہیں. سائنسدانوں کو کسی حکومت یہ روم کے بادشاہ کی ضرورت نہیں اس کی وجہ یہ بھی ہے کہ سائنسدانوں کے پاس ایک ایسا طریقہ کار مقصد ہے جس سے یہ لڈاییاں حل ہو سکتی ہیں: وہ ایک سائینسی طریقہ ہے. اس بولی کو اِرتقاء دکھانے کے لیے کسی درمیانی اختیار کی ضرورت نہیں اس کی وجہ یہ ہے کہ یہ "آزاد بازار" پر انحصار کرتا ہے جس میں جمع ہوے شخصیی انداز اور افادیت پر زور دیا گیا ہے.
 
-The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
+جدید اخلاقیات اور تاریخی اخلاقیات ایک وجہ یہ بھی ہے - انہوں نے ہمیشہ پہلے بچوں کی غنڈہ گردی پر بھروسہ کیا، اور پھر بڈھوں کا دھمکانا، یہ ایک جوڑ توڑ جھوٹ تھا جسے بھیس بدل کر نیک سچ کی طرح دکھایا گیا.
 
-The truth is that we need morality; the lie is that gods or governments can rationally define or justly enforce it.
+سچائی یہ ہے کہ ہمیں اخلاقیات کی ضرورت ہے؛ اور جھوٹ یہ ہے کہ بت اور حکومت صرف عقلی وضاحت دے سکتے ہیں یا بس اسے لاگو کر سکتے ہیں.
 
-My goal in this book is to define a methodology for validating moral theories that is objective, consistent, clear, rational, empirical – and *true*.
+اس کتاب میں میرا یہ مقصد ہے کہ میں اس چیز کی وضاحت کر سکھوں کہ ایک طریقہ کارجو توثیق اخلاقیاتی نظریات کیا ہے اور وہ ہے مقصد، یکساں، صاف، عقلی، آخباخت-اور سچ.
 
-I am fully aware that, at this moment, you will very likely be feeling a rising wave of scepticism. I fully understand that the odds that some guy out there on the Internet – the home world of crazies – has somehow solved the philosophical problem of the ages are not particularly high – in fact, they would be so close to zero as to be virtually indistinguishable from it.
+میں اس سے باخبر ہوں کہ، اس لمحے میں، آپ کو ابھی ایک ایسی چیز محسوس ہوگی جو آپکو شکوک و شبہات کی ایک بڈھتی ہوی لہر لگے گی. مجھے پوری طرح سے سمجھ آ گیا کہ جو مشکلات وہ ایک لڈکا جو وہاں انٹرنیٹ چلا رہا ہے - جو پاگلوں کا دنیاوی گھر ہے - کیا کسی نے برسوں سے پڈنے ہوئے فلسفیانے مشکلات ہل کئے ہیں جو خاص طور پر بڈی نہیں تھی- جبکہ، وہ کچھ نہ ہونے کے برابر تھیں اور ویسے وہ عملی طور پر ممتاز وامتیازات اور اس سے بالکل بھی میل نہیں کھاتی تھی.
 
-Still, not *quite* zero.
+ابھی بھی، بالکل صفر کے برابر نہیں تھی.
 
 ### Ground Rules
 
