@@ -1,12 +1,12 @@
 ## Paunang salita
 
-Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamangha-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng saalpi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
+Sa maraming mga kwentong diwata, mayroong nakatira na teribleng halimaw na may kamangha-manghang kapangyarihan, isang dragon o isang basilisk, na pinagmamalupitan ang mga nakapaligid na lupain. Ang mga lokal na taga-baryo ay nanginginig sa harapan ng halimaw; kanilang isinasakripisyo ang kanilang mga hayop, nagbabayad ng salapi at dugo sa pag-asang mapapayapa ang nakakamamatay na simbuyo nito.
 
-Karamihan ng tao ay tumitimbuwang sa ilalim ng anino ng halimaw na ito, tinatawag ang kanilang takot na "kabaitan, " - subalit may iilan - na lasing sa katapangan o kahangalan - na nagdesisyong lumaban. Taon kada taon, dekada kada dekadam, laksa kada laksa ng mga kampiyong punong-puno ng pag-asa ang sumubok na tapatan ng kanilang lakas, bertud at katusuhan laban sa teribleng mapagmalupit.
+Karamihan ng tao ay tumitimbuwang sa ilalim ng anino ng halimaw na ito, tinatawag ang kanilang takot na "kabaitan, " - subalit may iilan - na lasing sa katapangan o kahangalan - na nagdesisyong lumaban. Taon kada taon, dekada kada dekada, laksa kada laksa ng mga kampiyong punong-puno ng pag-asa ang sumubok na tapatan ng kanilang lakas, bertud at katusuhan laban sa teribleng mapagmalupit.
 
 Sumubok - at nabigo.
 
-Ang halimaw ay palaging imortal, kung kaya't ang mga tagabaryo ay hindi na umaasa pa na darating ang oras na mawawala ang kanilang manlulupig. ang halimaw ay hindi kailanman rasyonal, at walang pagnanais na makipagkasunduan, kung kaya't walang posibleng negosasyon.
+Ang halimaw ay palaging imortal, kung kaya't ang mga tagabaryo ay hindi na umaasa pa na darating ang oras na mawawala ang kanilang manlulupig. Ang halimaw ay hindi kailanman rasyonal, at walang pagnanais na makipagkasunduan, kung kaya't walang posibleng negosasyon.
 
 Ang tanging pag-asa ng mga desperadong tagabaryo ay kung may darating na lalaking tatalo sa halimaw.
 
@@ -14,13 +14,13 @@ Hindi maiiwasan, isang lalaki ang sumulong na ginulat ang lahat dahil siya ay lu
 
 Ang aklat na ito ay ang aking kwento ng personal na pag-atake sa nasabing halimaw.
 
-Ang halimaw ay ang paniniwala na imposibleng bigyang kahulugan ang isang makatwiran, rasyonal, sekula, at syentipikong etikal na sistema. Ang halimaw ay ang ilusyon na ang moralidad ay dapat magpakailanman mawala sa irasyonal na latian ng mga diyos at mga pamahalaan, na pinagtitibay ng praktikal na dahilan lamang, subalit magpakailanmang kulang sa lohikal na pagbibigay-katwiran at malinaw na pagbibigay-kahulugan. Ang halimaw ay ang pantasya na ang kabutihan, ating lubos na ligaya, ang ating pinakamalalim na kasiyahan, ay dapat ipagsantabi ng mga sekular na matatanda, at maiwan sa alikabok upang kalmutin, pagtawanan at pagsamatalahan ng mga pulitiko at mga pari - at mga magulang. Ang halimaw ay ang pamahiin na, kung walang pagbabatikos ng mga magulang, pananakot ng mga diyos o ng mga baril ng pamahalaan, hindi tayo magiging rasyonal at mabuti.
+Ang halimaw ay ang paniniwala na imposibleng bigyang kahulugan ang isang makatwiran, rasyonal, sekular, at syentipikong etikal na sistema. Ang halimaw ay ang ilusyon na ang moralidad ay dapat magpakailanman mawala sa irasyonal na latian ng mga diyos at mga pamahalaan, na pinagtitibay ng praktikal na dahilan lamang, subalit magpakailanmang kulang sa lohikal na pagbibigay-katwiran at malinaw na pagbibigay-kahulugan. Ang halimaw ay ang pantasya na ang kabutihan, ating lubos na ligaya, ang ating pinakamalalim na kasiyahan, ay dapat ipagsantabi ng mga sekular na matatanda, at maiwan sa alikabok upang kalmutin, pagtawanan at pagsamatalahan ng mga pulitiko at mga pari - at mga magulang. Ang halimaw ay ang pamahiin na, kung walang pagbabatikos ng mga magulang, pananakot ng mga diyos o ng mga baril ng pamahalaan, hindi tayo magiging rasyonal at mabuti.
 
 Ang halimaw ay nagpabagsak ng maraming mga bayani, mula kay Socrates tungo kay Plato tungo kay Augustine tungo kay Hume tungo kay Kant tungo kay Rand.
 
 Ang dulot sa sangkatauhan ay lubhang napakalaki.
 
-Dahil tayo nananatiling walang mabigay kahulugan sa isang rasyonal na sistema ng unibersal na moralidad, tayo ay napilitang magpasakit ng mga relihiyosong kababalaghan sa ating mga anak, o magbigay ng baril, kulungan at sandatahan sa maliit na monopolyo ng mga walang kaluluwang mangongontrol na tinatawag ang kanilang mga sarili na "ang estado."
+Dahil tayo ay nananatiling walang mabigay kahulugan sa isang rasyonal na sistema ng unibersal na moralidad, tayo ay napilitang magpakasakit ng mga relihiyosong kababalaghan sa ating mga anak, o magbigay ng baril, kulungan at sandatahan sa maliit na monopolyo ng mga walang kaluluwang mangongontrol na tinatawag ang kanilang mga sarili na "ang estado."
 
 Dahil ang tinatawag nating "etika" ay nananatiling personal at *kultural* lamang, hindi natin maiwasan na umasa sa pang-aapi, takot at karahasan upang pagtibayin ang panlipunang tuntunin. Dahil ang etika ay kulang sa rasyonal na basehan ng syentipikong pamamaraan, ang "moralidad" ay nananatiling nagpaparumi sa panliping digmaan ng mga madugong alamat, bawat gang ay ubos-lakas na naglalabanan para sa pagkontrol ng katapatan ng mga tao sa "kabutihan."
 
@@ -38,7 +38,7 @@ Ang reyalisasyong ito ay nagdulot ng pagsilang ng bagong henerasyon ng mga nihil
 
 Dahil wala tayong kasundaun ng isang buo, tumpak at rasyonal na balangkas ng pagsusuri ng moral na proposisyon, ang "moralidad" ay nananatiling nadudungisan ng mistisismo, at ng di maiiwasang korolari ng karahasan nito. Gaya ng, bago pa ang Kaliwanagan, ang mga relihiyosong sekta ay walang katapusang nakikipagdigmaan para sa kontrol ng talim ng aristokrasya, subalit sa ngayon ang nagpapaligsahang moral na mga mitolohiya ay nakikipagdigmaan para sa pagkontrol ng estado, at sa lahat ng makinarya nito ng pamimilit.
 
-Samakatuwid ang morality ay nananatili, relatibo tungo sa modernong syensya, gaya ng ginawa ng midibal na "astonomiya" sa modernong astronomiya - isang lupain ng imahinasyong mitolohiya, pinagtibay ng pagkukwento, pagbabanta, pamimilit at pananamantala - na siyang aktibong humahadlang sa tunay na pag-unlad tungong katotohanan.
+Samakatuwid ang moralidad ay nananatili, relatibo tungo sa modernong syensya, gaya ng ginawa ng midibal na "astonomiya" sa modernong astronomiya - isang lupain ng imahinasyong mitolohiya, pinagtibay ng pagkukwento, pagbabanta, pamimilit at pananamantala - na siyang aktibong humahadlang sa tunay na pag-unlad tungong katotohanan.
 
 Ang "halimaw" na ito ng relatibong etika ay lumilitaw dahan-dahan sa ating itaas, sinisila tayo, binibigyang katwiran ang pagbubuwis, pagpapakulong, pagsensura at mga digmaan. Inaalipin nito ang mga kabataan sa estadong eskwelahan at upuan ng Linggo; binibitag ang mga mahihirap sa malambot na mga gulag ng kapakanan; at kahit pa ang mga hindi pa isinisilang ay binibitag sa walang hanggang lalim ng balon ng nasyonal na pagkakautang.
 
