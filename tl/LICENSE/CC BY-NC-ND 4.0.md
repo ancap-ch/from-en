@@ -131,11 +131,11 @@ b. Kung saan may karapatan na gamitin ang Materyal na Lesensya sa pagwakas sa il
 
 c. Para maiwasan ang pag dududa, ang tagapaglesensya ay nag aalok ng Materyal na Lesensya sa ilalim ng mag kahiwalay na mga termino o mga kondisyon para mapigilan ang pag-papasa ng Materyal na Lesensya sa kahit anong oras; gayunman, ang pag-gawa ay hindi mapapawalang bisa ng Pampublikong Lesensya na ito.
 
-d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
+d. Mga Seksyon 1, 5, 6, 7, at 8 ang mabuhay sa terminasyon ng Pampublikong Lesensya na ito.
 
-### Section 7 – Other Terms and Conditions.
+### Seksyon 7 - Iba pang mga Tuntunin at mga Kondesyon.
 
-a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
+a. Ang Tagapaglesensya ay hindi dapat nakatali ang naumang karagdagan o magkaibang mga tuntunin o mga kondisyon sa pakipagugnay saiyo maliban kung nag mamadali na pumayag.
 
 b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
 
