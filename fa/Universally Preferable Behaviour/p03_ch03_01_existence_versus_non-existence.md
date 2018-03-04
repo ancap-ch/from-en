@@ -1,100 +1,100 @@
-## Existence Versus Non-Existence
+## وجود در برابر عدم وجود
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+غیر وجود را به عنوان آن چیزی تعریف می کنیم که جرم یا انرژی نداردو یا اثرات جرم یا انرژی را از خود نشان نمی دهد. مانند روابط قابل تشخیص مثل جاذبه زمین.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+خداوند جرم یا انرژی ندارد و یا اثرات آن را نشان نمی دهد-خداوند در حقیقت به هیچ طریقی، شکل و ساختاری تحقیق پذیر نیست؛ حتی از طریق حواس و یا از طریق عقلانیت.
 
-Thus if I say, “God exists,” what I am really saying is:
+بنابراین اگر بگویم، "خداوند وجود دارد"، چیزی که واقعا دارم می گویم این است:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*آنچه که وجود دارد باید قابل تشخیص باشد؛ خداوند قابل تشخیص نیست، اما وجود دارد-بنابراین، آنچه که وجود ندارد، وجود دارد.*"
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+به عبارت دیگر، با گفتن"خداوند وجود دارد" من یک تضاد غیرقابل تحمل ایجاد کرده ام. من "وجود" را به عنوان "عدم وجود تعریف کرده ام که همانند این حس را برای تعریف "زندگی" به عنوان "ماده بی جان" یا "تخته سنگ" در برابر "مقابل تخته سنگ" یا "مربع" در برابر"دایره" است.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+به همین ترتیب ، اگر من یک جهان متناوب ایجاد کنم که در آن " عدم وجود برابر با وجود" و "تناقض در برابر انسجام" و "حقیقت در مقابل دروغ" و "غیر منطقی برابر عقلانیت" است؛ پس آنچه که من واقعا انجام داده ام، ایجاد یک قلمرو به نام "خطا" است. هرچیزی که صحیح نیست را در آن قرار دهید و این قلمرو را به عنوان مکانی که در آن "خطا برابر است با حقیقت" تعریف کنید. [^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+البته ، مردم این"جهان متناوب" را ایجاد نمی کنند تا حقیقت را در جهان خود بی اعتبار کنند؛ بلکه برای نجات آنچه که در راقعیت اشتباه است و آن را درست می نامند، آن را ایجاد می کنند. برای مثال، هیچ کس ادعا نمی کند که "خدا ممکن است در جهان دیگری وجود داشته باشد، همانند که شما نمی توانید ادعا کنید که خدا وجود ندارد" از آنجا که *من* در آن جهان دیگر ممکن است وجود نداشته باشد، بنابراین نمی توانید ادعا کنید که من در اینجا وجود دارد.
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+آنها همچنین ادعا دارند که به درستی به استدلال:"در جهان دیگر، شما ممکن است با من موافق باشید که خدا وجود ندارد که شما را به یک ملحد تبدیل می کند." به درستی پاسخ ندهید.[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+اگر اظهارات معتبر در مورد واقعیت می تواند بی نهایت مخالف باشد زیرا برخی از حوزه های خیالی مانند "خطا برابر است با حقیقت" آنها را نامعتبر می کند، پس چیزی که حقیقتا گفته می شود این است:" هیچ اظهار مثبتی درباره ی واقعیت نمی تواند معتبر باشد." -هرچند ما به عنوان فیلسوفان، آنقدر خردمند هستیم که می دانیم این بیانیه خود تضادی است. زیرا این بیانیه ی مثبتی است که در نظر گرفته می شود درست است که می گوید هیچ عبارت مثبتی درست نیست. اگر هیچ چیز نمی تواند درست یا غلط باشد، -حتی این بیانیه-در نتیجه، هیچ اظهار نظری درباره ی هیچ چیزی نمی تواند انجام شود. با استفاده از کلمات، زبان انگلیسی ، مفاهیم قابل فهم- هیچ چیز هیچ معنایی ندارد، زیرا در این "جهان متناوب" ، چنین سخنان ساختاری ممکن است کاملا بی معنا باشد. اگر چیزهایی که می توانند در این جهان متناوب درست باشند برروی بیانیه ی که ما در این جهان ایجاد می کنیم، پس واضح است که هرخلاف آن با شر نیز درست است، که به این معناست که هیچ بیانیه ای نمی تواند درباره ی هیچ چیزی ایجاد شود. زیرا دقیقا بخش مخالف آن ها نیز می تواند به همان میزان درست باشد.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+حقیقت درست از اظهار"خطا برابر است با حقیقت" ، حشو احمقانه جمله "تهی برابر تهی است" می باشد.
 
-### The "Alternate Universe" In Human Society
+### "جهان جایگزین" در جامعه بشری
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+دلیل آنکه ما زمان زیادی را برای نظریه ی "جهان جایگزین" صرف کرده ایم این است که ارتباط مستقیمی با جامعه بشری دارد و برای "توجیه" بزرگترین اشتباهاتی که میان ما انجام شده است، استفاده می شود.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+ما در تجربه شخصی خود، می دانیم که قتل اشتباه است.در تلاش از طریق این نظریه که قتل از نظر اخلاقی در موارد بالا اشتباه است ، من به شدت تردید دارم که هر کسی شوکه شده بود که اعتقادات اخلاقی خود را از طریق استدلال انتزاعی دقیق UPBتایید کند. با این حال در این بخش، به طور رسمی مجاز است که شما واقعا شوکه شوید.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+بزرگترین جهش در فهم علمی به اصطلاح "نظریه های یکپارچه" است. انیشتن چند دهه تلاش کرد تا نظریه ی میدان یکپارچه را بسازد؛ و نظریه های فیزیک که نیرو های قوی و ضعیف را متحد می کنند، الکترومغناطیس ، گرانش و غیره گریزان باقی می مانند.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+با این حال، UPB به عنوان چهارچوب، نه تنها توهمات اخلاقی ما را در سطوح شخصی، فلسفی و جهانی توجیه می کند-بلکه پیامدهای عمیق و تکان دهنده ای برای جامعه انسانی نیز دارد.
 
-#### UPB In Action
+#### UPB در عمل
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+چهارچوب UPB گزاره های اخلاقی را با درخواست اینکه آنها به صورت داخلی پایدار هستند و از نظر زمان، مکان و افراد جهانی هستند، معتبر می کند.
 
-If we accept UPB, we must also accept the following corollary:
+اگر ما چهارچوب UPB را قبول کنیم، باید موارد زیر را نیز قبول کنیم:
 
-- Moral propositions are independent of costume.
+- گزاره های اخلاقی خارج از صحنه و لباس.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+این به آن معناست که یک مرد نمی تواند خصوصیات اخلاقی خود را با لباسش عوض کند. عمل تغییر لباس کسی، طبیعت پایه آن شخص را عوض نمی کند. بنابراین، قوانین اخلاقی متضاد هم نمی تواند براساس لباس هایی که کسی می پوشد، معتبر باشد.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+سربازان، البته ، لباس هایی را که نسبت به مردم عادی متفاوت است می پوشند، ممنوع است که مردم عادی مرتکب قتل شوند؛ با این حال، سربازان نه تنها *اجازه دارند* که به قتل برسانند، بلکه از نظر اخلاقی ، برای قتل افراد ستایش نیز می شوند.
 
-Let’s take another example.
+بیایید مثال دیگری بزنیم.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+سرقت از نظر اخلاقی اشتباه است، همانطور که در بالا دیدیم. این از نظر اخلاقی برای همه ی مردم، در هر زمان و مکان و تحت هر شرایطی، اشتباه است. از آنجا که سرقت، گرفتن اموال شخص دیگری، بدون اجازه، است، در نتیجه، مالیات، به صورت جهانی و برای همیشه، یک شرارت اخلاقی است. مالیات بر اساس تعریف گرفتن اجباری اموال شخص بدون رضایت است. زیرا مالیات به شروع استفاده اجبار برای مصادره ی اموال یک فرد بستگی دارد.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+آنچه که ما دولت می نامیم، نمونه دیگری از این ناحیه تهی است؛ جایی که بالا، پایین است، سیاه، سفید است. حقیقت، دروغ است و شر، خوب است.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+جامعه دقیقا به درجه ای از علم و عقل پیشرفت کرده است که جستی بزرگ از شخصی بودن به جهانی بودن، و تخریب هر "نواحی تهی" غیر منطقی در هر راهی را ایجاد می کند. علم دقیقا به درجه ای پیشرفت کرده است که بی خردی خدا و "حقایق" غیر عینی را رد می کند. پزشکی دقیقا تا درجه ای پیشرفت کرده است که تاثیر نماز یا آیین خالی را به جای تکیه بر دلیل و شواهد، رد می کند. فلسفه و- جامه بشری به طور کلی- دقیقا به درجه ای خواهد رسید که "اخلاق مربع-دایره ای" غیر منطقی نظریه های اخلاقی و ساکن را رد می کند.
 
-### Government
+### دولت
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+گفتن اینکه دولت برخلاف قوانین اخلاقی از بقیه جامعه عمل می کند، مانند این است که بگوییم "لپراگون ها از جاذبه مصون هستند." اول از همه، لپراگون ها وجود ندارند- و یکی از راه هایی که ما می دانیم آنها وجود ندارند، این است که آنها از جاذبه زمین ایمن هستند. هرچیزی که جرم دارد، تحت تاثیر جاذبه قرار می گیرد-چیزی که بنابر تعریف نسبت به جاذبه ایمن است، وجود ندارد. بیانیه " لپراگون ها در برابر جاذبه ایمن هستند"، یک حشو است که فقط عدم وجود لپراگون ها را تایید می کند. معادل معنایی آن این است که "چیزی که وجود ندارد، وجود ندارد". A است A اولین قانون منطق ارسطو، قیمت کمی برای تایید وجود چیزی که به عنوان عدم موجود تعریف شده است،ارائه می دهد.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+به همین ترتیب، هنگامی که می گوییم ارتکاب قتل برای سربازان و دزدی برای دولت از نظر اخلاقی درست است، می دانیم که "سربازها" و "نمایندگان دولت" به عنوان مقوله های اخلاقی، "کاملا غیر موجه" هستند.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+اگر بگویم که یک مربع دایره ای حق دارد که دزدی کند، صرفا دارم می گویم: چیزی که وجود ندارد، حق دارد آنچه که خود تضادی است را انجام دهد-یک بیانیه کاملا بی معنا، اما یکی از آنها به طرز عجیب و غریبی در "ناحیه تهی" سیاست باقی می ماند.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+اگر لباس یک سرباز را از یک فروشگاه دسته دوم فروشی بخرم و آن را بپوشم، واضح است که یک جهان جایگزین را که در آن، مخالف قوانین اخلاقی می تواند معتبر باشد را ایجاد نکرده ام. لحظه ی قبل از این که من آن لباس را بپوشم ، برای من ارتکاب قتل اشتباه بود- چه زمانی ارتکاب قتل برای من "درست" می شود؟ هنگامی که شلوارش را پوشیدم؟ چه می شود اگر شلوار آن را بپوشم ، اما پیرهن آن را به تن نکنم؟ چه می شود اگر فقط یک چکمه را به پا کنم؟چه می شود اگر هر دو چکمه را بپوشم در حالی که بند یکی از آنها بسته است؟ چه می شود اگر کلاهم را برعکس پوشیده باشم؟ چه می شود اگر لباسی که پوشیده ام، توسط اولین کسی که به آن برخورد کرده ام، شناخته نشود؟ آیا "بیتلز" به طور ناگهانی حق قتل در هنگام ضرب و شتم پوشش "گروهبان فلفل" را داشت؟ آیا هنگامی که آن ها ژاکت خود را در می آوردند، این حق از آنها سلب می شود؟
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+من این سوالات لفظی را می پرسم زیرا آنها واقعا جدی هستند. واضح است که یک لباس نظامی ، طبیعت یک انسان را عوض نمی کند. هیچ چیز او را بیشتر از یک مدل مو به اردک ،مفهوم یا خدا تبدیل نمی کند.
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+"آه" ، شما ممکن است بگویید "این لباس نامناسب است زیرا آن را از یک مغازه ی دسته دوم فروشی خریده اید. پوشیدن لباس یک سرباز ، شما را به سرباز تبدیل نمی کند همانطور که کمی کردن مدرک دکترا ، شما را به دکتر تبدیل نمی کند.
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+این تقلید نادرست است؛ زیرا داشتن مدرک دکترا و یا کپی کردن آن ، هیچ یک از قوانین اخلاقی که شما ، به عنوان انسان در معرض آن قرار می گیرید، تغییر نمی دهد.
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+"خوب" شما ممکن است پاسخ دهید "اما تفاوت این است که سرباز، حقوق اخلاقی که برای او توسط شهروند عادی فراهم شده است را دارد، به خاطر دفاع شخص جمعی و غیره."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+این مسئله ی بسیار قابل توجهی را مطرح می کند که سوالش این نیست که آیا عقاید، واقعیت را عوض می کنند.
 
-### Opinions And Reality
+### عقاید و واقعیت
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+واضح است که ما متوجه می شویم که من نمی توانم از طریق عقایدم ، شما را از محدودیت های گرانش، آزاد کنم. هرچند بیشتر از نظر من ، جمله ی "۲ به اضافه ی ۲ مساوی است با ۵" بر آن صدق می کند.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"عقاید" ، آن باورهایی هستند که در واقعیت، هیچ مدرک مشخصی ندارند. یا برای آن هیچ شواهد واضحی ارائه نمی شود و یا بیانات، صرفا ترجیحات شخصی هستند. عقیده ی شخصی من این است که بستنی شکلاتی را به بستنی وانیلی ترجیح می دهم- من می توانم عقیده داشته باشم که ایسلند، یک بهشت استوایی است و یا اینکه خدا وجود دارد یا باران به سمت بالا می بارد. عقاید شخصی هیچ ارتباطی با اخلاق ندارند؛ عقایدی که ادعا دارند واقعیت را به درستی توضیح می دهند، اما فی الواقع این کار را نمی کنند، صرفا غرض ورزی بی جا هستند،اعتقاد بر اینکه باران به سمت بالا می بارد، مسیر آن را عوض نمی کند. پوشیدن یک پیراهن هاوایی در ایسلند، ریکیاویک را گرمتر نمی کند.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+پس باور بر اینکه قتل از نظر اخلاقی خوب است، آن را واقعا از نظر اخلاقی خوب نمی کند. از آنجایی که عقاید من ، طبیعت یک انسان را عوض نمی کند، باور من به اینکه انجام قتل توسط او فضیلت است، فضیلت اعمال او را تغییر نمی دهد. اگر من چشمانم را ببندم و تصور کنم که شما یک سوسمار هستید، شما به طور ناگهانی توانایی خود را برای تنظیم بدن خود از دست نمی دهید. تصور اینکه شما یک ماهی هستید ، نیاز شما به دنده غواصی را نابود نمی کند.
 
-Opinions do not change reality.
+عقاید، حقیقت را عوض نمی کنند:.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+از آنجا که عقاید، حقیقت را عوض نمی کنند، نمی توانم با استناد به قاعده اخلاقی جهانی، هیچ استثنا یا معکوس به شما بدهم. از آنجا که قواعد اخلاقی بر منطق جهانی پایدار است، مانند طبیب فیزیکی و واقعیت بشر، نمی توانم به شما "حق قتل" را بدهم. می توانم به شما توانایی بلند شدن ، راه رفتن بر روی آب و یا به صورت دقیق تر ۲به اضافه ی ۲ می شود ۵ را هر چه بیشتر بدهم.
 
-### Government As Voluntarism
+### دولت به عنوان اراده گرایی
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+نیروی باز درگیر در نهاد دولت- چیدمان مفهومی که قوانین اخلاقی را برای یک گروه خاص از افراد متوقف می کند، چیزی است که همیشه در جلسات بحث و گفت و گو قرار دارد. هنگام صحبت درباره ی دولت، هیچگاه هیچ نکته ی مثبتی برای اشاره به "تفنگ در اتاق" در نظر گرفته نمی شود. تقریبا با تعریف، دولت ها توسط مردم  و برای مردم انتخاب می شوند تا با فهم آن ها و تایید ضمنی آنها عمل کنند.
 
-However, this is pure nonsense.
+هرچند این کاملا بی معناست.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+اگر یک مرد ، در حین داشتن رابطه جنسی، چاقویی را بر گلوی زن بگذارد، این عملی است که با هر تعریفی، تجاوز شناخته می شود. او نمی تواند بگوید که این رابطه جنسی با رضایت است، در حالیکه همزمان زن را تهدید به مرگ یا زخمی شدن می کند، درصورتی که داشتن رابطه جنسی را رد کند. اگر رابطه جنسی داوطلبانه باشد، پس چاقو کاملا غیر ضروری است. اگر مرد احساس نیاز به چاقو می کند، پس واضح است که رابطه جنسی، داوطلبانه *نیست*.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+به همین ترتیب، مردم اذعان دارند که مالیات بخشی از قرار داد اجتماعی است که آنها به صورت داوطلبانه با آن موافقت کرده اند.
 
-This is both logically and empirically false.
+این هم از نظر منطقی و هم از نظر تجربی نادرست است.
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+می دانیم که از نظر تجربی غلط است زیرا *هیچ قرارداد اجتماعی وجود ندارد*. نه شما و نه من ، *هرگز* سندی را امضا نکرده اید که به صورت داوطلبانه از در آمد خود، مالیات بپردازید- ما به سادگی در نظامی به دنیا آمده ایم که پول ما را با اسلحه از ما می گیرد.
 
 ### The Gun In The Room
 
