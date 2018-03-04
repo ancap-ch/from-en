@@ -20,11 +20,11 @@ Quando falamos de "o governo", *realmente* queremos significar "a violência de 
 
 A ideia de "ordem espontânea", que é bem comprovada nos domínios da física e da biologia, continua a ser, em grande medida, inconcebível para nós, no contexto da sociedade.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Porém, os "governos" não são mais necessários para a organização e continuação da sociedade, do que os "deuses" são necessários para a organização e continuidade do universo.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Na verdade, assim como as religiões impediram o progresso da ciência, os governos também impedem o progresso da sociedade. Tal como as ilusões da *religião* causaram a morte de centenas de milhões de pessoas ao longo da história, as ilusões de *governo* também.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Assim como a falsa ética das religiões "justifica" todos as formas de abuso, corrupção e violência, também a falsa ética dos governos as justifica. Quando escolhemos viver na fantasia, inevitavelmente escolhemos a destruição, de um modo ou outro.
 
 When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
 
