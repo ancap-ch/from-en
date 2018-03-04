@@ -1,75 +1,75 @@
-## Parallels
+## مدارها
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+قبل از انقلاب علمی ، غیر قابل تصور بود که جهان طبیعی می تواند بدون وجود یک نهاد آگاه و "اخلاقی" در مرکز خود، خود را حفظ کند. خورشید در حال زدن زنجیرهای ارابه فوق طبیعی بود، ماه برادر سرد و تنهای خورشید بود. صور فلکی داستان ها و قبرهای خدایان را مشخص می کردند و طوفان ها از خشم شیاطین سرچشمه می گرفتند.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+این ایده که طبیعت یک سیستم تولید کننده و خود پنداره بود، تقریبا غیر قابل تصور بود. انقلاب داروین، این ایده که زندگی ایجاد نشده است ، بلکه نمو کرده است، این ایده را از ماده به جهان زیست شناختی آورد.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+قبل از علم، در مرکز هر سیستم پیچیده، یک آگاهی فاضلانه وجود داشت- که بدون آن، این نظام ممکن بود به هرج و مرج تبدیل شود، متوقف نگردد.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+متاسفانه، این "آگاهی فضیلت" صرفا یک توهم بود تا آن را به طور عالمانه تر بیان کند. چنین خدایانی وجود نداشت-هر آنچه که وجود *داشت*، اعلام کشیشان بود. بنابراین، آنچه که واقعا در مرکز قرار داشت، تعصب افراد غیر منطقی بود که هیچ وقت نمی دانستند که چقدر دیوانه بودند.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+ما هنوز باید همان تصورات را به مفاهیم جامعه ی خود اعمال کنیم- اما اکنون این *ضروری* است که ما این کار را انجام دهیم.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+ما این را ضروری در نظر می گیریم زیرا در مرکز جامعه ، یک نهاد فضیلت به نام "دولت" قرار می دهیم. در نبود این نهاد این بدیهی است که جامعه به هرج و مرج دچار می شود و متوقف نمی شود- همانطور که اجداد ما در نبود خدایان تصور می کردند که جهان خودش به هرج و مرج دچار می شود و متوقف نمی گردد.
 
-However, “the government” no more exists than “god” exists.
+هرچند که "دولت" قبل از "خدایان" وجود نداشته اند.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+وقتی ما درباره ی "خدایان" صحبت می کنیم، ما واقعا درباره ی "عقاید کشیش ها" صحبت می کنیم.
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+وقتی از "دولت" صحبت می کنیم، ما به معنای واقعی از "خشونت یک اقلیت کوچک" صحبت می کنیم.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+ایده "نظم خود به خودی" که در حوزه های فیزیک و زیست شناسی ثابت شده است، عمدتا برای ما، در قلمرو جامعه، غیرقابل ادراک باقی می ماند.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+با این حال، "دولت ها" ، دیگر برای سازمان دهی و تداوم جامعه، نیازی به "خدایان" برای سازمان دهی و تداوم جهان ندارند.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+در حقیقت، درست همانطور که ادیان پیشرفت علم را مختل کردند، دولت ها نیز پیشرفت جامعه را منحل کردند. درست همانند تصوراتی که "دین" با آن، باعث هزاران هزار مرگ در طول تاریخ شد، تصورات *دولت* نیز باعت همین وقایع می شود.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+همانطور که اخلاق نادرست ادیان، تمام موارد رفتارهای سوء استفاده، فساد و خشونت را "توجیه می کند"، رفتار نادرست دولت ها نیز این کار را انجام می دهد. هنگامی که انتخاب می کنیم با فانتزی زندگی کنیم، ما ناچارا تخریب را انتخاب کردیم؛ در یک شکل و یا در اشکال دیگر.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+وقتی ما انتخاب می کنیم که جامعه را براساس اسطوره های اخلاقی مذهبی اداره کنیم، جنگ ها، خشونت، سرکوب، سوء استفاده، فساد و ریاکاری را به پایان می رسانیم.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+وقتی که ما انتخاب می کنیم جامعه را بر اساس اسطوره های اخلاقی اداره کنیم، نتایج، هیچ تفاوتی ندارند.
 
-We can either choose virtue or compulsion.
+ما می توانیم یا فضیلت یا اجبار را انتخاب کنیم.
 
-We cannot have both.
+ما نمی توانیم هردو را داشته باشیم.
 
-### Solutions
+### راه حل ها
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+ما می توانیم این عقیده را که دولت، یک نهاد ضروری و اخلاقی است را باور کنیم. می توانیم باور اینکه بدون دولت، جامعه به سمت "هرج و مرج" سقوط خواهر کرد و جهان به جنگی علیه همه تبدیل خواهد شد را انتخاب کنیم. می توانیم باور اینکه بدون دولت، هیچ جاده ای ، هیچ تعلیم و تربیتی، هیچ بهداشتی، هیج بازنشسته سالمندی، هیچ کتابخانه ای، هیچ دفاع از حق مالکیت و غیره، وجود نخواهد داشت را انتخاب کنیم.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+البته خرافات مشابه، پیشرفت بشر در طول تاریخ را به تعویق انداخته است. مهم ترین پیشروی که UPB درباره ی دولت آشکار می کند، همان چیزی است که علم درباره ی دین آشکار می کند.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+همانطور که علم به صورت عمدی ادعای اینکه جهان بدون وجود خدا می تواند اداره شود را شروع کرد، تمام راه های هیجانی حمله، غوغا کردند که پایان دنیا نزدیک است؛ چنین جامعه ای به هرج و مرج دچار می شود و این تمدن به جنگی علیه همه تبدیل می شود.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+هرگاه سیستمی که قدرت را توجیه می کند، توانست *بدون* استفاده از قدرت به کار خود ادامه دهد، همه ی کسانی که از تولید انبوه قدرت، نفع می بردند، اظهار می کنند که بدون آن همه چیز گم شده است.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+کشیش ها این کار را در طی انقلاب علمی انجام دادند. بدون خدا، زندگی هیج معنایی ندارد. بدون خدا، انسان هیج اخلاقی ندارد. بدون خدا، ارواح ما نجات نمی یابند. بدون خدا، دنیا به هرج و مرج و شرارت نزول پیدا می کند.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+البته هیچ یک از آنها درست نیستند. در حقیقت، کاملا *برعکس* آنها درست است. پایان دین به عنوان دنیای غالب جهان، راهی را برای جدایی کلیسا و دولت، پایان اشرافیت، ظهور بازار آزاد و ایجاد بسیاری از آزادی های انسان در مناطق قابل توجه دنیا ، را به راه انداخت.
 
-The fall of God was the rise of mankind.
+سقوط خدا، ظهور بشریت بود.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+به همین ترتیب، هنگامی که جهان را به عنوان دانشمندان اولیه ببینیم،-به عنوان یک سیستم خود پنداره و بدون نیاز به یک قدرت مرکزی خیالی- پس ما واقعا می توانیم درک فرصت های آزادی برای بشر را شروع کنیم.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+ایجاد یک انحصار مرکزی و اجباری در جامعه به طور مداوم، مانع پیشرفت دانش، خرد، فضیلت، سلامت جسمی و روانی می شود- همانطور که ایجاد یک انحصار مرکزی و اجباری در *جهان* به طور دائم، مانع پیشرفت دانش، حکمت و علم می شود.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+راه مخالفت با موجودات خیالی، حقیقت بی قید و شرط است. راه مخالفت با خدا، دلیل، شواهد و علم است.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+راه مخالفت با دولت – خطرناک ترین موجود خیالی- با دلیل، شواهد و علم است.
 
-### The Future
+### آینده
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+چه ما آن را دوست داشته باشیم یا نه، UPB به هر چیزی که ما انجام می دهیم اعمال می شود. انسان ها تمایل طبیعی به انسجام دارند؛ زیرا ما با آگاهی منطقی، سکون در ثبات و جهان منطقی شروع شده ایم. بدین ترتیب، هر موقعیتی که در زندگی ما پذیرفته شده، تمایل بیشتری به رفتارهای مداوم و پیوسته در طول زندگی ما- و هم چنین در طول "زندگی" فرهنگ و ملت ما، دارد.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+بنابراین، فردی که معتقد است قلدری راه خوبی برای بدست آوردن چیزی است که می خواهد، در طول عمر خود، انسان های بیشتری را مورد قلدری قرار می دهد. فردی که باور دارد خشونت خوب است، بیشتر و بیشتر خشن می شود.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+به عبارت دیگر، UPB حتی در ناپیوستگی نیز دنبال پیوستگی است. UPB نیازمند انسجام، حتی در فساد است.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+بنابراین، زمینه ی ریشه ی اخلاقی یک فرهنگ، آینده ی اجتناب ناپذیری را تعیین می کند. فرهنگی که بر مبنای توجیه اجباری ساخته می شود، همراه بیشتر اجباری خواهد شد. فرهنگی که بر پایه ی آزادی عقلانی ساخته می شود، همیشه کمتر اجباری خواهد بود.
 
-That is why the delineation of a rational framework for ethics is so essential.
+به همین دلیل، تعریف یک چهارچوب منطقی اخلاقی، بسیار ضروری است.
 
-What we believe is what we become.
+آنچه به آن معتقدیم، چیزی است که به آن تبدیل می شویم.
 
-If we believe lies, we shall become slaves.
+اگر به دروغ اعتقاد داریم، ما باید برده شویم.
