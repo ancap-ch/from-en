@@ -40,11 +40,11 @@ Podemos escolher acreditar que o governo é uma instituição necessária e mora
 
 Semelhantes superstições, certamente, têm retardado o progresso da humanidade ao longo da história. O precursor mais significativo para o que o CUP revela sobre o governo é o que a ciência revelou sobre a religião.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Conforme a ciência começou, praticamente, a deduzir um universo que poderia funcionar sem um deus, todos os tipos de histéricos clamaram que o fim do mundo estava perto, que a sociedade entraria em colapso, em "anarquia" e que a civilização se dissolveria numa guerra de todos contra todos.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Sempre que um sistema que justifica o poder, pode ser concebido a funcionar *sem* esse poder, todos os que se beneficiam da manipulação desse mesmo poder afirmam que, sem eles, tudo está perdido.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Os sacerdotes fizeram-no durante o início da revolução científica. Sem Deus, a vida não tem significado. Sem Deus, o homem não tem moral. Sem Deus, as nossas almas não podem ser salvas. Sem Deus, o mundo cairá no caos e no mal.
 
 None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
 
