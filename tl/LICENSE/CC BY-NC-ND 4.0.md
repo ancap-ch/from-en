@@ -67,9 +67,9 @@ a.***magbigay ng lisensya.***
 
 b. ***ibang mga karapatan.***
 
-1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
+1. Karapatang moral, katulad ng Tamang integredad, ay hindi lesensyado sa ilalim ng Pampublikong Lesensya, mga lantad, pananahimik, at/ o iba pang kahalintulad na karapatan ng personalidad, para sa posibleng lawak, talikdan ang mga Tagapaglesensya at/o sangayon hindi sa igiit sa kahit anong gagampanan ng tagalesensya sa limitadong lawak na kinakailangan para payagan ka sa pagsanay ng Karapatan sa paglesensya, ngunit hindi na kung itoy hindi man.
 
-2. Patent and trademark rights are not licensed under this Public License.
+2. Ang Maliwanag at tatak ng karapatan ay hindi lesensyado sa ilalim ng Pampublikong Lesensya.
 
 3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
 
