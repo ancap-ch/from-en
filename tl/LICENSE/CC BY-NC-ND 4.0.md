@@ -55,9 +55,9 @@ a.***magbigay ng lisensya.***
 
 3. **Term** Ang termino ng Pampublikong Lesensya ay natukoy sa Seksyon 6(a).
 
-4. **midya at mga pormat: technical modifications allowed.**Ang tagapaglesensya ay awtorisado ka na mag sanay sa Karapatan ng Lesensya sa lahat ng medya at mga pormat maging kilala ngayon o pagkatapos na malikha, at magawa ang teknikal na mga modipikasyon na kinakailangan gawin. Ang mga pag paubaya sa Tagapaglesensya at/o sangayon at hindi pagiit sa tama o pinagbabawalan ka ng awtoridad mula sa pag gawa ng teknikal na mga pagbabago sa pangangailangan para sanayin ang karapatan ng lesensyado. kasama ang teknikal na mga pagbabago sa pangangailangan para iwasan ang epektibong teknolohikal na mga pagsukat. For purposes of this Public License, simply making modifications authorized by this Section 2(a)(4) never produces Adapted Material.
+4. **midya at mga pormat: technical modifications allowed.**Ang tagapaglesensya ay awtorisado ka na mag sanay sa Karapatan ng Lesensya sa lahat ng medya at mga pormat maging kilala ngayon o pagkatapos na malikha, at magawa ang teknikal na mga modipikasyon na kinakailangan gawin. Ang mga pag paubaya sa Tagapaglesensya at/o sangayon at hindi pagiit sa tama o pinagbabawalan ka ng awtoridad mula sa pag gawa ng teknikal na mga pagbabago sa pangangailangan para sanayin ang karapatan ng lesensyado. kasama ang teknikal na mga pagbabago sa pangangailangan para iwasan ang epektibong teknolohikal na mga pagsukat. Para sa layunin ng Pampublikong Lesensya, gawing simple ang mga awtorisadong pagbabago mula sa Seksyon na ito 2(a)(4) wag maglabas ng inangkop na materyal.
     
-    1. **Downstream recipients.**
+    1. **Ang mga Downstream na tatanggap.**
         
         A. **Offer from the Licensor – Licensed Material.** Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
         
