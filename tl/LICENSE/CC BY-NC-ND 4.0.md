@@ -42,7 +42,7 @@ i.**You**nangangahulugan na ang indibidwal o pag gamit ng entidad sa Karapatan n
 
 ### Seksyon 2 -Saklaw.
 
-a. ***Paggawad ng lisensya.***
+a.***magbigay ng lisensya.***
 
 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
     
