@@ -112,7 +112,7 @@ Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa 
 
 2. Kailangan mong isama ang teksto sa, o ang URI i hyperlink sa, ang mga Halaw sa Lisensya na iyong i-apply. Kailangan mong masiyahan sa kondisyon na ito sa kahit anong resonable na pamamaraan base sa katamtaman, nangangahulugan, at konteksto kung saan ibinahagi ang iyong Halaw na Materyal.
 
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. Hindi ka maaaring mag alok o maggiit ng kahit anong karagdagan na mga tema o mga kondisyon sa, i-apply ang Epektibong Teknolohiya sa mga sukat para, Ang Halaw sa Materyal na paghigpitan ang kasanayan sa karapatan na ipinagkaloob sa ilalim ng mga Halaw na Lisensya na iyong i-apply.
 
 ### Section 4 – Sui Generis Database Rights.
 
