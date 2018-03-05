@@ -126,7 +126,7 @@ c. kailangan mo sumunod kung saan ang mga kondisyon sa Seksyon 3(a) kung ibabaha
 
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
 
-### Section 5 – Disclaimer of Warranties and Limitation of Liability.
+### Seksyon 5 - Pagtatatwa sa mga garantiya at Limitasyon ng pananagutan.
 
 a. **Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.**
 
