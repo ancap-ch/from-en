@@ -1,8 +1,8 @@
 ## دیباچہ
 
-بہت سی پریوں کی کہانیوں میں، ایک عظیم طاقت والا خونخوار درندا رہتا ے، ایک اذدھا یا ایک امریکی گدگٹ، جو آس پاس کے علاقوں پہ ظلم کرتا ہے. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+بہت سی پریوں کی کہانیوں میں، ایک عظیم طاقت والا خونخوار درندا رہتا ے، ایک اذدھا یا ایک امریکی گدگٹ، جو آس پاس کے علاقوں پہ ظلم کرتا ہے. مقامی گانوں والے اس درندے کے آگے کانپ اٹھتے تھے؛ وہ اپنے مویشیوں کو قربان کرتے ہیں، وہ انکی قاتلانہ لھر سے چھٹکارا پانے کی امید میں بہت سے پینسے اور خون کی ادائیگی کرتے ہیں.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+بہت سے لوگ اس درندے کے سایے میں رہ کر اپنا سر جھکایا، اپنے ڈر کو "ہوشیاری" کہتے ہیں، لیکن کچھ - شرابی شاید دلیری یا احمقانہ بھادری دکھا کر جنگ کا فیصلہ کر بیٹھیں. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
 
 Try – and fail.
 
