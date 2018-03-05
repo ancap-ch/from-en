@@ -118,7 +118,7 @@ Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa 
 
 Kung saan ang Karapatan sa Lisensya kasama ang Sui Generis Database Rights na i-apply sa iyong gamit sa Lisensyadong Materyal:
 
-a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
+a. para sa pagiwas sa pagaalinlangan, Seksyon 2(a)(1) ipagkakaloob sayo ang karapatan na kunin, gamitin muli, magparami, at ibahagi ang lahat matibay na bahagi ng mga nilalaman sa database;
 
 b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material, including for purposes of Section 3(b); and
 
