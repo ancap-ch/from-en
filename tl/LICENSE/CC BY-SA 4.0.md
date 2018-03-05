@@ -132,9 +132,9 @@ a. **Maliban na lang kung magkahiwalay na isinasagawa ng tagapaglesensya, sa pos
 
 b. **sa maaaring lawak, sa walang pangyayari ang Tagapaglisensya ay may pananagutan saiyo sa kahit anong legal na teyorya ( kabilang, walang limitasyon, kapabayaan) o hindi man sa kahit anong direkta, espesyal, hindi direkta, hindi sinasadya, resulta, nagpapahirap, dapat na tularan, o iba pang pagkawal, mga halaga, mga gastos, o sira manggaling sa Pampublikong Lisensya o gamit ang Lisensyadong Materyales, kahit na ang Tagalisensya na na abisuhan sa posibilidad gayon din ang mga pagkatalo, mga halaga, mga gastos, o mga sira. Kung saan ang Limitasyon sa pananagutan ay hindi pinahintulutan sa buong parte, ang limitasyon na ito ay hindi magagamit sa iyo.**
 
-c. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+c. Ang pagtatatuwa sa mga garantiya at limitasyon ng sagutin sa kundisyong sa itaas ay dapat ng bigyan ng kahulugan dun sa pag uugali, para sa posibling lawak. lalo na sa higit-kumulang na pangyayari ng disclaimer at pananagutan sa lahat.
 
-### Section 6 – Term and Termination.
+### Seksyon 6 – Termino at Pagwawakas.
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
 
