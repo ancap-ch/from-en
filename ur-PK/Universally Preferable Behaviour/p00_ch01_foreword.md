@@ -2,19 +2,19 @@
 
 بہت سی پریوں کی کہانیوں میں، ایک عظیم طاقت والا خونخوار درندا رہتا ے، ایک اذدھا یا ایک امریکی گدگٹ، جو آس پاس کے علاقوں پہ ظلم کرتا ہے. مقامی گانوں والے اس درندے کے آگے کانپ اٹھتے تھے؛ وہ اپنے مویشیوں کو قربان کرتے ہیں، وہ انکی قاتلانہ لھر سے چھٹکارا پانے کی امید میں بہت سے پینسے اور خون کی ادائیگی کرتے ہیں.
 
-بہت سے لوگ اس درندے کے سایے میں رہ کر اپنا سر جھکایا، اپنے ڈر کو "ہوشیاری" کہتے ہیں، لیکن کچھ - شرابی شاید دلیری یا احمقانہ بھادری دکھا کر جنگ کا فیصلہ کر بیٹھیں. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+بہت سے لوگ اس درندے کے سایے میں رہ کر اپنا سر جھکایا، اپنے ڈر کو "ہوشیاری" کہتے ہیں، لیکن کچھ - شرابی شاید دلیری یا احمقانہ بھادری دکھا کر جنگ کا فیصلہ کر بیٹھیں. سالوسال، برسوبرس، جونک در جونک ان امیدوار چمپئنوں نے یہی کوشش کی کہ ہم اس درندے کو اپنی طاقت، خوبی اور اپنی ہوشیاری سے اس کو برابر کی ٹکر دے سکھے.
 
-Try – and fail.
+کوشش کی- لیکن ناکام ہوے.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+درندا ہمیشہ امر ہے، اسی لیے گاوں والے اس ظالم حکمران سے چھٹکارا پانے کی امید نہیں رکھ سکتے. درندا کبھی عقلمند نہیں ہوتا، اور انہیں سوداگری کی کوی خواہش نہیں ہوتی، اور اس لئے باتچیت اور بحث کرنا ممکن نہیں.
 
-The desperate villagers’ only hope is for a man to appear who can defeat the beast.
+گاوں والوں کی ایک ہی امید ہے کہ کوئی ایسا شخص ظاہر ہو جو اس درندے کو مات دے سکے.
 
-Inevitably, a man steps forward who strikes everyone as utterly incongruous. He is a stable boy, a shoemaker’s son, a baker’s apprentice – or sometimes, just a vagabond.
+لامحالہ، ایک آدمی آگے بڑھا جس نے کسی کو بھی موقع نہیں دیا اور سب کو متاثر کیا. وہ ایک مستحکم لڈکا، ایک موچی کا بیٹا، ایک نان ساز شاگر - یا کبھی، صرف ایک آوارہ.
 
-This book is the story of my personal assault on just such a beast.
+یہ کتاب میرے انفرادی حملے کی کہانی ہے ایک ایسے ہی درندے پر.
 
-This “beast” is the belief that it is impossible to define an objective, rational, secular and scientific ethical system. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+یہ"درندا" یہ اعتبار ہے کہ اسکا کوئی حقیقی ،عقلی، لامذھبی، سائینسی و اخلاقی نظام واضع کرنا ناممکن ہے. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
