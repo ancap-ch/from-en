@@ -1,4 +1,4 @@
-## Foreword
+## دیباچہ
 
 In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
 
