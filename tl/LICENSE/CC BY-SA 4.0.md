@@ -108,9 +108,9 @@ b. ***Ibahagi sa Kapwa.***
 
 Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa Materyal na iyong ilabas, ang mga sumusunod na kondisyon ay i-apply din.
 
-1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
+1. Ang mga Halaw sa Lisensya kailangan mo na mag-apply at kinakailangan na Malikhain sa mga Pangkaraniwan na lisensya kasama ang katulad na Elemento ng Lisensya, Ang bersyon na ito o mamaya, o ang BY-SA sa Magkasundo na Lisensya.
 
-2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Kailangan mong isama ang teksto sa, o ang URI i hyperlink sa, ang mga Halaw sa Lisensya na iyong i-apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
 3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
