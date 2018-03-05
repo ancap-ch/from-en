@@ -79,38 +79,38 @@ Yang kedua adalah bahwa pemerintah tidak pernah mengajarkan anak-anak tentang ak
 
 Yang ketiga adalah bahwa prevalensi agama dan propaganda selalu membutakan manusia terhadap kejahatan pemerintah - oleh karena itu para penguasa selalu tertarik untuk melanjutkan kepentingan agama dan negara "pendidikan." Dalam pandangan dunia keagamaan, mutlak Kekuasaan itu identik dengan kebajikan sempurna, dalam bentuk keilahian. Dalam dunia politik sejati manusia, bagaimanapun, meningkatkan kekuatan selalu berarti meningkatkan kejahatan. Dengan agama, semua yang terjadi pasti demi kebaikan. Dengan demikian, melawan kekuatan politik yang melanggar hukum adalah melawan kehendak dewa. Masih banyak lagi alasan, tentu saja, tapi ini termasuk yang terdalam.[^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Pada awal bagian ini, saya menyebutkan bahwa orang pada umumnya membuat *dua* kesalahan saat berhadapan dengan gagasan untuk menghilangkan pemerintah. Yang pertama adalah kepercayaan bahwa pemerintah diperlukan karena orang jahat ada. Yang kedua adalah keyakinan, dengan tidak adanya pemerintah, maka setiap institusi sosial yang muncul pasti akan menggantikan pemerintahan. Dengan demikian, Organisasi Penyelesaian Sengketa (DROs), dan perusahaan asuransi dan pasukan keamanan swasta semuanya dianggap sebagai kanker potensial yang akan membengkak dan membanjiri lembaga politik.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Pandangan ini muncul dari kesalahan yang sama yang diuraikan di atas. Jika *semua* institusi sosial terus berusaha untuk tumbuh dalam kekuasaan dan menegakkan kehendak mereka pada orang lain, maka dengan argumen itu, pemerintah terpusat tidak dapat diizinkan untuk ada. Jika itu adalah undang-undang yang keras yang mana kelompok-kelompok selalu mencoba untuk mendapatkan kekuasaan atas kelompok dan individu lain, maka daya-nafsu* itu tidak akan berakhir jika salah satu dari mereka menang, namun akan terus menyebar ke seluruh masyarakat yang hampir tidak dilawan sampai perbudakan adalah norma*.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+Satu-satunya cara agar institusi sosial dapat tumbuh menjadi monopoli kekerasan adalah *untuk menurunkan biaya penegakan hukum kepada korban mereka*. Pemerintah tumbuh tanpa henti karena mereka dapat membayar pemungut cukai dengan sebagian pajak yang mereka kumpulkan. Oleh karena itu para budak terpaksa membayar biaya perbudakan mereka.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Dalam masyarakat sukarela, tidak akan ada perpajakan, dan dengan demikian setiap kelompok yang ingin memperoleh kekuasaan monopolistik harus mendanai tentaranya sendiri, yang tidak akan layak atau menguntungkan secara ekonomi.[^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Sangat susah untuk dimengerti bahwa logika dan kecerdasan dari argumen bahwa, untuk melindungi kita dari kelompok yang *mungkin* bisa mengalahkan kita, kita harus mendukung sebuah kelompok yang *sudah* mengalahkan kita. Ini mirip dengan argumen statistik tentang monopoli swasta - bahwa warga negara harus menciptakan monopoli pemerintah karena mereka takut terhadap monopoli pribadi. Tidak perlu melihat tajam untuk melihat melalui omong kosong semacam itu.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Apa bukti pandangan bahwa kekuatan yang terdesentralisasi dan bersaing mendorong perdamaian? Dengan kata lain, adakah fakta yang dapat kita tarik untuk mendukung gagasan bahwa keseimbangan kekuatan adalah satu-satunya kesempatan individu memiliki kebebasan?
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+Kejahatan terorganisir tidak memberikan banyak contoh bagus, karena geng jadi sering melakukan korupsi, memanipulasi dan menggunakan kekuatan polisi pemerintah untuk memberlakukan peraturan mereka, sehingga gerombolan semacam itu tidak dapat dikatakan beroperasi dalam keadaan alami. Selain itu, gerombolan penjahat sangat menguntungkan dengan menyediakan zat atau layanan yang dilarang secara legal, dan juga berkembang terutama karena kebijakan negara.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Contoh yang lebih berguna adalah fakta bahwa tidak ada pemimpin yang pernah mengumumkan perang terhadap pemimpin lain yang memiliki senjata nuklir. Di masa lalu, ketika para pemimpin merasakan diri mereka kebal dari pembalasan pribadi, mereka lebih dari bersedia membunuh penduduk mereka sendiri dengan melakukan perang. Sekarang mereka sendiri mengalami pemusnahan, mereka hanya mau menyerang negara-negara yang tidak bisa melawan.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ini adalah pelajaran instruksional mengapa orang-orang semacam itu membutuhkan populasi yang dilucuti dan tergantung, dan contoh bagus bagaimana rasa takut akan pembalasan yang melekat dalam sistem kekuatan desentralisasi dan persaingan yang seimbang adalah satu-satunya metode *yang terbukti untuk mengamankan dan mempertahankan kebebasan pribadi*.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Melarikan diri dari setan imajiner ke dalam penjara pelindung pemerintah hanya memastikan kehancuran kebebasan yang membuat hidup layak dijalani.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: Baca [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: Baca *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: Sebuah keseimbangan yang sempurna dari yang baik dan jahat merupakan hal yang hampir mustahil.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: Inilah keadaan demokrasi saat ini, tentu saja.
 
-[^8]: See Plato’s *Republic*.
+[^8]: Baca karangan Plato *Republic*.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: Kemungkinan lebih, semenjak orang jahat selalu tertarik terhadap kekuasaan.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue”, see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: Untuk detil pembahasan yang lebih rinci terhadap peran *orang tua* dalam menanamkan fantasi bahwa "kekuatan sama dengan kebajikan", Baca [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: Baca [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
