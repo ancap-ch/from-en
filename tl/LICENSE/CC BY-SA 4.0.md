@@ -84,9 +84,9 @@ Saiyong pagsasanay sa Lisensyadong karapatan ay hayagang gawa sa paksa para sa m
 
 a. ***Pagpapalagay.***
 
-1. If You Share the Licensed Material (including in modified form), You must:
+1. Kung ipapamahagi mo ang Lisensyadong Materyales ( kabilang ang mga baguhin ang porma), Kailangan mo:
     
-    A. retain the following if it is supplied by the Licensor with the Licensed Material:
+    A. itago ang mga kasunod kung ang palitan mula sa Tagapaglisensya kasama ang Materyal na Lisensya:
     
          i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
         
