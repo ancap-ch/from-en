@@ -124,7 +124,7 @@ b. kung isasama mo lahat ng matibay na bahagi ng nilalaman ng database kung saan
 
 c. kailangan mo sumunod kung saan ang mga kondisyon sa Seksyon 3(a) kung ibabahagi ang lahat ng matibay na bahagi ng nilalaman ng mga database.
 
-For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+Para sa pag-iwas sa pag-dududa, itong Seksyon 4 ang mga supplement at hindi maisasauli ana iyong mga obligasyon sa ilalim ng Pampublikong Lisensya kung saan ang mga karapatan ay kasama sa ibang kopirayt at magkatulad na karapatan.
 
 ### Seksyon 5 - Pagtatatwa sa mga garantiya at Limitasyon ng pananagutan.
 
