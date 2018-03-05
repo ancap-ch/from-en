@@ -1,73 +1,73 @@
-## Skim sekoci
+## Lifeboat Scenarios
 
-Fakta bahwa UPB hanya memvalidasi secara logis konsisten teori moral tidak berarti bahwa tidak akan ada dibayangkan keadaan di mana kita dapat memilih untuk bertindak *terhadap* prinsip dari teori tersebut.
+The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
 
-Misalnya, jika kita menerima keabsahan hak properti secara universal, menghancurkan jendela dan melompat ke apartemen seseorang tanpa izin tentu akan menjadi pelanggaran hak kepemilikan. Namun, jika kita menggantung tiang bendera di luar jendela apartemen, dan akan jatuh ke dalam kematian kita, hanya sedikit dari kita yang akan menolak menendang jendela dan melompat ke tempat yang aman untuk mematuhi prinsip abstrak.
+Na przykład, jeśli zaakceptujemy uniwersalną ważność praw własności, rozbicie okna i wskoczenie do czyjegoś mieszkania bez pozwolenia byłoby naruszeniem jego praw własności. Gdybyśmy jednak zwisali z masztu pod oknem mieszkania, a wkrótce padnie na naszą śmierć, niewielu z nas odmówiłoby kopnięcia w okno i przeskoczenia w bezpieczne miejsce w imię przestrzegania abstrakcyjnej zasady.
 
-Di dunia nyata, akan membawa orang yang sangat berperasaan untuk mengajukan tuntutan kepada seseorang yang menghancurkan sebuah jendela untuk menyelamatkan hidupnya - seperti halnya orang yang tidak bertanggung jawab untuk menolak membayar restitusi untuk jendela tersebut. Prinsip "penghindaran" adalah pusat di sini - seorang pria yang menggantung tiang bendera memiliki sedikit pilihan untuk menendang di jendela itu. Seorang pria masuk ke rumah anda untuk mencuri hal-hal yang jelas-jelas memiliki kapasitas untuk menghindari menyerang properti anda – dia tidak terpojok, tapi agak *inisiator* dari agresi. Hal ini mirip dengan perbedaan antara wanita yang menipu pria itu, dibandingkan wanita yang prianya menguncinya di ruang bawah tanah itu.
+In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
 
-Ini bukan mengatakan bahwa melanggar jendela untuk menyelamatkan hidup Anda tidak salah. Memang, tapi salah kalau hampir kita semua akan memilih untuk melakukan alih-alih mati. Saat aku hampir mati kelaparan, aku akan mencuri sebutir apel. Ini tidak berarti bahwa itu adalah ** bagi saya untuk mencuri apple – itu hanya berarti bahwa aku akan melakukan itu – dan harus adil menerima konsekuensi saya pencurian.[^10]
+Nie oznacza to, że złamanie okna, aby uratować życie, nie jest złe. Jest, ale prawie wszyscy zdecydowalibyśmy się na popełnienie tego zła zamiast umrzeć. Gdybym był bliski śmierci głodowej, ukradłbym jabłko. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
 
-### Daerah abu-abu
+### Grey Areas
 
-Fakta tertentu bahwa "wilayah abu-abu" ada di bidang etika sering telah digunakan sebagai pembenaran untuk peringkat relativisme. Karena pada kesempatan beberapa hal tetap tidak jelas (misalnya yang memprakarsai penggunaan kekerasan), dan karena itu mustahil untuk menentukan tujuan dan aturan-aturan yang tepat untuk setiap dibayangkan situasi, kesimpulan sering diambil bahwa tidak ada yang bisa *pernah* dikenal pasti, dan bahwa tidak ada aturan yang objektif ada untuk *setiap* situasi.
+Fakt, że pewne "szare obszary" istnieją w dziedzinie etyki, często był wykorzystywany jako uzasadnienie relatywizmu rangowego. Ponieważ czasami pewne rzeczy pozostają niejasne (np. Kto zainicjował użycie przemocy) i ponieważ nie jest możliwe określenie obiektywnych i dokładnych reguł dla każdej możliwej sytuacji, często wysuwa się wniosek, że nic nie może być *nigdy* wiadomo na pewno i że nie istnieją obiektywne reguły dla *żadnej* sytuacji.
 
-Itu palsu.
+This is false.
 
-Semua orang yang masuk akal mengakui bahwa biologi adalah ilmu yang berlaku, meskipun fakta bahwa beberapa hewan dilahirkan dengan mutasi-mutasi "off". Fakta bahwa anjing dapat lahir dengan lima kaki tidak berarti bahwa "anjing" menjadi kategori benar-benar subjektif. Fakta bahwa spesies serangga tertentu menantang untuk dibedakan tidak berarti bahwa tidak ada perbedaan antara kumbang dan ikan paus itu.
+Wszyscy rozsądni ludzie zdają sobie sprawę, że biologia jest ważną nauką, mimo że niektóre zwierzęta rodzą się z "jednorazowymi" mutacjami. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
-Untuk alasan yang aneh, para intelektual khususnya sangat bersukacita dalam penghancuran standar etis, normatif dan rasional itu. Ini bisa terjadi karena para intelektual begitu sering dibayar oleh kelas individu yang korup seperti politisi, imam dan raja - atau bisa juga seorang pria sering menjadi intelektual untuk menciptakan pembenaran atas perilaku asusila sendiri. Apapun alasannya, pemikir paling modern telah menjadi spesies "anti-pemikir," yang sangat aneh. Ini akan menjadi setara dengan kelas besar "ahli biologi" yang menghabiskan seluruh hidup mereka berdebat bahwa ilmu biologi adalah mustahil. Jika ilmu biologi itu tidak mungkin, tidak masuk akal bila menjadi ahli biologi, lebih dari sekedar ateis harus melawan gigi dan kuku untuk menjadi imam itu.
+Z jakiegoś perwersyjnego powodu, intelektualiści w szczególności czerpią wielką radość z bezmyślnego niszczenia standardów etycznych, normatywnych i racjonalnych. Może tak być dlatego, że intelektualiści tak często byli opłacani przez skorumpowane klasy jednostek, takich jak politycy, księża i królowie - lub może być tak dlatego, że człowiek często staje się intelektualistą, aby stworzyć uzasadnienie dla swojego własnego niemoralnego zachowania. Niezależnie od przyczyny, większość współczesnych myślicieli stała się gatunkiem "anty-myśliciela", co jest bardzo dziwne. Byłoby to równoznaczne z ogromną klasą "biologów", którzy całe życie spędzili na argumentowaniu, że nauka o biologii jest niemożliwa. Jeśli nauka o biologii jest niemożliwa, nie ma sensu stać się biologiem, tak samo jak ateista nie powinien starać się zostać kapłanem.
 
-### Warna abu-abu
+### Shades Of Grey
 
-Dalam bidang "daerah abu-abu", ada benar-benar hanya tiga kemungkinan.
+W sferze "szarych obszarów" istnieją naprawdę tylko trzy możliwości.
 
-1. Tidak ada yang namanya daerah abu-abu itu.
-2. Ada daerah abu-abu tertentu.
-3. Segala pengetahuan adalah wilayah abu-abu.
+1. Nie ma takich rzeczy jak szare obszary.
+2. Certain grey areas do exist.
+3. All knowledge is a grey area.
 
-Jelas, pilihan satu dapat dengan mudah dibuang. Pilihan ketiga juga cukup mudah untuk membuang. Pernyataan "semua pengetahuan wilayah abu-abu" adalah proposisi meledakkan diri, seperti yang kita lihat di atas, dengan cara yang sama bahwa "semua pernyataan adalah kebohongan" juga diri meledakan.
+Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
 
-Dengan demikian kita harus pergi dengan dua pilihan, yaitu bahwa abu-abu tertentu yang ada di daerah, dan kita tahu bahwa mereka adalah abu-abu dibandingkan daerah yang tidak abu-abu oksigen yang ada di ruang angkasa, dan juga di bawah air, tetapi tidak dalam bentuk atau kuantitas yang manusia dapat mengkonsumsi. *Tingkat* oksigenasi adalah wilayah abu-abu, yaitu "kurang versus lebih"; pertanyaan tentang apakah atau tidak manusia bisa bernapas air pasti hitam dan putih.
+Musimy więc przejść do drugiej opcji, która polega na tym, że istnieją pewne szare obszary i wiemy, że są szare w stosunku do obszarów, które nie są szare. Tlen istnieje w kosmosie, a także pod wodą, ale nie w formie ani ilości, które Istoty mogą spożywać. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
 
-Seorang ilmuwan yang ditangkap oleh kanibal mungkin berpura-pura menjadi dukun-dokter untuk melarikan diri - ini tidak berarti bahwa kita harus menolak metode ilmiah sama sekali tidak sah itu.
+Naukowiec pojmany przez kanibali może udawać, że jest szamanem w celu ucieczki - nie oznacza to, że musimy odrzucić metodę naukową jako całkowicie nieważną.
 
-Demikian pula, ada situasi ekstrem dimana kita dapat memilih untuk melakukan tindakan tidak bermoral, namun situasinya tidak menyangkal dalam sains moralitas, lebih dari mutasi sesekali mematahkan ilmu biologi itu. Sebenarnya, ilmu biologi sangat maju melalui penerimaan dan pemeriksaan mutasi - dan sama, ilmu etika hanya diperkuat melalui pemeriksaan "skenario sekoci," selama pemeriksaan semacam itu tidak dilakukan secara obsesif itu.
+Podobnie mogą zdarzyć się ekstremalne sytuacje, w których możemy zdecydować się na niemoralne działania, ale takie sytuacje nie unieważniają nauki o moralności, podobnie jak sporadyczne mutacje nie unieważniają nauki o biologii. W rzeczywistości nauka o biologii jest bardzo zaawansowana dzięki akceptacji i badaniu mutacji - i podobnie, etyka jest wzmocniona jedynie poprzez zbadanie "scenariuszy kół ratunkowych", o ile badanie takie nie jest prowadzone obsesyjnie.
 
-### Universalitas dan pengecualian
+### Universality And Exceptions
 
-Sebelum kita mulai menggunakan kerangka Perilaku Universal untuk meneliti beberapa kepercayaan etis yang umum, kita harus menghadapi pertanyaan tentang "pengecualian itu."
+Zanim zaczniemy korzystać z naszego systemu zachowań powszechnie preferowanych w celu zbadania niektórych powszechnie uznawanych przekonań etycznych, musimy zająć się kwestią "wyjątków."
 
-Menggunakan hal di atas "sekoci skenario", kesimpulan sering diambil bahwa "yang baik" adalah hanya *apa yang "baik" untuk kehidupan seorang individu*.
+Using the above “lifeboat scenarios”, the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
-Dalam etika argumen, jika saya bertanya apakah aku akan mencuri sebuah apel daripada kelaparan sampai mati - dan saya mengatakan "ya"-argumen berikut adalah pasti membuat:
+Jeśli chodzi o argumenty etyczne, jeśli zostanę spytany, czy wolę ukraść jabłko zamiast umrzeć z głodu - i odpowiem tak" - nieunikniony jest następujący argument:
 
-1. Semua orang lebih suka mencuri apel daripada mati kelaparan.
-2. Jadi setiap orang secara universal lebih suka mencuri apel daripada mati karena kelaparan.
-3. Dengan demikian lebih *Universal lebih disukai* untuk mencuri apel daripada mati kelaparan.
-4. Dengan demikian kelangsungan hidup lebih universal disukai untuk hak milik.
-5. Jadi apa yang baik bagi individu yang adalah standar moral tertinggi.
+1. Wszyscy wolą ukraść jabłko niż umrzeć z głodu.
+2. Dlatego wszyscy powszechnie preferują kradzież jabłek na śmierć głodową.
+3. Zatem jest to *powszechnie preferowane* żeby kraść jabłka zamiast umrzeć z głodu.
+4. W ten sposób przetrwanie jest powszechnie preferowane w stosunku do praw własności.
+5. Zatem to, co jest dobre dla jednostki, jest ostatecznym standardem moralnym.
 
-Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari Nietzsche sampai Rand. Preferensi setiap individu untuk bertahan hidup ini diterjemahkan ke dalam teori-teori etika yang menempatkan kelangsungan hidup individu di pusat mereka.[^11]
+Zostało to wykorzystane jako podstawa wielu etycznych teorii i podejść, od Nietzschego do Rand'a. Preferencje każdej osoby do przeżycia przekładają się na teorie etyczne, które stawiają przetrwanie jednostki w jej centrum.[^11]
 
-"Biologis hedonisme" semacam ini bisa menjadi gambaran tentang "drive untuk bertahan hidup", tapi itu benar sejauh ini menggambarkan apa yang orang benar-benar *lakukan*, bukan apa yang mereka *harus* lakukan.
+This kind of “biological hedonism” may be a description of the “drive to survive”, but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
-Ini juga memperkenalkan subjektivisme yang benar-benar tidak ilmiah terhadap masalah moralitas. Misalnya, jika secara moral yang diperbolehkan mencuri makanan saat Anda kelaparan, berapa banyak makanan yang bisa Anda curi? Seberapa lapar Anda harus menjadi? Dapat Anda mencuri makanan yang tidak bergizi? Bagaimana bergizi makanan Apakah perlu untuk membenarkan mencurinya? Berapa lama setelah mencuri satu makanan Anda diperbolehkan untuk mencuri makanan lain? Anda diperbolehkan untuk mencuri makanan daripada mencari pekerjaan atau menarik untuk amal?
+To wprowadza także całkowicie nienaukowy subiektywizm do kwestii moralności. Na przykład, jeśli moralnie dopuszczalna jest kradzież jedzenia w momencie, gdy umierasz z głodu, ile jedzenia możesz ukraść? How hungry do you have to be? Can you steal food that is not nutritious? Jak ważne jest jedzenie w celu uzasadnienia kradzieży? Jak długo po kradzieży jednego posiłku możesz ukraść kolejny posiłek? Czy wolno ci kraść posiłki zamiast szukać pracy lub apelować do organizacji charytatywnej?
 
-Juga, jika saya dapat membuat lebih banyak uang sebagai seorang hit dari penjaga toko, seharusnya aku tidak mengejar kekerasan sebagai karier? Itu tentu saja meningkatkan kelangsungan hidup *saya*... dan seterusnya.
+Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
-Seperti yang kita lihat, pengenalan "apa baik bagi laki-laki abstrak - atau apa yang kebanyakan orang lakukan-adalah Universal lebih baik" menghancurkan konsep moralitas sebagai teori sejalan, dan pengganti hanya biologis drive sebagai pembenaran untuk perilaku. Ini adalah penjelasan tentang perilaku, bukan teori moral yang diusulkan.
+Jak widać, wprowadzenie "tego, co jest dobre dla człowieka w abstrakcji - lub tego, co robi większość ludzi - jest tym, co jest powszechnie preferowane" niszczy samą koncepcję moralności jako logicznie spójną teorię i zastępuje zwykłe popędy biologiczne jako uzasadnienia dla zachowanie. It is an explanation of behaviour, not a proposed moral theory.
 
-### Tujuan dan bahaya
+### The Purpose And The Dangers
 
-Dengan kegemaran Anda para pasien, satu pertanyaan akhir perlu ditangani sebelum kita selami definisi dan menguji bagaimana berbagai proposisi moral cocok ke dalam kerangka UPB. Karena pekerjaan tersulit yang ada di depan, kita harus berhenti sejenak dan mengingatkan diri kita mengapa kita menempatkan diri melalui semua ini dalam kekakuan dan kesulitan.
+With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
-Dengan kata lain, sebelum kita terjun di, itu sangat layak mengajukan pertanyaan: "mengapa repot-repot?"
+In other words, before we plunge on, it is well worth asking the question: “Why bother?”
 
-Mengapa repot-repot dengan mendefinisikan teori etika? Orang-orang baik pasti tidak membutuhkan itu, dan orang jahat tidak berkonsultasi dengan mereka. Orang akan melakukan apa yang mereka inginkan, dan hanya membuat pembenaran yang diperlukan setelah fakta-mengapa *repot-repot* mengajar orang mengenai moralitas?
+Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
-Tentu saja, bahaya selalu ada saat orang yang tidak bermoral akan menyerang Anda untuk tujuan hedonistik sendiri. Hal ini juga dapat terjadi bahwa, meskipun hidup bersih dan sehat, Anda mungkin bisa terkena kanker sebelum waktu Anda-mantan tidak membuat ilmu moralitas yang tidak relevan, lebih daripada yang kedua membuat ilmu kedokteran, nutrisi, dan olahraga tidak relevan. Salah satu efek yang dapat dibuktikan dari ilmu rasional moral harus mengurangi kesempatan Anda untuk *menderita* tindakan asusila seperti pencurian, pembunuhan dan pemerkosaan- dan itu oleh kriteria ini bahwa kita juga akan menghakimi aturan moral diajukan dalam bagian ketiga dari buku ini.
+Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
-[^10]: Tentu saja, jika aku seperti kompeten atau bingung manusia yang berakhir di ambang kelaparan, penahanan mungkin peningkatan situasi saya.
+[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
 
-[^11]: Nietzsche "akan kekuasaan" dan Rand's "bahwa yang menyajikan kehidupan manusia adalah yang baik."
+[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good”.
