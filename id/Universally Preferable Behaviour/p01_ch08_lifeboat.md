@@ -54,20 +54,20 @@ Ini telah digunakan sebagai dasar untuk sejumlah teori dan pendekatan etis, dari
 
 Ini juga memperkenalkan subjektivisme yang benar-benar tidak ilmiah terhadap masalah moralitas. Misalnya, jika secara moral yang diperbolehkan mencuri makanan saat Anda kelaparan, berapa banyak makanan yang bisa Anda curi? Seberapa lapar Anda harus menjadi? Dapat Anda mencuri makanan yang tidak bergizi? Bagaimana bergizi makanan Apakah perlu untuk membenarkan mencurinya? Berapa lama setelah mencuri satu makanan Anda diperbolehkan untuk mencuri makanan lain? Anda diperbolehkan untuk mencuri makanan daripada mencari pekerjaan atau menarik untuk amal?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Juga, jika saya dapat membuat lebih banyak uang sebagai seorang hit dari penjaga toko, seharusnya aku tidak mengejar kekerasan sebagai karier? Itu tentu saja meningkatkan kelangsungan hidup *saya*... dan seterusnya.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Seperti yang dapat kita lihat, pengenalan "apa yang baik untuk manusia dalam abstrak atau apa yang kebanyakan orang lakukan adalah apa yang secara universal lebih disukai" menghancurkan konsep moralitas sebagai teori yang konsisten secara logis, dan menggantikan dorongan biologis semata sebagai justifikasi untuk perilaku. Ini adalah penjelasan tentang perilaku, dan bukan teori moral yang diajukan.
 
-### The Purpose And The Dangers
+### Tujuan dan Bahaya
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Dengan kesabaran anda yang menyenangkan, satu pertanyaan terakhir perlu ditangani sebelum kita terjun ke definisi dan menguji bagaimana berbagai proposisi moral sesuai dengan kerangka UPB. Karena pekerjaan yang paling sulit terbentang di depan, kita harus berhenti sejenak dan mengingatkan diri sendiri mengapa kita menempatkan diri kita melalui semua ketegaran dan kesulitan ini.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Dengan kata lain, sebelum kita terjun, ada baiknya mengajukan pertanyaan: "Mengapa repot-repot?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Mengapa repot-repot mendefinisikan teori-teori etika? Tentunya orang baik tidak membutuhkan itu semua, dan orang jahat tidak berkonsultasi dengan teori itu. Orang akan melakukan apa yang mereka inginkan, dan hanya membuat pembenaran seperlunya setelah fakta mengapa *mengganggu* memberi pelajaran tentang moralitas?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Tentu saja, bahaya selalu ada bahwa orang yang tidak bermoral akan menyerang anda untuk tujuan hedonistiknya sendiri. Bisa juga terjadi itu, meski hidup bersih dan sehat, Anda mungkin terkena kanker sebelum waktumu yang pertama tidak membuat ilmu moralitas tidak relevan, lebih dari yang terakhir membuat ilmu kedokteran, gizi dan olahraga tidak relevan. . Satu efek nyata dari ilmu moralitas rasional harus mengurangi kesempatan anda untuk *menderita* dari tindakan tidak bermoral seperti pencurian, pembunuhan dan pemerkosaan dan berdasarkan kriteria inilah kita juga harus menilai peraturan moral yang diajukan dalam Bagian Tiga buku ini.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Tentu saja, jika aku seperti kompeten atau bingung manusia yang berakhir di ambang kelaparan, penahanan mungkin peningkatan situasi saya.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good”.
+[^11]: Nietzsche "will to power" dan Rand's "bahwa yang menyajikan kehidupan manusia adalah orang yang baik".
