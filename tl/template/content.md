@@ -1,13 +1,13 @@
 # Título da primeira raiz
 
-Nasa ibaba ang isang enumerated na listahan ng mga istilong pangrams, na nagpapakita ng bawat karakter, parehong sa ingles at din sa iba pang mga wika.
+Below there's an enumerated list of styled pangrams, that shows every character, both in english and also in other languages.
 
-1. mataas na kaso: ANG QUICK, BROWN FOX JUMPS MAHIGIT SA LARAWANG DOG. 
-2. ang numero: 0123456789. 
-3. simbolo: % $ &{ } # ^ ~ \ (ang ilang iba pang mga simbolo ay nawawala pa rin)
-4. binibigyang diin: *Ang mabilis, brown na lobo ay tumalon sa isang tamad na aso.* 
-    1. malakas na diin: **Ang mabilis, brown na lobo ay tumalon sa isang tamad na aso.**
-    2. panloob na diin: **Ang *ang mabilis, na kayumangging lobo ay tumalon sa ibabaw ng tamad na aso* aso.** 
+1. upper case: THE QUICK, BROWN FOX JUMPS OVER A LAZY DOG. 
+2. numbers: 0123456789. 
+3. symbols: % $ & { } # ^ ~ \ (some other symbols are still missing)
+4. emphasys: *The quick, brown fox jumps over a lazy dog.* 
+    1. strong emphasys: **The quick, brown fox jumps over a lazy dog.**
+    2. inner emphasys: **Ang *ang mabilis, na kayumangging lobo ay tumalon sa ibabaw ng tamad na aso* aso.** 
         1. en: The quick, brown *fox* **jumps *over* a** lazy dog.
         2. pt-BR: À noite, vovô *Kowalsky* **vê o ímã *cair no pé* do pingüim queixoso** e vovó põe açúcar no chá de tâmaras do jabuti feliz.
         3. jp: [色は匂へど]{いろはにほへど} [散りぬるを]{ちりぬるを} *[我が世誰ぞ]{わかよたれぞ}* **[常ならむ]{つねならむ} *[有為の奥山]{うゐのおくやま}* [今日越えて]{けふこえて}** [浅き夢見じ]{あさきゆめみじ} [酔ひもせず]{ゑひもせず}（ん）
@@ -41,9 +41,9 @@ Ilang banggit. ang unag linya ay malaki; ang pangalawang linya ay maliit; ang ik
 
 ### Ang pamagat sa ikatlong baytang
 
-#### Heading at the fourth level
+#### Ang pamagat sa pang-apat na baytang
 
-Some text at 4th level.
+Ang ilang text ay pang-apat na baytang.
 
 ##### Heading at the fifth level
 
