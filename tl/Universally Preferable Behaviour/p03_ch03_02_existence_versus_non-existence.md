@@ -39,79 +39,80 @@ Ang dalawang karagdagang pagtutol ay patuloy na nagbalik-kasabay sa tuwing ang t
 
 Ang una at pinaka-halatang problema sa pwesto na ito ay kung mayroong mga masasamang tao sa lipunan, magkakaroon din sila sa loob ng gubyerno – at maging mas mapanganib sa gayong paraan. Pweding maprotektahan ng mga mamamayan ang kanilang sarili laban sa mga masasamang tao, subalit walang posibilidad laban sa isang agresibong gubyerno na armado sa ngipin na may pulisya at militar. Kaya ang argumento na kailangan natin ng gubyerno dahil ang pag-kakaroon ng masasamang tao sa lipunan ay mali. Kung mayroong masasamang tao, ang gubyerno *dapat* buwagin, dahil ang masasamang tao ay iguguhit upang gamitin ang kapangyarihan nito para sa kanilang sariling mga dulo – at, hindi katulad ng mga pribadong thugs, ang mga masasamang tao sa gubyerno ay may pulisya at militar upang pahirapan ang kanilang mga whims sa isang walang magawa (at medyo disarmed) na populasyon. Kaya ang argumento ay katulad sa ideya na “Ang mga peke ay lubhang mapanganib, kaya dapat naming magbigay ng isang eksklusibong monopolyo sa paglilipat ng counterfeiting sa isang maliit na grupo ng mga indibidwal”. Kung saan sa mundo ay iniisip ng mga tao na ang mga nagpapatalsik ay unang pupunta?[^5] 
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+Ang makatwiran, mayroong apat na posibilidad sa pagkakahalon ng mabuti at masamang tao sa daigdig:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. Ang lahat ng lalaki ay moral.
+2. Ang lahat ng lalaki ay imoral.
+3. Ang nakararaming lalaki ay imoral, at kakaunting moral.
+4. Ang nakararaming lalaki ay moral, at kakaunting immoral.[^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+Sa unang kaso (*ang lahat ng lalaki ay moral*), ang gubyerno ay maliwanag na hindi kailangan, dahil ang masama ay hindi pweding umiral.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+Sa ikalawang kaso  (*ang lahat ng lalaki ay imoral*) ang gubyerno ay hindi pinapayagan na ilabas ito sa isang simpling dahilan. Ang gubyerno, ay may malaking pagtatalo,na kailangang mailabas dahil maraming masasamang tao dito sa mundo na mag-papahirap,at sino ang pweding pumigil dahil  takot sa gubyernong mapagparusa  (pulisya, bilanggo, *at iba pa*). Ang isang pagsalungat sa argumentong ito ay ang pinaka kaunting ganti ng mga taong ito ang naduduwag, mas maraming masama ang gagawin nila.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+Gayunpaman,Ang Pamahalaan*kanyang sarili* ay hindi paksa sa ano mang lakas o pagpaparusa,dahil ito ay batas sa kanyang sarili.Kahit na ang Kanlurang demukrasya,ilang mga alagad ng batas at  mga polotiko ang mga nakukulong?
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+ Kaya naman kung ang masamang tao ay nais na maka gawa ng pinsala, pero sa pamamagitan tanging lakas ng pagpaparusa, pagkatapos pwedi ang lipunan *Hindi kailanman* pirmiso ng gubyerno ay inilabas,dahil ang masamang tao ay nakaka gawa ng pagkakataon na makuha at mapigilan ang gubyerno, sa utos para gumawa ng masama at iwasan ang pagpaparusa. sa lipunan ay dalisay ang masama, at ang tanging pag asa para sa katatagan pweding maging katayuan ng kalikasan, kong saan pangkalahatang pag aarmas at takot sa pagpaparusa pweding maging mapurol ang masama at desperadong layunin ng grupo. Bilang ay ang kaso sa pagitan ng nukleyar-armadong bansa, "Timbang na Kapangyarihan" magbunga ng kapayapaan.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+Ang ikatlong posibilidad na ang *pinaka* masasamang tao, at iilan lamang ang mabuti. kung ganun ito ang kaso, ang gubyerno ay hindi rin pinapayagang umiral, yamang ang karamihan sa mga nasa kontrol ng gubyerno ay masama, at mamamahala nang despotiko sa kakaunting mabubuti. Ang partikular na demokrasya ay hindi pinapayagan, yamang ang minorya ng mabubuting tao ay nasasakop sa demokratikong pagkontrol ng masama. Masamang tao, na nagnanais na gumawa ng pinsala na walang takot sa paghihiganti, ay hindi pweding hindi makontrol ang gubyerno, at gamitin ang kapangyarihan nito upang gumawa ng masama maliban sa takot sa mga magiging bunga.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+Ang mabubuting tao ay hindi kumikilos sa moral dahil natatakot sila sa pagganti, subalit dahil mahal nila ang kabutihan at kapayapaan ng isip – at kaya, hindi katulad ng masasamang tao, mayroon silang maliit na pakinabang sa pamamagitan ng pagkontrol sa gubyerno. Sa sitwasyong ito, pagkatapos, ang gubyerno ay hindi maiiwasang makontrol ng karamihan ng masasamang tao na maghahari sa lahat, sa kapinsalaan ng lahat ng taong moral.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+Ang ikaw-apat na pagpipilian ang karamihan sa tao ay mabubuti, at iilan lamang ang masama. Ang posibilidad na ito ay napapasailalim sa mga katulad na problema na nakabalangkas sa itaas, kapansin-pansin na ang masasamang tao ay laging nais na makakuha ng kontrol sa gubyerno, upang maprotektahan ang kanilang sarili mula lamang sa paghihiganti para sa kanilang mga krimen. Ang pagpipilian na ito lamang ang magbabago ng *hitsura* ng demokrasya: dahil ang karamihan sa tao ay mabubuti, ang masasamang naghahanap ng kapangyarihan ay dapat na kasinungalingan sa kanila upang makakuha ng kapangyarihan, at pagkatapos, pagkatapos makamtan ang pampublikong opisina, ay agad na lilitaw ang pananampalataya at itutuloy ang kanilang sariling mga sirang agenda, pagpapatupad ng kanilang mga kalooban sa pamamagitan ng pulisya at militar.[^7] Kaya ang gubyerno ay nananatiling pinakadakilang gantimpala sa pinakamasamang tao, kung sino ang mabilis na makakuha ng kontrol sa kanyang kahanga-hangang kapangyarihan – sa kasiraan ng lahat ng mabubuting kaluluwa – at sa gayon ang gubyerno ay hindi pweding payagan na manatili sa alinamang sitwasyong ito.
 
-This situation, while interesting theoretically, breaks down logically because:
+Ito ay maliwaw, pagkatapos, walang sitwasyon na kung saan ang isang gubyerno ay pweding lohikal o sa moral na pinapayagan na magkaroon. Ang tanging posibleng pagbibigay-katwiran para sa pag-iral ng isang gubyerno ay mangyayari kung ang karamihan ng mga tao ay masama, subalit ang lahat ng kapangyarihan ng gubyerno ay palaging kinokontrol ng ilang kakaunting mabubuting tao.[^8]
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+Ang Sitwasyon na ito, habang nakakaaliw na teoretikal, Pinaghihiwa-hiwalay ang makatwiran dahil:
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+1. Ang nakararaming masama ay mabilis na mag-outvote sa kakaunti o madaig sila sa pamamagitan ng kudeta;
+2. Walang paraan upang matiyak na tanging ang mga mabubuting tao ang laging tatakbo sa gobyerno; at,
+3. Walang ganap na halimbawa ng pagkakaroon ng naganap sa anuman sa mga malulupit na kasaysayan sa kasaysayan ng estado.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+Ang lohikal na pagkakamali na madalas ginagawa sa pagtatanggol ng gobyerno ay upang isipin na ang alinmang kolektibong moral na hatol na isinalin sa anumang grupo ng mga tao ay *hindi rin inilalapat sa grupo na namamahala sa kanila*. kung ang limampung pursyento ng mga tao ay masama, pagkatapos *kahit na* limampung porsiyento ng mga taong namumuno sa kanila ay masama din.[^9] Kung gayon ang pag-iral ng kasamaan ay hindi kailanman makapagtatamao sa pagkakaroon ng isang pamahalaan.
 
-Why is this error so prevalent?
+Kung waalang masama, hindi kailangan ng gubyerno. kung umiiral ang masama, ang mga gubyerno ay labis na mapanganib upang mapahintulutan na umiral.
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+Bakit laganap ang pagkakamali ito?
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+Mayroong bilang ng mga kadahilanan, na pwedi lamang mahawakan dito. Ang una ay ang gubyerno ay nagpapakilala sa mga bata sa anyo ng mga guro ng pampublikong paaralan na itinuturing na awtoridad ng moralidad. Kaya nga *moralidad* at *awtoridad* unang nauugnay sa gubyerno – isang samahan na pagkatapos ay patibayin sa pamamagitan ng taon ng paggiling ulit.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education”. In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+Ang ikalawa ay ang gubyerno ay hindi nagtuturo sa mga bata tungkol sa ugat ng kapangyarihan nito – karahasan – subalit sa halip ay nagpapanggap ito na isa lamang institusyong panlipunan, tulad ng isang negosyo o isang simbahan o isang kawanggawa, subalit mas moral.
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+Ang ikatlo ay ang pagdami ng ibat ibang relihiyon at propaganda na bumubulag sa mga tao sa masasamang gubyerno – na kung bakit ang mga pinuno ay palaging interesado sa pagsulong ng interes ng mga simbahan at "edukasyon" ng estado. Sa pananaw ng relihiyon sa daigdig, ang ganap na kapangyarihan ay magkasingkahulugan sa perpektong kabutihan, sa anyo ng isang diyos. Gayunpaman, sa tunay na daigdig ng mga tao sa pulitika, ang pagtaas ng kapangyarihan ay laging nangangahulugan ng pagtaas ng kasamaan sa relihiyon, gayundin, ang lahat ng mangyayari ay dapat na para sa mabuti - kaya, ang pakikipaglaban sa kapangyarihang pampulitika ay nakikipaglaban sa kalooban ng diyos. Maraming higit pang mga kadahilanan, siyempre, subalit ang mga ito ay kabilang sa pinakamalalim na kahulugan.[^10]
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+Sa simula ng seksyong ito, sinabi ko na ang mga tao ay karaniwang gumagawa ng mga *dalawang* pagkakamali kapag nakaharap sa ideya ng pag kawala ng gubyerno. Ang una ay ang paniniwala na kinakailangan ang mga gubyerno dahil mayroong masasamang tao. Ang ikalawa ay ang paniniwala na, sa kawalan ng mga gubyerno, ang alinmang mga institusyong panlipunan na lumitaw ay hindi pweding hindi mapangalagaan ang lugar ng mga gubyerno. Kaya, ang mga Organisasyon ng mga resolusyon sa pagtatalo (DROs), mga kompanya ng siguro at mga pribadong lakas panseguridad ay itinuturing na potensyal na mga kanser o sakit na maituturing na magpapalaki at mapuspos ang pulitika ng katawan.
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+Ang tanawing ito ay nagmumula sa katulad na pagkakamali na nakabalangkas sa itaas. Kung *ang lahat ng* panlipunan institusyon ay patuloy na lumaki sa kapangyarihan at ipatupad ang kanilang mga kagustuhan sa iba, pagkatapos sa pamamagitan ng na argumento ng isang sentralisadong gubyerno ay hindi pweding magkaroon. Kung ito ay isang batas ng bakal na laging sinusubukan ng mga grupo na magkaroon ng kapangyarihan sa ibang mga grupo at mga indibidwal, kung gayon ang kapangyarihan-kasakiman *ay hindi magtatapos kung ang isa sa kanila ay mananalo, subalit patuloy na kumalat sa buong lipunan na halos walang patid hanggang ang pang-aalipin ay ang pamantayan*.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+Ang tanging paraan na ang mga institusyong panlipunan ay pweding lumaki sa marahas na monopolyo ay *upang bawasan ang mga gastos ng pagpapatupad sa kanilang mga biktima*. Ang gubyerno ay lumalaki nang walang hanggan dahil pwedi nilang bayaran ang mga maniningil ng buwis na may bahagi ng mga buwis na kanilang kinokolektahan. Kaya ang mga alipin ay sapilitang magbabayad para sa mga gastos ng kanilang pagkaalipin.
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+Sa isang boluntaryong lipunan, walang pagbubuwis, at sa gayon ang alinmang pangkat na nagnanais na makakuha ng monopolistikong kapangyarihan ay kailangang pondohan ang kanyang mismong hukbo, na hindi kailanman magagawa ng ekonomiya o kapaki-pakinabang.[^11]
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+Napakahirap maintindihan ang lohika at katalinuhan ng argumento na, upang maprotektahan tayo mula sa isang grupo na pweding *matalo tayo, dapat nating suportahan ang isang pangkat na *malakas* ay magtatagumpay tayo. Ito ay kapareho ng argumento ng istatistika tungkol sa mga pribadong monopolyo - na ang mga mamamayan ay dapat gumawa ng monopolyo ng gubyerno dahil natatakot sila sa mga pribadong monopolyo. Hindi ito nakakakuha ng masiglang pangitain upang makita sa pamamagitan ng walang kabuluhan.
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+Ano ang katibayan para sa pagtingin na ang desentralisado at nakikipagkumpitensya sa mga kapangyarihan ay nagtataguyod ng kapayapaan? Sa madaling salita, may mga katotohanan ba na pwedi nating makuha upang suportahan ang ideya na ang balanse ng kapangyarihan ay ang tanging pagkakataon na ang indibidwal ay may kalayaan?
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+Ang organisadong krimen ay hindi nagbibigay ng maraming mabubuting halimbawa, dahil ang gangs ay madalas na sira, minamanipula at ginagamit ang kapangyarihan ng pulisya ng gubyerno upang ipatupad ang kanilang alituntunin, at sa gayon ang mga gangs ay hindi pweding sabihin na nagpapatakbo sa isang estado ng kalikasan. Gayundin, kumikita ang kriminal na gang sa pamamagitan ng pagbibigay ng mga ipinagbabawal na sangkap o serbisyo na pinagbabawal ng batas, at sa gayon ay umunlad din dahil sa mga patakaran ng estado
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+Ang isang mas kapaki-pakinabang na halimbawa ay ang katunayan na walang lider ang kailanman ay nagdeklara ng digmaan sa isa pang pinuno na nagtataglay ng mga sandatang nuklear. Kapag nakadama ang mga lider sa kanilang mga sarili na hindi tinatablan mula sa personal na paghihiganti, mas gusto nilang patayin ang kanilang sariling mga populasyon sa pamamagitan ng paglulunsad ng digmaan. Ngayon na sila mismo ay napapasailalim sa paglipol, sila ay handa lamang sa pag-atake ng mga bansa na walang kakayahang lumaban.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+Ito ay isang mapagtuturo na aral kung bakit ang mga taong ito ay nangangailangan ng disarmed at umaasa sa mga populasyon - at isang mahusay na halimbawa kung paano ang takot sa panunumbalik ng likas sa isang balanseng sistema ng desentralisado at nakikipagkumpitensya na kapangyarihan *ay ang tanging napatunayan na paraan ng pag-ligtas at pagpapanatili ng personal na kalayaan*.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+Ang pagtakas mula sa mga haka-haka na masasama papunta sa proteksyon na mga bilangguan ng mga pamahalaan ay tinitiyak lamang ang pagkasira ng mga kalayaan na nagpapakinabang sa buhay.
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^4]: Tingnan [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^5]: Tingnan *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^7]: This is the current situation in democracies, of course.
+[^6]: Ang isang perpektong balanse ng mabait at masama ay halos imposible.
 
-[^8]: See Plato’s *Republic*.
+[^7]: Ito ang kasalukuyang sitwasyon sa mga demokrasya, mangyari pa.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^8]: Tingnan ang *Republika ng Plato*.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue”, see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^9]: Marahil higit pa, yamang ang masamang tao ay laging naaakit sa kapangyarihan.
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^10]: Para sa isang mas detalyadong pagtalakay sa papel na iyon *magulang* paganahin sa pag-tanim sa isip ang pantasya na “Ang kapangyarihan ay katumbas ng kabutihan”, Tingnan [On Truth](http://wiki.mises.org/wiki/On_Truth).
+
+[^11]: Tingnan [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
