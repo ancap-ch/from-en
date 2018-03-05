@@ -100,11 +100,11 @@ a. ***Pagpapalagay.***
     
     C. magpakita ng Lisensyadong Materyales ang Lisensya ay nasa ilalim ito ng pampublikong Lisensya, at isinama ang teksto ng, o ang URI o hyperlink para, sa pampublikong Lisensya na ito.
 
-2. Maaari kang masiyahan ang mga kondisyon sa Seksyon 3(a)(1) sa kahit anong makatwiran na pamamaraan base sa kainaman ng, mga kahulugan, at konteksto kung saan ibinahagi ang Lisensyadong materyales. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
+2. Maaari kang masiyahan ang mga kondisyon sa Seksyon 3(a)(1) sa kahit anong makatwiran na pamamaraan base sa kainaman ng, mga kahulugan, at konteksto kung saan ibinahagi ang Lisensyadong materyales. Halimbawa, ito man ay resonable para masiyahan sa mga kondisyon mula sa paglalaan ng URI o hyperlink para sa makukunan na iyon kasama ang mga kinakailangan na impormasyon.
 
-3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
+3. Kung hiniling ng Tagapaglisensya, Kailangan mong tanggalin ang kahit na anong kaalaman na kinakailangan sa Seksyon 3(a)(1)(A) sa lawak ng resonable na maisasagawa.
 
-b. ***ShareAlike.***
+b. ***Ibahagi sa Kapwa.***
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
