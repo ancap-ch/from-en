@@ -27,13 +27,13 @@ Ngayon sa isang di-nasambit na lista:
     * Pangalawang baytang
 * Unang baytang
 
-Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
+Ilang banggit. ang unag linya ay malaki; ang pangalawang linya ay maliit; ang ikatlong linya ay wala; ang ika-apat na linya ay wala. ang ika limang linya ay hindi binanggit ang ika--anim na linya ay:
 
-> 1th line is large: The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. The quick, brown fox jumps over a lazy dog. 2th line is small: The quick, brown fox jumps over a lazy dog.
+> unang lunya ay malaki; ang mabilis ang kulay kayumangging lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. ang pangalawang linya ay maliit; Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso.
 > 
 > 4th line is not empty: The quick, brown fox jumps over a lazy dog.
 > 
-> 6th line is a quotation: The quick, brown fox jumps over a lazy dog.
+> ang ika-anim ay isa sa nabanggit; Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso.
 
 # Headings
 
