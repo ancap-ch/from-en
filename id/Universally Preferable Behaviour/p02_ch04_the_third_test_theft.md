@@ -1,46 +1,46 @@
-## The Third Test: Theft
+## Uji Ketiga: Pencurian
 
-We will have to spend a little bit more time on theft, since it inevitably brings into the picture the question of property rights, which is highly contentious for some.
+Kita harus meluangkan sedikit waktu untuk masalah pencurian, karena hal itu pasti membawa gambaran tentang hak kepemilikan, yang sangat diperdebatkan beberapa orang.
 
-There are many ways of approaching the question of property rights, from “homesteading” to legal definitions to practical considerations etc. I will address none of those here, because the question of property rights must fall into the framework of UPB, if UPB is to stand as a rational methodology for evaluating moral propositions.
+Ada banyak cara untuk mendekati pertanyaan tentang hak kepemilikan, mulai dari "homesteading" hingga definisi hukum dan hingga pertimbangan praktis dsb. Saya tidak akan membahas siapa pun di sini, karena masalah hak kepemilikan harus jatuh ke dalam kerangka UPB, jika UPB berdiri sebagai metodologi rasional untuk mengevaluasi proposisi moral.
 
-Clearly, the moral proposition with regard to property rights is this: either human beings have the right to own property, or they do not.
+Jelas, proposisi moral berkenaan dengan hak kepemilikan adalah ini: baik manusia memiliki hak untuk memiliki kekayaan, atau tidak.
 
-Now the first “property” that must be dealt with is the body. “Ownership” must first and foremost consist of control over one’s own body, because if that control does not exist, or is not considered valid, then the whole question of morality – let alone property – goes out the window.
+Sekarang "kekayaan" pertama yang harus dijaga adalah diri sendiri. "Kepemilikan" harus terlebih dahulu dan terutama terdiri dari kontrol atas diri sendiri, karena jika kontrol itu tidak ada, atau tidak dianggap valid, maka keseluruhan pertanyaan tentang moralitas, apalagi kekayaan yang keluar dari jendela.
 
-UPB is a framework for evaluating moral propositions, or arguments about universally preferable behaviour for all mankind. First and foremost, a man must be responsible for his own actions if they are to be judged morally, since as we have argued above, the capacity to choose actions is fundamental to any ethical evaluation.
+UPB adalah kerangka kerja untuk mengevaluasi proposisi moral, atau argumen tentang perilaku yang lebih baik secara universal untuk semua umat manusia. Pertama dan terutama, seseorang harus bertanggung jawab atas tindakannya sendiri jika dinilai secara moral, karena seperti yang telah kita katakan di atas, kemampuan untuk memilih tindakan sangat penting untuk evaluasi etis apapun.
 
-If a man has no control over his body, then clearly he has no responsibility for his actions – they are not in fact “his” actions, but rather the actions of his body. Now, no one would rationally argue that if a man strangles another man, it is the murderous fingers that should be put on trial and punished. Clearly, the body cannot entirely control itself, but rather must be to some degree under the direction of the conscious mind.
+Jika seorang pria tidak memiliki kontrol atas dirinya, maka jelas dia tidak bertanggung jawab untuk tindakan-mereka dan sebenarnya bukan tindakan "nya", dan bukan tindakan tubuh. Sekarang, tidak ada yang rasional akan berpendapat bahwa jika seseorang mencekik orang lain, itu adalah pembunuh jari-jari yang harus diadili dan dihukum. Jelas, tubuh tidak dapat sepenuhnya mengendalikan dirinya sendiri, melainkan harus berada pada tingkat tertentu di bawah arahan pikiran sadar.
 
-What this means is that a man is responsible for the actions of his body, and therefore he is responsible for the *effects* of those actions. A man is responsible for where he puts his penis, which is how we know that we can judge him for raping someone. He “owns” the actions of his body as surely as he owns his body. To say that a man is responsible for his body but not the effects of his body is to argue that a man is responsible for aiming and throwing a knife, but not for where it lands.
+Apa artinya ini adalah bahwa seseorang bertanggung jawab atas tindakan dirinya, dan karena itu dia bertanggung jawab atas *efek* dari tindakan tersebut. Seorang pria bertanggung jawab atas tempat dia meletakkan penisnya, begitulah cara kita tahu bahwa kita bisa menilai dia karena memperkosa seseorang. Dia "memiliki" tindakan dirinya pasti karena dia memiliki tubuhnya. Mengatakan bahwa seseorang bertanggung jawab atas tubuhnya tapi bukan efek tubuhnya adalah untuk membantah bahwa seseorang bertanggung jawab untuk mengarahkan dan melempar pisau, tapi tidak untuk tempat di mana ia berada.
 
-Also, arguing that a man is not responsible for the effects of his body is a self-detonating statement, similar to the ones we examined above. If I say to you: “Men are not responsible for the actions of their bodies”, it would be eminently fair for you to ask me who is working my vocal chords and mouth. If I say that I have no control over my speech – which is an effect of the body – then I have “sustained” my thesis at the cost of invalidating it completely.
+Juga, dengan alasan bahwa seseorang tidak bertanggung jawab atas efek tubuhnya adalah pernyataan yang meledakkan diri, serupa dengan yang kita periksa di atas. Jika saya berkata kepada Anda: "Pria tidak bertanggung jawab atas tindakan diri mereka," akan sangat adil jika Anda meminta saya untuk bekerja dengan pita suara dan mulut saya. Jika saya mengatakan bahwa saya tidak memiliki kendali atas pidato saya - yang merupakan efek dari tubuh - maka saya telah "mempertahankan" tesis saya dengan biaya untuk membatalkannya sepenuhnya.
 
-If I am not at all responsible for my speech, then there is no point arguing with me. A tape recorder is also not responsible for its speech, which is why we tend not to get into virulent disagreements with magnetic strips. In cheesy horror films, young girls seem to be particularly susceptible to demonic possession – the inevitable priest who shows up always offers to talk to the demon in charge of the girl, at which point the girl starts making a sound like Don Ho gargling with ball bearings.
+Jika saya sama sekali tidak bertanggung jawab atas pidato saya, maka tidak ada gunanya berdebat dengan saya. Perekam tape juga tidak bertanggung jawab atas pidatonya, oleh karena itu kita cenderung tidak mengalami ketidaksepakatan yang tidak senonoh dengan strip magnetik. Dalam film horor cheesy, gadis-gadis muda tampaknya sangat rentan terhadap kepemilikan setan - pendeta yang tak terelakkan dan selalu menunjukkan tawaran untuk berbicara dengan iblis yang bertanggung jawab atas gadis itu, pada saat mana gadis itu mulai membuat suara seperti Don Ho berkumur dengan bola bantalan.
 
-This ridiculous portrait is accurate in one sense though – if some other being is in full control of the girl’s vocal chords, it is that being which needs to be addressed, not the girl, who has no control over her responses.
+Potret yang konyol ini akurat dalam satu pengertian, sekalipun jika ada makhluk lain yang memegang kendali penuh dari pita suara gadis itu, inilah yang perlu ditangani, bukan gadis itu, yang tidak memiliki kendali atas responsnya.
 
-Thus if I say to you that I do not have control over my speech, you can ask me: who does? If I reply that no one does, then it makes about as much sense to argue with me as it does to argue with a television set, or the aforementioned boulder as it bounces down a hillside towards you car.
+Jadi jika saya katakan kepada Anda bahwa saya tidak memiliki kendali atas pidato saya, Anda dapat bertanya kepada saya: siapa yang melakukannya? Jika saya menjawab bahwa tidak ada yang melakukannya, maka sangat masuk akal jika berdebat dengan saya seperti halnya berdebat dengan televisi, atau boulder di atas seperti yang memantul di lereng bukit menuju mobil Anda.
 
-Thus the very act of controlling my body to produce speech demands the acceptance of my ability to control my speech – an implicit affirmation of my ownership over my own body.
+Jadi tindakan mengendalikan diri saya untuk menghasilkan ucapan menuntut penerimaan kemampuan saya mengendalikan pidato saya - penegasan implisit atas kepemilikan saya atas diri saya sendiri.
 
-Now, if demonic possession were a valid occurrence, and a girl possessed by a demon spat on a priest, we would not call the *girl* rude, but would rather pity her for being inhabited by such an impolite demon. Whoever has control over the girl’s body is culpable for the effects of her actions – this is why we would not call a man who stole while sleepwalking “evil”, since he did not have full control over his own body (although we may restrain him in other ways). This is also the basis for the legal defence of “not guilty by reason of insanity”, which is that we assume that a man who is insane does not have full control over his actions.
+Sekarang, jika kepemilikan setan adalah kejadian yang benar, dan seorang gadis yang dikuasai iblis meludahi seorang imam, kita tidak akan menyebut *gadis* itu kasar, tapi lebih baik mengasihani dia karena dihuni oleh setan yang tidak sopan. Siapa pun yang memiliki kendali atas tubuh gadis itu bersalah atas efek tindakannya - inilah mengapa kita tidak akan memanggil orang yang mencuri sambil berjalan dalam tidur "jahat", karena ia tidak memiliki kendali penuh atas tubuhnya sendiri (walaupun kita dapat menahannya dengan cara lain). Ini juga merupakan dasar untuk pembelaan hukum "tidak bersalah karena alasan kegilaan," yaitu bahwa kita menganggap bahwa orang yang gila tidak memiliki kendali penuh atas tindakannya.
 
-Thus to reject the ownership of the body is to reject all morality, which, as we have seen above, is utterly impossible. Logically, since morality is defined as an enforceable subset of UPB, to reject morality is to say that it is universally preferable to believe that there is no such thing as universal preferences.
+Dengan demikian menolak kepemilikan tubuh adalah menolak semua moralitas, seperti yang telah kita lihat di atas, sama sekali tidak mungkin. Logikanya, karena moralitas didefinisikan sebagai subset UPB, yang dapat dilaksanakan untuk menolak moralitas adalah mengatakan bahwa secara umum lebih baik untuk percaya bahwa tidak ada preferensi universal.
 
-Finally, to use one’s ownership of one’s own body in the form of speech to reject the notion that one can control one’s own body, is a blatant and insurmountable self-contradiction.
+Akhirnya, untuk menggunakan kepemilikan seseorang terhadap tubuh seseorang dalam bentuk pidato untuk menolak gagasan bahwa seseorang dapat mengendalikan tubuhnya sendiri, adalah kontradiksi diri yang terang-terangan dan tidak dapat diatasi.
 
-It is in this way that any rejection of self-ownership can be utterly discarded.
+Dengan cara inilah penolakan kepemilikan diri dapat benar-benar dibuang.
 
-Since we own our bodies, we also inevitably own the *effects* of our actions, be they good or bad. If we own the effects of our actions, then clearly we own that which we produce, whether what we produce is a bow, or a book – or a murder.
+Karena kita memiliki tubuh kita, kita pasti juga memiliki *efek* dari tindakan kita, baik itu baik atau buruk. Jika kita memiliki efek dari tindakan kita, maka jelaslah kita memiliki apa yang kita hasilkan, apakah yang kita hasilkan adalah busur, atau buku - atau pembunuhan.
 
-### Property And UPB
+### Kekayaan Dan UPB
 
-Even if we reject the above, we can still use UPB to definitively assert the existence of universal property rights.
+Sekalipun kita tolak di atas, kita masih bisa menggunakan UPB untuk secara definitif menegaskan adanya hak kekayaan universal.
 
-As mentioned above, either human beings have property rights, or they do not. Except for a few grey areas, which we will get to shortly, this remains a universal proposition.
+Seperti disebutkan di atas, baik manusia memiliki hak kepemilikan atau tidak. Kecuali beberapa area abu-abu, yang akan segera kita dapatkan, ini tetap merupakan proposisi universal.
 
-If a man does not have the right to use property, then he does not have the right to use his own body. He does not have the right to use his own lungs, and therefore must stop breathing. Although this sounds silly, it is an immediate and inevitable result of the premise that human beings do not have property rights.
+Jika seorang manusia tidak memiliki hak untuk menggunakan kekayaan, maka dia tidak memiliki hak untuk menggunakan tubuhnya sendiri. Dia tidak punya hak untuk menggunakan paru-parunya sendiri, dan karena itu ia harus berhenti bernapas. Meskipun ini terdengar konyol, ini adalah hasil langsung dan tak terelakkan dari premis bahwa manusia yang tidak memiliki hak kepemilikan.
 
 It is fairly safe to assume that anyone you are debating property rights with is drawing breath, and thus agrees with you that he has the right to use his own body at least.
 
