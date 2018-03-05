@@ -14,7 +14,7 @@
 
 یہ کتاب میرے انفرادی حملے کی کہانی ہے ایک ایسے ہی درندے پر.
 
-یہ"درندا" یہ اعتبار ہے کہ اسکا کوئی حقیقی ،عقلی، لامذھبی، سائینسی و اخلاقی نظام واضع کرنا ناممکن ہے. This “beast” is the illusion that morality must forever be lost in the irrational swamps of gods and governments, enforced for merely pragmatic reasons, but forever lacking logical justification and clear definition. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
+یہ"درندا" یہ اعتبار ہے کہ اسکا کوئی حقیقی ،عقلی، لامذھبی، سائینسی و اخلاقی نظام واضع کرنا ناممکن ہے. یہ "درندا" ایک غمان ہے کہ جس کے اخلاقیات بتوں اور حکومت کے غیر منتقلی دلدل میں ہمیشہ کے لیے کھو جا نے چاہیے ،صرف معمولی وجوہات کے لیے مجبور کر نا، لیکن ہمیشہ کی طرح منطقی واجبیت اور واضح تعریف کی کمی محسوس ہوئی. This “beast” is the fantasy that virtue, our greatest joy, our deepest happiness, must be cast aside by secular grown-ups, and left in the dust to be pawed at, paraded and exploited by politicians and priests – and parents. This “beast” is the superstition that, without the tirades of parents, the bullying of gods or the guns of governments, we cannot be both rational and good.
 
 This beast has brought down many great heroes, from Socrates to Plato to Augustine to Hume to Kant to Rand.
 
