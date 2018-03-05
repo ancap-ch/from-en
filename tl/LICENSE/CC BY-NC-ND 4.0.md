@@ -83,7 +83,7 @@ a. ***pagpapalagay.***
     
     A. panatilihin ang sumusunod kung ito ay sumusunod sa tagapaglesensya kasama ang Materyal na Lesensya:
     
-         i. pagkakakilanlan ng (mga) lumikha ng Materyal na Lesensya at iba pang nakatalagang tatanggap ng pagpapalagay, sa kahit anong rason na hiling ng tagapaglesensya (kasama ang sagisag sa panulat na nakatalaga); ii. iii. iv. v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         i. pagkakakilanlan ng (mga) lumikha ng Materyal na Lesensya at iba pang nakatalagang tatanggap ng pagpapalagay, sa kahit anong rason na hiling ng tagapaglesensya (kasama ang sagisag sa panulat na nakatalaga); ii. iii. iv. v. ang isang URI o hyperlink sa mga lisensyadong materyal ng mga saklaw ng rason na magagwa;
         
     
     B. isaad kung iyong binago ang Materyal na Lesensya at mapanatili ang isang idikasyon ng anumang nakaraan na pag babago; at
@@ -97,7 +97,7 @@ a. ***pagpapalagay.***
     
     2. Kung hiling ng Tagapaglesensya, Kailangan mong alisin ang kahit anong impormasyon na kailangan sa Seksyon 3(a)(1)(A) sa lawak ng makatuwiran.
 
-### Section 4 – Sui Generis Database Rights.
+### Seksyon 4 -mga lahi ng Sui at mga karapatan ng Database.
 
 Kung saan ang Karapatan ng Lesensya ng Sui Generis Database mga karapatan ay mailapat sa iyong paggamit ng Lesensyadong Materyal:
 
