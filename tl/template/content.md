@@ -37,9 +37,9 @@ Ilang banggit. ang unag linya ay malaki; ang pangalawang linya ay maliit; ang ik
 
 # Ang mga pamagat
 
-## Sub heading
+## I-sub ang pamagat
 
-### Heading at the third level
+### Ang pamagat sa ikatlong baytang
 
 #### Heading at the fourth level
 
