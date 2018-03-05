@@ -80,9 +80,9 @@ b. ***Ibang karapatan.***
 
 ### Seksyon 3 - Lisensyadong mga Kondisyon.
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+Saiyong pagsasanay sa Lisensyadong karapatan ay hayagang gawa sa paksa para sa mga musunod na kondisyon.
 
-a. ***Attribution.***
+a. ***Pagpapalagay.***
 
 1. If You Share the Licensed Material (including in modified form), You must:
     
