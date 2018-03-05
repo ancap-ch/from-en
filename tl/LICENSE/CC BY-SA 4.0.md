@@ -106,7 +106,7 @@ a. ***Pagpapalagay.***
 
 b. ***Ibahagi sa Kapwa.***
 
-In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
+Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa Materyal na iyong ilabas, ang mga sumusunod na kondisyon ay i-apply din.
 
 1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
 
