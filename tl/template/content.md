@@ -16,16 +16,16 @@ Nasa ibaba ang isang enumerated na listahan ng mga istilong pangrams, na nagpapa
     3. Itong kasabihan ay may dalawang mga talababa.[^1][^2]
 5. This phrase has [this](https://example-this.com) link, and also [this again](https://example-this-again.com).
 
-Now a non-enumerated list:
+Ngayon sa isang di-nasambit na lista:
 
-* First level
-* First level 
-    * Second level
-    * Second level 
-        * Third level
-        * Third level
-    * Second level
-* First level
+* Unang baytang
+* Unang baytang 
+    * Pangalawang baytang
+    * Pangalawang baytang 
+        * Ikatlong baytang
+        * Ikatlong baytang
+    * Pangalawang baytang
+* Unang baytang
 
 Some quotation. First line is large; second line is small; third line is empty; fourth line is not. 5th line is not a quotation; 6th line is:
 
