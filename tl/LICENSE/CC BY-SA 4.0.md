@@ -88,11 +88,8 @@ a. ***Pagpapalagay.***
     
     A. itago ang mga kasunod kung ang palitan mula sa Tagapaglisensya kasama ang Materyal na Lisensya:
     
-         i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-        
-         ii. a copyright notice;
-        
-         iii. a notice that refers to this Public License;
+         i. ang pagkilanlan ng (mga) manlilikha ng Lisensyadong Materyales at kahit anong hinirang sa matatamo na pagpapalagay, sa kahit anong pakiusap na paraan sa kahilingan ng Tagapaglisensya (kasama ang nakatalaga na sagisag).
+         ii. iii. ang abiso para isangguni dito sa pampublikong lisensya;
         
          iv. a notice that refers to the disclaimer of warranties;
         
