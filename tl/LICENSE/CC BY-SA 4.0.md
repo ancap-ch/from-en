@@ -76,9 +76,9 @@ b. ***Ibang karapatan.***
 
 2. Patentado at tatak ng karapatan ay hindi lisensyado sa ilalim ng ibang Pampublikong Lisensya.
 
-3. Pasa sa posibleng lawak, Ang tagapaglesensya ay talikdan ang kahit anong karapatan sa pag kolekta ng mga pagkakahari mula sa iyo para sa pagsasanay ng Lisensyadong Karapatan, maging ang direkta o sa pamamagitan ng pagkoleta ng samahan sa ilalim ng bolontaryo o waivable statutory o puwersahan na pamamaraan ng Lisensya. In all other cases the Licensor expressly reserves any right to collect such royalties.
+3. Pasa sa posibleng lawak, Ang tagapaglesensya ay talikdan ang kahit anong karapatan sa pag kolekta ng mga pagkakahari mula sa iyo para sa pagsasanay ng Lisensyadong Karapatan, maging ang direkta o sa pamamagitan ng pagkoleta ng samahan sa ilalim ng bolontaryo o waivable statutory o puwersahan na pamamaraan ng Lisensya. Sa lahat ng ibang kaso ang tagapag lisensya hayagang ireserba ang mga karapatan sa pag kolekta ng royalties.
 
-### Section 3 – License Conditions.
+### Seksyon 3 - Lisensyadong mga Kondisyon.
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
