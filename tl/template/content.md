@@ -31,11 +31,11 @@ Ilang banggit. ang unag linya ay malaki; ang pangalawang linya ay maliit; ang ik
 
 > unang lunya ay malaki; ang mabilis ang kulay kayumangging lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso. ang pangalawang linya ay maliit; Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso.
 > 
-> 4th line is not empty: The quick, brown fox jumps over a lazy dog.
+> ang ika-apat ay walang bakante; Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso.
 > 
 > ang ika-anim ay isa sa nabanggit; Ang mabilis, ang kulay kayumanggi lobo ay lumundag sa tamad na aso.
 
-# Headings
+# Ang mga pamagat
 
 ## Sub heading
 
