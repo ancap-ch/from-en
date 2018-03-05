@@ -110,7 +110,7 @@ Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa 
 
 1. Ang mga Halaw sa Lisensya kailangan mo na mag-apply at kinakailangan na Malikhain sa mga Pangkaraniwan na lisensya kasama ang katulad na Elemento ng Lisensya, Ang bersyon na ito o mamaya, o ang BY-SA sa Magkasundo na Lisensya.
 
-2. Kailangan mong isama ang teksto sa, o ang URI i hyperlink sa, ang mga Halaw sa Lisensya na iyong i-apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+2. Kailangan mong isama ang teksto sa, o ang URI i hyperlink sa, ang mga Halaw sa Lisensya na iyong i-apply. Kailangan mong masiyahan sa kondisyon na ito sa kahit anong resonable na pamamaraan base sa katamtaman, nangangahulugan, at konteksto kung saan ibinahagi ang iyong Halaw na Materyal.
 
 3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
