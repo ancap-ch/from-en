@@ -91,12 +91,12 @@ a. ***Pagpapalagay.***
          i. ang pagkilanlan ng (mga) manlilikha ng Lisensyadong Materyales at kahit anong hinirang sa matatamo na pagpapalagay, sa kahit anong pakiusap na paraan sa kahilingan ng Tagapaglisensya (kasama ang nakatalaga na sagisag).
          ii. iii. ang abiso para isangguni dito sa pampublikong lisensya;
         
-         iv. a notice that refers to the disclaimer of warranties;
+         iv. ang abiso para tukuyin dito ang pagkakaila sa mga warrantie;
         
-         v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+         v. ang URI o hyperlink para sa lisensyadong materyales sa pinaka saklaw ng resonable na maisasagawa;
         
     
-    B. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+    B. palatandaan kung ikaw ay binago ang Tagapaglisensya ng Materyales ay mananatili sa indikasyon ng kahit anong nakaraan na mga modipikasyon; at
     
     C. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 
