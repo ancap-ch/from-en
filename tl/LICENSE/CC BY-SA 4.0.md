@@ -116,7 +116,7 @@ Ang karagdagan sa mga kondisyon sa Seksyon 3(a), kung ibinahagi mo ang Halaw sa 
 
 ### Section 4 – Sui Generis Database Rights.
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+Kung saan ang Karapatan sa Lisensya kasama ang Sui Generis Database Rights na i-apply sa iyong gamit sa Lisensyadong Materyal:
 
 a. for the avoidance of doubt, Section 2(a)(1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database;
 
