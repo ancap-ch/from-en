@@ -66,10 +66,10 @@ Por isso, um homem que acredita que o bullying é uma boa maneira de conseguir o
 
 Por outras palavras, o CUP exige coerência mesmo na inconsistência. O CUP exige uniformidade inclusive na imoralidade.
 
-Assim, as proposições morais da raiz de uma cultura determinam o seu futuro inevitável. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Assim, as proposições morais da raiz de uma cultura determinam o seu futuro inevitável. Uma cultura fundamentada nas justificações de coacção tornar-se-à, sempre, mais opressiva. Uma cultura construída sobre a liberdade racional tornar-se-à, sempre, menos repressiva.
 
-That is why the delineation of a rational framework for ethics is so essential.
+É por isso que a delimitação de uma estrutura racional, é tão importante, para a ética.
 
-What we believe is what we become.
+Convertemo-nos naquilo em que acreditamos.
 
-If we believe lies, we shall become slaves.
+Se acreditamos em mentiras, tornamo-nos em escravos.
