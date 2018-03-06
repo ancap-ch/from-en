@@ -1,73 +1,73 @@
-## Lifeboat Scenarios
+"Izo Ndu Gi"
 
-The fact that UPB only validates logically consistent moral theories does not mean that there can be no conceivable circumstances under which we may choose to act *against* the tenets of such a theory.
+Ebe UPB na ekwu na soso ife ngosi gbasara ako bu eziokwu anaha akowa na onweghi otu ife mmadu gere enweghi ike ibu eziokwu maka na mmadu anaha afu ya na anya.
 
-For instance, if we accept the universal validity of property rights, smashing a window and jumping into someone’s apartment without permission would be a violation of his property rights. However, if we were hanging off a flagpole outside an apartment window, and about to fall to our deaths, few of us would decline to kick in the window and jump to safety for the sake of obeying an abstract principle.
+Ne godu anya, oburu na anyi nabatara iwu gbasara ife anyi wenre maka na uwa si na odimma, dika imebi windo m'obu ibanye uno mmadu mgbe osiro gi bia ga abu igafe ohere gi. Mana, oburu na anyi no n'enu osisi di uno mmadu nso, ofokwuru obere ka anyi da wen wuon, oga aburiri anyi nine ga amanie n'ime be mmadu ahu osisi ahu noyere maka na anyi achobe iwun.
 
-In the real world, it would take a staggeringly callous person to press charges against a man who destroyed a window in order to save his life – just as it would take a staggeringly irresponsible man to refuse to pay restitution for said window. The principle of “avoidability” is central here – a man hanging off a flagpole has little choice about kicking in a window. A man breaking into your house to steal things clearly has the capacity to avoid invading your property – he is not cornered, but is rather the *initiator* of the aggression. This is similar to the difference between the woman whose man cheats on her, versus the woman whose man locks her in the basement.
+N'uwa, soso onye arunuma ga akpo mmadu si windo bata n'uno ya maka na ochoro ibi ndu ga akpo je ya nga -- otu ahu ka onye arunuma ga aju na oga akwu ugbo windo omebiri. Iwu "inefu anya" bu isi okwu n'ebe ah -- nwoke jide osisi maka na oga ada wenre obere oge tupu oda na ana kama oga ada, oga agba windo gi ukwu. Onye mebiri windo gi maka na ochoro izuru gi ori wenre uche inefu anya na be gi -- onaha awun mana yawa bidoro ogu ahu. Ife ah dika iche di n'ime nwanyi di ya jekwuru onye ozo, na nwanyi di ya kporo nga.
 
-This is not to say that breaking the window to save your life is not wrong. It is, but it is a wrong that almost all of us would choose to commit rather than die. If I were on the verge of starving to death, I would steal an apple. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Nkowa ahu aburo isi na imebi windo mmadu izo ndu gi dimma. Obu kwa njo, mana obu njo anyi nine ga eme tupu anyi awun. Oburu na aguru choro igbu mu, mu ga ezu apul mmadu. Ife ahanaha akowa na mu izu apul mmadu dimma -- ife ona akowa bu nam ga eme ya  -- mu ga anabata ife soro ife mu mere.[^10]
 
-### Grey Areas
+Ebe di Gray 
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Ife mere ka "ebe di gray" noro n'uwa ako dika ife ndi ochichi ji eme eziokwu. Ebe kemgbe ife n'eme owenre ife ndi adoro mmadu anya (dika onye bidoro iji ogu eme ife), ebe ikowa iwu kwesiri di n'ife nine na eme nu di ario, mgbaghota okwu bu onweghi ife mmadu ga ama ofuma, na onweghi iwu di ikowa ife obuna na eme. 
 
-This is false.
+Ife ah bu ashi.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Ndi mara ife mara na bioloji bu ife mmadu na agu wenre isi, ebe otutu anumanu putara uwa wenre "ofu ife-diche" na ahu fa. Nkita amuru wenre ukwu n'ese anaha akowa na "caninu" buru ife n'enwero isi. Na otutu awunta di iche na enye nsogbu anaha akow na owenghi ife di iche n'ime awunta na alacha oruma na azu di nnukwu.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
+Maka nkowa fa dosara, amamihe wenre anuri n'ebe ako na emebi, n'uzor n'eme na uzor dimma. Ife wenre ike ibu maka na ndi ochichi di njo ego obi ndi amamihe, ndi ochichi njo dika politshian, eze muo na eze ndi obodo -- m'obu owenre ike ibu na nwoke rozi onye amamihe iwenre ike ime ife nine ona n'eme ndi dimma na ndi di njo buru ezi ife maka na ochoro ikuchie ako njo owenre. Ife obuna kpatara ya, otutu ndi amamihe n'eche echiche aro kwuo "anti-tinker", mana ife ah dicha njo. Oga ara one ndi na agu "bioloji" jiri ndu akowa bekee di na bioloji aman me. Oburu na bekee bioloji aman mewun, oburo ife onye mara ife ga eme, dika otu onye n'ekwero na chukwu no ga ebido mutaba ife gbasara chukwu, m'obu isi na ochoro ibu eze muo.
 
-### Shades Of Grey
+Otu Gray Na Adi
 
-In the realm of “grey areas,” there are really only three possibilities.
+N'uwa "ebe di gray", owenre uzor ato owenre ike ime.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1.	Owenro ife di ka ebe di gray.
+2.	Ufodu ebe di gray no n'uwa.
+3.	Amamihe nine bu ebe di gray.
 
-Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
+Okwa ina afu, anyi wenre ike ikagbu nke izizi. Nke ato aman kwe anyi kagbuo ya. Ife anyi de ebe ahu "amamihe nine bu ebe di gray" bu ife wenre ike igbu onwe ya, otu anyi si fu n'enu, otu ikowa na "ife nine mmadu kwuru okwu bu ashi" na egbu onwe ya. 
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Ugbua anyi ga eso uzor nke ibuo, n'akaowa na ebe di gray di ihe, anyi mara na onwe ife di gray yicha ebe ahu na aburo ife di gray. ife anyi n'aku n'ume dikwo na spasi, na n'okpuru mmiri, mana odiro otu nke anyi si wen di m'obu n'one oga ezu anyi. Mgbaghota nku ume n'ebe di gray, oburu isi na "obere na agu nnukwu"; ajuju ichofuta na mmadu wenre ike iku ume n'okpuru mmiri dicha oji na ocha.
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Onye bekee ndi na eri aru mmadu jidere wenre ike irogbu fa ka obu eze-muo iwen ike igba oso -- ife ah anaha akowa na anyi ga etufu otu ndi bekee si eme.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Dika, owenre mgbe ga eme ife di njo maka izelu ife kacha ike anyi, mana njo anyi mere enweghi otu osi wenre buru ako, otu anumanu puru iche na emebi ife bioloji na kuziri anyi. Biology ahu bu bekee malite gonu ofuma maka nnabata na imuta ife diche na anumanu ahu -- na dika, bekee di ma ako na enwe ike site na mmuta "izo ndu gi", ebe ina eme ya otu okwesiri di.
 
-### Universality And Exceptions
+Ife Uwa Na Nwepu
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Tupu anyi ebido ijiri oru anyi n'ime Ife Uwa na Eme inene ife ndi mmadu kwere n'obu ako, anyi ga etinye anya n'ime ajuju ana akpo "nwepu".
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Ijiri ife di n'enu "izo ndu gi", ngbaghota ya na abu na "ezi omume" na abu ife bu na abu "ezi" n'ime ndu mmadu ofu.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+N'ime nkowa di icheiche na ako, oburu na mmadu juru mu ajuju na agama ezuru apul kama agu gu gbuo mu -- mu wenre za ya "eyeh" -- ife ah nine digasi bu ife onye obuna no ebe ahu ga ekwu.
 
-1. Everyone would rather steal an apple than starve to death.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
-4. Thus survival is universally preferable to property rights.
-5. Thus what is good for the individual is the ultimate moral standard.
+1.	Mmadu nine ga ezu apul kama aguru gbuo fa.
+2.	Ugbua mmadu nine ga ezuru apul kama iwun maka aguru.
+3.	Ugbua uwa nine nabatara izuru apul kama fa awuon maka aguru.
+4.	Ugbua izo ndu bu ife uwa nabatara karia izo aku.
+5.	Ugbua ife kacha mkpa na ndu mmadu nine bu iwen ako.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ife ah bu ife mmadu n'ejiri eme ebe mbido nkowa ako na ime ya, site na Nietzsche gawa na Rand. Ife onye obuna choro ime izo ndu digasi iche iche ka anyi tuari ka'obu nkowa ako na etinye n'etiti ndi mmadu iwenre ike izo ndu. [^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Otu "bioloji hedonism" si wenre di wenre ike ina akowa "ife na eme mmadu izo ndu", mana obu imaaki ebe ona akowa ife ndi mmadu na eme, kama i gwaba fa ife fa kwesiri ime.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ona egosi ife na aburo ife ndi bekee na eme gbasara ajuju ako. K'anyi si, oburu na ako si na iwenre ike izu nri kama iga awun, nri one ka iwenre ike izu? Iwenre ike izu nri wenre ife nine na-edozi ahu? One ka ife na-edozi aru kwesiri ino na nri ahu tupu iga asi na obu ezi ife izu nri omu? Izucha ofu nri, oge one ka ikwesiri ichere tupu izu nri ozo? Ikwesiri izu nri m'obu icho oru, m'obu yoba ayiyo?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+K'amu tinye kwo, oburu na mu ga enweta ego n'izu ori karia onye wenre ebe ona akpoye ngwu ahia, okwa ekwesirim i na azu ori? Oga enye mu aka izo ndu mu... na ekwu na aga.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Otu anyi na afu, mbido "ife dimma gbasar nwoke na nro -- m'obu ife ndi mmadu na eme -- bu ife uwa nabatara" na emebi isi okwu ako ka ife nkowa amamihe, na nnochi bioloji ka isi na ife mmadu n'eme dimma. Oburu nkowa otu mmadu si eme, obughi nkowa ako mmadu si ka anyi tinye anya.
 
-### The Purpose And The Dangers
+Ife kpatara Ya Na Ife Di Egwu Na Ya
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Ndidi gi iwenre, ofu ajuju ka foro ka iza tupu anyi enye ya nkowa wenre nene otu ako digasi ga abanye n'ime oru ife uwa nabatara. Ebe ori kacha di ario no n'ihu, anyi kwesiri ikuwsi ma juo onwe anyi gini mere anyi na etinye onwe anyi n'ime afufu ah nine.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Ikwu aria, tupu agawa, odimkpa ka anyi juru onwe anyi ajuju ah: "Kedu ihe kpatara nsogbu?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Kedu ife kpatara nkowa ako? Ogbasaro ndi oma, na ndi oji anaha etinye anya na ya tupu ime ya. Ndi mmadu ga eme ife fa choro, fa ga enwe ife fa ga eji ekpuchi ife fa mere ka obu ife dimma -- Gini kpatara ikuzi ndi mmadu ako?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+Eyeh, ife di egwu na adi onye njo ga enyie gi egwu, m'obu jiri ogu bia kwute gi maka ife di ya n'obu na ife ochoro iwen n'aka gi. Owen kwuru ike ibu, otu isi wen dozie be gi ka od ocha na isi ebi ndu amaa, iwenre ike iwe onyia obara tupu mgbe ikwesiri iwun -- nke izizi emero ka nkowa ako buru ife nlafu, karia otu nke ikpeazu mere nkowa ogwu, ife ne-edozi aru na ime eksazizu ka oburu ife nlafu. Ofu di n'ime ife ako bekee n enweta mmadu kwesiri ibu iwedata afufu njo dika ori, ogbugbu mmadu na repu -- na oburu iso iwu ah ka anyi ga eji etinye anya na iwu ako di na Nke Ato akwukwo ah.
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+[^10]: Eyeh, oburu na mu amaro ihe m'obu anaha ma aghota ife aguru ana achor igbu mu, itu mkporo ga enye mu aka.
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: "Ike uche" Nietzsche na "ife na enye ndu mmadu anuri bu ihe oma" nke Rand.

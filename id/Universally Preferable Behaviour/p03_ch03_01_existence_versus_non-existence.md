@@ -1,72 +1,72 @@
-## Eksistensi Melawan Non-Eksistensi
+## Keberadaan Vs Ketiadaan
 
-Kita mendefinisikan bahwa "non-eksistensi" yaitu sebagai sesuatu yang tidak memiliki massa atau energi, baik itu menampilkan efek dari massa atau energi, sebagai deteksi hubungan seperti gravitasi.
+Kita mendefinisikan bahwa “ketidakberadaan” sebagai sesuatu yang tidak memiliki massa atau energi atau menampilkan efek massa atau energi, seperti hubungan yang terdeteksi seperti gravitasi.
 
-Tuhan tidak memiliki massa maupun energi atau menampilkan efek dari massa maupun energi – sebenarnya Tuhan tidak bisa dideteksi atau diverifikasi melalui cara apapun, baik itu bayang maupun bentuk, meskipun melalui indra atau rasionalitas.
+Tuhan tidak memiliki massa atau energi, atau menampilkan efek massa atau kekuatan Tuhan, pada kenyataannya, tidak dapat terdeteksi atau diverifikasi dengan cara apapun, bentuk atau bentuk, baik melalui indera atau melalui rasionalitas.
 
-Seandainya saya mengatakan, "Tuhan itu ada," apa yang sebenarnya saya katakan adalah:
+Dengan demikian jika saya mengatakan, "Tuhan itu ada", apa yang benar-benar sayan katakan adalah:
 
-“*Bahwa semua yang ada harus bisa dideteksi; Tuhan tidak bisa dideteksi, tapi Tuhan itu ada – oleh sebab itu apa yang tidak ada, adalah ada.*”
+“*Yang ada pasti dapat dideteksi; Tuhan tidak bisa dideteksi, tetaapi Tuhan ada – karena itu, apa yang tidak ada, adalah ada.*”
 
-Katakanlah, dengan mengatakan "Tuhan itu ada," saya telah menciptakan sebuah pertentangan yang tidak dapat diatasi. Saya telah menetapkan "eksistensi" sebagai "non-eksistensi," yang mana menetapkan makna "kehidupan" sebagai "benda mati," atau batu sebagai "kebalikan dari karang", atau "persegi" sebagai "lingkaran".
+Dengan kata lain, dengan mengatakan "Tuhan itu ada", saya telah membuat sebuah kontradiksi yang tidak dapat diatasi. Saya telah mendefinisikan "keberadaan" sebagai "ketiadaan", yang membuat akal seperti mendefinisikan "kehidupan" sebagai "benda mati", atau batu karang sebagai "kebalikan dari batu", atau "persegi" sebagai "lingkaran"..
 
-Begitu pula, seandainya saya membuat sebuah semesta pembanding yang mana “non-eksistensi sama dengan eksistensi” dan "kontradiksi sama dengan konsistensi" juga "kebenaran sama dengan kepalsuan" serta "tidak masuk akal sama dengan masuk akal," maka apa yang telah saya lakukan sebenarnya adalah menciptakan sebuah dunia bernama "kesalahan," menempatkan segala sesuatu pada tempat yang salah, serta mengartikannya sebagai tempat di mana "kesalahan sama dengan kebenaran."[^2]
+Demikian pula, jika saya membuat beberapa alternatif alam semesta di mana "ketiadaan sama dengan keberadaan" dan "kontradiksi sama dengan konsistensi" dan "kebenaran sama dengan dusta" dan "irasionalitas sama dengan rasionalitas", maka apa yang telah benar-benar saya lakukan adalah membuat sebuah dunia yang disebut "kesalahan", meletakkan segala sesuatu di dalamnya yang tidak benar, dan didefinisikan alam semesta ini sebagai tempat di mana "kesalahan yang sama dengan kebenaran".[^2]
 
-Tentu saja orang-orang tidak membuat "semesta pengganti" ini untuk membuktikan kebenaran di alam semesta kita sendiri, kecuali untuk menyelamatkan yang salah pada kenyataan, serta menyebutnya benar. Contonya, tidak ada seorangpun yang berpendapat "Tuhan mungkin ada di semesta lain, sehingga anda tidak bisa mengklaim bahwa Tuhan tidak ada "pernah membantah" *Saya* mungkin tidak ada di semesta yang lain, jadi anda tidak bisa mengklaim bahwa saya ada di sini."
+Tentu saja, orang tidak membuat ini "dunia alternatif" dalam hal untuk membuktikan suatu kebenaran dalam alam semesta kita sendiri, melainkan untuk menyelamatkan yang keliru dalam kenyataannya, dan panggilan itu benar. Misalnya, ada orang yang berpendapat "Tuhan mungkin ada di alam semesta lain, sehingga anda tidak bisa mengklaim bahwa Tuhan tidak ada" "*I* pernah berpendapat mungkin tidak ada di alam semesta lainnya, sehingga anda tidak bisa mengklaim bahwa saya ada di sini".
 
-Mereka juga cenderung tidak menanggapi dengan baik pendapat bahwa: “Di semesta yang lain mungkin anda setuju dengan saya bahwa Tuhan tidak ada, sehingga menjadikan anda sebagai seorang ateis.”[^3]
+Mereka juga cenderung tidak merespon dengan baik untuk argumen bahwa: "Di alam semesta lain, anda mungkin akan setuju dengan saya bahwa Tuhan tidak ada, sehingga membuat anda seorang ateis".[^3]
 
-Jika pernyataan yang benar tentang kenyataan dapat tanpa henti ditentang karena beberapa wilayah imajiner yang disebut "kesalahan sama dengan kebenaran" membuat mereka tidak ada yang salah, maka apa yang sebenarnya sedang dikatakan adalah "tidak ada pernyataan positif tentang kebenaran yang bisa berlaku" - namun, kita cukup bijak sebagai filsuf sekarang untuk mengetahui bahwa pernyataan ini sangat kontradiktif, karena ini adalah pernyataan positif yang dianggap benar bahwa mengatakan bahwa tidak ada pernyataan positif yang benar. Jika tidak ada yang benar atau salah - bahkan pernyataan itu - maka tidak ada pernyataan apapun yang dapat dibuat mengenai apapun. Dengan menggunakan kata-kata, menggunakan bahasa Inggris, menggunakan kalimat yang dapat dipahami - semuanya tidak masuk akal sama sekali, karena di alam semesta "alam semesta alternatif" semacam ini mungkin benar-benar omong kosong belaka. Jika hal-hal yang benar di alam semesta alternatif ini memiliki efek pada pernyataan yang kita buat di alam semesta ini, maka jelas kebalikannya juga benar, yang berarti bahwa tidak ada pernyataan yang dapat dibuat mengenai apapun, karena kebalikannya bisa sama-sama benar.
+Jika pernyataan yang valid tentang realitas dapat tanpa henti dilawan karena beberapa wilayah imajiner yang disebut "kesalahan yang sama dengan kebenaran" membatalkan mereka, maka apa yang benar-benar dikatakan "tidak ada pernyataan positif tentang kebenaran dapat berlaku" – bagaimanapun, kita cukup bijaksana sebagai ahli filsafat sekarang tahu bahwa ini adalah pernyataan yang sangat kontradiksi, karena ini adalah pernyataan positif yang dianggap benar bahwa mengatakan bahwa tidak ada pernyataan positif yang benar. Jika tidak ada yang benar atau salah – bahkan bahwa pernyataan itu – maka tidak ada pernyataan apapun yang bisa dibuat mengenai apapun. Dengan menggunakan kata-kata, menggunakan bahasa Inggris, dengan menggunakan kalimat-kalimat yang dapat dipahami, semua tidak masuk akal karena di alam semesta "alam semesta alternatif" semacam ini mungkin benar-benar omong kosong belaka. Jika hal-hal yang benar di alam semesta alternatif ini memiliki efek pada pernyataan yang kita buat di alam semesta ini, maka jelas sebaliknya juga benar, yang berarti bahwa tidak ada pernyataan yang dapat dibuat tentang apapun, karena mereka sebaliknya dapat sama-sama benar.
 
-Kenyataan sebenarnya dari pernyataan "kesalahan sama dengan kebenaran" adalah kegilaan yang hampir sama dari "nol sama dengan nol."
+Realitas sebenarnya dari pernyataan "kesalahan yang sama dengan kebenaran" adalah adalah kegilaan yang tautologis "nol sama dengan nol".
 
-### "Semesta Pengganti" Dalam Peradaban Manusia
+### "Alternatif Semesta" Dalam Masyarakat Manusia
 
-Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berurusan dengan teori "semesta Pengganti" ini adalah bahwa ia memiliki keterkaitan langsung terhadap peradaban manusia, serta digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan diantara kita.
+Alasan bahwa kita telah menghabiskan begitu banyak waktu untuk berhadapan dengan teori "dunia alternatif" adalah bahwa hal itu memiliki relevansi langsung terhadap masyarakat manusia, dan digunakan untuk "membenarkan" kejahatan terbesar yang dilakukan di antara kita.
 
-Dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam bekerja melalui dalil bahwa pembunuhan adalah salah secara moral pada contoh di atas, Saya sangat ragu bahwa ada orang telah terkejut untuk memiliki naluri moral mereka yang dikonfirmasi melalui penalaran abstrak dari UPB yang ketat. Dalam bagian ini, namun secara resmi anda diperbolehkan untuk memulai kaget yang sebenarnya.
+Di dalam pengalaman pribadi kita sendiri, kita tahu bahwa pembunuhan itu salah. Dalam bekerja melalui proposisi bahwa pembunuhan adalah salah secara moral pada contoh di atas, saya sangat meragukan bahwa siapapun akan terkejut untuk memiliki moral naluri mereka untuk dikonfirmasi melalui penalaran abstrak yang ketat dari UPB. Pada bagian ini, tetapi, hal ini secara resmi diperbolehkan bagi anda untuk mulai menjadi benar-benar terkejut.
 
-Loncatan terbesar selanjutnya dalam pemahaman ilmiah adalah apa yang disebut "teori pemersatu." Einstein menghabiskan beberapa dekade untuk mencoba menyelesaikan teori medan terpadu; dan teori fisika yang menyatukan kekuatan kuat dan lemah, elektromagnetisme, gravitasi dan sebagainya yang sulit untuk dipahami.
+Lompatan terbesar lompatan untuk maju dalam pemahaman ilmiah adalah yang disebut "teori pemersatu". Einstein menghabiskan puluhan tahun mencoba untuk bekerja keluar unified field theory, dan teori-teori fisika yang menyatukan kekuatan kuat dan kekuatan lemah, elektromagnetik, gravitasi dan sebagainya tetap sulit dipahami.
 
-UPB sebagai kerangka kerja, bagaimanapun itu tidak sebatas membenarkan naluri moral kita pada tingkat pribadi, filosofis dan universal saja – tetapi juga memiliki implikasi yang mendalam dan mengejutkan bagi peradaban manusia.
+UPB sebagai kerangka kerja, tetapi bagaimanapun, tidak hanya membenarkan moral naluri kita pada tingkat pribadi, filosofis dan keseluruhan tingkat – tetapi juga memiliki dampak dan implikasi yang mengejutkan bagi ummat manusia.
 
-#### UPB Dalam Aksi
+#### UPB Dalam Tindakan
 
 Kerangka UPB mengesahkan dalil moral dengan menuntut agar tetap konsisten secara internal, serta universal dalam hal waktu, tempat dan secara individu.
 
-Jika kita menerima UPB, kita juga harus menerima akibat wajar berikut ini:
+Jika kita menerima UPB, kita juga harus menerima konsekuensi:
 
-- Dalil moral bebas dari kostum.
+- Moral proposisi adalah independen dari kostum.
 
-Apakah ini menunjukan bahwa seseorang tidak bisa mengubah sifat moralnya bersamaan dengan pakaiannya. Tindakan mengubah kostum seseorang tidak mengubah sifat dasar seseorang. Dengan demikian aturan moral yang berlawanan tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
+Apa ini berarti bahwa manusia tidak dapat mengubah sifat moralnya bersama dengan pakaiannya. Tindakan mengubah kostum seseorang tidak merubah salah satu sifat dasar. Dengan demikian menentang aturan-aturan moral tidak bisa berlaku berdasarkan pakaian yang dikenakan seseorang.
 
-Prajurit tentu saja mengenakan kostum yang berbeda dengan masyarakat biasa. Masyarakat biasa dilarang melakukan pembunuhan; namun tentara tidak hanya diizinkan melakukan pembunuhan, tetapi juga dipuji secara moral karena membunuh.
+Tentara, tentu saja, memakai kostum yang berbeda dari rata-rata warga negara. Rata-rata warga dilarang untuk pembunuhan; tentara, namun, tidak hanya *diperbolehkan* untuk membunuh, tapi secara moral *memuji* untuk membunuh.
 
-Kita ambil contoh lain.
+Mari kita ambil contoh lainnya.
 
-Pencurian secara moral salah, seperti yang telah kita lihat di atas. Hal tersebut salah secara moral bagi semua orang di segala situasi setiap saat dan dalam semua kondisi. Karena pencurian adalah pengambilan paksa atas harta orang lain tanpa persetujuan, maka perpajakan selalu, semua dan selamanya merupakan kejahatan moral. Perpajakan adalah definisi pemindahan harta milik seseorang secara paksa tanpa persetujuan mereka, karena perpajakan bergantung pada inisiasi penggunaan kekuatan untuk melepaskan seseorang dari miliknya.
+Pencurian adalah salah secara moral, seperti yang telah kita lihat di atas. Itu adalah salah secara moral untuk semua orang di semua situasi di segala waktu dan dalam segala keadaan. Sejak pencurian adalah pemindahan paksa orang lain tanpa persetujuan, maka perpajakan selalu, universal dan selamanya kejahatan moral. Perpajakan adalah dengan definisi pemindahan paksa milik orang tanpa persetujuan mereka, karena pajak bergantung pada inisiasi penggunaan kekuatan untuk strip seorang pria miliknya.
 
-Apa yang kita sebut "pemerintah" hanyalah contoh lain dari *zona nol ini* dimana keadaan turun, hitam putih, kebenaran adalah kepalsuan dan kejahatan itu baik.
+Apa yang kita sebut "pemerintah" adalah hanya contoh lain dari ini *zona null* dimana naik turun, hitam putih, kebenaran adalah kebohongan dan kejahatan adalah baik.
 
-Masyarakat berkembang dengan tepat sampai pada tingkat dimana akal dan bukti membuat lompatan besar dari pribadi ke universal, dan menghancurkan zona null *yang irasional* di jalan. Ilmu pengetahuan berkembang persis sejauh ia menolak irasionalitas Tuhan dan subjektif "absolut." Pengobatan berkembang dengan tepat sampai pada tingkat tertentu sehingga ia menolak khasiat doa dan ritual kosong, dan sebaliknya bergantung pada akal dan bukti. Begitu juga Filsafat - dan masyarakat pada umumnya - akan maju persis sampai pada tingkat yang menolak moralitas lingkaran-lingkaran tidak rasional "dari teori etika statistik dan agama.
+Masyarakat berlangsung tepat untuk tingkat bahwa alasan dan bukti-bukti yang membuat lompatan besar dari pribadi ke universal, dan menghancurkan apapun yang tidak rasional *null zona* di jalan. Kemajuan ilmu pengetahuan sebenarnya untuk tingkat yang menolak irasionalitas dari Tuhan dan subjektif "absolut". Obat berlangsung tepat untuk tingkat yang menolak khasiat dari doa dan ritual kosong, dan bukannya bergantung pada alasan dan bukti-bukti. Filsafat juga – manusia dan masyarakat pada umumnya – akan maju persis untuk tingkat yang menolak irasional "moralitas lingkaran-persegi" dari statis dan teori etika keagamaan.
 
 ### Pemerintah
 
-Mengatakan bahwa pemerintah beroperasi di bawah peraturan moral yang berlawanan dari masyarakat lainnya adalah sama seperti mengatakan, "Leprechaun kebal terhadap gravitasi." Pertama-tama, leprechaun tidak ada - dan salah satu cara kita mengetahui bahwa mereka melakukannya. Tidak ada yang mengklaim bahwa mereka kebal terhadap gravitasi. Segala sesuatu yang memiliki massa tunduk pada gravitasi - yang kebal terhadap gravitasi menurut definisinya tidak memiliki massa, dan karena itu tidak ada. Pernyataan "leprechauns kebal terhadap gravitasi" adalah tautologi, yang hanya menegaskan tidak adanya leprechauns - ini adalah persamaan semantik dari "sesuatu yang tidak ada, tidak pernah ada." A adalah A, hukum pertama Aristoteles tentang logika, apakah sedikit berharga untuk mengkonfirmasi keberadaan apa yang didefinisikan sebagai ketiadaan.
+Mengatakan bahwa pemerintah beroperasi di bawah berlawanan dengan aturan-aturan moral dari seluruh masyarakat adalah persis sama dengan mengatakan, "leprechaun kebal terhadap gravitasi". Pertama-tama, leprechaun tidak ada – dan salah satu dari cara-cara di mana kita tahu bahwa mereka tidak ada adalah bahwa hal itu mengklaim bahwa mereka kebal terhadap gravitasi. Segala sesuatu yang memiliki massa tunduk pada gravitasi – yang kebal terhadap gravitasi dengan definisi tidak memiliki massa, dan oleh karena itu tidak ada. Pernyataan "leprechaun adalah kekebalan tubuh untuk gravity" adalah sebuah tautologi, yang hanya menegaskan non-keberadaan kafe – ini adalah semantik setara dengan "itu yang tidak ada, tidak ada". A adalah A, Aristoteles hukum pertama logika, tidak sedikit berharga untuk mengkonfirmasi keberadaan dari apa yang didefinisikan sebagai ketiadaan.
 
-Dengan cara yang sama, ketika kita mengatakan bahwa secara moral baik bagi tentara untuk membunuh dan perwakilan pemerintah untuk mencuri, kita tahu bahwa "tentara" dan "perwakilan pemerintah" karena kategori moral *sama sekali tidak benar *.
+Dengan cara yang sama, ketika kita mengatakan bahwa secara moral baik bagi tentara untuk membunuh dan perwakilan pemerintah untuk mencuri, kita tahu bahwa "tentara" dan "perwakilan pemerintah" karena kategori moral *sama sekali tidak benar*.
 
-Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni tidak masuk akal, tapi yang tetap menarik secara aneh di "zona nol" politik.
+Jika saya mengatakan bahwa lingkaran persegi memiliki hak untuk mencuri, saya hanya mengatakan bahwa apa yang tidak dapat ada memiliki hak untuk melakukan hal yang bertentangan dengan diri sendiri - sebuah pernyataan yang murni tidak masuk akal, tapi yang tetap menarik namun aneh di "zona nol" politik.
 
-Jika saya membeli pakaian prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Sesaat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan benar *benar* bagi saya untuk membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya memiliki satu boot saja? Bagaimana jika kedua sepatu bot menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengunakan seragam yang tidak dikenali orang pertama kali yang saya temui? Apakah Beatles secara tiba-tiba memiliki hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
+Jika saya membeli pakaian prajurit di toko barang bekas, dan menaruhnya di atas, jelas saya belum menciptakan alam semesta alternatif dimana peraturan moral yang berlawanan dapat berlaku. Sesaat sebelum saya mengenakan kostum itu, salahkah saya untuk membunuh - kapan benar *benar* bagi saya untuk membunuh? Kapan saya memakai celana? Bagaimana jika saya memakai celana panjangnya, tapi bukan rompinya? Bagaimana jika saya hanya memiliki satu sepatu boots saja? Bagaimana jika kedua sepatu boots menyala, tapi hanya satu yang dicampur? Bagaimana jika topi saya terbalik? Bagaimana jika saya mengunakan seragam yang tidak dikenali orang pertama kali yang saya temui? Apakah Beatles secara tiba-tiba memiliki hak untuk membunuh saat mereka menembak sampul "Sersan Peppers"? Apakah mereka kehilangan hak itu saat melepas jaket mereka?
 
-Saya mengajukan pertanyaan retoris ini karena sebenarnya sangat serius. Jelas, kostum militer tidak mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
+Saya mengajukan pertanyaan retoris ini karena sebenarnya saya sangat serius. Jelas, kostum militer tidak mengubah sifat manusia, lebih dari sekedar potongan rambut mengubahnya menjadi bebek, konsep, atau tuhan.
 
-"Ah," anda mungkin berkata, "tapi kostumnya tidak benar karena Anda mendapatkannya di toko barang bekas - mengenakan seragam tentara tidak lagi membuat Anda menjadi tentara daripada memfotokopi gelar doktor memberi Anda gelar Ph.D."
+"Ah", anda mungkin berkata, "tapi kostumnya tidak benar karena Anda mendapatkannya di toko barang bekas - mengenakan seragam tentara tidak lagi membuat Anda menjadi tentara daripada memfotokopi gelar doktor memberi Anda gelar Ph.D".
 
 Analoginya salah, karena memiliki gelar Ph.D. atau memfotokopi doktor tidak mengubah peraturan moral apa pun yang menjadi sasaran Anda sebagai manusia.
 
-"Nah," Anda mungkin menjawab, "tapi bedanya adalah bahwa prajurit tersebut memiliki hak moral yang diberikan kepadanya oleh warga biasa, demi pembelaan secara kolektif dan sebagainya."
+"Nah", Anda mungkin menjawab, "tapi bedanya adalah bahwa prajurit tersebut memiliki hak moral yang diberikan kepadanya oleh warga biasa, demi pembelaan secara kolektif dan sebagainya".
 
 Hal ini menimbulkan poin yang sangat menarik, yaitu pertanyaan apakah opini bisa mengubah realitas.
 

@@ -1,75 +1,75 @@
-## Parallels
+## Parallelen
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Vor der wissenschaftlichen Revolution galt es als unvorstellbar, dass sich die natürliche Welt ohne eine bewusste und "moralische" Einheit in ihrem Zentrum behaupten konnte. Die Sonne erhob sich als übernatürliches Gefährt, der Mond war ihr kalter und einsamer Bruder. Die Sternbilder umrissen die Geschichten und Gräber der Götter, und Stürme entstammten der Wut der Dämonen.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Die Vorstellung, dass die Natur ein selbstgenerierendes und sich selbst tragendes System sei, war fast unvorstellbar. Die darwinistische Revolution, die Vorstellung, dass das Leben nicht erschaffen, sondern entwickelt wurde, brachte diese Idee vom physischen Material zur biologischen Welt.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Vor der Wissenschaft, im Zentrum jedes komplexen Systems, lag ein tugendhaftes Bewusstsein - ohne welches dieses System ins Chaos stürzen  und aufhören würde, zu existieren.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Leider war dieses "tugendhafte Bewußtsein" nur eine Illusion, um es mit Wohlwollen auszudrücken. Es gab keine solchen Götter - alles, was *existierte*, waren die Äußerungen von Priestern. Was also wirklich im Mittelpunkt stand, war die Voreingenommenheit irrationaler Individuen, die keine Ahnung hatten, wie verrückt sie wirklich waren.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Wir müssen diese Beleuchtung noch nicht auf unsere Vorstellungen von der Gesellschaft anwenden - aber es ist jetzt *wesentlich*, dass wir das tun.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Wir halten es für unerlässlich, dass wir im Zentrum der Gesellschaft ein tugendhaftes Gebilde namens "die Regierung" platzieren. In Ermangelung dieser Entität halten wir es für selbstverständlich, dass die Gesellschaft in das Chaos fliegt und aufhört zu existieren - so wie unsere Vorfahren der Meinung waren, dass das Universum selbst in Abwesenheit von Göttern ins Chaos stürzen und aufhören würde zu existieren.
 
-However, “the government” no more exists than “god” exists.
+Doch "die Regierung" existiert nicht mehr als "Gott" existiert.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Wenn wir von "Göttern" sprechen, sprechen wir eigentlich von "Meinungen von Priestern".
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+Wenn wir von "der Regierung" sprechen, meinen wir *wirklich* "die Gewalt einer winzigen Minderheit".
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Die Idee der "spontanen Ordnung", die sich in Physik und Biologie bewährt hat, ist für uns im gesellschaftlichen Bereich weitgehend unvorstellbar.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Aber "Regierungen" werden für die Organisation und den Fortbestand der Gesellschaft nicht mehr benötigt als "Götter" für die Organisation und den Fortbestand des Universums.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+So wie die Religionen den Fortschritt der Wissenschaft behinderten, so behindern auch die Regierungen den Fortschritt der Gesellschaft. So wie die Illusionen der *Religion* im Laufe der Geschichte den Tod von Hunderten von Millionen Menschen verursacht haben, so haben das auch die Illusionen der *Regierung*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+So wie die falsche Ethik der Religionen alle Arten von Missbrauch, Korruption und Gewalt "rechtfertigt", so auch die falsche Ethik der Regierungen. Wenn wir uns entscheiden, nach Phantasie zu leben, entscheiden wir uns unweigerlich für Zerstörung, in der einen oder anderen Form.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Wenn wir uns dafür entscheiden, die Gesellschaft nach religiösen moralischen Mythologien zu führen, dann enden wir mit Kriegen, Gewalt, Unterdrückung, Missbrauch, Korruption und bodenloser Heuchelei.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Wenn wir uns dafür entscheiden, die Gesellschaft nach *statistischen* moralischen Mythologien zu führen, sind die Ergebnisse nicht anders.
 
-We can either choose virtue or compulsion.
+Wir können entweder Tugend oder Zwang wählen.
 
-We cannot have both.
+Wir können nicht beides haben.
 
-### Solutions
+### Lösungen
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Wir können uns dafür entscheiden zu glauben, dass die Regierung sowohl eine notwendige als auch eine moralische Institution ist. Wir können uns dafür entscheiden zu glauben, dass ohne Regierung die Gesellschaft in "Anarchie" zusammenbricht und die Welt sich in einen Krieg aller gegen alle auflöst. Wir können uns dafür entscheiden zu glauben, dass es ohne die Regierung keine Straßen, keine Bildung, keine Gesundheitsfürsorge, keine Altersrenten, keine Bibliotheken, keinen Eigentumsschutz und so weiter geben wird.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Ähnlicher Aberglaube hat natürlich den Fortschritt der Menschheit im Laufe der Geschichte gebremst. Der bedeutendste Vorläufer dessen, was die UPB über die Regierung offenbart, ist das, was die Wissenschaft über die Religion offenbart hat.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Als die Wissenschaft anfing, praktisch ein Universum zu postulieren, das ohne Gott laufen konnte, riefen alle möglichen Hysteriker, dass das Ende der Welt nahe sei, dass die Gesellschaft in "Anarchie" zusammenbrechen würde und dass die Zivilisation sich in einen Krieg aller gegen alle auflösen würde.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Jedes Mal, wenn ein System, das die Macht rechtfertigt, so konzipiert werden kann, dass es *ohne* diese Macht läuft, rufen all jene, die von der Manipulation dieser Macht profitieren, aus, dass ohne sie alles verloren ist.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Priester taten dies während des Beginns der wissenschaftlichen Revolution. Ohne Gott hat das Leben keinen Sinn. Ohne Gott hat der Mensch keine Moral. Ohne Gott können unsere Seelen nicht gerettet werden. Ohne Gott wird die Welt in Chaos und Bösem versinken.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Nichts davon erwies sich natürlich als wahr. Tatsächlich erwies sich das *Gegenteil* als wahr. Das Ende der Religion als vorherrschendes Weltbild ebnete den Weg für die Trennung von Kirche und Staat, das Ende der Aristokratie, den Aufstieg des freien Marktes, die Etablierung vieler menschlicher Freiheiten in bedeutenden Teilen der Welt.
 
-The fall of God was the rise of mankind.
+Der Fall Gottes war der Aufstieg der Menschheit.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Auf die gleiche Weise, wenn wir beginnen, die Gesellschaft so zu sehen, wie die frühen Wissenschaftler das Universum - als ein sich selbst tragendes System ohne die Notwendigkeit einer imaginären zentralen Autorität - gesehen haben, dann können wir tatsächlich beginnen, die Möglichkeiten der Freiheit für die Menschheit wahrzunehmen.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Die Etablierung eines zentralen und zwingenden Monopols in der Gesellschaft verzögert fortwährend den Fortschritt des Wissens, der Weisheit, der Tugend, der physischen und psychischen Gesundheit - ebenso wie die Etablierung eines zentralen und zwingenden Monopols im *Universum* den Fortschritt des Wissens, der Weisheit und der Wissenschaft fortwährend verzögert.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Der Weg, imaginären Entitäten entgegenzutreten, ist mit unerbittlicher Wahrheit verbunden. Der Weg, Gott entgegenzutreten, führt über Vernunft, Beweise und Wissenschaft.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Der Weg, sich dem Staat - dem gefährlichsten imaginären Gebilde - zu widersetzen, führt über Vernunft, Beweise und Wissenschaft.
 
-### The Future
+### Die Zukunft
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Ob es uns gefällt oder nicht, UPB gilt für alles, was wir tun. Der Mensch hat eine natürliche Tendenz zur Konsistenz, denn wir sind Wesen mit einem rationalen Bewusstsein, die ein konsistentes und rationales Universum bewohnen. So neigen alle Prämissen, die wir in unserem Leben akzeptieren, dazu, ein immer konsequenteres Verhalten während unseres gesamten Lebens zu erzwingen - und auch während des "Lebens" unserer Kultur oder Nation.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+So neigt ein Mann, der glaubt, dass Mobbing ein guter Weg ist, um das zu bekommen, was er will, dazu, im Laufe seines Lebens immer mehr zu schikanieren. Ein Mann, der glaubt, dass Gewalt gut ist, neigt dazu, immer gewalttätiger zu werden.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Mit anderen Worten, die UPB fordert Konsistenz auch bei Inkonsistenzen. Die UPB fordert Einheitlichkeit auch in der Unmoral.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Die moralischen Wurzelprämissen einer Kultur diktieren somit ihre unvermeidliche Zukunft. Eine Kultur, die auf Rechtfertigungen für Zwang aufgebaut ist, wird immer zwingender werden. Eine Kultur, die auf rationaler Freiheit aufbaut, wird immer weniger zwingend sein.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Deshalb ist die Abgrenzung eines rationalen Rahmens für die Ethik so wichtig.
 
-What we believe is what we become.
+Was wir glauben, ist das, was wir werden.
 
-If we believe lies, we shall become slaves.
+Wenn wir Lügen glauben, werden wir zu Sklaven.

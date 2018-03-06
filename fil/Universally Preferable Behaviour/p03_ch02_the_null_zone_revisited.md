@@ -2,15 +2,15 @@
 
 At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong”.
 
 In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
 
 For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle”. Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards”, as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
 
 Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
 
@@ -40,13 +40,13 @@ If I say that two plus two equals five, I am making a mistake that can be correc
 
 In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+If I say: “A square circle exists”, I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
 
 If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
 
 [^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+With regards to this “null zone”, only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
 
 If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
 

@@ -13,7 +13,7 @@ Poniżej znajdziesz podsumowanie głównego argumentu moralności.
 7. Debata wymaga, aby obie strony utrzymywały "prawdę" jako obiektywną i uniwersalną.
 8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
 9. Teorie dotyczące ZPB muszą przejść testy logicznej spójności i empirycznej weryfikacji.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
+10. The subset of UPB that examines enforceable behaviour is called “morality”.
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
 12. Teorie moralne poparte logiką i dowodami są prawdziwe. Wszystkie inne teorie moralne są fałszywe.
 
@@ -40,7 +40,7 @@ If you would like to further your understanding of UPB and its ramifications, yo
 |   562 | Uniwersalnie preferowane zachowanie dla dzieci                | Abecadło UPB.                                                                                                                                                                                                                        |
 |   872 | Debatowanie i UPB                                             | Can you debate without using UPB?                                                                                                                                                                                                    |
 |     7 | The Argument From Morality (or, how we will win!)             | Najmocniejszy argument za wolnością.                                                                                                                                                                                                 |
-|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is.”                                                                                                                                                                                            |
+|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is”.                                                                                                                                                                                            |
 |   260 | Moral Objectivity                                             | Using the scientific method to define morality.                                                                                                                                                                                      |
 |   261 | Is And Ought and Ethics                                       | Anyone who argues ethics agrees with ethics.                                                                                                                                                                                         |
 |   318 | Moral Experimentation                                         | Empiryczne dowody abstrakcyjnych etyk.                                                                                                                                                                                               |

@@ -6,9 +6,9 @@ For under, abeg look for a summation of the real argument wey concern morality.
 
 1. Reality dey objective and e also dey consistent.
 2. “Logic” na set of objective and rules wey dey consistent wey dem derive from the consistency of reality.
-3. All those theory wey follow with logic, dem dey call am “valid.”
-4. All those theories wey dem don confirm by empirical testing, dem dey call am “accurate.”
-5. All those theories wey dey valid, com still dey accurate, dem dey call am “true.”
+3. All those theory wey follow with logic, dem dey call am “valid”.
+4. All those theories wey dem don confirm by empirical testing, dem dey call am “accurate”.
+5. All those theories wey dey valid, com still dey accurate, dem dey call am “true”.
 6. Them require “Preferences” for life, thought, language and all those debating.
 7. Debating always need may both parties hold “truth” and may dem dey objective and dem go prefer am universally.
 8. Therefore, that very act of debating wey we dey do contain an acceptance of universally preferable behavior (UPB).
@@ -39,7 +39,7 @@ If you go like to further wetin you don understand about UPB and everything wey 
 |   562 | The behavior wey dem prefer universally for children.                 | The ABCs of UPB.                                                                                                                                                                                                   |
 |   872 | To dey debate and UPB                                              | You go fit debate without you no use UPB?                                                                                                                                                                                  |
 |     7 | The argument wey come from morality (or how we go tey win!).             | The argument wey get power pass wey concern freedom.                                                                                                                                                                            |
-|   148 | The “Ought To” Challenge – Morality no exist for real life| The waka from the “ought” to the “is.”                                                                                                                                                                          |
+|   148 | The “Ought To” Challenge – Morality no exist for real life| The waka from the “ought” to the “is”.                                                                                                                                                                          |
 |   260 | Moral Objectivity                                             | To dey use scientific methods to tey define morality.                                                                                                                                                                    |
 |   261 | Is And Ought and Ethics                                       | Anybody wey dey argue ethics agree with ethics.                                                                                                                                                                       |
 |   318 | Moral Experimentation                                         | To dey proof abstract ethics with empirical proofs.                                                                                                                                                                               |

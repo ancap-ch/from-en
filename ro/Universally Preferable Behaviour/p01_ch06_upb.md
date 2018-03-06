@@ -2,7 +2,7 @@
 
 In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term”, which includes such disciplines as:
 
 - The scientific method
 - Logic
@@ -27,7 +27,7 @@ Let’s say that you and I set the rules for a debate, and we both agree to judg
 
 The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+In the example of “lying”, although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
 
 A reasonable moral theory should be able to explain why this is the case. 
 
@@ -55,9 +55,9 @@ If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I ha
 
 ### Avoidance
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff”, what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death”, if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
 
 This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose. 
 
@@ -83,6 +83,6 @@ If someone breaks into my house and takes my wallet at gunpoint, I have every ri
 
 Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+There is a phenomenon known as “death by cop”, wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
 
 Can the UPB framework help us understand, classify and extend these moral standards? 

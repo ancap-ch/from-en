@@ -126,7 +126,7 @@ Bu bir ''küçük doğru'' örneğidir: ''Benden çalman yanlış''
 
 Bununla birlikte, bir devlet görevlisi ona para ödemekle yükümlü bir mektup gönderildiğinde, belli bir öfke hissetmiş olabilirsiniz, ancak hikayeyi arkadaşlarınıza aynı korku ve öfke ile ilişkilendirmezsiniz.
 
-Bu bir “ara gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir.”
+Bu bir “ara gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir”.
 
 Bu kitap, bu yanlış "Ara doğruları" meydana çıkararak ortadan kaldırmaya odaklanacaktır. İnsanın, - dinsel batıl inançları, laik despotizm ve ailenin kültü - gibi yıkıcı dünya görüşlerini haklı gösteren yanlış "etik gerçekler" in işkence altında daima dek acı çektiklerine inanıyorum.
 

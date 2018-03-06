@@ -53,7 +53,7 @@ Leyin igba ti mo seleri wipe idile kan ni mani, mow a she shinna,iyawo mi shi pi
 
 ### Iyago fun
 
-Ti iwo ati emi ban jo un duro lori oke, mo si yi si o, mo si sowipe, “durosiwaju mi, kin le ti o kuro ni oke naa,”kini esi re ma je? Ti o ba wa durosiwaju mi, mo shi ti o kuro lori oke naa, eleyii a je bi ipara eni lati odo re, ju ipanyan lati odo temi lo. Idi fun eyi nipe, o le yago fun titi lati ori oke naa pelu kiko lati duro si iwaju mi.
+Ti iwo ati emi ban jo un duro lori oke, mo si yi si o, mo si sowipe, “durosiwaju mi, kin le ti o kuro ni oke naa”,kini esi re ma je? Ti o ba wa durosiwaju mi, mo shi ti o kuro lori oke naa, eleyii a je bi ipara eni lati odo re, ju ipanyan lati odo temi lo. Idi fun eyi nipe, o le yago fun titi lati ori oke naa pelu kiko lati duro si iwaju mi.
 
 Bakanna, ti mob a  pade re ni baar, mo si sope “mo fe ki o wa moo do mi, kin le so e mo beedi mi, kin sile fi ebi pa o ku. Ti o bawa sodo mi, o logbon ninu wipe ipinnu re o leje ko ma pelaye mo. Ni owo keji, ti mob a fi ogun tipabayaanlo sinu imu re, o si ji sinu ide lori beedi mi, o wa ni kedere wipe nkan kekere lolese ninu ishele naa.
 
