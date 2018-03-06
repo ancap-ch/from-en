@@ -20,11 +20,11 @@ Para sa iba pang tiwaling dahilan, ang mga hindi tugma at natatangi ay lubos na 
 
 ### Sa Lilim Ng Kulay Abo
 
-In the realm of “grey areas,” there are really only three possibilities.
+Sa larangan ng "lugar na kulay abo," talagang may tatlong posibilidad lamang.
 
-1. There are no such things as grey areas.
-2. Certain grey areas do exist.
-3. All knowledge is a grey area.
+1. Walang mga bagay na tulad ng kulay-abo sa mga lugar.
+2. Ang kulay-abo ay umiiral sa ibang lugar.
+3. Ang lahat ng lugar ay may kaalaman sa kulay abo.
 
 Clearly, option one can be easily discarded. Option three is also fairly easy to discard. The statement “all knowledge is a grey area” is a self-detonating proposition, as we have seen above, in the same way that “all statements are lies” also self-detonates.
 
