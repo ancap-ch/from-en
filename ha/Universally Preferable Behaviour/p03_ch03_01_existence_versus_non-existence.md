@@ -1,58 +1,58 @@
-## Existence Versus Non-Existence
+## Wanzuwa da Abu da bai Kasancewa
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Mun bayyana "rashin wanzuwa" a matsayin abin da ba shi da nauyi ko makamashi, ko wanda bai nuna alamun nauyi ko makamashi, kamar irin abubuwa masu dangantaka da ƙarfin maganaɗisun ƙasa.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Allah ba shi da nauyi ko makamashi, kuma ba shi nuna alamun nauyi ko makamashi –a gaske ma, ba a iya ganewa da Allah ba ko a tabbatarda shi a kowane hanya, siffa ko tsari, ko ma ta hanyar hankula, ko ta hanyar tunani.
 
-Thus if I say, “God exists”, what I am really saying is:
+To, idan na ce, "akwai Allah," abin da nake faɗa shine:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Abin da yana a raye dole ne a iya ganewa da shi; Ba za a iya gane Allah ba, amma akwai Allah –Kenan da haka abinda bai wanzu ba, ya wanzu.*"
 
-In other words, by saying “God exists”, I have created an insurmountable contradiction. I have defined “existence” as “non-existence”, which makes about as much sense as defining “life” as “inanimate matter”, or a rock as “the opposite of a rock”, or a “square” as a “circle”.
+A wasu kalmomi, da cewa "akwai Allah," na kirkiro wani rikici. Na bayyana "wanzuwa" a matsayin "babu", wato wanda yayi la'akari da ma'anar "rai" a matsayin "mara rai," ko dutse a matsayin "roba," ko "murabba’i" a matsayin "da'ira."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality”, then what I have really done is create a realm called “error”, put everything in it which is not true, and defined this realm as a place where “error equals truth”.[^2]
+Ta haka kuma, idan na kirkiro wata duniya dabam wanda "abun da babu shi zai daidaita da abun da akwai",kuma "rikitarwa ya zama daidaitu" da kuma "gaskiya ta yi daidai da ƙarya" da "wawanci ta zo daidai dahankali," to, Kenan abin da na yi na gaske shine haifar da wani bangare dabam wanda za a kira "kuskure",kuma na tura cikin bangaren ga duk abin da yake cikin abin da ba gaskiya bane, kuma ya bayyana wannan bangare a matsayin wurin da "kuskure daidai yake da gaskiya." [2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here”.
+Hakika, mutane ba sa haifar da wannan "duniya dabam" domin su ɓata gaskiya a cikin duniyarmu ba, amma don ceton abin da yake kuskure a gaskiya, kuma ya kira shi gaskiya. A misali, babu wanda ya yi jayayya cewa "Allah yana iya kasancewa a wani duniya dabam, don haka ba za ku iya cewa Allah babu" ya kuma jayayya da haka cewa "* Ba zan kasance a cikin wani duniya dabam ba, don haka ba za ku iya cewa na kasance a nan ba."
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist”.[^3]
+Har ila yau, basu yarda da amsa da hujjar cewa: "A wata duniya, za ku iya yarda da ni cewa Allah babu, don haka ya sa ku zama kafiri." [3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Idan maganganu masu mahimmanci game da gaskiya za su iya zama tsayayya ba tare da wata tsattsauran ra'ayi ba saboda wasu ƙananan hanyoyi da ake kira "kuskure daidai da gaskiya" suna ɓatar da su, to, abin da haka zai kasancewa shine "babu maganganun da ya dace game da gaskiya wanda zai iya zama ingantace" - duk da haka, muna da hikima sosai a matsayinmu na masanan falsafanci yanzu don sanin cewa wannan nazari tana da rikice-rikice, tun da yake kalma ce mai kyau ta tabbata cewa gaskiya ne cewa babu wata hujja mai mahimmanci wanda zai iya zama gaskiya. Idan babu wani abu da zai iya zama gaskiya ko karya –har da wannan nazari - to, babu wata Magana da za a iya yi game da wani abu wanda zai zama gaskiya. Yin amfani da kalmomi, da amfani da Turanci, kuma yin amfani da kalmomi masu ma’anu da mahimmanci - duk ba sa hankalta bane, tunda a cikin wannan "sararin duniya dabam" irin waɗannan maganganu na iya zama cikakkiyar maganar banza. Idan abubuwa da zasu iya zama gaskiya a cikin wancan sararin duniya suna da tasiri a kan maganganun da muke yi a cikin wannan duniya ta mu, to kenan, a gaske ma'anar akasin maganar gaskiya ne, wanda ke nufin cewa babu wani maganganun da za a iya yi game da kowane abu, tun da yake ainihin akasinsu na iya zama daidai.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null”.
+Gaskiyar wannan ra’ayi "kuskure daidai da gaskiya" shine ainihin rashin tunani na cewa "banza ta yi daidai da banza".
 
-### The "Alternate Universe" In Human Society
+### Ma'anar "duniya dabam" A cikin al’ummar mutane
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Dalilin da ya sa muka sa lokaci da yawa game da wannan nazarin "sararin duniya dabam" ita ce tana da matukar muhimmanci ga al'umma, kuma ana amfani da shi don "tabbatar" mafi girman mugun abubuwa da suke aikatawa a cikin al’umma.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+A cikin tsarinmu, mun sani cewa kisan kai ba daidai ba ne. A cikin aikin da ake cewa kisan kai yana da kuskure a cikin misalan da ke sama, na yi tsammanin cewa kowa ya yi mamaki don tabbatar da halayen kirki ta hanyar tunanin UPB. A cikin wannan ɓangaren, duk da haka, an yarda da ku don fara zama abin mamaki.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories”. Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Mafi girma a gaba cikin fahimtar kimiyya shine abin da ake kira "unifying theories" wato “nazarin haɗaɗɗe. Einstein ya shafe shekaru da dama yana ƙoƙarin aiki da nazarin filin hadadden; da kuma ilimin kimiyyar lissafi wanda ke hada abu mai karfi da mai mara karfi, da karfin wuta, da ƙarfin maganaɗisun ƙasa da sauransu duk sun zama kuɓutacce.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB a matsayin tsarin, duk da haka, ba wai kawai ya tabbatar da ka'idodin dabi'unmu a al'amuran mutum, falsafa da kuma duniya ba - amma kuma yana da babban abin da zai faru ga al'umma.
 
-#### UPB In Action
+#### UPB A Aikatau
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Shirin UPB yana inganta ka'idodin halin kirki ta hanyar buƙatar cewa su kasance cikin daidaito, da kuma na ƙa'idaa cikin lokaci, wuri da mutane.
 
-If we accept UPB, we must also accept the following corollary:
+Idan muka yarda da UPB, dole ne mu yarda da waɗannan abubuwa masu zuwa a matsayin sakamakon:
 
-- Moral propositions are independent of costume.
+- Al’amarin halin kirki basu shafi da kaya ba.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Abin da ake nufi shi ne cewa mutum ba zai iya canza yanayin dabi'arsa tare da tufafinsa ba. Yanayin canza kayan mutum ba zai zama daidai da canzar dabi'ar ko ainihin halin mutumin. Ta haka ne akasin halin kirki na dabi'a ba zai iya kasancewa daidai ba saboda tufafin da aka sa.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Sojoji, ba shakka, suna sa tufafin da suka bambanta da 'yan ƙasa. An haramta 'yan ƙasa daga kisan kai; Sojoji, duk da haka, ba wai kawai * sun yarda da su su kashe-kashe ba, amma suna da mutunci don yin kisankai.
 
-Let’s take another example.
+Bari mu ɗauki wani misali.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Sata laifi ne, kamar yadda muka gani a sama. Muguntar abu ne ga dukan mutane a kowane lokaci kuma a duk yanayi. Tun da sata shi ne ƙarbi duk wani abu na wani mutum da karfi kuma ba tare da izini ba, to, kullum haraji, a ko'ina cikin duniya har abada muguntar abu ne. Haraji shine a ma'anaka ƙarba dukiyar mutum ba tare da izinin su ba, tun da haraji yana dogara ne akan farawa da amfani da karfi don keta wani mutum daga dukiyarsa.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Kenan abin da muke kira "gwamnati" wani misali ne kawai na wannan rukunin sararin duniya * a inda sama ya yi daidai da ƙasa, baƙi shi ne fari, gaskiya shi ne ƙarya, kuma mugu shi ne mai kyau.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes”. Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Al’umma yana ci gaba da daidai da yadda ana samun ilimi da hujjoji daga tsakanin mutum guda har zuwa ko’ina a duniya, da kuma halakar da kowane ɓangare maras amfani wanda ya tare hanya. Kimiyya tana cigaba daidai da yadda ta karyata da wanzuwar Allah da kuma tunani da basu da shaida. Ilimin kimiyyar likita yana cigaba daidai da yadda ya nuna cewa addu'a da al’adun banza basu da amfani, kuma a maimakon haka ya dogara da ilimin kimiya da shaida. Falsafa - da kuma al’ummai - a gaba ɗaya - za su ci gaba daidai da yadda su ka ƙi yarda da ka'idodin addini masu rikitarwa da kuma wanda basu da hujja.
 
-### Government
+### Gwamnati
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity”. First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist”. A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Da yake cewa gwamnati tana aiki a karkashin akisan dokoki na halin kirki daga sauran al'ummomi daidai yake da cewa, "aljanu ba su da nauyi." Da farko, aljanu ba su a raye - kuma daya daga cikin hanyoyin da muka san cewa babu su shine cewa an yi iƙirari cewa basu da nauyi. Duk abin da yake da rai dole ne yana da nauyi – in basa da nauyi kenan babu shi, saboda da haka ba ya wanzu ba. Maganar ga "aljani ba ta da nauyi " tana da tsinkaya mai banzan maimaitawa, wanda kawai ya tabbatar da rashin kasancewa na aljanu - yana daidai da cewa "abin da ba ya wanzu, ba ya wanzu ba." A shi ne A, farkon ka'idar basira na Aristotle, yana da mahimmanci kaɗan a wajen tabbatar da wanzuwar abin da aka bayyana a matsayin abu da babu shi.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
