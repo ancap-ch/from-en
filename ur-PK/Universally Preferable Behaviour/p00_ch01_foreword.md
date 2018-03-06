@@ -42,7 +42,7 @@
 
 This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
-As I wrote in my previous book, “On Truth: The Tyranny of Illusion,” the most fundamental lie at the centre of unproven ethical theories is that such theories are always presented to children as objective and incontrovertible facts, when in truth they are mere cultural bigotries. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
+جیسا کہ میں نے اپنی پرانی کتاب، "حق پر: ظلم کا وہم،" میں لکھا، ایک سب سے بنیادی جو غیر ثابت اخلاقی نظریات کے بیچ میں تھا-ایسے نظریات ہمیشہ ان بچوں کو حقیقی اور صریح حقائق کی شکل میں دکھایا جاتا ہے، جبکہ سچائی تو یہ ہے کہ وہ محض ایک ثقافتی تعصب ہیں. The reason that scientists do not need a government or a Vatican is that scientists have an objective methodology for resolving disputes: the scientific method. The reason that language does not need a central authority to guide its evolution is that it relies on the “free market” of accumulated individual preferences for style and utility.
 
 The reason that modern morality – and morality throughout history – has always had to rely first on the bullying of children, and then on the threatening of adults, is that it is a manipulative lie masquerading as a virtuous truth.
 
