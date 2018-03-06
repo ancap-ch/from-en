@@ -1,48 +1,48 @@
-## Preferences
+## اولویت ها
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+اکنون که ما طبیعت متناقض استدلال ها را درک میکنیم، می توانیم به پرسش اولویت ها باز گردیم.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+اولویت ها برای هر روش شناسی ای که ادعا تعریف گزاره های ارزشی-حقیقی را میکند، مرکزی هستند. روش علمی، برای مثال، تا حد زیادی توسط ترجیحات ذاتی برای پایداری منطقی و تصدیق تجربی، تعریف شده است. برای علم، فرض است: * اگر * شما می خواهید یک حقیقت معتبر در مورد رفتار ماده و انرژی تعیین کنید، *بهتر* است از روش علمی استفاده کنید.
 
-In this sense, “preferable” does not mean “sort of better”, but rather “required”. *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable”, then, translates to “objectively required”, but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+به این ترتیب، "ترجیحا" به معنای "نوعی بهتر" نیست، بلکه "مورد نیاز" است. * اگر * شما میخواهید زندگی کنید، *از نظر جهان مطلوب تر است * که شما از خوردن مشتی از آرسنیک خودداری کنید. * اگر * شما می خواهید حقیقت معتبر را در مورد واقعیت تعیین کنید، *از نظر جهانی مطلوب تر است * که نظریه های شما هم از لحاظ درونی سازگار و هم از لحاظ تجربی قابل اثبات باشد. پس از آن، "ارجحیت جهانی" به "نیاز عینی" ترجمه می شود، اما ما کلمه "ترجیحا" را برای تمایز بین مطلقات اختیاری انسان و مطلقات غیر اختیاری فیزیکی مانند گرانش حفظ میکنیم.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+به این ترتیب، اگر نظریه های اخلاقی بتوانند از هر نظر معتبر باشند، پس انها باید *حداقل* هم از نظر داخلی و هم از نظر خارجی پایدار باشند. به عبارت دیگر، یک نظریه ی اخلاقی که خودش را نقض کند، معتبر نیست - و یک نظریه ی اخلاقی هم که مخالف مدارک تجربی و ترجیحات تقریبا جهانی باشد، نمی تواند معتبر باشد.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+در نتیجه در اخلاق، دقیقا مانند علوم، ریاضی،مهندسی و همه ی رشته هایی که نظریه ها را با واقعیت تطبیق می بدهند، *نظریه های معتبر باید هم از نظر منطقی پایدار از نظر تجربی قابل اثبات باشند.
 
-### Preferences And Existence
+### ترجیحات و وجود
 
-If I say “I like ice cream”, only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+اگر من می گویم "من بستنی دوست دارم"، تنها یک کلمه در این جمله مبهم مانده است. واضح است که "من" وجود دارد، زیرا من ترجیح شخصی را بیان می کنم. به همان اندازه واضح است که "بستنی" نیز در واقع وجود دارد. با این حال، کلمه "مانند" مشکل ساز تر است.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+ترجیحات عینا در واقعیت وجود ندارند. اگر شما به صورت وسواسی کنجکاو هستید، شما ممکن است شاید من را تعقیب کنید و هر بار که بستنی میخورم، ضبط کنید؛ زیرا که ممکن است یک پایه تجربی خوب برای ایجاد ترجیح من برای آن خواهد بود. این امکان، میتواند وجود داشته باشد، با این حال، من در حقیقت یک آزارطلب هستم و شدیدا از بستنی بدم می آید. و ترجیح میدهم که با مزه ی ناخوشایندی که دارد خودم را شکنجه کنم - و سپس با ادعای اینکه آن را دوست دارم، شما را سردرگم کنم.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+ما می توانیم برای ترجیحات، *مدرک* پیدا کنیم؛ ما نمی توانیم *خود* ترجیحات را در واقعیت بیابیم. ترجیح به عنوان یک*رابطه * بین آگاهی و ماده است، مانند گرانش که به عنوان یک رابطه بین انسان ها و حجم وجود دارد. 
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+با کنار گذاشتن سوالات چالش برانگیز اراده آزاد و جبرگرایی، منطقی است فرض کنیم که هر چیزی که شخصی در حال حاضر انجام میدهد، چیزی است که او "ترجیح می دهد" انجام دهد. اگر به بیدار شوم و به کار بروم، بدیهی است در مقایسه با سایر گزینه ها،  من *ترجیح* می دهم این کار را انجام دهم. حتی اگر از کارم متنفر باشم، به طور واضح از آن * کمتر * از ، مثلا بی پولی متنفرم.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+با توجه به اینکه انسانها می توانند انواع مختلفی از اقدامات بی نهایت را انجام دهند، هر چیزی که شخصی در حال حاضر در حال انجام آن است، از بین همه گزینه های دیگر انتخاب شده است. . من تصمیم گرفتم این کتاب را بنویسم، به جای اینکه به عنوان مثال، تانگو را یاد بگیرم.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+هنگامی که ما این واقعیت ساده را به استدلال های اخلاقی اعمال می کنیم، نتایجی بسیار جالبی به دست می آوریم.
 
-### Preferences And Arguments
+### ترجیحات و استدلال ها
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist”. Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+با یادآوری تجزیه و تحلیل بالا درباره استدلال دفاع شخصی، به آسانی ماهیت متناقض بیانیه :"ترجیحات وجود ندارند" را متوجه می شویم. با توجه به این که هر عمل انسانی - از جمله ساختن اظهارات فلسفی - در اولویت هر اقدام دیگر ممکن، انتخاب می شود، استدلال اینکه ترجیحات وجود ندارد نیازمند * اولویت * برای استدلال بر این است که ترجیحات وجود ندارد، که بیانیه ای متضاد است. استدلال اینکه ترجیحات وجود ندارند دقیقا مانند استدلال این است که زبان وجود ندارد. این کاملا یک استدلال شکست خورده است.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+آنجا که غیر ممکن است بدون ابراز یک ترجیح - یا ضمنی و یا به صورت صریح - کسی این فرض را اجرا کند، قبول میکند که ترجیح وجود دارد. بنابراین، بدون قبول وجود ترجیحات، مذاکره در این باره غیر ممکن است. 
 
-### Preferences And Universality
+### ترجیحات و جهانی شدن
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+سوال بعدی به این ترتیب می شود: آیا ترجیحات صرفا ذهنی هستند یا می توانند جهانی باشند؟
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+واضح است که برخی از ترجیحات ذهنی هستند. سلیقه های موسیقی، سرگرمی های شخصی، ادبیات مورد علاقه و غیره همه ترجیحات ذهنی و شخصی هستند.
 
-The challenge arises when we try to define some preferences as *objective*.
+چالش زمانی بوجود می آید که ما تلاش می کنیم بعضی از ترجیحات را به عنوان * عینی * تعریف کنیم.
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+بنابراین گزاره ی پیش از ما این است: * آیا برخی از ترجیحات می توانند عینی، یعنی جهانی باشند؟ *
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+هنگامیکه میگویم برخی از ترجیحات ممکن است عینی باشند، منظورم این نیست که همه ی مردم از  این ترجیحات در همه ی زمان ها پیروی میکنند. اگر مجبور بودم استدلال کنم که *تنفس* یک ترجیح عینی است، من به آسانی با مثال کسانی که با دار زدن خودکشی میکنند، مواجه میشدم. اگر مجبور بودم که غذا خوردن را به عنوان یک ترجیح عینی بررسی کنم، استدلال من احتمالا با نمونه هایی از اعتصاب غذا یا سو تغذیه مواجه میشد.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers”. There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error”, and content themselves with mystical nonsense.
+بنابراین وقتی درباره ترجیحات جهانی صحبت می کنم، من در مورد آنچه مردم * باید* ترجیح دهند صحبت میکنم، نه آنچه آنها همیشه ترجیح می دهند *انجام* دهند. برای استفاده از یک تقارن علمی، برای درک واقعی جهان، مردم * باید * از روش علمی استفاده کنند - این بدان معنا نیست که آنها همیشه این کار را انجام می دهند؛ چرا که به وضوح میلیاردها نفر از افسانه های قدیمی به جای علم مدرن برای *پاسخ ها* مشورت می گیرند. هیچ راهی برای رسیدن به حقیقت در مورد جهان بدون علم وجود ندارد، اما مردم کاملا آزاد هستند که "حقیقت" را به عنوان "خطا" مجددا تعریف کنند و خود را بل بی معنایی رازآلود مرتبط سازند.
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
 
