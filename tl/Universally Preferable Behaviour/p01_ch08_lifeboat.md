@@ -1,4 +1,4 @@
-## Mga senaryo sa Lifeboat
+## Ang mga senaryo sa Lifeboat
 
 Ang katotohanan na ang UPB ay nagpapatunay lamang ng lohikal na hindi nag-iibang mga teoryang moral ay hindi nangangahulugan na wala ng likhang isip na sirkumstansya kung saan pipiliin natin na kumilos *laban* sa simulain ng gayung teorya.
 
