@@ -60,7 +60,7 @@ O modo de se opor ao Estado - a entidade imaginária mais perigosa - é com a ra
 
 ### O Futuro
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Queiramos ou não, o CUP aplica-se a tudo o que fazemos. Os seres humanos possuímos uma tendência natural para a consistência, pois somos seres com uma coerência racional, a viver num universo consistente e racional. Assim, qualquer proposição que aceitamos nas nossas vidas tende a exigir um comportamento cada vez mais coerente ao longo das mesmas - e também ao longo da "vida" da nossa cultura ou nação.
 
 Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
 
