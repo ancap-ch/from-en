@@ -1,31 +1,31 @@
-## The Forth Test: Fraud
+## Nlereanya Nke Ano: Aghugho
 
-Right at the edge of what is generally considered ethical sits the challenge of *fraud*.
+Rute na njedebe nke ihe a na-ewere na ọ bụ ụkpụrụ omume na-etinye aka na nsogbu nke aghụghọ.
 
-Fraud is the obtaining of value through false representation. If I tell you that I will ship you an iPod if you give me two hundred dollars, and then take your money without shipping you the iPod, we instinctively understand that that is a form of theft.
+Aghugho bụ inweta onyinye site na nnọchiteanya ụgha. Ọ bụrụ na m gwa gị na m ga-ebufe gị iPod ma ọ bụrụ na i nye m narị dollar abụọ, ma were ego gị n'ebughị ụzọ nyefee gị iPod, anyị na-aghọta nke ọma na nke ahụ bụ ụdị ohi.
 
-Let us put the problem of fraud through the grinder of UPB, and see whether it holds up.
+K'anyị tinye nsogbu nke aghụghọ site na mpi UPB, hụ ma ọ dị elu.
 
-Clearly, fraud requires that one person *not* be engaged in fraud. In the above potential transaction, if I am hoping to steal your two hundred dollars, and you are hoping to steal my iPod, nothing will come of it. You will demand the iPod before providing payment, and I will demand payment before providing the iPod. We will be in a stalemate, utterly unable to defraud each other.
+N'ụzọ doro anya, maka ịghọ aghụghọ, otu otu ga-eme ezi ihe. Ya mere, onye na-achọ ịghọ aghụghọ na-adabere na eziokwu ahụ bụ na onye nke ọzọ adịghị achọ ịghọ aghụghọ, iji jide ya.
 
-Clearly, for fraud to occur, one party must act in good faith. Thus the person who wishes to commit fraud relies on the fact that the other person does *not* wish to commit fraud, in order to prey upon him.
+Iji laghachi na ezi omume omume ndị na-adịghị mma, gịnị ga-eme ma ọ bụrụ na anyị rịọrọ Bob na Doug ka ha mee ihe omume ọma bụ na "ịghọ aghụghọ dị mma"? Ọ bụrụ Doug nwere pasent iri abụọ, Bob nwere ọkụ ọkụ, Doug na-enye Bob iri abụọ dollar maka ọkụ ahụ, wee were ọkụ ọkụ ma nyeghị Bob iri abụọ, mgbe ahụ, Doug nọ na-eme ihe n'echiche bụ na aghụghọ dị mma.
 
 To return to our hapless moral guinea pigs, what would happen if we asked Bob and Doug to act on the moral principle that “fraud is good”? If Doug has twenty dollars, and Bob has a lighter, and Doug offers Bob twenty dollars for that lighter, and then takes the lighter but does not give Bob the twenty dollars, then Doug has been acting on the premise that fraud is good.
 
-What happens then?
+Gịnị na-eme mgbe ahụ?
 
-Clearly, the principle that “fraud is good” cannot be acted on by both Doug and Bob simultaneously – since in order to commit fraud, Doug must act dishonestly, and Bob must act honestly. Thus to enable Doug’s “moral” action, Bob must act “immorally”.
+N'ụzọ doro anya, ụkpụrụ ahụ bụ "Doug na Bob" n'otu oge - ebe ọ bụ na iji mee aghụghọ, Doug aghaghị ime ihe n'eziokwu, Bob ga-eme ihe n'eziokwu. Iji mee ka omume Doug dị "omume," Bob ga-eme "omume rụrụ arụ.
 
-UPB destroys this possibility, since no valid moral theory can require opposite actions under the same circumstances.
+UPB mebiri omume a, ebe ọ bụ na nkwenkwe omume ọma ọ bụla nwere ike ịchọ ọrụ ndị ọzọ n'ọnọdụ otu.
 
-If Doug commits fraud on Bob with the justification that “it is good to lie to get what you want”, then clearly it must also be good to be honest as well, since it is impossible to get what you want by lying unless other people are willing to assume your honesty. Thus the premise that it is good to lie to get what you want cannot be achieved unless other people act with integrity – thus lying and honesty are simultaneously required for the fulfilment of the moral principle. This cannot logically stand – that both an action *and its complete opposite* are simultaneously moral in the same place, for the same people, and at the same time.
+Ọ bụrụ na Doug emehiere na Bob na-egosi na "ọ dị mma ịgha ụgha iji nweta ihe ịchọrọ," mgbe ahụ, o doro anya na ọ ghaghị ịdị mma ikwupụta eziokwu, ebe ọ bụ na ọ gaghị ekwe omume inweta ihe ịchọrọ ịgha ụgha ma ọ bụrụ na ndị ọzọ dị njikere ikwu eziokwu gị. N'ihi ya, ihe ekwuru na ọ dị mma ịgha ụgha iji nweta ihe ị chọrọ enweghị ike ịme ma ọ bụrụ na ndị ọzọ anaghị eme ihe n'eziokwu - ya mere a ghaghị ịgha ụgha na ikwesị ntụkwasị obi n'otu oge maka mmezu nke ụkpụrụ omume. Nke a enweghị ike iguzosi ike n'ụzọ ziri ezi - na ma otu ihe ma kpamkpam * bụ otu omume n'otu ebe, maka otu ndị ahụ, n'otu oge ahụ.
 
-This is how we know that fraud is wrong.
+Nke a bụ otú anyị si mara na aghụghọ bụ ihe ọjọọ.
 
-Again, knowing that fraud is “wrong” simply means that we know that any moral theory that justifies fraud is invalid, because it is self-contradictory. If we build a bridge, and the bridge falls down, we know that the bridge was “wrong” – but the most important thing that we can learn from this disaster is not that the bridge fell down, but to understand the flaws in the theory that caused us to build a bridge that fell down. Similarly, moral theories that cause disasters, such as communism, fascism and Nazism, are important to evaluate relative to UPB not only so we can understand how they went so wrong, but also how to fix our moral theories in the future. Since as a species, we will be forever building bridges, it is essential that we get our facts and theories right, or they will endlessly fall down around us.
+Ọzọ, ịmara na aghụghọ bụ "na-ezighị ezi" pụtara na anyị maara na nkwenkwe omume ọ bụla nke kwadoro aghụghọ bụ ihe na-adịghị mma, n'ihi na ọ na-emegide onwe ya. Ọ bụrụ na anyị wuo akwa, mmiri ga-ada n'ala, anyị maara na mmiri ahụ dị "na-ezighị ezi" - ma ihe kachasị mkpa anyị nwere ike ịmụta site na ọdachi a abụghị na ndagwurugwu daa, mana ịghọta ihe ndị na-adịghị mma na tiori nke mere ka anyị wuo akwa nke dara. N'otu aka ahụ, akụkọ omume ndị na-akpata ọdachi, dị ka kọmitii, fasism na Nazism, dị mkpa ịtụle ihe gbasara UPB ọ bụghị nanị na anyị nwere ike ịghọta otú ha si mee ihe na-ezighị ezi, kamakwa otu esi edozi echiche ọma anyị n'ọdịnihu. Ebe ọ bụ na anyị bụ ụdị, anyị ga-abụ ụlọ na-aga n'ihu ruo mgbe ebighi ebi, ọ dị mkpa na anyị ga-enweta ihe ọmụma anyị na echiche ndị ziri ezi, ma ọ bụ na ha ga-agbada gburugburu anyị.
 
-However, the question remains whether fraud is evil, or just an aesthetically negative action (ANA).
+Otú ọ dị, ajụjụ ahụ ka dị ma ọ bụ njehie bụ ihe ọjọọ, ma ọ bụ naanị ihe a na-ahụ anya (ANA).
 
-Fraud is unusual compared to rape, theft and murder, insofar as it requires that the victim act positively to participate in the process. I can jump up behind you and strangle you without any participation on your part, but I cannot defraud you unless you participate to some degree. Thus fraud falls under the umbrella of “avoidability”, and so is in a fundamentally different category than rape, murder and theft. However, the degree of avoidability partly determines the degree of immorality involved. Sending your bank information to a Nigerian email spammer is certainly avoidable; being cheated by an eBay business with a perfect rating is far less avoidable.
+Fraud dị iche iche ma e jiri ya tụnyere njide n'ike n'ike, izu ohi na igbu ọchụ, ma ọ bụrụ na ọ chọrọ ka onye ahụ mejọrọ na-etinye aka na usoro ahụ. Enwere m ike ịrị elu n'azụ gị ma tụọ gị egwu n'enweghị òkè ọ bụla n'akụkụ gị, mana enweghi m ike ịghọgbu gị ọ gwụla ma ị na-ekere òkè n'ókè ụfọdụ. Ụgha dị otú ahụ na-ada n'okpuru nche anwụ nke "izere nsogbu," ya mere ọ dị n'ụdị dị iche iche dị iche iche karịa ịra n'ike, igbu ọchụ na izu ohi. Otú ọ dị, ogo nke izere na-ekpebi ogo nke omume rụrụ arụ. Na-eziga ozi gbasara ụlọ akụ gị na onye na-agbapụta ozi email na Nigeria nwere ike izere ya; ịbụ onye azụmahịa eBay na-aghọ aghụghọ na-akwụ ụgwọ zuru oke dịtụghị izere.
 
-There may be certain situations under which fraud is unavoidable, such as “bartering” for a life-saving medicine when no alternative exists, but that falls under the “grey area” that we have discussed above – these occurrences are so rare that they are to ethics as mutations are to biological species.
+Enwere ike ịnwe ọnọdụ ụfọdụ nke enweghị ike ịkwụsị, dị ka "nkwụsị" maka nkà mmụta ọgwụ na-azọpụta ndụ ma ọ bụrụ na ọ dịghị ọzọ dịnụ, kama nke ahụ dabere n'okpuru "ebe ntụ ntụ" nke anyị tụlere n'elu - ọnọdụ ndị a dị oke ntakịrị na ha bụ na omume ọma dị ka nsụgharị dị iche iche dị iche iche.
