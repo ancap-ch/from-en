@@ -48,7 +48,7 @@ Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansa
 4. Kaya ang kaligtasan ay lalong kanais nais sa buong mundo sa karapatan sa pag-aari.
 5. Kaya ano ang mas mabuti para sa sarili ay ang panghuli moral na pamantayan.
 
-This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
+Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
