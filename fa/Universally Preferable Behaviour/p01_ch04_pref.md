@@ -44,66 +44,66 @@ When I say that some preferences may be objective, I do not mean that all people
 
 Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers”. There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error”, and content themselves with mystical nonsense.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+به همین ترتیب، اگر یک مرد می خواهد یک عفونت را درمان کند، به جای آنکه یک رقص باران آزتک را انجام دهد، *باید* آنتی بیوتیک مصرف کند. ترجیح دادن آنتی بیوتیک ها به جای انجام رقص آزتک باران جهانی است، زیرا رقص نمی تواند عفونت را درمان کند. بنابراین، اگرچه دیوانه ای وجود دارد که گاه به گاه  سعی کند تا خود را از طریق رقص خود درمان کند، هنوز هم * به طور جهانی ترجیح داده * که اگر کسی می خواهد خود را درمان کند، باید آنتی بیوتیک را مصرف کند.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+به عبارت دیگر، اگر می خواهید به بالای کوه برسید، آرزو کردن هرگز جواب نخواهد داد. اگر می خواهید ریشه های جهان را بدانید، عبادت هرگز پاسخی نخواهد داد. مردم هنوز آرزو می کنند و دعا می کنند، اما این، آرزو یا عبادت کردن را موثر واقع نمیکند، با توجه به این موضوع، بگذارید به این سؤال بازگردیدم که آیا ترجیحات جهانی می توانند معتبر باشند یا خیر.
 
-### Arguments And Universality
+### استدلال ها و جهانی شدن
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+اگر بحث کردن را انتخاب کنم، من به صورت ضمنی تنوع گسترده ای از گزاره ها را قبول کرده ام که ارزشش را دارند تا در اینجا آنها را باز کنیم.
 
-#### Premise 1: We Both Exist
+#### فرض اول: ما هر دو وجود داریم
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+اگر انتخاب کنم که با شما بحث کنم، پس من الزاما باید قبول کنم که هر دو ما وجود داریم.  اگر باور داشته باشم که من وجود دارم، اما شما وجود ندارد، پس بحث کردن هیچ معنایی نخواهد داشت و کار یک دیوانه است. اگر قرار بود با تصویر خودم در آینه بحث کنم، باید ارام باشم نه بحث کنم.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### پیش فرض 2: احساسات برای صحت، دارای ظرفیت هستند
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+از آنجا که انسانها نمیتوانند از نظر فیزیکی ارتباط برقرار کنند، همه ی مذاکرات شامل شواهد حواس میشوند. نوشتن نیازمند بینایی است؛ حرف زدن نیازمند شنیدن است؛ زبان بریل نیازمند لمس کردن است.   بنابراین، هر گزاره ای که به عدم اعتبار عواطف وابسته است، به صورت خودکار نقض میشود.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### پیش فرض 3: زبان دارای ظرفیت برای معنی است
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+شبیه به فرض دو، از آنجا که تمام استدلال ها به زبان نیاز دارند، هر گزاره ای که بر پایه ای است که زبان بی معنی است، بلافاصله بی اعتبار می شود. استفاده از زبان برای استدلال اینکه زبان معنی ندارد، مانند استفاده از یک پیک برای ارسال پیام و استدلال این که پیک هیچگاه پیام توزیع نمی کند، میباشد.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### پیش فرض 4: اصلاح نیاز به ترجیحات جهانی دارد
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+اگر شما خطایی را که من انجام داده ام را تصحیح کنید، به طور ضمنی این واقعیت را پذیرفته اید که برای من *بهتر* است که خودم خطایم را اصلاح کنم. ترجیح شما برای تصحیح خطا من توسط خودم، ذهنی نیست، بلکه عینی و جهانی است.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it”, but rather: “You should correct your opinion because it is objectively incorrect”. My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+شما به من نمی گوئید: "شما باید نظر خود را به من تغییر دهید چون من آن را ترجیح می دهم"، بلکه: "شما باید نظر خود را اصلاح کنید، زیرا آن به طور عینی نادرست است". خطای من صرفا بخاطر مخالفت من با شما نیست، اما نتیجه ی انحراف من از استاندارد عینی حقیقت است. استدلال شما از اینکه من باید باور غلطم را اصلاح کنم، بر عینی بودن ارزش حقیقت باقی می ماند- یعنی حقیقت *به طور جهانی ترجیح می یابد* به خطا، و اینکه حقیقت *بطور جهانی عینی* است.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### پیش فرض 5: یک روش شناسی عینی برای جدایی حقیقت از دروغ وجود دارد
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+اگر شما با من مخالف هستید، اما به شما می گویم که باید با من موافقت کنید زیرا من همیشه حق دارم، بعید است که شما از سختی استدلال من راضی باشید. اگر دلایل خوبی برای اینکه چرا من اشتباه کردم، ارائه دهید، اما من فقط به تکرار کردن این که حق با من است ادامه دهم، زیرا *همیشه* حق با من است، تعامل ما به ندرت می تواند به عنوان یک بحث تعریف شود.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+لحظه ای که من برخی از معیارهای عینی برای تعیین حقیقت را از دروغ ارائه می دهم، پذیرفته ام که حقیقت بیش از یک موضوع است.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+این لزوما به این معنی نیست که معیار عینی من *منطقی* است- می توانم شما را به یک متن مذهبی ارجاع دهم، برای مثال. با این حال، اگر چنین کاری هم انجام دهم، من هنوز هم پذیرفته ام که حقیقت چیزی است که مستقل از ادعای شخصی است- که یک روش شناسی عینی برای تمایز حقیقت از دروغ وجود دارد.
 
-#### Premise 6: Truth Is Better Than Falsehood
+#### پیش فرض 6: حقیقت بهتر از دروغ است
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+اگر به شما بگویم که جهان مسطح است و شما پاسخ دهید که جهان مسطح نیست، و گرد است، شما به طور ضمنی حقیقت متعارفه را می پذیرید که حقیقت و دروغ هردو به صورت عینی وجود دارند و اینکه حقیقت بهتر از دروغ است.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+اگر به شما بگویم که بستنی شکلاتی دوست دارم و شما به من بگویید که بستنی وانیلی دوست دارید، این غیر ممکن است که به صورت عینی "ثابت " کنیم وانیلی بهتر از شکلاتی است. زمانیکه شما مرا با ارجاع به*حقایق* عینی تصحیح کنید، شما پذیرفته اید که حقایق عینی وجود دارند، و حقیقت عینی*از نظر جهانی ترجیح داده شده* به خطای ذهنی است.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### پیش فرض 7: بحث های صلح آمیز بهترین راه حل برای حل اختلافات است
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+اگر به شما بگویم که جهان صاف است و شما یک اسلحه را بیرون آورید و به من شلیک کنید، این امر به ندرت نمونه ای از یک بحث تولیدی خواهد بود. درست است که اختلاف نظر ما حل و فصل شد - اما به این تنها به این دلیل است که تنها یک نفر از ما در انتهای بحث  باقی مانده بود.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+اگر شما قطعا به من بگویید که با هر مخالفتی که من انجام میدهم، به من شلیک کنید، احتمال شرکت من در یک مذاکره با شما بسیار ضعیف است. بنابراین، واضح است که هر بحث استوار بر گزاره ضمنی که سند، دلیل، حقیقت و عینیت هستند، روش های حل اختلافات افراد *بطور جهانی ارجح* هستند. به طور کلی غیر منطقی است که استدلال کنیم که تفاوت نظرها باید از طریق استفاده از خشونت حل شود - تنها استدلال ثابت برای *ارزش* خشونت، استفاده از خشونت است. [^4]
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+بصورت خلاصه، بنابراین، بحث کردن نیاز به روش شناسی عینی دارد،از طریق زبان معنی دار، در پی حقیقت جهانی، که به صورت عینی برای خطای شخصی ترجیح داده شده است.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+این ترجیح برای حقیقت جهانی، ترجیح * درجه * نیست، بلکه * نوع * است. یک میانبر که زمان رانندگی شما را به نصف کاهش می دهد، دو برابر بهتر از مسیر طولانی است - اما هر دو به رانندگی در جهت کاملا اشتباه* بی نهایت ارجح هستند *.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+به همان شیوه، حقیقت فقط "بهتر" از خطا نیست- آن * بی نهایت ارجح * یا مورد نیاز است.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+#### پیش فرض 8: افراد مسئول اقدامات خود هستند
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+اگر من استدلال کنم که انسانها مسئول اعمالشان نیستند، من در یک پارادوکس گرفتار میشوم، سوال این است: * آیا من مسئول استدلال خویش هستم یا نه، و همچنین آیا شما مسئول پاسخ خود هستید یا نه*.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+اگر استدلال من درباره اینکه انسان ها مسئول اعمال خویش *نیستند* درست باشد، پس من برای استدلال خویش مسئول نیستم و شما هم برای پاسخ خود مسئول نیستید. با این حال، اگر من باور دارم که شما مسئول پاسخ خود نیستید، این امر یک حس گرانبهای کمی را برای پیشبرد استدلال ایجاد میکند- این دقیقا مانند مذاکره با تلویزیون است. [^5]
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+بنابراین، اساسا، اگر به شما بگویم که مسئولیت اعمالتان را ندارید، به شما می گویم که این امر به طور کلی ترجیح داده می شود که شما باور کنید ترجیح، غیرممکن است؛ زیرا اگر شما کنترلی بر اعمالتان نداشته باشید، نمی توانید یک حالت ارجح را انتخاب کنید، یعنی حقیقت بالاتر از دروغ است. بنابراین این استدلال، مانند استدلال های بالا، خود - متناقض است.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+[^4]: مفید است که این فرض را در ذهن داشته باشید، زیرا بعدا بسیار مهم خواهد بود.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: مسأله مسئولیت، البته، به شدت مربوط به سوال اراده آزاد در مقابل جبرگرایی است که موضوع کتاب دیگری خواهد بود.
