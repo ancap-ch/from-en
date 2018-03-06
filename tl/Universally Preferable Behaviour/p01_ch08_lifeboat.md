@@ -43,8 +43,8 @@ Gamitin ang nasa itaas "mga pangyayari sa buhaybangka," ang katapusan ay madalas
 Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansanas kaysa sa mamatay sa gutom -ang sasabihin ko ay "oo" - ang sumusunod na kaso ay hindi magagawang maiiwasan:
 
 1. Lahat sila ay mas gustong magnakaw ng isang mansanas kaysa mamatay sa gutom.
-2. Thus everyone universally prefers stealing apples to death by starvation.
-3. Thus it is *universally preferable* to steal apples rather than starve to death.
+2. Kaya silang lahat ay mas pinili ang magnakaw ng mansanas kesa mamatay sa pamamagitan ng gutom.
+3. Samakatuwid ito ay *lalong kanais nais sa buong mundo* upang magnakaw ng mga mansanas kaysa mamatay sa gutom.
 4. Thus survival is universally preferable to property rights.
 5. Thus what is good for the individual is the ultimate moral standard.
 
