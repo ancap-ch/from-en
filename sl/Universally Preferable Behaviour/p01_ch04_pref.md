@@ -1,109 +1,119 @@
-## Preferences
+## Prednosti
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Zdaj, ko razumemo naravo samouničujočih argumentov, se lahko obrnemo na vprašanje preferenc.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preference so osrednjega pomena za vsako metodologijo, ki zahteva določitev vrednosti resnice. Na primer, znanstveno metodo v veliki meri opredeljujejo prirojene nastavitve za logično konsistentnost in empirično preverjanje. Za znanost je predpostavka: * če * želite ugotoviti veljavno resnico o vedenju snovi in energije, je * bolje * uporabiti znanstveno metodo.
 
-In this sense, “preferable” does not mean “sort of better”, but rather “required”. *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable”, then, translates to “objectively required”, but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+V tem smislu "boljše" ne pomeni "nekako boljše", temveč "zahtevano". * Če * želite živeti, je * splošno priporočljivo *, da se vzdržite iz jedi peščice arzena. * Če želite * ugotoviti veljavne resnice o resničnosti, je * splošno priporočljivo *, da so vaše teorije tako notranje dosledne kot empirično preverljive. "Univerzalno prednost" se nato prevede v "objektivno zahtevano", vendar bomo ohranili besedo "bolje", da bi razlikovali med obveznimi človeškimi absolutami in neobveznimi fizičnimi absolutami, kot je gravitacija.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Podobno, če so etične teorije sploh lahko veljavne, morajo biti * vsaj * notranje in zunanje skladne. Z drugimi besedami, etična teorija, ki nasprotuje sama sebi, ne more biti veljavna - in etična teorija, ki nasprotuje empiričnim dokazom in skoraj univerzalnim preferencam, prav tako ne more biti veljavna.
 
-### Preferences And Existence
+Tako v etiki, tako kot v znanosti, matematiki, inženiringu in v vseh drugih disciplinah, ki teorije primerjajo z realnostjo, * morajo veljavne teorije biti logično konsistentne in empirično preverljive *.
 
-If I say “I like ice cream”, only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+### Preference in Obstoj
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Če rečem "Všeč mi je sladoled", samo ena beseda ostane dvoumna v tem stavku. Jasno * Jaz * obstajam, s tem izražam osebno prednost. Enako jasno je, da "sladoled" v resnici obstaja. Vendar je beseda "všeč" bolj problematična.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Preference ne obstajajo objektivno v realnosti. Če ste bili obsesivno radovedni, bi me lahko morda spremljali vsakič, ko sem pojedel sladoled, kar bi verjetno pomenilo dobro empirično podlago za določitev mojega želje po njem. Vendar bi obstajala možnost, da sem dejansko mazohist in intenzivno ne maram sladoleda in se raje mučim s svojim neprijetnim okusom - in te potem zmedem, ko trdim, da mi je všeč.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Za prednosti lahko najdemo * dokaz *; v resnici ne moremo najti * samo * prednost . Prednost obstaja kot * odnos * med zavestjo in materijo, prav tako kot gravitacija obstaja kot razmerje med telesom maso..
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Če pustimo na stran izpodbijanja vprašanj svobodne volje v primerjavi z determinizmom, je razumno domnevati, da ne glede na to, kdo počne v sedanjosti, je to, kar "raje" počne. Če vstanem in pojdem na delo, potem očitno jaz * raje * to storim, v nasprotju z vsemi drugimi alternativami. Tudi če sovražim svojo službo, jo očitno sovražim * manj * kot, recimo, biti brez dneva.
 
-### Preferences And Arguments
+Glede na to, da lahko ljudje izvedejo skoraj neskončno vrsto ukrepov, ne glede na to, kdo počne v tem trenutku, je izbran iz vseh drugih možnih možnosti. Odločam se, da napišem to knjigo namesto, recimo, učenja tanga.
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist”. Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Ko to preprosto dejstvo uporabimo za etične argumente, prikažemo nekaj zelo zanimivih rezultatov.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
-### Preferences And Universality
+### Prednosti in Argumenti
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Če se spomnimo zgornje analize samouničujoči argumentov, lahko zlahka razumemo kontradiktornost narave: »preference ne obstajajo«. Glede na to, da je vsaka človekova akcija - vključno s filozofskimi izjavami - izbrana kot prednost vsakemu drugemu možnemu dejanju, če trdimo, da ne obstajajo preferenciali, zahteva * prednost * za trditev, da ne obstajajo preferenciali, kar je samo-protislovna izjava. Trditev, da ne obstajajo preferenciali, je popolnoma enaka kot trditev, da jezik ne obstaja. To je povsem samouničujoči argument.
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Ker je nemogoče ukrepati, ne da bi izrazili prednost - bodisi implicitno ali eksplicitno - vsakdo, ki ravna, sprejema predpostavko, da obstajajo preferenciali. Tako ni mogoče razpravljati o obstoju preferenc, ne da bi sprejeli obstoj preferenc.
 
-The challenge arises when we try to define some preferences as *objective*.
+### Prednosti in Univerzalnost
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Naslednje vprašanje tako postane: ali so preference povsem subjektivne ali pa so lahko univerzalne?
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Jasno je, da so nekatere prednosti subjektivne. Glasbeni okusi, osebni hobiji, priljubljena literatura in tako naprej so subjektivni in osebne preference.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers”. There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error”, and content themselves with mystical nonsense.
+Izziv se pojavi, ko poskušamo določiti nekatere nastavitve kot * objektivne *.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Predlog pred nami je torej: * ali so lahko nekatere nastavitve objektivne, to je univerzalne? *
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Ko rečem, da so lahko nekatere nastavitve objektivne, ne mislim, da vsi ljudje ves čas uporabljajo te prednosti. Če bi trdil, da je * dihanje * objektivna prednost, bi mi lahko zlahka nasprotoval z zgledom tistih, ki storijo samomor, z obešanjem. Če bi trdil, da je jesti objektivna prednost, bi se mogla izogibati mojemu argumentu s primeri lakote in anoreksije.
 
-### Arguments And Universality
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Tako, ko govorim o univerzalnih preferencah, govorim o tem, kaj * naj bi * ljudje * raje, ne pa tisto, kar * si * vedno želijo . Za uporabo znanstvene analogije, za resnično razumevanje vesolja * morajo * ljudje  uporabljati znanstveno metodo - to ne pomeni, da vedno to počnejo, saj se očitno milijarde ljudi posvetuje s starimi pravljicami in ne z moderno znanostjo za "odgovore". Ni mogoče doseči resnice o vesolju brez znanosti, ampak ljudje so popolnoma svobodni, da "resnico" ponovno opredelijo kot "napako" in se vsebinsko zbirajo z mistično neumnostjo.
 
-#### Premise 1: We Both Exist
+Prav tako, če človek želi ozdraviti okužbo, * mora * vzeti antibiotike in ne plesati Aztec ples dežju. Prednost, za jemanje antibiotikov kot pa ples dežju, je univerzalna, saj ples ne more ozdraviti okužb. Torej, čeprav se še najde norček, ki se bo poskušal zdraviti s plesom, je še vedno * splošno bolj sprejemljivo *, da če se človek želi zdraviti, mora vzeti antibiotike.
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Z drugimi besedami, če hočeš priti do vrha gore, samo želje po njem ne bodo nikoli delovale. Če želite poznati izvor vesolja, molitev nikoli ne bo dala odgovora. Ljudje si še vedno želijo in molijo, to pa ne pomeni, da je  želeti ali moliti učinkoviteje. Ob upoštevanju tega se obrnemo na vprašanje, ali lahko univerzalni preferenciali veljajo ali ne
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+### Argumenti in Univerzalnost
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Če se odločim za razpravo, sem implicitno sprejel široko paleto prostorov, za ketere je vredno porabiti nekaj časa, da se jih razpakira.
 
-#### Premise 3: Language Has The Capacity For Meaning
+#### Prostor 1: Oba obstajata
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+Če se odločim za razpravo z vami, moram nujno sprejeti, da obstajava oba. Če verjamem, da jaz obstajam, a ti ne, potem razpravljanje ne bi bilo smiselno in bi bilo kot dejanje norca. Če bi se začel prepiratii z mojo refleksijo v ogledalu, bi moral biti sediran, in ne debatirati.
 
-#### Premise 4: Correction Requires Universal Preferences
+#### Prostor 2: Čuti imajo zmogljivost za natančnost
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+Ker ljudje ne morejo psihično komunicirati, vse razprave nujno vključujejo dokaze o čutilih. Pisanje predpostavlja videnje; pogovor zahteva slišanje; Braillova pisava zahteva dotik. Tako vsak predlog, ki je odvisen od neveljavnosti čutov, je samouničujoč.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it”, but rather: “You should correct your opinion because it is objectively incorrect”. My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+#### Prostor 3: Jezik ima zmožnost za pomen
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Podobno kot prostor dve, saj vsi argumenti zahtevajo jezik, je vsaka trditev, ki temelji na predpostavki, da je jezik brez pomena, nemudoma nesprejemljiva. Uporaba jezika za trditev, da jezik nima pomena, je kot uporaba kurirja za pošiljanje sporočila, v katerem trdijo, da kurirji nikoli ne posredujejo sporočil.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+#### Prostor 4: Popravek zahteva univerzalne prednosti
 
-#### Premise 6: Truth Is Better Than Falsehood
+Če me popravite zaradi napake, ki sem jo naredil, implicitno sprejmete dejstvo, da bi bilo * bolje * za mene, da popravim svojo napako. Vaša prednost, da popravim svojo napako, ni subjektivna, ampak objektivna in univerzalna.
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+Ne rečeš mi: "Morate spremeniti svoje mnenje na moje, ker bi ga jaz raje", temveč bolje kot: "Popraviti bi morali svoje mnenje, ker je objektivno napačno". Moja napaka ne izhaja iz zgolj nesoglasja z vami, temveč kot rezultat mojega odstopanja od objektivnega standarda resnice. Tvoja trditev, da naj popravim svoje napačno mnenje, temelji na objektivni vrednosti resnice - to je, da je resnica * splošna prednost * napakam, in da je resnica * univerzalno objektivna *.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+#### Prostor 5: Objektivna metodologija obstaja za ločevanje resnice iz neresnice
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+Če se ne strinjate z mano, vendar vam rečem, da se morate strinjati z mano, ker imam vedno prav, je malo verjetno, da bi vas zadovoljila strogost mojega argumenta. Če ste navedli dobre razloge, kot zakaj sem se motil, vendar jaz nenehno ponavljam, da sem imel prav, ker imam * vedno * prav, naša interakcija se lahko komajda razvrsti v razpravo.
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+V trenutku, ko podpiram nekakšno objektivno merilo za določanje resnice od laži, sprejemam, da je resnica več kot vprašanje mnenja.
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+To ne pomeni nujno, da so moja objektivna merila * logična * - na primer, lahko bi vas napotili na versko besedilo. Toda tudi če to storim, še vedno sprejemam, da je resnica nekaj, kar prispeva neodvisno od zgolj osebne trditve - da obstaja objektivna metodologija za ločevanje resnice od laž.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+#### Prostor 6: Resnica je boljša kot laž
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+Če vam povem, da je svet raven, in vi odgovorite, da svet ni raven, ampak okrogel, potem vi implicitno sprejmete aksiom, da resnica in laž, obe obstajata objektivno in da je resnica boljša od laži.
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Če vam reče, da mi je všeč sladoled s čokolado in mi vi rečete, da vam je všeč vanilija, je nemogoče "dokazati", da je vanilija objektivno boljša od čokolade. V trenutku, ko me popravljate glede na objektivna * dejstva *, sprejemate, da obstajajo objektivna dejstva in da je objektivna resnica * splošno bolj priporočljiva * subjektivnim napakam.
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+#### Prostor 7: Mirna razprava je najboljši način za reševanje sporov
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Če vam rečem, da je svet raven, in vi izvlečete pištolo in me ustrelite, to ne bi bilo primer produktivne razprave. Res je, da bi bila naša nesoglasja "rešena" - ampak ker je le eden od nas ostal na koncu.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+Če bi mi že vnaprej povedali, da se boste spopadli s katerim koli nesoglasjem, da me boste ustrelil, verjetno ne bi sodeloval v razpravi z vami. Tako je jasno, da se vsaka razprava opira na implicitno predpostavko, da so dokazi, razlog, resnica in objektivnost * univerzalno boljši * načini reševanja sporov med posamezniki. Bilo bi popolnoma nelogično trditi, da je treba razlike v mnenju rešiti s pomočjo nasilja - edini konsistentni argument za vrednost * nasilja je uporaba nasilja. [^ 4]
+
+V bistvu, torej, razprava zahteva objektivno metodologijo, s smiselnim jezikom, pri iskanju univerzalne resnice, ki je objektivno bolj prednostna osebni napaki.
+
+Ta prednost za univerzalno resnico ni prednost * stopnje *, temveč * vrste *. Bližnjica, ki zmanjša čas vožnje za polovico, je dvakrat boljša kot daljša pot - vendar sta obe * neskončno bolj privlačne * za vožnjo v povsem napačni smeri.
+
+Na enak način, resnica ni le "boljša" od napake - je * neskončno bolj priporočljiva * ali zahtevna.
+.
+
+#### Prostor 8: Posamezniki so odgovorni za svoje ukrepe
+
+Če trdim, da ljudje niso odgovorni za svoja dejanja, se ujamem v paradoks, katerega je vprašanje * ali sem ali nisem odgovoren za moj argument in ali tudi , ali ste ali niste vi odgovorni za vaš odgovor *.
+
+Če je moj argument, da ljudje * niso * odgovorni za svoja dejanja, resničen, potem nisem odgovoren za moj argument in vi niste odgovorni za vaš odgovor. Vendar pa, če verjamem, da niste odgovorni za vaš odgovor, bi bilo dragoceno malo smiselno napovedati argument - to bi bilo popolnoma isto kot argumentacija s televizijskim kompletom. [^ 5]
+
+Tako, v osnovi, če vam povem, da niste odgovorni za svoja dejanja, vam povem, da je splošno bolj priporočljivo, da verjamete, da je preferenca nemogoča, ker če nimate nadzora nad vašimi dejanji, ne morete izbrati želenega stanje, torej resnica nad lažjo. Tako se ta argument, kot zgoraj omenjeni argumenti, samouniči.
+
+[^ 4]: Koristno bi bilo ohraniti prostor za  premislek, ker bo zelo pomembno kasneje.
+
+[^ 5]: Vprašanje odgovornosti je seveda tesno povezano z vprašanjem svobodne volje proti determinizmu, ki bo predmet druge knjige.    
