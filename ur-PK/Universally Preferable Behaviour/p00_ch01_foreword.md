@@ -36,9 +36,9 @@
 
 اس اندازے سے ایک نئی عدمیت نسل کا آغاز ہوا، جس طرح انیسویں صدی میں جرمنی میں اس نے کیا. یہ انتہائی اضافے اپنے پرجوش حملے کو اس کے لئے موجود رکھتے ہیں جو کسی بھی قسم کے مطالبے پر یقین رکھتے ہیں. یہ مابعد جدیدیتی نسل جس نے اپنے اجتماعی تزکرے کے ثقافتی تعصب کو تجاوز کر دیا، لیکن اب *سارا* سچ محض کسی خاص خیال کی بنا پر ادعا ہوا. جیسے وسیع-انکھوں والا بچہ جس کو "ترش رو دانش" میں نشان زدہ کیا گیا، وہ تمام مواصلات کو دکھاوے کے طور پر دیکھتے ہیں، اور سب دعوے تبلیغی انجمن کے طور پر، اور سب اخلاقی نصیحتیں منافقانہ چرانے کی عادت کے طور پر.
 
-Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
+چونکہ ہمیں کوئی ایکجوٹ سمجھوتا نہیں ہوا ہے ،حقیقی اور عقلی حمایت پر جس سے وضع تجویز کا جائزہ لے سکے، "اخلاقیات" تصوف میں دھنسا ہی ہے اور ناگزیر منطقی نتیجے کے تشدد کا شکار بن کے رہ گیی. جیسے کہ، روشن خیالی پانے سے پہلے ہی مزہبی گروہ نے ایک مخصوص طبقہ کی حکومت پر قبضہ پانے کے لئے مسلسل حملے جاری رکھے، اب مقابلے میں اخلاقی خوشگوار لوگ ریاست اور اس کی جبر کی آلت پر قبضہ پانے کے لئے جنگ کرتے رہے.
 
-Thus morality remains, relative to modern science, just as medieval “astronomy” did to modern astronomy – a realm of imaginary mythology, enforced through storytelling, threats, compulsion and exploitation – which actively bars any real progress towards the truth.
+اسی لئے اخلاقیات رہ گئ، جدید علمی کے متعلق، جس طرح قرون وسطٰی "فلکیات" نے جدید فلکیات کے ساتھ کیا-ایک خیالی پران کا دایرہ، داستاں گویی، خطرے، مجبوری اور استحصال کی وجہ سے مجبور کیا-جس کی وجہ سے کوئی بھی اصلی پیشرفت جو سچائی کی طرف تھی وہ فعال طور پر خارج ہوی.
 
 This “beast” of relativistic ethics looms above us, preying on us, justifying taxation, imprisonment, censorship and wars. It enslaves the young in state schools and Sunday pews; it ensnares the poor in the soft gulags of welfare; it enslaves even the unborn in the bottomless wells of national debts.
 
