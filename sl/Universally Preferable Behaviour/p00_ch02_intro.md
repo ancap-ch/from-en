@@ -1,133 +1,145 @@
-## Introduction
+## Uvod
 
-For countless generations, mankind lived in a kind of egocentric womb of self-imposed ignorance: the world was flat, the sun, moon and stars revolved around him, ancestors beckoned to him from beyond the mists of death, and thunder was the anger of the gods.
+Za nešteto generacij, je človeštvo živelo v nekakšni egocentrični materici neznanosti, ki je bila samoumevna: svet je bil raven, okoli njega so se vrteli sonce, luna in zvezde, predniki so mu klicali izven megle smrti in grom je bil jeza Bogov.
 
-Burrowing out from this narcissistic womb of subjective interpretation required the labour of millennia – and cost the lives of millions. The effort required to wrench our perspective from *perceptual experience* to *conceptual logic* was terrifying, exhilarating, highly disorienting and extremely dangerous. Understanding that the world was not what it *felt like*, or *seemed like*, was – and remains – the greatest feat of our intelligence. The *truth* of reality turned out to be in the eyes of the mind, not of the flesh.
+Izkopavanje iz te narcisistične maternice subjektivne interpretacije je zahtevalo delo tisočletja - in stalo življenje milijonov ljudi. Prizadevanje, da bi našo perspektivo razkrili od perceptualne izkušnje do konceptualne logike, je bilo zastrašujoče, vznemirljivo, zelo dezorientirno in izjemno nevarno. Razumevanje, da svet ni bil to, kar se je * počutil kot *, ali * se je zdelo kot *, je - in ostaja - največji podvig naše inteligence. * Resnica * resničnosti se je izkazala v očeh uma, ne mesa.
 
-The world looks flat; it is not. The sun and the moon look the same size; they are not. The stars seem to move around the earth; they do not. Learning the truth requires that we see the world from outside our senses – this does not mean a rejection of our senses, but an airtight compliance with the *real* evidence of the senses, which is not that the world is flat, but that matter, energy and physical laws are consistent. When we let go of a rock in our hand, it falls – this is the *real* evidence of the senses, not that the Earth is fixed and immovable. The idea that the world is immobile is an incorrect assumption that contradicts the direct evidence of our senses, which is that everything falls. If everything falls, the world cannot be fixed and immovable.
+Svet izgleda ravno; pa ni. Sonce in luna sta enako velika; pa nista. Zdi se, da se zvezde gibljejo po Zemlji; pa se ne. Učenje resnice zahteva, da svetu vidimo izven naših čutov - to ne pomeni zavrnitve naših čutov, ampak nepropustno skladnost z * resničnimi * dokazi o čutilih, ki niso, da je svet raven, ampak da je to vprašanje , energija in fizični zakoni so dosledni. Ko spustimo kamen iz roke, pada - to je * resnično * dokaz čutov, ne da je Zemlja fiksna in nepremična. Zamisel, da je svet nepremičen, je nepravilna domneva, ki je v nasprotju z neposrednimi dokazi o naših čutih, to je, da vse pade. Če vse pade, svet ne more biti pritrjen in nepremičen.
 
-These are the little truths of the everyday; that rocks fall, smoke rises, fire is hot and the sun and the moon are both round. If we remain steadfastly and rigorously committed to these “little truths”, we can in time derive the great truths of physics, which provide us such awesome knowledge and power.
+To so majhne resnice vsakdana; kamenje pade, dim se dviguje, ogenj je vroč in sonce in luna sta oba okrogla. Če bomo ostali trdno in strogo zavezani temi "majhnim resnicam", lahko sčasoma pridobimo velike resnice fizike, ki nam dajejo tako neverjetno znanje in moč.
 
-In between the little truths and the great truths, however, are the illusions that blind us – both in physics and in ethics.
+Med majhnimi resnicami in velikimi resnicami pa so iluzije, ki nas slepi - tako v fiziki kot v etiki.
 
-In physics, the great truths cannot contradict the little truths. No “unified field theory” can validly contradict our direct sense-experience of a falling rock or a rising flame. The greatest mathematical theory cannot be valid if applying it returns incorrect change at the checkout counter.
+V fiziki, velike resnice ne morejo biti v nasprotju z majhnimi resnicami. Nobena "enotna teorija polja" ne more veljavno nasprotovati našemu neposrednemu smislu občutka padajoče skale ali naraščajočega plamena. Največja matematična teorija ne more biti veljavna, če se nanjo vrne nepravilna sprememba na števcu.
 
-Historically, however, in between our own little truths and the great truths lies what I will call the “null zone”.
+Zgodovinsko pa je, da med svojimi lastnimi resnicami in resnicami leži tisto, kar bom imenoval "ničelno območje".
 
-### The "Null Zone"
 
-We tell our children not to punch each other, and we believe that violence is wrong in the abstract, as a general moral rule. The “little truth” is: *don’t punch*. The “great truth” is: *violence is wrong*.
+### "Ničelno območje"
 
-However, there exists in our minds an imaginary entity called “God”, and this entity is considered perfectly moral. Unfortunately, this entity continually and grossly violates the edict that “violence is wrong” by drowning the world, consigning souls to hell despite a perfect foreknowledge of their “decisions”, sanctioning rape, murder, theft, assault and other actions that we would condemn as utterly evil in any individual.
+Otrokom govorimo, naj se ne tepejo drug drugega, in verjamemo, da je nasilje na abstraktnem mestu napačno, kot splošno moralno pravilo. "Mala resnica" je: * ne udari *. "Velika resnica" je: * nasilje je narobe *.
 
-Thus we have the little truth (*don’t punch*) and the great truth (*violence is wrong*) but in the middle, we have this “null zone” *where the complete opposite of both our little truths and our great truths is considered perfectly true*.
+Vendar pa v naših mislih obstaja namišljena enota, imenovana "Bog", in ta entiteta velja za popolnoma moralno. Na žalost ta subjekt nenehno in grobo krši ukaz, da "nasilje je narobe" s tem, da je utonil v svet, da je kljub popolnemu predhodnemu poznavanju svojih "odločitev", sankcioniranju posilstev, umorov, kraje, napadov in drugih dejanj, ki bi jih obsodili, kot povsem zlo v vsakem posamezniku.
 
-Historically, we can see the same inconsistency in physics. There are no perfect circles in our direct experience, but because of a belief in God, all planetary motion had to be a “perfect circle” – a premise that retarded astronomy for centuries. Similarly, if a man turns his head, he does not reasonably believe that the entire world rotates around him – and he would happily put this forward as not just his own “little truth”, but as a *great truth*, or universal principle. Yet for most of human history, it was believed that the stars and planets rotated around the Earth, rather than that the Earth rotated. Here again we can see the “null zone” between direct sense experience and universal principle, wherein entirely opposite principles are considered to be perfectly valid.
+Tako imamo malo resnice (* ne udarimo *) in velika resnica (nasilje je narobe), ampak na sredini imamo to "ničelno cono" *, kjer je popolna nasprotja obeh naših malih resnic in naše velike resnice se štejejo za popolnoma resnične *.
 
-No sane man experiences God directly. In his daily life, he fully accepts that *that which cannot be perceived does not exist*. No reasonable man flinches every time he takes a step, fearing an invisible wall that might be barring his way. The greatest abstractions of science support his approach.
+V zgodovini vidimo enako neskladje v fiziki. V naših neposrednih izkušnjah ni nobenih popolnih krogov, ampak zaradi vere v Boga, morajo biti vsa planetarna gibanja "popoln krog" - predpostavka, ki je stoletja upočasnjevala astronomijo. Podobno, če človek obrne svojo glavo, neupravičeno verjame, da se ves svet vrti okoli njega - in z veseljem bi to postavil kot ne samo svojo "malo resnico", ampak kot veliko resnico * ali univerzalno načelo . Vendar se je v večini človeške zgodovine domnevalo, da se zvezde in planeti vrtijo okoli Zemlje, namesto da se Zemlja vrti. Tukaj spet vidimo "ničelno območje" med neposrednim občutkom in univerzalnim načelom, pri čemer veljajo popolnoma nasprotna načela popolnoma veljavna.
 
-Conversely, in the “null zone” of religion, the *exact opposite* of both the little truths and the great truths is believed to be true. Personally, a man believes that *that which cannot be perceived does not exist* – intellectually, science has proven this repeatedly. However, in the “null zone” of theology, the exact opposite proposition holds true – the axiom there is *that which cannot be perceived **must** exist*.
+Noben razumen človek ne bo neposredno doživljal Boga. V svojem vsakdanjem življenju v celoti sprejema, da * tisto, kar ni mogoče zaznati, ne obstaja *. Noben razumen človek se ne zdrznei vsakič, ko naredi korak, ker se boji nevidne stene, ki bi mu lahko onemogočala njegovo pot. Največje abstrakcije znanosti podpirajo njegov pristop.
 
-Our belief in the virtue of the military also lies in this “null zone”. If a private man is paid to murder another man, we call him a “gun for hire”, and condemn him as a hit man. If, however, this man puts on a green costume with certain ribbons *and commits the same act*, we hail him as a hero and reward him with a pension. The little truth (*I should not murder*) is perfectly consistent with the great truth (*murder is wrong*) – yet in the middle there lies a “null zone”, where murder magically becomes “virtuous”.
+Nasprotno, v "ničelnem območju" vere se verjame, da je * ravno nasprotje * majhnih resnic in velikih resnic resnično. Osebno verjamem, da * tisto, kar ni mogoče zaznati, ne obstaja * - intelektualno, znanost je to večkrat dokazala. Vendar pa v "ničelnem območju" teologije velja resnična nasprotna trditev - aksiom obstaja * tisto, ki je ni mogoče zaznati ** mora obstajati *.
 
-If this “null zone” is valid, then no logical proposition can ever hold. If a proposition is true – and the exact opposite of that proposition is also true – then logical reasoning becomes impossible. The growth of rational science has been the steady attack upon this “null zone”, and the incursion of objective consistency into these mad little pockets of subjective whim.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Naše prepričanje v vrlino vojske je tudi v tem "ničelnem območju". Če se zasebnemu človeku plača za umor drugega človeka, mu pravimo "plačanec" in ga obsojamo kot morilca. Vendar, če pa ta človek obleče uniformo z določenimi trakovi * in naredi isto dejanje *, ga pozdravljamo kot junaka in ga nagradimo s pokojnino. Mala resnica (* ne smem umoriti *) je povsem v skladu z veliko resnico (* umor je napačen *) - a na sredini leži "ničelna cona", kjer umor magično postane "dober".
 
-The same is true in the realm of morality.
+Če je to "ničelno območje" veljavno, potem noben logični predlog ne more nikoli zadržati. Če je predlog resničen - in ravno nasprotno od tega predloga je tudi res - potem logično sklepanje postane nemogoče. Rast racionalne znanosti je bil stalni napad na to "ničelno cono" in vdor objektivne konsistence v te nore majhne žepe subjektivne muhavosti.
 
-### The Casualties
+V starih zemljevidih, preden so kartografi končali svoje raziskovanje, bi risbe znanih dežel na praznem papirju zbledele. Za rast znanja je najprej potrebna razmejitev tega, kar ni znano, in nato razširitev znanih načel na neznana področja.
 
-Crossing this “null zone” is fraught with peril. The road from the little truths to the great truths is paved with the bones of millions. From the death of Socrates to the torture of early scientists by religious zealots, to the millions who have murdered and died for the black fantasies of fascism and communism, any forward-thrust of human knowledge into the “null zone” is fraught with considerable danger.
+Enako velja za področje morale.
 
-Must “crossing the null zone” – or seamlessly uniting the little truths with the great truths – inevitably be so difficult and dangerous? It is an enormous challenge to unite the perceptual with the conceptual in a straight line of logical reasoning – but *must* this progress take thousands of years and oceans of blood?
+### Žrtve
 
-If we look at the technological and economic progress of mankind, we see more or less a flat line for countless millennia, followed by massive and asymptotic spikes over the past few hundred years. It is inconceivable that some widespread genetic mutation could account for this sudden and enormous acceleration of intellectual consistency and material success. Theories claiming that a certain “snowball effect” came into existence, mysteriously propelled by an accumulation of all the little increments of knowledge that had occurred since the dawn of civilisation, can usually be dismissed out of hand as entirely *ex post facto* explanations, since they have no predictive value.
+Prečkanje tega  "ničelnega območja" je polna nevarnosti. Cesta od majhnih resnic do velikih resnic je tlakovana s kostmi milijonov. Od smrti Sokrata do mučenja zgodnjih znanstvenikov s strani verskih hudodelcev, milijonov, ki so bili umorjeni in umrli zaradi črnih fantazij fašizma in komunizma, je vsaka napoved človeškega znanja v "ničelni coni" preobremenjena s precejšnjo nevarnostjo .
 
-If we understand that our staggering potential has been available to us for at least tens of thousands of years – and that there is both great profit and great pleasure in exercising it – then it at once becomes clear that we really *do* want to use our amazing minds.
+Ali mora biti "prečkanje ničelne cone" - ali neovirano združiti majhne resnice z velikimi resnicami - neizogibno  tako težko in nevarno? To je ogromen izziv, da združimo perceptualno s konceptualno v ravni liniji logičnega razmišljanja - vendar a * mora * ta napredek trajati na tisoče let in terjati oceane krvi?
 
-Thus there must be a downward force that has historically acted to crush and enslave the natural liberty of mankind.
+Če pogledamo na tehnološki in gospodarski napredek človeštva, vidimo bolj ali manj ravno črto za nešteto tisočletij, v zadnjih nekaj sto letih pa sledijo množični in asimptotični trni. Nepojmljivo je, da bi lahko neka razširjena genetska mutacija povzročila nenadno in ogromno pospeševanje intelektualne doslednosti in materialnega uspeha. Teorije, ki trdijo, da se je pojavil določen "učinek snežne kepe", ki je skrivnostno poganjana z akumulacijo vseh malih povečanj znanja, ki so se zgodile od zore civilizacije, se običajno lahko odklanjajo iz roke kot povsem * ex post facto * pojasnila, saj nimajo predvidljive vrednosti.
 
-In the realm of science, it is not too hard to see the oppressive forces that continually kept our minds in near-primeval ignorance. The combination of superstition in the form of religion, and violence in the form of the aristocracy, threatened rational thinkers with intimidation, imprisonment, torture, and murder. Just as a farmer profits from the low intelligence of his cows, and a slave-owner profits from the fear of his slaves, priests and kings retained their privileges by threatening with death anyone who dared to think.
+Če bomo razumeli, da je bil naš ogromen potencial na voljo vsaj deset tisoč let - in da ima tako velik dobiček in veliko veselje pri uresničevanju tega - potem takoj postane jasno, da resnično * želimo * uporabljati naše neverjetne misli.
 
-The simple truth is that “priests” and “kings” were – and are – merely men. The simple truth is that the gods and devils that were supposed to justify their rule never existed.
 
-We have made great strides in understanding the nature and reality of simple human equality, but the sad fact of the matter is that the realm of *morality* is still lost in the “null zone” – in the destructive illusions of the “middle truths”.
+Tako mora obstajati navzdolnja sila, ki se je zgodovinsko obnašala za zatiranje in poškodbo naravne svobode človeštva.
 
-### "Middle Truths"
+Na področju znanosti ni preveč težko opaziti zatiralnih sil, ki so nenehno ohranjale svoje misli v bližnji prvobitni nevednosti. Kombinacija vraževerstva v obliki religije in nasilja v obliki aristokracije je ogrozila racionalne mislece z zastraševanjem, zaprtjem, mučenjem in umori. Tako kot kmet dobiva iz nizke inteligence svojih krav in dobiček,in dobiček lastnika sužnja iz strahu pred njegovimi sužnji, duhovniki in kralji so ohranili svoje privilegije, s tem da so smrtno grozili vsakomur, ki si je drznil razmišljati.
 
-Let us call the oppositional principles that reside in the “null zone” – between sense perception and conceptual consistency – the “middle truths”.
+Preprosta resnica je, da so bili "duhovniki" in "kralji" in so samo moški. Preprosta resnica je, da bogovi in hudičevi, ki naj bi upravičevali njihovo pravilo, nikoli niso obstajali.
 
-These “middle truths” are the most dangerous illusions of all, because they grant the *appearance* of truth while actually *attacking* the truth.
+Dosegli smo velike korake pri razumevanju narave in realnosti preproste človeške enakosti, toda žalostno dejstvo je, da se v "ničelni coni" še vedno izgubi področje morale * v destruktivnih iluzijah "srednjih resnic ".
 
-By providing the illusion that we have found the truth, “middle truths” actually prevent us from gaining the truth. They are the last line of defence for fantasy, predation and exploitation.
 
-Since they are not only irrational, but *anti*-rational, “middle truths” remain endlessly flexible – as long as they serve those in power. For instance, Christianity arose out of the growing fascism of the late Roman Empire partly by lashing out at the “primitive” superstitions of existing theologies. “Forget your old gods, we have a brand new God who is far better!”
 
-“Middle truths” always take the form of a truth, followed by a lie. “Zeus is a pagan superstition” is a true statement, which was openly made by Christian proselytisers. The lie that followed was: “Yahweh is not a pagan superstition, but a real and living God”.
+### "Srednje resnice"
 
-We can personalise this a little bit more with an example that will be familiar to anyone who has ever counselled a dysfunctional friend. “My last boyfriend was a real jerk”, she will say, and you will fervently agree. “My new boyfriend is really *great* though”, she will add, and you will try not to roll your eyes.
+Pokličimo opozicijska načela, ki prebivajo v "ničelnem območju" - med občutkom in konceptualno usklajenostjo - "srednjimi resnicami".
 
-It is very hard not to replace one illusion with another.
+Te "srednje resnice" so najnevarnejše iluzije vseh, ker dajejo videz resnice, medtem ko dejansko napadajo * resnico *.
 
-“The British government is a tyranny!” cried the American revolutionaries in the eighteenth century – and, after evicting the British troops, they then set up their own government and started attacking their own citizens.
+Z zagotavljanjem iluzije, da smo ugotovili resnico, "srednje resnice" dejansko preprečujejo, da bi pridobili resnico. So zadnja obrambna linija za fantazijo, plenilstvo in izkoriščanje.
 
-“Aristocracy is an unjust abomination!” cried other revolutionaries, who then set up the tyranny of the majority in the form of democracy.
 
-“Middle truths” can also exist in science, and similarly prevent the natural progress from the little truths to the great truths. Until the eighteenth century, for instance, biologists believed in “spontaneous generation”, or the idea that life can spring from nonliving matter. This had never been observed, of course, but conformed to ancient writings both philosophical and religious, and so was accepted as fact. Also, prior to the Einsteinian revolution in 1905, light was believed to move through a fixed and invisible substance called “luminiferous ether”, just as sound waves move through air. No scientist who believed in this theory had any empirical evidence for this “ether”, either personally or scientifically – but it was considered necessary to conform to other observable characteristics.
+Ker niso le iracionalne, ampak * anti * - racionalne, "srednje resnice" ostajajo neskončno prilagodljive - dokler služijo tistim na oblasti. Na primer, krščanstvo je izhajalo iz naraščajočega fašizma poznega rimskega cesarstva, deloma z izklesanjem na "primitivnih" vražjih obstoječih teologij. "Pozabi svoje stare bogove, imamo povsem novega Boga, ki je veliko boljši!"
 
-Religion is also another “middle truth” – one of the most dangerous ones. It is true that we are a unique species in the universe, as far as we know. A giraffe is a taller quadruped, but man is not just a “smarter” primate, but something quite different. The nature of that difference remains largely unknown – the religious explanation of “we are not the same as animals because we have a soul and were created by a God” is just another example of a “middle truth”. It is true that we are very different from animals. It is not true that we were created by a god and have a soul.
+"Srednje resnice" so vedno v obliki resnice, sledi laž. "Zeus je pogansko vraževerje" je prava izjava, ki so jo odkrili krščanski proselytisci. Laž, ki je sledila, je bilo: "GOSPOD ni poganski vražever, ampak pravi in živi Bog".
 
-Just as some parasites cannot take root until they dislodge the prior parasites, “middle truths” only attack previous illusions *so that they can take their place*. Those who are sceptical of the prior fantasies are drawn towards the new fantasy. Thus does Christianity displace paganism, Marxism displace Christianity, post-modernism displace Marxism, democracy displace aristocracy, and so on.
+To lahko nekoliko bolj prilagajamo z zgledom, ki bo znan vsakomur, ki je kdaj svetoval pri disfunkcionalnem prijatelju. "Moj zadnji fant je bil pravi kreten", ona bo rekla, in se boste resno strinjali. "Moj novi fant je resnično * super", čeprav ", bo dodala, in boste poskušali ne zavijati zi očmi.
 
-Until the great truths are achieved, and united with the little truths, “middle truths” are just a rotating phalanx of exploitive and destructive falsehoods – specifically designed to prevent the achievement of the great truths.
 
-And the great truths are always achieved from the little truths.
+Zelo težko je zamenjati eno iluzijo z drugo.
 
-The world falls because a rock falls.
+"Britanska vlada je tiranija!" so v osemnajstem stoletju zavpili ameriški revolucionarji in po izselitvi britanskih vojakov ustanovili svojo vlado in začeli napadati svoje državljane.
 
-### "Middle Truths" And Exploitation
+"Aristokracija je nepravična gnusoba!" so zavpil drugi revolucionarji, ki so nato postavili tiranijo večine v obliki demokracije.
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial”. If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+"Srednje resnice" lahko obstajajo tudi v znanosti in podobno preprečujejo naravni napredek od majhnih resnic do velikih resnic. Do osemnajstega stoletja biologi verjamejo v "spontano generacijo" ali na idejo, da lahko življenje izvira iz neaktivnih snovi. To se seveda ni nikoli opazilo, temveč se je skladovalo s starodavnimi zapisi, tako filozofskimi kot verskimi, in je bilo torej sprejeto kot dejstvo. Tudi pred Einsteinovo revolucijo leta 1905 se je verjelo, da se  svetloba giba skozi fiksno in nevidno snov, imenovano "luminiferni eter", prav tako kot se zvočni valovi gibljejo skozi zrak. Noben znanstvenik, ki je verjel v te teorije, ni imel nobenega empiričnega dokaza za ta "eter", niti osebno niti znanstveno - vendar se je zdelo potrebno, da se prilagodi drugim opaznim značilnostim.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+Religija je tudi druga "srednja resnica" - ena izmed najnevarnejših. Res je, da smo edinstvena vrsta v vesolju, kolikor vemo. Žirafa je višja, četudi človek ni le "pametnejši" primat, temveč nekaj drugega. Narava te razlike ostaja v glavnem neznana - religiozna razlaga "nismo enaki kot živali, ker imamo dušo in jih je ustvaril Bog" je le še en primer "srednje resnice". Res je, da smo zelo različni od živali. Ni res, da nas je ustvaril bog in da imamo dušo.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+Tako kot nekateri paraziti ne morejo koreniti, dokler ne odstrani predhodnih zajedavcev, "srednje resnice" napadajo zgolj prejšnje iluzije *, tako da lahko sprejmejo svoje mesto *. Tisti, ki so skeptični glede predhodnih fantazij, so usmerjeni v novo fantazijo. Tako krščanstvo zamenjuje paganizem, marksizem zamenja krščanstvo, postmodernizem zamenja marksizem, demokracija preseli aristokracijo in tako naprej.
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+Dokler se ne dosežejo velike resnice in se združijo z malo resnicami, so "srednje resnice" le rotirajoča falanga eksplozivnih in uničujočih napačnih besed, posebej namenjenih preprečevanju doseganja velikih resnic.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+Velike resnice se vedno dosežejo z malo resnicami.
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+Svet pade, ker pada skala.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+### "Srednje resnice" in izkoriščanje
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+Biološko, parazitizem je popolnoma preživela strategija za preživetje mnogih bitij. Če ni etičnih norm, je kradenje energije in virov drugih bitij popolnoma smiselno. Na splošno je najbolj trajnostna in stabilna oblika parazitizma * simbioza * ali obojestransko koristen soobstoj. Tako bakterije, ki nasijo v črevesje, pomagajo preživeti tako, da nam pomagajo prebaviti našo hrano.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+Vendar pa se virus, ki nas neprestano izčrpava in komaj ostanemo  živi, teško rečemo, da je koristino kot "obojestransko koristen". Če razmišljamo o naši dolgi in mračni zgodovini nesreče, stradanja, vojne, bolezni in revščine - in ga primerjamo s presenetljivimi materialnimi uspehi modernosti - je jasno, da je oblika parazitizma tiranizirala naše misli in zmožnosti tisočletja. Zdaj, ko je zadnjih nekaj sto let pokazala moč in ustvarjalnost človeškega duha, si lahko ogledamo našo vrsto kot organizem, ki je pretresel groznega parazita in se iztegnil iz neskončne plavajoče smrtne postelje, da bi izvedel najbolj presenetljive podvige gimnastike.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+Ko se zdravimo zaradi bolezni, se počutimo bolje, vendar bolezen ne. Z vidika virusa črnih koz je cepivo proti črnim kozam genocidno.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+Na enak način paraziti, ki zadavijo človeštvo, vidijo svobodo večine z grozo. Ker jih parazitizem osvobodi zahtev resničnosti - da zaslužijo vsakodnevni kruh - neizogibno gledajo na svobodo mase kot obliko zasužnjevanja zase. Tako bi kmet gledal "osvoboditev" svoje živine kot popolno katastrofo…
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+Vzpostavljanje resnice nujno omejuje domišljijo. Omejitev fantazije nujno omejuje izkoriščanje. Če te lahko prepričam, da sem živi človek, Bog, in da mi Bog, ki si me rodil, želi, da mi daš deset odstotkov svojega dohodka ali pa boš kaznovan za večnost, potem postanem preveč bogat. Jaz sem parazit iluzij in odvisen je od teh iluzij za mojo preživetje, kot je zagotovo, ker se gliva opira na toploto, vlažnost in temo.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths”, which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Tisti, ki uporabljajo moralne fantazije za izkoriščanje človeštva, so se z zobmi in žebletmi vedno borili proti tistim, ki ogrožajo preživljanje z odkrivanjem in razširjanjem resnice.
 
-### Effective Parasitism
+Poznamo primer mafije, ki ogroža potencialne tekmovalce s pohabljanjem in smrtjo ali spektakel verskih sektov, ki se napadajo drug na drugega, ali ena vlada napada druge.
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Ko filozofi razkrijejo lažne podatke, ki so potrebni za nadaljnje izkoriščanje, pa idealno ne iščejo sebe kot tekmeci. Ne želijo * nadomestiti * mafije ali cerkve - želijo jih popolnoma odpraviti.
 
-This is an example of a “little truth”, which is: “Stealing from me is wrong”.
+Sodobnejša analogija bi bila odnos med državo, lobisti in davkoplačevalci. Lobisti bodo močno napadli druge lobiste, ki tekmujejo za iste davčne dolarje. Vendar pa si predstavljajte, kako bi se * vsi * lobisti združili, da bi napadli vsakogar, ki je predlagal odpravo države kot institucije.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Paraziti se bodo agresivno tekmovali med seboj za omejene vire gostitelja - vendar je v njihovem najboljšem interesu združiti skupaj, da napadajo vse, kar grozi, da bi odstranili gostitelja.
 
-This is an example of a “middle truth”, which obscures a “great truth”, which is that “stealing is wrong”.
 
-This book will focus on exposing and destroying these false “middle truths”. I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Na ta način se v vsaki družbi, kjer sta država in cerkev nominalno ločeni, vsaka entiteta tekmuje za pristaše. Če se cerkev začne izgubljati, bo država agresivno zaposlovala domoljubje - kar bi povzročilo sekularni socializem. Kjer se država začne znebiti tleh, bo cerkev agresivno pritegnila pristaše - kar bo povzročilo verski fundamentalizem, pogosto z odtenki libertarijanstva.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Vendar pa so filozofi, ki nasprotujejo * vsem * intelektualnim napakam, zaprti sovražniki vseh parazitov, ki hranijo iluzije. "Velike resnice" fizike odpravljajo potrebo po nadnaravnih sredstvih in onemogočajo čudeže. Razlagalna moč znanosti v celoti izpodriva religiozne fikcije, ki maskerejo kot znanje o fizičnem svetu.
+
+
+Znanstvena metoda zahteva, da se vsako tezo podpira z dokazi in racionalnostjo. Ker ni dokazov za bogove - in samo- *ideja * bogov je navznoter samo-protislovna - teza "bogovi obstajajo" ne morejo stati. Neizogibno je, da verski paraziti poskušajo braniti svojo tezo, tako da poskušajo razdeliti realnost v "dve kraljesti" - znanstveni in duhovni. Vendar pa ni nobenega dokaza o obstoju tega "duhovnega" območja v sedanjosti, temveč za vzporedni ves Platonovih "Obrazcev" pred dvatisočpetsto leti.
+
+Tako vzpostavitev dosledne in univerzalne resnice nujno omejuje in uničuje izkoriščevalski potencial iluzije. Zlasti so "velike resnice", ki so univerzalne in dosledne, odvečne in smešne "srednje resnice" - ki so dejansko izkoriščene fantazije. Poznamo "srednjo resnico" vere; nekaj drugih bo preučenih in razkritih tukaj, od katerih lahko nekateri šokirajo.
+
+### Učinkovit parazitizem
+
+Najbolj učinkoviti paraziti - ali virusi - so tisti, ki zavarujejo telo v ravnodušnost. Naši imunski sistemi so zasnovani tako, da napadajo tuje snovi v telesu, jih izolirajo in ubijajo. Bojimo se HIV in raka, zlasti zato, ker lahko obidejo naše imunske sisteme. Isto tehniko uporabljajo intelektualni paraziti, da onemogočijo obrambne sisteme tistih, ki so jim žrtve.
+
+Če te tujec napade v uličico in zahteva svoj denar, vas bo zgrožen in grozljiv. Lahko se boriš nazaj, lahko tečeš ali pa mu daš denarnico, vendar bi ostala šokirana, jezna in prestrašena zaradi interakcije. Ko boste ponovili zgodbo, bi to povedali na način, ki je okrepil osnovno in grdo kršitev vaših osebnih in premoženjskih pravic. Drugi bi čutili sočutje za vaše težave in bi se izognili omenjeni ulici v prihodnosti.
+
+
+To je primer "majhne resnice", ki je: "Kraja od mene je narobe".
+
+Toda, ko vam vladni agent pošlje zahtevo, da mu plačate denar, se boste morda počutili do neke mere ponižani, vendar ne bi povezali zgodbe z isto grozo in ogorčenjem pri svojih prijateljih.
+
+To je primer "srednje resnice", ki ovira "veliko resnico", kar pomeni, da je "kraja napačno".
+
+Ta knjiga se bo osredotočila na izpostavljanje in uničevanje teh lažnih "srednjih resnic". Menim, da človeštvo trpi neskončno pod tiranijo lažnih etičnih "srednjih resnic", ki upravičujejo uničujoče svetovne poglede verskega praznoverja, sekularnega despotizma in kulta družine.
+
+Moja teza v tej knjigi je, da v etiki, kot v vsaki drugi intelektualni disciplini, velike resnice izhajajo neposredno iz majhnih resnic. Dezorientirana megla "srednjih resnic" je peklenska pot za krmarjenje, vendar se je vredno boriti, ker je edina temeljna alternativa resnici izkoriščanje, uničenje - in, neizogibno, prezgodaj umiranje milijonov.

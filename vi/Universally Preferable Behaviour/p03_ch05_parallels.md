@@ -1,75 +1,75 @@
-## Parallels
+## Sự song hành
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Trước cuộc cách mạng khoa học, con người vẫn không thể tưởng tượng được rằng thế giới tự nhiên có khả năng tự duy trì mà không cần chú trọng vào chủ thể ý thức và “đạo đức”. Mặt trời mọc theo sau chuỗi của một chiếc xe ngựa siêu nhiên; mặt trăng là người anh em cô đơn và lạnh lùng của mặt trời. Các chòm sao vẽ nên những câu chuyện cổ tích và những ngôi mộ của Chúa trời, và những cơn bão khởi nguồn từ cơn thịnh nộ của quỷ dữ.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Quan niệm rằng thiên nhiên là một hệ thống tự tạo và tự duy trì gần như là phi thường. Cuộc cách mạng mang tên Darwin, với quan niệm rằng sự sống không được tạo ra mà là được tiến hóa, đã mang ý tưởng này vào thế giới sinh học.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Trước khi khoa học tồn tại, ý thức đạo đức luôn là trung tâm của mỗi hệ thống phức tạp. Nếu không có nó, hệ thống sẽ trở nên hỗn loạn và ngừng tồn tại.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Nói một cách độ lượng nhất thì thật không may rằng thứ “ý thức đạo đức” này chỉ hoàn toàn là ảo giác. Chẳng có thượng đế nào tồn tại - tất cả những thứ đó *được* tồn tại theo những lời tuyên bố của các linh mục. Chính vì thế điểm thật sự mấu chốt chính là khuynh hướng của những cá nhân phi lý mà không hề nhận thức được bản thân họ điên rồ như thế nào.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Chúng ta vẫn chưa áp dụng được sự khai sáng này vào những quan niệm của xã hội - nhưng hiện tại chúng ta *thật sự* cần phải làm điều này.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government”. In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Chúng ta cho rằng thật thiết yếu khi đặt một chủ thể có đạo đức tốt - cái được gọi là “chính phủ” tại trung tâm của xã hội. Nếu không có chủ thể này, chúng ta cho rằng sẽ thật hiển nhiên khi xã hội trở nên hỗn độn và ngừng hoạt động - cũng giống như cách tổ tiên chúng ta nghĩ rằng với sự vắng mặt của Chúa trời, vũ trụ sẽ hỗn loạn và ngừng tồn tại.
 
-However, “the government” no more exists than “god” exists.
+Tuy nhiên, sự tồn tại của “chính quyền” chẳng khác gì sự tồn tại của “Chúa”.
 
-When we speak of “gods”, we are really talking about “the opinions of priests”.
+Khi chúng ta nói về “Chúa”, điều chúng ta đang thực sự nói đến là “quan điểm của các linh mục”.
 
-When we speak of “the government”, we *really* mean “the violence of a tiny minority”.
+Khi chúng ta nói về “chính quyền”, chúng ta *thật sự* muốn nói đến “sự bạo tàn của một thiểu số nhỏ”.
 
-The idea of “spontaneous order”, which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Quan niệm của “trật tự tự phát,” cái đã được chứng minh rõ ràng trong các lĩnh vực vật lý và sinh học, đối với chúng ta vẫn còn là điều không thể tưởng tượng trong lĩnh vực xã hội.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Tuy nhiên, “các chính quyền” đã không còn cần thiết cho sự tổ chức và duy trì của một xã hội hơn là “Chúa” được yêu cầu cho sự tổ chức và duy trì của vũ trụ.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+Thật ra, cũng như cách mà các tôn giáo cản trở sự phát triển của khoa học, thì các chính quyền cản trở sự phát triển của xã hội. Giống như những ảo tưởng của *tôn giáo* đã gây ra hàng trăm triệu cái chết xuyên suốt lịch sử, những ảo tưởng của *chính quyền* cũng làm điều tương tự.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Giống như cái cách mà đạo đức sai trái “biện minh” cho tất cả những hành động bất lương, đồi trụy và bạo lực, thì đạo đức sai trái của các chính quyền cũng vậy. Khi chũng ta chọn cách sống bằng sự tưởng tượng, sẽ không tránh khỏi việc chọn lấy sự huye diệt, dù là dạng này hay dạng khác.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Khi chúng ta chọn cách vận hành xã hội theo những thần thoại về đạo đức và tôn giáo, rốt cuộc chúng ta sẽ kết thúc với những cuộc chiến tranh, bạo lực, đàn áp, lạm dụng, tham nhũng và đạo đức giả không kết thúc. 
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Khi chúng ta chọn cách vận hành xã hội dựa vào việc *tán thành* những thần thoại về đạo đức, kết quả chẳng có gì khác biệt.
 
-We can either choose virtue or compulsion.
+Chúng ta có thể chọn giữa đức hạnh và sự ép buộc.
 
-We cannot have both.
+Chúng ta không thể có cả hai thứ được.
 
-### Solutions
+### Những Giải pháp
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy”, and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Chúng ta có thể chọn cách tin rằng chính quyền là một thể chế đạo đức và cần thiết. Chúng ta có thể chọn cách tin rằng không có chính quyền, xã hội sẽ rơi vào “tình trạng hỗn độn”, và thế giới sẽ chuyển sang chiến tranh lẫn nhau. Chúng ta có thể chọn tin rằng không có chính quyền, sẽ chẳng có đường xá, giáo dục, chăm sóc sức khỏe, lương hưu, thư viện hay bảo vệ tài sản, vân vân.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+Những sự mê tín dị đoan tương tự, dĩ nhiên, đã làm trì trệ sự tiến bộ của nhân loại xuyên suốt lịch sử. Điềm báo đáng kể nhất đối với những gì UPB tiết lộ về chính phủ là những gì khoa học tiết lộ về tôn giáo.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy”, and that civilisation would dissolve into a war of all against all.
+Khi mà khoa học thực tế đã bắt đầu mặc nhiên công nhận một vũ trụ vận hành mà không có Chúa trời, tất cả các hành vi cuồng loạn kêu gào rằng sự diệt vong của thế giới đang gần kề, rằng xã hội sẽ rơi vào “tình trạng hỗn độn”, rằng nền văn minh sẽ chuyển sang chiến tranh lẫn nhau.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+Bất cứ thời điểm nào một hệ thống đi bào chữa cho quyền lực có thể được hình thành để vận hành mà *không* có quyền lực đó, tất cả những người có lợi từ việc thao túng quyền lực đó sẽ kêu gào rằng không có họ, tất cả đều sẽ bị mất đi.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+Các linh mục đã làm điều này trong thời kì bắt đầu của cuộc cách mạng khoa học. Không có Chúa, cuộc sống không có ý nghĩa. Không có Chúa, con người không có đạo đức. Không có Chúa, linh hồn của chúng ta không thể được cứu rỗi. Không có Chúa, thế giới sẽ rơi vào hỗn loạn và tàn ác.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Dĩ nhiên, không có gì trong số những điều này là đúng. Thật ra, điều *ngược lại* hoàn toàn đã trở thành sự thật. Tôn giáo kết thúc khi mà quan điểm của thế giới có ảnh hưởng lớn đã mở đường cho sự chia cắt của nhà thờ và nhà nước, sự kết thúc của tầng lớp quý tộc, sự nổi lên của thị trường tự do, sự thiết lập quyền tự do của con người trong những lĩnh vực quan trọng của thế giới.
 
-The fall of God was the rise of mankind.
+Sự sụp đổ của Chúa chính là sự thăng tiến của loài người.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Cũng bằng cách đó, khi chúng ta bắt đầu nhìn nhận xã hội như cái cách mà những nhà khoa học ban đầu nhìn nhận vũ trụ - như một hệ thống tự duy trì mà không cần đến một chính quyền trung ương không có thật - khi đó chúng ta có thể thật sự bắt đầu nhìn nhận những triển vọng trong tự do của nhân loại.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+Việc thành lập một trung ương và sự độc tôn cưỡng ép trong xã hội vĩnh viễn làm trì trệ sự phát triển của tri thức, trí tuệ, phẩm hạnh, sức khoẻ thể chất và tinh thần - cũng như việc thành lập một trung ương và sự độc tôn cưỡng ép trong *vũ trụ* đã vĩnh viễn làm trì hoãn sự tiến bộ của tri thức, trí tuệ và khoa học.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Cách để chống lại các thực thể ảo chính là sự thật tàn nhẫn. Cách để chống lại Chúa trời chính là lý do, chứng cớ và khoa học.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Cách chống lại nhà nước - thực thể ảo tưởng nguy hiểm nhất - là với lý do, bằng chứng và khoa học.
 
-### The Future
+### Tương lai
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Dù chúng ta có thích hay không, UPB áp dụng cho mọi thứ chúng ta làm. Con người có bản năng về tính nhất quán, vì chúng ta là những sự sống với lý trí, sống trong một vũ trụ nhất quán và có chừng mực. Chính vì thế, bất cứ tiền đề nào chúng ta chấp nhận trong cuộc sống có xu hướng thúc ép hành vi phải ngày càng nhất quán hơn trong suốt cuộc đời của chúng ta – cũng như là trong suốt “cuộc đời” của nền văn hoá hay các quốc gia.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Chính vì thế nếu một người tin rằng bắt nạt là cách tốt để đạt được thứ họ muốn thì họ sẽ có khuynh hướng bắt nạt ngày càng nhiều hơn trong suốt quãng đời của họ. một người tin rằng bạo lực là tốt có xu hướng trở nên ngày càng bạo lực hơn.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Nói một cách khác, UPB yêu cầu sự nhất quán thậm chí là trong sự không nhất quán. UPB đòi hỏi sự đồng bộ thậm chí trong sự trái đạo đức. 
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Do đó, các tiền đề đạo đức gốc rễ của một nền văn hoá tuyên bố rằng tương lai là không thể tránh khỏi. Một nền văn hoá được xây dựng dựa trên sự bào chữa cho sự áp bức sẽ luôn luôn trở nên áp bức hơn. Một nền văn hoá được xây dựng trên quyền tự do có chừng mực sẽ luôn ít áp bức hơn.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Đó là lý do tại sao việc phác họa một khuôn khổ hợp lý cho đạo đức là rất cần thiết.
 
-What we believe is what we become.
+Đó là cái mà chúng ta tin chúng ta sẽ trở thành.
 
-If we believe lies, we shall become slaves.
+Nếu chúng ta tin vào những điều dối trá, chúng ta sẽ trở thành nô lệ.

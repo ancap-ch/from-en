@@ -150,6 +150,39 @@ content_files:
   -
     - 03_p02_ch14_3.md
     - ""
+  -
+    - 03_p02_ch15.md
+    - ""
+  -
+    - 03_p02_ch15_01.md
+    - ""
+  -
+    - 03_p02_ch15_02.md
+    - ""
+  -
+    - 03_p02_ch15_03.md
+    - ""
+  -
+    - 03_p02_ch15_04.md
+    - ""
+  -
+    - 03_p02_ch15_05.md
+    - ""
+  -
+    - 04_apx.md
+    - ""
+  -
+    - 04_apx_01.md
+    - ""
+  -
+    - 04_apx_02.md
+    - ""
+  -
+    - 04_apx_03.md
+    - ""
+  -
+    - 04_apx_04.md
+    - ""
 translation:
   language: ur-IN
   is_translation: true
