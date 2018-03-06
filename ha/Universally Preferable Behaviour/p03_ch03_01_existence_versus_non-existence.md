@@ -54,53 +54,53 @@ Al’umma yana ci gaba da daidai da yadda ana samun ilimi da hujjoji daga tsakan
 
 Da yake cewa gwamnati tana aiki a karkashin akisan dokoki na halin kirki daga sauran al'ummomi daidai yake da cewa, "aljanu ba su da nauyi." Da farko, aljanu ba su a raye - kuma daya daga cikin hanyoyin da muka san cewa babu su shine cewa an yi iƙirari cewa basu da nauyi. Duk abin da yake da rai dole ne yana da nauyi – in basa da nauyi kenan babu shi, saboda da haka ba ya wanzu ba. Maganar ga "aljani ba ta da nauyi " tana da tsinkaya mai banzan maimaitawa, wanda kawai ya tabbatar da rashin kasancewa na aljanu - yana daidai da cewa "abin da ba ya wanzu, ba ya wanzu ba." A shi ne A, farkon ka'idar basira na Aristotle, yana da mahimmanci kaɗan a wajen tabbatar da wanzuwar abin da aka bayyana a matsayin abu da babu shi.
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+Haka kuma, idan muka ce yana da kyau ga sojoji su kashe da wakilan gwamnati su sata (ko su anshi haraji), mun sani cewa "sojoji" da "wakilan gwamnati" a matsayin dabi'un halayen kirki *basu da kyau*.
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+Idan nace marabba’i na da daman sata, ina cewa kawai abin da ba zai iya wanzu yana da hakkin ya yi abin da yana da rikitarwa–amma wannan tunani,maganar banza mai marar kyau, ya kasance mai ban sha'awa a cikin "rukunin duniya mai sarari" Na siyasa.
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+Idan na saya kaya na soja a shagon gwanjo, kuma na sa shi, lallai ban halicci wata bangare mai sarari a inda akisan dokoki na halin kirki zasu iya aiki. A lokacin kafin na sa kayan, bai zama daidai ba in kashe mutum - yaushe ne kuma ya zama * dama * in kashe mutum? Shin a lokacin da na sawando ne? Shin idan ina da wandon, amma baburigan sama ba? Minenekuma idan ina da takalma kafa guda kawai? Minene idan hullata ya dawo ta baya? Minene kuma idan na sa tufafi wanda mutum na farko da na iske bai san shi ba? Shin sun rasa wannan dama a lokacin da suka cire jaketansu?
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+Na yi waɗannan tambayoyin saboda sun kasance babban tsanania gaske. A bayyane, kayan aikin soja bai canza dabi'ar mutum ba, kuma yankin gashi baya sa shi komoagwagwa, wani ra'ayi, ko wani allah.
 
-“Ah”, you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D”.
+"Ah," za ku iya cewa, "amma tufafi ba na kwarai ba ne saboda kun samun shi a wani kantina sayar da kayan gwanjo–in ka satufafi na soja ba zai sa ka soja bafiye da hoton takardun shaida zai ba kadigiri."
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+Misali ba daidai ba ne, saboda samun babban digiri ko hoton takardun digiri ba zai canza kowane ka'idar dabi'un da aka ba ku ba a matsayin mutum.
 
-“Well”, you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on”.
+"To," za ku iya amsawa, "amma bambancin shine cewa soja yana da dama da 'yan kasa ke ba shi, don kare kansu da ayyukan tsaro da sauransu."
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Wannan ya haifar da wani abu mai ban sha'awa, wanda shine ko ko ra'ayin zai iya canja gaskiya.
 
-### Opinions And Reality
+### Ra'ayi Da Gaskiya
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+A bayyane, mun fahimci cewa ba zan iya ta hanyar ra'ayi na ƙuntatarku ba daga ƙarfin maganaɗisun ƙasa, saboda ko ra'ayi na ya ce "biyu da biyu ta yi daidai da biyar" ba zai canza gaskiya ba.
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+"Ra’ayi" su ne waɗannantunani waɗanda ba su da wata shaida a gaskiya, ko kuma babu wata hujja da za a iya ba da ita, ko kuma abin da ya shafisha’awa na kanka kawai. Ra'ayi na shine na fi son gurasar cakulan bisa ga alewa - Zan iya samun wasu "ra'ayi" kuma cewa kasan Iceland wani aljanna ne, ko akwai Allah, ko ruwan sama na wadowa ta sama-sama ba ta kasa-kasa ba. Da yake ra’ayin mutum ba su da wani abu game da halin kirki; ra'ayoyin da suke da'awar sun bayyana ainihin gaskiya, amma abin da ba haka ba ne, duk son kai na kuma marar daidai ne. Saboda in ka yarda da cewa ruwan sama tana wuce sama-sama, ba kasa-kasa ne ba, ba zai canza hanyar wannan ruwan sama ba daga kasa zuwa sama.
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+Ta haka gaskantawa cewa kisan kai yana da kyau na dabi'un ba zai sa kisan kai ta hanyar kirki ba. Tun da ra’ayi na game da mutum bai canza halin kirkinsa ba, Kenan ra’ayi na cewa kisan kai abu mai nagarta ne bazai canja muguntar ayyukansa ba. Idan na rufe idanuna kuma ina tunanin kai kaɗangare ne, ba zato ba tsammani ba za ka rasa ikon yin gyaran jikin ka ba. 
 
-Opinions do not change reality.
+Ra’ayi ba sa canza gaskiya.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder”, any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Saboda ra'ayoyin ba su canja gaskiya ba, kenan son na ka ba zai iya rabuwarka daga ka’idojin duniya. Tun da ka'idodin halin kirki sun dogara ne akan tsarin duniya, da kuma yanayin hali da gaskiyar dan Adam, ba zan iya ba ku "dama na kisan kai ba," ko kuma damar yin tsahi ba, tafiya akan ruwa ko kuma damar cewa biyu da biyu za su yi biyar.
 
-### Government As Voluntarism
+### gwamnati a matsayin mai aikin sa kai
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room”. Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+Ƙungiyar da take da karfi ta ƙunshi ginin gwamnati – wato, daman nan wanda ta canza ma ka'idojin dabi'un ga wasu ƙungiyoyi na mutane - abu ne da aka dakatar da shi kullum a cikin muhawara. Lokacin Da yake in ana magana game da gwamnati, ba a taba nuna "bindiga a cikin dakin" wato mugun da su ka yi. A cikin ma'ana, gwamnatoci an kafa su ne tare da izinin mutane, kuma suyi aiki tare da amincewar na su.
 
-However, this is pure nonsense.
+Duk da haka, wannan mummunar magana ce.
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+Idan mutum yana riƙe da wuka ga wuyan mace yayin da yake yin jima'i da ita, wannan yin fyaɗe ne. Ba zai iya cewa wannan jima'in tare da yarjejeniyar juna ne, yayin da yana yi ma ta barazanar da rauni ko mutuwa idan ta ƙi yin jima'i da shi. Idan jima'in da son rai ne, to, ba a bukatar wukan. Idan mutumin yana jin buƙatar wuka, to, a fili shine jima'i ba ta son rai ba.
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+Haka kuma, mutane sun ce haraji yana cikin ɓangare na alkawarin juna da suka amince da su.
 
-This is both logically and empirically false.
+Ma’anar wannan yana daidai da karya ne. 
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+Mun san cewa wannan karya ne saboda *babu alkawarinjuna*. Babu wanda ya taba sa hannu kan takardun ba don yarda da harajin kuɗin aikinka - an haife mu ne kawai cikin tsarin da ke karɓar kuɗinmutare da bindiga. 
 
-### The Gun In The Room
+### Bindiga a cikin ɗaki
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Mutane da yawa za su yi jayayya a wannan batu cewa ba a tilasta haraji ba ne tare da bindiga, amma dai mutane su na biya shi da son rai. A misali, ban taɓa gan bindiga ba tare da mai karɓar haraji ko kuma 'yan sanda, amma ina biya harajina shekaru da yawa.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+Wannan na iya zama gaskiya, amma wannan banza ne. Idan na gaya wa mace cewa zan kashe 'ya'yanta idan ba ta yi jima'i da ni ba, kuma ta ba ni kanta, mun fahimci cewa na aikata mugun abu - ko da yake ban yi amfani da wani makami ba. A bayyane yake, idan matar ta bi ni, saboda tsoron ta kada in yi barazanar. Idan na gaya mata cewa yar tsanata zai kashe 'ya'yanta idan ba ta yi jima'i da ni ba, za ta yi matukar damuwa, amma ba za ta ji tsoron barazanar da nake ba, tun da yake ba zai yiwu ba yar tsana ta kashe ma ta yara. Ko kuma, idan na mutu, kuma takardar nawa ta odar gado ya bayyana cewa zan kashe 'yan matan nan idan ba ta yi jima'i da ni, a fili za ta ji daɗi maimakon jin tsoro, tun da ba zan iya yin barazana ba daga cikin kabarin. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
 
 To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
 
