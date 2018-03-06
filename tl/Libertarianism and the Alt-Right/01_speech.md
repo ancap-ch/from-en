@@ -148,7 +148,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^11]: Sino, tiyak, ang dahilan kung bakit inanyayahan sila dito.
 
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+[^12]: Alin ang ganap na magkatugma sa libertaryanismo at ang *desideratum* ang kalayaan ng asosasyon at pagsalungat sa pinilit na pagsasama.
 
 [^13]: Which is antithetical to libertarianism and inimical to human prosperity.
 
