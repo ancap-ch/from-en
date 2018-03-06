@@ -32,11 +32,11 @@ Kaya dapat pumunta kami sa pagpipilian na dalawa, na kung saan ay may mga umiira
 
 Ang isang dalub-agham na nakuha ng mga kanibals ay maaaring magpanggap na isang bruha-manggagamot upang makatakas - hindi ito nangangahulugan na dapat nating bale-walain ang pang-agham na pamamaraan bilang lubos na hindi wasto.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
+Katulad sa paraan, maaaring magkaroon ng matinding kalagayan kung saan maaari nating piliin na gumawa ng imoral na mga pagkilos, pero ang mga sitwasyong iyon ay hindi nagpawalang-bisa sa agham ng moralidad, anuman ang paminsan-minsang mutasyon na nagpawalang-bisa sa agham ng aghambuhay. Sa katunayan, ang agham ng aghambuhay ay lubhang mas una sa pagbago sa pamamagitan ng pagtanggap at pagsusuri - at katulad nito, ang agham ng etika ay pinatitibay lamang sa pamamagitan ng pagsusuri ng "mga sitwasyon ng segundo," hangga't ang eksaminasyon ay hindi hinuhubaran nang obsessively.
 
-### Universality And Exceptions
+### Pang-Pamantasan At Mga Pagbubukod
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Bago tayo magsimula sa paggamit ng ating balangkas ng Universally Preferable Behavior upang masuri ang ilang karaniwang mga etikal na paniniwala, kailangan nating harapin ang tanong ng "mga pagbubukod."
 
 Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
