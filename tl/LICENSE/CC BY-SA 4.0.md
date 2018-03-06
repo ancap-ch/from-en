@@ -138,7 +138,7 @@ c. Ang pagtatatuwa sa mga garantiya at limitasyon ng sagutin sa kundisyong sa it
 
 a. Ang Pampublikong Lisensya at mga gagamitin para sa termino ng Kopirayt at Katulad sa Karapatan na lisensyado dito. Ganunpaman, kung nabigo ka sa pagsunod sa Lisensya ng Pampublikong ito, pagkatapos ay ang iyong mga karapatan sa ilalim ng Pampublikong Lisensya na ito ay awtomatikong tapusin.
 
-b. Where Your right to use the Licensed Material has terminated under Section 6(a), it reinstates:
+b. Kung saan ang iyong karapata na gamitin ang Materyales ng Lisensya ay tinapos sa ilalim ng Seksyon 6(a), ito ay nagbabalik:
 
 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
 
