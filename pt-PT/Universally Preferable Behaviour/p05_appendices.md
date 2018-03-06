@@ -12,16 +12,16 @@ Por favor, encontre abaixo um sumário do argumento principal para a moralidade.
 6. As "Preferências" são necessárias para a vida, pensamento, linguagem e debate.
 7. Debater exige que ambas partes mantenham a "verdade" objectiva e universalmente preferível.
 8. Assim, o próprio acto de debater contém a aceitação de um comportamento universalmente preferível (CUP).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+9. As teorias relativas ao CUP devem passar nos testes de coerência lógica e verificação empírica.
+10. O subconjunto do CUP que examina o comportamento requerido é chamado "moralidade"
+11. Como um subconjunto do CUP, nenhuma teoria moral pode ser considerada verdadeira se for ilógica, ou não baseada em evidências empíricas.
+12. As teorias morais fundamentadas na lógica e na evidência são verdadeiras. Todas as outras teorias morais são falsas.
 
-## Appendix B: Moral Categories
+## Apêndice B: Categorias Morais
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Abaixo está uma tabela de exemplos que enuncia algumas das categorias mais comuns de acções/regras e os seus principais diferenciadores.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
+| Acção/Regra                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
 | --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
 | **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
 | **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
