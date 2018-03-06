@@ -154,7 +154,7 @@ d. Sections 1, 5, 6, 7, and 8 survive termination of this Public License.
 
 a. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
-b. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.t stated herein are separate from and independent of the terms and conditions of this Public License.
+b. Anumang mga pagsasaayos, pag-unawa, o mga kasunduan tungkol sa Lisensyadong Materyal na hindi nakasaad dito ay hiwalay mula sa at malaya sa mga tuntunin at kundisyon ng Pampublikong Lisensya na ito na nakasaad dito ay hiwalay sa at independiyente ng mga tuntunin at kundisyon ng Pampublikong Lisensya na ito.
 
 ### Section 8 – Interpretation.
 
