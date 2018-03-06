@@ -134,7 +134,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^4]: Ang lahat ng may-ari nito ay konektado sa isang tanikala ng boluntaryong palitan.
 
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+[^5]: Kaninong pamunuan, sa kredito nito, matapos ang tagumpay ng halalan ni Trump, mabilis na sinira si Trump nang siya ay naging isa sa pasimuno ng labanan sa presidensyal.
 
 [^6]: *Aka* Mencius Moldbug.
 
