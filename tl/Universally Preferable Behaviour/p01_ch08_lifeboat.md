@@ -8,9 +8,9 @@ A totoong daigdig, kakailanganin ng taong tumitigas ang isang taong magpaparatan
 
 Hindi ito dapat sabihin na ang pagsira sa bintana upang iligtas ang iyong buhay ay hindi mali. Ito ay, dahil ito ay isang mali na halos lahat sa atin ay pipili na mangako kaysa sa mamatay. Kung ako ay nasa gilid ng kamatayan dahil sa gutom, nais kong magnakaw ng isang mansanas. Ito ay hindi nangangahulugan na ito ay* tama* para sa akin ang nakawin ang mansanas -ito ay nangangahulugan lamang ginawa ko ito - at kailangang tangapin na makatarungan ang mga kahihinatnan ng aking pagnanakaw.[^10]
 
-### Ang Kulay Abong Lugar
+### Ang Lugar na Kulay Abo
 
-The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Katunayan ang ilang mga " lugar na kulay abo" na umiiral sa larangan ng etika ay kadalasang ginagamit bilang isang pagbibigay-katwiran para sa ranggo relatibismo. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
 This is false.
 
