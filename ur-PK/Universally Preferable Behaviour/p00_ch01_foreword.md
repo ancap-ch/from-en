@@ -22,13 +22,13 @@
 
 چونکہ ہم کائناتی اصول اخلاقیات کے معقول نظام کو واضع کرنے میں ناکام رہے، ہمیں مزہبی ڈراونی کہنیاں اپنے بچوں پر عائد کرنے پر مجبور کیا گیا، یا بندوق، حوالات، اور فوج دیتے جو چھوٹا اجارہ تھا جہاں بیجان سرکاری محاسب تھے جو اپنے آپ کو "ایک ریاست" کہتے تھے.
 
-چونکہ جس کو ہم "اخلاقیات" کہتے ہیں وہ محض موضوعی اور *تہذیبی* رہے، اور ہم نے لامحالہ دھمکانے، ڈر اور تشدد پر بھروسہ کرنا چھوڑ دیا جس کی وجہ سے سماجی حکومت لاگو ہوی. Since ethics lack the rational basis of the scientific method, “morality” remains mired in a tribal war of bloody mythologies, each gang fighting tooth and nail for control over people’s allegiance to “virtue.”
+چونکہ جس کو ہم "اخلاقیات" کہتے ہیں وہ محض موضوعی اور *تہذیبی* رہے، اور ہم نے لامحالہ دھمکانے، ڈر اور تشدد پر بھروسہ کرنا چھوڑ دیا جس کی وجہ سے سماجی حکومت لاگو ہوی. چونکہ اخلاقیات سائنسی طریقے کی کمی تھی، "اخلاق" شکار بن گئے جس میں دیوتاؤں کے قصے قبائلی خونی جنگ بن گئی، ہر کوئی گروہ اپنی طرف سے پوری کوشش میں لگا تھا کہ ہم ان لوگوں کی فضیلت کی "تابعداری" پر اختیار پا سکے.
 
-We cannot live without morality, but we cannot define morality objectively – thus we remain eternally condemned to empty lives of pompous hypocrisy, cynical dominance or pious slavery.
+ہم اخلاقیات کے بغیر نہیں رہ سکتے، لیکن ہم حقیقی طور پر اخلاقیات کی توضیع نہیں کر سکتے-اس طرح سے ہم شاندار فریب، ترش دو کے غلبے یا دیندار غلامی کی خالی زندگی کو ہمیشہ کے لئے ملمت کر گئے.
 
-Intellectually, there are no higher stakes in the world. Our failure to define objective and rational moral rules has cost hundreds of millions of human lives, in the wars of religions and states.
+دماغی طور پر، دنیا میں کوئی اونچے مفادات نہیں. ہم مقصد اور عقلی اور اخلاقی قوانین کی وضاحت کرنے میں ناکام رہےجس کی وجہ سے ہزاروں لاکھوں انسانی جانیں گیی، مزہبی اور ریاستی جنگوں میں.
 
-In many ways, the stakes are getting even higher.
+بہت سے طریقوں میں، یہ مفادات اور بھی زیادہ بڈھنے لگے ہیں.
 
 The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
 
