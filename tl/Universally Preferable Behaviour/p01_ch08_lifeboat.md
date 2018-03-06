@@ -40,9 +40,9 @@ Bago tayo magsimula sa paggamit ng ating balangkas ng Universally Preferable Beh
 
 Gamitin ang nasa itaas "mga pangyayari sa buhaybangka," ang katapusan ay madalas na iginuhit na "ang mabuti"ay simpleng *na ito ay"mabuti" para sa buhay ng isang nag iisang tao*.
 
-In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
+Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansanas kaysa sa mamatay sa gutom -ang sasabihin ko ay "oo" - ang sumusunod na kaso ay hindi magagawang maiiwasan:
 
-1. Everyone would rather steal an apple than starve to death.
+1. Lahat sila ay mas gustong magnakaw ng isang mansanas kaysa mamatay sa gutom.
 2. Thus everyone universally prefers stealing apples to death by starvation.
 3. Thus it is *universally preferable* to steal apples rather than starve to death.
 4. Thus survival is universally preferable to property rights.
