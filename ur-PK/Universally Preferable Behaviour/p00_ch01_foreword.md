@@ -30,11 +30,11 @@
 
 بہت سے طریقوں میں، یہ مفادات اور بھی زیادہ بڈھنے لگے ہیں.
 
-The increased information flow of the Internet has raised the suspicions of a new generation that what is called “virtue” is nothing more – or less – than the self-serving fairy tales of their hypocritical elders. The pious lies told by those in authority – and the complicity of those who worship them – are clearer now than ever before.
+انٹرنیٹ کی وجہ سے بڈھتی ہوی معلومات کے بہاؤ نے نیی نسل کے شک وشبہا بڈھا دیے ہیں وہ جسے "پرہیزگاری" کہتے ہیں زیادہ - یا کم - ان سے جو ان پرفریب بزرگوں کی خودمختار پریوں کی کہانیاں ہیں. اختیارات رکھنے والوں نے متقیی جھوٹ بولے - اور ان عبادت کرنے والوں کی سازشیں - پہلے سے زیادہ صاف و شفاف ہیں.
 
-“Truth” has been exposed as manipulation; “virtue” as control; “loyalty” as slavery, and what is called “morality” has been revealed as a ridiculous puppet show designed to trick weak and fearful people into enslaving themselves.
+"سچائی" کا خلاصہ دستکاری کے طور کیا گیا ہے؛ "پرہیزگاری" اختیار کے طور پر؛ "نمک حلالی"; غلامی کے طور پر؛ اور جس کو ہم "اخلاقیات" بولتے ہیں اسے ایک بدترین کٹھ پتلیوں کا کھیل بولا گیا جو کمزور اور ڈرپوک لوگوں کو ان کی غلامی کروانے کی چال تھی.
 
-This realisation has given birth to a new generation of nihilists, just as it did in nineteenth century Germany. These extreme relativists reserve their most vitriolic attacks for anyone who claims any form of certainty. This post-modern generation has outgrown the cultural bigotries of their collective histories, but now view *all* truth as mere prejudicial assertion. Like wide-eyed children who have been scarred into cynical “wisdom,” they view all communication as advertising, all claims as propaganda, and all moral exhortations as hypocritical thievery.
+اس اندازے سے ایک نئی عدمیت نسل کا آغاز ہوا، جس طرح انیسویں صدی میں جرمنی میں اس نے کیا. یہ انتہائی اضافے اپنے پرجوش حملے کو اس کے لئے موجود رکھتے ہیں جو کسی بھی قسم کے مطالبے پر یقین رکھتے ہیں. یہ مابعد جدیدیتی نسل جس نے اپنے اجتماعی تزکرے کے ثقافتی تعصب کو تجاوز کر دیا، لیکن اب *سارا* سچ محض کسی خاص خیال کی بنا پر ادعا ہوا. جیسے وسیع-انکھوں والا بچہ جس کو "ترش رو دانش" میں نشان زدہ کیا گیا، وہ تمام مواصلات کو دکھاوے کے طور پر دیکھتے ہیں، اور سب دعوے تبلیغی انجمن کے طور پر، اور سب اخلاقی نصیحتیں منافقانہ چرانے کی عادت کے طور پر.
 
 Since we have no agreement on a cohesive, objective and rational framework for evaluating moral propositions, “morality” remains mired in mysticism, and its inevitable corollary of violence. Just as, prior to the Enlightenment, religious sects warred endlessly for control over the blades of the aristocracy, so now do competing moral mythologies war for control over the state, and all its machinery of coercion.
 
