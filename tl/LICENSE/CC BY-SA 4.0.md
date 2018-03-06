@@ -156,7 +156,7 @@ a. Ang Tagapaglisensya ay hindi dapat masakop ng anumang karagdagang o iba't iba
 
 b. Anumang mga pagsasaayos, pag-unawa, o mga kasunduan tungkol sa Lisensyadong Materyal na hindi nakasaad dito ay hiwalay mula sa at malaya sa mga tuntunin at kundisyon ng Pampublikong Lisensya na ito na nakasaad dito ay hiwalay sa at independiyente ng mga tuntunin at kundisyon ng Pampublikong Lisensya na ito.
 
-### Section 8 – Interpretation.
+### Seksyon 8 – Pagpapaliwanag.
 
 a. For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
 
