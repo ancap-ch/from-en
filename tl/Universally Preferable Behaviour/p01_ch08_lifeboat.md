@@ -38,7 +38,7 @@ Katulad sa paraan, maaaring magkaroon ng matinding kalagayan kung saan maaari na
 
 Bago tayo magsimula sa paggamit ng ating balangkas ng Universally Preferable Behavior upang masuri ang ilang karaniwang mga etikal na paniniwala, kailangan nating harapin ang tanong ng "mga pagbubukod."
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Gamitin ang nasa itaas "mga pangyayari sa buhaybangka," ang katapusan ay madalas na iginuhit na "ang mabuti"ay simpleng *na ito ay"mabuti" para sa buhay ng isang nag iisang tao*.
 
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
