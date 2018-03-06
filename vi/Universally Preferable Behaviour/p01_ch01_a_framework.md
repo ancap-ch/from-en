@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Một khuôn khổ cho Đạo đức
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz”, that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Các mệnh đề đạo đức khác với các loại tuyên bố thuộc các lĩnh vực tri thức khác. Nếu tôi nói, “Tôi thích nhạc jazz,” đó có thể là một tuyên bố đúng hay sai, nhưng nó thường không được coi là ràng buộc bạn theo bất kỳ hình thức nào. Sở thích của tôi đối với nhạc jazz chỉ là một tuyên bố về sở thích cá nhân; dựa trên tuyên bố của tôi, bạn không có nghĩa vụ thích hoặc không thích nhạc jazz.
 
-Similarly, if I say “I like vegetables”, that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food”, then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream”, and, “Ice cream contains milk”.
+Tương tự, nếu tôi nói “Tôi thích rau,” đó cũng là một tuyên bố đơn thuần sở thích cá nhân. Tuy nhiên, nếu tôi nói, "rau là thực phẩm tốt cho sức khỏe", thì tôi đã chuyển từ một tuyên bố về sở thích cá nhân sang một tuyên bố về thực tế khách quan. Đó là sự khác biệt giữa “Tôi thích kem,” và “kem chứa thành phần từ sữa.”
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Sự khác biệt cơ bản giữa các tuyên bố về *ưu thích* và các tuyên bố về *thực tế* chính là các tuyên bố về thực tế thì khách quan, có thể kiểm chứng - và ràng buộc. Nếu bạn coi trọng sự thật, thì bạn phải chấp nhận thực tế là kem có chứa sữa, một khi nó đã được chứng minh.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Nếu tôi nói rằng trái đất hình tròn, và tôi cung cấp nhiều bằng chứng cho tuyên bố này, thì tuyên bố này liệu có đúng sự thật hay không không còn tùy thuộc vào ý muốn của bạn. Nếu tôi có thể chứng minh rằng trái đất hình tròn, thì bạn phải chấp nhận nó như là sự thật, trừ khi bạn sẵn sàng bác bỏ lý do và bằng chứng như là tiêu chuẩn cho sự thật.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Nếu tôi chấp nhận tính hợp lệ của các quy luật toán học, tôi không thể tự ý bác bỏ một bằng chứng toán học phù hợp với những luật đó. Nếu tôi *có* từ chối một bằng chứng như vậy, tôi không còn có thể khẳng định là đã chấp nhận tính hợp lệ của các quy luật toán học. Sự chấp nhận của tôi về các quy luật này có nghĩa là tôi *buộc phải* chấp nhận những chứng minh tuân theo những quy luật này. Việc bác bỏ bằng chứng tuân theo các tiêu chuẩn hợp lý là bác bỏ các tiêu chuẩn hợp lý nói chung.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Phương pháp khoa học, tính hợp lý và các quy luật toán học là tất cả các ví dụ về các tiêu chí *khách quan* để xây dựng sự thật của một mệnh đề. Hai cộng hai bằng bốn không phải là ý kiến của tôi - nếu bạn cũng chấp nhận rằng hai cộng hai bằng bốn, bạn không phải đưa ra một ý kiến đơn thuần, mà là một sự thật hợp lý.
 
-### Objective Truth
+### Chân lý khách quan
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Một thách thức trung tâm trong việc hiểu bản chất của chân lý là nhận ra rằng “chân lý” không tồn tại trên thế giới giống như cách mà một tảng đá hoặc cây nào đó tồn tại.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Khái niệm “chân lý” nhất thiết là một thuật ngữ tương đối - mặc dù điều đó không có nghĩa là một thuật ngữ chủ quan hay tùy ý. Khái niệm “sức khoẻ” cũng là một thuật ngữ tương đối - chúng ta so sánh “sức khoẻ” với bệnh tật, cũng như các tiêu chuẩn sức khoẻ tương đối. Những gì được coi là “sức khoẻ tốt” cho một người chín mươi tuổi hiếm khi được coi là sức khỏe tốt cho một người hai mươi tuổi. Định nghĩa về một cuộc sống lâu dài bây giờ khác nhiều so với cách đây năm trăm năm.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Tuy nhiên, điều này không có nghĩa, là khái niệm “sức khoẻ” là hoàn toàn tương đối và chủ quan. Một đứa trẻ mười tuổi chết vì bệnh bạch cầu theo bất kỳ định nghĩa nào cũng bị xếp vào loại không khỏe mạnh - giống như một người chạy bộ chạy marathon 20 tuổi thì theo bất kỳ định nghĩa nào cũng được coi là khỏe mạnh. Hiện nay, một người sống đến chín mươi tuổi về mặt thống kê đã có một cuộc đời dài, mặc dù điều đó có thể thay đổi nếu công nghệ y học đột nhiên cho phép chúng ta sống được hai trăm.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Khi định nghĩa về “sức khoẻ” của chúng ta mở rộng, nó không làm mất hiệu lực các định nghĩa trước đó, mà là mở rộng chúng. Nếu những tiến bộ về công nghệ y học cho phép những người chín mươi tuổi có thể giành chiến thắng marathon, thì định nghĩa của chúng ta về những gì là khỏe mạnh cho người già sẽ thay đổi - nhưng điều đó không có nghĩa là người chạy bộ chạy marathon 20 tuổi đột nhiên trở nên không khỏe mạnh. Học đại số không làm mất hiệu lực số học.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Sự thật cũng có giá trị liên quan đến sự cần thiết. Vật lý học Newton đã bị thay thế bởi vật lý học Einstein, cái đã chứng minh chính xác hơn rất nhiều trong các tình huống cụ thể như trọng lực hoặc tốc độ cao bất thường. Tuy nhiên, những thuỷ thủ muốn tính toán đúng đường đi qua đại dương nhận thấy vật lý Newton đã đủ chính xác rồi. Bạn sẽ không muốn gửi một tàu vũ trụ đến Alpha Centauri bằng cách sử dụng vật lý học Newton, nhưng hoàn toàn ổn nếu dùng để gửi một con tàu từ Lisbon đến New York. Lao động tham gia vào việc học và thực hiện vật lý của Einstein vì vậy là một mạng lưới tiêu cực đối với thủy thủ.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Kết quả là, câu “Vật lý Newton ít chính xác hơn vật lý Einstein, nhưng vật lý Newton là cách tốt nhất để tính toán con đường của tàu thuyền” có thể được coi là một mệnh đề hợp lệ. Vật lý Newton do đó vừa *ít chính xác*, vừa *thích hợp hơn*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse”.
+Nếu chúng ta muốn uống nước tinh khiết nhất có thể, chúng ta có thể phải trả hàng ngàn đô la cho mỗi chai. Trừ khi chúng ta cực kỳ giàu có và phù phiếm, chúng ta sẽ không bao giờ trả nhiều tiền như vậy để làm dịu cơn khát của mình. Đúng là nước tinh khiết tốt hơn cho chúng ta, nhưng giá mà độ tinh khiết này đòi hỏi đạt tới ngưỡng lợi suất suy giảm. Vì vậy “tinh khiết hơn là tốt hơn” nhường chỗ cho “tinh khiết hơn là tồi tệ hơn.”
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Một lần nữa, điều này không có nghĩa là độ tinh khiết của nước là hoàn toàn chủ quan. Nước cất luôn luôn có thể uống được hơn nước biển.
 
-#### Truth And Objective Reality
+#### Sự thật và Thực tế Khách quan
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Khái niệm về *sự thật* nhất thiết phải bao gồm các khái niệm về *độ chính xác*. Nếu tôi đang cố bắn một mũi tên trúng điểm đen, độ chính xác của lần bắn sẽ được xác định bằng khoảng cách mũi tên cách trung tâm.
 
-What, then, is the “bull’s-eye” of truth?
+Vậy thì, cái chân lý, "điểm đen” là gì?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+À thì, *chân lý* của một tuyên bố có thể đo được tùy theo sự phù hợp của nó với thực tế khách quan.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil”, I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Hãy bỏ qua những thách thức về mặt ngôn ngữ, nếu tôi chỉ vào một con chim mòng biển và nói, “Đó là một cái đe,” rõ ràng tôi đã nhìn nhầm, bởi vì những cái đe là vật vô tri vô giác, và không thể bay được. Giá trị chân lý của tuyên bố của tôi được đo lường so với các thực tế khách quan của hiện thực. Vì con chim mòng biển không phải là một cái đe, lời tuyên bố của tôi là không đúng.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Đương nhiên, phương trình này giữa chân lý và thực tế đòi hỏi ngôn ngữ và các giác quan của chúng ta phải được coi là tương đối khách quan. Có nhiều lý do tốt để tin rằng cả bằng chứng về ngôn ngữ và giác quan trên thực tế là khách quan; chúng ta có thể gặp phải một cuộc thảo luận phức tạp về vấn đề này, nhưng chỉ cần nói rằng vì bạn đang sử dụng đôi mắt để đọc một quyển sách bằng ngôn ngữ của con người, ít nhất chúng ta có thể đồng ý rằng đôi mắt của bạn và ngôn ngữ chúng ta chia sẻ, ít nhất là đủ khách quan để bạn có thể xử lý chính xác những gì tôi viết. Nếu không, chúng ta không có gì để nói, và bạn không hiểu bất cứ điều gì tôi đã viết, vì vậy câu này sẽ không có nghĩa gì cả, và cũng có thể được trình bày trong phông chữ "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Giả sử bạn có thể cho biết sự khác biệt giữa hai phông chữ trên, chúng ta có thể tiếp tục.
 
-#### Accuracy And Consistency
+#### Độ chính xác và Tính nhất quán
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Tôi không thể vẽ chính xác một đám mây, vì trong thời gian cần thiết để vẽ nó, đám mây liên tục thay đổi. Tôi có thể vẽ chính xác *bức tranh* của một đám mây, cái đã bị đóng băng trong thời gian.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Nếu tôi dành một giờ để vẽ một đám mây, và sau đó tôi hỏi bạn liệu bức tranh của tôi có phải là sự trình bày chính xác về đám mây đó hay không, bạn ắt hẳn sẽ trả lời rằng nó không phải.
 
-In other words, where there is no consistency, there can be no accuracy.
+Nói cách khác, nếu không có sự nhất quán, không thể có chính xác.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Khi chúng ta mơ vào ban đêm, nhận thức của chúng ta chính là các quy tắc của “vật chất” và “năng lượng” đang ở trong trạng thái thay đổi liên tục - chúng ta không bị ảnh hưởng bởi lực hấp dẫn, và sau đó chúng ta bay về phía sau một con voi, và sau đó chúng ta có thể đi bộ xuyên tường. Không thể nào có thể phát triển “khoa học vật lý của những giấc mơ” cũng giống như không thể vẽ chính xác đám mây.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Lý luận, khoa học và sự thật, vì vậy, là không thể tồn tại mà không có *tính nhất quán*.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Về cơ bản, quy luật luận lý bắt nguồn từ hành vi của vật chất và năng lượng, ít nhất là ở mức độ tri giác. Nếu tôi bảo bạn ném một quả bóng lên và xuống cùng một lúc, tôi yêu cầu những điều không thể, bạn có thể dễ dàng kiểm tra bằng cách cố gắng hoàn thành yêu cầu của tôi. Nếu tôi bảo bạn cày đồng ruộng phía bắc đồng thời cày đồng ruộng phía nam, bạn sẽ không thể tuân theo. Nếu tôi yêu cầu bạn biến hoa hồng thành con lừa, nhu cầu của tôi sẽ không bao giờ được đáp ứng.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Thực tế nhận thức thì nhất quán và khách quan - và chính từ tính nhất quán và khách quan này chúng ta suy ra quy luật luận lý. Các tuyên bố của chúng ta về thực tế chỉ có thể *đại diện* chính xác cho thực tế như là một kết quả trực tiếp của tính nhất quán và khách quan này.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull”. If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Thực tế là những con hải âu không tự nhiên biến thành cái đê - hoặc ngược lại - là gốc rễ của khả năng của chúng ta để phán đoán chính xác câu nói: “Đó là con hải âu.” Nếu con hải âu tự nhiên và liên tục thay đổi bản chất, chúng ta sẽ không thể đưa ra được các tuyên bố đúng hay sai về chúng - hoặc bất cứ điều gì cho vấn đề đó.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Đây là gốc rễ của một tiêu chuẩn chính của phương pháp khoa học - khả năng lặp lại. Nếu tôi đưa ra tuyên bố chung về bản chất của trọng lực, thì bạn sẽ có thể lặp lại tuyên bố đó trong môi trường của riêng bạn. Nếu thực tế *không* nhất quán, thì khả năng lặp lại sẽ là một tiêu chí không hợp lý cho việc thiết lập chân lý.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Nếu bạn là một giáo viên Toán, bạn sẽ không chấp nhận một câu trả lời sai của học sinh, ngay cả khi học sinh đó tuyên bố rằng câu trả lời của anh ta là “đúng” khi viết nó xuống, mà chỉ thay đổi tạm thời.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Như vậy chúng ta có thể chấp nhận rằng chúng ta phải đánh giá tính hợp lệ của một tuyên bố liên quan đến thực tế khách quan - cả về mặt thực tế và lý luận. lý luận như một nguyên tắc phát sinh chỉ như là kết quả của tính nhất quán của thực tế; các quan sát thực nghiệm cũng hợp lệ hoặc không hợp lệ chỉ như là kết quả của bản chất nhất quán của thực tế.
 
-### The Existence Of "Truth"
+### Sự tồn tại của "Chân lý"
 
-Truth, then, can be measured according to two central criteria:
+Chân lý, sau đó, có thể được xác định theo hai tiêu chí chính:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. Chân lý là sự xác định trong mối tương quan giữa các ý tưởng trong tâm trí chúng ta và tính nhất quán của sự hợp lý, cái trực tiếp có được từ hành vi nhất quán của vật chất và năng lượng trong thế giới thực.[^2]
+2. Chân lý cũng là sự xác định trong tương quan giữa các ý tưởng trong tâm trí của chúng ta với bản chất và hành vi của vật chất và năng lượng trong thế giới thực.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist”, that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Tiêu chuẩn đầu tiên là đo lường về sự thống nhất của chính các ý tưởng -và sự nhất quán như vậy là một yêu cầu vì thực tế phải nhất quán với chính nó. Nếu tôi nói, “Tôi không tồn tại,” đó là một ví dụ về một ý tưởng không nhất quán với chính nó, vì tôi phải tồn tại để nói ra câu đó. Tiêu chuẩn thứ hai là đo lường về tính chính xác của các ý tưởng liên quan đến quan sát thực nghiệm của thực tế khách quan.
 
-#### Empiricism Versus Rationality
+#### Chủ nghĩa kinh nghiệm so với Tính hợp lý
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Chủ nghĩa kinh nghiệm có thể được coi là khả năng tự nhiên bắt một quả bóng ném, hoặc đo lường chuyển động của nó; tính hợp lý là khả năng dự đoán và hiểu được đường bay mà quả bóng sẽ đi dựa trên các nguyên tắc phổ quát. Rõ ràng, nếu các quả bóng ngẫu nhiên đi theo bất kỳ hướng nào - và biến đổi kỳ diệu thành một đàn bồ câu - chúng ta hoàn toàn không thể dự đoán được hành vi của chúng.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Vì vậy, vì vật chất tuân thủ các luật không cố định, các lý thuyết của chúng ta *về* vấn chất cũng phải tuân theo các luật cố định. Nếu tôi không biết gì về bóng chày, nhưng xem một trận đấu bóng chày, nơi các cầu thủ luôn tuân theo các quy tắc, sẽ là vô lý nếu tôi xây dựng một lý thuyết về các quy tắc của bóng chày mâu thuẫn trực tiếp với hành vi của các cầu thủ mà tôi đang xem. Vì hành động của các cầu thủ là nhất quán, *bất kỳ lý thuyết tôi phát triển liên quan đến các quy tắc hướng dẫn những hành động cũng phải nhất quán*.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Yêu cầu về tính nhất quán là một trong những yêu cầu cơ bản nhất cho chân lý. Vì thực tế là nhất quán, các lý thuyết về thực tế cũng phải nhất quán.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Trên thực tế, trở ngại đầu tiên mà bất kỳ lý thuyết nào cũng phải vượt qua là *sự nhất quán nội tại*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Nếu bạn không tôn trọng chân lý, bạn sẽ không bao giờ tham gia được trong cuộc tranh luận này - hoặc bất kỳ cuộc tranh luận nào khác - ngay từ đầu!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Tính nhất quán hợp lý, hoặc luận lý nội tại.
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Bằng chứng thực nghiệm, hoặc thuyết thực nghiệm.
