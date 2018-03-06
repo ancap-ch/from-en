@@ -156,7 +156,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^15]: Isang pagsisikap, sa pamamagitan ng paraan, iyon ay kutyain sa pamamagitan ng Taki Theodoracopulos, isang beteranong kampeon ng kilusan paleo-konserbatibo-nakabukas-Alt-Right at dating amo ni Spencer.
 
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+[^16]: Maraming mga bata pa ay nauna nang naaakit sa libertaryanismo na naniniwala na ang "mabuhay at ipaalam na mabuhay" ay ang kakanyahan ng libertaryanismo.
 
 [^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
 
