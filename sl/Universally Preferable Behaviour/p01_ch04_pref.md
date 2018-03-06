@@ -1,52 +1,56 @@
-## Preferences
+## Prednosti
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Zdaj, ko razumemo naravo samouničujočih argumentov, se lahko obrnemo na vprašanje preferenc.
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preference so osrednjega pomena za vsako metodologijo, ki zahteva določitev vrednosti resnice. Na primer, znanstveno metodo v veliki meri opredeljujejo prirojene nastavitve za logično konsistentnost in empirično preverjanje. Za znanost je predpostavka: * če * želite ugotoviti veljavno resnico o vedenju snovi in energije, je * bolje * uporabiti znanstveno metodo.
 
-In this sense, “preferable” does not mean “sort of better”, but rather “required”. *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable”, then, translates to “objectively required”, but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+V tem smislu "boljše" ne pomeni "nekako boljše", temveč "zahtevano". * Če * želite živeti, je * splošno priporočljivo *, da se vzdržite iz jedi peščice arzena. * Če želite * ugotoviti veljavne resnice o resničnosti, je * splošno priporočljivo *, da so vaše teorije tako notranje dosledne kot empirično preverljive. "Univerzalno prednost" se nato prevede v "objektivno zahtevano", vendar bomo ohranili besedo "bolje", da bi razlikovali med obveznimi človeškimi absolutami in neobveznimi fizičnimi absolutami, kot je gravitacija.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+Podobno, če so etične teorije sploh lahko veljavne, morajo biti * vsaj * notranje in zunanje skladne. Z drugimi besedami, etična teorija, ki nasprotuje sama sebi, ne more biti veljavna - in etična teorija, ki nasprotuje empiričnim dokazom in skoraj univerzalnim preferencam, prav tako ne more biti veljavna.
 
-### Preferences And Existence
+Tako v etiki, tako kot v znanosti, matematiki, inženiringu in v vseh drugih disciplinah, ki teorije primerjajo z realnostjo, * morajo veljavne teorije biti logično konsistentne in empirično preverljive *.
 
-If I say “I like ice cream”, only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+### Preference in Obstoj
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+Če rečem "Všeč mi je sladoled", samo ena beseda ostane dvoumna v tem stavku. Jasno * Jaz * obstajam, s tem izražam osebno prednost. Enako jasno je, da "sladoled" v resnici obstaja. Vendar je beseda "všeč" bolj problematična.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+Preference ne obstajajo objektivno v realnosti. Če ste bili obsesivno radovedni, bi me lahko morda spremljali vsakič, ko sem pojedel sladoled, kar bi verjetno pomenilo dobro empirično podlago za določitev mojega želje po njem. Vendar bi obstajala možnost, da sem dejansko mazohist in intenzivno ne maram sladoleda in se raje mučim s svojim neprijetnim okusom - in te potem zmedem, ko trdim, da mi je všeč.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+Za prednosti lahko najdemo * dokaz *; v resnici ne moremo najti * samo * prednost . Prednost obstaja kot * odnos * med zavestjo in materijo, prav tako kot gravitacija obstaja kot razmerje med telesom maso..
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+Če pustimo na stran izpodbijanja vprašanj svobodne volje v primerjavi z determinizmom, je razumno domnevati, da ne glede na to, kdo počne v sedanjosti, je to, kar "raje" počne. Če vstanem in pojdem na delo, potem očitno jaz * raje * to storim, v nasprotju z vsemi drugimi alternativami. Tudi če sovražim svojo službo, jo očitno sovražim * manj * kot, recimo, biti brez dneva.
 
-### Preferences And Arguments
+Glede na to, da lahko ljudje izvedejo skoraj neskončno vrsto ukrepov, ne glede na to, kdo počne v tem trenutku, je izbran iz vseh drugih možnih možnosti. Odločam se, da napišem to knjigo namesto, recimo, učenja tanga.
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist”. Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+Ko to preprosto dejstvo uporabimo za etične argumente, prikažemo nekaj zelo zanimivih rezultatov.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
 
-### Preferences And Universality
+### Prednosti in Argumenti
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+Če se spomnimo zgornje analize samouničujoči argumentov, lahko zlahka razumemo kontradiktornost narave: »preference ne obstajajo«. Glede na to, da je vsaka človekova akcija - vključno s filozofskimi izjavami - izbrana kot prednost vsakemu drugemu možnemu dejanju, če trdimo, da ne obstajajo preferenciali, zahteva * prednost * za trditev, da ne obstajajo preferenciali, kar je samo-protislovna izjava. Trditev, da ne obstajajo preferenciali, je popolnoma enaka kot trditev, da jezik ne obstaja. To je povsem samouničujoči argument.
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+Ker je nemogoče ukrepati, ne da bi izrazili prednost - bodisi implicitno ali eksplicitno - vsakdo, ki ravna, sprejema predpostavko, da obstajajo preferenciali. Tako ni mogoče razpravljati o obstoju preferenc, ne da bi sprejeli obstoj preferenc.
 
-The challenge arises when we try to define some preferences as *objective*.
+### Prednosti in Univerzalnost
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+Naslednje vprašanje tako postane: ali so preference povsem subjektivne ali pa so lahko univerzalne?
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+Jasno je, da so nekatere prednosti subjektivne. Glasbeni okusi, osebni hobiji, priljubljena literatura in tako naprej so subjektivni in osebne preference.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers”. There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error”, and content themselves with mystical nonsense.
+Izziv se pojavi, ko poskušamo določiti nekatere nastavitve kot * objektivne *.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+Predlog pred nami je torej: * ali so lahko nekatere nastavitve objektivne, to je univerzalne? *
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+Ko rečem, da so lahko nekatere nastavitve objektivne, ne mislim, da vsi ljudje ves čas uporabljajo te prednosti. Če bi trdil, da je * dihanje * objektivna prednost, bi mi lahko zlahka nasprotoval z zgledom tistih, ki storijo samomor, z obešanjem. Če bi trdil, da je jesti objektivna prednost, bi se mogla izogibati mojemu argumentu s primeri lakote in anoreksije.
+
+
+Tako, ko govorim o univerzalnih preferencah, govorim o tem, kaj * naj bi * ljudje * raje, ne pa tisto, kar * si * vedno želijo . Za uporabo znanstvene analogije, za resnično razumevanje vesolja * morajo * ljudje  uporabljati znanstveno metodo - to ne pomeni, da vedno to počnejo, saj se očitno milijarde ljudi posvetuje s starimi pravljicami in ne z moderno znanostjo za "odgovore". Ni mogoče doseči resnice o vesolju brez znanosti, ampak ljudje so popolnoma svobodni, da "resnico" ponovno opredelijo kot "napako" in se vsebinsko zbirajo z mistično neumnostjo.
+
+Prav tako, če človek želi ozdraviti okužbo, * mora * vzeti antibiotike in ne plesati Aztec ples dežju. Prednost, za jemanje antibiotikov kot pa ples dežju, je univerzalna, saj ples ne more ozdraviti okužb. Torej, čeprav se še najde norček, ki se bo poskušal zdraviti s plesom, je še vedno * splošno bolj sprejemljivo *, da če se človek želi zdraviti, mora vzeti antibiotike.
+
+Z drugimi besedami, če hočeš priti do vrha gore, samo želje po njem ne bodo nikoli delovale. Če želite poznati izvor vesolja, molitev nikoli ne bo dala odgovora. Ljudje si še vedno želijo in molijo, to pa ne pomeni, da je  želeti ali moliti učinkoviteje. Ob upoštevanju tega se obrnemo na vprašanje, ali lahko univerzalni preferenciali veljajo ali ne
 
 ### Arguments And Universality
 
