@@ -1,96 +1,104 @@
-## A Framework For Ethics
+## Okvir za etiko
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz”, that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Etični predlogi se razlikujejo od drugih vrst izjav znanja. Če rečem "meni je všeč jazz", je to lahko resnična ali lažna izjava, vendar na noben način na splošno ni povezana z vami. Moja prednost jazza je zgolj izjava o osebni naklonjenosti; na podlagi moje izjave, niste dolžni, da vam je jazz všeč ali ne.
 
-Similarly, if I say “I like vegetables”, that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food”, then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream”, and, “Ice cream contains milk”.
+Podobno, če rečem "Všeč mi je zelenjava", je to tudi zgolj izjava o osebnem mnenju. Če pa rečem, "zelenjava je zdrava hrana", sem se iz izjave o osebnem mnenju preusmeril na izjavo o objektivnem dejstvu. To je razlika med "Rad imam sladoled" in "Sladoled vsebuje mleko".
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Temeljna razlika med izjavami o * prednost * in izjavami * dejstva * je, da so dejanski podatki objektivni, preverljivi in zavezujoči. Če ceniš resnico, je dolžnost, da sprejmete dejstvo, da sladoled vsebuje mleko, ko je dokazano. [^ 1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Če rečem, da je zemlja okrogla, in za to izjavo dobim dovolj dokazov, ni več odvisno od vas, ali želite ugotoviti, ali je izjava resnična. Če lahko dokažem, da je zemlja okrogla, jo morate sprejeti kot resnično, razen če ste pripravljeni zavrniti razloge in dokaze kot merila za resnico.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Če sprejmem veljavnost matematičnih zakonov, ne morem samovoljno zavrniti matematičnega dokazila, ki je v skladu s temi zakoni. Če * zavrnem * tak dokaz, ne morem več trditi, da bi sprejeli veljavnost matematičnih zakonov.. Moje sprejetje teh zakonov pomeni, da se moram * obvezati *, da sprejmem veljavna dokazila, ki so v skladu s temi zakoni. Zavrnitev dokaza, ki ustreza racionalnim standardom, je zavrnitev racionalnih standardov kot celote.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+Znanstvena metoda, sama racionalnost, in matematični zakoni so vsi primeri * objektivnih * meril za ugotavljanje resničnega predloga. Ni moje mnenje, da sta dva in dva štiri - če tudi sprejmete, da sta dva in dva štiri, se ne podredite zgolj svojemu mnenju, temveč racionalni resnici.
 
-### Objective Truth
+### Objektivna Resnica
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Osrednji izziv pri razumevanju narave resnice je spoznanje, da v resnici ne obstaja "resnica" na enak način kot skala ali drevo.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Koncept "resnica" je nujno relativni izraz - čeprav to ne pomeni subjektivnega ali samovoljnega izraza. Koncept "zdravje" je tudi relativni izraz - primerjamo "zdravje" z boleznimi in sorazmernimi zdravstvenimi standardi. Kar se šteje za "dobro zdravje" za devetdesetletnika, bi se daleč lahko štelo za dobro zdravje za dvajsetletnico. Določitev dolgega življenja se danes zelo razlikuje kot pred petsto leti.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+To pa ne pomeni, da je koncept "zdravja" povsem relativen in subjektiven. Desetletno umiranje za levkemijo je nezdrava s katerokoli definicijo - prav tako kot dvajsetletna maratonska tekmovalka je zdrava po vseh opredelitvah. Trenutno človek, ki živi do devetdeset let, je statistično imel dolgo življenje, čeprav bi se to spremenilo, če bi nam medicinska tehnologija nenadoma omogočila živeti dvesto.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Ko se naša opredelitev "zdravja" širi-napreduje, ne razveljavi prejšnjih opredelitev, temveč jih razširja. Če bo medicinska tehnologija napredovala, da bo devetdesetletnem moškemu omogočila zmago na  maratonu, se bo spremenila naša opredelitev zdravega za starejše - to pa ne pomeni, da dvajsetletni maratonec nenadoma postane nezdrav. Učna algebra ne razveljavlja aritmetike.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Resnica ima tudi vrednost glede na nujnost. Newtonovo fiziko je nadomestila Einsteinska fizika, ki se je izkazala za bolj natančno v ekstremnih situacijah, kot so izjemno visoka težnost ali hitrost. Vendar mornarji, ki želijo izračunati pravo pot čez ocean, najdejo Newtonovo fiziko več kot dovolj natančno. S pomočjo Newtonove fizike ne bi želeli poslati vesoljske ladje v Alpha Centauri, vendar je povsem v redu, da bi ladjo poslali od Lizbone do New Yorka. Delavnica, ki sodeluje pri učenju in izvajanju Einsteinske fizike, je tako neto negativna za mornarja.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse”.
+Kot rezultat, je stavek "Newtonova fizika manj točna od Einsteinske fizike, vendar je Newtonova fizika najboljši način za izračun ladijske poti" mogoče šteti kot veljaven predlog. Newtonova fizika je tako * manj natančna * in * primernejša *.
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Če bi želeli piti čistejše vode, bi verjetno plačali na tisoče dolarjev na steklenico. Če nismo bili izjemno bogati in zelo nerodni, nikoli ne bi toliko plačali, da bi ugasnili žejo. Res je, da je čista voda za nas boljša, cena, ki jo potrebuje čistost, doseže prag padajočih donosov. Tako je "čistejša je boljša" način, da je "čistejša hujša".
 
-#### Truth And Objective Reality
+Spet, to ne pomeni, da je čistost vode popolnoma subjektivna. Destilirana voda je vedno bolj pitna od morske vode.
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+#### Resnica in Objektivna Stvarnost
 
-What, then, is the “bull’s-eye” of truth?
+Koncept * resnice * nujno vključuje koncept * točnosti *. Če poskušam ustreliti puščico v bikovo oko, natančnost mojega streljanja določa, kako daleč moja puščica prihaja iz središča.
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Kaj, je potem, "bikovo oko" resnica?
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil”, I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+No, * resničnost * izjave je merljiva glede na njegovo skladnost z objektivno resničnostjo.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+Če izpustim izzive jezika za trenutek, če pokažem na galeba in rečem: "To je nakovalo", se očitno motim, ker nakovala so anorganski in ne morejo leteti. Resnična vrednost moje izjave se meri glede na objektivna dejstva realnosti. Ker galeb dejansko ni nakovalo, je moja izjava neresnična.
+
+
+Seveda, ta enačba med resnico in resničnostjo zahteva, da se jezik in naši čuti štejejo za relativno objektivne. Veliko dobrih razlogov je, da verjamemo, da sta jezikovni in razumni dokazi dejansko objektivni; lahko bi šli do zapletene razprave o tem, vendar bi bilo dovolj, če bi rekli, da, ker uporabljate oči za branje knjige, napisane v človeškem jeziku, se lahko vsaj strinjamo, da so vaše oči in jezik, ki ga delimo, najmanj dovolj objektivni, da lahko natančno obdelate to, kar pišem. Če jih ne, nimamo o čem govoriti in niste razumeli ničesar, kar sem napisal, tako da bo ta stavek enako brez pomena in morda bi bil tudi prikazan v "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ob predpostavki, da lahko vidite razliko med zgornjima dvema pisavama, lahko razumno nadaljujemo.
 
-#### Accuracy And Consistency
+#### Točnost in Skladnost
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Nemogoče je, da natančno pobarvam oblak, saj se v času, ki ga potrebujem za barvanje, oblak nenehno spreminja. Natančno lahko pobarvam sliko oblaka, ki je zamrznjena v  času.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Če porabim eno uro, za barvanje oblaka, in vas potem vprašam, ali je moja slika natančna predstavitev tega oblaka, morate nujno odgovoriti, da ni.
 
-In other words, where there is no consistency, there can be no accuracy.
+Z drugimi besedami, če ni doslednosti, ni natančnosti.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Ko sanjamo ponoči, je naše dojemanje, da so pravila o "snovi" in "energiji" v stalnem stanju fluksa - imuni smo na gravitacijo, potem pa letimo na hrbtu slona in potem lahko hodimo skozi stene. Nič več ni mogoče razviti "znanstvene fizike sanj", kot je, da bi natančno barvali oblak.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Logika, znanost in resnica sta torej nemogoča, če ni * doslednosti *.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull”. If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+V bistvu, so zakoni logike izpeljani iz vedenja snovi in energije, vsaj na percepcijski ravni. Če vam rečem, da hkrati žogo spustite gor in dol, prosim za nemogoče, kar lahko preprosto preskusite, tako da poskusite izpolniti mojo zahtevo. Če vam rečem, da severno polje in južno polje obračate hkrati, se ne boste mogli držati. Če zahtevam, da spremenite rožo v osla, moje zahteve nikoli ne bodo izpolnjene.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Perceptualna resničnost je dosledna in objektivna - in iz te doslednosti in objektivnosti izhajajo zakonitosti logike. Naše izjave o resničnosti lahko samo točno * predstavljajo * resničnost kot neposreden rezultat te doslednosti in objektivnosti.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Dejstvo, da se galebi naključno ne pretvorijo v nakovale - ali obratno - je koren naše sposobnosti, da natančno presodimo izjavo: "To je galeb". Če bi galebi spontano in nenehno spreminjali svojo naravo, ne bi mogli narediti niti resničnih niti napačnih izjav o njih - ali karkoli za to.
 
-### The Existence Of "Truth"
+To je temelj ključnega merila znanstvene metode - ponovljivost. Če podam univerzalno trditev o naravi teže, potem bi morali biti sposobni reproducirati to zahtevo v svojem okolju. Če realnost ni * konsistentna, potem bi bila obnovljivost iracionalno merilo za vzpostavitev resnice.
 
-Truth, then, can be measured according to two central criteria:
+Če ste bili učitelj matematike, verjetno ne bi sprejeli napačnega odgovora študenta, čeprav je ta študent trdil, da je njegov odgovor "pravilen", ko ga je zapisal, vendar se je nekako spremenil v vmesnem času.
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist”, that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Tako lahko sprejmemo, da moramo izmeriti veljavnost izjave glede na objektivno resničnost - tako empirično kot logično. Logika kot disciplina izhaja le iz doslednosti realnosti; Empirične ugotovitve so prav tako veljavne ali neveljavne samo zaradi dosledne narave realnosti.
 
-#### Empiricism Versus Rationality
+### Obstoj "Resnice"
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Resnica se lahko meri po dveh osrednjih merilih:
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+1. Resnica je merilo korelacije med idejami v naših mislih in skladnostjo racionalnosti, ki izhaja neposredno iz doslednega vedenja snovi in energije v realnem svetu. [^ 2]
+2. Resnica je tudi merilo korelacije med idejami v naših mislih ter naravo in vedenjem snovi in energije v resničnem svetu. [^ 3]
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Prvo merilo je merilo skladnosti idej zase - in takšna skladnost je zahteva, ker je resničnost skladna s seboj. Če rečem, "ne obstaja", to je primer ideje, ki je v neskladju s samim seboj, saj moram obstajati, da izgovorim stavek. Drugo merilo je merilo natančnosti idej glede na empirične opazke objektivne resničnosti.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+#### Empiricizem proti racionalnosti
 
-[^2]: Rational consistency, or internal logic.
+Empiricizem lahko razumemo kot sposobnost, da instinktivno ujamemo vrženo žogo ali izmerimo njegovo gibanje; racionalnost je zmožnost napovedovanja in razumevanja poti, ki jo bo sprejela žoga na podlagi univerzalnih načel. Jasno je, če bi  kroglice naključno šle v katero koli smer in čarobno preoblikovale v črede golobov, da bi se lahko zagnale - mi ne bi mogli napovedati njihovega vedenja.
 
-[^3]: Empirical evidence, or empiricism.
+Torej, ker materija sovpada z nespremenljivimi zakoni, morajo naše teorije * o zadevi tudi poslušati nespremenljive zakone. Če ne vem nič o baseballu, ampak gledam igro baseball, kjer se igralci vedno držijo pravil, bi bilo nerazumno, da bom oblikoval teorijo o pravilih baseballa, ki bi neposredno nasprotovala obnašanju igralcev, ki sem jih gledal. Ker so ukrepi igralcev skladni, * mora biti vsaka teorija, ki jo razvijam v zvezi s pravili, ki vodijo te ukrepe, dosledna *.
+
+
+Ta zahteva po doslednosti je ena od najosnovnejših zahtev za resnico. Ker je realnost skladna, morajo biti tudi teorije o resničnosti dosledne.
+
+Dejstvo je, da je prva ovira, ki jo mora premagati katera koli teorija, * notranja konsistentnost *.
+
+[^ 1]: Če ne cenite resnice, nikoli ne bi bili v tej razpravi - ali kakršni koli drugi razpravi - v prvi vrsti!
+
+[^ 2]: Racionalna konsistenca ali interna logika.
+
+[^ 3]: Empirični dokaz ali empiricizem.
