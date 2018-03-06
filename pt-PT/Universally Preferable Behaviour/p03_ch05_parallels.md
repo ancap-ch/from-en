@@ -62,11 +62,11 @@ O modo de se opor ao Estado - a entidade imaginária mais perigosa - é com a ra
 
 Queiramos ou não, o CUP aplica-se a tudo o que fazemos. Os seres humanos possuímos uma tendência natural para a consistência, pois somos seres com uma coerência racional, a viver num universo consistente e racional. Assim, qualquer proposição que aceitamos nas nossas vidas tende a exigir um comportamento cada vez mais coerente ao longo das mesmas - e também ao longo da "vida" da nossa cultura ou nação.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Por isso, um homem que acredita que o bullying é uma boa maneira de conseguir o que quer, está inclinado a intimidar cada vez mais, ao longo da sua vida. Um homem que acredita que a violência é boa, está propenso a ser cada vez mais violento.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Por outras palavras, o CUP exige coerência mesmo na inconsistência. O CUP exige uniformidade inclusive na imoralidade.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Assim, as proposições morais da raiz de uma cultura determinam o seu futuro inevitável. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
 
 That is why the delineation of a rational framework for ethics is so essential.
 
