@@ -1,28 +1,28 @@
-## Internal Consistency
+## Tính nhất quán nội tại
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Nếu tôi là kiến trúc sư, và đề xuất một kế hoạch để xây dựng một ngôi nhà, trở ngại đầu tiên tôi phải vượt qua là liệu ngôi nhà của tôi có thể xây dựng được hay không. Nếu tôi nộp các kế hoạch tuyệt vời cho một căn nhà được xây dựng hoàn toàn bằng bong bóng xà phòng, tôi sẽ không bao giờ nhận được hoa hồng, vì một “ngôi nhà” như thế chẳng bao giờ có thể tồn tại.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Tương tự, nếu một kỹ sư trình một kế hoạch cho một cây cầu, tiêu chí đầu tiên phải được thỏa mãn là liệu cây cầu có đứng vững hay không. Những cân nhắc khác như tuổi thọ, thẩm mỹ sẽ chỉ áp dụng nếu cây cầu có đủ khả năng về mặt vật chất để bắt đầu.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations”, in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Sẽ là vô lý – nếu không muốn nói là cực kỳ kém hiệu quả - để xây dựng một cây cầu từ các vật liệu ngẫu nhiên, sử dụng “tính toán,” ngẫu nhiên, để tìm hiểu xem nó sẽ đứng vững hay không. Vì các quy luật vật lý là nhất quán và phổ quát, nên khá dễ để xác định xem cây cầu có đứng được hay không *trước khi* xây dựng nó.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Có hai cách để xác định khả năng tồn tại của cây cầu trước khi xây dựng nó. Đầu tiên là tìm kiếm các mâu thuẫn nội bộ trong tiền đề và các tính toán hỗ trợ khả năng tồn tại của cầu. Nếu có những sai sót đáng kể trong các tính toán xác định trọng lượng mà cây cầu có thể chịu được, thì cây cầu sẽ có thể được thiết kế quá mức, hoặc được thiết kế dưới mức. Nếu các phép tính toán sai lầm dẫn đến sức nặng âm năm mươi tấn / foot vuông tại bất kỳ phần nào của cây cầu, thì chắc chắn nó sẽ không đứng - hoặc, nếu có, tính khả thi của nó sẽ chỉ là tình cờ, và không lặp lại được.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Các tính toán toán học hỗ trợ tính khả thi của cây cầu phải mang tính nhất quán trong nội tại trước khi cân nhắc các vấn đề khác.
 
-In computer terms, code that does not compile cannot be tested.
+Trong thuật ngữ máy tính, các mã không được dịch ra không thể được kiểm tra.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Điều này cũng đúng trong thế giới khoa học. Các lý thuyết luôn được kiểm tra tính nhất quán nội bộ trước khi chúng được đưa ra các bài kiểm tra thực nghiệm. Lý do tính nhất quán nội bộ là rất cần thiết như sau vì các lý thuyết tuyên bố có giá trị tương đối so với thực tế, và thực tế thì nhất quán nội bộ, nên bất kỳ lý thuyết nào *không* nhất quán nội bộ không thể có giá trị so với thực tế.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Chỉ *sau khi* sự thống nhất nội bộ của các tính toán được thiết lập thì mức độ mà cây cầu đáp ứng các chi tiết kỹ thuật mới có thể được xem xét. Có thể viết chi tiết kỹ thuật nhất quán nội bộ cho một cây cầu nhỏ được xây dựng hoàn toàn bằng gỗ balsa, nhưng trừ khi kỹ sư đang viết một bài báo cho một tạp chí đường sắt mô hình, các thông số kỹ thuật của anh ta, mặc dù nhất quán, sẽ không đáp ứng được bất kỳ yêu cầu công nghiệp nào.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Một khi chúng ta xác định rằng cây cầu sẽ đứng, chúng ta mới có thể xác định liệu nó có đáp ứng các nhu cầu cụ thể hay không, chẳng hạn như hỗ trợ trọng lượng của người đi bộ so với tàu hỏa.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Trong lĩnh vực kinh tế, tiêu chí tương tự cũng được áp dụng. Nếu lý thuyết kinh tế của tôi đòi hỏi rằng giá cả đồng thời đi lên và xuống, thì nó không thể hợp lệ, vì điều này là không thể. Một khi lý thuyết của tôi được kiểm tra cho sự nhất quán nội bộ, tôi có thể bắt đầu tìm kiếm bằng chứng, và / hoặc bắt đầu sử dụng lý thuyết của tôi để dự đoán trước.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Do đó, chúng ta có thể thấy rằng bất kỳ lý thuyết nào, để hợp lệ, đòi hỏi những điều sau đây:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+1. Tính nhất quán nội bộ (lý luận).
+2. Tính nhất quán bên ngoài (khả năng kiểm tra được).
 
-With this in mind, we can now turn to the core subject of this book.
+Với điều này trong tâm trí, bây giờ chúng ta có thể chuyển sang chủ đề chính của cuốn sách này.
