@@ -38,47 +38,47 @@ Pada titik ini, keberatan cukup dapat diangkat jika seseorang yang koma tidak da
 
 Konsep "menghindar" berfungsi secara positif maupun negatif. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahan diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaan alat kelamin setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa memanggil seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis. Bagaimanapun, kita pasti akan merevisi perkiraan kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan sedih menyesali tindakannya saat bangun.
 
-Thus we can reasonably say that where choice is absent, or inapplicable, morality is also absent, or inapplicable. Thus the man in a coma, while his actions cannot be considered evil, neither can they be considered good. He exists in the state without choice, like an infant, or an animal – thus he can be reasonably exempted from moral rules, since there is a physical state that objectively differentiates him from a man who can choose, which is allowable under UPB.
+Dengan demikian kita dapat dengan mudah mengatakan bahwa pilihan tidak ada, atau tidak dapat diterapkannya, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, juga tidak bisa dianggap lebih baik. Dia ada di dalam keadaan tanpa pilihan, seperti bayi, atau binatang, sehingga ia dapat secara wajarnya dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
 
-With that in mind, let us continue our examination of rape.
+Dengan pemikiran itu, mari kita lanjutkannya pemeriksaan pemerkosaan.
 
-### Aesthetically Positive
+### Positive Secara Estetis
 
-Aesthetically positive actions (APAs) are universally preferable, but not enforceable through violence, since aesthetically negative actions do not initiate the use of force. As we discussed above, if I am late in meeting you, I have not initiated the use of force against you, and I have not removed your capacity to choose, or avoid the situation.
+Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak melakukannya melalui kekerasan, karena tindakan negatif secara estetis tidak bermula dengan penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan Anda, saya belum memulai penggunaan kekuatan melawan Anda, dan saya belum menyingkirkannya kemampuan Anda untuk memilih, atau menghindari situasi ini.
 
-If we say that APAs can be enforced through violence, then we are saying that the initiation of violence is morally good.
+Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakannya bahwa inisiasi kekerasan itu baik secara moral.
 
-If we propose a moral rule that the initiation of violence is morally good, then this rule faces all the same logical impossibilities as the rule that “rape is morally good”.
+Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moralnya, maka peraturan ini menghadapi semua kemustahilan logis yang sama seperti peraturan bahwa "perkosaan itu baik secara moral."
 
-Two men in a room cannot be both morally good at the same time, since one of them must be initiating violence against the other, and the other must be resisting it – since if he is not resisting it, it is by definition not violence, as in the case of the surgeon we discussed above. Thus virtue can only be enabled by resisting virtue, and two men in the same circumstances cannot both be moral at the same time, and so on – all of which are violations of UPB.
+Dua pria di sebuah ruangan tidak bisa bermoral secara baik pada saat yang sama, karena salah satunya dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya - karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Dengan demikian kebajikan dapat hanya diaktifkan oleh menolak kebajikan, dan dua orang dalam situasi yang sama tidak baik dapat moral pada saat yang sama, dan seterusnya-yang semuanya pelanggaran UPB.
 
-Thus we know that rape cannot be an APA.
+Jadi kita tahu bahwa pemerkosaan tidak bisa APA.
 
-We can confirm this by reviewing the reasons why “being on time” *is* an APA.
+Kami bisa mengkonfirmasi ini dengan meninjau alasan mengapa "menjadi tepat waktu" *adalah* APA.
 
-First of all, we instinctively understand that it is more just to reject a friend for being perpetually late than it is to reject a friend for not liking ice cream.
+Pertama-tama kita secara naluriah memahami bahwa itu hanya untuk menolak teman karena terus-menerus terlambat daripada untuk menolak teman untuk tidak menyukai es krim.
 
-Why is that?
+Kenapa begitu?
 
-Once again, the UPB framework comes to the rescue.
+Sekali lagi, rangka UPB muncul untuk menyelamatkan.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+APA adalah *aturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan *.
 
-For instance, if my APA is: “be on time”, then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Umpamanya, jika APA saya: ”tepat waktu”, lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun.[^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Jika "tepat waktu" adalah APA, maka ada kemungkinan dua orang mencapai-nya secara bersamaan - jika keduanya tepat waktu.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Dengan pikiran cabul, seperti kita lihat diatas, hal itu tidak mungkin bagi dua orang untuk melakukanya dalam waktu yang sama. Yang satu harus selalu menjadi pemerkosa, dan yang lain selalu menjadi korban.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable”.
+Di sisi lain, jika saya mengatakan bahwa "menyukai jazz" adalah APA, maka saya langsung mengalami kemustahilan logis. Ingat, APAs adalah peraturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan dan rumusan yang benar untuk "menyukai jazz" adalah: "preferensi subjektif lebih disukai secara universal."
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Tidak hanya ini kontradiksi peringkat dalam hal sintaksis, tapi juga akan gagal dalam ujian UPB. Jika saya suka jazz dari bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. Ini tentu saja tidak mungkin, karena akan mengharuskan kita berdua memilih*jazz dan klasik di atas semua bentuk musik lainnya*. Anda harus mengubah preferensi Anda menjadi jazz, karena preferensi saya - tapi pada saat yang sama saya mengalihkan preferensi saya ke klasik, karena preferensi Anda. Ini seperti mengatakan bahwa Anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama - kemustahilan logis dan fisik.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Karena APAs tidak dapat dilaksanakan melalui kekerasan - Anda tidak bisa menembak seorang pria karena terlambat - maka perkosaan tidak bisa menjadi APA, karena pemerkosaan menurut definisi adalah serangan seksual yang ditegakkan melalui kekerasan.
 
-Thus rape cannot fall into the category of APAs.
+Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
-### Personally Positive
+### Positive Secara Personal
 
 Perhaps rape is akin to a merely personal preference.[^2]
 
