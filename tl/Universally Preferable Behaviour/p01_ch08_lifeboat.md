@@ -10,11 +10,11 @@ Hindi ito dapat sabihin na ang pagsira sa bintana upang iligtas ang iyong buhay 
 
 ### Ang Lugar na Kulay Abo
 
-Katunayan ang ilang mga " lugar na kulay abo" na umiiral sa larangan ng etika ay kadalasang ginagamit bilang isang pagbibigay-katwiran para sa ranggo relatibismo. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
+Katunayan ang ilang mga " lugar na kulay abo" na umiiral sa larangan ng etika ay kadalasang ginagamit bilang isang pagbibigay-katwiran para sa ranggo relatibismo. Dahil kung minsan may pagkakataon ang ilang mga bagay ay nananatiling hindi maliwanag (hal. Kung sino ang nagpasimula ng paggamit ng karahasan), at dahil imposibleng tukuyin ang layunin at eksaktong patakaran sa bawat maaring tangapin, ang konklusyon ay madalas na iguguhit na walang*kailanman* maaaring maging kilala para sa tiyak, at walang mga layunin na tuntunin na umiiral para sa *anumang* sitwasyon.
 
-This is false.
+Ito ay Hindi Totoo.
 
-All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
+Ang lahat ng tao ay maykatuwirang kilalanin na ang agham buhay ay isang wastong agham, sa kabila ng katotohanan na ang ilang mga hayop ay ipinanganak na may "isa-isa" na pagbago. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
 For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest.
 
