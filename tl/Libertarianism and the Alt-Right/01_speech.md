@@ -132,7 +132,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^3]: Walang-labanan.
 
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+[^4]: Ang lahat ng may-ari nito ay konektado sa isang tanikala ng boluntaryong palitan.
 
 [^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
 
