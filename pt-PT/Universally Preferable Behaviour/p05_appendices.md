@@ -21,13 +21,13 @@ Por favor, encontre abaixo um sumário do argumento principal para a moralidade.
 
 Abaixo está uma tabela de exemplos que enuncia algumas das categorias mais comuns de acções/regras e os seus principais diferenciadores.
 
-| Acção/Regra                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
-| --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| Acção/Regra                       | Preferência? | Universal? | Aplicável? | Requer acção iniciadora por parte da vítima? | Os violadores podem ser evitados? | Categoria Moral              |
+| --------------------------------- | ------------ | ---------- | ---------- | -------------------------------------------- | --------------------------------- | ---------------------------- |
+| **A correr para o autocarro**     | Não          | Não        | n/a        | n/a                                          | n/a                               | Neutro                       |
+| **Não deveria gostar de sorvete** | Sim          | Não        | Não        | n/a                                          | n/a                               | Neutro (preferência pessoal) |
+| **Não deveria chegar atrasado**   | Sim          | Sim        | Não        | Não                                          | Sim                               | APA                          |
+| **Não deve cometer fraude**       | Sim          | Sim        | Sim        | Sim                                          | Sim                               | Bom                          |
+| **You should not rape**           | Yes          | Yes        | Yes        | No                                           | No                                | Good                         |
 
 ## Appendix C: UPB Podcasts
 
