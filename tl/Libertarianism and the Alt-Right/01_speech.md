@@ -158,7 +158,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^16]: Maraming mga bata pa ay nauna nang naaakit sa libertaryanismo na naniniwala na ang "mabuhay at ipaalam na mabuhay" ay ang kakanyahan ng libertaryanismo.
 
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+[^18]: Maliban sa ilang mga walang ginagawang intelekwal na laruin o mental na dyimnastiko sa pamamagitan ng ilang "kakaiba" na indibidwal.
 
 [^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
 
