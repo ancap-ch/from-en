@@ -140,11 +140,11 @@ a. Ang Pampublikong Lisensya at mga gagamitin para sa termino ng Kopirayt at Kat
 
 b. Kung saan ang iyong karapata na gamitin ang Materyales ng Lisensya ay tinapos sa ilalim ng Seksyon 6(a), ito ay nagbabalik:
 
-1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
+1. awtomatikong sa petsa ng paglabag ay magaling na, sa kondisyon na ito ay gumaling sa loob ng 30 araw ng iyong pagtuklas ng paglabag; o
 
-2. upon express reinstatement by the Licensor.
+2. sa sandaling muling pagbibigay ng Tagapaglisensya.
     
-    For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
+    Para sa pag-iwas sa pagdududa, itong Seksyon 6(b) ay hindi nakakaapekto sa anumang karapatan na maaaring kailanganin ng Tagapaglisensya na humingi ng mga remedyo para sa Iyong mga paglabag sa Pampublikong Lisensya.
 
 c. For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
 
