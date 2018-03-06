@@ -126,11 +126,11 @@ Higit sa lahat, kung hindi, mga sosyal na patolohiya ay gambalain ang kontempora
 
 Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na maglaro ng anumang makabuluhang tungkulin sa isang libertaryan na diskarte para sa pagbabago ng lipunan, kaya sa pulitika at mga partidong pampulitika - pagakatapos ng lahat, ito ay ang panghuling layunin ng libertarianismo upang tapusin ang lahat ng pulitika, at upang isailalim ang lahat ng interpersonal na mga kaugnayan at mga labanan sa pribadong batas at mga pamamaraanng batas sibil. Siguraduhing, sa ilalim ng kasalukuyan, lahat ng mga pulitikal na kondisyon ng partido ay hindi maaaring lubusang maiiwasan ang partisipasyon ng partido. Gayon pa man, sa anumang naturang kaguluhan, dapat isaalang-alang ng mabuti at bantayan ang masasamang impluwensiya ng kapangyarihan at ang matukso ng pera at maging masigla na kasama nito. At upang mabawasan ang panganib at panunukso na ito, ang mga pagsisikap ng rehiyon at lokal ay dapat na hinahangad kaysa sa pambansang pulitika, at doon upang itaguyod ang radikal na adyenda ng desentralisasyon: pagpapawalang-bisa at tahimik na paghihiwalay, paglayo at pagtiwalag. Gayunpaman, ang pinakamahalaga, dapat nating pag-aralan ang kasabihan ng buhay ni Ludwig von Mises: Huwag magpadala sa kasamaan, ngunit patuloy na maging mas matapang laban dito. Iyan ay, kailangan nating magsalita kailan man at saanman, maging sa pormal o di-pormal na mga pagtitipon, laban sa sinumang humamak ng lantaran sa atin ngayon lamang sa pamamagitan ng pamilyar na "pulitikal na tama" na mga pulutong at walang-halal na kalokohan at malinaw na nagsasabi na: "Huwag. Hell no. Dapat kang sumang-ayon." Sa sandaling ito, ang namumuno sa mga piling tao, *akademya* at ang MSM ay binigyan ng isang kumpletong ideya, ito ay nangangailangan ng isang magandang bahagi ng lakas ng loob na gawin ito. Ngunit kung hindi tayo sapat na matapang upang gawin ito ngayon at sa ganito ay magtakda ng isang halimbawa para sundan ng iba, ang mga bagay ay lalong mas masahol at mas mapanganib sa hinaharap, at tayo, ang Kanlurang sibilisasyon at ang mga Kanlurang ideya ng Kalayaan at libertad ay lipunin at mawala.
 
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+[^1]: Yon ay dapat na nakalaan sa ating sariling likas na paraan, ibig sabihin., hindi naaangkop, sa katawan.
 
-[^2]: Property.
+[^2]: Katangian.
 
-[^3]: Conflict-free.
+[^3]: Walang-labanan.
 
 [^4]: And all later owners connected to him through a chain of voluntary exchanges.
 
