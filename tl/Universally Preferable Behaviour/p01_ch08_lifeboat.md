@@ -28,9 +28,9 @@ Sa larangan ng "lugar na kulay abo," talagang may tatlong posibilidad lamang.
 
 Maliwanag, ang isang pagpipilian ay madaling maitapon. Ang pagpipilian na tatlo ay mas madali upang itapon. Ang pahayag na "ang lahat ng kaalaman ay isang lugar na kulay-abo" ay isang panukala sa sarili, katulad ng nakita natin sa itaas, at ang sa parehong paraan na yan "lahat ng mga pahayag ay kasinungalingan" ay nagpapalaya din sa sarili.
 
-Thus we must go with option two, which is that certain grey areas do exist, and we know that they are grey relative to the areas that are not grey Oxygen exists in space, and also underwater, but not in a form or quantity that human beings can consume. The *degree* of oxygenation is a grey area, i.e. “less versus more”; the question of whether or not human beings can breathe water is surely black and white.
+Kaya dapat pumunta kami sa pagpipilian na dalawa, na kung saan ay may mga umiiral na kulay-abo na lugar, at alam namin na ang mga ito ay kulay-abo na kamag-anak sa mga lugar na hindi kulay-abo hangin umiiral sa kalawakan, at din sa ilalim ng tubig, ngunit hindi sa isang anyo o dami na tao ang mga tao'y maaaring gumamit. Ang *antas</ 0> ng oxygenation ay isang kulay-abo na lugar, ibig sabihin "mas mababa kumpara sa higit pa"; ang tanong ng kung o hindi ang mga tao ay maaaring huminga ng tubig ay tiyak na itim at puti.</p> 
 
-A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
+Ang isang dalub-agham na nakuha ng mga kanibals ay maaaring magpanggap na isang bruha-manggagamot upang makatakas - hindi ito nangangahulugan na dapat nating bale-walain ang pang-agham na pamamaraan bilang lubos na hindi wasto.
 
 Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively.
 
