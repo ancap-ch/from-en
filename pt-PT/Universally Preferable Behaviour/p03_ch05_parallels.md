@@ -58,7 +58,7 @@ A única forma de opor-se às entidades imaginárias é com a verdade implacáve
 
 O modo de se opor ao Estado - a entidade imaginária mais perigosa - é com a razão, a evidência e a ciência.
 
-### The Future
+### O Futuro
 
 Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
 
