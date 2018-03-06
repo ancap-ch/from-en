@@ -6,9 +6,9 @@ Halimbawa, kung tatanggapin natin ang unibersal na katuparan ng mga karapatan sa
 
 A totoong daigdig, kakailanganin ng taong tumitigas ang isang taong magpaparatang ng kaso laban sa isang taong nagwasak ng isang bintana upang mailigtas ang kanyang buhay - tulad ng kakailanganin ng isang di-mapagkakatiwalaang tao na tumangging bayaran ang pagbabayad ng paninda para sa nasabing bintana. Ang alituntunin ng "maiiwasan" ay gitnang dito - ang taong nakabitin sa isang tagdan ng bandila ay may maliit na pagpipilian tungkol sa pagsipa sa isang bintana. Ang isang tao na sumisira sa iyong bahay upang magnakaw ng mga bagay ay malinaw na may kakayahang maiwasan ang panghihimasok sa iyong ari-arian - hindi siya nababahala, ngunit sa halip ay ang *tagasimula* ng pagsalakay. Ito ay katulad ng pagkakaiba sa pagitan ng babae na may taong may manluko sa kanya, kumpara sa babae na ang lalaki ay nakakandado sa kanya sa silong.
 
-Hindi ito dapat sabihin na ang pagsira sa bintana upang iligtas ang iyong buhay ay hindi mali. Ito ay, dahil ito ay isang mali na halos lahat sa atin ay pipili na mangako kaysa sa mamatay. Kung ako ay nasa gilid ng kamatayan dahil sa gutom, nais kong magnakaw ng isang mansanas. This does not mean that it is *right* for me to steal the apple – it just means that I would do it – and must justly accept the consequences of my theft.[^10]
+Hindi ito dapat sabihin na ang pagsira sa bintana upang iligtas ang iyong buhay ay hindi mali. Ito ay, dahil ito ay isang mali na halos lahat sa atin ay pipili na mangako kaysa sa mamatay. Kung ako ay nasa gilid ng kamatayan dahil sa gutom, nais kong magnakaw ng isang mansanas. Ito ay hindi nangangahulugan na ito ay* tama* para sa akin ang nakawin ang mansanas -ito ay nangangahulugan lamang ginawa ko ito - at kailangang tangapin na makatarungan ang mga kahihinatnan ng aking pagnanakaw.[^10]
 
-### Grey Areas
+### Ang Kulay Abong Lugar
 
 The fact that certain “grey areas” exist in the realm of ethics has often been used as a justification for rank relativism. Since on occasion some things remain unclear (e.g. who initiated the use of violence), and since it is impossible to define objective and exact rules for every conceivable situation, the conclusion is often drawn that nothing can *ever* be known for certain, and that no objective rules exist for *any* situation.
 
