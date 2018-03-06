@@ -142,11 +142,11 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^8]: *Aka* "walang-diskriminasyon".
 
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+[^9]: Na aking tinawag na "Hangal para sa Kalayaan" at ang aking musmos na Aleman na kaibigan na si Andre Lichtschlag bilang "Liberallala-Libertaryan".
 
 [^10]: Colin Robertson.
 
-[^11]: Which, of course, was the reason for having invited them here.
+[^11]: Sino, tiyak, ang dahilan kung bakit inanyayahan sila dito.
 
 [^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
 
