@@ -22,7 +22,7 @@ Kudin da ya shafi 'yan adam ya kasance mai yawa
 
 Tun da yake mun kasance ba za mu iya bayyana tsarin dabi'a na duniya ba, an tilasta mana muyi mummunar labarun addini game da 'ya'yanmu, ko kuma su ba da bindigogi, gidan yari da rundunonin soja ga kananan ƙididdigar masu kula da marasa rai da suke kira kansu "jihar."
 
-Tun da abin da muke kira "ka'idoji" ya kasance batun mutum ne kawai kuma kawai al'adu, zamu iya dogara ga zalunci, tsoro da tashin hankali don tabbatar da dokokin zamantakewa. Tun da yake ka'idoji ba su da tushe na hanyar kimiyya, "halin kirki" yana cigaba da kasancewa a cikin fadace-fadace na jinin kabilanci, kowace ƙungiya tana fada da hakori da ƙusa don kula da mutuntaka ga "mutunci.”
+Tun da abin da muke kira "ka'idoji" ya kasance batun mutum ne kawai kuma kawai al'adu, zamu iya dogara ga zalunci, tsoro da tashin hankali don tabbatar da dokokin zamantakewa. Tun da yake ka'idoji ba su da tushe na hanyar kimiyya, "halin kirki" yana cigaba da kasancewa a cikin fadace-fadace na jinin kabilanci, kowace ƙungiya tana fada da hakori da ƙusa don kula da mutuntaka ga "mutunci”.
 
 Ba zamu iya rayuwa ba tare da dabi'ar kirki ba, amma ba zamu iya bayyana dabi'ar kirki ba bisa ga gaskiya - saboda haka za mu zama masu hukunci har abada ga rayuka na munafurci, ma'anar jinsin zuciya ko bauta ta gaskiya.
 
@@ -88,6 +88,6 @@ Na gaskanta cewa ma'anar tsarin tsarin dabi'a shine aikin da ya fi dacewa da ke 
 
 Na shiga cikin yaƙi da makamai da sauran suka hada mun.
 
-[^1]:Zamu tattauna yawanci wadanna abubuwa dalla-dalla a cikin wannan littafin.
+[^1]: Zamu tattauna yawanci wadanna abubuwa dalla-dalla a cikin wannan littafin.
 
 [^2]: Hakika, idan na gaza, na cikakken gaza, wanda kanta zata iya ingantawa da kuma nishaɗi!

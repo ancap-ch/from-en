@@ -52,7 +52,7 @@ In kuma nayi alkawarin zama da mata daya ne, sannan na saba wannan alkawarin. Sa
 
 ### Kauracewa
 
-Idan ace kai dani muna tsaye ne akan tsauni, sai na kalle ka nace, “ka tsaya a gaba na, saboda na jefo ka kasa,” me zaka yi? Idan ka zabi tsayawa a gabana, ni kuma na turo ka, wannan kamar kayi kisan kai ne, a maimakon ace nine na kashe ka. Dalilin anan shine zaka iya kauracewa, idan kaki tsayawa a gabana.
+Idan ace kai dani muna tsaye ne akan tsauni, sai na kalle ka nace, “ka tsaya a gaba na, saboda na jefo ka kasa”, me zaka yi? Idan ka zabi tsayawa a gabana, ni kuma na turo ka, wannan kamar kayi kisan kai ne, a maimakon ace nine na kashe ka. Dalilin anan shine zaka iya kauracewa, idan kaki tsayawa a gabana.
 
 Haka kuma, idan na hadu da kai a gidan giya, nace “ina son ka dawo gida na, don  na daure  ka  a  gado har sai ka mutu saboda  yinwa, “ idan  ka bini, zai kasan ce da kwakwaran dalili ka takaita rayuwanka. Ta wani fuska, ace kwaya nasa a abun shanka, da ka farka sai ka tsinci kanka daure a gado na, karara ba wani abu da zaka iya yi a wannan yanayin.
 

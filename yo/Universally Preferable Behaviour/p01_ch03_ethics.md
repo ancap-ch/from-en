@@ -36,20 +36,20 @@ Bákannáà, kò sí nkán tí n jẹ ojú ọnà àgbáyé to "dára" - gbogbo 
 
 "Ìhùwàsí" wa nínú ohun òtítọ, ni ìta ọkàn wa - awọn ìlànà "ó yẹ," "yẹ," ati "ààyò," kò sí ni ìta ọkàn wa. Sibẹsibẹ, òtítọ wípé "ó yẹ" kò sí nínú nkan òtítọ kò túmọ sí wípé "ó yẹ" jẹ nkán àbínibí. Yálà ìlànà sáyẹnsì tàbí ìṣirò fúnra wọn kò sí nínú òtítọ, sibẹ ẹkọ sáyẹnsì ati ìṣirò sí jẹ ohun ipilẹṣẹ.
 
-### Self-Defeating Arguments
+### Awọn ìjiyàn tí n borí ara wọn
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
+Láti lè bẹrẹ ijiroro wa lórí ìwà, a ní lò láti ni agbọye bi awọn ijiyan ti n borí ara wọn ṣe rí.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Nínú ẹkọ ọrọ ajé, àlàyé kan kò wúlò tó bá ní lò ki iye owó gòkè àti walẹ lásìkò kannáà. Ninu ìmọ físíksì, àlàyé kan kò lè wúlò tó ba ní lò ki afẹfẹ gbà ààyè àti fún pọ nígbà kannáà. Nínú ẹkọ ìṣirò, àlàyé kan kò lè wúlò tó bá ní lò ki méjì pẹlu méjì jẹ márùn, nígbàtí "márùn" jẹ ọnà mìíràn lati juwe méjì pẹlu mẹta, kìí ṣe meji pẹlú méjì, ati láti sọ wípé meji pẹlu méjì jẹ márùn ní pé márùn jẹ déédé pẹlu mẹrin, èyí tó takò ara rẹ.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Ni àpapọ, èyíkéyìí àlàyé tó bá n takò ara rẹ ni sisọ kò lè wúlò. Kò ní lò kíkọ láti ìta, nígbàtí ó ti kọ ara rẹ. A kò ní lò láti ṣe àyẹwò gbogbo ìpamọ ati gbángba àgbáyé lati mọ wípé "square circle" kò sí. Ìlànà náà pàápàá takò ara rẹ, ti ó sí kọ fún ara rẹ ni sisọ.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Ti mo ba fun ẹ ni ẹrí ìṣirò líle kan, tí ó sí rí wípé, láti ìbẹ̀rẹ̀, Mo sọ wípé ẹrí mi gbára lé òtítọ pé méjì pẹlú méjì jẹ mẹrin ati márùn lásìkò kannáà, ó kò ní lò láti ka jìnà kí ó tó mọ wípé ẹrí mi kò wúlò.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist,” my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Bákannáà, bí mó ti sọ tẹlẹ, ti mo ba wá pàdé ẹ láti sọ wípé: "mí kò sí láyé," àlàyé mi parun fúnra rẹ. Tí mo ba le ba ọ sọrọ wípé mi kò sí láyé, ọ fihàn wípé mo wa láyé.
 
-If I come up to you and say: “There is no such thing as truth,” then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Ti mo bá wá pàdé ẹ láti sọ: "kò sí irú nkán bí òtítọ," a jẹ pé mo n ṣe àlàyé ọrọ kan ti mo rò pé ó jẹ òtítọ láti jẹrisi wípé òtítọ kò sí. Lẹẹkansi, ijiyan mí tún jàmbá ara rẹ.
 
-If I tell you that “Language is meaningless,” then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Ti mo ba sọ fún ẹ wípé "Èdè kò ní ìtumọ," a jẹ pé mo tí takò ara mi. Fún mí láti lè ṣàlàyé wípé èdè kò ní ìtumọ, ede gbọdọ ní ìtumọ diẹ.
 
-If I tell you that “Your senses are invalid,” then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand.
+Ti mo bá sọ fún ẹ wipe "awọn ifura ara rẹ kò ní ìwúlò," a jẹ pé ìjiyàn mí jàmbá ara rẹ, nígbàtí ó jẹ pé mo n ló ifura gbigbọ rẹ lati bá ẹ sọrọ wípé ifura gbigbọ rẹ kò wúlò. Ti mo bá lé sọ àlàyé mi fún ẹ dáadáa, a jẹ pé ifura gbigbọ rẹ wúlò. A jẹ pé mo gbọdọ gbèrò wípé ifura ara rẹ wúlò láti lè ṣàlàyé fún ẹ wípé ifura ara rẹ kò wúlò, èyí tí kò lè dúró.

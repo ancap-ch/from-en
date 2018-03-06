@@ -10,13 +10,13 @@ But as e kon be, e kon bad. D correct good consciousness na wetin nor be real, n
 
 We go soon put dis same sense for d mind of people wey dey d society – and as e kon be now, e dey important say we do am.
 
-We make am dey important, say inside d centre of society we put one correct thing wey dem dey call “government.” If dis government nor dey, we go see am say true true d society go enter wahala and scatter scatter, and d world go stop – just as our olden days papa and mama think am say if their gods nor dey, na wahala go full everywhere, and  world go stop.
+We make am dey important, say inside d centre of society we put one correct thing wey dem dey call “government”. If dis government nor dey, we go see am say true true d society go enter wahala and scatter scatter, and d world go stop – just as our olden days papa and mama think am say if their gods nor dey, na wahala go full everywhere, and  world go stop.
 
 But as e kon be, d “government” nor dey exist as d gods nor dey exist.
 
-When we dey talk about “gods,” we dey really talk about wetin the “priests dey think and reason.”
+When we dey talk about “gods”, we dey really talk about wetin the “priests dey think and reason”.
 
-When we talk of “government,” na  d  “violence of small group of people” we mean.
+When we talk of “government”, na  d  “violence of small group of people” we mean.
 
 D idea of how fast fast things about life dey happen, which dem don already prove for physics and biology,  still remain unthinkable to us wey dey for d society.
 

@@ -16,7 +16,7 @@ Cuando obligo a esta mujer a casarse, sólo puedo justificar el uso de la fuerza
 
 Si la mujer no tiene las facultades mentales para tomar sus propias decisiones con respecto al matrimonio, claramente ella ella tampoco *tiene las facultades mentales necesarias para delegar su decisión en un representante*. Si ella no tiene idea de cómo sería un marido bueno o apropiado, entonces cómo puede saber que yo estoy capacitado para elegir un esposo bueno o adecuado para ella?
 
-Si un hombre de muy poca inteligencia no comprende el concepto de “salud,” sería razonable esperar que sea racional al elegir un médico? A fin de elegir un médico de manera competente, debemos entender los conceptos de salud,, eficacia, costo, profesionalismo y muchos más. De la misma manera, si no le permito a una mujer opinar acerca del hombre con el que se casará, entonces claramente debo creer que ella no comprende cómo debe ser un buen marido - pero si ella no comprende cómo debe ser un buen marido, entonces no tiene la capacidad de delegarme esa decisión a mí, pues no tendrá manera de evaluar *mi* criterio con respecto a lo que significa un buen marido.
+Si un hombre de muy poca inteligencia no comprende el concepto de “salud”, sería razonable esperar que sea racional al elegir un médico? A fin de elegir un médico de manera competente, debemos entender los conceptos de salud,, eficacia, costo, profesionalismo y muchos más. De la misma manera, si no le permito a una mujer opinar acerca del hombre con el que se casará, entonces claramente debo creer que ella no comprende cómo debe ser un buen marido - pero si ella no comprende cómo debe ser un buen marido, entonces no tiene la capacidad de delegarme esa decisión a mí, pues no tendrá manera de evaluar *mi* criterio con respecto a lo que significa un buen marido.
 
 Si no puedo decidir de qué color pintar mi casa, y mi solución es firmar un contrato con un pintor permitiéndole elegir el color por mí - y en ese contrato renuncio a todas mis futuras libertades para resistirme a sus decisiones, y le doy el derecho de secuestrarme y esclavizarme si no estoy de acuerdo con sus decisiones, o me niego a pagar por ellas - entonces evidentemente no estoy en mis cabales. Si le doy a alguien el poder de forzarme *por el resto de mi vida*, entonces está claro que no creo ser competente para tomar mis propias decisiones.
 
@@ -30,7 +30,7 @@ De la misma manera, aún si yo elijo pagar mis impuestos voluntariamente, no pue
 
 ### La necesidad del estado?
 
-Toda esta cuestión se vuelve aún más absurda cuando miramos a la “justificación” moral más común con respecto al poder de los gobiernos democráticos, los cuales están basados en la “voluntad de la mayoría.”
+Toda esta cuestión se vuelve aún más absurda cuando miramos a la “justificación” moral más común con respecto al poder de los gobiernos democráticos, los cuales están basados en la “voluntad de la mayoría”.
 
 En primer lugar, “voluntad” es un aspecto del individuo, mientras que “mayoría” es una etiqueta conceptual para un grupo. La “mayoría” puede tener tan “voluntad” como un “estribillo” puede “dar a luz". Si tiene dudas sobre esto, trate de construir una “casa de madera” solamente con el concepto “bosque” en lugar de con trozos de madera.
 

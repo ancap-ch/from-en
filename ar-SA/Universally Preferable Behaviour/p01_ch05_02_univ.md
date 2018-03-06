@@ -1,142 +1,144 @@
-### UPB: Five Proofs
+### UPB: البراهين الخمسة 
 
-As we discussed above, the proposition that *there is no such thing as preferable behaviour* contains an insurmountable number of logical and empirical problems. “Universally preferable behaviour” *must* be a valid concept, for five main reasons.
+كما ناقشنا أعلاه، فإن الاقتراح القائل بأنه * لا يوجد شيء مثل السلوك المفضل * يحتوي على عدد لا يمكن التغلب عليه من المشاكل المنطقية والتجريبية. "السلوك المفضل عالميا" * يجب * أن يكون مفهوما صالحا، لخمسة أسباب رئيسية.
 
-The first is logical: if I argue *against* the proposition that universally preferable behaviour is valid, I have already shown my preference for truth over falsehood – as well as a preference for correcting those who speak falsely. Saying that there is no such thing as universally preferable behaviour is like shouting in someone’s ear that sound does not exist – it is innately self-contradictory. In other words, if there is *no such thing* as universally preferable behaviour, then one *should* oppose anyone who claims that there is such a thing as universally preferable behaviour. However, if one “should” do something, then one has just created universally preferable behaviour. Thus universally preferable behaviour – or moral rules – must be valid.
+الأول هو منطقي: إذا جادلت * ضد * الاقتراح بأن السلوك الأفضل عالميا هو صالح، لقد سبق لي أن أظهرت تفضيلي للحقيقة على الباطل  فضلا عن تفضيلي لتصحيح أولئك الذين يتكلمون زورا. إن القول بأنه لا يوجد شيء مثل السلوك المفضل عالميا مثل الصراخ في أذن شخص ما والقول أن الصوت لا وجود له  فهو متناقض من حيث التناقض. وبعبارة أخرى، إذا كان هناك * لا شيء من هذا القبيل * مثل السلوك المفضل عالميا، ثم الواحد * يجب أن * يعارض أي شخص يدعي أن هناك شيء من قبيل السلوك المفضل عالميا. ومع ذلك، إذا كان المرء "ينبغي" أن يفعل شيئا، الواحد قد خلق للتو السلوك الأفضل عالميا. وبالتالي فإن السلوك المفضل عالميا  أو القواعد الأخلاقية يجب أن تكون صالحه. 
 
-Syllogistically, this is:
+وهذا هو:
 
-1. The proposition is: the concept “universally preferable behaviour” must be valid.
-2. Arguing against the validity of universally preferable behaviour demonstrates universally preferable behaviour.
-3. Therefore no argument against the validity of universally preferable behaviour can be valid.
+1ـ الاقتراح: يجب أن يكون مفهوم "السلوك المفضل عالميا" صحيحا.
+2 ـ إن الطعن في صحة السلوك المفضل عالميا يدل على السلوك المفضل عالميا.
+3 ـ لذلك لا يمكن أن تكون هناك حجة صالحة ضد صحة السلوك الأفضل عالميا .
 
-We all know that there are subjective preferences, such as liking ice cream or jazz, which are not considered binding upon other people. On the other hand, there are other preferences, such as rape and murder, which clearly *are* inflicted on others. There are also preferences for logic, truth and evidence, which are also binding upon others (although they are not usually violently inflicted) insofar as we all accept that an illogical proposition must be false or invalid.
+ونحن نعلم جميعا أن هناك تفضيلات ذاتية، مثل اعجابي بالآيس كريم أو موسيقى الجاز، والتي لا تعتبر ملزمة لأشخاص آخرين. من ناحية أخرى، هناك تفضيلات أخرى، مثل الاغتصاب والقتل، والتي من الواضح أنها * الم * للآخرين. وهناك أيضا تفضيلات للمنطق والحقيقة والأدلة، وهي ملزمة أيضا للآخرين (على الرغم من أنها لا تتعرض عادة للعنف) بقدر ما نقبل جميعا أن الاقتراح غير المنطقي يجب أن يكون كاذبا أو غير صالح. 
 
-Those preferences which can be considered binding upon others can be termed “universal preferences,” or “moral rules.”
+يمكن تسمية هذه التفضيلات التي يمكن اعتبارها ملزمة على الآخرين "التفضيلات العالمية"، أو "القواعد الأخلاقية".
 
-How else can we know that the concept of “moral rules” is valid?
+كيف يمكننا أن نعرف أن مفهوم "القواعد الأخلاقية" صحيح؟
 
-We can examine the question biologically as well as syllogistically.
+يمكننا أن ندرس المسألة بيولوجيا وكذلك من الناحية المقطعية.
 
-For instance, all matter is subject to physical rules – and everything that lives is in addition subject to certain requirements, and thus, if it is alive, must have followed universally preferred behaviours. Life, for instance, requires fuel and oxygen. Any living mind, of course, is an organic part of the physical world, and so is subject to physical laws and must have followed universally preferred behaviours – to argue otherwise would require proof that consciousness is not composed of matter, and is not organic – an impossibility, since it has mass, energy, and life. Arguing that consciousness is subject to neither physical rules nor universally preferred behaviours would be like arguing that human beings are immune to gravity, and can flourish without eating.
+على سبيل المثال، تخضع جميع المواد للقواعد المادية  وكل ماهو حي يخضع لمتطلبات معينة، وبالتالي، إذا كان على قيد الحياة، يجب أن يتبع السلوكيات المفضلة عالميا. الحياة، على سبيل المثال، تتطلب الوقود والأكسجين. أي عقل حي، بالطبع، هو جزء عضوي من العالم المادي، وهكذا يخضع للقوانين المادية، ويجب أن يتبع السلوكيات المفضلة عالميا أن يجادل خلاف ذلك يتطلب دليلا على أن الوعي لا يتكون من المسألة، وليس استحالة العضوية  ، لأنه يحتوي على كتلة، والطاقة، والحياة. إن القول بأن الوعي لا يخضع لقواعد جسدية ولا سلوكيات مفضلة عالميا، مثل حجة أن البشر محصنون من الجاذبية، ويمكن أن يزدهروا دون تناول الطعام. 
 
-Thus it is impossible that anyone can logically argue against universally preferable behaviour, since if he is alive to argue, he must have followed universally preferred behaviours such as breathing, eating and drinking.
+وبالتالي فإنه من المستحيل أن أي شخص يمكن أن يجادل منطقيا ضد السلوك المفضل عالميا، لأنه إذا كان على قيد الحياة في الجدل، يجب عليه أن يتبع السلوكيات المفضلة عالميا مثل التنفس والأكل والشرب.
 
-Syllogistically, this is:
+وهذا هو:
 
-1. All organisms require universally preferred behaviour to live.
-2. Man is a living organism.
-3. Therefore all living men are alive due to the practice of universally preferred behaviour.
-4. Therefore any argument against universally preferable behaviour requires an acceptance and practice of universally preferred behaviour.
-5. Therefore no argument against the existence of universally preferable behaviour can be valid.
+1. جميع الكائنات الحية تتطلب السلوك المفضل عالميا للعيش.
+2. الإنسان هو كائن حي.
+3. لذلك كل الرجال هم على قيد الحياة بسبب ممارسة السلوك المفضل عالميا.
+4. لذلك فإن أي حجة ضد السلوك المفضل عالميا تتطلب قبول وممارسة السلوك المفضل عالميا.
+5. لذلك لا يمكن أن تكون هناك حجة ضد وجود سلوك يفضل عالميا.
 
-Since the scientific method requires empirical corroboration, we must also look to reality to confirm our hypothesis – and here the validity of universally preferable behaviour is fully supported.
+وبما أن المنهج العلمي يتطلب إثباتا تجريبيا، يجب علينا أيضا أن ننظر إلى الواقع لتأكيد فرضيتنا وهنا نؤيد صحة السلوك المفضل عالميا تأييدا تاما. 
 
-Every sane human being believes in moral rules of some kind. There is some disagreement about what *constitutes* moral rules, but everyone is certain that moral rules are valid – just as many scientists disagree, but all scientists accept the validity of the scientific method itself. One can argue that the Earth is round and not flat – which is analogous to changing the definition of morality – but one cannot argue that the Earth does not exist at all – which is like arguing that there is no such thing as universally preferable behaviour.
+كل إنسان عاقل يؤمن بالقواعد الأخلاقية من نوع ما. هناك بعض الخلاف حول ما * يشكل * قواعد أخلاقية، ولكن الجميع على يقين من أن القواعد الأخلاقية صحيحة تماما كما يختلف العديد من العلماء، ولكن جميع العلماء يقبلون صحة المنهج العلمي نفسه. يمكن للمرء أن يجادل بأن الأرض مستديرة وليست مسطحة وهي مشابهة لتغيير تعريف الأخلاق ولكن لا يمكن للمرء أن يجادل بأن الأرض غير موجودة على الإطلاق وهو ما يشبه حجة أنه لا يوجد شيء مثل السلوك المفضل عالميا.
 
-Or:
+أو:
 
-1. For a scientific theory to be valid, it must be supported by empirical observation.
-2. If the concept of “universally preferable behaviour” is valid, then mankind should believe in universally preferable behaviour.
-3. All men believe in universally preferable behaviour.
-4. Therefore empirical evidence exists to support the validity of universally preferable behaviour – and the existence of such evidence *opposes* the proposition that universally preferable behaviour is not valid.
+1 ـ لكي تكون النظرية العلمية صالحة، يجب دعمها بالملاحظة التجريبية.
+2 ـ إذا كان مفهوم "السلوك المفضل عالميا" صحيحا، ينبغي للبشرية أن تؤمن بسلوك يفضل عالميا.
+3 ـ جميع الرجال يصدقون السلوك الأفضل عالميا.
+4 ـ لذلك توجد أدلة تجريبية لدعم صحة السلوك المفضل عالميا ووجود مثل هذه الأدلة * يعارض * الافتراض بأن السلوك المفضل عالميا غير صحيح. 
 
-The fourth argument for the validity of universally preferable behaviour is also empirical. Since human beings have an almost-infinite number of choices to make in life, to say that there are no principles of universally preferable behaviour would be to say that all choices are equal (i.e. subjective). However, all choices are *not* equal, either logically or through empirical observation.
+والحجة الرابعة لسلامة السلوك المفضل عالميا هي أيضا تجريبية. وبما أن البشر لديهم عدد لا حصر له تقريبا من الخيارات التي يجب اتخاذها في الحياة، فإن القول بأنه لا توجد مبادئ للسلوك المفضل عالميا هو قول بأن جميع الخيارات متساوية (أي ذاتية). ومع ذلك، كل الخيارات هي * غير * متساوية، إما منطقيا أو من خلال الملاحظة التجريبية.
 
-For instance, if food is available, almost all human beings prefer to eat every day. When cold, almost all human beings seek warmth. Almost all parents choose to feed, shelter and educate their children. There are many examples of common choices among humankind, which indicate that universally preferable behaviour abounds and is part of human nature.
+على سبيل المثال، إذا كان الغذاء متوفرا، فإن جميع البشر تقريبا يفضلون تناول الطعام كل يوم. في البرد، كل البشر تقريبا يسعون للدفء. ويختار جميع الآباء تقريبا تغذية أطفالهم وإيواءهم وتعليمهم. وهناك العديد من الأمثلة على الخيارات المشتركة بين الجنس البشري، التي تشير إلى أن السلوك المفضل عالميا يكثر، وهو جزء من الطبيعة البشرية.
 
-As mentioned above, no valid theory of physics can repudiate the simple fact that children can catch fly-balls – in the same way, no valid theory of ethics can reject the endless evidence for the acceptance of UPB.
+كما ذكر أعلاه، لا يمكن لأي نظرية صالحة للفيزياء أن ترفض حقيقة بسيطة أن الأطفال يمكنهم التقاط الكرات الطائرة بنفس الطريقة، أي نظرية صالحة للأخلاق يمكن أن ترفض الأدلة التي لا نهاية لها لقبول UPB.  
 
-Or:
+أو:
 
-1. Choices are almost infinite.
-2. Most human beings make very similar choices.
-3. Therefore not all choices can be equal.
-4. Therefore universally preferable choices must be valid.
+1. الخيارات تقريبا لانهائية.
+2. معظم البشر يتخذون خيارات مماثلة جدا.
+3. لذلك ليس كل الخيارات يمكن أن تكون متساوية.
+4. لذلك يجب أن تكون الخيارات المفضلة عالميا صحيحة.
 
-The fifth argument for the validity of universally preferable behaviour is evolutionary.
+والحجة الخامسة لسلامة السلوك المفضل عالميا هي التطور.
 
-Since all organic life requires preferential behaviour to survive, we can assume that those organisms which make the most successful choices are the ones most often selected for survival.
+وبما أن جميع الحياة العضوية تتطلب سلوكا تفضيليا للبقاء على قيد الحياة، يمكننا أن نفترض أن تلك الكائنات التي تختار الخيارات الأكثر نجاحا هي تلك التي غالبا ما يتم اختيارها من أجل البقاء.
 
-Since man is the most successful species, and man’s most distinctive organ is his mind, it must be man’s *mind* that has aided him the most in making successful choices. The mind itself, then, has been selected as successful by its very ability to make successful choices. Since the human mind only exists as a *result* of choosing universally preferable behaviour, universally preferable behaviour must be a valid concept.
+وبما أن الإنسان هو أنجح الأنواع، والأكثر تميزا بالرجل هو عقله، يجب أن يكون الرجل * العقل * الدي ساعده أكثر من غيره في اتخاذ خيارات ناجحة. العقل نفسه، ، قد تم اختياره ناجحا من قبل قدرته على اتخاذ خيارات ناجحة. وبما أن العقل البشري موجود فقط كنتيجة * من اختيار السلوك المفضل عالميا، يجب أن يكون السلوك المفضل عالميا مفهوما صالحا. 
 
-Or:
+أو:
 
-1. Organisms succeed by acting upon universally preferable behaviour.
-2. Man is the most successful organism.
-3. Therefore man must have acted most successfully on the basis of universally preferable behaviour.
-4. Man’s mind is his most distinctive organ.
-5. Therefore man’s mind must have acted most successfully on the basis of universally preferable behaviour.
-6. Therefore universally preferable behaviour must be valid.
+1. تنجح الكائنات الحية عن طريق التصرف على أساس السلوك المفضل عالميا.
+2. الرجل هو أنجح الكائنات الحية.
+3. لذلك يجب أن يتصرف الإنسان بنجاح أكبر على أساس السلوك المفضل عالميا.
+4. عقل الرجل هو الجهاز الأكثر تميزا.
+5. لذلك يجب أن يكون عقل الرجل يتصرف بنجاح أكبر على أساس السلوك المفضل عالميا.
+6. لذلك يجب أن يكون السلوك المفضل عالميا صحيحا.
 
-We could bring many more arguments to support the existence and validity of UPB, but we shall rest our case with the above, and move to an examination of the nature of UPB.
+ويمكننا أن نقدم العديد من الحجج لدعم وجود وصحة أوب، ولكن علينا أن نستريح من حالتنا مع ما سبق، والانتقال إلى دراسة طبيعة UPB.
 
-#### UPB: Optional And Objective
+#### UPB: اختياري وهدفي
 
-Since we have proven the validity of universally preferable behaviour, the question of morality now shifts. Since morality *is* valid, what theories can quantify, classify, explain and predict it?
+بما أننا أثبتنا صحة السلوك المفضل عالميا، فإن مسألة الأخلاق تتغير الآن. وبما أن الأخلاق * صحيحة، فما هي النظريات التي يمكن أن تحددها وتصنفها وتشرحها وتوقعها؟
 
-First of all, we must remember that morality is clearly optional. Every man is subject to gravity and requires food to live, but no man has to act morally. If I rape, steal or kill, no thunderbolt strikes me down. Moral rules, like the scientific method or biological classifications, are merely ways of rationally organising facts and principles relative to objective reality.
+أولا وقبل كل شيء، يجب أن نتذكر أن الأخلاق اختيارية بوضوح. كل إنسان يخضع لخطورة ويتطلب الغذاء للعيش، ولكن لا رجل عليه ان يعمل بالأخلاق. إذا كنت اغتصب، اسرق أو اقتل، لا صاعقة ستضربني. فالقواعد الأخلاقية، مثل المنهج العلمي أو التصنيفات البيولوجية، هي مجرد طرق لتنظيم العقلانية للحقائق والمبادئ المتعلقة بالواقع الموضوعي.
 
-The fact that compliance with moral rules is *optional*, however, has confused many thinkers into believing that morality itself is *subjective*. Nothing could be further from the truth.
+حقيقة أن الامتثال للقواعد الأخلاقية هو * اختياري *، مع ذلك، الخلط بين العديد من المفكرين في الاعتقاد بأن الأخلاق نفسها هي * ذاتية *. لا شيء يمكن أن يكون أبعد عن الحقيقة. 
 
-Living organisms are part of material reality, and material reality is rational and objective. Applying moral theories is optional, but that does not mean that all moral theories are subjective. The scientific method is also optional, but it is not subjective. Applying biological classifications is optional, but biology is not subjective. Choices are optional; consequences are not. I can choose not to eat, but I cannot choose to live without eating. I can choose to behead someone, but I cannot choose whether or not they can live without a head. Morality is thus optional, but the *effects* of moral choices are measurable and objective.
+الكائنات الحية هي جزء من الواقع المادي، والحقيقة المادية عقلانية وموضوعية. تطبيق النظريات الأخلاقية هو اختياري، ولكن هذا لا يعني أن جميع النظريات الأخلاقية هي ذاتية. الطريقة العلمية هي أيضا اختيارية، ولكنها ليست ذاتية. تطبيق التصنيفات البيولوجية هو اختياري، ولكن البيولوجيا ليست ذاتية. الخيارات اختيارية. العواقب ليست كذلك. يمكنني اختيار عدم تناول الطعام، ولكن لا أستطيع أن أعيش للعيش دون تناول الطعام. أستطيع أن أختار رأس  شخص ما، ولكن لا أستطيع أن أختار ما إذا كان بإمكانهم العيش بدون رأس. وبالتالي فإن الأخلاق اختيارية، ولكن * الآثار الأخلاقية للخيارات قابلة للقياس وموضوعية.
 
-Now, since morality is a valid concept, the next question is: to what degree or extent is morality valid?
+الآن، وبما أن الأخلاق مفهوم صحيح، فإن السؤال التالي هو: إلى أي درجة أو مدى الأخلاق صحيحة؟
 
-As mentioned above, the first test of any scientific theory is *universality*. Just as a theory of physics must apply to *all* matter, a moral theory that claims to describe the preferable actions of mankind *must apply to **all** mankind*. No moral theory can be valid if it argues that a certain action is *right* in Syria, but *wrong* in San Francisco. It cannot say that Person A *must* do X, but Person B must *never* do X. It cannot say that what was *wrong* yesterday is *right* today – or vice versa. If it does, it is false and must be refined or discarded.
+كما ذكر أعلاه، فإن الاختبار الأول لأي نظرية علمية هو * عالمي *. تماما كما نظرية الفيزياء يجب أن تنطبق على * كل * المسألة، نظرية أخلاقية أن يدعي وصف الإجراأت الأفضل للبشرية * يجب أن تنطبق على ** ** البشرية *. لا يمكن لأي نظرية أخلاقية أن تكون صحيحة إذا كانت تقول أن عمل معين * صحيح * في سوريا، ولكن * خطأ * في سان فرانسيسكو. لا يمكن القول أن الشخص إ *  ان يقوم ب *  X، ولكن الشخص ب ان لا يقوم ب  X. لا يمكن القول أن ما كان * خطأ * أمس هو * صحيح * اليوم أو العكس بالعكس. وإذا كان الأمر كذلك، فهو خاطىء ويجب تنقيحه أو التخلص منه. 
 
-To be valid, any moral theory must also pass the criterion of *logical consistency*. Since the behaviour of matter is logical, consistent and predictable, all theories involving matter – either organic or inorganic – must also be logical, consistent and predictable. The theory of relativity cannot argue that the speed of light is both constant and not constant at the same time, or that it is one hundred eighty-six thousand kilometres per second, five kilometres in depth, and also green in colour.
+ولكي تكون أي نظرية أخلاقية صحيحة، يجب أيضا أن تمرر معيار التناسق المنطقي *. وبما أن سلوك المادة منطقي ومتسق ويمكن التنبؤ به، يجب أن تكون جميع النظريات التي تنطوي على المادة  سواء العضوية أو غير العضوية  منطقية ومتسقة ويمكن التنبؤ بها. نظرية النسبية لا يمكن أن تجادل بأن سرعة الضوء ثابتة وغير ثابتة في نفس الوقت، أو أنها مائة وثمانية وثمانون ألف كيلومتر في الثانية، خمسة كيلومترات في العمق، وأيضا خضراء في اللون.
 
-However, since moral theories apply to mankind, and mankind is organic, the degree of *empirical* consistency required for moral theories is less than that required for *inorganic* theories. All rocks, for instance, must fall down, but not all horses have to be born with only one head. Biology includes three forms of “randomness,” which are environment, genetic mutation and free will. For example, poodles are generally friendly, but if beaten for years, will likely become aggressive. Horses are defined as having only one head, but occasionally, a two-headed mutant is born. Similarly, human beings generally prefer eating to starving – except anorexics. These exceptions do not bring down the entire science of biology. Thus, since moral theories describe mankind, they cannot be subjected to exactly the same requirements for consistency as theories describing inorganic matter.
+ومع ذلك، بما أن النظريات الأخلاقية تنطبق على البشرية، والبشرية هي العضوية، ودرجة * التجريب * الاتساق المطلوبة للنظريات الأخلاقية هي أقل من تلك المطلوبة ل * النظريات * غير العضوية. كل الصخور، على سبيل المثال، يجب أن تسقط، ولكن ليس كل الخيول يجب أن تولد مع رئس واحد فقط. ويشمل علم الأحياء ثلاثة أشكال من "العشوائية"، والتي هي البيئة، طفرة وراثية والإرادة الحرة. على سبيل المثال، البودل ودية عموما، ولكن إذا ضرب لمدة سنوات، من المرجح أن يصبح عدواني. وتعرف الخيول بأن لها رأس واحد فقط، ولكن في بعض الأحيان، ولدت برأسين. وبالمثل، يفضل البشر عموما تناول الطعام للتجويع باستثناء أنوريكسكس. هذه الاستثناأت لا تقلل علم الأحياء بأكمله. وهكذا، وبما أن النظريات الأخلاقية تصف البشرية، فإنها لا يمكن أن تخضع بالضبط نفس المتطلبات للاتساق والنظريات التي تصف المواد غير العضوية.
 
-The final test that any moral theory must pass is the criterion of empirical observation. For instance, a moral theory must explain the universal prevalence of moral beliefs among mankind, as well as the divergent results of human moral “experiments” such as fascism, communism, socialism or capitalism. It must also explain some basic facts about human society, such as the fact that state power always increases, or that propaganda tends to increase as state power increases. If it fails to explain the past, understand the present and predict the future, then it must be rejected as invalid.
+الاختبار النهائي الذي يجب أن تمر به أي نظرية أخلاقية هو معيار الملاحظة التجريبية. فعلى سبيل المثال، يجب أن تفسر النظرية الأخلاقية الانتشار العالمي للمعتقدات الأخلاقية بين البشر، فضلا عن النتائج المتباينة للتجارب الأخلاقية الإنسانية مثل الفاشية والشيوعية والاشتراكية والرأسمالية. كما يجب أن تفسر بعض الحقائق الأساسية عن المجتمع البشري، مثل حقيقة أن سلطة الدولة تزداد دائما، أو أن الدعاية تميل إلى الزيادة مع زيادة قوة الدولة. إذا فشلت في تفسير الماضي، فهم الحاضر والتنبؤ بالمستقبل، اذن يجب رفضه على أنه غير صالح.
 
-#### UPB: The Practice
+#### UPB: الممارسة
 
-How does all this look in practice? Let’s look at how the requirement for *universality* affects moral theories. We shall touch here on proofs and disproofs for specific moral propositions, which we shall examine in more detail in Part Two.
+كيف يبدو كل ذلك عمليا؟ دعونا ننظر في متطلبات  * العالمية * وتأثير النظريات الأخلاقية. وسوف نتطرق هنا إلى البراهين والديسبروف لاقتراحات أخلاقية محددة، والتي سوف ننظر فيها بمزيد من التفصيل في الجزء الثاني. 
 
-If I say that gravity affects matter, it must affect *all* matter. If even one pebble proves immune to gravity, my theory is in trouble. If I propose a moral theory that argues that people should not murder, it must be applicable to *all* people. If certain people (such as soldiers) are exempt from that rule, then I have to either prove that soldiers are *not* people, or accept that my moral theory is false. There is no other possibility. On the other hand, if I propose a moral theory that argues that all people *should* murder, then I have saved certain soldiers, but condemned to evil all those *not* currently murdering someone (including those being murdered!) – which is surely incorrect.
+إذا قلت أن الجاذبية تؤثر على المسألة، يجب أن تؤثر على * كل * المسألة. حتى لو حصاة واحدة تثبت المناعة ضد الجاذبية، نظريتي في ورطة. إذا اقترحت نظرية أخلاقية تقول بأن الناس لا ينبغي أن يقتلوا، فإنه يجب أن تنطبق على * جميع * الناس. إذا كان بعض الناس (مثل الجنود) معفيين من تلك القاعدة، لا بد لي من إما أن اثبت أن الجنود * ليسو * ناسا، أو قبول أن نظريتي الأخلاقيه كاذبة. ليس هناك إمكانية أخرى. من ناحية أخرى، إذا اقترحت نظرية أخلاقية تقول بأن جميع الناس * ينبغي * ان يقتلو، ثم أنقذت بعض الجنود، ولكن ادنتهم بالشر كلهم فقتل شخص حاليا (بما في ذلك الذين يقتلون!) وهو بالتأكيد غير صحيح.
 
-If, to save the virtue of soldiers, I alter my theory to argue that it is moral for people to murder if someone else tells them to (a political leader, say), then I must deal with the problem of universality. If Politician A can order a soldier to murder an Iraqi, then the Iraqi must also be able to order the soldier to murder Politician A, and the soldier can also order Politician A to murder the Iraqi. The application of this theory results in a general and amoral paralysis, and thus is proven invalid.
+إذا، لإنقاذ الجنود،  يجب ان اغير نظريتي وأن اجادل في أنه من الأخلاقي للناس القتل إذا قال شخص آخر لهم (زعيم سياسي، ويقول)، ثم لا بد لي من التعامل مع مشكلة عالمية. إذا كان السياسي أ يستطيع أن يأمر جنديا بقتل عراقي، فيجب على العراق أيضا أن يأمر الجندي بقتل السياسي إ، كما يمكن للجندي أن يأمر السياسي إ بقتل العراقيين. تطبيق هذه النظرية يؤدي إلى شلل عام وغير أخلاقي، وبالتالي قد ثبت بطله.
 
-I also cannot logically argue that is wrong for *some* people to murder, but right for *other* people to murder. Since all human beings share common physical properties and requirements, proposing one rule for one person and the *opposite* rule for another is invalid – it is like proposing a physics theory that says that some rocks fall down, while others fall up. Not only is it illogical, it contradicts an observable fact of reality, which is that human beings as a species share common characteristics, and so cannot be subjected to opposing rules. Biologists have no problems classifying certain organisms as “human” because they share common and easily identifiable characteristics – it is only moralists who seem to find this level of consistency impossible.
 
-Furthermore, if my moral theory “proves” that the same man should not murder one day, but *should* murder the next day (say, when he steps out into the Iraqi desert), then my position is even more ludicrous. That would be equivalent to arguing that *one day a rock falls downward, and the next day it falls upward!* To call this any kind of consistent theory is to make madness sanity.
+أنا أيضا لا يمكن أن اجادل منطقيا أن من الخطأ ل * بعض * الناس القتل، ولكن يحق ل * الآخرين * بالقتل. وبما أن جميع البشر يتقاسمون الخواص الفيزيائية والمتطلبات المشتركة، فإن اقتراح قاعدة واحدة لشخص واحد و * القاعدة العكسية * هو أمر غير صالح  فهو مثل اقتراح نظرية الفيزياء التي تقول إن بعض الصخور تسقط، في حين تسقط البعض الآخر. ليس من المنطقي فحسب، بل يتناقض مع حقيقة واقعة يمكن ملاحظتها، وهي أن البشر كنوع يشتركون في خصائص مشتركة، وبالتالي لا يمكن إخضاعهم لقواعد معارضة. ليس لدى علماء الأحياء مشاكل في تصنيف بعض الكائنات الحية على أنها "إنسانية" لأنهم يتشاطرون خصائص مشتركة ويمكن التعرف عليها بسهولة، فهم فقط أخلاقيون يبدو أنهم يجدون هذا المستوى من الاتساق مستحيلا.
 
-Since valid theories require *logical consistency*, a moral theory cannot be valid if it is both true and false at the same time. A moral theory that approves of stealing, for instance, faces an insurmountable logical problem. No moral theory should, if it is universally applied, directly eliminate behaviour it defines as moral while simultaneously creating behaviour it defines as *immoral*. If everyone *should* steal, then no one *will* steal – which means that the moral theory can never be practised. And *why* will no one steal? Well, because a man will only steal if he can *keep* the property he is stealing. He’s not going to bother stealing a wallet if someone else is going to immediately steal that wallet from him. Any moral theory proposing that “stealing is good” is also automatically invalid because it posits that property rights are both valid and invalid *at the same time*, and so fails the test of logical consistency. If I steal from you, I am saying that *your* property rights are invalid. However, I want to *keep* what I am stealing – and therefore I am saying that *my* property rights are valid. However, property rights cannot be both valid and invalid at the same time, and so this proposition itself must be invalid.
+وعلاوة على ذلك، إذا كانت نظريتي الأخلاقية "تثبت" أن نفس الرجل لا ينبغي أن يقتل يوم واحد، ولكن * ينبغي * ان يقتل في اليوم التالي (مثلا، عندما يتجه إلى الصحراء العراقية)، اذن موقفي هو أكثر إثارة للسخرية. وهذا ما يعادل حجة أن *في يوم ما الصخرة ستسقط إلى أسفل، واليوم التالي تسقط صعودا! * دعوة هذا نوع من نظرية ثابتة هو جعل الجنون عاقلا. 
 
-Similarly, any moral theory that advocates rape faces a similar contradiction. Rape can *never* be moral, since any principle that approves it automatically contradicts itself. If rape is justified on the principle that “taking pleasure is always good,” then such a principle immediately fails the test of logical consistency, since the rapist may be “taking pleasure,” but his victim certainly is *not*.[^7]
+وبما أن النظريات الصحيحة تتطلب * الاتساق المنطقي *، فإن النظرية الأخلاقية لا يمكن أن تكون صحيحة إذا كانت صحيحة وكاذبة في نفس الوقت. فالنظرية الأخلاقية التي توافق على السرقة، على سبيل المثال، تواجه مشكلة منطقية لا يمكن التغلب عليها. لا ينبغي لأي نظرية أخلاقية، إذا ما طبقت عالميا، أن تقضي مباشرة على السلوك الذي تعرفه بأنه أخلاقي بينما تقوم في نفس الوقت بإنشاء سلوك يعرف بأنه غير أخلاقي *. إذا كان الجميع * يجب * عليهم السرقة، ثم لا أحد * سوف * يسرق هذا يعني أن النظرية الأخلاقية لا يمكن أبدا أن تمارس. و * لماذا * لا أحد يسرق؟ حسنا، لأن الرجل سوف يسرق فقط إذا كان يمكن له * الإبقاء * على الممتلكات التي يسرق. انه لن يكلف نفسه عناء سرقة محفظة إذا كان شخص آخر سوف يسرق على الفور تلك المحفظة منه. أي نظرية أخلاقية تقترح أن "السرقة جيدة" هي أيضا باطلة تلقائيا لأنه يفترض أن حقوق الملكية صحيحة وصالحة * في نفس الوقت *، وبالتالي فشل اختبار الاتساق المنطقي. إذا كانت سرقة منك، وأنا أقول أن * لممتلكاتك * حقوق ملكية غير صالحة. ومع ذلك، أريد أن * ابقي * على ما أنا سرقتة  وبالتالي أنا أقول أن  حقوق ملكيتي صالحة. ومع ذلك، لا يمكن أن تكون حقوق الملكية صالحة وغير صالحة في نفس الوقت، وبالتالي يجب أن يكون هذا الاقتراح نفسه باطلا. 
 
-Thus subjecting moral theories to the scientific method produces results that conform to rationality, empirical observations and plain common sense. Murder, theft, arson, rape and assault are all proven immoral.[^8]
+وبالمثل، فإن أي نظرية أخلاقية تدعو إلى الاغتصاب تواجه تناقضا مماثلا. الاغتصاب لا يمكن * أبدا * أن يكون أخلاقيا، لأن أي مبدأ  يوافق عليه يتناقض تلقائيا. وإذا كان الاغتصاب له ما يبرره على أساس أن "أخذ المتعة جيد دائما"، فإن مثل هذا المبدأ يفشل على الفور في اختبار الاتساق المنطقي، لأن المغتصب قد يكون "يتمتع"، ولكن ضحيته بالتأكيد * لا *. [^ 7 ]
 
-To aid in swallowing this rather large conceptual pill, below is a table that helps equate theories of physics and biology with scientific theories of universally preferable (or moral) behaviour:
+وهكذا فإن فرض النظريات الأخلاقية على المنهج العلمي ينتج نتائج تتفق مع العقلانية والملاحظات التجريبية والحس السليم العادي. القتل والسرقة والحرق المتعمد والاغتصاب والاعتداء كلها ثبت أنها غير أخلاقية. [^ 8]
 
-|                            | Physics                                                                                           | Biology                                                                                      | Morality                                                                                                                      |
+للمساعدة في بلع هذا حبوب منع الحمل المفاهيمية كبيرة نوعا ما، وفيما يلي جدول يساعد على المساواة بين نظريات الفيزياء وعلم الأحياء مع النظريات العلمية للسلوك المفضل (أو الأخلاقي) عالميا:
+
+
+|                            | علوم فيزيائية                                                                                           | مادة الاحياء                                                                                      | الأخلاق                                                                                                                      |
 |:-------------------------- |:------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------------------------------------- |
-| **Subject**                | Matter                                                                                            | Organic Matter                                                                               | Preferable behaviour for mankind                                                                                              |
-| **Instance**               | A rock                                                                                            | A horse                                                                                      | A man                                                                                                                         |
-| **Sample Rule**            | Gravity                                                                                           | The desire for survival                                                                      | Self-ownership                                                                                                                |
-| **Sample Theory**          | Entropy                                                                                           | Evolution                                                                                    | Property rights                                                                                                               |
-| **Sample Classification**  | Matter/Energy                                                                                     | Repitile/Mammal                                                                              | Good/Evil                                                                                                                     |
-| **Example**                | Matter cannot be created or destroyed, merely converted to energy and back                        | If it is alive and warm-blooded, it is a mammal                                              | Stealing is wrong                                                                                                             |
-| **Hypothesis**             | Atoms share common structures and properties, and so behave in predictable and consistent manners | Organic matter has rules – or requirements – that are common across classifications          | Universally preferable behaviour shares common rules and requirements                                                         |
-| **Proof**                  | Logical consistency, empirical verification                                                       | Logical consistency, empirical verification                                                  | Logical consistency, empirical verification                                                                                   |
-| **Negative Proof Example** | If mass does not attract mass, theories relying on gravity are incorrect                          | If organisms do not naturally self-select for survival, the theory of evolution is incorrect | If communism succeeds relative to its stated goals, theories based on the universal validity of property rights are incorrect |
+| **المادة**                | مادة                                                                                            | مادة عضوية                                                                               | السلوك المفضل للبشرية                                                                                              |
+| **الحالة**               | صخرة                                                                                            | حصان                                                                                      | رجل                                                                                                                         |
+| **قوانين بسيطة**            | الجاذبية                                                                                           | الرغبة في النجاة                                                                      | الملكية الخاصة                                                                                                                |
+| **النضرية البسيطة**          | غير قادر علي                                                                                           | التطور                                                                                   | حقوق الملكية                                                                                                               |
+| **تصنيف العينة**  | المادة/الطاقة                                                                                     | الزواحف / الثدييات                                                                             | الخير/الشر                                                                                                                     |
+| **مثال**                | لا يمكن إنشاء المادة أو تدميرها،  تحويلها إلى طاقة والعودة                        | إذا كانت على قيد الحياة والدم حار، فهي ثدييات                                              | السرقة خطأ                                                                                                             |
+| **فرضية**             | الذرات تشترك بهياكل مشتركة وخصائص، وهكذا تتصرف بأخلاق يمكن التنبؤ بها ومتسقة | تحتوي المادة العضوية على قواعد - أو متطلبات - مشتركة بين التصنيفات          | يشترك السلوك المفضل عالميا القواعد والمتطلبات المشتركة                                                         |
+| **الدليل**                  | الاتساق المنطقي، والتحقق التجريبي                                                       | الاتساق المنطقي، والتحقق التجريبي                                                  | الاتساق المنطقي، والتحقق التجريبي                                                                                  |
+| ** مثال إثبات سلبي ** | إذا الكتلة لا تجتذب الكتلة، النظريات التي تعتمد على الجاذبية غير صحيحة | إذا كانت الكائنات الحية لا تختار بطبيعة الحال من أجل البقاء، نظرية التطور غير صحيحة | إذا نجحت الشيوعية في تحقيق أهدافها المعلنة، فإن النظريات القائمة على الصلاحية العالمية لحقوق الملكية غير صحيحة |
 
-Table: Theories of physics and biology and of UPB
+جدول: نظريات الفيزياء وعلم الأحياء و UPB
 
-In conclusion, it is safe to say that (a) moral rules are valid, and (b) moral theories must be subjected to the rigours of logic and evidence, just as theories of physics and biology are. Any moral theory based on non-universal or self-contradictory principles is demonstrably false.
+في الختام، من المأمون القول: (أ) أن القواعد الأخلاقية صحيحة، و (ب) يجب أن تخضع النظريات الأخلاقية لشدة المنطق والأدلة، تماما كما أن نظريات الفيزياء وعلم الأحياء هي. إن أي نظرية أخلاقية تقوم على مبادئ غير عالمية أو متناقضة ذاتيا هي كاذبة بشكل واضح.
 
-#### UPB: The Framework
+#### UPB: الإطار
 
-UPB can thus be seen as a framework for validating ethical theories or propositions – just as the scientific method is a framework that is used to validate scientific theories or propositions.
+وبالتالي يمكن النظر إلى UPB كإطار للتحقق من النظريات الأخلاقية أو المقترحات  كما أن المنهج العلمي هو الإطار الذي يستخدم للتحقق من صحة النظريات أو المقترحات العلمية.
 
-An example of a moral proposition is: “the initiation of the use of force is wrong.” UPB is the methodology that tests that proposition against both internal consistency and empirical observation. UPB thus first asks: *is the proposition logical and consistent?* UPB then asks: *what evidence exists for the truth of the proposition?*
+مثال على اقتراح أخلاقي هو: "استخدام القوة خطأ". أوب هي المنهجية التي تختبر هذا الاقتراح ضد الاتساق الداخلي والملاحظة التجريبية. أوب بالتالي يسأل أولا: *هل هو اقتراح منطقي ومتسق؟ * أوب ثم يسأل: * ما الدليل الموجود لحقيقة الاقتراح؟ *
 
-To keep this book at a reasonable length, we will in general deal mostly with the first criterion of logical consistency. For the second criterion, we shall rely for evidence on the universal prohibitions across all cultures against certain actions such as rape, theft, assault and murder. Much more could be written on the historical evidence that helps support or reject various moral propositions, but we shall leave that for another time. If we establish the validity of UPB, we have achieved an enormous amount. If we do not, evidence will scarcely help us.
+وللحفاظ على هذا الكتاب بطول معقول، سنتعامل بشكل عام مع المعيار الأول من الاتساق المنطقي. وبالنسبة للمعيار الثاني، سنعتمد على أدلة على الحظر الشامل في جميع الثقافات ضد أعمال معينة مثل الاغتصاب والسرقة والاعتداء والقتل. ويمكن كتابة المزيد من الأدلة التاريخية التي تساعد على دعم أو رفض مختلف المقترحات الأخلاقية، ولكن سنترك ذلك لفترة أخرى. إذا أنشأنا UPB صحيح ، فقد حققنا قدرا هائلا. إذا لم نفعل ذلك، فإن الأدلة سوف تساعدنا بالكاد.
 
-Let us now turn to the question of whether the UPB framework deals with matters of *ethics*, or *aesthetics*, or both.
+لننتقل الآن إلى مسألة ما إذا كان إطار UPB يتناول مسائل * الأخلاق *، أو * الجماليات *، أو كليهما.
 
-[^7]: The same goes, of course, for murder and assault. We will be returning to these proofs – as well as a further examination of property rights – in more detail in Part Two of this book.
+[^ 7]: الشيء نفسه ينطبق بالطبع على القتل والاعتداء. وسوف نعود إلى هذه البراهين فضلا عن مزيد من الدراسة لحقوق الملكية بمزيد من التفصيل في الجزء الثاني من هذا الكتاب.
 
-[^8]: Universal and positive moral rules can also be proven – i.e. the universal validity of property rights and non-violence – but we shall discuss that in Part Two.
+[8]: يمكن أيضا إثبات القواعد الأخلاقية العالمية والإيجابية أي الصلاحية العالمية لحقوق الملكية واللاعنف ولكننا سنناقش ذلك في الجزء الثاني.

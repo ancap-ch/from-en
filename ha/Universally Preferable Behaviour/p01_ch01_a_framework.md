@@ -1,96 +1,96 @@
-## A Framework For Ethics
+## Yanayin Tsarin Da’a
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz,” that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Shawarwarin da’a daban suke da sauran ilimin bayanai. Idan nace, “ina son jazz”, wannan bayanin zai iya zama gaskiya ko karya, amma da yawa ba zai zamo laifi a gareka ba ta ko wane hanya. Fifiko na jazz bayani ne akan abun da nake so; akan abun da nace, ba tilas bane ace sai kaso jazz ko kaki jazz.
 
-Similarly, if I say “I like vegetables,” that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food,” then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream,” and, “Ice cream contains milk.”
+Haka kuma, idan nace “ina son ganye”, wannan ma bayani ne daya shafe abun da ni nake so. Amma, idan nace, “ganye abu ne mai kara lafiya”, wannan ya tashi daga bayani na zuwa bayani na hakika. Wannan shine bambam ci tsakanin “Ina son ayis kirim” da ayis kirim akwai madara”.
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+Muhimman hakkokin dake tsakanin bayani na “fifiko” da bayani na “gaskiya” shine bayanin gaskiya hakika ne, an jaraba kuma an daure. Idan kai ma’abocin gaskiya ne, ya zama tilas a gareka ka yarda akwai madara a cikin ayis kirim, da zaran an tabbatar da hakan.[^1]
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Idan nace duniya kaman kollo ne, sannan na kawo kararan hujjoji, wannan ya tashi daga abun da zakayi amfani da ilimin kafinka yarda gaskiya ne. idan har zan iya tabbatar da cewa duniya kamar kollo ne, ya zama dole ka yarda gaskiya ne, sai dai idan ya kasan ce baka bukatar dalili da hujjoji  wurin tantance gaskiya.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Idan na yarda da gaskiyan dokokin shari’a lissafi, ba zaiyu ace naki yarda da gaskiya da aka samu ta wannan dokokin. Idan naki yarda da gaskiyan, ba zaiyu naci gaba da ikirarin yarda da dokokin lissafi ba. Yarda na da wa’innan gaskiyan na nufin na daure kai na da dokokin wannan shari’a. kin yarda da hujjojin da kowa ya yarda dasu masu ma’ana kin yarda da dukkan abun da aka yarda dashi mai ma’ana gaba daya ne.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth.
+A hanyoyin kimiya, Ma’ana da kanta, da shari’a lissafi duk misalai ne na “hakka “sharuddan gina gasikan shawara ne. Bani nace biyu sau biyu na nufin hudu ba- idan kaima ka yarda biyu sau biyu na nufin hudu, baya nufin ka yarada ne saboda nima na yarda, amma saboda abu ne mai ma’ana na hakika.
 
-### Objective Truth
+### Sharuddan Gaskiya 
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Ilimi na gaskiya shine fahiimtar cewa yanayi na gfaskiya ba da yake da yanayin kasan cewar dutse ko bishiyoyi ba.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Ra’ayin “gaskiya” abun da ya shafi lokaci- duk da yake baya nufin ishara ko sabanin lokaci. Ra’ayin  “lafiya” shima ya shafi lokaci- idan muka hada “lafiya” da ciwo, sannan muka danganta shi da cikakiyar lafiya. Abun lura shine “koshin lafiya” na dan tsawon shekara casa’in ba daya bane da na dan tsawon shekara ashirin. Bayani akan ddadewa a duniya a yanzu daban yake shakara darii biyaar da suka wucce.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+Wannan baya nufin, koda yake,   ra’ayin “lafiya” na nufin danganta ka ko ishara. Dan shekara goma maaii famaa da cutar sankarar bargo bashi da lafiya kwata-kwata ba- kamar yanda dan tseren gudu dan shekara ashirin keda lafiya. A yanzun, duk wan   Wanda yakai shekara casa’in a zahirce ya dade, koda yake hakan na iya canza wa idan haanyar kimiya ta lafiya ta samar da hanyar da zamu iya kai shekara dar biyu.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Kamar yanda bayanin “lafiya” ke rarrabewa, bai kauda tsofaffin bayanai, amma yana Kara buda su. Idan hanyoyin cigaba na kimiyar lafiya na iya sa dan shekara casa’in yaci gasar gudu, sannan bayanin mu na lafiya zai iya canza wa- amma baya nufin dan shekara ashirin bashi da lafiya. Koyan aljabara baya gushe lissafi.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Gaskiya nada kima dangaane da muhimmanccin tane. Kimiyar lissafi na Newtonian ya samu daurin gindi daga kimiyar lissafi na einsteiniaan, wanda ya kawo hujjoji masu ma’ana sosai kamar abun mamakin karfin nauyi ko gudu. Koda yake, masu tukin jirgin ruwa wurin lissafin hanyar da tafi inganci a cikin ruwa sunfi samun natsuwa da lissafin kimiyar Newtonian. Ba zaka so tura jiirrgiin sarari zuwa alpha centauri kana amfani da kimiyar lissafi na Newtonian ba, aammaa ba mattsala idan jirgin zai  taasshi  daga lisbon zuwa  new York ne. wahhalaar da akke bukata wuriin kkoya da amfani daa  kimiyar lissafi na Einsteiniaan na da sakamako mara kyau ga masu tukkiin jirgin ruwa.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
+Saboda wannan sakamakon ne, jimlar “kimiyar lissafi Newtonian nada kura-kurai fiye da kimiyar lissafi na Einsteiniaan, amma kimiyar lissafi Newtonian yafi inganci wurin lissafin hanyar jirgin ruwa” za’a iiya cewaa wannan zabi me kyyaau.  Kimiyar lissafi Newtonian naada *karancii daidaittuwa* da *muhimmancii matuka*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse.”
+Idan muna son shan ruwan da yafi inganci, zai zamo zamu biya a kalla dala dduubu akan kowane kolba. Sai dai idan muna da mmahaukatan kkudade da lalata, ba zamu iya biyan wannan kudi ba don kashe kishin mu. Da gaske ne tsaftaccen ruwa yafi mana, amma kudin da tsaftaccen ke bukata yaa wuce misaali, dduk da “tafttaa yafi” yabbaa “tsafta matssallaa” ne wuri.
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater.
+Duk da haka, wannan baya nufin tsafttaccen ruwa ya zammaa zzabi ne. ruwan kaso yafi ruwan rafi.
 
-#### Truth And Objective Reality
+#### Gaskiya da hakikan gaskiya
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Ra’ayin *gaskiya* na bukatar abun daya shafi ra’ayin *daidai ne*. Idan ina kokarin harbin rikakken Saniya a ido, daidaituwan harbi nna ya danganci nisan da mashi na zai iya kaiwa daga tsakiyar.
 
-What, then, is the “bull’s-eye” of truth?
+Don hakka mennenee idon-sanniyyarr na gaskiya?
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+*Gaskiyan* bayanin zaa’a auna shine ddanganee da nutsuwan shi daga hakikan gaskiya.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil,” I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Ajiye matsalolin yare a gefe a yanzun, idan nayi ishara da tsintsun seagull ina cewa, “wancan makera ne”, karara nayi kuskure, saboda makera inorganic ne, kuma basa tashi. Gaskiya wannan bayanin nawa zaa gwada shi dangane da hakikanin gaskiyan lamarin. Tunda tsintsun seagull a zahirce ba makera bane, bayani na karya ne.
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+A zahirce, wannan danganta ka tsakanin gaskiya da hakikan gaskiya na bukatan yare da hankalin mu dangane da ra’ayin. Dda  akwai kwararan dalilai  masu yawan gaske dake yare dda hujja hankali a  ra’ayin gaske; zamu iya kutsawa cikin bayani maii  rudanni akan hakan, amma ya kamata  ace  ya wuce ace  tunda  munaa amfani da ido ne wurin karanta littaffi akan yarukan mutane, zamu iya a kallan  yarda cewa idonka da yaren  da  muke yi, hujjoji ne da  zasu baka  daman tantance yanayin abun da nake rubutawa. Idan babu wani abu da zamu ce, kuma baka fahimci komai dana rubuta ba, wannan jimlar dana rubuta daidai yake da shirme, kuma zamu iya cewa “jita-jita” ne.
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue.
+Ace zaka iya fadan bambamci dake tsakanin yanayin rubutu, zamu iya ci gaba cin fahimta.
 
-#### Accuracy And Consistency
+#### Dai-dai da Daidaito
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Ba zai yu ace nayi fentin girgije dai dai, tunda a cikin lokacin da zanyi fentin girgijen na canza wane akai akai. Zan iya yin fentin *hoton* girgije daidai, wanda yake tsaye cak a lokacin.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Idan na kashe lokaci ina kokarin  fentin girgije, sannan  na  tammbayekjaa  ko  fenti  na daidai yake da  girgijjen, amsarka  zai kasan ce  ba  daidai bane.
 
-In other words, where there is no consistency, there can be no accuracy.
+Ta wani fuskar kuma, inda babu daidaito, ba za’a iya yin daidai ba.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Idan mu kayi mafarki da  daddare,  tunanin mu shine  dokokin “al’amari  da “makamashi” na tsayayyar jihar juyi—muna da  garkuwa da nauyi, sannan idan muka tashi  a  bayan giwa,  sannan zamu iya tafiya ta cikin bango. Ba zai yu mu kirkiri “kimiyar lissafi” da muke so ba da kuma ace munyi fentin girgije daidai.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Dabaru, kimiya da gaskiya, sannan, ace ba zai yuba idan babu *daidaito* .
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Muhimman hakkokin, dokokin dabaru an kirkire su ne daga halayyar al’amari da makamashi, a kalla akan ma’aunin kacinci kacinci. Idan nace ma kaa jeefa kwallo Sama da kasa a lokaci daya, ina saka abun da ba zai yuba, wanda zaka iya gwadawa don kayi abun da nake so.  Idan nace ka noma filin kudu da yamma a tare, zaka kasa jurewa. Idan ko nace ka maida fure zuwa jaki, ba zai taba yiwu wa ba kayi yadda nake so.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Hakikan gaskiya na daidaito da ra’ayi—da kuma daidaito da ra’ayi da muka samo daga dokokin dabaru. Bayanin mu akan gaskiya zai iiya zama daidai *wakiltar* gaskiya a matsayin sakamako daga daidaito da ra’ayi.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull.” If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+A gaskiya tsintsun seagull baya iya rikida zuwa makera—ko sabanin hakan—shine dalilin da yasa muke yanke hukunci daidai akan wani bayani: wancan tsintsun seagull ne”, idan tsintsun seagull na maras wata-waata da cigaba da canja halittar sa, to zai zama mana abu mai wahala gane  gaskiyar lamarin su—ko wani akan hakan.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Wannan shine tushen makullin rarrabewa na hanyoyin kimiya—hayayyafa. Idan nayi ikirari akan halittar nauyi, to zai zamanto kaima zaka iya yaya da wannan ikirarin a mazaunar ku. Idan hakikani gaskiya *ba* daidai bane, yaya da zance zai zamo abu mara tasiri wurin fadin gaskiya.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
+Idan ace kai malamin lissafi ne, zai ma wahalar gaske ka yarda da amsan da ba daidai bane daga dalibi, ko da wannan dalibin na ikirarin cewa “daidai” ne a lokacin daya rubuta, amma ta canza a yayin da ya bada rikon kwarya.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Duk da yake zamu auna  gaskiyar magana ne dangane da ra’ayin hakikanin gaskiya—da basira, da dabaru. Dabara a matsayin horo ya samo asali ne daga daidaituwan hakikanin gaskiya; lura mai zurfi na iya zama daidai ko makamancin haka a sakamakon inganci na halayya gaskiya.
 
-### The Existence Of "Truth"
+### Kasancewar "Gaskiya"
 
-Truth, then, can be measured according to two central criteria:
+Gaskiya, idan, zaka iya auna shi akan abubuwa guda biyu: 
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+1. 2.	Gaskiya shine ma’uunin dake tsakanin tunanin dake cikin zukatan mu da abun daya dace a gaske, wannda yyaa samo asali daga hakikkanin halayyan al’amari da makamashi a zahirce.[^2]
+2. 4.	Gaskiya ma’auni ne dake tsakanin fasahar dake cikin zukatan mu da halittu da halayyan al’amari da makamashin dake bayyane a zahirce.[^3]
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist,” that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
+Hukuncin farko shine ma’aunin dake bayanin inganci fasahar da kansu—kuma wannan inganci abu ne da ya zama dole saboda gaskiyan inganci da kanshi. Idan nace, “ bana  nan”  wannan misalin ra’ayi  ne  da bashi da inganci ko kadan, tunda sai ina nan zan iya fadin kalmar bana nan. Hukunci na biyu shine ma’aunin dake daidai da ra’ayin dake da danganta ka da fasahar mai zurfi idan ka lura da rarrabewan gaskiya.
 
-#### Empiricism Versus Rationality
+#### Zurfin Tunani da Hikima
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Zurfiin Tunani na iya zama tunani saboda ikon da zaka iya kaman kollon da aka jefo, ko auna tafiya; hikima na iya fadin me zai faru da fahimtar hanyar da kollon zata bi tsarin manufa. Karara, idan kollon tabi inda ba’a zata ba—sannan a sihirce ta zama tantabara zuwa takalmi—ba zamu iya fadin hallaiyar su ba.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Tunda al’amari nabin dokoki masu garkuwa, ka’idojin mu *akan* al’amari sai ya zamo yanaa biyayya da dokoki masu garkuwa. Idan bansan komai akan kollon hannu ba, amma iina kallon wasan inda yan wasann ke bin dokoki, ba zai bada ma’ana ba a wurin na kirrkiri ka’ida akan dokokin kollon hannu wadanda zasu ssaba da halaiyar yan wasann daa nake kallo. Tunda hukuncin su daidai yake, *duk ka’idar da zzan kirkira akan dokokin da zasu kare hukuncin sai ta zamo mai inganci.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
+Wannan bukata nna inganci daya ne daga cikin bukatun ginshikin gaskiya. Tunda zahiri nada inganci, ka’idoji akan zahirce sai sunyi inganci.
 
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Hasali ma, matsalar farko ta ko wani ka’ida sai tayi maganin *ingancin kanta*.
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+[^1]: Idan baka san mahimmanci gaskiya, baka taba shiga wannan muhawarar—ko kowa ne muhawarar—da fari ma!
 
-[^2]: Rational consistency, or internal logic.
+[^2]: Ingancin hikima, ko dabaran kai
 
-[^3]: Empirical evidence, or empiricism.
+[^3]: Huujja zurfin tunani, ko hikima
