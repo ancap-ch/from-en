@@ -138,9 +138,9 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^6]: *Aka* Mencius Moldbug.
 
-[^7]: *Aka* Soviet Poverty Lie Center.
+[^7]: *Aka*Ang Kasinungalingan ay Sentro ng Sobiyet.
 
-[^8]: *Aka* “non-discrimination”.
+[^8]: *Aka* "walang-diskriminasyon".
 
 [^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
 
