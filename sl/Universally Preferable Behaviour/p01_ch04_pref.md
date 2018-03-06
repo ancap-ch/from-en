@@ -52,62 +52,68 @@ Prav tako, če človek želi ozdraviti okužbo, * mora * vzeti antibiotike in ne
 
 Z drugimi besedami, če hočeš priti do vrha gore, samo želje po njem ne bodo nikoli delovale. Če želite poznati izvor vesolja, molitev nikoli ne bo dala odgovora. Ljudje si še vedno želijo in molijo, to pa ne pomeni, da je  želeti ali moliti učinkoviteje. Ob upoštevanju tega se obrnemo na vprašanje, ali lahko univerzalni preferenciali veljajo ali ne
 
-### Arguments And Universality
+### Argumenti in Univerzalnost
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+Če se odločim za razpravo, sem implicitno sprejel široko paleto prostorov, za ketere je vredno porabiti nekaj časa, da se jih razpakira.
 
-#### Premise 1: We Both Exist
+#### Prostor 1: Oba obstajata
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+Če se odločim za razpravo z vami, moram nujno sprejeti, da obstajava oba. Če verjamem, da jaz obstajam, a ti ne, potem razpravljanje ne bi bilo smiselno in bi bilo kot dejanje norca. Če bi se začel prepiratii z mojo refleksijo v ogledalu, bi moral biti sediran, in ne debatirati.
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+#### Prostor 2: Čuti imajo zmogljivost za natančnost
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+Ker ljudje ne morejo psihično komunicirati, vse razprave nujno vključujejo dokaze o čutilih. Pisanje predpostavlja videnje; pogovor zahteva slišanje; Braillova pisava zahteva dotik. Tako vsak predlog, ki je odvisen od neveljavnosti čutov, je samouničujoč.
 
-#### Premise 3: Language Has The Capacity For Meaning
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+#### Prostor 3: Jezik ima zmožnost za pomen
 
-#### Premise 4: Correction Requires Universal Preferences
+Podobno kot prostor dve, saj vsi argumenti zahtevajo jezik, je vsaka trditev, ki temelji na predpostavki, da je jezik brez pomena, nemudoma nesprejemljiva. Uporaba jezika za trditev, da jezik nima pomena, je kot uporaba kurirja za pošiljanje sporočila, v katerem trdijo, da kurirji nikoli ne posredujejo sporočil.
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it”, but rather: “You should correct your opinion because it is objectively incorrect”. My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+#### Prostor 4: Popravek zahteva univerzalne prednosti
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+Če me popravite zaradi napake, ki sem jo naredil, implicitno sprejmete dejstvo, da bi bilo * bolje * za mene, da popravim svojo napako. Vaša prednost, da popravim svojo napako, ni subjektivna, ampak objektivna in univerzalna.
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+Ne rečeš mi: "Morate spremeniti svoje mnenje na moje, ker bi ga jaz raje", temveč bolje kot: "Popraviti bi morali svoje mnenje, ker je objektivno napačno". Moja napaka ne izhaja iz zgolj nesoglasja z vami, temveč kot rezultat mojega odstopanja od objektivnega standarda resnice. Tvoja trditev, da naj popravim svoje napačno mnenje, temelji na objektivni vrednosti resnice - to je, da je resnica * splošna prednost * napakam, in da je resnica * univerzalno objektivna *.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+#### Prostor 5: Objektivna metodologija obstaja za ločevanje resnice iz neresnice
 
-#### Premise 6: Truth Is Better Than Falsehood
+Če se ne strinjate z mano, vendar vam rečem, da se morate strinjati z mano, ker imam vedno prav, je malo verjetno, da bi vas zadovoljila strogost mojega argumenta. Če ste navedli dobre razloge, kot zakaj sem se motil, vendar jaz nenehno ponavljam, da sem imel prav, ker imam * vedno * prav, naša interakcija se lahko komajda razvrsti v razpravo.
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+V trenutku, ko podpiram nekakšno objektivno merilo za določanje resnice od laži, sprejemam, da je resnica več kot vprašanje mnenja.
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+To ne pomeni nujno, da so moja objektivna merila * logična * - na primer, lahko bi vas napotili na versko besedilo. Toda tudi če to storim, še vedno sprejemam, da je resnica nekaj, kar prispeva neodvisno od zgolj osebne trditve - da obstaja objektivna metodologija za ločevanje resnice od laž.
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+#### Prostor 6: Resnica je boljša kot laž
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+Če vam povem, da je svet raven, in vi odgovorite, da svet ni raven, ampak okrogel, potem vi implicitno sprejmete aksiom, da resnica in laž, obe obstajata objektivno in da je resnica boljša od laži.
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Če vam reče, da mi je všeč sladoled s čokolado in mi vi rečete, da vam je všeč vanilija, je nemogoče "dokazati", da je vanilija objektivno boljša od čokolade. V trenutku, ko me popravljate glede na objektivna * dejstva *, sprejemate, da obstajajo objektivna dejstva in da je objektivna resnica * splošno bolj priporočljiva * subjektivnim napakam.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+#### Prostor 7: Mirna razprava je najboljši način za reševanje sporov
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+Če vam rečem, da je svet raven, in vi izvlečete pištolo in me ustrelite, to ne bi bilo primer produktivne razprave. Res je, da bi bila naša nesoglasja "rešena" - ampak ker je le eden od nas ostal na koncu.
 
-#### Premise 8: Individuals Are Responsible For Their Actions
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+Če bi mi že vnaprej povedali, da se boste spopadli s katerim koli nesoglasjem, da me boste ustrelil, verjetno ne bi sodeloval v razpravi z vami. Tako je jasno, da se vsaka razprava opira na implicitno predpostavko, da so dokazi, razlog, resnica in objektivnost * univerzalno boljši * načini reševanja sporov med posamezniki. Bilo bi popolnoma nelogično trditi, da je treba razlike v mnenju rešiti s pomočjo nasilja - edini konsistentni argument za vrednost * nasilja je uporaba nasilja. [^ 4]
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+V bistvu, torej, razprava zahteva objektivno metodologijo, s smiselnim jezikom, pri iskanju univerzalne resnice, ki je objektivno bolj prednostna osebni napaki.
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+Ta prednost za univerzalno resnico ni prednost * stopnje *, temveč * vrste *. Bližnjica, ki zmanjša čas vožnje za polovico, je dvakrat boljša kot daljša pot - vendar sta obe * neskončno bolj privlačne * za vožnjo v povsem napačni smeri.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
+Na enak način, resnica ni le "boljša" od napake - je * neskončno bolj priporočljiva * ali zahtevna.
+.
 
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+#### Prostor 8: Posamezniki so odgovorni za svoje ukrepe
+
+Če trdim, da ljudje niso odgovorni za svoja dejanja, se ujamem v paradoks, katerega je vprašanje * ali sem ali nisem odgovoren za moj argument in ali tudi , ali ste ali niste vi odgovorni za vaš odgovor *.
+
+Če je moj argument, da ljudje * niso * odgovorni za svoja dejanja, resničen, potem nisem odgovoren za moj argument in vi niste odgovorni za vaš odgovor. Vendar pa, če verjamem, da niste odgovorni za vaš odgovor, bi bilo dragoceno malo smiselno napovedati argument - to bi bilo popolnoma isto kot argumentacija s televizijskim kompletom. [^ 5]
+
+Tako, v osnovi, če vam povem, da niste odgovorni za svoja dejanja, vam povem, da je splošno bolj priporočljivo, da verjamete, da je preferenca nemogoča, ker če nimate nadzora nad vašimi dejanji, ne morete izbrati želenega stanje, torej resnica nad lažjo. Tako se ta argument, kot zgoraj omenjeni argumenti, samouniči.
+
+[^ 4]: Koristno bi bilo ohraniti prostor za  premislek, ker bo zelo pomembno kasneje.
+
+[^ 5]: Vprašanje odgovornosti je seveda tesno povezano z vprašanjem svobodne volje proti determinizmu, ki bo predmet druge knjige.    
