@@ -160,7 +160,7 @@ b. Anumang mga pagsasaayos, pag-unawa, o mga kasunduan tungkol sa Lisensyadong M
 
 a. Para sa pag-iwas sa pagdududa, ang Pampublikong Lisensya na ito ay hindi, at hindi dapat bigyang kahulugan, bawasan, limitahan, mahigpit, o magpataw ng mga kundisyon sa anumang paggamit ng Materyal na Lisensya na maaaring gawin nang walang pahintulot sa ilalim ng Pampublikong Lisensya.
 
-b. To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
+b. Maipapatupad, awtomatiko itong mababago sa pinakamaliit na lawak na kinakailangan upang maipatupad ito. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
 
 c. No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
 
