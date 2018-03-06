@@ -150,7 +150,7 @@ Tulad ng *akademya* at ang akademikong daigdig ay hindi maaaring asahan na magla
 
 [^12]: Alin ang ganap na magkatugma sa libertaryanismo at ang *desideratum* ang kalayaan ng asosasyon at pagsalungat sa pinilit na pagsasama.
 
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+[^13]: Na kung saan ay antitetiko sa libertaryanismo at ipinagmamalaki sa kasaganaan ng tao.
 
 [^14]: Let me hasten to add here that, despite my misgivings about his “economics,” I still consider Pat Buchanan a great man.
 
