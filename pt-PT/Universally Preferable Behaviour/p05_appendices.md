@@ -4,14 +4,14 @@
 
 Por favor, encontre abaixo um sumário do argumento principal para a moralidade.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
+1. A realidade é objectiva e coerente.
+2. "Lógica" é o conjunto de regras objectivas e coerentes derivadas da consistência da realidade.
+3. Essas teorias que estão em conformidade com a lógica são chamadas "válidas"
+4. Essas teorias confirmadas por provas empíricas são chamadas "precisas"
+5. Essas teorias válidas e precisas são chamadas "verdade"
+6. As "Preferências" são necessárias para a vida, pensamento, linguagem e debate.
+7. Debater exige que ambas partes mantenham a "verdade" objectiva e universalmente preferível.
+8. Assim, o próprio acto de debater contém a aceitação de um comportamento universalmente preferível (CUP).
 9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
 10. The subset of UPB that examines enforceable behaviour is called “morality.”
 11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
