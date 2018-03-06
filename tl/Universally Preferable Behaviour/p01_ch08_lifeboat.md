@@ -46,7 +46,7 @@ Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansa
 2. Kaya silang lahat ay mas pinili ang magnakaw ng mansanas kesa mamatay sa pamamagitan ng gutom.
 3. Samakatuwid ito ay *lalong kanais nais sa buong mundo* upang magnakaw ng mga mansanas kaysa mamatay sa gutom.
 4. Kaya ang kaligtasan ay lalong kanais nais sa buong mundo sa karapatan sa pag-aari.
-5. Thus what is good for the individual is the ultimate moral standard.
+5. Kaya ano ang mas mabuti para sa sarili ay ang panghuli moral na pamantayan.
 
 This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
