@@ -30,12 +30,12 @@ Certamente eu deveria chorar dos próprios telhados que sua água potável estav
 
 Com certeza que com o conhecimento de um envenenamento tão universal e evitável, eu não deveria perder o meu tempo argumentando que o verdadeiro perigo que alguém enfrentava era a pequena possibilidade de que qualquer indivíduo pudesse decidir envenená-lo em qualquer momento no futuro.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+Portanto, como um filósofo preocupado com a violência e a imoralidade, devo concentrar-me nos criminosos privados ou nos criminosos públicos?
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+As violações que experimentei em mãos de criminosos privados tornam-se insignificantes em relação às que experimentei *um dia* sob as ternas bondades dos meus "mestres virtuosos e bons"
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+Então, se os maiores perigos para a Humanidade são as falsas teorias éticas, as nossa maiores prioridades devem ser a descoberta, comunicação e aperfeiçoamento de uma teoria ética válida, racional, empírica e consistente. Se descobrimos que a maioria das vítimas da praga está a morrer devido à água impura, então certamente dizer-lhes que purifiquem a sua água deve ser a nossa primeira e mais alta prioridade.
 
-Let us now turn to that task.
+Passemos agora a essa tarefa.
 
 [^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
