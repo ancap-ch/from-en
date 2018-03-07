@@ -54,9 +54,9 @@ Ang ganitong uri ng "byolohiko hedonism" ay maaaring mag salarawan ng "biyahe ng
 
 Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong ng moralidad. Halimbawa, kung sa kagandahang asal ay pinapayagan na magnakaw ng pagkain kapag ikaw ay gutom, gaano karami na pagkain ang maaari mong manakaw? Paano kong na gugutom kana? Kaya mong magnakaw ng pagkaing yan na hindi masustansiya? Paano magpagpapalusog ang pagkain upang mabigyang katuwiran ang pagnanakaw nito? Gaano katagal matapos magnakaw ng isang pagkain ikaw ay pinapayagan magnakaw ng isa pang pagkain? Ikaw ba ay pinapayagang magnakaw ng pagkain sa halip na maghanap ng trabaho o manawagan sa kawanggawa?
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+Gayundin, kung kaya kong makagawa ng maraming pera bilang isang hitman kaysa sa isang nagtitinda, hindi ko dapat ituloy ang karahasan bilang isang karera? Ito ay tiyak na pinapahusay*sa akin*kaligtasan ng buhay... at iba pa.
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mahirap unawain - o ano ang karamaihang ginagawa ng tao - ay higit na mas mabuti sa lahat" wasakin ang mismong konsepto ng kabutihang asal bilang isang lohikal na kuro kuro, at pinalitan lamang ang byolohiko na mga biyahe bilang mga katarungan para sa pag-uugali. It is an explanation of behaviour, not a proposed moral theory.
 
 ### The Purpose And The Dangers
 
