@@ -60,7 +60,7 @@ Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mah
 
 ### Ang Layunin At Ang Mga Panganib
 
-Sa iyong pasensya na pagpapakasakit, isang panghuli na tanong na kailangang matugunan bago kami tumalon sa kahulugan ng pagsusulit at kung paano magkasya ang iba't ibang mga panukalang balangkas ng asal sa UPB. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+Sa iyong pasensya na pagpapakasakit, isang panghuli na tanong na kailangang matugunan bago kami tumalon sa kahulugan ng pagsusulit at kung paano magkasya ang iba't ibang mga panukalang balangkas ng asal sa UPB. Dahil ang pinakamahirap na gawain aykasinungalingang nauuna, dapat kaming tumigil sa ilang sandali at paalalahanan ang ating sarili bakit natin nilalagay sa ating sarili ang lahat ng hirap at kahirapan na ito.
 
 In other words, before we plunge on, it is well worth asking the question: “Why bother?”
 
