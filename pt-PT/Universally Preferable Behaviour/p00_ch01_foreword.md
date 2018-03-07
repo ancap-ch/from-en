@@ -1,12 +1,12 @@
-## Foreword
+## Prefácio
 
-In many fairy tales, there lives a terrible beast of stupendous power, a dragon or a basilisk, which tyrannises the surrounding lands. The local villagers tremble before this monster; they sacrifice their animals, pay money and blood in the hopes of appeasing its murderous impulses.
+Em muitos contos de fadas, existe um animal terrível de poder imenso, um dragão ou um réptil, que tiraniza as terras ao redor. Os habitantes da região tremem diante desse monstro; sacrificam os seus animais, pagam dinheiro e sangue na esperança de apaziguar os seus impulsos assassinos.
 
-Most people cower under the shadow of this beast, calling their fear “prudence,” but a few – drunk perhaps on courage or foolhardiness – decide to fight. Year after year, decade after decade, wave after wave of hopeful champions try to match their strength, virtue and cunning against this terrible tyrant.
+A maioria das pessoas acobarda-se sob a sombra deste monstro, chamando o seu medo de "prudência", mas alguns - talvez embriagados de coragem ou loucura - decidem lutar. Ano após ano, década após década, grupos e grupos de campeões esperançosos tentam combinar a sua força, virtude e astúcia contra esse terrível tirano.
 
-Try – and fail.
+Tentam e falham.
 
-The beast is always immortal, so the villagers cannot hope for time to rid them of their despot. The beast is never rational, and has no desire to trade, and so no negotiations are possible.
+O monstro é sempre imortal e os aldeões não podem esperar para se livrar do seu déspota. A besta nunca é racional e não tem vontade de mudar, portanto, nenhuma negociação é possível.
 
 The desperate villagers’ only hope is for a man to appear who can defeat the beast.
 
