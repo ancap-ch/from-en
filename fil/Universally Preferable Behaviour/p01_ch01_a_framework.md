@@ -122,51 +122,82 @@ at pwedeng maisalin din sa "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Assuming you can tell the difference between the above two fonts, we can reasonably continue. 
 
-#### Accuracy And Consistency
+Sa pagpapalagay pwede mong sabihin ang pagkakaiba sa pagitan ng dalawang mga istilo ng letra sa itaas, pwede tayong magpatuloy.
 
-It is impossible for me to accurately paint a cloud, since in the time it takes to paint it, the cloud continually changes. I can accurately paint a *photograph* of a cloud, which has become frozen in time.
+Kawastuhan At Kapanatilihan
+Ito ay imposible para sa akin na tumpak na magpinta ng isang ulap, dahil sa oras na kinakailangan upang ipinta ito, ang ulap 
+ay patuloy na nagbabago. Pwede kong i-tugma ang magpinta ng litrato ng isang ulap, na tumagal sa oras.
 
-If I spend an hour trying to paint a cloud, and then I ask you whether or not my painting is an accurate representation of that cloud, you must necessarily reply that it is not.
+Kung gugugol ako ng isang oras para subukang magpinta ng isang ulap, at pagkatapos ay tatanungin ko sa iyo kung o hindi 
+ang aking pagpipinta ay isang tugma na representasyon ng ulap na iyon, kailangan mong itugon na hindi.
 
-In other words, where there is no consistency, there can be no accuracy.
+Sa madaling salita, kung saan walang magkakapareho, pwedenng walang kawastuhan.
 
-When we dream at night, our perceptions are that the rules of “matter” and “energy” are in a constant state of flux – we are immune to gravity, and then we fly on the back of an elephant, and then we can walk through walls. It is no more possible to develop a “scientific physics of dreams” than it is to accurately paint a cloud.
+Kapag nanaginip kami sa gabi, ang aming mga pananaw ay ang mga panuntunan ng "bagay" at "enerhiya" ay sa isang patuloy na 
+estado ng paggalaw ng bagay - hindi kami naaapektuhan sa gravity, at pagkatapos ay lumipad kami sa likod ng isang elepante, at pagkatapos 
+ay pwede kaming maglakad sa pamamagitan ng mga pader. Ito ay hindi posible para bumuo ng isang "pang-agham na pisika ng mga pangarap" 
+kaysa sa tamang-tama na pintura ng isang ulap.
 
-Logic, science and truth, then, are impossible in the absence of *consistency*.
+Ang lohika, ang agham at katotohanan ay imposible sa kawalan ng pagkakapare-pareho.
 
-Fundamentally, the laws of logic are derived from the behaviour of matter and energy, at least at the perceptual level. If I tell you to throw a ball both up and down at the same time, I am asking for the impossible, which you can easily test by attempting to fulfil my request. If I tell you to plough both the north field and the south field simultaneously, you will be unable to comply. If I demand that you turn a rose into a donkey, my demand will never be met.
+Sa panimula, ang mga batas ng lohika ay nagmula sa pag-uugali ng mga bagay at lakas, hindi bababa sa antas ng pag-aakala. Kung sasabihin 
+ko sa iyo na ihagis ang isang bola ng parehong pataas at pababa sa parehong oras, hinihiling ko ang imposible, na pwede mong 
+madaling subukan sa pamamagitan ng pagtatangkang matupad ang aking kahilingan. Kung sasabihin ko sa iyo na mag-araro sa hilaga 
+at patlang sa timog nang sabay-sabay, hindi mo magagawang sumunod. Kung hinihiling ko na buksan mo ang isang rosas sa isang asno, 
+ang aking pangangailangan ay hindi kailanman matutugunan.
 
-Perceptual reality is consistent and objective – and it is from this consistency and objectivity that we derive the laws of logic. Our statements about reality can only accurately *represent* reality as a direct result of this consistency and objectivity.
+Ang pangkaisipang katotohanan ay magkakapareho at layunin - at ito ay mula sa magkakapareho at kawalang-kinikilingan na nakukuha natin 
+ang mga batas ng lohika. Ang aming mga pahayag tungkol sa katotohanan ay pwede lamang tugma na kumakatawan sa katotohanan bilang 
+isang direktang resulta ng magkakapareho at kawalang-kinikilingan.
 
-The fact that seagulls do not arbitrarily turn into anvils – or vice versa – is the root of our capacity to accurately judge the statement: “That is a seagull”. If seagulls spontaneously and continually changed their nature, we would be unable to make either true or false statements regarding them – or anything for that matter.
+Ang katunayan na ang mga pagbaluktot ay hindi nagkataon at nagiging mga palihan - o kabaligtaran - ay ang ugat ng ating kakayahan para 
+tugma na hahatulan ang pahayag: "Iyon ay isang pagbaluktot". Kung ang mga pagbaluktot ay kusang loob at patuloy na nagbago ang kanilang 
+kalikasan, hindi kami pwedeng gumawa ng alinman sa totoo o huwad na mga pahayag tungkol sa mga ito - o anumang bagay para sa mga bagay na iyon.
 
-This is the root of a key criterion of the scientific method – reproducibility. If I make a universal claim about the nature of gravity, then you should be able to reproduce that claim in your own environment. If reality were *not* consistent, then reproducibility would be an irrational criterion for the establishment of truth.
+Ito ang ugat ng isang pangunahing pamantayan ng siyentipikong paraan - reproducibility. Kung gumawa ako ng isang unibersal na 
+claim tungkol sa likas na katangian ng gravity, pagkatapos ay dapat mong ma-kopyahin ang claim sa iyong sariling kapaligiran. Kung ang 
+katotohanan ay hindi pare-pareho, pagkatapos pagdadagdag ay isang hindi makatwirang pamantayan para sa pagtatatag ng katotohanan.
 
-If you were a maths teacher, you would be very unlikely to accept a wrong answer from a student, even if that student claimed that his answer was “right” when he wrote it down, but just somehow changed in the interim.
 
-Thus we can accept that we must measure the validity of a statement relative to objective reality – both empirically, and logically. Logic as a discipline arises only as a result of the consistency of reality; empirical observations are also valid or invalid only as a result of the consistent nature of reality.
+Kung ikaw ay isang guro ng matematika, malamang na hindi ka makatatanggap ng maling sagot mula sa isang estudyante, kahit na ang 
+estudyante ay naghayag ng kanyang sagot ay "tama" nang isinulat niya ito, ngunit sa saanuman ay nagbago sa pagitan.
 
-### The Existence Of "Truth"
+Sa gayon pwede naming tanggapin na dapat nating sukatin ang bisa ng isang pahayag na may kaugnayan sa layunin ng katotohanan - mula sa parehong 
+obserbasyon, at lohikal. Ang lohika bilang isang disiplina ay nanggaling lamang bilang isang resulta ng pagkakapare-pareho ng katotohanan; 
+Ang mga galing sa observation ay wasto o hindi wasto lamang bilang resulta ng magkakaparehong katangian ng katotohanan.
 
-Truth, then, can be measured according to two central criteria:
+Ang pagkakaroon ng "Katotohanan"
+Ang katotohanan ay pwedeng masukat ayon sa dalawang sentrong pamantayan:
 
-1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
-2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
+Ang katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating kaisipan at ang pagiging magkakapareho ng pagkamaykatwiran, 
+na direktang nagmula sa magkakaparehong pag-uugali ng bagay at enerhiya sa tunay na mundo.[^2]
+Ang katotohanan ay isang sukatan ng ugnayan sa pagitan ng mga ideya sa ating kaisipan at ang kalikasan at pag-uugali ng bagay at lakas 
+sa tunay na mundo.[^3]
+[^2]: Pagkakapareho ng katwiran, o Panloob na lohika.
 
-[^2]: Rational consistency, or internal logic.
+[^ 3]: katibayan ng empiriko, o empirisismo.
 
-[^3]: Empirical evidence, or empiricism.
+Ang unang criterion ay isang sukatan ng pagkakapare-pareho ng mga ideya sa kanilang mga sarili - at ang gayong pagkakapare-pareho 
+ay isang pangangailangan sapagkat ang katotohanan ay magkakapareho sa sarili nito. Kung sasabihin ko, "wala ako", iyon ay isang 
+halimbawa ng isang ideya na hindi nababatay sa sarili, dahil kailangan kong umiiral para ipahayag ang pangungusap. Ang pangalawang 
+pamantayan ay isang sukatan ng kasiguruhan ng mga ideya na may kaugnayan sa mga obserbasyon ng layunin na katotohanan.
 
-The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist”, that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality. 
+Empirisismo Versus Rationality
+Ang empirisismo ay pwedeng pag-iisip bilang ang kakayahan na likas na mahuli ang isang itinapon na bola, o sukatin ang kilusan nito; 
+Ang pagkamaykatwiran ay ang kakayahang mahulaan at maunawaan ang landas na gagawin ng bola batay sa mga prinsipyo ng unibersal. 
+Malinaw, kung ang mga bola ay sapalarang pumasok sa anuman at bawat direksyon - at pagbabago sa mahika sa mga kawan ng mga 
+kalapati para pakinabangan - hindi namin lubos na mahulaan ang kanilang pag-uugali.
 
-#### Empiricism Versus Rationality
 
-Empiricism can be thought of as the ability to instinctively catch a thrown ball, or measure its movement; rationality is the ability to predict and understand the path that ball will take based on universal principles. Clearly, if balls randomly went in any and every direction – and magically transformed into flocks of doves to boot – we would be utterly unable to predict their behaviour.
+Kaya, dahil ang mga bagay ay sumusunod sa mga batas na hindi nababago, ang ating mga teyorya tungkol sa bagay ay dapat ding sumunod sa 
+mga batas na hindi nababago. Kung wala akong nalalaman tungkol sa larong baseball, ngunit panoorin ang isang baseball na laro kung saan ang 
+mga manlalaro ay laging sumunod sa mga patakaran, magiging hindi makatwiran para sa akin na bumalangkas ng isang teyorya tungkol sa 
+mga panuntunan ng larong baseball na direktang nagkakasalungat sa pag-uugali ng mga manlalaro na pinapanood ko. Dahil ang mga aksyon
+ng mga manlalaro ay magkakapareho, ang anumang teyorya na binuo ko tungkol sa mga patakaran na gagabay sa mga aksyon ay dapat ding 
+maging pare-pareho.
 
-Thus, since matter obeys immutable laws, our theories *about* matter must also obey immutable laws. If I know nothing about baseball, but watch a baseball game where the players always obey the rules, it would be irrational for me to formulate a theory about the rules of baseball that directly contradicted the behaviour of the players I was watching. Since the actions of the players are consistent, *any theory I develop regarding the rules that guide those actions must also be consistent*.
+Ang kinakailangang ito para sa pagbabago ay isa sa mga pinakasimulang kinakailangan para sa katotohanan. Dahil ang katotohanan 
+ay magkakapareho, ang mga teyorya tungkol sa katotohanan ay dapat ding maging magkakapareho.
 
-This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
-
-In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
+Sa katunayan, ang unang sagabal na dapat itaguyod ng anumang teyorya ay ang panloob na pagkakapare-pareho.
