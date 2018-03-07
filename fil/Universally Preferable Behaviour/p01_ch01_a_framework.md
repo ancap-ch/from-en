@@ -1,48 +1,124 @@
-## A Framework For Ethics
+ Ang Balangkas Para sa mga Etika
+Iba't ibang uri ng mga palagay ng kaalaman ang mga etikal na pahayag. Kung sinasabi ko,
+"Gusto ko ng jazz", na pwedeng totoo o huwad na pahayag, ngunit hindi ito karaniwang 
+itinuturing na umiiral sa iyo sa anumang paraan. Ang aking kagustuhan sa jazz ay isang 
+pahayag lamang ng personal na pagmamahal; batay sa aking pahayag, ito ay hindi nanunungkulan
+sa iyo sa alinman gaya o hindi gusto jazz.
 
-Ethical propositions are different from other types of knowledge statements. If I say, “I like jazz”, that may be a true or false statement, but it is not generally considered binding upon you in any way. My preference for jazz is a mere statement of personal fondness; based on my statement, it is not incumbent upon you to either like or dislike jazz.
+Kagaya nito, kung sinasabi ko "Gusto ko ng mga gulay", iyon ay isang pahayag lamang ng
+personal na kagustuhan. Gayunpaman, kung sinasabi ko, na "ang mga gulay ay masustansiyang pagkain", 
+pagkatapos ay lumipat ako mula sa isang pahayag ng personal na kagustuhan sa isang pahayag ng 
+layunin na katotohanan. Ito ang pagkakaiba sa pagitan ng "Gusto ko ng ice cream", at, 
+"Ice cream na naglalaman ng gatas".
 
-Similarly, if I say “I like vegetables”, that is also a mere statement of personal preference. However, if I say, “vegetables are healthy food”, then I have shifted from a statement of personal preference to a statement of objective fact. It is the difference between “I like ice cream”, and, “Ice cream contains milk”.
+Ang pangunahing pagkakaiba sa pagitan ng mga pahayag ng kagustuhan at pahayag ng katotohanan 
+ay ang mga pahayag ng katotohanan ay layunin, nasubok - at may nagbigkis. Kung pinahahalagahan mo
+ang katotohanan, ito ay nanunungkulan sa iyo para tanggapin ang katunayan na ang ice cream 
+ay naglalaman ng gatas, sa sandaling ito ay napatunayan.[^1]
 
-The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
+[^1]: Kung hindi mo pinahahalagahan ang katotohanan, hindi ka kailanman magiging kasama sa debate 
+na ito - o anumang iba pang debate - sa unang lugar!
 
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+Kung sasabihin ko na ang lupa ay bilog, at magbibigay ako ng sapat na katibayan para sa pahayag 
+na ito, hindi na ito magtatagal pa sa iyo upang matukoy ang iyong sariling kapritso kung ang 
+pahayag ay totoo. 
+Kung pwede kong patunayan na ang lupa ay bilog, kung gayon ay tanggapin mo ito bilang totoo,
+maliban na lang kung ikaw ay handa nang tanggihan ang dahilan at katibayan bilang pamantayan 
+para sa katotohanan.
 
-If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
+Kung tinatanggap ko ang katotohanan ng mga batas sa matematika, hindi ko pwedeng tanggihan ang 
+isang katibayan ng matematika na sumusunod sa mga batas na iyon. Kung tinatanggihan ko ang gayong 
+patunay, hindi ko na makukuha na tanggapin ang bisa ng mga batas sa matematika. Ang pagtanggap 
+ko sa mga batas na ito ay nangangahulugan na ako ay nakatatanggap na wasto ang mga patunay na 
+sumusunod sa mga batas na ito. Ang pagtanggi ng isang katibayan na sumusunod sa mga makatwirang
+pamantayan ay isang pagtanggi ng mga makatwirang pamantayan bilang isang kabuuhan.
 
-If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
+Ang pang-agham na pamamaraan, at makatwiran ang kanyang sarili, at mga batas sa matematika ay lahat 
+ng mga halimbawa ng layunin na pamantayan para sa pagtatatag ng katotohanan ng panukala. Hindi 
+ko opinyon ang dalawa at ang dalawa ay gumawa ng apat - kung tatanggapin mo rin ang dalawa at 
+dalawa ay gumawa ng apat, hindi mo ipinailalim ang iyong sarili sa aking opinyon lamang, ngunit 
+sa makatuwirang katotohanan.
 
-The scientific method, rationality itself, and mathematical laws are all examples of *objective* criteria for establishing the truth of a proposition. It is not my opinion that two and two make four – if you also accept that two and two make four, you are not subjecting yourself to my mere opinion, but to a rational truth. 
+Layunin ng Katotohanan
 
-### Objective Truth
+Ang isang pangunahing hamon sa pag-unawa sa kalikasan ng katotohanan ay ang pagkaunawa na ang 
+"katotohanan" ay hindi umiiral sa mundo kagaya ng isang bato o ng isang puno.
 
-A central challenge in understanding the nature of truth is the realisation that “truth” does not exist in the world in the same way that a rock or tree does.
+Ang konsepto ng "katotohanan" ay kinakailangan ng isang kamag-anak na termino - bagaman hindi ito 
+nangangahulugan ng isang pansarili o hindi nagtugma na termino. Ang konsepto ng "kalusugan" ay 
+isang kamag-anak din - inihambing natin ang "kalusugan" sa sakit, at gayundin sa mga kamag-anak 
+na pamantayan ng kalusugan. Ang itinuturing na "magandang kalusugan" para sa isang siyamnapung 
+taong gulang ay halos hindi maituturing na mabuting kalusugan para sa isang dalawampung taong 
+gulang. Ang kahulugan ng isang mahabang buhay ay ibang-iba ngayon kaysa sa limang daang taon na 
+ang nakakaraan.
 
-The concept “truth” is necessarily a relative term – though that does not mean a subjective or arbitrary term. The concept “health” is also a relative term – we compare “health” to sickness, and also to relative standards of health. What is considered “good health” for a ninety-year-old would scarcely be considered good health for a twenty-year-old. The definition of a long life is very different now than it was five hundred years ago.
+Gayunpaman, hindi ito nangangahulugan na ang konsepto ng "kalusugan" ay ganap na kamag-anak at
+pansarili lamang. Ang isang sampung taon gulang na namamatay sa lukemya ay hindi malusog sa 
+pamamagitan ng anumang kahulugan - tulad ng isang dalawampung taong gulang runner marapon ay malusog sa 
+pamamagitan ng anumang kahulugan. Sa kasalukuyan, ang isang tao na nabubuhay sa siyamnapu ay may
+mahabang buhay sa istatistika, kahit na ito ay magbabago kung ang medikal na teknolohiya ay 
+biglang nagpapahintulot sa amin na mabuhay upang maging dalawang daang taon.
 
-This does not mean, however, that the concept of “health” is entirely relative and subjective. A ten-year-old dying of leukaemia is unhealthy by any definition – just as a twenty-year-old marathon runner is healthy by any definition. Currently, a man who lives to ninety has statistically had a long life, though that would change if medical technology suddenly allowed us to live to be two hundred.
+At ang aming kahulugan ng "kalusugan", hindi ito nagpawalang-bisa sa naunang mga 
+kahulugan, ngunit pinalawak nila ito. Kung ang mga medikal na teknolohiya ay inaabangan upang 
+payagan ang mga siyamnapung taong gulang na manalo sa mga marathon, ang aming kahulugan ng kung
+ano ang malusog para sa mga may edad ay magbabago - ngunit hindi ito nangangahulugan na ang 
+dalawampu't-taong-taong kalahok sa paligsahan ng pagtakbo ay biglang nagiging hindi malusog. 
+Ang pag-aaral ng algebra ay hindi nagpawalang-bisa sa aritmetika.
 
-As our definition of “health” expands, it does not invalidate earlier definitions, but rather extends them. If medical technology advances to allow ninety-year-olds to win marathons, then our definition of what is healthy for the aged will change – but that does not mean that the twenty-year-old marathon runner suddenly becomes unhealthy. Learning algebra does not invalidate arithmetic.
+Ang katotohanan ay may halaga din sa pangangailangan. Ang pisika ni Newton ay pinalitan ng pisika ni
+Einsteinian, na napatunayan na mas tumpak sa mga extreme sitwasyon gaya ng extraordinarily 
+high gravity o bilis. Gayunpaman, ang mga manlalayag na nagnanais na kalkulahin 
+ang tamang landas sa isang karagatan ay makahanap ng higit na tumpak na eksaktong pisika ng 
+mga taga newton. Hindi mo nais na magpadala ng isang sasakyang mangangalaga sa Alpha Centauri 
+gamit ang pisika ng mga taga newton, ngunit ito ay ganap na multa para sa pagkuha ng isang barko 
+mula sa Lisbon sa New York. Ang paggawa na kasangkot sa pag-aaral at pagpapatupad ng pisika ng mga
+einsteinian ay sa gayon ay isang net negatibong para sa isang mandaragat.
 
-Truth also has value relative to necessity as well. Newtonian physics has been supplanted by Einsteinian physics, which has proven far more accurate in extreme situations such as extraordinarily high gravity or speed. However, sailors wishing to calculate the correct path across an ocean find Newtonian physics more than accurate enough. You wouldn’t want to send a spaceship to Alpha Centauri using Newtonian physics, but it is totally fine for getting a ship from Lisbon to New York. The labour involved in learning and implementing Einsteinian physics is thus a net negative for a sailor.
+Bilang resulta, ang pangungusap na "pisika ng mga taga newtoa ay mas tumpak kaysa sa pisika ni 
+Einsteinian, ngunit ang pisika ng taga Newton ay ang pinakamahusay na paraan para makalkula ang 
+isang landas ng barko" ay maaaring isaalang-alang na isang wastong panukala. Gayunman, ang 
+pisika ng mga taga Newton ay mas sigurado, at mas nababatay.
 
-As a result, the sentence “Newtonian physics is less accurate than Einsteinian physics, but Newtonian physics is the best way to calculate a ship’s path” can be considered a valid proposition. Newtonian physics is thus both *less accurate*, and *more appropriate*.
 
-If we wanted to drink the purest possible water, we would likely pay thousands of dollars per bottle. Unless we were enormously rich and highly frivolous, we would never pay that much to quench our thirst. It is true that pure water is better for us, but the price that purity requires hits a threshold of diminishing returns. Thus “purer is better” gives way to “purer is worse”.
+Kung gusto naming uminom ng pinaka purong posibleng tubig, malamang na magbabayad kami ng 
+libu-libong dolyar sa bawat bote. Maliban na lang kung kami ay sobra sobrang at napakalubha, 
+hindi kami kailanman magbayad nang husto upang mapawi ang aming uhaw. Totoo na ang dalisay na 
+tubig ay mas mabuti para sa atin, ngunit ang presyo na nangangailangan ng kadalisayan ay umabot 
+sa isang limitasyon ng lumiliit na pagbalik. Kaya ang "purer ay mas mahusay" ay nagbibigay 
+daan sa "purer ay mas masahol".
 
-Again, this does not mean that the purity of water is utterly subjective. Distilled water is always more potable than seawater. 
+Muli, hindi ito nangangahulugan na ang kadalisayan ng tubig ay lubos na pansarili. Ang dalisay 
+na tubig ay laging mas naiinom kaysa sa tubig sa dagat.
 
-#### Truth And Objective Reality
+Katotohanan at Layunin Reality
+Ang konsepto ng katotohanan ay kinakailangang nagsasangkot sa konsepto ng kasiguraduhan. Kung 
+sinusubukan kong itira ang isang palaso sa isang sentro, ang kasiguraduhan ng aking pagbaril 
+ay natutukoy kung gaano kalayo ang landas ng aking palaso mula sa gitna.
 
-The concept of *truth* necessarily involves the concept of *accuracy*. If I am trying to shoot an arrow at a bull’s-eye, the accuracy of my shot is determined by how far my arrow lands from the centre.
+Kung gayon, ano ang "tuta ng mata" ng katotohanan?
 
-What, then, is the “bull’s-eye” of truth?
+Mabuti, ang katotohanan ng isang pahayag ay masusukat na may alinsunod sa pag-uugali nito sa 
+layunin ng katotohanan.
 
-Well, the *truth* of a statement is measurable relative to its conformity with objective reality.
+Sa paglalagay ng mga hamon ng wika sa sandaling ito, kung ituturo ko sa isang tagak at 
+sabihin, "Iyon ay isang palihan", maliwanag na ako ay nagkakamali, dahil ang mga palihan ay 
+tulagay, at hindi pwedeng lumipad. Ang katotohanang katotohanan ng aking pahayag ay sinusukat 
+sa mga layunin ng katotohanan. Dahil ang kanyon ay hindi sa katunayan ay isang palihan, ang 
+aking pahayag ay hindi totoo.
 
-Putting aside the challenges of language for the moment, if I point to a seagull and say, “That is an anvil”, I am clearly mistaken, because anvils are inorganic, and cannot fly. The truth value of my statement is measured relative to the objective facts of reality. Since the seagull is not in fact an anvil, my statement is untrue.
+Siyempre, ang ekwasyon na ito sa pagitan ng katotohanan ay nangangailangan na 
+ang wika at ang aming mga pandama ay itinuturing na bahagyang layunin. Maraming magandang dahilan 
+para maniwala na ang katunayan ng parehong wika at kahulugan ay sa katunayan layunin; pwede 
+kaming makakuha ng isang kumplikadong pag-uusap tungkol dito, ngunit dapat ay may sapat na 
+sasabihin na dahil ginagamit mo ang iyong mga mata upang basahin ang isang libro na nakasulat 
+sa isang wika ng tao, pwede naming gawin na hindi bababa sa sumang-ayon na ang iyong mga mata, 
+at ang wika na aming ibinabahagi, ay nasa hindi gaanong sapat na layunin para sa tumpak mong 
+iproseso ang aking isinusulat. Kung wala sila, wala kaming dapat pag-usapan, at hindi mo 
+naintindihan ang anumang nakasulat ko pa rin, kaya ang pangungusap na ito ay walang kapararakan, 
+at pwedeng maisalin din sa "Wingdings".
 
-Naturally, this equation between truth and reality requires that language and our senses be considered relatively objective. There are many good reasons to believe that both language and sense evidence are in fact objective; we could get into a complicated discussion about this, but it should suffice to say that since you are using your eyes to read a book written in a human language, we can at least agree that your eyes, and the language we share, are at least objective enough for you to accurately process what I am writing. If they are not, we have nothing to talk about, and you haven’t understood anything I’ve written anyway, so this sentence will be equally meaningless, and might as well have been rendered in “Wingdings”.
+
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
