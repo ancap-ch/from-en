@@ -38,79 +38,79 @@ Two additional objections constantly recur whenever the question of the necessit
 
 The first and most obvious problem with this position is that if evil people exist in society, they will also exist within the government – and be far more dangerous thereby. Citizens can protect themselves against evil individuals, but stand no chance against an aggressive government armed to the teeth with police and military might. Thus the argument that we need the government because evil people exist is false. If evil people exist, the government *must* be dismantled, since evil people will be drawn to use its power for their own ends – and, unlike private thugs, evil people in government have the police and military to inflict their whims on a helpless (and relatively disarmed) population. Thus the argument is akin to the idea that “counterfeiters are very dangerous, so we should provide an exclusive monopoly over counterfeiting to a small group of individuals”. Where on earth do people think the counterfeiters will go first?[^5]
 
-Logically, there are four possibilities as to the mixture of good and evil people in the world:
+از نظر منطقی، ۴دلیل برای مخلوط کردن افراد خوب و بد در جهان وجود دارد:
 
-1. All men are moral.
-2. All men are immoral.
-3. The majority of men are immoral, and a minority moral.
-4. The majority of men are moral, and a minority immoral.[^6]
+1. همه ی انسان ها اخلاقی هستند.
+2. همه ی انسان ها غیراخلاقی هستند.
+3. اکثریت افراد غیر اخلاقی واقعیت آنها اخلاقی هستند.
+4. اکثریت افراد اخلاقی واقعیت آنها غیر اخلاقی هستند. [^6]
 
-In the first case (*all men are moral*), the government is obviously not needed, since evil cannot exist.
+در مورد اول (*همه ی انسان ها اخلاقی هستند*)، دولت به وضوح مورد نیاز نیست؛ زیرا شرارت نمی تواند وجود داشته باشد.
 
-In the second case (*all men are immoral*), the government cannot be permitted to exist for one simple reason. The government, it is generally argued, must exist because there are evil people in the world who desire to inflict harm, and who can only be restrained through fear of government retribution (police, prisons, *et al*). A corollary of this argument is that the less retribution these people fear, the more evil they will do.
+در مورد دوم، (*همه ی انسان ها غیر اخلاقی هستند*)، دولت نمی تواند برای یک دلیل ساده مجاز به وجود باشد. دولت، به طور کلی استدلال می شود، باید وجود داشته باشد زیرا مردم بد که تمایل به تحمیل ضرر دارند، وجود دارند. و چه کسی از طریق ترس از مجازات حکومت(پلیس، زندان ها و غیره)، توقیف می شود؟ یک اصل تبعی از این استدلال این است که هرچه این مردم کمتر از مجازات بترسند، شرارت بیشتری انجام خواهند داد.
 
-However, the government *itself* is not subject to any force or retribution, but is a law unto itself. Even in Western democracies, how many policemen and politicians go to jail?
+با این حال، به *خود* دولت، هیچ اجبار یا مجازاتی تحمیل نمی شود، اما قانونی برای خودش است. حتی در دموکراسی های غربی، چند پلیس و سیاستمدار به زندان می روند؟
 
-Thus if evil people wish to do harm, but are only restrained by force, then society can *never* permit a government to exist, because evil people will work feverishly to grab control of that government, in order to do evil and avoid retribution. In a society of pure evil, then, the only hope for stability would be a state of nature, where a general arming and fear of retribution would blunt the evil intents of disparate groups. As is the case between nuclear-armed nations, a “balance of power” breeds peace.
+بنابراین، اگر افراد شرور، تمایل به آسیب رساندن داشته باشند، اما فقط از طریق اجبار توقیف می شوند، پس جامعه *هرگز* اجازه نمی دهد که دولت وجود داشته باشد؛ زیرا مردم بد مشتاقانه برای گرفتن کنترل آن دولت، کار می کنند تا بدی کنند و از مجازات در نیز اجتناب کنند. پس از آن، در جامعه ای از بدی خالص، تنها امید به ثبات، یک وضعیت طبقاتی خواهد بود؛ جایی که مسلح شدن عمومی و ترس از مجازات، قصد و نیت شر گروه های مختلف را کاهش می دهد. همانطور که در بین ملل مسلح هسته ای، "تعادل قدرت" صلح را بوجود می آورد.
 
-The third possibility is that *most* people are evil, and only a few are good. If that is the case, then the government also cannot be permitted to exist, since the majority of those in control of the government will be evil, and will rule despotically over the good minority. Democracy in particular cannot be permitted, since the minority of good people would be subjugated to the democratic control of the evil majority. Evil people, who wish to do harm without fear of retribution, would inevitably control the government, and use its power to do evil free of the fear of consequences.
+سومین احتمال این است که *بیشتر* مردم بد هستند و فقط تعداد کمی از آنها خوب هستند، اگر این مورد باشد، پس دولت بازهم اجازه وجود ندارد؛ زیرا اکثر کسانی که کنترل دولت را بدست خواهند گرفت، شرور هستند و به صورت مستبدانه بر اقلیت مردم خوب، حکمرانی می کنند. دموکراسی در موارد خاص نمی تواند مجاز باشد؛ زیرا اقلیت مردم تحت انقیاد کنترل دموکراتیک مردم بد قرار میگیرند. مردم بد، کسانی هستند که میخواهند بدون ترس از مجازات، ضرر برسانند و ناچارا کنترل دولت را به دست خواهند گرفت و از قدرت خود برای انجام آزادانه کارهای شر، بدون ترس از عواقب آن، استفاده می کنند.
 
-Good people do not act morally because they fear retribution, but because they love virtue and peace of mind – and thus, unlike evil people, they have little to gain by controlling the government. In this scenario, then, the government will inevitably be controlled by a majority of evil people who will rule over all, to the detriment of all moral people.
+مردم خوب به صورت اخلاقی عمل نمیکنند، زیرا از مجازات هراسانند اما به خاطر اینکه فضیلت و آرامش ذهن را دوست دارند،- و در نتیجه، مردم بد را دوست ندارند، آنها چیز کمی از کنترل دولت به دست می آورند. در نتیجه، در این سناریو، دولت ناچارا توسط اکثریت مردم بد اداره می شود که میخواهند بر همه حکمفرمانی کنند و به همه ی مردم اخلاق مدار ضرر برسانند.
 
-The fourth option is that most people are good, and only a few are evil. This possibility is subject to the same problems outlined above, notably that evil people will always want to gain control over the government, in order to shield themselves from just retaliation for their crimes. This option only changes the *appearance* of democracy: because the majority of people are good, evil power-seekers must lie to them in order to gain power, and then, after achieving public office, will immediately break faith and pursue their own corrupt agendas, enforcing their wills through the police and the military.[^7] Thus the government remains the greatest prize to the most evil men, who will quickly gain control over its awesome power – to the detriment of all good souls – and so the government cannot be permitted to exist in this scenario either.
+گزینه ی چهارم این است که اکثر مردم خوب باشند و تعداد کمی از آنها شرور باشند. این امکان نیز به همان مشکلاتی که در بالا خلاصه شد، تعمیم داده میشود. قابل توجه است که مردم بد، همیشه خواهند خواست کنترل دولت را به دست بگیرند تا از خود در برابر مجازات جرایمشان محافظت کنند. این گزینه فقط*ظاهر * دموکراسی را عوض میکند: زیرا اکثریت مردم خوب هستند. جویندگان قدرت شرور، باید برای بدست آوردن قدرت به آنها دروغ بگویند، و سپس، بعد از بدست آوردن مقامات دولتی، ناگهان وفاداری خود را میشکنند و دستور جلسه های فاسد خود را ، با اجرای خواسته های شان توسط پلیس و ارتش، دنبال میکنند. [7^]  بنابراین، دولت، بزرگترین جایزه برای افراد شرور باقی می ماند که میخواهند قدرت بی همتای آن را- به ضرر همه ی افراد خوب- در دست بگیرند. پس دولت در این سناریو نیز نمی تواند مجاز به وجود باشد.
 
-It is clear, then, that there is no situation under which a government can logically or morally be allowed to exist. The only possible justification for the existence of a government would be if the majority of men are evil, but all the power of the government is always controlled by a minority of good men.[^8]
+در نتیجه، این روشن است که هیچ موقعیتی که تحت آن دولت از نظر اخلاقی یا قانونی، مجاز به وجود باشد، ومود ندارد. تنها توجیه ممکن برای وجود دولت این است که اکثریت مردم بد باشند؛ ولی همه ی قدرت دولت، همیشه توسط اقلیت مردم خوب اداره شود.[^8]
 
-This situation, while interesting theoretically, breaks down logically because:
+این موقعیت در حالیکه از نظری تئوری جالب است، از نظر منطقی رد میشود، زیرا:
 
-1. The evil majority would quickly outvote the minority or overpower them through a coup;
-2. There is no way to ensure that only good people would always run the government; and,
-3. There is absolutely no example of this having ever occurred in any of the brutal annals of state history.
+1. کثریت شرور به سرعت از اقلیت رای بیشتری می آورند یا از طریق کودتا بر آنها غلبه پیدا می کنند.
+2. هیچ راهی وجود ندارد که اطمینان حاصل شود که فقط مردم خوب همیشه دولت را اداره می کنند؛ و،
+3. مسلما از اتفاق افتادن چنین چیزی در هیچ تاریخچه ظالمی از تاریخ وجود ندارد.
 
-The logical error always made in the defence of the government is to imagine that any collective moral judgements being applied to any group of people is *not also being applied to the group which rules over them*. If fifty percent of people are evil, then *at least* fifty percent of people ruling over them are also evil.[^9] Thus the existence of evil can never justify the existence of a government.
+خطای منطقی ای که همیشه در دفاع از دولت ایجاد شده، تصور این است که هر قضاوت اخلاقی مشترک که به هر گروهی از مردم اعمال می شود، *بر گروهی که به آنها حکمفرمانی میکند، اعمال نمی شود.* اگر پنجاه درصد مردم بد هستند، * حداقل * پنجاه درصد از افرادی که بر آنها حکومت می کنند نیز بد هستند. [9] بنابراین وجود شرارت هرگز نمی تواند وجود یک دولت را توجیه کند.
 
-If there is no evil, governments are unnecessary. If evil exists, the governments are far too dangerous to be allowed to exist.
+اگر هیچ بدی وجود ندارد، دولت ها غیر ضروری هستند. اگر شر وجود دارد، دولت ها برای موجود بودن، بسیار خطرناک هستند.
 
-Why is this error so prevalent?
+چرا این خطا خیلی شایع است؟
 
-There are a number of reasons, which can only be touched on here. The first is that the government introduces itself to children in the form of public school teachers who are considered moral authorities. Thus are *morality* and *authority* first associated with the government – an association that is then reinforced through years of grinding repetition.
+تعدادی از دلایل وجود دارد که تنها در اینجا می توان آن ها را استفاده کرد. اول این است که دولت خود را به عنوان معلمان مدرسه عمومی معرفی می کند که به عنوان مقامات اخلاقی در نظر گرفته می شوند. بنابراین * اخلاق * و * اقتدار * در ابتدا با دولت مرتبط است - یک انجمن است که پس از سال ها تکرار مداوم اجرا می شود.
 
-The second is that the government never teaches children about the root of its power – violence – but instead pretends that it is just another social institution, like a business or a church or a charity, but more moral.
+دوم این است که دولت هرگز بچه ها راجع به ریشه قدرتش - خشونت- نمی آموزد بلکه به جای آن،  وانمود می کند که این فقط یک نهاد اجتماعی دیگر است، مانند یک کسب و کار یا یک کلیسا یا یک خیریه، اما بیشتر اخلاقی است.
 
-The third is that the prevalence of religion and propaganda has always blinded men to the evils of the government – which is why rulers have always been so interested in furthering the interests of churches and state “education”. In the religious world-view, absolute power is synonymous with perfect virtue, in the form of a deity. In the real political world of men, however, increasing power always means increasing evil. With religion, also, all that happens must be for the good – thus, fighting encroaching political power is fighting the will of the deity. There are many more reasons, of course, but these are among the deepest.[^10]
+سوم اینکه نفوذ دین و تبلیغات، بشر را برای دیدن شرارت دولت، کور کرده است- به همين دليل حاکمان هميشه علاقه مند به پيشبرد منافع کلیسا و "تحصيلات" دولتی هستند. در دنیای دینی، قدرت مطلق مترادف با فضیلت کامل است، به شکل خدا. . با این حال، در دنیای واقعی سیاسی  بشر، افزایش قدرت همیشه به معنی  افزایش شرارت است. با دین، هم چنین، همۀ این اتفاق ها باید برای خوبی باشد - در نتیجه، مبارزه با تخطی قدرت سیاسی، مبارزه با اراده ی خداوند است. البته، بسیاری از دلایل وجود دارد، اما این ها یکی از اصلی ترین ها هستند. [^10]
 
-At the beginning of this section, I mentioned that people generally make *two* errors when confronted with the idea of dissolving the government. The first is the belief that governments are necessary because evil people exist. The second is the belief that, in the absence of governments, any social institutions that arise will inevitably take the place of governments. Thus, Dispute Resolution Organisations (DROs), insurance companies and private security forces are all considered potential cancers that will swell and overwhelm the body politic.
+در شروع این بخش، ذکر کردم که مردم، به طور کلی، هنگام رو به رو شدن با ایده ی انحلال دولت *دو* خطا ایجاد میکنند. اولین مورد باور این است که دولت ها بخاطر اینکه مردم شرور وجود دارند، ضروری هستند. مورد دوم این است که در نبود دولت ها، انجمن های اجتماعی که به وجود می آیند، جای دولت ها را میگیرند. در نتیجه، سازمانهای تنازع رای(DROs)، انجمن های بیمه و نیروهای امنیتی خصوصی، همگی مسائل بالقوه ای در نظر گرفته می شوند که موجب تحریک و مضمحل کردن بدنه ی سیاسی میشوند.
 
-This view arises from the same error outlined above. If *all* social institutions are constantly trying to grow in power and enforce their wills on others, then by that very argument a centralised government cannot be allowed to exist. If it is an iron law that groups always try to gain power over other groups and individuals, then that power-lust *will not end if one of them wins, but will continue to spread across society virtually unopposed until slavery is the norm*.
+این دیدگاه از همان خطائی که در بالا ذکر شده، بوجود می آید. اگر * همه * موسسات اجتماعی دائما در حال تلاش برای رشد قدرت و تحمیل خواست خود بر دیگران هستند، پس با این استدلال نمی توان حکومت متمرکز را به وجود آورد. اگر این یک قانون مفرغ است که گروه ها همیشه سعی بر کسب قدرت بر دیگر گروه ها و افراد داشته باشند، پس این هوس قدرت،* اگر یکی از آنها پیروز شود، پایان نخواهد یافت. و در سراسر جامعه انتشار خواهد یافت تا برده داری، یکی از اصول پایه شود. *
 
-The only way that social institutions can grow into violent monopolies is *to offload the costs of enforcement onto their victims*. Governments grow endlessly because they can pay tax collectors with a portion of the taxes they collect. The slaves are thus forced to pay for the costs of their enslavement.
+تنها راه اینکه نهاد های اجتماعی می توانند به انحصارات خشونت آمیز تبدیل شوند،*انتقال هزینه های اجرایی به قربانیان آنها* است. دولت ها بی وقفه رشد میکنند زیرا به جمع آورندگان مالیات با بخشی از مالیاتی که جمع میکنند، هزینه می پردازند. در نتیجه بردگان نیز مجبورند برای بردگی خود، هزینه بپردازند.
 
-In a voluntary society, there would be no taxation, and thus any group wishing to gain monopolistic power would have to fund its army itself, which would never be economically feasible or profitable.[^11]
+در یک جامعه داوطلبانه هیچ مالیاتی وجود نخواهد داشت و بنابراین هر گروهی که مایل به کسب قدرت انحصاری می شود، باید پول ارتش خود را بپردازد که هرگز از لحاظ اقتصادی امکان پذیر یا منفعت پذیر  نخواهد بود. [^11]
 
-It is very hard to understand the logic and intelligence of the argument that, in order to protect us from a group that *might* overpower us, we should support a group that *already has* overpowered us. It is similar to the statist argument about private monopolies – that citizens should create a governmental monopoly because they are afraid of private monopolies. It does not take keen vision to see through such nonsense.
+فهمیدن قانون و هوش این استدلال بسیار سخت است که به منظور محافظت از ما در مقابل گروهی که*ممکن است* بر ما حکمرانی کند، باید از گروهی که *قبلا* بر ما حکمرانی کرده است، پشتیبانی کنیم. این شبیه استدلال سیاستمدارانه درباره ی قدرت های منحصر به فرد شخصی است- که شهروندان باید یک قدرت منحصر به فرد خصوصی ایجاد کنند زیرا آنها از قدرت های منحصر به فرد خصوصی میترسند. این دیدگاه مشتاق را از طریق چنینی چنین مزخرفی نمیبیند.
 
-What is the evidence for the view that decentralised and competing powers promotes peace? In other words, are there any facts that we can draw on to support the idea that a balance of power is the only chance that the individual has for freedom?
+چه مدرکی برای نمایش اینکه قدرت های غیر متمرکز و  اهل رقابت، صلح را تقویت میکند، وجود دارد؟ به عبارت دیگر، آیا حقایقی وجود دارد که بتوانیم از آنها برای پشتیبانی از ایده اینکه تعادل قدرت تنها انتخاب برای فرد به منظور داشتن آزادی است، ارائه دهیم؟
 
-Organised crime does not provide many good examples, since gangs so regularly corrupt, manipulate and use the power of the government police to enforce their rule, and so such gangs cannot be said to be operating in a state of nature. Also, criminal gangs profit enormously by supplying legally-banned substances or services, and so also flourish largely due to state policies.
+جرایم سازمان یافته مثال های خوبی را فراهم نمیکنند زیرا باند ها مرتبا فساد میکنند، قدرت پلیس دولتی را ایجاد و از آن برای اجرای قوانین خود استفاده میکنند؛ پس نمی توان گفت که این باند ها در حالت طبیعی عمل میکنند. همچنین، باند های جنایتکار، با تهیه مواد یا خدمات ممنوعه قانونی سود بسیار زیادی می برند؛ و به خاطر حالت پلیس، بصورت عمده ای شکوفا میشوند.
 
-A more useful example is the fact that no leader has ever declared war on another leader who possesses nuclear weapons. In the past, when leaders felt themselves immune from personal retaliation, they were more than willing to kill off their own populations by waging war. Now that they are themselves subject to annihilation, they are only willing to attack countries that cannot fight back.
+یک نمونه مفید تر این است که هیچ رهبری تا کنون به رهبر دیگری که دارای سلاح هسته ای است، اعلام جنگ نکرده است. در گذشته، هنگامیکه رهبران خود را از حملات شخصی در امان میدانستند، برای کشتن جمعیت خود توسط اعلان جنگ مشتاق تر بودند. اکنون آنها خودشان به نابودی محکوم شده اند، آنها فقط دوست دارند به کشور هایی حمله کنند که قدرت حمله ندارند.
 
-This is an instructive lesson on why such men require disarmed and dependent populations – and a good example of how the fear of reprisal inherent in a balanced system of decentralised and competing powers *is the only proven method of securing and maintaining personal liberty*.
+این یک درس آموزنده است که چرا چنین مردمی به جمعیت خلع سلاح و وابسته نیاز دارند - و نمونه خوبی از چگونگی ترس انتقامجویانه ذاتی در سیستم متعادل قدرت های غیر متمرکز و رقابتی * تنها روش اثبات شده برای تأمین و حفظ آزادی شخصی * است.
 
-Fleeing from imaginary devils into the protective prisons of governments only ensures the destruction of the very liberties that make life worth living.
+فرار از شیاطین خیالی به زندان های محافظتی دولت ها، تنها تخریب بسیاری از آزادی هایی را که به زندگی ،ارزش زندگی کردن می دهد؛ حتمی میکند.
 
-[^4]: See [Practical Anarchy](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
+[^4]: دیدن [اغتشاش کاربردی](http://wiki.mises.org/wiki/Book:Practical_Anarchy).
 
-[^5]: See *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
+[^5]: دیدن *[Federal Reserve](http://wiki.mises.org/wiki/Federal_Reserve_System)*.
 
-[^6]: A perfect balance of good and evil is practically impossible.
+[^6]: تعادل کامل خوب و بد تقریبا غیرممکن است.
 
-[^7]: This is the current situation in democracies, of course.
+[^7]: البته این وضعیت فعلی در دموکراسی هاست.
 
-[^8]: See Plato’s *Republic*.
+[^8]: * جمهوری * افلاطون را ببینید.
 
-[^9]: Probably more, since evil people are always drawn to power.
+[^9]: به احتمال زیاد، از زمانیکه که افراد شرور همیشه به قدرت کشیده می شوند.
 
-[^10]: For a more detailed discussion of the role that *parents* play in inculcating the fantasy that “power equals virtue”, see [On Truth](http://wiki.mises.org/wiki/On_Truth).
+[^10]: برای بحث دقیق تر در مورد نقش * والدین * در تحریک فانتزی که "قدرت برابر با فضیلت است" ببینید [On Truth](http://wiki.mises.org/wiki/On_Truth).
 
-[^11]: See [Practical Anarchy, Part 2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2), Chapter 5: "War, profit, and the state".
+[^11]: دیدن [اغتشاش کاربردی، بخش2](http://wiki.mises.org/wiki/Book:Practical_Anarchy/2)، فصل 5: "جنگ، سود و دولت".
