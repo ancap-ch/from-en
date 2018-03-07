@@ -30,9 +30,9 @@ Por outro lado, na "zona nula" da religião, acredita-se que o *oposto exacto* d
 
 A nossa crença na virtude dos militares também está nessa "zona nula". Se um homem civil é pago para assassinar outra pessoa, é chamado "assassino a soldo", e o condenamos como a tal. Contudo, se este homem colocar um uniforme verde com algumas fitas *e cometer o mesmo acto*, será honrado como a um herói e recompensado com uma pensão. A pequena verdade (*não deveria assassinar*) é perfeitamente coerente com a grande verdade (*o assassinato está errado*) - no meio, há uma "zona nula", onde o assassinato se torna, magicamente, "virtuoso"
 
-Se esta "zona nula" for válida, então nenhuma proposição lógica se pode manter. Se uma proposição é verdadeira - e o oposto exacto dessa proposição também é verdade - então o raciocínio lógico torna-se impossível. The growth of rational science has been the steady attack upon this “null zone,” and the incursion of objective consistency into these mad little pockets of subjective whim.
+Se esta "zona nula" for válida, então nenhuma proposição lógica se pode manter. Se uma proposição é verdadeira - e o oposto exacto dessa proposição também é verdade - então o raciocínio lógico torna-se impossível. O crescimento da ciência racional tem sido o ataque constante sobre essa "zona nula" e a invasão da coerência objectiva nesses receptáculos um pouco loucos de extravagância subjectiva.
 
-In old maps, before cartographers had finished their explorations, the drawings of known lands would fade into blank paper. The growth of knowledge requires first a delineation of what is not known, and then an expansion of known principles into the unknown areas.
+Nos mapas antigos, antes que os cartógrafos terminassem as suas explorações, os desenhos de terras conhecidas tornar-se-iam em papel em branco. O crescimento do conhecimento necessita, primeiro, uma delimitação do que não se conhece e depois uma expansão de princípios conhecidos, nas áreas desconhecidas.
 
 O mesmo é verdade no campo da moralidade.
 
