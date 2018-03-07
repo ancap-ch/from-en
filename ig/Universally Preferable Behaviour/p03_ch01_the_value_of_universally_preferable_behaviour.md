@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+## MKPA NCHORO ÁGWÁ ZURU ELUIGWE NA ALA DI
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Tiori ohuru abaghi uru ya buru na ona atuzi ihe doro anya na mbu. Óbùrù na fisics na akowa otù nwota balu naani, mgbe ahu ogaghì abazi uru nchuwa fisics, n'ihi na anyi ''na'' awota balu na mbù. Nchoputa na uwa di gbùrúgbùrú ñyere aka na nyaghari n'ime oké osimirí n'oti - onweghi nyemaaka onyere anyi ebé ala di. Quantum mechanics n'eyeaka mgbe usoro ndi ózò e ñyeghi anyi ihè anyì choro - oñyeghi aka na mmeputa ugboala.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Otù úzò a, akara usoro UPB, na iwu ihè omumè na-akwado ma obù na-ajù, kwesiri i nye anyì nlebazi anya n'ime uwa anyi bi n'ime ya, na otù anyì na ndi ózò si emekó.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Óbùrù na naani ihè UPB na eme bu i me ka anyì mata na ímé n'ike, igbú, na ohi ekwesighi omumè, ogaghi etiye uru n'ime anyi, ebé onyé obula ma na ihè ndì a adighi mma omumè na mbido.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Mgbeahu, ka anyì na-etiye akara iwu UPB n'ime uwa anyi, anyi ga ahù uru ga esi n'ime ya puta.

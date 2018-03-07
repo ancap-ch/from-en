@@ -4,7 +4,7 @@ Proposições éticas são diferentes de outros tipos de afirmações de conheci
 
 Similar, se eu disser "eu gosto de vegetais" também é apenas uma afirmação de preferência pessoal. Entretanto, se eu disser "vegetais são saudáveis" eu terei mudado de uma afirmação de preferência pessoal para a afirmação de um fato. É a diferença entre "eu gosto de sorvete" e "sorvete contém leite"
 
-A diferença fundamental entre as afirmações de *preferências* e as afirmações de *fatos* é que os fatos são objetivos, testáveis, e incontestáveis. Se você dá valor a verdade, você tende a aceitar o fato de que sorvete contém leite, uma vez provado. [^1]
+A diferença fundamental entre as afirmações de *preferências* e as afirmações de *fatos* é que os fatos são objetivos, testáveis, e incontestáveis. Se você dá valor a verdade, você tende a aceitar o fato de que sorvete contém leite, uma vez provado.[^1]
 
 Se eu disser que a Terra é redonda e proporcionar uma prova para essa afirmação, não cabe a você determinar no seu próprio luxo se a afirmação é verdadeira. Se eu posso provar que a terra é redonda, então você está a um passo de aceitar que é uma verdade, a menos que você esteja disposto a rejeitar a razão e as evidências como um critério para a verdade.
 
@@ -74,7 +74,7 @@ Portanto, nós podemos assumir que devemos medir a validade de uma afirmação r
 
 A verdade, então, pode ser medida de acordo com dois critérios principais:
 
-1. A verdade é uma medida da correlação entre as ideias na nossa mente e a consistência da racionalidade, que por si é derivada diretamente do comportamento estável da matéria e energia no mundo real. [^2]
+1. A verdade é uma medida da correlação entre as ideias na nossa mente e a consistência da racionalidade, que por si é derivada diretamente do comportamento estável da matéria e energia no mundo real.[^2]
 2. A verdade é também uma medida da correlação entre as ideias na nossa mente e da natureza e comportamento da matéria e energia no mundo real.[^3]
 
 O primeiro critério é uma medida da consistência das ideias com elas mesmas - e tal consistência é requisitada porque a realidade é consistente consigo mesma. Se eu disser, "eu não existo," é um exemplo de ideia que não é consistente com consigo mesma, já que eu preciso existir para dizer essa frase. O segundo critério é uma medida da precisão de ideias relativas a observações empíricas da realidade objetiva.

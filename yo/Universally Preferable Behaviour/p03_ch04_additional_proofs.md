@@ -26,9 +26,9 @@ Níwọ̀n èyíkéyìí ọna fún akomora ọgbọ́n gbọ́dọ̀ jẹ́ e k
 
 Ìlànà kán tí ó kọjú òṣùwọ̀n ọjà aje ọ̀fẹ́ ni pé dídára nìkan ní o wa lati ìwà pé irọrun. Ìṣọ̀kan, ní pàtàkì, kò dára - ìwà ipá máa ní àbájáde búburú. Àwọn òní ilé ṣe búrẹ́dì àtijọ́ ará Sovieti wọn gba búrẹ́dì gidi, ara kùnrin tí ó na ìyàwó rẹ kò lè ní ìgbéyàwó ayọ̀.
 
-Idasile tí lílo agbára ṣe dá akọ nígbà gbogbo sì èyíkéyìí ìwà tí ó rọrùn - ó jẹ èyí kàn pàtó àti ìjẹ tí UPB. Nígbà tí ilé ìwé ìjọba tí ni owo nípasẹ̀ ìpilẹ̀ṣẹ̀ tí agbára, wọn jẹ foomu tí *asopo tí ó ní agbára *, tí ó jẹ ìjẹ tí *òmìnira egbe * tí fọwọ́ sì UPB.
+Idasile tí lílo agbára ṣe dá akọ nígbà gbogbo sì èyíkéyìí ìwà tí ó rọrùn - ó jẹ èyí kàn pàtó àti ìjẹ tí UPB. Nígbà tí ilé ìwé ìjọba tí ni owo nípasẹ̀ ìpilẹ̀ṣẹ̀ tí agbára, wọn jẹ foomu tí *asopo tí ó ní agbára *, tí ó jẹ ìjẹ tí *òmìnira egbe* tí fọwọ́ sì UPB.
 
-Níwọ̀n tí agbára rú òfin ìwà isẹ sì tì *ó wà nílé tẹ́lẹ̀ * - nípasẹ̀ àìní òfin má ń pinu jáde ìjáde búburú - UPB yóò bá wà pinu pé ile iwe ijọba yòò pèsè imọ ẹ̀kọ́ tí kò dára.
+Níwọ̀n tí agbára rú òfin ìwà isẹ sì tì *ó wà nílé tẹ́lẹ̀* - nípasẹ̀ àìní òfin má ń pinu jáde ìjáde búburú - UPB yóò bá wà pinu pé ile iwe ijọba yòò pèsè imọ ẹ̀kọ́ tí kò dára.
 
 Àti síwájú sí, UPB yóò sì rán wa lọ́wọ́ láti ṣe àsọtẹ́lẹ̀ pé bí wọ́n ṣe ń lọ agbára sì agbára ni ile iwe ìjọba, yálà owó orí, ìṣọ̀kan agbaso àti bèbè lọ ṣe ń lọ sókè - dídára ẹ̀kọ́ to ń pèsè yòò sì máa burú sì lọ.
 

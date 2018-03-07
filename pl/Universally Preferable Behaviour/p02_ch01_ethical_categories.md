@@ -24,7 +24,7 @@ Thus we shall focus our efforts primarily on universally preferable and enforcea
 
 ### Virtue And Its Opposite
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. Nie oznacza to, że "powstrzymywanie się od kradzieży" jest jedyną definicją moralnej doskonałości, oczywiście, ponieważ człowiek może być mordercą, ale nie złodziejem. We can think of it as a “necessary but not sufficient” requirement for virtue.
+The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil”. If I propose the moral rule, “thou shalt not steal”, then stealing must be evil, and *not* stealing must be good. Nie oznacza to, że "powstrzymywanie się od kradzieży" jest jedyną definicją moralnej doskonałości, oczywiście, ponieważ człowiek może być mordercą, ale nie złodziejem. We can think of it as a “necessary but not sufficient” requirement for virtue.
 
 Każde moralnie pożądane działanie musi ze swej natury działać przeciwnie - bo jeśli nie, to nie ma możliwości wyboru, nie ma możliwości uniknięcia, a zatem nie ma zdolności do cnoty czy występku. Jeśli proponuję zasadę moralną: "przeciwstawiasz się grawitacji", wówczas moralność staje się niemożliwa, niemoralności nie można uniknąć, a zatem zasada moralna musi być nieważna.
 

@@ -1,109 +1,108 @@
 ## Preferences
 
-Now that we understand the nature of self-defeating arguments, we can turn to the question of preferences.
+Now wey we don understand how arguments wey dey make us loose be,  we go fit turn to d question of how  we dey prefer.                                                                                            
 
-Preferences are central to any methodology claiming to define the truth-value of propositions. The scientific method, for instance, is largely defined by innate preferences for logical consistency and empirical verification. For science, the premise is: *if* you want to determine a valid truth about the behaviour of matter and energy, it is *preferable* to use the scientific method.
+Preferences, wey be how we dey prefer, dey d centre of any methodology, wey be how things dey run, dey claim say e dey talk true – value of d words wey dem dey yan. The science method, for instance, na wetin dem know say how e dey prefer for reasons wey dey consistent and wetin based on observation or experience, na wetin dem born am with am.
 
-In this sense, “preferable” does not mean “sort of better,” but rather “required.” *If* you want to live, it is *universally preferable* that you refrain from eating a handful of arsenic. *If* you wish to determine valid truths about reality, it is *universally preferable* that your theories be both internally consistent and empirically verifiable. “Universally preferable,” then, translates to “objectively required,” but we will retain the word “preferable” to differentiate between optional human absolutes and non-optional physical absolutes such as gravity.
+For dis sense, “preferable” nor mean “e kind of better” but wetin dey “required”. If you wan live, e dey preferred everywhere for d world say make you comot yourself  say you wan eat arsenic. If you wish to know real truth about reality, e dey preferred everywhere for d world say your theories wey you get go dey consistent for inside  and dem go fit verify d experience wey fit follow am. “Wetin dem prefer d world” kon  translate to “wetin nor too dey required”, but we go keep d word “preferable” take differentiate between those optional things for human being nor get perfection and  those physical things wey nor get perfection and e nor dey optional like gravity.
 
-Similarly, if ethical theories can be at all valid, then they must *at least* be both internally and externally consistent. In other words, an ethical theory that contradicts itself cannot be valid – and an ethical theory that contradicts empirical evidence and near-universal preferences also cannot be valid.
+As e dey similar, if theories of correct good behaviuor go be true, then dem go must at least dey consistent for inside and outside. For other word, theory wey be good correct behaviour wey nor clear and e dey against eself nor go fit be true – and theory of good correct behaviour wey nor clear and e dey against eself and e near wetin dem prefer everywhere for d world nor go fit be true.
 
-Thus in ethics, just as in science, mathematics, engineering and all other disciplines that compare theories to reality,*valid theories must be both logically consistent and empirically verifiable*.
+So, for correct good behaviour, just as e dey for science, mathematics, engineering and all other disciplines wey dey compare theories to reality, theories wey hold true go must dey consistent and dem go fit verify am with experience.
 
 ### Preferences And Existence
 
-If I say “I like ice cream,” only one word remains ambiguous in that sentence. Clearly “I” exist, since I am expressing a personal preference. Equally clearly, “ice cream” also exists in reality. However, the word “like” is more problematic.
+If I say “I like ice cream”, na only one word get different meaning for that sentence. As e clear, “I” dey exist, since I dey express wetin I prefer personally. As e take clear, “ice cream” also dey exist for reality. Anyhow as e be, d word “like” dey give many problems.
 
-Preferences do not exist objectively within reality. If you were obsessively curious, you could perhaps follow me around and record every time I ate ice cream, which would probably provide a good empirical basis for establishing my preference for it. The possibility could exist, however, that I am in fact a masochist, and dislike ice cream intensely, and prefer to torture myself with its unpleasant taste – and then confuse you by claiming to like it.
+How we dey prefer no dey exist for reality as we take wan get am. If you dey very curious, you go follow me normal around and record every time I eat ice cream, and e go fit give good basis for  experience to take establish wetin I prefer. E dey possible say e fit exist, anyhow as e be, say na fact say I be masochist, and kon dislike ice cream well well, kon prefer to suffer myself with taste wey nor good – and I kon confuse you by to dey claim say I  like am.
 
-We can find *evidence* for preferences; we cannot find preference *itself* in reality. Preference exists as a *relationship* between consciousness and matter, just as gravity exists as a relationship between bodies of mass.
+We go fit find evidence for wetin we prefer; we nor go fit find prefer itself for reality. Wetin we prefer dey exist as a relationship between consciousness and matter, just as gravity dey exist as a relationship between body of mass.
 
-Putting aside the challenging questions of free will versus determinism, it is reasonable to assume that whatever a person is doing in the present is what he or she “prefers” to do. If I get up and go to work, then obviously I *prefer* to do that, as opposed to all other alternatives. Even if I hate my job, I clearly hate it *less* than, say, being penniless.
+Make we put for one side d question wey dey challenge us about freewill versus determinism, e dey reasonable to assume say whatever person dey do for present na wetin he or she “prefer” to do. If I get up  go work , then as e be, I prefer to do am, as e dey oppose all  alternatives wey dey. Even if I hate my job, I hate am clear less than say I nor get one penny.
 
-Given that human beings can perform a near infinite variety of actions, whatever a person is doing in the moment is chosen out of all other possible options. I am choosing to write this book rather than, say, learning how to tango.
+As we get am say human being fit perform plenty actions wey nor get end, whatever one person dey do for that moment na wetin dem don already choose out of all others options wey dey possible. I dey choose to write this book than, say I dey learn how to tango.
 
-When we apply this simple fact to ethical arguments, we come up with some very interesting results.
+When we put this simple fact for correct good arguments, we go come with better results wey dey very interesting.
 
-### Preferences And Arguments
+### Wetin we prefer and Arguments
 
-Remembering our above analysis of self-defeating arguments, we can easily understand the contradictory nature of the statement: “preferences do not exist.” Given that every human action – including making philosophical statements – is chosen in preference to every other possible action, arguing that preferences do not exist requires a *preference* for arguing that preferences do not exist, which is a self-contradictory statement. Arguing that preferences do not exist is exactly the same as arguing that language does not exist. It is an utterly self-defeating argument.
+As we dey remember d analysis wey  we don do before about arguments wey dey make us loose, we go fit easily understand the kind back and front way wey d statement be: “wetin we prefer nor dey exist”. As we get am say every action wey human being dey do – including statements wey dey philosophical – na wetin dey chosen to prefer to any other actions wey dey possible, to dey argue say wetin we prefer nor dey exist need “how we prefer am” to take argue say wetin we prefer nor dey exist, for which d statement  dey contradict itself. To dey argue say wetin we prefer nor dey exist na exactly d same as to dey argue say language nor dey exist. Na argument wey go totally dey win us.
 
-Since it is impossible to act without expressing a preference – either implicitly or explicitly – anyone who acts accepts the premise that preferences exist. Thus it is impossible to debate the existence of preferences without accepting the existence of preferences.
+Since e dey impossible to act without I nor express wetin I prefer – either closely or openly – anyone who dey act accept d premise say wetin dey preferred dey exist. So, e dey impossible to argue say d existence of wetin dem prefer without you nor   accept say wetin dem prefer dey exist.
 
-### Preferences And Universality
+### Wetin we prefer And Everywhere for d world
 
-The next question thus becomes: are preferences purely subjective, or can they be universal?
+D next question go kon tin be: wetin we prefer na our own personal opinion, or na wetin dey everywhere for d world?
 
-Clearly, some preferences are subjective. Musical tastes, personal hobbies, favourite literature and so on are all subjective and personal preferences.
+As e clear, some things wey we prefer na our personal opinion. D way we like music, our personal hobby, d favourite books wey we dey read and so on na wetin we personally prefer.
+D challenge go arise when we try to define some things wey we prefer wey be our goal to get.
 
-The challenge arises when we try to define some preferences as *objective*.
+D word wey we dey try relate na: some ofd things wey we prefer fit be wetin we dey pursue to get, that is, everywhere for d world?
 
-The proposition before us is thus: *can some preferences be objective, i.e. universal?*
+When I say some of wetin we prefer fit be wetin we dey pursue, I nor mean say na everybody dey follow dis same thing all time. If I wan argue say breathing na wetin dem prefer to pursue, examples of those wey don hang themselves commit suicide  go counter wetin I talk. If I wan argue say to dey eat na wetin dem dey prefer to pursue, examples of those wey dey hunger strike and those wey get problem of wetin to eat go counter wetin I talk. 
 
-When I say that some preferences may be objective, I do not mean that all people follow these preferences at all times. If I were to argue that *breathing* is an objective preference, I could be easily countered by the example of those who commit suicide by hanging themselves. If I were to argue that eating is an objective preference, my argument could be countered with examples of hunger strikes and anorexia.
+So,when I talk about wetin dem prefer everywhere for d world, I dey talk about wetin people go prefer, not wetin dem dey always prefer. To use one science analogy, to take truly understand d universe, make people use science method – dis one nor mean say dem dey always do so, since as e clear say billions of people dey consult olden days tori than scince wey dey today for “answers”. E nor get any other way to get truth about d universe without science, but people dey free to change “truth” as “mistake”, and relax their mind with nonsense wey dey physical.
 
-Thus when I talk about universal preferences, I am talking about what people *should* prefer, not what they always *do* prefer. To use a scientific analogy, to truly understand the universe, people *should* use the scientific method – this does not mean that they always do so, since clearly billions of people consult ancient fairy tales rather than modern science for “answers.” There is no way to achieve truth about the universe without science, but people are perfectly free to redefine “truth” as “error,” and content themselves with mystical nonsense.
+As e be, if one man wan cure infection, make he take antibiotics than to go perform Aztec rain dance. To prefer to take antibiotics than to do the rain dance na wetin dey everywhere for d world, since to dey dance nor go fit cure infections. Now, although say one madman dey wey fit cure infection imself by to dey dance , e still dey preferred everywhere for d world say if d man wan cure infection, he must take antibiotics.
 
-Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. The preference for taking antibiotics rather than doing a rain dance is universal, since dancing cannot cure infections. Thus, although there is the occasional madman who will try to cure himself through dancing, it is still *universally preferable* that if a man wants to cure himself, he must take antibiotics.
+For another word, if you fit get to d top of one mountain, if you dey wish for it, e nor go work. If you wan know d origin of d universe, prayer nor go fit provide answer for you. People still dey wish, and pray, but that one nor make wishing and praying dey more effective. With that one for mind, make we turn to d question of whether or not wetin dey preferred everywhere for d world fit be true.
 
-In other words, if you want to get to the top of a mountain, wishing for it will never work. If you want to know the origins of the universe, prayer will never provide an answer. People still wish, and pray, but that does not make wishing or praying any more effective. With that in mind, let us turn to the question of whether or not universal preferences can be valid.
+### Arguments And Everywhere for the world
 
-### Arguments And Universality
+If I choose to argue, I don accept many different premise wey worth my time to stop here.
 
-If I choose to debate, I have implicitly accepted a wide variety of premises that are worth spending some time to unpack here.
+#### Premise 1: Two of us dey exist
 
-#### Premise 1: We Both Exist
+If I choose to argue with you, then I nor need to accept say two of us dey exist. If I believe say I dey exist, but you nor believe, then to dey argue  nor go make sense, and e go be d action of madman. If I dey argue with myself for mirror, make dem sedate me and not to dey argue with me.
 
-If I choose to debate with you, then I necessarily must accept that we both exist. If believe that I exist, but you do not, then debating makes no sense, and would be the action of a madman. If I were to start arguing with my reflection in a mirror, I should be sedated, not debated.
+#### Premise 2: D Sense get d capacity to dey correct
 
-#### Premise 2: The Senses Have The Capacity For Accuracy
+Since human beings nor go fit use psychic way take communicate, all d arguments involve d use of our sense. Writing go suppose come before sight; to talk require to dey hear; Braille go require touch. Any relation wey depend on say d senses nor dey true dey automatically destroy same person.
 
-Since human beings cannot communicate psychically, all debates necessarily involve the evidence of the senses. Writing presupposes sight; talking requires hearing; Braille requires touch. Thus any proposition that depends upon the invalidity of the senses automatically self-destructs.
+#### Premise 3: Language Get D Capacity To Mean Something 
 
-#### Premise 3: Language Has The Capacity For Meaning
+Like as Premise Two be, since all d arguments need language, any relation wey rest for d premise say language dey meaningless go dey disapproved immediately. To use language take dey argue say language nor get meaning be like say you dey use courier take dey send message and you dey argue say courier nor dey deliver message.
 
-Similar to Premise Two, since all arguments require language, any proposition that rests on the premise that language is meaningless is immediately disproven. Using language to argue that language has no meaning is like using a courier to send a message arguing that couriers never deliver messages.
+#### Premise 4: Correction Require Wetin Dem Prefer Everywhere For The World
 
-#### Premise 4: Correction Requires Universal Preferences
+If you correct me for one mistake wey I make, you dey closely accept d fact say e go dey better for me to correct my own mistake. Wetin you prefer for me to correct my mistake nor be personal felling, but open to catch and for everywhere.
 
-If you correct me on an error that I have made, you are implicitly accepting the fact that it would be *better* for me to correct my error. Your preference for me to correct my error is not subjective, but objective, and universal.
+You  nor go say to me: “Make you change your opinion to my own because I go prefer am”, but rather: “Make you correct your opinion because e dey purposely incorrect”. My mistake nor arise from say I nor agree with you, but e come a result of my dodge from one purpose standard of truth. Your argument say make I correct my false opinion relax on value of truth wey dey to accomplish – that is, truth dey preferable everywhere for d world to error, and truth na wetin dem wan accomplish everywhere for d world.
 
-You don’t say to me: “You should change your opinion to mine because I would prefer it,” but rather: “You should correct your opinion because it is objectively incorrect.” My error does not arise from merely disagreeing with you, but as a result of my deviance from an objective standard of truth. Your argument that I should correct my false opinion rests on the objective value of truth – i.e. that truth is *universally preferable* to error, and that truth is *universally objective*.
+#### Premise 5: Objective Methodology Dey Exist To Separate Truth From Falsehood
 
-#### Premise 5: An Objective Methodology Exists For Separating Truth From Falsehood
+If you disagree with me, but I tell you say you must agree with me because I dey always dey right, e dey unlikely say you go dey satisfied by d  way my argument take dey careful. If you provide good reason as to why I dey wrong, but I just keep to dey repeat say I dey right because I always dey right, our interaction go scarce to put for category as a debate.
 
-If you disagree with me, but I tell you that you must agree with me because I am always right, it is unlikely that you would be satisfied by the rigour of my argument. If you provided good reasons as to why I was wrong, but I just kept repeating that I was right because I am *always* right, our interaction could scarcely be categorised as a debate.
+D moment wey I provide some kind of things wey I go used take determine truth from falsehood, I dey accept say truth dey more than opinion matter.
 
-The moment that I provide some sort of objective criterion for determining truth from falsehood, I am accepting that truth is more than a matter of opinion.
+Dis one nor mean say things wey I dey try accomplish dey logical – I fit refer you to one religious text, for example. Anyhow as e be, even if I do so, I still dey accept say d truth na something wey dey required and e d ey independent of positive statement of wetin person talk take support – say one purpose methodology dey exist take dey separate truth from falsehood. 
 
-This does not necessarily mean that my objective criteria are *logical* – I could refer you to a religious text, for example. However, even if I do so, I am still accepting that the truth is something that is arrived at independent of mere personal assertion – that an objective methodology exists for separating truth from falsehood.
+#### Premise 6: Truth Better Pass Falsehood
 
-#### Premise 6: Truth Is Better Than Falsehood
+If I tell you say d world dey flat, and you reply say d world nor dey flat, but round, then, you dey closely dey accept d fact say truth and falsehood dey exist to accomplish d same thing, and say truth better pass falsehood.
 
-If I tell you that the world is flat, and you reply that the world is not flat, but round, then you are implicitly accepting the axiom that truth and falsehood both exist objectively, and that truth is better than falsehood.
+If I tell you say I like chocolate ice cream, and you tell me say you like vanilla, e dey impossible to “prove” say vanilla dey purposely better pass chocolate. D  moment wey you correct me with reference to facts, you dey accept say open facts dey exist, and say open truth dey preferable everywhere for d world to error wey dey submissive. 
 
-If I tell you that I like chocolate ice cream, and you tell me that you like vanilla, it is impossible to “prove” that vanilla is objectively better than chocolate. The moment that you correct me with reference to objective *facts*, you are accepting that objective facts exist, and that objective truth is *universally preferable* to subjective error.
+#### Premise 7: Peaceful Argument Na D Best Way To Resolve Dispute
 
-#### Premise 7: Peaceful Debating Is The Best Way To Resolve Disputes
+If I tell you say d world dey flat, and you kon pull your gun come out and shoot me, dis one go rarely be  one example of argument wey dey productive. True true, our disagreement for don “resolve” – but because only one us dem leave dey stand for there at the end.
 
-If I tell you that the world is flat, and you pull out a gun and shoot me, this would scarcely be an example of a productive debate. True, our disagreement would have been “resolved” – but because only one of us was left standing at the end.
+If you first  tell me before say you go deal with any disagreement by to shoot me, I go unlikely engage for argument with you. So, e clear say any argument go rely on d premise wey nor too show say evidence, reason, truth and objectivity be d “wetin dey preferred everywhere for d world” method wey dem take dey resolve quarrel between people. E go dey completely senseless to argue say differences of opinion go dey resolved by to dey use violence – d only consistent argument for d value of violence na d use of violence.[^4]
 
-If you told me in advance that you would deal with any disagreement by shooting me, I would be unlikely to engage in a debate with you. Thus it is clear that any debate relies on the implicit premise that evidence, reason, truth and objectivity are the *universally preferable* methods of resolving disputes between individuals. It would be completely illogical to argue that differences of opinion should be resolved through the use of violence – the only consistent argument for the *value* of violence is the use of violence.[^4]
+As e real, then, argument go require one d methodology of one purpose, through language wey dey meaningful, for d truth wey dey everywhere for d world wey dem dey chase, and e kon be wetin dey purposely preferred to person mistake.
 
-In essence, then, debating requires an objective methodology, through meaningful language, in the pursuit of universal truth, which is objectively preferable to personal error.
+Dis wetin dey preferred for truth wey dey everywhere for d world nor be wetin dey preferred for degree, but for kind. One shortcut wey dey reduce your driving time by half na twice e good for route wey dey longer – but of dem dey preferable to dey drive for complete wrong direction.
 
-This preference for universal truth is not a preference of *degree*, but of *kind*. A shortcut that reduces your driving time by half is twice as good as a longer route – but both are *infinitely preferable* to driving in the completely wrong direction.
+For d same way, d truth nor just “better” pass mistake – e dey preferable or na wetin dem require.
 
-In the same way, the truth is not just “better” than error – it is *infinitely preferable*, or required.
+#### Premise 8: Na People Dey Responsible For Their Actions
 
-#### Premise 8: Individuals Are Responsible For Their Actions
+If I argue say human beings nor dey responsible for their actions, I dey catch up for wetin I nor fit understand, e kon be d question of whether or not I dey responsible for my argument, and also whether or not you dey responsible for your response.
 
-If I argue that human beings are not responsible for their actions, I am caught in a paradox, which is the question of *whether or not I am responsible for my argument, and also whether or not you are responsible for your response*.
+If my argument say human beings nor dey responsible for their action na true, then I nor dey responsible for my argument, and you nor dey responsible for your reply. Anyhow as e be, if I believe say you nor dey responsible for your reply, e go take small sense wey dey precious take make d argument go advance – e go be exactly d same as to dey argue with television set.[^5]
 
-If my argument that human beings are *not* responsible for their actions is true, then I am not responsible for my argument, and you are not responsible for your reply. However, if I believe that you are not responsible for your reply, it would make precious little sense to advance an argument – it would be exactly the same as arguing with a television set.[^5]
+So, for d basis, if I tell you say you nor dey responsible for your actions, I dey tell you say e dey preferred everywhere for d world for you to believe say wetin dey preferred dey impossible, since if you nor get control over your actions, you nor go fit choose state to dey preferred, that is, truth over falsehood. So dis argument, like d argument before, dey destroy person.
 
-Thus, fundamentally, if I tell you that you are not responsible for your actions, I am telling you that it is universally preferable for you to believe that preference is impossible, since if you have no control over your actions, you cannot choose a preferred state, i.e. truth over falsehood. Thus this argument, like the above arguments, self-destructs.
+[^4]: E go dey useful to dey keep dis particular premise for mind, since e go dey very important later on.
 
-[^4]: It will be useful to keep this particular premise in mind, since it will be very important later on.
-
-[^5]: The question of responsibility is, of course, closely related to the question of free will versus determinism, which will be the subject of another book.
+[^5]: D question of responsibility na, of course, dey very related to d question of free will versus determinism, and e go be d subject of another book.

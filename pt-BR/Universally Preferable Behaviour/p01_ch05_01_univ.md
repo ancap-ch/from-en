@@ -2,11 +2,11 @@
 
 Como resultado dos argumentos acima, podemos ver que é impossível entrar em qualquer debate sem aceitar a premissa que certos comportamentos são *universalmente preferíveis*.
 
-Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo”,”escrevendo” e “falando.”
+Eu uso a palavra “comportamento” aqui em vez de “pensamento” porque é importante diferenciar entre estados puramente internos e não verificáveis como “pensando” de estados objetivos e verificáveis como “agindo””,escrevendo” e “falando”.
 
-É impossível provar que eu sonhei com um elefante noite passada. É impossível provar que eu tinha escrito a palavra “elefante,” e é por isso que eu uso a palavra “comportamento” em vez de “pensamento.”
+É impossível provar que eu sonhei com um elefante noite passada. É impossível provar que eu tinha escrito a palavra “elefante”, e é por isso que eu uso a palavra “comportamento” em vez de “pensamento”.
 
-Permitir que a lógica superior seja um argumento é uma "ação". Se, o tempo todo eu concedesse um ponto a você, eu não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. Para conceder um ponto, eu devo executar a ação da acquiescência verbal.
+Permitir que a lógica superior seja um argumento é uma "ação". Se o tempo todo eu concedesse um ponto a você, não dissesse nada, mas apenas ficasse parado inexpressivo te olhando, você acharia um pouco irritante debater comigo. Para conceder um ponto, eu devo executar a ação da acquiescência verbal.
 
 Portanto pode-se observar que, inerente ao próprio ato de argumentar existem algumas premissas que não podem ser concebivelmente derrubadas.
 
@@ -16,15 +16,15 @@ Historicamente, aqueles que entraram em debates éticos costumavam falhar em man
 
 Eu não posso publicar um artigo científico escrito na minha lingua pessoal, baseado no meu peixinho dourado psíquico e esperar que me levem a sério. Da mesma forma, eu não posso começar um debate filosófico sobre ética baseado nos meus valores pessoais e dizer que todos os meus argumentos foram validados por Trixie o duende invisível e onisciente e esperar que me levem a sério.
 
-O próprio ato de debater requer a aceitação de um comportamento universalmente preferível (CUP). Não existe nenhuma forma de racionalmente responder a um argumento êtico *sem* exibir o CUP.
+O próprio ato de debater requer a aceitação de um comportamento universalmente preferível (UPB). Não existe nenhuma forma de racionalmente responder a um argumento êtico *sem* exibir o UPB.
 
-Agora vamos ver um conjunto de provas favoráveis ao CUP.
+Agora vamos ver um conjunto de provas favoráveis ao UPB.
 
-### CUP E Validade
+### UPB E Validade
 
-Um dos desafios centrais enfrentados pelos filósofos modernos é a necessidade de provar que as regras morais são possíveis e universais. Até que as regras morais podem ser submetidas ao mesmo rigor e lógica como qualquer outra preposição, nós nos frustaremos sempre pelo subjetivismo, pelos preconceitos políticos e pelo pragmático "argumento de efeito".
+Um dos desafios centrais enfrentados pelos filósofos modernos é a necessidade de provar que as regras morais são possíveis e universais. Até que as regras morais possam ser submetidas ao mesmo rigor e lógica como qualquer outra preposição, nós nos frustaremos sempre pelo subjetivismo, pelos preconceitos políticos e pelo pragmático "argumento de efeito".
 
-A analogia histórica mais próxima da nossa realidade de hoje ocorreu nos séculos XV e XVI, durante a ascensão do método científico. Os primeiros pioneiros que defenderam uma abordagem empírica e racional para o conhecimento enfrentaram os mesmos preconceitos que enfrentamos hoje - as mesmas irracionalidades, os poderes entrenched da igreja e do estado, místicos e subjetivos "absolutos" e as primeiras barreiras educacionais. Aqueles que defendiam a primazia da observação empírica e da racionalidade sobre o fundamentalismo bíblico e tiranias seculares enfrentaram um oposição determinada daqueles que empunhavam a cruz e a espada. Muitos foram torturados até a morte por sua honestidade intelectual - enfrentamos muito menos risco, portanto deveríamos ser mais corajosos em defender o que "verdade" sobre o que é "crença".
+A analogia histórica mais próxima da nossa realidade de hoje ocorreu nos séculos XV e XVI, durante a ascensão do método científico. Os primeiros pioneiros que defenderam uma abordagem empírica e racional para o conhecimento enfrentaram os mesmos preconceitos que enfrentamos hoje - as mesmas irracionalidades, poderes enraizados da igreja e do estado,"verdades absolutas" místicas e subjetivas e as primeiras barreiras educacionais. Aqueles que defendiam a primazia da observação empírica e da racionalidade sobre o fundamentalismo bíblico e tiranias seculares enfrentaram uma oposição determinada daqueles que empunhavam a cruz e a espada. Muitos foram torturados até a morte por sua honestidade intelectual - enfrentamos muito menos risco, portanto deveríamos ser mais corajosos em defender o que é "verdade" sobre o que é "crença".
 
 Para atacar falsas moralidades, devemos começar do início, assim como fizeram os primeiros cientistas. Francis Bacon não discutiu que o método científico era mais "eficiente" do que a oração, textos bíblicos ou visões induzidas por inanição. Ele simplesmente disse que se quiséssemos entender a natureza, devíamos observar a natureza e teorizar logicamente – e que não há "nenhuma outra" rota para o conhecimento.
 
@@ -36,7 +36,7 @@ Como isso se parece na prática? Tudo o que precisamos fazer é estabelecer os s
 - Regras de morais devem ser consistentes para toda a humanidade.
 - A validade de uma teoria moral é julgada por sua consistência.
 
-Para começar do início... São as regras morais - ou os comportamentos humanos universalmente preferíveis - válidas?
+Para começar do início... As regras morais são - ou os comportamentos humanos universalmente preferíveis - válidas?
 
 Existem apenas duas possibilidades quando se trata de regras morais, assim como existem em qualquer ciência lógica. Regras morais universais são válidas ou não são.
 
@@ -44,13 +44,13 @@ Uma regra pode ser válida se ela "existe empiricamente", como a gravidade, ou p
 
 Devemos então primeiro perguntar: será mesmo que existem regras morais?
 
-Certamente não na realidade material, que não contém ou obedece uma única regra moral. Regras morais são diferentes de leis da física, assim como o método científico é diferente da gravidade. A matéria obedece naturalmente à gravidade ou à segunda lei da termodinâmica, mas "não matarás" não é inscrito na natureza das coisas. Leis da física "descrevem" o comportamento da matéria, mas não contém uma simples "receita". A ciência diz que a matéria "é que" deve se comportar de certa forma - nunca que "deveria" se comportar de certa maneira. Uma teoria da gravidade comprova que se você empurrar um homem de um penhasco, ele vai cair. Não lhe dirá se você "deve" ou não empurrá-lo.
+Certamente não na realidade material, que não contém ou obedece uma única regra moral. Regras morais são diferentes de leis da física, assim como o método científico é diferente da gravidade. A matéria obedece naturalmente à gravidade ou à segunda lei da termodinâmica, mas "não matarás" não é inscrito na natureza das coisas. Leis da física "descrevem" o comportamento da matéria, mas não contém uma simples "receita". A ciência diz que a matéria *se comporta* de certo modo - nunca que *deveria* se comportar de certa maneira. Uma teoria da gravidade comprova que se você empurrar um homem de um penhasco, ele vai cair. Não lhe dirá se você "deve" ou não empurrá-lo.
 
-Assim, não se pode dizer que regras morais existem na realidade material, e nem que elas são automaticamente obedecidas como as leis da física - o que "não" significa que as regras morais são falsas, subjetivas ou irrelevantes. O método científico por si não existe na realidade também - e também é opcional - mas não é de todo falso, subjetivo ou irrelevante.
+Assim, não se pode dizer que regras morais existem na realidade material, e nem que elas são automaticamente obedecidas como as leis da física - o que *não* significa que as regras morais são falsas, subjetivas ou irrelevantes. O método científico por si não existe na realidade também - e também é opcional - mas não é de todo falso, subjetivo ou irrelevante.
 
 Se pudermos provar que as teorias morais podem ser objetivas, racionais e verificáveis, isso proporcionará os mesmos benefícios para a ética que submetem as teorias "físicas" ao método científico.
 
-Antes da ascenção do método científico, as pessoas acreditavam que a matéria obedecesse os desejos subjetivos dos deuses e demônios - e agora as pessoas acreditam no mesmo sobre a moralidade. Vulcões em erupção porque o deus da montanha estava furioso; boas colheitas resultaram de sacrifícios humanos ou animais. Ninguém acreditou que leis físicas absolutas poderiam limitar a vontade dos deuses - e portanto a ciência nunca poderia se desenvolver. Aqueles que historicamente lucraram definindo a realidade física como subjetiva - majoritariamente sacerdotes e aristocratas - lutou pela subjugação das teorias físicas ao método científico, assim como aqueles que atualmente lucram defendendo a moralidade como subjetiva - majoritariamente sacerdotes e políticos - atualmente lutam contra a subjugação de teorias morais a princípios objetivos e universais.
+Antes da ascenção do método científico, as pessoas acreditavam que a matéria obedecesse os desejos subjetivos dos deuses e demônios - e agora as pessoas acreditam no mesmo sobre a moralidade. Vulcões entram em erupção porque o deus da montanha estava furioso; boas colheitas resultaram de sacrifícios humanos ou animais. Ninguém acreditou que leis físicas absolutas poderiam limitar a vontade dos deuses - e portanto a ciência nunca poderia se desenvolver. Aqueles que historicamente lucraram definindo a realidade física como subjetiva - majoritariamente sacerdotes e aristocratas - lutaram pela subjugação das teorias físicas ao método científico, assim como aqueles que atualmente lucram defendendo a moralidade como subjetiva - majoritariamente sacerdotes e políticos - atualmente lutam contra a subjugação de teorias morais a princípios objetivos e universais.
 
 Como mencionado acima, o método científico é essencialmente uma metodologia para separação precisas de teorias imprecisas sujeitando-as para dois testes centrais: consistência lógica e observação empírica - e sempre subjugando consistência lógica à observação empírica. Se eu propor uma teoria perfeitamente consistente e lógica que diz que uma rocha flutuará quando jogada de um penhasco, qualquer teste empírico provará minha teoria incorreta, uma vez que a observação sempre supera hipóteses.
 

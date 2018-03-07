@@ -18,7 +18,7 @@ Tercihler gerçekte objektif olarak yoklar. Eğer saplantılı şekilde merak ed
 
 Tercihler için *delil* bulabiliriz; Biz gerçekte *tercihin kendisi* olduğunu bulamayız. Yer çekiminin, kütleler arasındaki bir ilişki olarak var olduğu gibi, tercih de bilinç ile madde arasında *ilişki* olarak bulunur.
 
-Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı * tercih ettiğimdendir *. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
+Özgür irade ile determinizm arasındaki zorlu soruları bir kenara koyarsak, şu anda birinin yaptığı her şeyin "tercih" ettiği varsayımı mantıklıdır. Eğer kalkarsam ve işe gidersem, diğer tüm seçeneklerin aksine bunu yapmayı *tercih ettiğimdendir*. İşimden nefret etsem bile, şüphesiz meteliksiz olduğumu söylemekten daha az nefret ediyorum.
 
 İnsanoğlunun sonsuz çeşitli eylemlerde bulunabileceği göz önüne alındığında, bir insanın şu anda yaptığı her neyse mümkün olan tüm diğer seçeneklerden seçilir. Bu kitabı yazmak yerine tango öğrenmeyi tercih ediyorum.
 
@@ -42,7 +42,7 @@ Dolayısıyla, bizden önceki önerme şu şekildedir: *bazı tercihler objektif
 
 Bazı tercihlerin nesnel olabileceğini söylersem bütün insanların her zaman bu tercihleri takip ettiğini kastetmiş olmam. Eğer *nefes almanın* nesnel bir tercih olduğunu iddia edersem, kendini asarak intihar eden kişiler örneğiyle bana kolaylıkla karşı çıkılabilir. Eğer yemek yemenin nesnel bir tercih olduğunu iddia edersem, açlık grevleri ve anoreksi örnekleriyle bana kolaylıkla karşı çıkılabilir.
 
-Bu nedenle, evrensel tercihlerden bahsederken, insanların * tercih ettikleri* şeylerden değil, her zaman tercihen *yaptıklarından* bahsediyorum. Bilimsel bir benzerliği kullanmak için, evreni gerçekten anlamak için, insanlar bilimsel metodu kullan*malı*dırlar - bu her zaman kullandıkları anlamına gelmez; zira açıkça milyarlarca insan "cevaplar" için modern bilim yerine antik peri masallarına başvurmaktadırlar. Evren hakkındaki hakikati bilim olmadan anlamanın bir yolu yoktur, ancak insanlar "hakikati" "hata" olarak yeniden tanımlamakta ve kendilerini mistik saçmalıklarla tatmin etmekte tamamen özgürdürler.
+Bu nedenle, evrensel tercihlerden bahsederken, insanların *tercih ettikleri* şeylerden değil, her zaman tercihen *yaptıklarından* bahsediyorum. Bilimsel bir benzerliği kullanmak için, evreni gerçekten anlamak için, insanlar bilimsel metodu kullan*malı*dırlar - bu her zaman kullandıkları anlamına gelmez; zira açıkça milyarlarca insan "cevaplar" için modern bilim yerine antik peri masallarına başvurmaktadırlar. Evren hakkındaki hakikati bilim olmadan anlamanın bir yolu yoktur, ancak insanlar "hakikati" "hata" olarak yeniden tanımlamakta ve kendilerini mistik saçmalıklarla tatmin etmekte tamamen özgürdürler.
 
 Aynı şekilde, eğer bir insan bir hastalığı tedavi etmek istiyorsa, Aztek yağmur dansı yapmaktan ziyade antibiyotik *kullanmalıdır*. Yağmur dansı yerine antibiyotik kullanma tercihi evrenseldir çünkü dans etmek hastalıkları tedavi etmez. Dolayısıyla, ara sıra kendisini dans ederek tedavi etmeye çalışan çılgın insanlar olsa da, eğer bir insan eğer kendi kendisini tedavi etmek istiyorsa, antibiyotik kullanması gerektiği *evrensel olarak tercih edilebilir*dir.
 

@@ -10,15 +10,15 @@ Unfortunately, this “virtuous consciousness” was merely an illusion, to put 
 
 We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+We consider it essential that, at the centre of society, we place a virtuous entity called “the government”. In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
 
 However, “the government” no more exists than “god” exists.
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+When we speak of “gods”, we are really talking about “the opinions of priests”.
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+When we speak of “the government”, we *really* mean “the violence of a tiny minority”.
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+The idea of “spontaneous order”, which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
 
 However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
 
@@ -36,11 +36,11 @@ We cannot have both.
 
 ### Solutions
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy”, and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
 
 Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy”, and that civilisation would dissolve into a war of all against all.
 
 Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
 

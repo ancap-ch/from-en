@@ -26,7 +26,7 @@ Tarihsel olarak, fizikte aynı uyumsuzluğu görebiliriz. Tecrübelerimiz de mü
 
 Aklı başında olan kimse tanrıyı direk olarak deneyimleyemez. Normal yaşantısında, tamamen kabul ettiği gibi *ikna olmadığı şeye inanmayacaktır*. Hiçbir aklı başı yerinde olan insan attığı her adımda tereddüte düşmez, görünmez bir duvardan korkmak, yolunu tıkayabilir. Bilimin en büyük ayrılması yaklaşımıdır.
 
-Karşısında dinin "sıfır noktası", *tam zıttı* iki tarafın küçük doğrularını ve mutlak doğrunun herkes tarafından kabul edildiği görülür. Şahsen, insan genellikle *ikna edilemezse inanmaz*, - akılcı yaklaşırsak, bilim bunun böyle olmadığını defalarca kanıtlamıştır. Ama, ilahiyattaki "sıfır noktası" bu çıkarımın tam tersinin doğruluğunu kabul eder - *aksiyomunda öngörülemez ve **olması** için * var olmalıdır.
+Karşısında dinin "sıfır noktası", *tam zıttı* iki tarafın küçük doğrularını ve mutlak doğrunun herkes tarafından kabul edildiği görülür. Şahsen, insan genellikle *ikna edilemezse inanmaz*, - akılcı yaklaşırsak, bilim bunun böyle olmadığını defalarca kanıtlamıştır. Ama, ilahiyattaki "sıfır noktası" bu çıkarımın tam tersinin doğruluğunu kabul eder - *aksiyomunda öngörülemez ve **olması** için* var olmalıdır.
 
 Askerinin erdemlerine olan inancımız "sıfır noktasında" yatar. "Bir adam başka birini öldürmek için para alıyorsa ona "kiralık silah" deriz" ve kiralık katil olarak betimleriz. Eğer bu adam kurdelalı yeşil kostüm giyerse *ve aynı hareketi* tekrarlarsa, biz onu kahraman olarak adlandırır ve ödüllendiririz. Küçük doğru (*öldürmemeliyim*) büyük gerçekle (*cinayet yanlıştır*) tamamen örtüşür - ama bunların ortasındaki ''boş alan''’da, cinayet büyülü bir şekilde ''erdemli'' olur
 
@@ -126,7 +126,7 @@ Bu bir ''küçük doğru'' örneğidir: ''Benden çalman yanlış''
 
 Bununla birlikte, bir devlet görevlisi ona para ödemekle yükümlü bir mektup gönderildiğinde, belli bir öfke hissetmiş olabilirsiniz, ancak hikayeyi arkadaşlarınıza aynı korku ve öfke ile ilişkilendirmezsiniz.
 
-Bu bir “ara gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir.”
+Bu bir “ara gerçek” örneğidir, bu da “büyük gerçeği” gizleyen “çalmanın yanlış olduğu " anlamına gelmektedir”.
 
 Bu kitap, bu yanlış "Ara doğruları" meydana çıkararak ortadan kaldırmaya odaklanacaktır. İnsanın, - dinsel batıl inançları, laik despotizm ve ailenin kültü - gibi yıkıcı dünya görüşlerini haklı gösteren yanlış "etik gerçekler" in işkence altında daima dek acı çektiklerine inanıyorum.
 

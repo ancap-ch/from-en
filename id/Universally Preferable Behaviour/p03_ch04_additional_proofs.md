@@ -28,7 +28,7 @@ Salah satu prinsip utama ekonomi pasar bebas adalah bahwa kualitas hanya benar-b
 
 Inisiasi penggunaan kekuatan selalu berlawanan dengan teori moral rasional - ini adalah pelanggaran UPB yang spesifik dan eksplisit. Karena sekolah negeri didanai melalui inisiasi penggunaan kekerasan, maka itu adalah bentuk asosiasi kepentingan, yang merupakan pelanggaran yang jelas terhadap kebebasan berserikat yang divalidasi oleh UPB.
 
-Karena kekerasan melanggar persyaratan moral dari bahaya * - dan kurangnya penghindaran selalu menghasilkan kualitas yang buruk - UPB akan membantu kita memprediksi dengan mudah bahwa sekolah negeri akan memberikan pendidikan berkualitas rendah.
+Karena kekerasan melanggar persyaratan moral dari bahaya - dan kurangnya penghindaran selalu menghasilkan kualitas yang buruk - UPB akan membantu kita memprediksi dengan mudah bahwa sekolah negeri akan memberikan pendidikan berkualitas rendah.
 
 Lebih jauh lagi, UPB juga akan membantu kami memprediksi bahwa, karena semakin banyak kekuatan yang digunakan di ranah pendidikan publik - karena pajak, dorongan serikat pekerja dan sebagainya meningkat - kualitas pendidikan yang diberikan akan menjadi lebih buruk dan lebih buruk lagi.
 

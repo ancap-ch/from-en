@@ -1,39 +1,39 @@
-## Ethical Categories
+## Các phạm trù Đạo đức
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+Với khuôn khổ UPB có sẵn, bây giờ chúng ta có thể xem xét làm thế nào UPB xác nhận hoặc làm mất hiệu lực các vấn đề đạo đức phổ biến nhất . Nếu “lý thuyết vật lí” của chúng ta có thể giải thích cách một người có thể bắt một quả bóng chày, chúng tôi ít nhất đã vượt qua rào cản đầu tiên và quan trọng nhất, và đánh một đòn đầu tiên và sâu sắc nhất đối với con quái vật.
 
-### The Seven Categories
+### Bảy phạm trù
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Như đã đề cập ở trên, các vấn đề về hành vi được yêu thích rộng rãi có thể chia thành ba loại chính - tích cực, tiêu cực và trung lập. Để giúp chúng tôi tách biệt thẩm mỹ với đạo đức, hãy bắt đầu bằng cách mở rộng các phạm trù này để bao gồm *bất cứ* hành vi nào có thể trở thành đối tượng cho việc phân tích đạo đức. Bảy loại này là:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. Hành vi tốt ( phổ quát và có thể đảm bảo thực thi thông qua bạo lực, chẳng hạn như “đừng giết người”).
+2. Hành vi tích cực mang tính thẩm mĩ (phổ quát  nhưng không thể thực thi bằng bạo lực, chẳng hạn như “lịch sự” và “đúng giờ”).
+3. Hành vi cá nhân tích cực (không phổ quát cũng không thi hành được, như việc ưa chuộng ăn kem).
+4. Hành vi trung lập, hoặc không có nội dung đạo đức hay thẩm mỹ, chẳng hạn như đuổi theo xe buýt.
+5. Hành vi cá nhân tiêu cực (không ưa thích việc ăn kem).
+6. Hành vi tiêu cực về thẩm mĩ (“thô lỗ” và “trễ giờ”).
+7. Hành vi xấu (bị cấm một cách phổ quát) (“hãm hiếp”).
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+Theo lý tưởng, chúng ta nên có khả năng giảm thiểu xuống chỉ còn hai loại – hành vi phổ quát và hành vi tích cực mang tính thẩm mĩ - bằng cách xác định các vấn đề đạo đức để những gì bị cấm phổ biến chỉ đơn giản là một hình ảnh phản chiếu về những gì được ưa chuộng hơn và việc đào bới những sở thích cá nhân và các hành động trung lập không liên quan đến một cuộc thảo luận về đạo đức.
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+Ví dụ, Nguyên tắc Không xâm phạm (NAP) nói rằng việc bắt đầu sử dụng vũ lực là vô đạo đức - do đó việc không bắt đầu sử dụng vũ lực được phổ quát hơn, trong khi việc bắt đầu sử dụng vũ lực lại bị cấm rộng rãi. Nếu những gì bị cấm chỉ đơn giản là sự ngược lại với những gì được ưa chuộng hơn, thực sự không cần thêm một phạm trù khác nữa.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Hơn nữa, là những nhà triết học về đạo đức , chúng ta phải ưu tiên kiểm tra các nguyên tắc đạo đức lý trí bằng cách tập trung vào các vi phạm lớn nhất. Rõ ràng, hành động vô đạo đức nhất phải là việc thực thi một cách kịch liệt những ưu tiên đầy tính bất công đối với người khác. Nếu hành động như “trộm cắp” hoặc “giết người” được định nghĩa là UPB, việc kiểm tra những định nghĩa như vậy phải là ưu tiên hàng đầu của chúng ta.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Chính vì thế chúng ta nên tập trung mọi nỗ lực vào các hành vi phổ quát và có thể thi hành được.
 
-### Virtue And Its Opposite
+### Đức hạnh và sự đối lập của nó
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+Đối lập với “đức hạnh” phải là “sự vô đạo đức” - đối nghịch với “tốt” phải là “xấu xa”. Nếu tôi đề nghị một quy tắc đạo đức, “bạn không được ăn cắp”, thì ăn cắp phải là tội ác, và *không* trộm cắp phải là điều tốt. Điều này không có nghĩa là “cố gắng không trộm cắp” là định nghĩa duy nhất của sự xuất sắc về đạo đức, dĩ nhiên, vì một người có thể là một kẻ giết người, thay vì là một tên trộm. Chúng ta có thể nghĩ đó là một yêu cầu “cần thiết nhưng không đầy đủ” đối với đức hạnh.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Mỗi hành động đạo đức phải do chính bản chất của nó mà có một hành động đối lập - bởi vì nếu không, sẽ không có khả năng lựa chọn nào, không có khả năng tránh được, và do đó không có khả năng cho đức hạnh hay sự vô đạo đức. Nếu tôi đưa ra một quy tắc đạo đức: “Bạn nên chống lại trọng lực,” vậy thì đạo đức rõ ràng trở thành một điều bất khả thi, sự vô đạo đức là không thể tránh khỏi, và do đó nguyên tắc đạo đức chắc chắn là không có hiệu lực.
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+Nếu tôi đưa ra quy tắc đạo đức: “bạn không được đi đến San Francisco,” điều này có thể được phát biểu lại một cách hợp lý như sau: “Bạn sẽ đi bất cứ nơi đâu ngoại trừ San Francisco”. Bằng cách này, quy tắc đạo đức “bạn không được ăn cắp” có thể được phát biểu tương đương dưới một dạng tích cực - “Bạn phải tôn trọng các quyền sở hữu tài sản.” Vì việc tôn trọng quyền sở hữu tài sản là một đức hạnh, vi phạm quyền sở hữu tài sản chính là vô đạo đức.
 
-### What Is Missing
+### Điều bị bỏ lỡ
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+Dễ thấy thứ vắng mặt trong danh sách trên  là những đức hạnh truyền thống như lòng dũng cảm, sự trung thực, liêm chính vân vân ... cũng như những điểm tương phản với chúng: hèn nhát, giả dối và tham nhũng.
 
-It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
+Có vẻ như các loại đức hạnh này phải nằm trong phạm trù hành vi tích cực mang tính thẩm mỹ, chẳng hạn như đúng giờ, nhưng tôi có một sự tôn trọng quá mức đối với các đức hạnh truyền thống để đưa chúng vào cùng một loại với những thứ vụn vặt của xã hội. Lý do chúng không được xếp vào loại phổ quát là bởi vì, như chúng ta đã đề cập ở trên, khuôn khổ của UPB chỉ giải quyết  *các hành vi*, chứ không phải với thái độ, suy nghĩ, trạng thái của tâm lý hay cảm xúc. Phương pháp khoa học có thể xử lý một đề xuất hợp lý; nhưng nó lại không thể xử lí “sự giận dữ” hay “sự điên rồ”. Những trạng thái tâm lý đó tất nhiên không phải là không quan trọng - trên thực tế, chúng là điều cần thiết - nhưng chúng không thể là một phần của bất kỳ hệ thống khách quan nào để đánh giá các vấn đề đạo đức, vì chúng chủ yếu là mang tính chủ quan - và do đó không thể chứng minh - trạng thái của sự tồn tại.
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+Chính vì thế UPB chỉ có thể giải quyết các hành động có thể xác minh một cách khách quan như giết người, hành hung và vân vân.

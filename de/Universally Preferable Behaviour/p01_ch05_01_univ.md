@@ -1,73 +1,73 @@
-## Universally Preferable Behaviour
+## Universell präferiertes Verhalten
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+Aus den obigen Argumenten ergibt sich, dass es unmöglich ist, in eine Debatte einzugehen, ohne die Prämisse zu akzeptieren, dass bestimmte Verhaltensweisen *universell zu präferieren* sind.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+Ich verwende hier eher das Wort "Verhalten" anstatt "Denken", weil es wichtig ist, zwischen rein internen und nicht überprüfbaren Zuständen wie "Denken" von objektiven und überprüfbaren Zuständen wie "Handeln", "Schreiben" und "Sprechen" zu unterscheiden.
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+Es ist unmöglich zu beweisen, dass ich letzte Nacht von einem Elefanten geträumt habe. Es ist möglich zu beweisen, dass ich das Wort "Elefant" geschrieben habe, weshalb ich das Wort "Verhalten" anstelle von "Denken" verwende.
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+Das Akzeptieren einer übergeordneten Logik in einem Argument ist eine *Aktion*. Wenn ich jedes Mal, wenn ich Ihnen einen Punkt zugestanden habe, nichts gesagt habe, sondern Sie einfach nur leere Blicke auf Sie geworfen habe, dann finden Sie es ziemlich irritierend, über mich zu debattieren. Um einen Punkt einzugestehen, muss ich die Aktion der verbalen Duldung durchführen.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+So kann man sehen, dass dem eigentlichen Akt des Argumentierens eine Reihe von eingebetteten Prämissen innewohnen, die man nicht umstürzen kann.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+Wenn ich Sie bitte, mich auf dem Tennisplatz zu treffen und mit einem Jagdgewehr aufzutauchen, werden wir vielleicht am Ende eine Art Sport betreiben, aber es wird sicher nicht Tennis sein. Wenn ich Sie bitte, mich auf dem Tennisplatz zu treffen, um ein Spiel zu spielen, bedeutet das implizit, dass Sie die Regeln des Tennisspiels akzeptieren.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+Historisch gesehen ist es denjenigen, die sich in ethischen Debatten engagieren, oft nicht gelungen, diese grundlegende Realität aufrechtzuerhalten.
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
+Ich kann keine wissenschaftliche Arbeit einreichen, die in meiner eigenen Sprache verfasst ist und behauptet, dass sie von meinem psychischen Goldfisch begutachtet wurde, und erwarte, dass sie ernst genommen wird. Ebenso wenig kann ich eine philosophische Debatte über Ethik unter Bezugnahme auf meine eigenen persönlichen Werte beginnen und behaupten, dass meine Argumente alle von Trixie, dem allwissenden und unsichtbaren Kobold, bestätigt worden sind und erwarten, ernst genommen zu werden.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+Gerade der Akt des Debattierens erfordert die Akzeptanz von universell präferierten Verhaltens (universally preferable behaviour - UPB). Es gibt keine Möglichkeit, rational auf ein ethisches Argument zu antworten, ohne UPB auszustellen.
 
-Let us now turn to a series of positive proofs for UPB.
+Kommen wir nun zu einer Reihe positiver Beweise für UPB.
 
-### UPB And Validity
+### UPB und Gültigkeit
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+Eine der zentralen Herausforderungen für moderne Philosophen ist die Notwendigkeit zu beweisen, dass moralische Regeln sowohl möglich als auch universell sind. Solange die moralischen Regeln nicht der gleichen Strenge und Logik unterworfen werden können wie alle anderen Vorschläge, werden wir für immer von Subjektivismus, politischen Vorurteilen und dem pragmatischen "Argument aus der Wirkung" gelähmt.
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+Die engste historische Analogie zu unserer gegenwärtigen Situation fand im 15. und 16. Jahrhundert statt, während des Aufstiegs der wissenschaftlichen Methode. Die frühen Pioniere, die eine rationale und empirische Herangehensweise an das Wissen vertraten, sahen sich mit den gleichen Vorurteilen konfrontiert, mit denen wir heute konfrontiert sind - mit den gleichen Irrationalitäten, mit den eingefahrenen Kräften von Kirche und Staat, mit mystischen und subjektiven "Absoluten" und frühen Bildungsbarrieren. Diejenigen, die den Vorrang der Rationalität und der empirischen Beobachtung gegenüber dem biblischen Fundamentalismus und den weltlichen Tyranneien befürworteten, sahen sich der entschiedenen Opposition derjenigen gegenüber, die sowohl Kreuz als auch Schwert führen. Viele wurden wegen ihrer intellektuellen Ehrlichkeit zu Tode gefoltert - wir stehen weitaus weniger Risiko gegenüber und sollten daher viel mutiger sein, wenn es darum geht, das zu verteidigen, was *wahr* ist über das, was *geglaubt* wird.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+Um falsche Moralvorstellungen anzugreifen, müssen wir von vorne anfangen, so wie es die ersten Wissenschaftler getan haben. Francis Bacon argumentierte nicht, dass die wissenschaftliche Methode "effizienter" sei als Gebet, Bibeltexte oder durch Hunger entstandene Visionen. Er sagte einfach, dass wir, wenn wir die Natur verstehen wollen, die Natur beobachten und logisch theoretisieren müssen - und dass es keinen anderen Weg zum Wissen gibt.
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+Wir müssen den gleichen Ansatz bei der Definition und Kommunikation von *Moral* verfolgen. Wir müssen damit beginnen, die Macht und Legitimität der wissenschaftlichen Methode zu nutzen, um die Gültigkeit und Universalität der moralischen Gesetze zu beweisen. Wir müssen von vorne anfangen, logisch aufbauen und *jede* irrationale oder nicht-empirische Substitution der Wahrheit ablehnen.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+Wie sieht das in der Praxis aus? Alles, was wir tun müssen, ist, die folgenden Axiome zu etablieren:
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+- Moral ist ein gültiges Konzept.
+- Moralische Regeln müssen für die gesamte Menschheit einheitlich sein.
+- Die Gültigkeit einer Moraltheorie wird an ihrer Konsistenz gemessen.
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+Um ganz von Vorne zu beginnen... sind moralische Regeln - oder allgemein vorzuziehende menschliche Verhaltensweisen - überhaupt gültig?
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+Es gibt nur zwei Möglichkeiten, wenn es um moralische Regeln geht, genau wie in jeder logischen Wissenschaft. Entweder gelten universelle moralische Regeln oder nicht.[^6]
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+Eine Regel kann gültig sein, wenn sie *erfahrungsgemäß* existiert, wie die Schwerkraft, oder weil sie *wahr* ist, wie die Gleichung zwei plus zwei gleich vier.
 
-We must then first ask: do moral rules exist at all?
+Dann müssen wir uns zuerst fragen: Gibt es überhaupt moralische Regeln?
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+Sicherlich nicht in der materiellen Realität, die keine einzige moralische Regel enthält oder befolgt. Moralische Regeln unterscheiden sich von den Regeln der Physik, ebenso wie die wissenschaftliche Methode sich von der Schwerkraft unterscheidet. Die Materie gehorcht von Natur aus der Schwerkraft oder dem zweiten Gesetz der Thermodynamik, aber "Du sollst nicht morden" ist nirgendwo in die Natur der Dinge eingeschrieben. Physikalische Gesetze *beschreiben* das Verhalten der Materie, enthalten aber keine einzige *Rezeptur*. Die Wissenschaft sagt, dass Materie sich in einer bestimmten Art und Weise verhält - niemals, dass sie sich in einer bestimmten Weise verhalten *sollte*. Die Theorie der Schwerkraft beweist, dass, wenn man einen Mann von einer Klippe stösst, er stürzt. Sie wird Ihnen nicht sagen, ob Sie ihn schubsen *sollten* oder nicht.
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+Es kann also nicht gesagt werden, dass es in der materiellen Realität moralische Regeln gibt, und sie werden auch nicht automatisch wie die Gesetze der Physik befolgt - was *nicht* bedeutet, dass moralische Gesetze falsch, subjektiv oder irrelevant sind. Auch die wissenschaftliche Methode selbst existiert in der Realität nicht - und ist auch optional -, aber sie ist keineswegs falsch, subjektiv oder irrelevant.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+Wenn wir beweisen können, dass moralische Theorien objektiv, rational und überprüfbar sein können, wird dies der Ethik den gleichen Nutzen bringen, den die Unterwerfung von *physischen* Theorien unter die wissenschaftliche Methode hatte.
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+Vor dem Aufkommen der wissenschaftlichen Methode glaubten die Menschen, dass die Materie den subjektiven Launen von Göttern und Teufeln gehorchte - und die Menschen glauben jetzt dasselbe von der Moral. Vulkane brachen aus, weil der Berggott zornig war; gute Ernten resultierten aus Menschen- oder Tieropfern. Niemand glaubte, dass absolute physikalische Gesetze den Willen der Götter einschränken könnten - und so konnte sich die Wissenschaft nie entwickeln. Diejenigen, die historisch davon profitiert haben, die physische Realität als subjektiv zu definieren - vor allem Priester und Aristokraten -, kämpften gegen die Unterwerfung physischer Theorien unter die wissenschaftliche Methode, ebenso wie diejenigen, die gegenwärtig davon profitieren, Moral als subjektiv zu definieren - vor allem Priester und Politiker -, die derzeit gegen die Unterwerfung von *moralischen* Theorien unter objektive und universelle Prinzipien kämpfen.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+Wie bereits erwähnt, ist die wissenschaftliche Methode im Wesentlichen eine Methode, um genaue von ungenauen Theorien zu trennen, indem man sie zwei zentralen Tests unterzieht: logische Konsistenz und empirische Beobachtung - und indem man logische Konsistenz immer der empirischen Beobachtung unterwirft. Wenn ich eine vollkommen konsistente und logische Theorie vorschlage, die besagt, dass ein Stein *nach oben* schwebt, wenn er von einer Klippe geworfen wird, beweist jeder empirische Test, dass meine Theorie falsch ist, da die Beobachtung immer die Hypothese übertrumpft.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+Ein weiterer Aspekt der wissenschaftlichen Methode ist die Überzeugung, dass, da Materie aus Kombinationen von Atomen mit gemeinsamen, stabilen und vorhersagbaren Eigenschaften besteht, auch das Verhalten der Materie allgemein, stabil und vorhersagbar sein muss. Daher müssen Experimente an verschiedenen Orten und zu unterschiedlichen Zeiten *reproduzierbar* sein. Ich kann nicht sagen, dass meine "Stein Schwebe"-Theorie nur für einen bestimmten Stein richtig ist, oder an dem Tag, an dem ich es zum ersten Mal getestet habe, oder an einem einzigen Ort. Meine Theorien müssen das Verhalten der *Materie* beschreiben, das universell, allgemein, stabil und vorhersagbar ist.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+Schließlich gibt es eine allgemein anerkannte Regel - manchmal auch Occam's Razor genannt - die besagt, dass von zwei Theorien, die die gleiche Vorhersagekraft haben, die einfachere der beiden vorzuziehen ist. Vor der kopernikanischen Revolution, als die Erde als Zentrum des Universums galt, verursachte die rückläufige Bewegung des Mars, als die Erde ihn im Orbit um die Sonne passierte, enorme Probleme für das ptolemäische System astronomischer Berechnungen. "Kreise in Kreisen" vervielfachte sich enorm, die alle weggeräumt wurden, indem man die Sonne einfach in den Mittelpunkt des Sonnensystems stellte und die elliptische Natur der Planetenbahnen akzeptierte.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+Daher muss jede gültige wissenschaftliche Theorie (a) universell (b) logisch (c) empirisch überprüfbar (d) reproduzierbar und (e) so einfach wie möglich sein.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+Die Methodik für die Beurteilung und den Nachweis einer *moralischen* Theorie ist genau die gleiche wie die Methodik für die Beurteilung und den Nachweis jeder anderen Theorie.
 
-#### Moral Rules: A Definition
+#### Moralische Regeln: Eine Definition
 
-The first question regarding moral rules is: *what* are they?
+Die erste Frage bezüglich moralischer Regeln lautet: *Was* sind sie?
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+Einfach ausgedrückt, *Morale* sind ein Regelwerk, das behauptet, universell bevorzugte menschliche Verhaltensweisen genau und konsistent zu identifizieren, so wie *Physik* ein Regelwerk ist, das behauptet, das universelle Verhalten der Materie genau und konsistent zu identifizieren.
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+Die zweite Frage, die sich stellt, lautet: Gibt es überhaupt so etwas wie "universell präferiertes Verhalten"? Wenn ja, können wir anfangen zu erforschen, was ein solches Verhalten sein könnte. Wenn nicht, dann muss unsere Untersuchung hier enden - ebenso wie die Untersuchung der ptolemäischen Astronomie, nachdem allgemein anerkannt wurde, dass die Sonne tatsächlich das Zentrum des Sonnensystems ist.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+[^6]: In der Physik stellt sich die Frage: Entweder gelten universelle physikalische Regeln oder nicht.

@@ -20,7 +20,7 @@ Ang sinumang etiko, kung gayon, na nakatutok lamang sa kriminalidad, sa halip na
 
 Ang mga pribadong kriminal ay umiiral, siyempre, *ngunit halos walang epekto sa ating mga buhay na katulad ng mga namumuno sa atin batay sa mga maling moral na teorya*. Minsan, nang ako ay labing-isang, isa pang batang lalaki ang nakakuha ng ilang dolyar mula sa akin. Sa isa pang pagkakataon, noong ako ay dalawampu't anim, iniwan ko ang aking ATM card sa isang makina ng bangko, at isang taong nakawin ang ilang daang dolyar mula sa aking akawnt.
 
-Sa kabilang banda, mayroon akong daan-daang libong dolyar na kinuha mula sa akin sa pamamagitan ng puwersa sa pamamagitan ng moral na teorya ng "pagbubuwis ay mabuti." Napilitang umupo ako sa matindi at malupit na pagnanakaw sa utak ng mga pampublikong paaralan sa loob ng labing-apat na taon, batay sa moral na teorya na "ang edukasyon ng estado ay isang kabutihan.”[^12]
+Sa kabilang banda, mayroon akong daan-daang libong dolyar na kinuha mula sa akin sa pamamagitan ng puwersa sa pamamagitan ng moral na teorya ng "pagbubuwis ay mabuti." Napilitang umupo ako sa matindi at malupit na pagnanakaw sa utak ng mga pampublikong paaralan sa loob ng labing-apat na taon, batay sa moral na teorya na "ang edukasyon ng estado ay isang kabutihan”.[^12]
 
 Ang batang lalaki (at ang lalaki) na nakaagaw ng aking pera ay walang alinlangang ginamit ito para sa ilang personal na kasiyahan o pangangailangan. Ang gobyerno na nagnanakaw ng aking pera, sa kabilang banda, ay gumagamit nito upang pighatiin ang mahihirap, upang pondohan ang mga digmaan, magbayad ng mayayaman, humiram ng pera at magpawalang-saysay sa aking mga anak - at bayaran ang sweldo ng mga taong nakawin mula sa akin.
 

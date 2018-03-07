@@ -1,75 +1,75 @@
-## Parallels
+## Ang Magkahilera
 
-Before the Scientific Revolution, it was considered inconceivable that the natural world could sustain itself without a conscious and “moral” entity at its centre. The sun rose trailing the chains of a supernatural chariot; the moon was a cold and lonely brother of the sun. Constellations outlined the tales and graves of the gods, and storms stemmed from the rage of demons.
+Bago ang rebolusyong pang-agham, ito ay itinuturing na hindi maipahiwatig na ang natural na mundo ay maaaring suportahan ang sarili nito nang walang nalalaman at "etikang" entidad sa gitna nito. ang araw ay sumikat sa mga kadena ng isang sobrenatural na karo; ang buwan ay isang malamig at malungkot na kapatid ng araw. Ang mga konstelasyon ay nakabalangkas sa mga tale at mga libingan ng mga diyos, at ang mga bagyo ay nagmula sa galit ng mga demonyo.
 
-The idea that nature was a self-generating and self-sustaining system was almost unimaginable. The Darwinian revolution, the idea that life was not created, but rather evolved, brought this idea from the material to the biological world.
+Ang ideya na likas na katangian ay isang pagbuo ng sarili at nagtutukod sa sariling sistema ay halos hindi mailarawan. Ang rebolusyon ng Darwinian, ang ideya na ang buhay ay hindi nilikha, ngunit lumaki, dinala ang ideyang ito mula sa materyal patungo sa mundong biolohikal.
 
-Before science, at the centre of every complex system lay a virtuous consciousness – without which this system would fly into chaos, and cease to be.
+Bago ang agham, sa sentro ng bawat kumplikadong sistema ay naglalagay ng isang banal na kamalayan - kung wala ang sistemang ito ay lumilipad sa kaguluhan, at tumigil na.
 
-Unfortunately, this “virtuous consciousness” was merely an illusion, to put it most charitably. No such gods existed – all that *did* exist were the pronouncements of priests. Thus what really lay at the centre was the bias of irrational individuals, who had no idea how mad they really were.
+Sa kasamaang palad, itong "banal na kamalayan" ay isang ilusyon lamang, upang ilagay ito sa mapag-kawang gawa. Walang ganoong diyos ang umiiral - ang lahat *ng* umiiral ay ang mga kapahayagan ng mga pari. Kaya kung ano ang talagang nakalagay sa gitna ay ang pagkakakampi ng hindi makatwiran indibidwal, na walang ideya kung gaano sila kabaliw.
 
-We have yet to apply this same illumination to our conceptions of society – but it is now *essential* that we do so.
+Hindi pa natin nailalapat ang parehong liwanag sa ating konsepto ng lipunan - ngunit ito ay ngayon *mahalaga* na ginagawa natin ito.
 
-We consider it essential that, at the centre of society, we place a virtuous entity called “the government.” In the absence of this entity, we consider it axiomatic that society will fly into chaos, and cease to be – just as our ancestors considered that, in the absence of gods, the universe itself would fly into chaos, and cease to be.
+Itinuturing namin ito na mahalaga, sa gitna ng lipunan, inilalagay namin ang isang banal na entidad na tinatawag na "gobyerno". Sa kawalan ng entidad na ito, itinuturing namin itong axiomatic na lipunan ay lumipad sa kaguluhan, at tumigil na - tulad ng itinuturing ng ating mga ninuno, sa kawalan ng mga diyos, ang sansinukob mismo ay lilipad sa kaguluhan, at tumigil na.
 
-However, “the government” no more exists than “god” exists.
+Gayunman, "ang gobyerno" wala nang umiiral kaysa sa "diyos".
 
-When we speak of “gods,” we are really talking about “the opinions of priests.”
+Kapag nagsasalita tayo ng mga "diyos", talagang binabanggit natin ang "mga opinyon ng mga pari".
 
-When we speak of “the government,” we *really* mean “the violence of a tiny minority.”
+kapag nagsasalita tayo ng "gobyerno", ang ibig *talaga* natin sabihin ay "ang karahasan ng isang maliit na minorya".
 
-The idea of “spontaneous order,” which is well proven in the realms of physics and biology, remains largely inconceivable to us in the realm of society.
+Ang ideya ng "kusang pagkakasunud-sunod", na kung saan ay mahusay na napatunayan sa mga kaharian ng pisika at biolohiya, ay nananatiling hindi maipahahayag sa atin sa larangan ng lipunan.
 
-However, “governments” are no more needed for the organisation and continuance of society than “gods” are required for the organisation and continuance of the universe.
+Gayunman, "ang gobyerno" ay hindi na kinakailangan para sa samahan at pagpapatuloy ng lipunan kaysa "mga diyos" ay kinakailangan para sa samahan at pagpapatuloy ng sansinukob.
 
-In fact, just as religions impeded the progress of science, so do governments impede the progress of society. Just as the illusions of *religion* caused the deaths of hundreds of millions of people throughout history, so have the illusions of *government*.
+sa katunayan, tulad ng mga relihiyon na humadlang sa pag-unlad ng agham, kaya hinadlangan ng mga pamahalaan ang pag-unlad ng lipunan. Tulad ng mga ilusyon ng *relihiyon* sanhi ang pagkamatay ng daan-daang milyong mga tao sa buong kasaysayan, kaya may mga illusions ng *gubyerno*.
 
-Just as the false ethics of religions “justify” all manners of abuse, corruption and violence, so do the false ethics of governments. When we choose to live by fantasy, we inevitably choose destruction, in one form or another.
+Upang ang mga maling etika ng mga relihiyon "bigyang-matwid" ang lahat ng mga asal ng pang-aabuso, kurapsyon at karahasan, kaya ang mga maling etika ng gubyerno. Kapag pinili nating mabuhay sa pamamagitan ng pantasya, hindi namin maiwasang piliin ang pagkawasak, sa isang form o sa iba pa.
 
-When we choose to run society according to religious moral mythologies, we end up with wars, violence, repression, abuse, corruption and bottomless hypocrisy.
+Kapag pinili nating patakbuhin ang lipunan ayon sa relihiyosong etikong mga alamat, nagtatapos tayo sa digmaan, karahasan, pagsupil, pang-aabuso, katiwalian at napakalalim na pagkukunwari.
 
-When we choose to run society according to *statist* moral mythologies, the results are no different.
+Kapag pinili nating patakbuhin ang lipunan ayon sa *istatistika* etikong mga alamat, ang resulta ay walang pinagkaiba.
 
-We can either choose virtue or compulsion.
+Pwedi nating piliin ang kabutihan o ang pamimilit
 
-We cannot have both.
+Hindi tayo pweding magkaroon ng kapareho.
 
-### Solutions
+### Ang mga Solusyon
 
-We can choose to believe that the government is both a necessary and a moral institution. We can choose to believe that, without government, society will collapse into “anarchy,” and the world will dissolve into a war of all against all. We can choose to believe that without the government, there will be no roads, no education, no healthcare, no old-age pensions, no libraries, no protection of property and so on.
+Pwedi nating piliin na paniwalaan na ang gobyerno ay parehong may kinalaman sa isang kinakailangan at isang institusyong moral. Maaari nating piliin na paniwalaan iyan, walang gobyerno, ang lipunan ay babagsak sa "anarkiya", at ang mundo ay bubunutin sa isang digmaan ng lahat laban sa lahat. Maaari tayong maniwala na walang gobyerno, walang mga kalsada, walang edukasyon, walang pangangalagang pangkalusugan, walang pensyon sa mga may edad, walang mga aklatan, walang proteksyon sa ari-arian at iba pa.
 
-Similar superstitions, of course, have retarded the progress of mankind throughout history. The most significant precursor to what UPB reveals about the government is what science revealed about religion.
+katulad ng mga pamahiin, syempre, ay tumigil sa pagsulong ng sangkatauhan sa buong kasaysayan. Ang pinakamahalagang pasimula sa kung ano ang ibunyag ng UPB tungkol sa pamahalaan ay ang inihayag ng agham tungkol sa relihiyon.
 
-As science began to practically postulate a universe that could run without a god, all manner of hysterics clamoured that the end of the world was nigh, that society would collapse into “anarchy,” and that civilisation would dissolve into a war of all against all.
+Tulad ng agham ay nagsimula sa halos magkuro-kuro ng isang sansinukob na maaaring tumakbo nang walang diyos, lahat ng uri ng mag-iingay na hyteriya na ang katapusan ng mundo ay malapit na, ang lipunan na iyon ay mahuhulog sa "anarkiya", at ang sibilisasyon na iyon ay malulutas sa isang digmaan ng lahat ng muli.
 
-Any time a system that justifies power can be conceived of running *without* that power, all those who profit from the manipulation of that power cry out that without them, all is lost.
+anumang oras ng isang sistema na nagbibigay-katuwirang kapangyarihan pweding maisip na tumakbo nang walang kapangyarihan na iyon, lahat ng mga taong kumikita mula sa pagmamanipula ng kapangyarihan na iyon umiyak ang kapangyarihan nang wala sila, lahat ay nawala.
 
-Priests did this during the onset of the scientific revolution. Without God, life has no meaning. Without God, man has no morality. Without God, our souls cannot be saved. Without God, the world will descend into chaos and evil.
+ginawa ito ng mga pari sa pagsisimula ng siyentipikong rebolusyon. Kung walang Diyos, walang kahulugan ang buhay. Kung walang Diyos, ang tao ay walang moralidad. Kung walang diyos, ang ating kaluluwa ay hindi maliligtas. Kung walang Diyos, ang mundo ay bababa sa kaguluhan at kasamaan.
 
-None of it turned out to be true, of course. In fact, quite the *reverse* turned out to be true. The end of religion as the dominant world-view paved the way for the separation of church and state, the end of the aristocracy, the rise of the free market, the establishment of many human liberties in significant areas of the world.
+Wala sa mga ito ang naging totoo, syempre. Sa katunayan, medyo ang *kabaligtaran* ang naging totoo. Ang katapusan ng relihiyon bilang ang nangingibabaw na pananaw sa mundo naghandaan ang daan para sa paghihiwalay ng simbahan at estado, ang wakas ng aristokrasya, ang pagtaas ng libreng merkado,ang pagtatatag ng maraming kalayaan ng tao sa mga makabuluhang mga lugar sa mundo.
 
-The fall of God was the rise of mankind.
+Ang pagkahulog ng diyos ay ang pagtaas ng sangkatauhan.
 
-In the same way, when we begin see society as the early scientists saw the universe – as a self-sustaining system without the need for an imaginary central authority – then we can truly begin to perceive the possibilities of freedom for mankind.
+Sa parehong paraan, kapag nagsimula kaming makita ang lipunan habang nakita ng unang mga siyentipiko ang sansinukob - bilang isang sitemang nagtitiwala sa sarili nang walang pangangailangan para sa isang haka-haka sentral na awtoridad - pagkatapos ay maaari naming tunay na simulan upang maunawaan ang mga posibilidad ng kalayaan para sa sangkatauhan.
 
-The establishment of a central and coercive monopoly in society perpetually retards the progress of knowledge, of wisdom, of virtue, of physical and mental health – just as the establishment of a central and coercive monopoly in the *universe* perpetually retarded the progress of knowledge, of wisdom, and science.
+ang pagtatatag ng isang gitna at mapilit na monopolyo sa lipunan sa tuwina ay nirerespeto ang pag-usad ng kaalaman, ng karunungan, ng kabutihan, ng pisikal at mental na kalusugan - tulad ng pagtatatag ng isang gitna at mapiliy na monopolyo sa *sansinukob* palagiang pinigilan ang pag-unlad ng kaalaman, ng karunungan, at agham.
 
-The way to oppose imaginary entities is with relentless truth. The way to oppose God is with reason, evidence and science.
+Ang paraan upang salungatin ang mga haka-haka na nilalang ay may walang-tigil na lagay. Ang paraan upang salungatin ang diyos ay may dahilan, katibayan at agham.
 
-The way to oppose the state – the most dangerous imaginary entity – is with reason, evidence and science.
+Ang paraan upang tutulan ang estado - ang pinaka-mapanganib na haka-haka na entidad - may dahilan, katibayan at agham.
 
-### The Future
+### Ang kinabukasan
 
-Whether we like it or not, UPB applies to everything that we do. Human beings have a natural tendency towards consistency, since we are beings with a rational consciousness, inhabiting a consistent and rational universe. Thus whatever premises we accept in our lives tend to compel more and more consistent behaviour throughout our lives – and throughout the “life” of our culture or nation as well.
+Sa ayaw natin o sa gusto, ang UPB ay nalalapat sa lahat ng bagay na ginagawa natin. Ang mga tao ay may likas na ugali patungo sa pagkakapare-pareho, dahil tayo ay mga nilalang na may isang makatuwirang kamalayan, na nakatira sa isang pare-pareho at nakapangangatwiran na sansinukob. Sa gayon ang anumang mga lugar na tinatanggap natin sa ating buhay ay may posibilidad na pilitin ang higit pa at mas pare-pareho na pag-uugali sa kabuuan ng ating buhay - at sa buong buhay ng ating kultura o bansa rin.
 
-Thus a man who believes that bullying is a good way to get what he wants tends to bully more and more over the course of his lifetime. A man who believes that violence is good tends to become more and more violent.
+Kaya ang isang tao na naniniwala na ang pananakot ay isang mabuting paraan upang makakuha ng kung ano ang nais niya ay may gawi na panunupil pa at higit pa sa panahon ng kanyang buhay. Ang isang tao na naniniwala na ang karahasan ay mabuti ay nagiging mas marahas.
 
-In other words, UPB demands consistency even in inconsistency. UPB demands uniformity even in immorality.
+Sa ibang salita, ang UPB ay hinihingi ang pagkakapare-pareho kahit na hindi magkatulad. Ang UPB ay hinihingi ng pagkakapareho kahit sa imoralidad.
 
-The root moral premises of a culture thus dictate its inevitable future. A culture built on justifications for coercion will always become more coercive. A culture built on rational liberty will always become less coercive.
+Ang ugat ng etikong lugar ng isang kultura kaya idikta ang hindi maiiwasang hinaharap nito. Ang isang kultura na binuo sa mga pagbibigay katarungan para sa pamimilit ay palaging magiging mas mapilit. Ang isang kultura na binuo sa nakapangangatwirang kalayaan ay palaging maging hindi masyadong pamimilit.
 
-That is why the delineation of a rational framework for ethics is so essential.
+Kaya nga ang pagguhit ng isang makatwirang balangkas para sa etika ay napakahalaga.
 
-What we believe is what we become.
+Kung ano ang pinaniniwalaan natin ay nagiging tayo.
 
-If we believe lies, we shall become slaves.
+Kung maniniwala tayo sa kasinungalingan, tayo ay magiging mga alipin.

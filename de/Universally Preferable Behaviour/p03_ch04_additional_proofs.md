@@ -1,35 +1,35 @@
-## Additional Proofs
+## Zusätzliche Beweise
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Es gibt noch weitere zusätzliche Beweise, die wir in der Frage des allgemein bevorzugten Verhaltens anführen können.
 
-### The Free-Market Economy
+### Die Freie Marktwirtschaft
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Eine freie Marktwirtschaft ist zweifellos die effizienteste und wohlhabendste Methode, um die Produktion und den Verbrauch von Gütern und Ressourcen innerhalb der Gesellschaft zu organisieren. Ihr materieller Erfolg ist in der Menschheitsgeschichte und auf der ganzen Welt beispiellos.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Der Rahmen der UPB antizipiert, validiert und erläutert die Gründe für die materiellen Erfolge einer freien Marktwirtschaft.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Theoretisch basiert eine freie Marktwirtschaft auf der Anwendung einer universellen Theorie der Eigentumsrechte. Im Gegensatz dazu basiert der Kommunismus auf der ausdrücklichen Ablehnung einer universellen Theorie der Eigentumsrechte. Da wir oben bewiesen haben, dass universelle Eigentumsrechte die einzig gültige Moraltheorie sind, erklärt dies auf der grundlegendsten Ebene, warum der Kommunismus eine solche Katastrophe ist, während eine freie Marktwirtschaft so materiell produktiv ist.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Da die Menschen *in der Tat* gleichberechtigte Eigentumsrechte haben, ist jedes Gesellschaftssystem, das dieses Recht ablehnt, zum Scheitern verurteilt - so wie jeder Brückenplaner, der die Realität der Schwerkraft ablehnt, niemals in der Lage sein wird, eine Brücke zu bauen, die stehen bleibt.
 
-### The Scientific Method
+### Die Wissenschaftliche Methode
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Logik und Wissenschaft sind in der Tat Methoden, die - neben der Moral - unter dem Dach der UPB existieren. Mit anderen Worten, Logik und Wissenschaft werden beide durch den Rahmen der UPB validiert.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Eine zentrale Frage, die es zu beantworten gilt, lautet: *Warum ist die wissenschaftliche Methode anderen "Methoden" des Wissenserwerbs, wie z.B. der Mystik, unendlich überlegen?*
 
-UPB answers this question.
+UPB beantwortet diese Frage.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Da jede Methodik für den Wissenserwerb universell, konsistent und unabhängig von Zeit und Ort sein muss, erfüllt die wissenschaftliche Methode diese Anforderungen, während irrationale und subjektive Mystik das genaue Gegenteil dieser Anforderungen ist.
 
-### Public Education
+### Öffentliche Bildung
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Ein zentrales Prinzip der freien Marktwirtschaft ist, dass Qualität nur durch *Freiwilligkeit* wirklich entsteht. Zwang ist grundsätzlich ineffizient - Gewalt führt immer zu schlechter Qualität. Die alten sowjetischen Bäckereien backten nie gutes Brot; ein Mann, der seine Frau schlägt, wird nie eine glückliche Ehe haben.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Die Einleitung der Gewaltanwendung steht immer im Widerspruch zu jeder rationalen Moraltheorie - es handelt sich um eine spezifische und explizite Verletzung der UPB. Da öffentliche Schulen durch die Initiierung von Gewaltanwendung finanziert werden, handelt es sich um eine Form der *Zwangsvereinigung*, die einen klaren Verstoß gegen die von der UPB bestätigte *Verbandsfreiheit* darstellt.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Da Gewalt gegen das moralische Gebot der *Vermeidbarkeit* verstößt - und ein Mangel an Vermeidbarkeit immer eine schlechte Qualität zur Folge hat - würde uns UPB dabei helfen, leicht vorauszusagen, dass öffentliche Schulen eine qualitativ minderwertige Ausbildung anbieten würden.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Darüber hinaus hätte uns die UPB auch dabei geholfen, vorauszusagen, dass sich die Qualität des Bildungsangebots mit der zunehmenden Anwendung von Gewalt im Bereich der öffentlichen Bildung - wie Steuern, Gewerkschaftszwänge und so weiter - immer weiter verschlechtern würde.
 
-This, of course, was – and is – exactly the case.
+Das war und ist natürlich genau der Fall.

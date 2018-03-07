@@ -8,7 +8,7 @@ Doğanın kendi kendini üreten ve kendi kendini sürdürebilen bir sistem oldu�
 
 Ne yazık ki, bu "erdemli bilinç" sadece cömertçe sonuçlanacak bir hayaldir. Hiç bir tarı varolmadı - var olanların hepsi rahiplerin beyanlarıydı. Böylece merkezde gerçekten yatan şey, gerçekte ne kadar çok delirmiş oldukları hakkında hiçbir fikri olmayan irrasyonel bireylerin önyargılarıydı.
 
-Aynı aydınlatmayı toplum görüşümüze uygulamamış bulunuyoruz - ancak şu an bunu yapmamız * esastır *.
+Aynı aydınlatmayı toplum görüşümüze uygulamamış bulunuyoruz - ancak şu an bunu yapmamız *esastır*.
 
 Toplumun merkezine "hükümet" olarak adlandırılan erdemli bir varlığı yerleştirmemizin önemli olduğunu düşünüyoruz. Bu varlığın yokluğunda toplumu, kaosta uçarak durmaya çalışacak bir aksiyomatik olarak düşünüyoruz tıpkı atalarımız Tanrı'nın yokluğunda evrenin kendisinin kargaşaya dönüşeceğini ve duracağını düşündüğü gibi.
 

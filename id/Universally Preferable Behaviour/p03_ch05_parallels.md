@@ -46,13 +46,13 @@ Setiap kali sebuah sistem yang membenarkan kekuasaan dapat dipahami untuk menjal
 
 Para pendeta melakukan ini saat permulaan revolusi ilmiah. Tanpa Tuhan, hidup tidak memiliki arti. Tanpa Tuhan, manusia tidak memiliki moralitas. Tanpa Tuhan, jiwa kita tidak bisa diselamatkan. Tanpa Tuhan, dunia akan turun ke dalam kekacauan dan kejahatan.
 
-Ternyata tidak ada yang benar, tentu saja. Sebenarnya, justru * kebalikannya yang ternyata benar. Akhir dari agama sebagai pandangan dunia yang dominan yang membuka jalan bagi pemisahan gereja dan negara, akhir aristokrasi, bangkitnya pasar bebas, dan pembentukan banyak kebebasan manusia di wilayah dunia yang signifikan.
+Ternyata tidak ada yang benar, tentu saja. Sebenarnya, justru kebalikannya yang ternyata benar. Akhir dari agama sebagai pandangan dunia yang dominan yang membuka jalan bagi pemisahan gereja dan negara, akhir aristokrasi, bangkitnya pasar bebas, dan pembentukan banyak kebebasan manusia di wilayah dunia yang signifikan.
 
 Kejatuhan Tuhan adalah kebangkitan umat manusia.
 
 Dengan cara yang sama, ketika kita mulai melihat masyarakat saat ilmuwan awal melihat alam semesta sebagai sistem mandiri tanpa kebutuhan akan otoritas pusat imajiner, maka kita dapat benar-benar mulai merasakan kemungkinan kebebasan bagi umat manusia.
 
-Pembentukan monopoli sentral dan pemaksaan dalam masyarakat terus-menerus menghambat kemajuan pengetahuan, kebijaksanaan, kebajikan, kesehatan fisik dan mental yang sama seperti pembentukan monopoli sentral dan pemaksaan di alam semesta yang * terus-menerus* memperlambat kemajuan pengetahuan, kebijaksanaan, dan sains.
+Pembentukan monopoli sentral dan pemaksaan dalam masyarakat terus-menerus menghambat kemajuan pengetahuan, kebijaksanaan, kebajikan, kesehatan fisik dan mental yang sama seperti pembentukan monopoli sentral dan pemaksaan di alam semesta yang *terus-menerus* memperlambat kemajuan pengetahuan, kebijaksanaan, dan sains.
 
 Cara untuk menentang entitas imajiner adalah dengan kebenaran tanpa henti. Cara menentang Tuhan adalah dengan alasan, bukti, dan sains.
 

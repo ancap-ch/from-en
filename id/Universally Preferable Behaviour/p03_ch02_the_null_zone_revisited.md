@@ -1,6 +1,6 @@
-## Zona Null Revisited
+## Zona Nol Ditinjau Kembali
 
-Pada awal buku ini, saya mengajukan cara untuk melihat bagaimana kita memproses kebenaran, analogisasikan dengan fisika. Dari "kebenaran kecil" untuk menangkap bola bisbol, sampai pada "kebenaran besar" fisika - dan kebenaran besar tidak dapat bertentangan dengan kebenaran kecil.
+Pada awal buku ini, saya mengajukan cara untuk melihat bagaimana kita memproses kebenaran dan menganalogisasikan dengan fisika. Dari "kebenaran kecil" untuk menangkap bola bisbol, sampai pada "kebenaran besar" fisika, dan kebenaran besar tidak dapat bertentangan dengan kebenaran kecil.
 
 Hal yang sama berlaku untuk moralitas. Dari kebenaran kecil "Saya seharusnya tidak membunuh" kita bisa mencapai kebenaran besar seperti "inisiasi penggunaan kekerasan secara moral yang salah."
 
@@ -22,7 +22,7 @@ Kita tidak memiliki bukti secara langsung, empiris atau rasional untuk keberadaa
 
 Keyakinan mungkin benar, salah, atau *anti-kebenaran*. Ini adalah keyakinan yang benar bahwa Gurun Sahara ada di Afrika Utara; Ini adalah keyakinan yang salah bahwa Sahara ada di Skotlandia; itu adalah keyakinan *anti-benar* bahwa Sahara adalah apapun yang saya inginkan, dan ada dimanapun saya menginginkannya. Keyakinan pertama adalah benar; Yang kedua salah - yang ketiga adalah pernyataan fanatik yang meledakkan konsep pembuktian.
 
-Kita bisa bilang:
+Kita bisa katakan:
 
 1. Proposisi X itu benar karena bersifat rasional.
 2. Proposisi Y salah karena tidak masuk akal.
@@ -50,6 +50,6 @@ Jika, pada titik tertentu, ternyata kita *adalah* dapat berinteraksi dengan hal 
 
 Dengan demikian kita dapat memastikan bahwa jika kita *dapat* mendeteksi alam semesta lain ini, bukti yang kita kumpulkan sama sekali tidak mendukung adanya pernyataan kontradiktif-diri. Lingkaran persegi, Tuhan dan konsep kontradiksi-diri lainnya tidak dapat disembunyikan di sana, lebih dari yang bisa mereka sembunyikan dalam mimpi buruk tentang leprechaun.
 
-Di sisi lain, jika ternyata kita *tidak pernah* mampu mendeteksi alam semesta lain ini, dan tetap menjadi entitas yang sepenuhnya teoritis, tanpa bukti atau rasionalitas untuk mendukungnya, maka itu hanyalah tas konseptual yang "nyaman" untuk menempatkan hal-hal yang jelas tidak benar.
+Di sisi lain, jika ternyata kita *tidak pernah* mampu mendeteksi alam semesta lain ini, dan tetap menjadi entitas yang sepenuhnya teoritis, tanpa bukti atau rasionalitas untuk mendukungnya, maka itu hanyalah lingkaran konseptual yang "nyaman" untuk menempatkan hal-hal yang jelas tidak benar.
 
-[^1]: Ini pasti berakhir dengan perbandingan dengan mereka yang mengatakan bahwa ilmu fisika Einstein tidak mungkin dilakukan, bahwa dunia tidak dapat berputar dan sebagainya. Ketidakpastian dalam *konten* - yaitu teori - bagaimana seharusnya disamakan dengan ketidakpastian dalam *metodologi*, yaitu alasan dan bukti. Fakta bahwa sebuah teorema matematis dapat tidak disetujui jika tidak menyangkal prinsip-prinsip matematika, melainkan menegaskan mereka.
+[^1]: Ini pasti berakhir dengan perbandingan dengan mereka yang mengatakan bahwa ilmu fisika Einstein tidak mungkin dilakukan, yang bahwa dunia tidak dapat berputar dan sebagainya. Ketidakpastian dalam *konten*, yaitu teori yang bagaimana seharusnya disamakan dengan ketidakpastian dalam *metodologi*, yaitu alasan dan bukti. Fakta bahwa sebuah teorema matematis dapat tidak disetujui jika tidak menyangkal prinsip-prinsip matematika, melainkan menegaskan mereka.
