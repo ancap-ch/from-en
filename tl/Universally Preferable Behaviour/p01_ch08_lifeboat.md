@@ -36,7 +36,7 @@ Katulad sa paraan, maaaring magkaroon ng matinding kalagayan kung saan maaari na
 
 ### Pang-Pamantasan At Mga Pagbubukod
 
-Bago tayo magsimula sa paggamit ng ating balangkas ng Universally Preferable Behavior upang masuri ang ilang karaniwang mga etikal na paniniwala, kailangan nating harapin ang tanong ng "mga pagbubukod."
+Bago tayo magsimula sa paggamit ng ating balangkas ng Higit Pa sa Pinagmumulan ng Pag-uugali upang masuri ang ilang karaniwang mga etikal na paniniwala, kailangan nating harapin ang tanong ng "mga pagbubukod."
 
 Gamitin ang nasa itaas "mga pangyayari sa buhaybangka," ang katapusan ay madalas na iginuhit na "ang mabuti"ay simpleng *na ito ay"mabuti" para sa buhay ng isang nag iisang tao*.
 
@@ -48,13 +48,13 @@ Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansa
 4. Kaya ang kaligtasan ay lalong kanais nais sa buong mundo sa karapatan sa pag-aari.
 5. Kaya ano ang mas mabuti para sa sarili ay ang panghuli moral na pamantayan.
 
-Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat isa para sa kaligtasan ay isinalin sa etikal na mga kuro kuro na naglalagay ng kaligtasan ng isa sa kanilang lunsod. [^11]
+Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat isa para sa kaligtasan ay isinalin sa etikal na mga kuro kuro na naglalagay ng kaligtasan ng isa sa kanilang lunsod.[^11]
 
-Ang ganitong uri ng "byolohiko hedonism" ay maaaring mag salarawan ng "biyahe ng mabuhay," ngunit ito lamang ang tama kung ito ay naglalarawan kung ano ang mga tunay na tao*gawin*, hindi kung ano sila*dapat*gawin.
+Ang ganitong uri ng "byolohiko hedonism" ay maaaring mag salarawan ng "biyahe ng mabuhay," ngunit ito lamang ang tama kung ito ay naglalarawan kung ano ang mga tunay na tao *gawin*, hindi kung ano sila *dapat* gawin.
 
 Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong ng moralidad. Halimbawa, kung sa kagandahang asal ay pinapayagan na magnakaw ng pagkain kapag ikaw ay gutom, gaano karami na pagkain ang maaari mong manakaw? Paano kong na gugutom kana? Kaya mong magnakaw ng pagkaing yan na hindi masustansiya? Paano magpagpapalusog ang pagkain upang mabigyang katuwiran ang pagnanakaw nito? Gaano katagal matapos magnakaw ng isang pagkain ikaw ay pinapayagan magnakaw ng isa pang pagkain? Ikaw ba ay pinapayagang magnakaw ng pagkain sa halip na maghanap ng trabaho o manawagan sa kawanggawa?
 
-Gayundin, kung kaya kong makagawa ng maraming pera bilang isang hitman kaysa sa isang nagtitinda, hindi ko dapat ituloy ang karahasan bilang isang karera? Ito ay tiyak na pinapahusay*sa akin*kaligtasan ng buhay... at iba pa.
+Gayundin, kung kaya kong makagawa ng maraming pera bilang isang hitman kaysa sa isang nagtitinda, hindi ko dapat ituloy ang karahasan bilang isang karera? Ito ay tiyak na pinapahusay *sa akin* kaligtasan ng buhay... at iba pa.
 
 Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mahirap unawain - o ano ang karamaihang ginagawa ng tao - ay higit na mas mabuti sa lahat" wasakin ang mismong konsepto ng kabutihang asal bilang isang lohikal na kuro kuro, at pinalitan lamang ang byolohiko na mga biyahe bilang mga katarungan para sa pag-uugali. Ito ay pinapaliwanag sa pag-uugali, hindi iminungkahing ang asal sa kuro kuro.
 
@@ -64,7 +64,7 @@ Sa iyong pasensya na pagpapakasakit, isang panghuli na tanong na kailangang matu
 
 Sa ibang salita, bago kami tumalon sa, ito ay mabuti at karapatdapat na mag tanong ang tanong: "Bakit abala?"
 
-Bakit abala sa pagtukoy sa mga tamang kuro kuro? Sigurado ang mabuting tao ay hindi na sila kailangan, at ang masamang tao ay hindi kumukunsolta sa kanila. Ang tao ay gagawin kung ano ang gusto nila, at gumawa lamang ng mga katwiran kung kinakailangan pagkatapos ng katotohanan - bakit *abala>ituro sa mga tao tungkol sa kagandahang asal?</p> 
+Bakit abala sa pagtukoy sa mga tamang kuro kuro? Sigurado ang mabuting tao ay hindi na sila kailangan, at ang masamang tao ay hindi kumukunsolta sa kanila. Ang tao ay gagawin kung ano ang gusto nila, at gumawa lamang ng mga katwiran kung kinakailangan pagkatapos ng katotohanan - bakit *abala* ituro sa mga tao tungkol sa kagandahang asal?
 
 Siyempre pa, ang panganib ay laging umiiral na ang malaswa na tao ay aatake sa iyo para sa kanyang pansariling hedonistikong layunin. Maaaring ito rin ang kaso na, sa kabila ng malinis at maayos na buhay, maaari kang masaktan sa pamamagitan ng malubhang sakit bago ang iyong oras - ang dating ay hindi gumagawa ng agham ng magandang asal ay hindi nauugnay, higit pa kaysa sa huli ay gumagawa ng mga agham ng panggagamot, pagkain at pagpapalakas ay walang kaugnayan. Ang isang kapansin-pansing epekto ng isang makatuwirang agham ng magandang asal ay dapat na mabawasan ang iyong mga pagkakataon *pagdurusa* ng mga pagkilos na masama tulad ng pagnanakaw, pagpatay at panggagahasa - at sa pamamagitan ng pamantayan na ito ay hahatulan din ang mga panuntunang mabuti na iminungkahi sa pangatlong bahagi ng aklat na ito.
 
