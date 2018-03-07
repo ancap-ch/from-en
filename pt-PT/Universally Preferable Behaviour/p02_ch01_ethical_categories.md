@@ -4,14 +4,14 @@ Agora, com a estrutura do CUP no seu lugar, podemos examinar o modo como o CUP v
 
 ### As Sete Categorias
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+Como mencionámos acima, as proposições sobre o comportamento universalmente preferível dividem-se em três categorias gerais: positiva, negativa e neutra. Para nos ajudar a separar a estética da ética, vamos começar por ampliar essas categorias para englobar *qualquer* comportamento que possa ser submetido a uma análise ética. Estas sete categorias são:
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
+1. É bom (universalmente preferível e exigido através da violência, como "não matar").
+2. É esteticamente positivo (universalmente preferível, mas não executável através da violência, como a "cortesia" e "ser pontual").
+3. É pessoalmente positivo (nem universalmente preferível nem exigível, tal como a preferência por comer sorvete).
+4. É neutro, ou não tem conteúdo ético ou estético, como correr para apanhar o autocarro.
+5. É pessoalmente negativo (preferência por não comer sorvete).
+6. É esteticamente negativo ("descortesia" e "atraso").
 7. It is evil (universally proscribed) (“rape”).
 
 Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
