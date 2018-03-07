@@ -56,9 +56,9 @@ Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong n
 
 Gayundin, kung kaya kong makagawa ng maraming pera bilang isang hitman kaysa sa isang nagtitinda, hindi ko dapat ituloy ang karahasan bilang isang karera? Ito ay tiyak na pinapahusay*sa akin*kaligtasan ng buhay... at iba pa.
 
-Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mahirap unawain - o ano ang karamaihang ginagawa ng tao - ay higit na mas mabuti sa lahat" wasakin ang mismong konsepto ng kabutihang asal bilang isang lohikal na kuro kuro, at pinalitan lamang ang byolohiko na mga biyahe bilang mga katarungan para sa pag-uugali. It is an explanation of behaviour, not a proposed moral theory.
+Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mahirap unawain - o ano ang karamaihang ginagawa ng tao - ay higit na mas mabuti sa lahat" wasakin ang mismong konsepto ng kabutihang asal bilang isang lohikal na kuro kuro, at pinalitan lamang ang byolohiko na mga biyahe bilang mga katarungan para sa pag-uugali. Ito ay pinapaliwanag sa pag-uugali, hindi iminungkahing ang asal sa kuro kuro.
 
-### The Purpose And The Dangers
+### Ang Layunin At Ang Mga Panganib
 
 With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
 
