@@ -52,7 +52,7 @@ Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamar
 
 Ang ganitong uri ng "byolohiko hedonism" ay maaaring mag salarawan ng "biyahe ng mabuhay," ngunit ito lamang ang tama kung ito ay naglalarawan kung ano ang mga tunay na tao*gawin*, hindi kung ano sila*dapat*gawin.
 
-Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong ng moralidad. Halimbawa, kung sa kagandahang asal ay pinapayagan na magnakaw ng pagkain kapag ikaw ay gutom, gaano karami na pagkain ang maaari mong manakaw? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong ng moralidad. Halimbawa, kung sa kagandahang asal ay pinapayagan na magnakaw ng pagkain kapag ikaw ay gutom, gaano karami na pagkain ang maaari mong manakaw? Paano kong na gugutom kana? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
