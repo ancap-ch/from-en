@@ -20,8 +20,8 @@ Ang kilusang Alt-Right ay ang halaga na tagapagsunod sa kilusang paleo-konserbat
 
 Ngayon: Paano na ang tungkol sa ugnayang namamagitan sa libertarianism at ang Alt-Right at ang aking mga rason para sa pag-iimbita sa mga nangungunang representatibo ng Alt-Right sa mga pagpupulong kasama ang mga libertaryano? Ang mga libertaryano ay nagkakaisa sa pangunahing mga paniniwalang teoretikal na hinding-hindi masasagot ang nabanggit sa simula. Maliwanag ang mga ito tungkol sa layunin na nais nilang makamit. Ngunit ang libertarian na doktrina ay hindi nagpapahiwatig ng marami kung anumang bagay tungkol sa*ang mga ito* mga tanong:
 
-1. How to maintain a libertarian order once achieved;
-2. How to attain a libertarian order from a non-libertarian starting point, which requires: 
+1. Paano mapapanatili ang isang liberetarian na order ng isang beses na nakamit;
+2. Paano makakamit ang isang libertarian order mula sa isang non-libertarian mula sa umpisa. na nangangailangan ng: 
     1. That one must correctly describe this starting point;
     2. Correctly identify the obstacles posed in the way of one’s libertarian ends by this very starting point.
 
