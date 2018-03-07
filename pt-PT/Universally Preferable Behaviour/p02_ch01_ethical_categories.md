@@ -26,7 +26,7 @@ Portanto, devemos concentrar os nossos esforços, principalmente em acções uni
 
 O oposto da "virtude" deve ser "vício" - o oposto de "bem" deve ser "mal". Se eu propuser a regra moral, "não roubarás", então o roubo deve ser mau e *não* o roubo deve ser bom. Isso não significa que "abster-se do roubo" seja a única definição de excelência moral, é claro, já que um homem pode não ser um ladrão, mas ser um assassino. Podemos pensar nisso como um requisito "necessário, mas não suficiente" para a virtude.
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+Cada acção moralmente preferível deve, por sua própria natureza, ter uma acção oposta - porque, se não, não há capacidade de escolha, nenhuma possibilidade de evasão e, portanto, nenhuma capacidade de escolha entre a virtude ou o vício. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
 If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
 
