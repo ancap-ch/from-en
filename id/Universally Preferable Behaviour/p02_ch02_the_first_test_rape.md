@@ -62,94 +62,72 @@ Mengapa demikian?
 
 Sekali lagi, kerangka UPB datang untuk menyelamatkan.
 
-An APA is a *non-coercive rule that can be rationally applied to both parties simultaneously*.
+APA adalah peraturan yang bukan koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan *.
 
-For instance, if my APA is: “be on time”, then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
+Misalnya, jika APA saya adalah: "tepat waktu", maka itu bisa menjadi standar universal yang bisa dihindari sama sekali. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun. [^1]
 
-If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
+Jika "tepat waktu" adalah APA, maka ada kemungkinan dua orang mencapainya secara bersamaan - jika keduanya tepat waktu.
 
-With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
+Dengan pemerkosaan meskipun, seperti yang telah kita lihat di atas, tidak mungkin dua orang melakukannya pada waktu bersamaan. Kita harus selalu menjadi pemerkosa, dan yang lainnya selalu menjadi korban.
 
-On the other hand, if I say that “liking jazz” is an APA, then I immediately run into a logical impossibility. Remember, APAs are non-coercive rules that can be rationally applied to both parties simultaneously – the correct formulation for “liking jazz” is: “subjective preferences are universally preferable”.
+Di sisi lain, jika saya mengatakan bahwa "menyukai musik jazz" adalah APA, maka saya langsung mengalami kemustahilan logika. Ingat, APAs adalah peraturan yang tidak koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan dan rumusan yang benar untuk "menyukai musik jazz" adalah: "preferensi subjektif lebih disukai secara universal".
 
-Not only is this a rank contradiction in terms of syntax, but it also immediately fails the test of UPB. If I prefer jazz to all other forms of music, but you prefer classical music to all other forms, and if personal preferences are universally preferable, then you should prefer jazz because I do, and I should prefer classical because you do. This, of course, is impossible, because it would require that we both *simultaneously prefer both jazz and classical above all other forms of music*. You must switch your preference to jazz, because of my preference – but I must at the same time switch my preference to classical, because of your preference. This is like saying that you must both throw and catch the same baseball at exactly the same moment – a logical and physical impossibility.
+Tidak hanya ini kontradiksi peringkat dalam hal sintaksis, tapi juga segera gagal dalam ujian UPB. Jika saya lebih memilih musik jazz untuk semua bentuk musik lainnya, tapi anda lebih memilih musik klasik untuk semua bentuk lainnya, dan jika preferensi pribadi lebih disukai secara universal, maka anda lebih memilih musik jazz karena saya menyukainya, dan saya lebih suka klasik karena Anda melakukannya. Ini tentu saja tidak mungkin, karena akan mengharuskan kita berdua secara simultan lebih menyukai jazz dan klasik daripada semua bentuk musik lainnya. Anda harus mengubah preferensi anda menjadi musik jazz, karena preferensi saya. tapi pada saat yang sama saya mengalihkan preferensi saya ke musik klasik, karena preferensi anda. Ini seperti mengatakan bahwa anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama dimana mustahil secara logika dan fisik.
 
-Since APAs are not enforceable through violence – you cannot shoot a man for being late – then rape *cannot* be an APA, since rape by definition is a sexual attack enforced through violence.
+Karena APAs tidak dapat dilaksanakan melalui kekerasan, anda tidak bisa menembak seorang pria karena terlambat - maka pemerkosaan *tidak* bisa menjadi sebuah APA, karena pemerkosaan menurut definisi adalah serangan seksual yang ditegakkan melalui kekerasan.
 
-Thus rape cannot fall into the category of APAs.
+Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
-### Personally Positive
+### Positif Secara Pribadi
 
-Perhaps rape is akin to a merely personal preference.[^2]
+Mungkin pemerkosaan mirip dengan preferensi pribadi. [^2]
 
-The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
+Pertanyaannya kemudian muncul: dapatkah klasifikasi pemerkosaan sebagai preferensi pribadi hanya berdiri untuk pengamatan logis?
 
-If we propose the moral rule: “personal preferences must be violently inflicted upon other people”, how does that stand up to the framework of UPB?[^3]
+Jika kita mengusulkan peraturan moral: "preferensi pribadi harus ditimbulkan secara kejam terhadap orang lain", bagaimana hal itu sesuai dengan kerangka UPB? [^3]
 
-Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
+Preferensi pribadi tidak bisa dikatakan adil terhadap orang lain, karena itu akan menciptakan paradoks logis yang tidak dapat diatasi.
 
-If I say that liking the band Queen above all others is universally preferable behaviour, on what grounds could I justify that statement? Only by saying that all personal preferences should be inflicted upon other people. However, if my personal preferences can be inflicted upon you at will, then by the very definition of UPB, your personal preferences can also be inflicted upon *me* at will. Thus we cannot both be moral at the same time, since that would require that we both prefer our own bands while at the same time surrendering that preference to the preferred bands of each other. In other words, I must simultaneously think that Queen is the best band, and that The Police is the best band. This is a logical impossibility, which is a central reason why mere personal preferences cannot be universally enforceable.
+ika saya mengatakan bahwa menyukai band Queen di atas segalanya adalah perilaku yang lebih baik secara keseluruhan, dan atas dasar apa saya bisa membenarkan pernyataan itu? Hanya dengan mengatakan bahwa semua preferensi pribadi harus diberikan pada orang lain. Namun, jika preferensi pribadi saya dapat ditimpakan kepada Anda sesuka hati, maka dengan definisi UPB, preferensi pribadi Anda juga dapat ditimpakan pada *saya* sesuka hati. Dengan demikian kita tidak dapat keduanya menjadi moral pada saat yang sama, karena itu mengharuskan kita berdua lebih memilih band kita sendiri sementara pada saat bersamaan menyerahkan preferensi itu ke band-band pilihan satu sama lain. Dengan kata lain, saya harus secara bersamaan berpikir bahwa Ratu adalah band terbaik, dan bahwa The Police adalah band terbaik. Ini adalah kemustahilan logis, yang merupakan alasan utama mengapa hanya preferensi pribadi yang tidak dapat dilaksanakan secara universal.
 
-Thus if rape is considered to be a merely personal preference, then it cannot logically be enforced upon anybody else. Again, thinking of the two men in a room, this would require that both men prefer to rape each other, but remain utterly unable to enforce that decision, which is not only illogical, but also fortunately completely impractical.
+Jadi jika pemerkosaan dianggap hanya preferensi pribadi, maka secara logis tidak dapat diterapkan pada orang lain. Sekali lagi, memikirkan kedua pria di sebuah ruangan, ini mengharuskan kedua pria lebih suka memperkosa satu sama lain, namun sama sekali tidak dapat memaksakan keputusan itu, yang tidak hanya tidak masuk akal, tapi juga untungnya sama sekali tidak praktis.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Akhirnya, karena preferensi pribadi tidak dapat ditegakkan pada orang lain, namun pemerkosaan adalah dengan definisi penegakan "preferensi" terhadap orang lain, pemerkosaan tidak dapat dilakukan dalam kategori moral hanya preferensi pribadi.
 
-### Morally Neutral
+### Netral Secara Moral
 
-As discussed above, rape cannot be a morally neutral action, since it is a preference that is enforced upon another.
+Sebagaimana dibahas di atas, pemerkosaan tidak bisa menjadi tindakan yang netral secara moral, karena ini adalah preferensi yang ditegakkan di atas yang lain.
 
-### Personally Negative
+### Negatif secara pribadi
 
-Perhaps rape is a *personally negative* action, the opposite of number three. As an example, a criminal on the run would consider capture a personally negative action (PNA).
+Mungkin pemerkosaan adalah tindakan *pribadi negatif*, kebalikan dari nomor tiga. Sebagai contoh, seorang kriminal dalam pelarian akan mempertimbangkan untuk menangkap tindakan negatif pribadi (PNA).
 
-Personally negative actions (PNAs) by definition cannot be enforced upon another. Thus a man being raped would be wrong to “inflict” his preference for *not being raped* upon his rapist, in the form of self-defence. In this way, the initiation of violence – the enforcement of a personal preference – is *moral*, while self-defence – also the enforcement of a personal preference – is immoral. Thus we would have the same actions (the enforcement of a personal preference) classified as both moral and immoral, which cannot stand.
+Tindakan negatif pribadi (PNA) menurut definisi tidak dapat diterapkan pada yang lain. Jadi, seorang pria yang diperkosa akan salah jika "menimbulkan" keinginannya untuk *tidak diperkosa* atas pemerkosanya, dalam bentuk pembelaan diri. Dengan cara ini, inisiasi kekerasan, penegakan preferensi pribadi yang bersifat *moral*, sementara pembelaan diri dan juga penegakan preferensi pribadi tidak bermoral. Dengan demikian kita akan memiliki tindakan yang sama (penegakan preferensi pribadi) tergolong baik moral maupun tidak bermoral, yang tidak dapat bertahan.
 
-### Aesthetically Negative
+### Secara estetis negatif
 
-Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
+Mungkin pemerkosaan adalah aksi estetis *negatif*, seperti "terlambat" - sisi belakang angka dua di atas. Namun, tindakan estetis negatif (ANAs) tidak dapat secara logis ditegakkan dengan kekerasan *karena menurut definisinya dapat dihindari*. Karena saya bisa dengan bebas memilih untuk berhenti bergaul dengan pria yang terus-menerus muncul terlambat, saya tidak bisa menembaknya karena terlambat.
 
-However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+Namun, pemerkosaan menurut definisi tidak dapat dihindari, karena ini adalah serangan seksual yang ditegakkan melalui kekerasan.[^4] Juga, jika saya memilih untuk berhenti berteman dengan pria yang terlambat yang disebutkan di atas, dia tidak dapat dengan adil memaksa saya untuk menjadi temannya dengan mengancam saya dengan kekerasan, karena itu bergantung pada prinsip bahwa hanya preferensi pribadi yang dapat diterapkan pada orang lain, yang akan berjalan dengan sia-sia melawan kemampuan saya untuk memaksakan hasrat saya untuk melepaskan persahabatannya. Jenis "moralitas Tarantino" ini selalu berakhir dengan semua orang dalam keadaan lumpuh, menunjukkan senjata di wajah masing-masing seperti patung beku.
 
-As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
+Seperti yang telah kita buat, setiap perilaku yang lebih baik secara universal harus universal bagi semua orang di semua tempat setiap saat. Jika ANAs mengizinkan menggunakan kekerasan (yaitu saya dapat menembak Anda karena terlambat) maka jika pemerkosaan didefinisikan sebagai ANA yang dapat ditegakkan, maka korban pemerkosaan yang menemukan pemerkosaan secara estetis tindakan negatif memiliki hak untuk menembak pemerkosanya, yang secara efektif menegaskan prinsip pembelaan diri, namun dengan mengorbankan juga membiarkan permainan senjata bertentangan, katakanlah, kekasaran.
 
-Thus rape cannot be an ANA.
+Dengan demikian pemerkosaan tidak bisa menjadi ANA.
 
-Which leaves only…
+Yang hanya meninggalkannya
 
-### Evil
+### Wah!
 
-If rape is defined as evil, then it must involve the *initiation* of the use of force, which clearly it does. Also, the proposition: “rape is evil”, passes the “coma test”, insofar as it is impossible for a man in a coma to rape someone.
+Kenyataan bahwa kerangka UPB telah secara logika dan efektif memvalidasi proposisi moral bahwa pemerkosaan itu jahat, tidak "baik", atau "lebih baik secara estetis", atau "lebih baik secara pribadi", atau "netral secara moral" yang merupakan pertanda yang sangat baik. Ini tidak membuktikan tanpa keraguan bahwa UPB secara logis akan memvalidasi semua proposisi moral "akal sehat", tapi rintangan pertama telah berlalu, dan itu akan memberi kita alasan besar untuk merayakannya. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
 
-In addition, if rape is evil, then *not* raping must be good – in this way, two men in a room can both be moral at the same time, simply by not raping each other.
+Teori relativitas Einstein meramalkan bahwa cahaya akan membengkokkan gaya gravitasi dengan baik saat ini pertama kali dikonfirmasi, teori ini tidak membuktikan teorinya di balik bayangan keraguan, tapi teori ini terbukti benar, yaitu lompatan besar kedepan. Validasi pertama selalu yang paling sulit, karena sangat mudah untuk mendapatkan sesuatu yang salah, dan kesalahan selalu melebihi ketepatan.
 
-Since avoidability is one of the key differentiators between “unpleasant” and “immoral”, and rape is clearly an unavoidable behaviour, the definition of “rape as evil” also conforms to this distinction.
+Kerangka UPB telah benar memvalidasi premis moral kita bahwa pemerkosaan itu jahat. Ini adalah kriteria pembuktian yang perlu namun tidak memadai, dan sepenuhnya mendukung penyelidikan tambahan. Jadi, mari kita lanjutkan...
 
-Also, since there are times when it is physically impossible to rape someone – for instance, when an erection cannot be attained – the definition of “rape as evil” solves the problem of people being involuntarily immoral, which is by definition impossible, due to the criterion of avoidability.
+[^1]: Ini sangat berbeda dengan serangan fisik yang menghancurkan kemampuan anda untuk memilih bebas.
 
-The rapist may justify his actions by avoiding the proposition “rape is good”, and instead substituting another proposition that supports his desire to rape, such as: “It is moral to take one’s own pleasure, regardless of the displeasure of others”.
+[^2]: Tidak dapat dikatakan bahwa pemerkosaan tidak melibatkan preferensi, karena perkosaan adalah perilaku dan seperti yang telah kita bahas di atas, semua perilaku melibatkan preferensi.
 
-This proposition also fails the most basic logical test of UPB. If Bob believes that he should take his own pleasure by raping Doug – regardless of Doug’s displeasure – then Bob cannot rationally elevate his preference to a UPB.
+[^3]: Perhatikan bahwa saya tidak dapat mengusulkan bahwa "preferensi pribadi *dapat* dilakukan dengan kejam terhadap orang lain, karena ini adalah pelanggaran terhadap UPB, yang menyatakan bahwa peraturan moral harus mutlak dan universal jika tidak, mereka jatuh ke dalam APA, dan karenanya tidak bisa ditimpakan pada orang lain.
 
-If everyone should take their own pleasure regardless of their victim’s *dis*pleasure, then Bob has no right to rape Doug, since although Bob *prefers* to rape Doug, Doug most certainly does *not* prefer to be raped. If everyone should take their pleasure regardless of the displeasure of others, then there is no rational reason why Bob’s preference to rape Doug should take precedence over Doug’s preference to not be raped, regardless of the displeasure that refusing to be raped would cause Bob.
-
-Thus Doug can say to Bob: “It is morally good for me to rape you, because personal preferences can be violently enforced”. Bob, of course, can then reply: “It is then morally good for me to violently resist your attack, since my personal preference to not be raped can also be violently enforced”.
-
-Of course, few rapists are philosophers, but as we mentioned above, the primary danger to human beings is not the individual criminal, but irrational and exploitive moral theories. For instance, incarceration is inevitably justified through an appeal to a moral theory – and incarceration causes far more people to be raped than private criminals could ever dream of. If the moral theory that justifies incarceration is incorrect, then *correcting* this moral theory should be by far the highest concern of anyone wishing to reduce the prevalence of rape.
-
-Thus it would seem that the only logical possibility for rape is that *not* raping is universally preferable behaviour – or that rape is universally banned behaviour.
-
-### Whew!
-
-The fact that the UPB framework has logically and effectively validated the moral proposition that rape is evil – not “good”, or “aesthetically preferable”, or “personally preferable”, or “morally neutral” – is a very good sign. It does not prove beyond a shadow of a doubt that UPB will logically validate all “common sense” moral propositions, but the first hurdle has been passed, and that should give us great cause for celebration. If I were a physicist proposing a Unified Field Theory, and the application of my theory correctly predicted where a thrown baseball would land, I could justly be enormously pleased.
-
-Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
-
-The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
-
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
-
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
-
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
-
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
+[^4]: Kita dapat menghindari situasi yang meningkatkan kemungkinan pemerkosaan, namun kita tidak dapat menghindari pemerkosaan yang sedang berlangsung.
