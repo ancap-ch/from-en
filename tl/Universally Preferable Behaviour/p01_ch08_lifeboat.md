@@ -62,9 +62,9 @@ Tulad ng makikita natin, ang pagpapakilala ng "ano ang mabuti para sa tao na mah
 
 Sa iyong pasensya na pagpapakasakit, isang panghuli na tanong na kailangang matugunan bago kami tumalon sa kahulugan ng pagsusulit at kung paano magkasya ang iba't ibang mga panukalang balangkas ng asal sa UPB. Dahil ang pinakamahirap na gawain aykasinungalingang nauuna, dapat kaming tumigil sa ilang sandali at paalalahanan ang ating sarili bakit natin nilalagay sa ating sarili ang lahat ng hirap at kahirapan na ito.
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+Sa ibang salita, bago kami tumalon sa, ito ay mabuti at karapatdapat na mag tanong ang tanong: "Bakit abala?"
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+Bakit abala sa pagtukoy sa mga tamang kuro kuro? Sigurado ang mabuting tao ay hindi na sila kailangan, at ang masamang tao ay hindi kumukunsolta sa kanila. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
 
 Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
 
