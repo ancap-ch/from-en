@@ -50,9 +50,9 @@ Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansa
 
 Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat isa para sa kaligtasan ay isinalin sa etikal na mga kuro kuro na naglalagay ng kaligtasan ng isa sa kanilang lunsod. [^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+Ang ganitong uri ng "byolohiko hedonism" ay maaaring mag salarawan ng "biyahe ng mabuhay," ngunit ito lamang ang tama kung ito ay naglalarawan kung ano ang mga tunay na tao*gawin*, hindi kung ano sila*dapat*gawin.
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+Ito rin ay Ipinakikilala rin para ganap na hindi siyentipikong paksa sa tanong ng moralidad. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 
 Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
 
