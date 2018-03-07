@@ -18,13 +18,13 @@ Idealmente, deveríamos poder reduzi-las para apenas duas categorias - universal
 
 Por exemplo, o Princípio de Não-Agressão (PNA) afirma que o início do uso da força é imoral - portanto, a não iniciação do uso da força é universalmente preferível, enquanto que o início do uso da força é universalmente eliminado. Se o que é excluído é apenas o oposto do que é preferível, não há necessidade de uma categoria adicional.
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+Além disso, como filósofos morais, devemos priorizar o nosso exame da ética racional, concentrando-nos nas violações mais flagrantes. Obviamente, as acções mais imorais devem ser a aplicação violenta de preferências injustas sobre outros. Se acções como "roubo" ou "assassinato" forem definidas como CUP, o exame de tais definições deve ser a nossa maior prioridade.
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+Portanto, devemos concentrar os nossos esforços, principalmente em acções universalmente preferíveis e exigíveis.
 
-### Virtue And Its Opposite
+### Virtude e o seu Oposto
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+O oposto da "virtude" deve ser "vício" - o oposto de "bem" deve ser "mal". Se eu propuser a regra moral, "não roubarás", então o roubo deve ser mau e *não* o roubo deve ser bom. Isso não significa que "abster-se do roubo" seja a única definição de excelência moral, é claro, já que um homem pode não ser um ladrão, mas ser um assassino. Podemos pensar nisso como um requisito "necessário, mas não suficiente" para a virtude.
 
 Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
 
