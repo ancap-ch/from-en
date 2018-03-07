@@ -38,4 +38,4 @@ Então, se os maiores perigos para a Humanidade são as falsas teorias éticas, 
 
 Passemos agora a essa tarefa.
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: Ou, em vez disso: a educação "*forçado* é uma virtude" - os meus pais foram obrigados a pagar através de impostos, e fui obrigado a participar.
