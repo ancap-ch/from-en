@@ -48,7 +48,7 @@ Sa tamang mga kaso, kung ako ay tatanongin kung gusto ko magnakaw ng isang mansa
 4. Kaya ang kaligtasan ay lalong kanais nais sa buong mundo sa karapatan sa pag-aari.
 5. Kaya ano ang mas mabuti para sa sarili ay ang panghuli moral na pamantayan.
 
-Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat isa para sa kaligtasan ay isinalin sa etikal na mga kuro kuro na naglalagay ng kaligtasan ng isa sa kanilang sentro. [^11]
+Ito ay ginagamit bilang batayan para sa maraming mga wasto na palagay at pamamaraan, mula sa Nietzsche hanggang Rand. Ang kagustuhan ng bawat isa para sa kaligtasan ay isinalin sa etikal na mga kuro kuro na naglalagay ng kaligtasan ng isa sa kanilang lunsod. [^11]
 
 This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
