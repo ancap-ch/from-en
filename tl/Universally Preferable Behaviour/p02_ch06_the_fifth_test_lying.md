@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## Ang Ikalimang Pagsubok: Pagsisinungaling
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Ang tanong na *pagsisinungaling* ay kagili-gili dahil ang pagsasabi ng katotohanan sa pangkalahatan ay itinuturing na higit na lalong kanais-nais, ngunit hindi maipatutupad sa pamamagitan ng karahasan.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+Ito ay karaniwang itinuturing *higit* na mahigpit ang pangangailangan kaysa "ang pagiging sakto sa oras," ngunit *kulang* ng higpit kaysa "pagnanakaw." Ano ang masasabi ng balangkas ng UPB dito?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Siyempre, anumang etikong tiyorya ipanukalang "ang pagsisinungaling ay mabuti" agad na nagpapalaya sa sarili, dahil kung ang taong nagmungkahi na *ang* pagsisinungaling - kung saan ay mabuti - kung gayon ang pagsisinungaling ay masama, dahil sinabi niya ang katotohanan dito na ang pagsisinungaling ay masama.
 
-For instance:
+Para sa Halimbawa:
 
-**Bob:** Lying is always good.
+**Bob:** Ang pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** Yes.
+**Bob:** Oo.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Kaya ang pagsisinungaling siguro ay masama, dahil ikaw ay nagsisinungaling sa pagiging mabuti nito.
 
-Or:
+O:
 
-**Bob:** Lying is always good.
+**Bob:** Ang pagsisinungaling ay laging mabuti.
 
-**Doug:** Are you lying?
+**Doug:** Nagsisinungaling ka ba?
 
-**Bob:** No.
+**Bob:** Hindi.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** Kaya ang pagsisinungaling ay hindi laging mabuti, dahil nagsasabi ka ng totoo tungkol sa pagsisinungaling bilang mabuti.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+Ang pagsisinungaling, gayunman, hindi kinakailangan ang pagsisimula ng puwersa, at hindi ito lumalabag sa posibilidad ng *maiiwasan*. Dahil maiiwasan naman ang mga sinungaling, hindi sila lohikal na maagresibong laban. 
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Ang pagsisinungaling ay umaakma din ng mas malapit sa kategoryang *karahasan*, sa gayon hanggang sa ito ay etikong na kasinungalingan sa pagtatanggol sa sarili, gaya ng pagiging etiko nito sa paggamit ng dahas sa pagtatanggol sa sarili. Mahirap isipin na ang sitwasyon kung saan ang isa ay kailangan maging "huli" sa pagtatanggol sa sarili, o "maging bastos." Gayunman, kung ang isang tao ay sumabog sa iyong nahay at hiningi kung saan ang iyong mahal na asawa para maaari niyang sampalin sa palibot, ito ay parang isang badya ng integridad na tumanggi na magsinungaling sa kanya. Ang pagsisinungaling sa kaso na ito ay isang anyo ng ikatlong partidong pagtatanggol sa sarili, at etikong tinatanggap bilang paggamit ng dahas sa pagtatanggol sa sarili. Nang katulad, kung ang isang tao ay makakuha ng isandaang dolyares sa amin sa pagsisinungaling, tayo ay maaaring magsinungaling nalang sa kaniya para lang makuha itong muli.
 
 Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
 
 The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good”, and confirms that the act of lying to someone is worse than “being late”, but better than “assault”.
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Sometimes called “gas-lighting”, after the old movie.

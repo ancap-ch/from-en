@@ -18,7 +18,7 @@
 
 Одна из основных причин того, что мы знаем, что в правительствах и богах нет необходимости, - это то, что они настолько эффективны. *Мы знаем, что большинство людей отчаянно хотят быть хорошими, потому что ими так легко управляют моральные теории *.
 
-Логика послушания мифологии без сомнения глупа. Если священник говорит мне, что я должен подчиняться «Богу», это все равно как если бы он сказал мне подчиняться сущности под названием «Ног». Даже если я соглашусь, что эта вымышленная сущность достойна вечного послушания, это никоим образом не заставит меня подчиняться * священнику *. Если я говорю вам «повинуйтесь своему сердцу», будет ли разумно, если я добавлю: «и *я один * говорю от имени твоего сердца»?
+Логика послушания мифологии без сомнения глупа. Если священник говорит мне, что я должен подчиняться «Богу», это все равно как если бы он сказал мне подчиняться сущности под названием «Ног». Даже если я соглашусь, что эта вымышленная сущность достойна вечного послушания, это никоим образом не заставит меня подчиняться *священнику*. Если я говорю вам «повинуйтесь своему сердцу», будет ли разумно, если я добавлю: «и *я один* говорю от имени твоего сердца»?
 
 Конечно, нет.
 
@@ -116,7 +116,7 @@ Of course I can, but it will never be valid or true.
 
 Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+If it is moral for Bob and Doug to rape Jane because they have “outvoted her”, what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
 
 Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
 

@@ -1,64 +1,64 @@
 ## Sebuah Kerangka pekerjaan untuk etika
 
-Proposisi yang etis ialah berbeda dari tipe yang lain pada pernyataan pengetahuan. Jika saya katakan, "saya suka jazz," itu mungkin menjadi sebuah pernyataan yang benar atau salah, tetapi itu secara umumnya tidak dianggap mengikat anda dalam cara apapun. Pilihan saya untuk jazz adalah pernyataan belaka dari kegemaran pribadi; berdasarkan dari pernyataan saya, itu bukan berarti anda wajib menyukai atau tidak menyukai jazz.
+Proposisi etika yang berbeda dari jenis pernyataan pengetahuan lainnya. Jika saya mengatakan, "Saya suka jazz," itu mungkin pernyataan yang benar atau salah, namun pada umumnya tidak dianggap mengikat anda dengan cara apa pun. Pilihan saya untuk jazz adalah hanya pernyataan tentang kesukaan pribadi; Berdasarkan pernyataan saya, bukan berarti anda menyukai atau tidak menyukai jazz.
 
-Begitu juga, jika saya katakan "saya suka sayuran," itu juga sebuah pernyataan belaka dari pilihan pribadi. Namun, Bila saya, "sayuran adalah makanan menyehatkan," kemudia saya telah beralih dari pernyataan dari pilihan pribadi menjadi pernyataan yang fakta. Itu adalah perbedaan antara "saya suka es krim," dan,"eskrim yang mengandung susu."
+Demikian pula, jika saya mengatakan "Saya suka sayuran," itu juga hanya pernyataan preferensi pribadi. Namun, jika saya mengatakan, "sayuran adalah makanan yang sehat," maka saya telah beralih dari pernyataan preferensi pribadi ke pernyataan fakta objektif. Ini adalah perbedaan antara "Saya suka es krim," dan, "Es krim yang mengandung susu."
 
-Perbedaan yang mendasar antara pernyataan*preferensi*dan pernyataan fakta bahwa pernyataan*fakta*adalah pernyataan yang objektif, dapat diuji dan mengikat. Jika kamu menilai kebenaran, maka anda wajib menerima fakta bahwa es krim mengandung susu, setelah itu terbukti.[^1]
+Perbedaan mendasar antara pernyataan preferensi dan pernyataan fakta adalah pernyataan fakta yang bersifat obyektif, dapat diuji dan mengikat. Jika anda menilai kebenaran, Anda harus menerima kenyataan bahwa es krim yang mengandung susu, setelah itu terbukti. [^1]
 
-Jika saya katakan bumi itu bulat, dan saya memberikan banyak bukti untuk pernyataan ini, itu adalah anda tidak bisa lagi menentukan sendiri apakah pernyataan itu benar. Jika saya dapat bukti bahwa bumi itu bulat, kemudian kamu pasti menerima bahwa itu benar, kecuali kamu bersedia menolak alasan dan bukti sebagai kriteria untuk kebenaran.
+Jika saya mengatakan bahwa bumi itu bulat, dan saya memberikan banyak bukti untuk pernyataan ini, maka tidak lama lagi anda menentukan keinginan anda sendiri apakah pernyataan itu benar. Jika saya dapat membuktikan bahwa bumi itu bulat, maka anda pasti akan menerimanya sebagai benar, kecuali jika anda mau menolak alasan dan bukti sebagai kriteria kebenaran.
 
-Jika saya menerima validitas hukum-hukum matematika, Saya tidak bisa seenaknya menolak bukti matematika yang sudah sesui dengan hukum tersebut. Jika saya*memang*menolak semacam bukti, saya tidak bisa lagi klaim untuk menerima validitas dari hukum matematika. Penerimaan saya atas hukum ini bermaksud bahwa saya*pasti*menerima sebagai bukti valid yang sesuai dengan hukum ini. Penolakan dari sebuah bukti yang sesuai standar rasio adalah sebuah penolakan dengan standar rasio secara keseluruhan.
+Jika saya menerima validitas hukum matematika, saya tidak dapat secara sewenang-wenang menolak bukti matematika yang sesuai dengan hukum tersebut. Jika saya menolak bukti seperti itu, saya tidak dapat lagi mengklaim untuk menerima validitas hukum matematika. Penerimaan saya terhadap hukum ini berarti bahwa saya terikat untuk menerima bukti-bukti yang sesuai dengan hukum ini. Penolakan bukti yang sesuai dengan standar rasional adalah penolakan terhadap standar rasional secara keseluruhan.
 
-Metode ilmiah, rasionalitas itu sendiri, dan hukum matematis ialah semua contoh dari*objektif*kriteria untuk membangun kebenaran dari sebuah proposisi. Ini bukanlah pendapat saya bahwa dua dan dua menghasilkan empat - jika anda juga menerima bahwa dua dan dua menghasilkan empat, anda tidak hanya tunduk pada pendapat saya, tapi juga pada kebenaran yang rasional.
+Metode ilmiah, rasionalitas itu sendiri, dan hukum matematika merupakan contoh kriteria obyektif untuk menetapkan kebenaran sebuah proposisi. Itu bukan pendapat saya bahwa dua ditambah dua adalah empat, jika anda juga menerima bahwa dua ditambah dua adalah empat, Anda tidak menundukkan diri pada pendapat saya saja, tapi juga untuk kebenaran yang rasional.
 
 ### Kebenaran yang objektif
 
-Sebuah tantangan utama dalam memahami kebenaran yang alami adalah kesadaran bahwa "kebenaran" itu tidak ada di dunia sama halnya seperti batu atau pohon yang mempunyainya.
+Tantangan utama dalam memahami sifat kebenaran adalah kesadaran bahwa "kebenaran" tidak ada di dunia dengan cara yang sama seperti batu atau pohon.
 
-Konsep "kebenaran" membutuhkan sebuah istilah yang relatif - pemikiran bahwa itu tidak bermaksud sebuah subjektif atau istilah wewenang. Konsep "sehat" juga istilah yang relatif - kita bandnigkan "sehat" dengan penyakit, dan juga standar relatif pada kesehatan. Apa yang dianggap "kesehatan baik" untuk umur-sembilan puluh-tahun hampir tidak dianggap kesehatan yang baik untuk umur-dua puluh-tahun. Definisi dari panjang umur ialah sangat berbeda sekarang dari pada lima ratus tahun yang lalu.
+Konsep "kebenaran" tentu merupakan sebuah istilah yang relatif, meskipun itu bukan berarti istilah sebuah subjektif atau sewenang-wenang. Konsep "kesehatan" juga merupakan istilah yang relatif, kita membandingkan "kesehatan" dengan penyakit, dan juga standar kesehatan yang relatif. Apa yang dianggap "kesehatan yang baik" bagi anak berusia sembilan puluh tahun hampir tidak akan dianggap kesehatan yang baik bagi anak berusia dua puluh tahun. Definisi umur panjang sekarang sangat berbeda dari lima ratus tahun yang lalu.
 
-Ini tidak berarti, namun, itu konsep dari "sehat" relatif secara keseluruhan dan subjektif. Seorang yang berumur-sepuluh-tahun menderita leukimia itu tidak sehat pada definisi apapun- hanya seperti seorang yang berumur-dua puluh- tahun pelari maraton disebut sehat pada definisi apapun. Sekarang ini, seorang pria yang berumur hingga sembilan puluh tahun memiliki umur yang panjang secara statistik, walaupun itu akan berubah jika teknologi medis secara tiba-tiba mengizinkan kita untuk hidup selama dua ratus tahun.
+Ini bukan berarti, bagaimanapun, bahwa konsep "kesehatan" sepenuhnya bersifat relatif dan subyektif. Seorang anak berusia sepuluh tahun yang menderita leukemia yang tidak sehat dengan definisi apa pun, seperti pelari maraton berusia dua puluh tahun yang sehat menurut definisi apapun. Saat ini, seorang pria yang berusia sembilan puluh tahun secara statistik memiliki umur yang panjang, meskipun demikian itu akan berubah jika teknologi medis tiba-tiba membuat kita hidup sampai dua ratus tahun.
 
-Seperti definisi kami pada "kesehatan" berkembang, itu bukan tidak membenarkan definisi sebelumnya, tetapi lebih memperluasnya. Jika kemjuan teknologi bidang medis mengizinkan seorang berumur-sembilan puluh-tahun memenagkan maraton, maka definisi kami atas apa itu sehat untuk umur akan berubah-tetapi itu tidak bermaksud bahwa seorang berumur-dua puluh-tahun pelari maraton secara tiba-tiba menjadi tidak sehat. Mempelajari aljabar bukan berarti tidak memberlakukan aritmatika.
+Sebagai definisi dari "kesehatan" kita berkembang, namun definisi tersebut tidak membatalkan definisi sebelumnya, namun justru memperluaskan mereka. Jika kemajuan teknologi medis memungkinkan anak-anak berusia sembilan sembilan tahun untuk memenangkan maraton, maka definisi kita tentang apa yang sehat bagi orang tua akan berubah, tapi itu bukan berarti pelari maraton berusia dua puluh tahun itu tiba-tiba menjadi tidak sehat. Belajar aljabar tidak membuat aritmatika tidak berlaku.
 
-Kebenaran juga memiliki nilai relatif terhadap kebutuhan juga. Fisika Newton telah digantikan oleh fisika Einstein, yang telah terbukti jauh lebih akurat dalam situasi ekstrim seperti gravitasi atau kecepatan yang luar biasa tinggi.   Namun, pelaut yang ingin menghitung jalur yang benar melintasi samudera menemukan bahwa fisika Newton lebih dari cukup akurat. Anda tidak ingin mengirim pesawat ruang angkasa ke Alpha Centauri menggunakan fisika Newton, tapi sangat baik untuk mendapatkan kapal dari Lisbon ke New York. Tenaga kerja yang terlibat dalam pembelajaran dan penerapan fisika Einstein adalah negatif bersih bagi seorang pelaut.
+Kebenaran juga memiliki nilai yang relatif terhadap kebutuhan juga. Fisika Newton telah digantikan oleh fisika Einstein, yang telah terbukti jauh lebih akurat dalam situasi yang ekstrim seperti gravitasi atau kecepatan yang luar biasa tinggi. Namun, pelaut yang ingin menghitung jalur yang benar melintasi samudera menemukan bahwa fisika Newton lebih dari cukup akurat. Anda tidak ingin mengirim pesawat ruang angkasa ke Alpha Centauri menggunakan fisika Newton, tapi sangat baik untuk mendapatkan kapal dari Lisbon ke New York. Tenaga kerja yang terlibat dalam pembelajaran dan penerapan fisika Einstein adalah jaring negatif bagi seorang pelaut.
 
-Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Fisika Newtonian dengan demikian kedua *kurang akurat*, dan *lebih tepat*.
+Akibatnya, kalimat "Fisika Newton kurang akurat daripada fisika Einstein, tapi fisika Newton adalah cara terbaik untuk menghitung jalur kapal" dapat dianggap sebagai proposisi yang valid. Fisika Newton dengan demikian keduanya kurang akurat, dan lebih tepat.
 
-Jika kita ingin minum air murni mungkin, kita mungkin akan membayar ribuan dolar per botol. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas hasil yang semakin berkurang. Jadi "lebih murni lebih baik" memberi jalan untuk "lebih murni lebih buruk."
+Jika kita ingin minum air yang paling murni, kita mungkin akan membayar ribuan dolar per botol. Kecuali kita sangat kaya dan sangat sembrono, kita tidak akan pernah membayar sebanyak itu untuk memuaskan dahaga kita. Memang benar bahwa air murni lebih baik untuk kita, tapi harga kemurnian itu membutuhkan ambang batas yang semakin berkurang. Dengan demikian "murni lebih baik" memberikan cara untuk "murni adalah lebih buruk."
 
-Sekali lagi, ini tidak berarti bahwa kemurnian air benar-benar subjektif. Air suling selalu lebih bisa diminum daripada air laut.
+Sekali lagi, ini bukan berarti bahwa kemurnian air benar-benar subjektif. Air suling selalu lebih bisa diminum daripada air laut.
 
 #### Realitas Kebenaran Dan Obyektif
 
-Konsep dari *kebenaran* tentu melibatkan konsep dari *ketepatan*. Jika saya mencoba untuk menembak panah di banteng-mata, akurasi tembakan ditentukan oleh seberapa jauh saya panah lahan dari pusat.
+Konsep dari kebenaran selalu melibatkan konsep ketepatan. Jika saya mencoba untuk menembak panah di mata banteng, ketepatan tembakan saya ditentukan oleh sejauh mana anak panah saya mendarat dari pusat.
 
-Lalu, apakah "kebenaran" kebenaran itu?
+Lalu, apakah "mata benteng" dari kebenaran itu?
 
-Baik, itu *kebenaran* dari sebuah pernyataan dapat diukur relatif terhadap penyesuaiannya dengan tujuannya.
+Baik, kebenaran suatu pernyataan yang diukur dengan relatif terhadap penyesuaian dengan realitas obyektif.
 
-Mengesampingkan tantangan dari bahasa untuk saat ini, jika saya arahkan ke camar dan berkata, "Itu adalah sebuah landasan," saya dengan jelas keliru, karena landasan yang anorganik, dan tidak bisa terbang. Nilai kebenaran pernyataan saya diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya tidak benar.
+Mengecualikan tantangan dari bahasa untuk saat ini, jika saya mengarahkan ke seekor burung camar dan berkata, "Itu adalah sebuah landasan," saya dengan jelas salah, karena landasan yang organik, dan tidak bisa terbang. Nilai kebenaran dari pernyataan saya adalah diukur relatif terhadap fakta kenyataan objektif. Karena burung camar sebenarnya bukan sebuah landasan, pernyataan saya ini tidak benar.
 
-Tentu, persamaan antara kebenaran dan kenyataan ini mengharuskan bahasa dan indra kita dianggap relatif objektif. Ada banyak alasan bagus untuk percaya bahwa kedua bahasa dan bukti indra sebenarnya objektif; kita bisa masuk ke dalam diskusi yang rumit tentang ini, tapi cukuplah untuk mengatakan bahwa karena Anda menggunakan mata Anda untuk membaca buku yang ditulis dalam bahasa manusia, paling tidak kita bisa setuju bahwa matamu, dan bahasa yang kita bagi, ada di Paling tidak cukup objektif bagi Anda untuk secara akurat memproses apa yang saya tulis. Jika tidak, tidak ada yang perlu kita bicarakan, dan Anda belum mengerti apa pun yang telah saya tulis, jadi kalimat ini sama-sama tidak berarti, dan mungkin juga diterjemahkan ke dalam "Wingdings".
+Tentu, persamaan antara kebenaran dan kenyataan ini mengharuskan bahasa dan indra kita dianggap relatif objektif. Ada banyak alasan yang baik untuk percaya bahwa kedua bahasa dan pengertian bukti indra dalam fakta objektif; kita bisa masuk ke dalam diskusi yang rumit tentang ini, tapi itu harus cukup untuk mengatakan bahwa karena anda menggunakan mata anda untuk membaca sebuah buku yang ditulis dalam bahasa manusia, setidaknya kita bisa setuju bahwa mata anda, dan bahasa yang kita berbagi, setidaknya tidak cukup objektif bagi anda untuk memproses secara akurat apa yang saya tulis. Jika tidak, tidak ada yang perlu kita bicarakan, dan anda belum mengerti apa pun yang telah saya tulis, sehingga kalimat ini sama-sama tidak berarti, dan mungkin juga diterjemahkan ke dalam "Wingdings".
 
 ☀☾ ♔♠☃♨ ☙⚀☃ ⚋☰♔⛌ ⛆☃ ♠☙⚕☃ ⚋☰♔♠☀⚋⚗ ♔☰ ♔☙⚘⚛ ☙⚜☰☽♔⛌ ☙⚋⚝ ♨☰☽ ♠☙⚕☃⚋⛰♔ ☽⚋⚝☃⚀⚲♔☰☰⚝ ☙⚋♨♔♠☀⚋⚗ ☀⛰⚕☃ ⛆⚀☀♔♔☃⚋ ☙⚋♨⛆☙♨⛌ ⚲☰ ♔♠☀⚲ ⚲☃⚋♔☃⚋⛻☃ ⛆☀⚘⚘ ⚜☃ ☃⛟☽☙⚘⚘♨ ⛼☃☙⚋☀⚋⚗⚘☃⚲⚲⛌ ☙⚋⚝ ⛼☀⚗♠♔ ☙⚲ ⛆☃⚘⚘ ♠☙⚕☃ ⚜☃☃⚋ ⚀☃⚋⚝☃⚀☃⚝ ☀⚋ ⛶⛆☀⚋⚗⚝☀⚋⚗⚲⛶
 
-Dengan asumsi Anda bisa membedakan antara dua huruf di atas, kita dapat melanjutkannya.
+Dengan asumsi anda dapat memberitahu perbedaan antara dua di atas huruf, kita dapat melanjutkannya.
 
 #### Akurasi dan Konsistensi
 
-Tidak mungkin bagi saya untuk secara akurat melukis awan, karena pada saat dibutuhkan untuk melukisnya, awan terus berubah. Saya dapat dengan akurat melukis *foto* dari awan, yang telah membeku pada saatnya.
+Tidak mungkin bagi saya untuk secara akurat melukis awan, karena dalam waktu yang dibutuhkan untuk melukisnya, awan terus berubah. Saya dapat secara akurat melukis sebuah foto awan, yang telah menjadi beku pada waktunya.
 
-Jika saya menghabiskan satu jam mencoba melukis awan, dan kemudian saya bertanya kepada Anda apakah lukisan saya adalah representasi yang akurat dari awan itu, Anda harus selalu menjawab bahwa bukan.
+Jika saya menghabiskan satu jam mencoba untuk melukis awan, dan kemudian saya beetanya kepada anda apakah lukisan saya adalah representasi yang akurat dari awan itu, Anda harus selalu menjawab bahwa hal itu tidak.
 
-Dengan kata lain, bila tidak ada konsistensi, tidak ada akurasi.
+Dengan kata lain, dimana tidak ada konsistensi, anda dapat menjadi tidak akurat.
 
-Ketika kita bermimpi pada malam hari, persepsi kita bahwa aturan "peduli" dan "energi" berada dalam keadaan terus-menerus berubah – kita yang kebal terhadap gravitasi, dan kemudian kami terbang di atas punggung gajah, dan kemudian kita dapat berjalan melalui dinding. Hal ini tidak lebih mungkin untuk mengembangkan "ilmiah fisika mimpi" dari itu untuk secara akurat melukis awan.
+Ketika kita bermimpi pada malam hari, persepsi kita bahwa aturan "peduli" dan "energi" berada dalam keadaan terus-menerus berubah – kita yang kebal terhadap gravitasi, dan kemudian kami terbang di atas punggung gajah, dan kemudian kita dapat berjalan diatas dinding. Hal ini tidak lebih mungkin untuk mengembangkan "ilmiah fisika mimpi" dari itu untuk secara akurat melukis awan.
 
 Logika, ilmu pengetahuan dan kebenaran, kemudian, tidak mungkin tidak *konsisten*.
 
-Pada dasarnya, hukum logika berasal dari perilaku materi dan energi, setidaknya pada tingkat perseptual. Jika saya menyuruh Anda melempar bola naik turun sama sekali, saya meminta hal yang tidak mungkin, yang dapat Anda uji dengan mudah dengan mencoba memenuhi permintaan saya. Jika saya memberitahu Anda untuk membajak lapangan utara dan lapangan selatan secara bersamaan, Anda tidak akan dapat mematuhi. Jika saya menuntut agar Anda mengubah mawar menjadi keledai, permintaan saya tidak akan pernah terpenuhi.
+Pada dasarnya, hukum logika berasal dari perilaku materi dan energi, setidaknya pada tingkat perseptual. Jika saya menyuruh Anda melempar bola naik turun sekali, saya meminta hal yang tidak mungkin, yang dapat Anda uji dengan mudah dengan mencoba memenuhi permintaan saya. Jika saya memberitahu Anda untuk membajak lapangan utara dan lapangan selatan secara bersamaan, Anda tidak akan dapat mematuhi. Jika saya menuntut agar Anda mengubah mawar menjadi keledai, permintaan saya tidak akan pernah terpenuhi.
 
 Persepsi realitas konsisten dan objektif - dan dari konsistensi dan objektivitas inilah kita memperoleh hukum logika. Pernyataan kami tentang kenyataan hanya bisa akurat*mewakili* kenyataan sebagai akibat langsung dari konsisten dan objektivitas.
 

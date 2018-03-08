@@ -16,7 +16,7 @@ Karena manusia sebenarnya memiliki hak kepemilikan yang sama, sistem sosial mana
 
 Logika dan sains sebenarnya adalah metodologi yang ada - bersamaan dengan moralitas - di bawah payung UPB. Dengan kata lain, logika dan sains keduanya divalidasi oleh kerangka UPB.
 
-Pertanyaan utama yang perlu dijawab adalah: Mengapa metode ilmiah jauh lebih unggul dari "metodologi" pengetahuan akuisisi pengetahuan lainnya, seperti mistisisme? </ 0>
+Pertanyaan utama yang perlu dijawab adalah: Mengapa metode ilmiah jauh lebih unggul dari "metodologi" pengetahuan akuisisi pengetahuan lainnya, seperti mistisisme?
 
 UPB menjawab pertanyaan ini.
 
@@ -24,11 +24,11 @@ Karena setiap metodologi untuk perolehan pengetahuan harus universal, konsisten,
 
 ### Edukasi publik
 
-Salah satu prinsip utama ekonomi pasar bebas adalah bahwa kualitas hanya benar-benar hasil dari * voluntarisme </ 0>. Pemaksaan, pada dasarnya, tidak efisien - kekerasan selalu menghasilkan kualitas yang buruk. Toko roti Soviet bergaya lama tidak pernah membawa roti yang enak; Seorang pria yang mengalahkan istrinya tidak akan pernah memiliki pernikahan yang bahagia.</p> 
+Salah satu prinsip utama ekonomi pasar bebas adalah bahwa kualitas hanya benar-benar hasil dari *voluntarisme*. Pemaksaan, pada dasarnya, tidak efisien - kekerasan selalu menghasilkan kualitas yang buruk. Toko roti Soviet bergaya lama tidak pernah membawa roti yang enak; Seorang pria yang mengalahkan istrinya tidak akan pernah memiliki pernikahan yang bahagia.
 
-Inisiasi penggunaan kekuatan selalu berlawanan dengan teori moral rasional - ini adalah pelanggaran UPB yang spesifik dan eksplisit. Karena sekolah negeri didanai melalui inisiasi penggunaan kekerasan, maka itu adalah bentuk asosiasi kepentingan <0 0, yang merupakan pelanggaran yang jelas terhadap kebebasan berserikat </ 0> yang divalidasi oleh UPB.
+Inisiasi penggunaan kekuatan selalu berlawanan dengan teori moral rasional - ini adalah pelanggaran UPB yang spesifik dan eksplisit. Karena sekolah negeri didanai melalui inisiasi penggunaan kekerasan, maka itu adalah bentuk asosiasi kepentingan, yang merupakan pelanggaran yang jelas terhadap kebebasan berserikat yang divalidasi oleh UPB.
 
-Karena kekerasan melanggar persyaratan moral dari bahaya * - dan kurangnya penghindaran selalu menghasilkan kualitas yang buruk - UPB akan membantu kita memprediksi dengan mudah bahwa sekolah negeri akan memberikan pendidikan berkualitas rendah.</p> 
+Karena kekerasan melanggar persyaratan moral dari bahaya - dan kurangnya penghindaran selalu menghasilkan kualitas yang buruk - UPB akan membantu kita memprediksi dengan mudah bahwa sekolah negeri akan memberikan pendidikan berkualitas rendah.
 
 Lebih jauh lagi, UPB juga akan membantu kami memprediksi bahwa, karena semakin banyak kekuatan yang digunakan di ranah pendidikan publik - karena pajak, dorongan serikat pekerja dan sebagainya meningkat - kualitas pendidikan yang diberikan akan menjadi lebih buruk dan lebih buruk lagi.
 

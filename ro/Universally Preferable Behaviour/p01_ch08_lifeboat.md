@@ -18,11 +18,11 @@ This is false.
 
 All reasonable people recognise that biology is a valid science, despite the fact that some animals are born with “one-off” mutations. The fact that a dog can be born with five legs does not mean that “canine” becomes a completely subjective category. The fact that certain species of insects are challenging to differentiate does not mean that there is no difference between a beetle and a whale.
 
-For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker,” which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest. 
+For some perverse reason, intellectuals in particular take great joy in the wanton destruction of ethical, normative and rational standards. This could be because intellectuals have so often been paid by corrupt classes of individuals such as politicians, priests and kings – or it could be that a man often becomes an intellectual in order to create justifications for his own immoral behaviour. Whatever the reason, most modern thinkers have become a species of “anti-thinker”, which is very odd. It would be equivalent to there being an enormous class of “biologists” who spent their entire lives arguing that the science of biology was impossible. If the science of biology is impossible, it scarcely makes sense to become a biologist, any more than an atheist should fight tooth and nail to become a priest. 
 
 ### Shades Of Grey
 
-In the realm of “grey areas,” there are really only three possibilities.
+In the realm of “grey areas”, there are really only three possibilities.
 
 1. There are no such things as grey areas.
 2. Certain grey areas do exist.
@@ -34,13 +34,13 @@ Thus we must go with option two, which is that certain grey areas do exist, and 
 
 A scientist captured by cannibals may pretend to be a witch-doctor in order to escape – this does not mean that we must dismiss the scientific method as entirely invalid.
 
-Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios,” as long as such an examination is not pursued obsessively. 
+Similarly, there can be extreme situations wherein we may choose to commit immoral actions, but such situations do not invalidate the science of morality, any more than occasional mutations invalidate the science of biology. In fact, the science of biology is greatly advanced through the acceptance and examination of mutations – and similarly, the science of ethics is only strengthened through an examination of “lifeboat scenarios”, as long as such an examination is not pursued obsessively. 
 
 ### Universality And Exceptions
 
-Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions.”
+Before we start using our framework of Universally Preferable Behaviour to examine some commonly held ethical beliefs, we must deal with the question of “exceptions”.
 
-Using the above “lifeboat scenarios,” the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
+Using the above “lifeboat scenarios”, the conclusion is often drawn that “the good” is simply *that which is “good” for an individual man’s life*.
 
 In ethical arguments, if I am asked whether I would steal an apple rather than starve to death – and I say “yes” – the following argument is inevitably made:
 
@@ -52,9 +52,9 @@ In ethical arguments, if I am asked whether I would steal an apple rather than s
 
 This has been used as the basis for a number of ethical theories and approaches, from Nietzsche to Rand. The preference of each individual for survival is translated into ethical theories that place the survival of the individual at their centre.[^11]
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good”.
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+This kind of “biological hedonism” may be a description of the “drive to survive”, but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
 
 It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
 

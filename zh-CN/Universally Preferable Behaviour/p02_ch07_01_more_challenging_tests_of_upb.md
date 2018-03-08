@@ -1,71 +1,71 @@
 ## 更具挑战性的UPB测试
 
-我们现在已经测试了与UPB框架相关的特定的道德理论，并发现UPB验证了我们最普遍持有的道德信念，例如禁止强奸，谋杀和盗窃。 通过将*可避免性*的标准纳入分析之中，我们还帮助区分了不可避免的犯罪和必须通过积极行为才能实施的犯罪，如欺诈行为。 最终，我们把“优选的行为”分为三个主要类别-普遍的，审美的，中立的(及其相关的对立面)。 普遍禁止的行为包括强奸，谋杀和盗窃，这些可以用武力来阻止。 审美学上可取的行为包括礼貌，准时等，不能通过暴力来强制执行。 中立行为包括纯粹的主观偏好，或者没有道德内容的行为，例如追赶巴士。
+我们现在已经测试了特定的道德理论相对于UPB框架，发现UPB证实了我们最普遍持有的道德信念，例如禁止强奸、谋杀和盗窃。通过将性准则为我们的分析，我们也有助于区分犯罪行为和犯罪是无法避免的，必须通过积极的行动来启用，例如欺诈。最后，我们把“更好的行为”分为三大类——普遍性、审美性和中性（及其相关的对立）。普遍禁止的行动包括强奸、谋杀和盗窃，可以用武力阻止。审美上更可取的行为包括礼貌、准时等，而不能通过暴力来实施。中立行为包括纯粹的主观偏好，或没有道德内容的行为，如跑公共汽车。
 
-然而，在我们上面所处理的例子之外，仍然存在很多具有挑战性的道德测试。 我们在这里只会讨论一部分，来看看UPB的框架，以及它是如何处理这些更具挑战性的道德问题的。
+然而，仍然存在许多具有挑战性的道德测试，这些测试超出了我们上面处理的范例。我们只会在这里处理其中的一些人，看看UPB的框架，看看它如何处理这些更具挑战性的道德问题。
 
 ### 自我防卫
 
-自卫的概念不应被视为理所当然。 如果我们假设没有自卫这样的事情，或者说自卫永远不是一个有效的行为，那么UPB的框架很快就会解除这个假设。
+不应该认为自卫的概念是理所当然的。如果我们假设没有自卫这样的事情，或者自卫永远不是一个有效的行动，那么UPB的框架就很快就驳回了这一假设。 
 
-如果不存在自卫这样的事情的话，那么我们并不是在讨论使用武力的引发与报复，而是在任何情况下使用武力。 换句话说，如果我们摆脱了自卫的概念，我们唯一需要问自己的问题是：*使用武力是否普遍可取？*
+如果没有自卫之类的东西，那么我们不是在谈论使用武力的开始或报复，而是在任何情况下使用武力。换言之，如果我们摆脱了自卫的概念，我们唯一需要问的问题是：使用武力是否更普遍?
 
-如果说武力普遍适用，那么任何人都不应提出道德论证，而应该使用武力来达到目的。 然而，就像上面所提到的例子如强奸，盗窃和谋杀一样，声称普遍优先使用武力的说法将会立即使之失效。 为了能够对他人使用武力而要求该人屈服于武力-换句话说，为了一个人有道德，另一个人必须是不道德的，这是不成立的。 同样，如果对方*屈服*于武力，这就不是武力-因此他必须*反抗*，这就要求他以抵抗美德来使用美德，这是自相矛盾的。
+如果普遍地更愿意使用武力，那么任何人都不应该推进道德论证，而应该使用武力来达到目的。然而，就像上面提到的强奸，盗窃和谋杀案例一样，声称普遍优先使用武力的说法立即使自己失效。为了能够对另一个人使用武力，要求该人屈服于强制 - 换句话说，为了使一个人有道德，另一个人必须是不道德的，这是站不住脚的。另外，如果对方屈服于武力，那就不是武力，因此他必须反抗，这就要求他抵抗美德，以便使美德，这是自相矛盾的。
 
-此外，如果总是优先使用武力，那么强奸和谋杀等罪行则变得无关紧要，因为如果总是优先使用武力，那么性爱将变得不道德，而强奸则变成了道德-但只是为了强奸犯，而让他*屈服*于武力，而不是武力本身，这对他的受害者来说是道德的，但这是矛盾的。
+此外，如果它始终是最好使用武力，那么犯罪如强奸和谋杀变得无关紧要，因为如果它始终是最好使用武力，那么爱成为不道德，强奸成为道德–只有强奸犯，而屈服于暴力，而暴力本身，成为道德同情受害者，这是一个矛盾。
 
-如果，另一方面，我们说暴力是坏的，那么我们就开放了自卫的可能性。如果这是一个UPB的标准声明说暴力是邪恶的，那么我们知道，由于使用暴力可以防止邪恶，所以使用武力来*反对*暴力在道德上是有效的。
+如果，另一方面，我们说暴力是不好的，然后我们打开自卫的可能性如果是UPB兼容的声明说，暴力是邪恶的，那么我们知道，因为那是邪恶的可以通过使用暴力阻止，暴力反对暴力的使用是道德有效。
 
-因此，既然我们知道暴力是邪恶的，那么我们就可以用武力来反对它。 如果我们把行为定义为邪恶的，而且阻止任何人采取行动来反对它，那么我们将不再是道德哲学家，而只是评判考古学家。 这类似于一种医学理论，认为疾病是不好的，但是试图预防或治愈疾病是邪恶的-而这是没有任何意义的。
+因此，既然我们知道暴力是邪恶的，我们知道我们可以用武力来反对它。如果我们将行为定义为邪恶，但也阻止任何人采取行动，那么我们不再是道德哲学家，而只是评判考古学家。这类似于一种医学理论，认为疾病是不好的，但试图预防或治愈它是邪恶的 - 这是没有任何意义的。
 
-此外，如果人类不能有效地采取行动，以防止伤害自己，那么像接种，在寒冷中戴上手套，涂防晒霜或驱虫剂，盖墙以防止滑坡，刷牙，穿鞋等这些行为都是不道德的行为。 如果我们回到鲍勃和道格，我们给他们一个道德的论点，即自卫总是错误的，结果会是什么呢？
+另外，如果人类不能有效地防止伤害自己，那么接种，在寒冷中戴上手套，戴上防晒霜或驱虫剂，建筑墙体以防止山体滑坡，刷牙，穿鞋等等的行为都是不道德的行为。如果我们回到鲍伯和道格，我们给他们的道德论点，自卫总是错误的，结果如何？
 
-那么，我们又创造了另一个悖论。 自卫就是使用暴力来防止暴力。 如果自卫总是错误的，那么就不能对攻击者“施加”暴力。 然而，不能被他人强加的偏好属于APA或道德中性范畴。 把自卫暴力置于这些类别是说暴力不能强加在他人身上-但是暴力的本质就*是*强加于他人，因此这种方法的结果是导致了过多的矛盾。
+那么，我们创造了另一个悖论。自卫是利用暴力来预防暴力。如果自卫总是错误的，那么它就不会被攻击者猛烈“施加”。然而，不能对他人造成的偏好属于APA或道德中立类别。将自卫暴力置于这些范畴之中，就是说暴力不能施加于其他暴力 -但暴力的本质是强加给别人，因此这种方法的结果是过多的矛盾。
 
-自卫不能是“邪恶的”，因为定义上的邪恶可以通过武力来阻止。 然而，自卫是对发动武力的回应，因此不能通过武力来阻止，正如你能通过猛踢一个足球来阻止它的运动。
+自卫不能是“邪恶的”，因为邪恶的定义可以通过武力防止。然而，自卫是对启动武力的回应，因此不能通过武力来防止，正如你不能通过猛烈地踢足球来阻止它的运动一样。
 
-自卫也不能是*被要求*的行为，因为所需的行为(“不强奸”) 可以通过暴力来强制执行，这意味着任何不敢猛烈捍卫自己的人都可能被合法地侵犯。 然而，如果一个不自卫的人*已经*遭到了侵犯，我们最终会陷入这样一个循环的境地，每个人都可以合法地对一个不自卫的人进行暴力行为，这不仅不合逻辑，而且在道德上是可恶的。
+自卫也不是必需的行为，因为所需的行为（“不强奸”）可以通过暴力来强制执行，这意味着任何未能自卫的人都会被合法地侵犯。然而，有人不为自己辩护已经遭受打击，所以我们最终在一个循环的情况下，每个人都可以合法地反对暴力的人是不为自己辩护，这不仅是不合逻辑的，但道德上的厌恶。
 
-如果鲍勃攻击道格，而道格用暴力来保卫自己是完全错误的话，那么暴力最终会被分为两种道德范畴-武力的出现在道德上是好的，但自卫却是道德上的邪恶，而这根据UPB是不成立的。
+如果鲍伯攻击道格，但这是完全错误的道格用暴力来保护自己，那么暴力最终被放置在两个道德范畴–武力是不好的，但自卫是道德败坏的，它不能根据UPB。
 
-但是，你可能会争辩说，难道不是自卫是好的这个命题同时使暴力成为既好又坏的吗-用来攻击的暴力是不好的，但是用来自卫的暴力是好的？
+然而，你可能会争辩说，自卫不是好的主张也同时使暴力成为好事和坏事 -用来攻击的暴力是不好的，但是用来自卫的暴力是好的吗?
 
-这是一个有趣的异议-但是，如果从一开始使用武力就是邪恶的，那就可以用武力予以禁止，因为这是我们上面所制定的邪恶的定义之一。
+这是一个有趣的反对，但是，如果启动武力是邪恶的，那么它可以通过使用武力来禁止，因为这是一个非常邪恶的定义，我们在上面制定了。
 
-因此，任何逻辑的道德理论都不可能拒绝自卫的道德合法性。
+因此，任何逻辑道德理论都不可能拒绝自卫的道德合法性。
 
 ### 儿童抚养
 
-本能的，我们一般都明白，如果不养育孩子的父母肯定是有一些错误的。 当怀上孩子，等到孩子足月，生下孩子，然后将他留在婴儿床里饿死，这严重伤害了我们的感情。
+本能地，我们一般都明白，不喂孩子的父母有点不正常。设想一个孩子，让孩子接受任期，生下孩子，然后把它留在婴儿床里饿死，严重伤害了我们的感情。 
 
-当然，我们的触怒决不是道德上的争论，但它是检验道德理论的绝佳起点。
+当然，我们的进攻决不是一种道德论证，但它是考验道德理论的极好起点。
 
-之前，当我们谈到UPB的时候，我们注意到，UPB之中也有例外，生物学中必须有客观的差异。 或者，更准确地说，只要有生物学上的客观差异，就可能会有UPB的合理例外或差异出现。 一个五岁孩子的大脑和神经系统发育不成熟，因此不能理性地处理他的长期行为后果。 这里的关键在于不成熟的大脑，如果一个成年男性的智力也等同于五岁的大脑，那么他的行为责任也就减轻了。
+之前，当我们谈论UPB，我们注意到，那里有例外，在UPB，必须有生物的客观差异。或者，更准确地说，哪里有生物学目的的差异，可能会有异常或差异UPB理性。五岁的孩子的大脑和神经系统发育不成熟，因而无法理性地处理其行为的长期后果。在这里，关键是不成熟的大脑，就好像一个成年男性的智力迟钝到他的大脑相当于五岁的时候一样，他也会减少他的行为责任。
 
-因此，当我们指出减少责任的情况时，我们并不是*带走*责任的存在，而是承认责任可能不存在的情况，至少在某种程度上是如此。 If I say that a man in a wheelchair cannot take the escalator, I am not taking away his right to take the escalator, but merely pointing out that he cannot, in fact, use it. When I say that UPB does not apply to the actions of a five year old, I am not saying that UPB is subjective, any more than a height requirement for a roller coaster somehow makes the concept of “tall” subjective.
+因此，当我们提到减少责任的情况时，我们并不是在逃避责任的存在，而是承认责任不存在的情况，至少在某种程度上是如此。如果我说坐轮椅的人不能坐自动扶梯，我并没有剥夺他坐自动扶梯的权利，只是指出他实际上不能使用自动扶梯。当我说UPB并不适用于一个五岁的行动，我不是说UPB是主观的，任何超过一个过山车身高要求让“高”的主观。
 
-If I voluntarily enter into a contract with you wherein I promise to pay your bills for a year, I have not signed myself into slavery, but I certainly have taken on a positive obligation that I am now responsible for.
+如果我自愿与你签订一份承诺支付账单一年的合同，我还没有将自己签署为奴隶制度，但我肯定承担了我现在负责的一项积极义务。
 
-If I run a nursing home, and I take in patients who are unable to feed themselves, then if I do not feed those patients, I am responsible for their resulting deaths. No one is *forcing* me to take in these patients, but once I have expressed a desire and a willingness to take care of them, then I am responsible for their continued well-being.
+如果我经营养老院，并且接受无法自理的病人，那么如果我不喂养那些病人，我对他们的死亡负责。没有人强迫我接受这些患者，但一旦我表达了愿意并愿意照顾他们，那么我对他们的持续幸福负责。 
 
-In the same way, if I borrow your lawnmower, I am obligated to bring it back in more or less the same state that it was when I borrowed it. Similarly, if I go to a pet store and buy a dog, I have taken on a voluntary obligation to take care of that dog. This does not mean that I am now the dog’s slave until the day it dies, but it does mean that as long as the dog is in my possession, I have a responsibility to try to keep it healthy.
+以同样的方式，如果我借你的割草机，我必须把它带回来或多或少相同的状态，这是我借的。同样，如果我去宠物店买狗，我就有义务照顾那条狗。这并不意味着我现在是狗的奴隶，直到它死去的那一天，但它意味着只要狗在我的手里，我就有责任保持它的健康。
 
-These kinds of implicit contracts are quite common in life. We do not sign a contract with a restaurateur when we go to eat a meal in his restaurant; it is simply understood that we will pay before we leave. I have never signed a contract when I walk into a store promising not to shoplift, but they have the right to prosecute me if I do. I also have never signed a contract promising not to rape a woman if we go on a date, yet such a “contract” certainly exists, according to UPB.
+这种隐性契约在生活中很常见。我们不签合同的一个餐馆当我们去他的餐厅吃一顿饭；这是简单的理解，我们将在我们离开之前。我从来没有签订合同，当我走进一家商店承诺不偷东西，但他们有权起诉我，如果我这样做。根据UPB的说法，如果我们约会，我也从未签署过承诺不强奸女性的合同，但这样的“合同”当然存在。
 
-If I run a nursing home, and disabled people rely on me to feed them, if I prove unable to feed them for some reason, then my responsibility is clearly to find somebody else who will feed them. The grave danger is not that *I* don’t feed them, but rather that everyone else thinks that I *am* feeding them, and so do not provide them food. This accords with an old moral argument about diving into a river to save someone from drowning. I am not obligated to dive into a river to save someone from drowning, but the moment that I do – or state my intention openly – then I am responsible for trying to save that person, for the very practical reason that everyone else thinks that I am going to save that person, and so may not take direct action themselves.
+如果我经营一家养老院，而残疾人依靠我养活他们，如果我因为某些原因不能养活他们，那么我的责任就是找到另一个养活他们的人。严重的危险不是我不喂他们，而是其他人认为我喂他们，所以不给他们食物。这符合一个古老的道德观点：潜入河里救人溺水。我没有义务潜到河里去救溺水的人，但是当我做 - 或公开表达我的意图时 - 那么我有责任试图挽救那个人，因为其他人都认为我的实际理由是我我要去救那个人，所以不可能直接采取行动。
 
-Thus it is assumed that parents will feed and take care of their newborn baby. If said parents decide against such care-giving, then they are obligated to give the child up to other people who *will* care for it, or face the charge of murder, just as the manager of a home for the disabled must either feed those who utterly depend on him, or give them up to someone who will. If I decide that I no longer want to take care of my dog, I must find him another home, not simply let him starve to death.
+因此，假定父母会喂养和照顾他们的新生婴儿。如果说父母不同意这样的照顾，那么他们有义务把孩子交给其他人照顾，或者面对谋杀的指控，就像一个残疾人的家里的经理必须供养那些完全依赖他的人，或者把他们交给愿意的人。如果我决定不再照顾我的狗，我必须为它找到另一个家，而不仅仅是让它饿死。
 
-This all relies on the principle of third-party self-defence, which is fully supported by the framework of UPB, since the right of self-defence is universal. If I see a man in a wheelchair being attacked by a woman, I have the right to defend him – and this is all the more true if he lacks the capacity to defend himself.
+这一切都依赖于第三方自卫原则，这是由UPB框架完全支持，因为自卫权利是普遍的。如果我看到一个坐在轮椅上的男人遭到一个女人的袭击，我有权为他辩护 -如果他缺乏自卫能力，这一点就更正确了。
 
-Since children cannot feed themselves, earn a living or live independently, they are the moral equivalent of kidnap victims, or the wife we talked about before whose husband locked her in the basement. Children also lack the capacity for effective self-defence, due to their small stature and near-complete dependence upon their parents.
+因为孩子们不能养活自己、谋生或独立生活，他们的道德相当于绑架受害者，或者说我们的妻子在她丈夫把她锁在地下室之前谈论过。儿童还缺乏有效自卫的能力，因为他们身材矮小，几乎完全依赖父母。
 
-Thus since it is certainly the case that we have the right to act in self-defence for someone else – and that right becomes even stronger if that person cannot act in his own self-defence, it is perfectly valid to use force against parents who do not feed their children, just as it is perfectly valid to use force against the husband who is starving his wife to death by locking her in the basement.
+因此，既然我们有权为其他人采取自卫行动，而且这种权利如果不能为自己的自卫采取行动，这种权利就会变得更加强大，因此对父母使用武力是完全有效的，不要养活他们的孩子，就像对丈夫使用武力是完全有效的，因为丈夫通过将她锁在地下室而使他的妻子死亡。
 
-As we also mentioned above, the less able a victim is to avoid the situation, the worse the crime is. Even the wife who ends up locked in the basement has at least *some* ownership in the matter, because she chose to marry this evil lunatic to begin with. Once she is locked in the basement, the situation is unavoidable, yet there were doubtless many clues hinting at her husband’s abusive nature, from the day she first met him.
+正如我们前面提到的那样，受害者越是能够避免这种情况，犯罪就越严重。甚至最终被关在地下室的妻子也至少有一些所有权，因为她选择与这个邪恶的疯子结婚。一旦她被锁在地下室，情况是不可避免的，但从她第一次见到他的那天起，无疑有许多线索暗示她丈夫的虐待性质。
 
-Children, however, are the ultimate victims, because they never had any chance to avoid the situations they find themselves in. Thus we can logically establish the responsibility of parents towards their children by using the UPB framework. Since every person is responsible for the effects of his or her body, and children are an effect of the body, then parents are responsible for their children. Since everyone has the right to self-defence, for themselves and for others – since it is a universal right – then anyone can act to defend children. Since everyone must fulfil voluntary obligations, and having children is a voluntary obligation, parents must fulfil those obligations related to children. Since, through inaction, causing the death of someone completely dependent upon you is the equivalent of murder, parents are liable for such a crime.
+然而，儿童是最终的受害者，因为他们从来没有机会避免他们所处的状况。因此，我们可以通过使用UPB框架在逻辑上确定父母对子女的责任。由于每个人都要对自己的身体造成影响，而且孩子是身体的影响，所以父母对孩子负责。由于每个人都有权为自己和他人自卫 - 因为这是一项普遍的权利 - 任何人都可以采取行动捍卫儿童。既然每个人都必须履行自愿义务，生育是一项自愿义务，父母必须履行与儿童有关的义务。因为通过不行动导致完全依赖于你的人的死亡等同于谋杀，父母对这种罪行负有责任。
 
-We could of course put forward the proposition that parents do not have to take care of their children, but that is far too specific a principle to be a moral premise – it would be the same as saying “parents can murder,” which is not UPB-compliant, and so would require a biological differentiation to support an exception – and becoming a parent does not utterly overturn and reverse one’s biological nature.
+当然我们可以提出一个命题，父母没有照顾自己的孩子，但太具体的原则是道德的前提–它会说：“父母可以杀人一样”，这不是UPB兼容，等需要支持生物分化异常–和成为父母并不完全颠覆和反人的生物性。
 
-Parents who starve a child to death are clearly guilty of murder. Children are born into this world in a state of involuntary imprisonment within the family – this does not mean that the family is evil, or corrupt – it is simply a statement of biological fact. Children are by the parents’ choice enslaved to the parents – this form of biological incarceration puts negligent parents in the same moral position as a kidnapper who allows his captive to starve to death, or a nurse who lets her utterly-dependent patients die of thirst.
+把孩子饿死的父母显然犯了谋杀罪。孩子出生在一个非自愿监禁的家庭里，这并不意味着家庭是邪恶的，或者是腐败的，这只是一个生物学事实的陈述。

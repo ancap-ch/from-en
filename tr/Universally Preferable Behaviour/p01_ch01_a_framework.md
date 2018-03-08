@@ -74,7 +74,7 @@ Böylelikle, objektif gerçeğe göre bir ifadenin geçerliliğini hem deneysel 
 
 Doğru o zaman iki merkez kriterle ölçülebilir:
 
-1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür. [^2]
+1. Doğruluğun ölçülmesi, zihnimizdeki düşüncelerin mantıkla, madde ve enerjinin gerçek dünyayla ilişkisiyle ölçülür.[^2]
 2. Gerçek, aynı zamanda zihnimizdeki fikirler, doğa, maddenin davranışı ve gerçek dünyadaki enerji arasındaki ilişkiyi ölçmektir
 
 İlk kriter fikirlerin sürekliliğinin bir ölçüsüdür - ve bu süreklilik, gerçeklik kendisi içinde sürekli olduğu için bir gerekliliktir. Eğer "varlığım aslında yoktur" dersem bu bir fikrin kendisiyle bağdaşmadığını gösterir, sonuçta var olduğum için bu cümleyi kurabiliyorum. İkinci kriter, nesnel gerçekliğin deneysel gözlemlerine göre fikirlerin doğruluğunun ölçüsüdür.
@@ -83,7 +83,7 @@ Doğru o zaman iki merkez kriterle ölçülebilir:
 
 Deneyimcilik, içgüdüsel olarak atılan bir topu yakalamak veya hareketini ölçmek yeteneği olarak düşünülebilir; rasyonellik, topun evrensel ilkelere göre alacağı yolu tahmin etme ve anlama becerisidir. Açıkçası, toplar rastgele bir şekilde her yöne dağılırsa ve - sepetlemek için büyüleyici bir şekilde güvercin sürülerine dönüşmeleri halinde- davranışlarını daha önceden kestiremeyiz.
 
-Böylece, madde değişmez yasalara itaat ettiğinden, meselemiz *hakındaki* teorilerimizin de değişmez yasalara uyması gerekmektedir. Beyzbol hakkında bir şey biliyorsam ve oyuncuların kurallara uyduğu bir beyzbol oyunu izliyorsam, izlediğim oyuncuların oyundaki hareketlerinden farklı formüller çıkarırsam bu mantıksız olur. Oyuncuların eylemleri tutarlı olduğundan, * bu eylemleri yönlendiren kurallarla ilgili geliştirdiğim herhangi bir teori de tutarlı olmalıdır*.
+Böylece, madde değişmez yasalara itaat ettiğinden, meselemiz *hakındaki* teorilerimizin de değişmez yasalara uyması gerekmektedir. Beyzbol hakkında bir şey biliyorsam ve oyuncuların kurallara uyduğu bir beyzbol oyunu izliyorsam, izlediğim oyuncuların oyundaki hareketlerinden farklı formüller çıkarırsam bu mantıksız olur. Oyuncuların eylemleri tutarlı olduğundan, *bu eylemleri yönlendiren kurallarla ilgili geliştirdiğim herhangi bir teori de tutarlı olmalıdır*.
 
 Tutarlılık için bu gereksinim, hakikat için en temel gerekliliklerden biridir. Gerçeklik tutarlı olduğu için, gerçeklik hakkında teoriler de tutarlı olmalıdır.
 

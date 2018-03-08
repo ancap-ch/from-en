@@ -2,7 +2,7 @@
 
 İnsanlık tarihinin objektif bir incelemesi Dünyadaki açık ara en tehlikeli şeyin *sahte ahlaki sistemler* olduğunun katı gerçekliğine işaret ediyor gibi görünüyor.
 
-Yüz yetmiş milyon insanın ölümünden sorumlu olan, komünizm gibi etik bir sisteme bakacak olursak, net bir şekilde görebiliriz ki bireyler için gerçek tehlike rastgele suçlular değil,* yanlış ahlaki teorilerdir*. Benzer olarak, İspanyol Engizisyonu hırsızlara ve yankesicilere dayanmıyordu, aksine diğerlerinin ruhlarını kurtarma isteğiyle dolmuş papaz ve işkencecilere dayanıyordu. Nazizm aynı zamanda birey ile toplum arasındaki ilişkideki ve iktidardaki insanlara hizmet etmenin içsel yükümlülüğüne ve Aryan ırkının kendiliğinden gelen özelliklerini "kanıtlayan" teorilere dayanan belirli bazı etik teoriler üzerine kuruluydu.
+Yüz yetmiş milyon insanın ölümünden sorumlu olan, komünizm gibi etik bir sisteme bakacak olursak, net bir şekilde görebiliriz ki bireyler için gerçek tehlike rastgele suçlular değil*, yanlış ahlaki teorilerdir*. Benzer olarak, İspanyol Engizisyonu hırsızlara ve yankesicilere dayanmıyordu, aksine diğerlerinin ruhlarını kurtarma isteğiyle dolmuş papaz ve işkencecilere dayanıyordu. Nazizm aynı zamanda birey ile toplum arasındaki ilişkideki ve iktidardaki insanlara hizmet etmenin içsel yükümlülüğüne ve Aryan ırkının kendiliğinden gelen özelliklerini "kanıtlayan" teorilere dayanan belirli bazı etik teoriler üzerine kuruluydu.
 
 İnsan tarihi boyunca, tekrar ve tekrar görebiliriz ki insanın elindeki en tehlikeli aletler silahlar, bombalar, bıçaklar veya zehirler değil, aksine *ahlaki teoriler dir*. "Kralların yönetme hakkından" modern demokrasilerin bitmek tükenmek bilmeksizin onaylanmış avam idaresine, belirli Doğu kültürlerinin atalara tapınmasından siyasi bir lider tarafından temsil edilen ulus devlete itaate, çocuklarını belirli dini ideolojilere ibadet etmesini taahhüt edenlere, insanların sahip olduğu açık ara en tehlikeli aracın *ahlak* olduğu açıktır. Bilimin aksine, neyin ne olduğunu, ve olacağını anlatan, moral teoriler insan üstünde *nasıl* olacağını söyleyerek, dipsiz bir etkiye sahiptir.
 
@@ -20,7 +20,7 @@ Dolayısıyla, etik teorileri desteklenilen kurumsal suçlar dışında, yalnız
 
 Tabii ki kişisel suçlular vardır, *ama bizleri yanlış ahlaki teorilerin ilkeleri ile yöneten kişiler ile karşılaştırıldığı zaman hayatımızda neredeyse hiç etkisi yoktur*. Bir keresinde, on bir yaşımdayken, başka bir çocuk benden bir kaç dolar çalmıştı. Başka bir zaman, ben yirmi altı yaşımdayken, ATM kartımı banka makinesinin içinde bırakmıştım, ve biri hesabımdan bir kaç yüz dolar çalmıştı.
 
-Öte yandan elimden zorla alınan binlerce dolar "vergi iyidir" moral teorisinden kaynaklanır. On dört yıl boyunca beyin yıkayan zihin deşen devlet okullarının "eğitim bir erdemdir" teorisinden kaynaklanır. [^12]
+Öte yandan elimden zorla alınan binlerce dolar "vergi iyidir" moral teorisinden kaynaklanır. On dört yıl boyunca beyin yıkayan zihin deşen devlet okullarının "eğitim bir erdemdir" teorisinden kaynaklanır.[^12]
 
 Paramı çalan çocuk (ve adam) şüphesiz ki o parayı kişisel zevk ve ihtiyaçları için kullandı. Diğer yandan, paramı çalan hükümet, fakire zulmetmek, savaşa ödenek sağlamak, zengini doyurmak, para borç almak ve böylece çocuklarımı fakirleştirmek - ve benden çalan kişilerin maaşlarını ödemek için kullanıyor.
 

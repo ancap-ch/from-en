@@ -2,7 +2,7 @@
 
 Agora que entendemos a natureza dos argumentos auto-destrutivos, nós podemos voltar às questões de preferências.
 
-Preferências são fundamentais para qualquer metodologia que queiram definir o valor verdade de proposições. O método científico, por exemplo, em grande parte é definido por preferências inatas de consistência lógica e verificação empírica. Para a ciência, a premissa é: *se* você quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
+Preferências são fundamentais para qualquer metodologia que queira definir o valor verdade de proposições. O método científico, por exemplo, em grande parte é definido por preferências inatas de consistência lógica e verificação empírica. Para a ciência, a premissa é: *se* você quiser determinar uma verdade válida sobre o comportamento da matéria e da energia, é *preferível* usar o método científico.
 
 Neste sentido, "preferível" não significa "melhor", mas sim "necessário". *Se* que você quer viver, é *universalmente preferível* que você não beba veneno. *Se* você deseja determinar verdades válidas sobre a realidade, é *universalmente preferível* que suas teorias sejam internamente consistentes e empiricamente verificáveis. "Universalmente preferível", então, se traduz em "objetivamente necessário," mas nós reteremos a palavra "preferível" para diferenciar entre absolutos humanos opcionais e absolutos físicos não opcionais tais como a gravidade.
 
@@ -20,7 +20,7 @@ Nós podemos encontrar *provas* para preferências; Não podemos encontrar prefe
 
 Pondo de lado as questões desafiadoras do livre-arbítrio versus determinismo, há razões para supor que tudo o que uma pessoa está fazendo no presente é o que ele ou ela "prefere" fazer. Se eu acordo e vou pro trabalho, então, obviamente, eu *prefiro* fazer isso, ao contrário de todas as outras alternativas. Mesmo se eu odeio meu trabalho, claramente odeio *menos* do que, digamos, ficar sem dinheiro.
 
-Dado que os seres humanos podem executar uma variedade quase infinita de ações, o que uma pessoa está fazendo no momento é uma escolha entre todas as outras opções possíveis. Eu estou escolhendo escrever este livro em vez de, digamos, aprender a dançar o tango.
+Dado que os seres humanos podem executar uma variedade quase infinita de ações, o que uma pessoa está fazendo no momento é uma escolha entre todas as outras opções possíveis. Eu estou escolhendo escrever este livro em vez de, por exemplo, aprender a dançar o tango.
 
 Quando aplicamos este simples fato a argumentos éticos, chegamos a alguns resultados muito interessantes.
 
@@ -40,7 +40,7 @@ O desafio surge quando tentamos definir algumas preferências como *objectivas*.
 
 A proposta ante a nós é portanto: *podem algumas preferências ser objetivas, ou seja, universais?*
 
-Quando eu digo que algumas preferências podem ser objectivas, não quer dizer que todas as pessoas tem essas preferências em todos os momentos. Se eu fosse argumentar que a *respiração* é uma preferência objetiva, eu poderia ser facilmente refutado pelo exemplo daqueles que cometem suicídio enforcamento-se. Se eu fosse argumentar que comer é uma preferência objectiva, meu argumento poderia ser refutado com exemplos de greves de fome e anorexia.
+Quando eu digo que algumas preferências podem ser objetivas, não quer dizer que todas as pessoas tem essas preferências em todos os momentos. Se eu fosse argumentar que a *respiração* é uma preferência objetiva, eu poderia ser facilmente refutado pelo exemplo daqueles que cometem suicídio se enforcando. Se eu fosse argumentar que comer é uma preferência objectiva, meu argumento poderia ser refutado com exemplos de greves de fome e anorexia.
 
 Assim, quando falo sobre preferências universais, estou falando sobre o que as pessoas *deveriam* preferir, não o que eles sempre *preferem*. Usando uma analogia científica, para realmente entender o universo, as pessoas *deveriam* usar o método científico – isto não significa que sempre usam, já que claramente bilhões de pessoas consultam contos de fadas antigos ao invés da ciência moderna por "respostas". Não há nenhuma maneira de alcançar a verdade sobre o universo sem ciência, mas as pessoas são perfeitamente livres para redefinir "verdade" como "erro", e contentar-se com bobagem mística.
 
@@ -54,7 +54,7 @@ Se eu escolho debater, aceitei implicitamente uma ampla variedade de premissas c
 
 #### Premissa 1: Nós dois existimos
 
-Se eu optar por debater com você, então eu necessariamente deve aceitar que nós dois existimos. Se eu acredita que eu existo, mas acredito que você não, então não faz sentido debater e só um louco faria isso. Se eu começar a argumentar com meu reflexo no espelho, eu deveria ser sedado, ao invés de começar a debater.
+Se eu optar por debater com você, então eu necessariamente devo aceitar que nós dois existimos. Se eu acredito que eu existo, mas acredito que você não, então não faz sentido debater e só um louco faria isso. Se eu começar a argumentar com meu reflexo no espelho, eu deveria ser sedado, ao invés de começar a debater.
 
 #### Premissa 2: Os sentidos têm a capacidade de precisão
 
@@ -62,7 +62,7 @@ Já que os seres humanos não podem se comunicar psiquicamente, todos os debates
 
 #### Premissa 3: Língua tem a capacidade de significar
 
-Semelhante a premissa 2, já que todos os argumentos requerem linguagem, qualquer proposição que repousa sobre a premissa de que a linguagem é sem sentido imediatamente é refutada. Usar a língua para argumentar que a língua não tem sentido é como usar um mensageiro para enviar uma mensagem, argumentando que mensageiros nunca entregam mensagens.
+Semelhante à premissa 2, já que todos os argumentos requerem linguagem, qualquer proposição que repousa sobre a premissa de que a linguagem é sem sentido imediatamente é refutada. Usar a língua para argumentar que a língua não tem sentido é como usar um mensageiro para enviar uma mensagem, argumentando que mensageiros nunca entregam mensagens.
 
 #### Premissa 4: Correção requer preferências universais
 
@@ -74,7 +74,7 @@ Você não diz para mim: "Você deveria mudar sua opinião para a minha porque e
 
 Se você discorda de mim, mas te digo que você deve concordar comigo porque eu estou sempre certo, é improvável que você fique satisfeito com a inflexibilidade do meu argumento. Se você forneceu boas razões de porque é que eu estava errado, mas eu continuei repetindo que eu estava certo, porque estou *sempre* certo, nossa interação dificilmente poderia ser categorizada como um debate.
 
-No momento em que eu forneço algum tipo de critério objectivo para diferenciar a verdade da falsidade, estou aceitando que a verdade é mais do que uma questão de opinião.
+No momento em que eu forneço algum tipo de critério objetivo para diferenciar a verdade da falsidade, estou aceitando que a verdade é mais do que uma questão de opinião.
 
 Isto não significa necessariamente que meus critérios objetivos são *lógicos* – eu poderia referir um texto religioso, por exemplo. No entanto, mesmo se eu fizer isso, eu ainda estou aceitando que a verdade é algo sucedido independentemente de mera afirmação pessoal – que uma metodologia objetiva existe para separar a verdade da falsidade.
 
@@ -82,27 +82,27 @@ Isto não significa necessariamente que meus critérios objetivos são *lógicos
 
 Se eu te disser que o mundo é plano, e você discordar e falar que ele é redondo, você está aceitando implicitamente o axioma de que a verdade e a falsidade existem objetivamente, e essa verdade é melhor do que a falsidade.
 
-Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gosta de sorvete de baunilha, é impossível "provar" que a baunilha é objetivamente melhor que chocolate. No momento que você me corrige com referencia a *fatos* objetivos, você está aceitando que fatos objetivos existem, e que a verdade objetiva é *universalmente preferível* que o erro subjetivo.
+Se eu te disser que eu gosto de sorvete de chocolate, e você me disser que gosta de sorvete de baunilha, é impossível "provar" que a baunilha é objetivamente melhor que chocolate. No momento que você me corrige com referencia a *fatos* objetivos, você está aceitando que fatos objetivos existem, e que a verdade objetiva é *universalmente preferível* ao erro subjetivo.
 
 #### Premissa 7: Debater pacificamente é a melhor maneira de resolver disputas
 
 Se eu te disser que o mundo é plano, e você sacar uma arma e atirar em mim, isso não seria um exemplo de um debate produtivo. É verdade que nossa discordância teria sido "resolvida" - mas isso porque no final só sobrou um de nós dois de pé.
 
-Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência. [^4]
+Se você me dissesse com antecedência caso discordássemos você resolveria isso atirando em mim, em provavelmente não aceitaria iniciar um debate com você. Assim, é evidente que qualquer debate se baseia na premissa implícita que evidência, razão, verdade e objetividade são os métodos *universalmente preferíveis* de resolução de disputas entre indivíduos. Seria completamente ilógico argumentar que as diferenças de opinião deveriam ser resolvidas com o uso de violência – o único argumento consistente para o *valor* de violência é o uso da violência.[^4]
 
-Em essência, então, debater requer uma metodologia objetiva, através da linguagem significativa, na busca da verdade universal, a qual é objetivamente preferível que o erro pessoal.
+Em essência, então, debater requer uma metodologia objetiva, através da linguagem significativa, na busca da verdade universal, a qual é objetivamente preferível ao erro pessoal.
 
 Esta preferência pela verdade universal não é uma preferência de *grau*, mas de *tipo*. Um atalho que corta o tempo de uma viagem pela metade é duas vezes melhor que o caminho mais longo - mas ambos são *infinitamente preferíveis* que um caminho que vá completamente na direção oposta.
 
-Da mesma forma, a verdade não é "melhor" do que de erro – é *infinitamente preferível*, ou requisitada.
+Da mesma forma, a verdade não é "melhor" do que o erro – é *infinitamente preferível*, ou requisitada.
 
 #### Premissa 8: Os indivíduos são responsáveis por seus atos
 
 Se eu argumentar que os seres humanos não são responsáveis por suas ações, estou preso em um paradoxo, que é a pergunta de *se sou ou não sou responsável pelo meu argumento, e também se você é ou não é responsável por sua resposta*.
 
-Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutindo com um aparelho de televisão. [^5]
+Se meu argumento de que os seres humanos *não* são responsáveis por seus atos é verdade, então eu não sou responsável pelo meu argumento, e você não é responsável pela sua resposta. No entanto, se eu acredito que você não é responsável pela sua resposta, teria pouquíssimo sentido continuar a argumentar – seria exatamente o mesmo que discutir com um aparelho de televisão.[^5]
 
-Assim, fundamentalmente, se eu disser que você não é responsável por suas ações, estou dizendo que é universalmente preferível para acreditar que a preferência é impossível, já que se você não tem controle sobre suas ações, você não pode escolher um estado de preferencia, ou seja, a verdade sobre a falsidade. Assim, este argumento, como os argumentos mais acima, auto-destrói-se.
+Assim, fundamentalmente, se eu disser que você não é responsável por suas ações, estou dizendo que é universalmente preferível acreditar que a preferência é impossível, já que se você não tem controle sobre suas ações, você não pode escolher um estado de preferencia, ou seja, a verdade sobre a falsidade. Assim, este argumento, como os argumentos mais acima, se auto-destrói.
 
 [^4]: Será útil lembrar dessa premissa em particular, uma vez que será muito importante mais tarde.
 

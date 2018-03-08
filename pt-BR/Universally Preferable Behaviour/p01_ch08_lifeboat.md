@@ -6,7 +6,7 @@ Por exemplo, se aceitarmos a validade universal dos direitos de propriedade, que
 
 No mundo real, seria preciso uma pessoa incrivelmente insensível para prestar uma queixa contra uma homem que destruiu uma janela para salvar sua vida - assim como seria preciso um homem incrivelmente irresponsável para recusar a pagar a restituição dessa janela. O princípio da "evitabilidade" é central aqui - um homem pendurado num poste tem poucas chances de conseguir chutar a janela. Um homem arrombando sua casa claramente tem a capacidade de evitar invadir sua propriedade - ele não está encurralado, mas é o *iniciador* da agressão. Isso é semelhante à diferença entre a mulher cujo marido a trai, em contraposto à mulher cujo marido a tranca no porão.
 
-Isso não é dizer que quebrar a janela para salvar a sua vida não está errado. É, mas é algo errado que quase todos nós escolheríamos ao invés de morrer. Se eu estivesse à beira de morrer de fome, eu roubaria uma maçã. Isso não significa que é </em>certo* roubar a maçã - só quer dizer que eu iria fazê-lo - e devo, justamente, aceitar as consequências do meu roubo.[^10]</p> 
+Isso não é dizer que quebrar a janela para salvar a sua vida não está errado. É, mas é algo errado que quase todos nós escolheríamos ao invés de morrer. Se eu estivesse à beira de morrer de fome, eu roubaria uma maçã. Isso não significa que é *certo* roubar a maçã - só quer dizer que eu iria fazê-lo - e devo, justamente, aceitar as consequências do meu roubo.[^10]
 
 ### Zonas Neutras
 
@@ -28,15 +28,15 @@ No domínio das "zonas neutras", só existem realmente três opções.
 
 Claramente, a opção um pode ser facilmente descartada. Opção três também é bem fácil de descartar. A sentença "todo conhecimento é uma área neutra" é uma proposição auto-destrutiva, como vimos acima, do mesmo jeito que "todas as declarações são mentiras" também é auto-destrutiva.
 
-Assim, temos de ir com a opção dois, que é a de que certas áreas neutras existem, e sabe-se que elas são neutras em relação as áreas que não são. Há oxigênio no espaço e também debaixo d'água, mas não de uma forma de uma forma ou quantidade que os humanos podem consumir. O *grau* de oxigenação é uma zona neutra, ou seja, "menos contra mais"; a pergunta de se humanos conseguem ou não respirar água é certamente "preto no branco".
+Assim, temos de ir com a opção dois, que é a de que certas áreas neutras existem, e sabe-se que elas são neutras em relação às áreas que não são. Há oxigênio no espaço e também debaixo d'água, mas não de uma forma ou quantidade que os humanos podem consumir. O *grau* de oxigenação é uma zona neutra, ou seja, "menos contra mais"; a pergunta de se humanos conseguem ou não respirar água é certamente "preto no branco".
 
 Um cientista capturado por canibais pode fingir ser um feiticeiro para escapar - isso não significa que deve descartar o método científico como inteiramente válido.
 
-Da mesma forma, podem haver situações extremas onde possamos escolher cometer ações imorais, mas tais situações não invalidam a ciência da moralidade, tanto quanto quanto mutações ocasionais invalidam a ciência da biologia. Na verdade, a ciência da biologia é extremamente avançada no que se refere à aceitação e a análise das mutações - e similarmente, a ciência da ética só é reforçada através de um exame de "cenários de salva-vidas", desde que tal exame não seja perseguido obsessivamente.
+Da mesma forma, podem haver situações extremas onde possamos escolher cometer ações imorais, mas tais situações não invalidam a ciência da moralidade, tanto quanto mutações ocasionais invalidam a ciência da biologia. Na verdade, a ciência da biologia é extremamente avançada no que se refere à aceitação e a análise das mutações - e similarmente, a ciência da ética só é reforçada através de um exame de "cenários de salva-vidas", desde que tal exame não seja perseguido obsessivamente.
 
 ### Universalidade e Exceções
 
-Antes de começarmos a usar nossa estrutura de Comportamento Universalmente Preferível para examinar algum convicções éticas comuns, nós temos que lidar com a questão das "exceções".
+Antes de começarmos a usar nossa estrutura de Comportamento Universalmente Preferível para examinar algumas convicções éticas comuns, nós temos que lidar com a questão das "exceções".
 
 Usando os "cenários de salva-vidas" acima, a conclusão frequentemente tomada é a de que "o bom" é simplesmente *aquilo que é "bom" para a vida individual de um homem"*.
 
@@ -66,7 +66,7 @@ Em outras palavras, antes de mergulharmos, vale a pergunta: "Por que se preocupa
 
 Por que se preocupar em definir teorias éticas? Certamente boas pessoas não as precisam, e más pessoas não as consultam. As pessoas farão o que eles preferem, e inventarão justificações conforme necessário após o fato - por que se *importar* em ensinar sobre moralidade?
 
-Claro, o perigo sempre existe de uma pessoa imoral atacá-lo para seus próprios propósitos hedonistas. Também poderia ser o caro que, apesar de viver limpo e saudável, você pode ser atingido por um câncer antes do tempo - o antigo não faz a ciência da moralidade irrelevante, nada mais do que a carta torna as ciências da medicina, nutrição e exercícios irrelevante. Um efeito demonstrável de um ciência racional da moralidade deve ser o de reduzir as suas chances de *sofrer* ações imorais tais como roubo, assassinato e estupro - e é por esse critério que nós iremos julgar, também, as regras morais propostas na Parte III deste livro.
+Claro, o perigo sempre existe de uma pessoa imoral atacá-lo para seus próprios propósitos hedonistas. Também poderia ser o caso que, apesar de viver limpo e saudável, você pode ser atingido por um câncer antes do tempo - o antigo não faz a ciência da moralidade irrelevante, nada mais do que a carta torna as ciências da medicina, nutrição e exercícios irrelevante. Um efeito demonstrável de um ciência racional da moralidade deve ser o de reduzir as suas chances de *sofrer* ações imorais tais como roubo, assassinato e estupro - e é por esse critério que nós iremos julgar, também, as regras morais propostas na Parte III deste livro.
 
 [^10]: É claro que, se eu fosse um homem tão incompetente ou confuso que eu acabasse à beira da morte de fome, encarceramento talvez pudesse ser uma melhoria para a minha situação...
 

@@ -1,55 +1,55 @@
-## The Null Zone Revisited
+## NLETARI MPAGHARA NKAGBÙ
 
-At the beginning of this book, I put forward a way of looking at how we process truth, analogising it to physics. From the “little truths” of catching a baseball, we arrive at the “great truths” of physics – and the great truths cannot contradict the little truths.
+Na mbido akwúkwò a, e gosiri m otù anyì sí na-esò nsòró eziokwu, n'egosi nyìrí ya na fisics. Site na ''eziokwu obere'' nke nwota ihè basebalu, anyi gha agha ''eziokwu ukwú'' nke fisics - eziokwu ugwu adighi emegide eziokwu obere.
 
-The same is true of morality. From the little truths of “I should not murder” we can get to the great truths such as “the initiation of the use of force is morally wrong.”
+Obukwa eziokwu ebé ágwá omumè di. Site n'ezieokwu obere dika ''e kwesi m igbú'', anyì ga enwe eziokwu ugwu dika ''mmalite omumè ihè ikè ekwesighi''.
 
-In the realm of physics, a central barrier to the logical extrapolation of truths from personal experience to universal theory has been religion.
+N'ime ogbe fisics, ihè njiko etítí atùmatù ezi-uche na site na ihè ama n'agha tiori ózùrú bu n'ime okwukwe.
 
-For instance, no man has ever directly experienced a perfect circle – such an entity exists in the abstract, and in mathematics, but neither can be visualised in the mind, nor sensually experienced in the real world. Nowhere in nature, to our knowledge, does a perfect circle exist, either in the “little truths” of personal experience, or the “great truths” of physics.
+Dika m maatu, onweghi nwoke aghasi na gbùrúgbùrú ya zuru n'ezie - udi ihè a di n'aro, ma na maths ma onweghi nke agha ele n'ime anya uche, ma obù n'egosi na ihè ama n'ime uwa. Onweghi n'ime ódídí ebe gbùrúgbùrú zuruezu di nke anyì ma, oñwere gbùrúgbùrú zuruezu, ma n'ime ''obere eziokwu'' nke ah mah anyi ma obù ''eziokwu ukwu'' nke fisics.
 
-However, for thousands of years, the science of astronomy was crippled by the quest for this “perfect circle.” Planetary orbits had to be perfect circles, because God would never allow anything as “imperfect” as an ellipse in His creation.
+Otù odì, n'ime puku afo garaaga, nchocho ''gbùrúgbùrú zuruezu'' ekweghi oganiru sayens nyocha mbara igwé. Mgbari mbara igwé g'abú gbùrúgbùrú zuruezu, n'ihi chukwu okike aghaghi ekwe ka ihè ezughi oke dika gbùrúgbùrú ezuruezu bayere n'ime okike ya.
 
-The problem with this approach – well, one problem anyway – was the retrograde motion of Mars. From our planet, Mars at times appears to be moving “backwards,” as Earth “overtakes” it around the sun. The false belief that the Earth was the centre of the solar system, combined with a mania for “perfect” circles, produced the Ptolemaic system of astronomy, which multiplied all of these perfect circles to the point of absurdity, in order to take into account elliptical orbits and the retrograde motion of Mars.
+Nsogbù di n'ime obibia - otu nsogbù agbayéghì - bu ntuari n'usoro mars. Site na uwa anyi, mars na dika o laga ''azu'', ebé uwa anyi ''na-agbafe'' ya mgbari anyanwu. Nkweye asi na uwa anyi bu etítí uwa n'ile, jikota ya na ogbahara ''nzù óké'' gbùrúgbùrú, nke usoro mbara igwé Ptolemaic, i megwara otútú gbùrúgbùrú zuruezu a ruo mgbe odì uche na-adighi ya, ka o tiye kwa n'uche gbùrúgbùrú ezuruezu na ntuari n'usoro mars n'ime ya.
 
-Why was this illusion of perfection considered to be a requirement for celestial bodies? Certainly the evidence of the moon, with its pitted and cratered surface, would seem to support the imperfection of the heavens, but religious fixations bypassed the direct sensual evidence of both immediate and interplanetary imperfections. Galileo’s discoveries of moon-mountains, sunspots and Jupiter’s moons were all attacked as heretical.
+Kedu ihè mere áró nzù oké di oké mkpa ebé nkpúrù eluigwe di? N'ezie ngosi nke onwa, ñwere olùlù na ndagwurugwuru ya, ga si n'ekwete na gbùrúgbùrú di n'eluigwe na ala adighi oké, ma ndi okwukwe na agabigha ihè ndomaaya ma nke di nsò ma nke nkpúrù eluigwe n'adighi gbùrúgbùrú n'ezie. Galileo choputara na ugwu onwa, ntùpó-anyawu na onwa Jupiter jikotara onu n'ime okwukwe ikè.
 
-We can also turn this analysis to the question of the existence of God as well.
+Anyi ñwere ikè ituari okwù a sí na oñwere chi di n'ezie.
 
-We have no direct, empirical or rational evidence for the existence of God. The most abstract scientific measurements provide no evidence for the existence of God either – yet in between the truth of our own experience, which is that there is no God, and the most abstract scientific measurements and theories – which also confirm that there is no God – a sort of “null zone” is willed into existence, *which completely inverts any rational standards of truth*.
+Anyi enweghi ihè ngosi obula di n'aka, ahùrú anya n'egosi na oñwere chi di. Nkanka sayens kacha n'aro egosighi na oñwere chi di - ma n'ime ah mah nke ghi, bu na onweghi chi di, na nkanka na tiori sayens ufódù - na egosi na onweghi chi di - ihè dika ''mpaghara nkagbu'' bu nkpúrù ébumnúchè anyi ga a di. *nke n'atuari eziokwu obula ñwere ébumnúchè oma*.
 
-### Bigotry
+### AJÙ ÉBUMNÓBÌ
 
-Beliefs may be true, false, or *anti-truth*. It is a true belief that the Sahara Desert is in North Africa; it is a false belief that the Sahara is in Scotland; it is an *anti-true* belief that the Sahara is whatever I want it to be, and exists wherever I want it to exist. The first belief is true; the second is false – the third is a bigoted assertion that detonates the very concept of proof.
+Nkweye ñwere ikè i bu eziokwu, asi ma obù *mgbochi-eziokwu*. O bu eziokwu na desert Sahara di n'ugwu Africa: o bu asi na Sahara di n'ime Scotland: o bu kwa *mgbochi-eziokwu* nkweye na Sahara di ebé obula nchoro ka odì, ma na-adi ebé m choro ka odì. Nkweye nke mbù bu eziokwu: nkweye nke abuo bu asi - nke ató bu nkweye na-agbasu echiche ihè ngosi.
 
-We can say:
+Anyi ñwere ikè i si:
 
-1. Proposition X is true because it is rational.
-2. Proposition Y is false because it is irrational.
-3. Proposition Z is true because I *want* it to be true.
+1. Akpù-ókwù X bu eziokwu n'ihi na a n'eche ya eche.
+2. Akpù-ókwù Y bu asi n'ihi na anaghi eche ya eche.
+3. Akpù-ókwù Z bu eziokwu n'ihi na ''achorom'' ka Óbùrù eziokwu.
 
-The third assertion is a complete self-contradiction. “Truth” is independent of desire, since desire is by definition a subjective preference, and truth is by definition the conformity of ideas to the objective standards of logic and empirical reality. Saying that something is true because you *want* it to be true is to equate subjectivity with objectivity, which is a self-contradictory statement.
+Akpù-ókwù nke ató n'egbochi onwe. ''Eziokwu'' enweghi nchoro n'ime ya, choro bu nkowaa mmasi, ma eziokwu na nkowa ya bu ókóló mgbagha na ngosi ahùrú anya. I sí na ihè bu eziokwu n'ihi ''i choroya'' ka Óbùrù dika i dokwa nkowaa n'emegide onwe ya.
 
-Bigoted assertions – or “faith” – by definition cannot be tested, since they are not belief in the *absence* of evidence, but belief in *defiance* of reason and/or evidence.
+Ajo Ébumnúchè nzor - ma obù ''okwukwe'' - na nkowa ya enweghi nlete, ebé o nweghi nkweye na *n'eweghi* ihè ngosi, ma kweyen kwa na ''ntupu isì'' ihè mere na ihè ngosi.
 
-We can believe unproven things that turn out to be true – someone doubtless thought that the world was round before it was proven – but the “null zone” is the realm wherein we cling to a belief in things that *could not possibly turn out to be true*.
+Anyi ñwere ikè ikweye na ihè n'enweghi ngosi ñwere ikè i bu eziokwu - oñwere onyé chebighidere na uwa di gbùrúgbùrú túpú e ñwe iye ngosi - ma na ''mpaghara nkagbu'' bu ebe anyi n'egide aka na nkweye agaghi ''abú eziokwu n'ime uwa a*.
 
-If I say that two plus two equals five, I am making a mistake that can be corrected with reference to logic. If I say that I believe that a square circle exists, then I am making an explicitly self-contradictory statement, which disproves itself. If I go further, however, and emphatically claim that “foo plus tury equals desty” – and refuse to define any of my terms – I am making a statement to which logic and evidence *cannot be applied*.
+M sí na ngbakwuye abuo na abuo na aputa isé, m na-eme ndudue ñwere ikè ndosi oma n'ime ezi-uche. M sí na ekwere m na enwere gbùrúgbùrú di square, mgbe ahu m na ekwe okwu mmegbu-onwe, na-akagbu onwe ya. M ghaniru, Otù odì, ''Otù na ózò na-amuta otù-ózò.'' - ma ju i kowa ónù okwum - anam ekwu okwu nke ezi-uche ma obù ihè ngosi adighi ''abanye''*.
 
-### Next Stop: The "Alternative Universe"
+### NKWUSI ÓZÓ: ELUIGWE NA ALA ÓZÓ
 
-In general, the way that people try to “save” their anti-empirical and anti-logical beliefs is to create an “alternate realm” or “alternate universe” wherein their self-contradictory statements can somehow be true.
+N'ozùzù, otu ndi mmadu si ''edokwa'' mmegbu-ahùrú na-anya ha na mmegbu-ezi-uche nkweye ha na ebute ''ogbe ózó'' ma obù ''eluigwe na ala ózó'' ebé okwu mmegbu-onwe ñwere ikè i bu eziokwu.
 
-If I say: “A square circle exists,” I am asserting that which is clearly impossible within this universe. Thus, if I wish to retain my belief, I must invent some other universe, or realm “outside” this universe where a square circle can exist.
+Dika m ga si, ''gbùrúgbùrú di square di'', anam eme ka i wota na okweghi omumè n'ime uwa a. Ma na, óbùrù na m cho ka óbùrù nkweye m, agam e ké eluigwe na ala ózó ma obù ogbè ózò ''n'èzi'' nke a ebé gbùrúgbùrú di square ga di.
 
-If I make up a realm where self-contradiction equals truth, I can then claim that those who say that a square circle does *not* exist are themselves bigoted and prejudicial, because they are eliminating possibilities that *could* be true.[^1]
+Nkecha uwa nke eluigwe na ala ebé okwu mmegbu-onwe bu eziokwu, enwere m ikè ikwu na ndì sí na gbùrúgbùrú di square adighi bu ndì di ajù mbunóbi, n'ihi ha na ewepu uka ñwere ikè i bu eziokwu. [1]
 
-With regards to this “null zone,” only two possibilities really exist. Either this *null zone* exists completely independently of our universe, and will never be measurable, detectable or discoverable in any way, shape or form – or, at some point, we shall be able to detect and interact with this magical land where self-contradiction equals truth.
+N'ihi bayere ''mpaghara nkagbu'', naani okwe-omumè abuo di. Óbùrù na ''mpaghara nkaghu a'' adighi abaye n'ime eluigwe na ala, ma adighi aguta ya, ma obù i mata ya, mo obù i choputa ya n'uzò obula, n'udi - ma obù, otù mgbe, anyi gaamata, ma obù emekor ihè na ala anwansi a ebé okwu mmegbu-onwe na abú eziokwu.
 
-If, at some point, it turns out that we *are* able to interact with this *null zone*, then we shall have direct sensual or rational evidence of its existence. In other words, it must “protrude” into our universe in some manner. However, the moment that it becomes detectable in our universe, it must have rational and empirical existence, like everything else we can detect. Thus these otherworldly “protrusions” into our universe *cannot create the capacity for our universe to support the existence of a square circle*.
+Óbùrù na otù mgbe, anyi na mpaghara nkagbu a n'emeko, mgbe ahu anyi ga enwe ihè ngosi ahùrú anya ma obù a na eche n'ezi-uche na o di n'ezie. N'okwu ózò, o ga na puta n'ime uwa anyi n'otu udi. Ma na, mgbe obidóró gosiwa onwe ya n'ime uwa anyi, o ga enwe ihè a na eche n'ezi-uche ma obù ihè ahùrú anya, dika ihè ndi ózò anyì na ahù anya. Mgbeahu, ihè ''n'tuzi aka'' uwa ndi ózò *agaghi enweghi ikíkéré nkwado na gbùrúgbùrú di square di n'eluigwe na ala anyi*.
 
-We can thus be certain that if we *are* ever able to detect this other universe, the evidence we gather will in no way support the existence of self-contradictory statements. Square circles, gods and other self-contradictory concepts cannot hide there, any more than they can hide in the wet dreams of leprechauns.
+Mgbeahu anyi ga ekwe na anyi ''di'' ncheputa n'ezie n'eluigwe na ala anyi, ma ihè ngosi anyì choputara adighi akwado okwù mmegbu-onwe. Gbùrúgbùrú di square, chi, na ihè mmegbu-onwe aghaghi e zu oñwere ha ebeahù, kara otu ha ga e zu onwe ha n'ime akuko ifo.
 
-On the other hand, if it turns out that we are *never* able to detect this other universe, and it remains a completely theoretical entity, with no evidence or rationality to support it, then it is simply a conceptual bag in which it is “convenient” to place things that are obviously not true.
+Na aka nke ozo, o puta na anyi aghaghi achoputa uwa aro a, ma obù akuko tiori, n'enweghi ngosi ma obù ezi-uche di na nkwado ya, mgbe ahu o ga abu ihè ntukwasi obi mgbe o bughi eziokwu.
 
-[^1]: This inevitably ends up with comparisons to those who said that Einsteinian physics was impossible, that the world could not be round and so on. Uncertainty in *content* – i.e. theory – is somehow supposed to be equated with uncertainty in *methodology*, i.e. reason and evidence. The fact that a mathematical theorem can be disproved does not disprove the principles of mathematics, but rather confirms them.
+[1]: Otù a, ona emechi dika ndi kwuru na fisics Einstein aghaghi ekwe omumè, na uwa adighi gbùrúgbùrú na udi ya. Nzù ekweghi ekwe - ya bu tiori - kwesiri ekweghi ekwe na nkwado *usoro* ya, ya bu echiche na ihè ngosi. N'ihi tiorim mathematics ekweghi ngosiputa aputaghi na akpù-ókwù mathematics bu asi, ka ma o na ekweye na ya.

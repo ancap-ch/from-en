@@ -48,7 +48,7 @@ Etik tartışmalarda, eğer açlıktan ölmektense elmayı çalıp çalmayacağ�
 4. Dolayısıyla hayatta kalma, evrensel olarak mülkiyet haklarına tercih edilir.
 5. Böylelikle nihai ahlaki standart bireye yönelik iyiliktir.
 
-Bu, Nietzsche'den Rand'a uzanan birçok etik teori ve yaklaşımın temeli olarak kullanılmıştır. Her bireyin hayatta kalma tercihi, bireyin hayatta kalmasını merkezlerine yerleştiren etik teorilere tercüme edilmiştir. [^11]
+Bu, Nietzsche'den Rand'a uzanan birçok etik teori ve yaklaşımın temeli olarak kullanılmıştır. Her bireyin hayatta kalma tercihi, bireyin hayatta kalmasını merkezlerine yerleştiren etik teorilere tercüme edilmiştir.[^11]
 
 Bu tür bir "biyolojik hedonizm", "hayatta kalmak için yol gösterici"nin bir açıklaması olabilir, ancak bu sadece insanların yapmaları gereken şeyleri değil, gerçekte ne yaptıklarını açıkladığında doğrudur.
 

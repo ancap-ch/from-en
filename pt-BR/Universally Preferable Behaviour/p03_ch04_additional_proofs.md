@@ -24,7 +24,7 @@ Uma vez que qualquer metodologia para a aquisição de conhecimento deve ser uni
 
 ### Educação pública
 
-Um princípio central do livre mercado é o de que qualidade só resulta de * voluntarismo*. Coerção é, fundamentalmente, ineficiente - violência sempre resulta em má qualidade. As padarias soviéticas do estilo antigo nunca produziram bons pães; um homem que agride sua mulher nunca terá um casamento feliz.
+Um princípio central do livre mercado é o de que qualidade só resulta de *voluntarismo*. Coerção é, fundamentalmente, ineficiente - violência sempre resulta em má qualidade. As padarias soviéticas do estilo antigo nunca produziram bons pães; um homem que agride sua mulher nunca terá um casamento feliz.
 
 A iniciação do uso de força é sempre contrária a qualquer teoria moral racional - é uma específica e explícita violação do UPB. Uma vez que escolas públicas são financiadas através da iniciação do uso da força, elas são uma forma de *associação forçada*, que é uma clara violação da *liberdade de associação* validada pela UPB.
 

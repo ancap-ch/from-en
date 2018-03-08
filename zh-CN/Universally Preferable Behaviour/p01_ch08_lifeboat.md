@@ -1,73 +1,73 @@
 ## 救生艇的情景
 
-事实上，UPB只验证逻辑一致的道德理论并不意味着就没有可能的情况下，我们可能会选择违背了这种理论的原理。
+事实上，UPB只验证逻辑一致的道德理论并不意味着就没有可能的情况下，我们可能会选择违背了这一理论的原理。
 
-例如，如果我们接受产权的普遍有效性，不经许可就砸碎窗户，跳进某人的公寓，那将是对他的财产权的侵犯。然而，如果我们在公寓窗外挂了一个旗杆，就要摔死了，我们很少有人会为了遵守抽象的原则而拒绝进入窗户，跳到安全的地方。
+例如，如果我们接受产权的普遍有效性，砸窗户并擅自进入某人的公寓将违反他的财产权。但是，如果我们在公寓的窗户外面悬挂一根旗杆，并且即将死亡，我们中的很少人会拒绝踢到窗户，为了遵守抽象原则而跳到安全的地方。 
 
-在现实世界中，它会带着冷酷的人起诉人摧毁一个窗口以挽救他的生命–正如它会采取一个极不负责任的人拒绝支付赔偿的窗口。“可避免性”的原则就在这里 - 一个悬在旗杆上的男人几乎没有选择在窗口踢球。一个人闯进你家偷东西的人有能力避免侵犯你的财产——他不是被迫的，而是侵略的始作俑者。这类似于男人欺骗她的女人，而男人则把她锁在地下室里。
+在现实世界中，它会带着冷酷的人起诉人摧毁一个窗口以挽救他的生命–正如它会采取一个极不负责任的人拒绝支付赔偿的窗口。“可避免性”的原则就在这里 - 一个悬在旗杆上的男人几乎没有选择在窗口踢球。一个人闯入你的房子清楚地窃取东西，有能力避免侵犯你的财产 - 他不是被迫的，而是侵略的发起者。这与男人欺骗她的女人和男人将她锁在地下室的女人之间的区别类似。
 
-这并不是说打破窗户挽救你的生命不是错的。是的，但这是一个错误，几乎我们所有人都会选择承诺而不是死亡。如果我快饿死了，我会偷一个苹果。这并不意味着我偷苹果是正确的 - 它只是意味着我会去做这件事 -并且必须公正地接受我偷窃的后果。[^10]
+这并不是说打破窗户挽救你的生命不是错的。是的，但这是一个错误，几乎我们所有人都会选择承诺而不是死亡。如果我快饿死了，我会偷一个苹果。这并不意味着我偷苹果是对的，它只是意味着我会去做这件事，而且必须公正地接受我偷窃的后果。[^10]
 
 ### 灰色区域
 
-在道德领域存在某些“灰色地带”这一事实常常被用来作为等级相对主义的理由。由于有时有些事情还不清楚（例如，谁开始使用暴力），因为不可能为每一个可想象的情况确定客观和准确的规则，所以经常会得出结论：没有任何东西是可以确定的，而且没有任何情况都存在客观规则。
+在道德领域存在某些“灰色地带”这一事实常常被用来作为等级相对主义的理由。由于有时有些事情还不清楚（例如，谁开始使用暴力），因为不可能为每一个可想象的情况确定客观和准确的规则，因此常常得出结论：没有任何东西是可以确定的，任何情况都没有客观的规则存在。
 
 这是假的。
 
-所有理性的人都认识到生物学是一门有效的科学，尽管有些动物天生就有“一次性”突变。狗天生有五条腿，这并不意味着“狗”成为完全主观的范畴。某些昆虫种类难以分化并不意味着甲虫和鲸鱼之间没有区别。
+所有理性的人都认识到生物学是一门有效的科学，尽管有些动物天生就有“一次”性”突变。狗可以用五条腿出生的事实并不意味着“犬”成为完全主观的类别。某些昆虫种类难以分化并不意味着甲虫和鲸鱼之间没有区别。
 
-由于某些不合理的原因，知识分子特别喜欢肆意破坏道德规范和理性标准。这可能是因为知识分子经常被腐败分子如政治家，牧师和国王支付 -或者可能是一个人经常成为知识分子，为自己的不道德行为创造正当理由。不管是什么原因，大多数现代思想家都成为一种“反思者”，这是非常奇怪的。这就相当于有一大批“生物学家”，他们一生都在争论生物学的科学是不可能的。如果生物学的科学是不可能的，那么成为一个生物学家就没有意义了，除了无神论者之外，还应该争取成为一名牧师。
+由于某些不合理的原因，知识分子特别喜欢肆意破坏道德规范和理性标准。这可能是因为知识分子经常被腐败的阶级，如政客、牧师和国王所支付，或者可能是一个人经常成为知识分子，为自己的不道德行为创造正当理由。不管是什么原因，大多数现代思想家都成了“反思想家”的一员，这是非常奇怪的。这就相当于有一大批“生物学家”，他们一生都在争论生物学的科学是不可能的。如果生物学的科学是不可能的，那么成为一个生物学家就没有意义了，正如无神论者不应该拼命地去做牧师一样。
 
 ### 灰色的阴影
 
 在灰色地带，实际上只有三种可能性。
 
-1、没有灰色地带的东西。
-2、某些灰色区域确实存在。
-3、所有知识都是灰色地带。
+1. 没有灰色地带之类的东西。
+2. 某些灰色区域确实存在。
+3. 所有知识都是灰色地带。
 
-显然，选项一很容易被丢弃。选项三也相当容易丢弃。正如我们上面所看到的, “所有的知识都是一个灰色地带”是一个自我引爆的命题，在相同的方式，“所有的陈述都是谎言” 也是自我引爆的。
+显然，选项一很容易被丢弃。选项三也相当容易丢弃。“所有的知识都是一个灰色地带”是一个自我引爆的命题，前面我们已经看到，在相同的方式，“所有的陈述都是谎言”也自我引爆。
 
-因此，我们必须选择第二项，也就是说，某些灰色区域确实存在，并且我们知道它们是灰色的，相对于那些不是灰色氧气存在于空间中的区域，也存在于水下，而不是以人类所能消耗的形式或数量。氧合程度是一个灰色区域，即“少与多”；人类是否能呼吸水的问题，肯定是黑白的。
+因此，我们必须选择第二项，也就是说，某些灰色区域确实存在，我们知道它们是灰色的，相对于那些不是灰色氧气存在于空间中的区域，也在水下，而不是以人类所能消耗的形式或数量。氧合程度是一个灰色区域，即“少与多”; 人类是否能呼吸水的问题，肯定是黑白的。
 
-一个科学家被食人族可能假装要成为巫医逃脱 – 这并不意味着我们必须把科学方法作为完全无效。
-
-同样，也可能有极端的情况，我们可以选择去做不道德的行为，但这种情况并不能使道德科学失效，甚至比偶尔的突变更能使生物学的科学失效。事实上，通过对突变的接受和检验，生物科学得到了极大的发展 - 同样，科学的伦理是唯一通过“救生艇的情况下”检查，只要这种考试不追求过分。
+被食人族捕获的科学家可能假装是巫医以逃避 - 这并不意味着我们必须将科学方法视为完全无效。 
+同样，也可能有极端的情况，我们可以选择去做不道德的行为，但这种情况并不能使道德科学失效，甚至比偶尔的突变更能使生物学的科学失效。事实上，通过对突变的接受和检验，生物科学得到了极大的发展 -同样，科学的伦理是唯一通过“救生艇的情况下检查，“只要这种考试不追求过分。
 
 ### 普遍性与例外
 
-在我们开始使用普遍优越行为的框架来检验一些普遍持有的道德信念之前，我们必须处理“例外”的问题。
+在我们开始使用我们的普遍优先行为框架来检验一些常见的道德信念之前，我们必须处理“例外”的问题。 
 
-利用上述的“救生艇场景”，人们常常得出这样的结论：“好”就是对个人生活而言“好”的那种。
+通过使用上面的“救生艇场景”，通常得出的结论是，“好”就是对个人生活而言“好”的那种。
 
-在道德伦理辩论中，如果有人问我是否会偷苹果而不是饿死，我说“是” - 下面的论点是不可避免的：
+在伦理辩论中，如果有人问我是否会偷苹果而不是饿死，我说“是” - 下面的论点是不可避免的：
 
 1.  每个人都宁愿偷苹果也不愿饿死。
-2.  因此，大家普遍喜欢通过饥饿来偷苹果
+2.  因此，人人都喜欢偷苹果，饿死。
 3.  因此，偷苹果而不是饿死是更为普遍的。
-4. 因此，生存权利普遍优于财产权利。
+4. 因此，生存权普遍优于产权。
 5.  因此，对个人有益的是最终的道德标准。
 
-这已被用作从 Nietzsche (尼采) 到 Rand (兰德的) 一些伦理学理论和方法的基础。每个人对生存的偏好都被转化为以个人生存为中心的伦理理论。[^11]
 
-This kind of “biological hedonism” may be a description of the “drive to survive,” but it is only correct insofar as it describes what people actually *do*, not what they *should* do.
+这已经被用作从尼采 (Nietzsche) 到兰德 (Rand) 的一些道德理论和方法的基础。每个人对生存的偏好都被转化为以个人生存为中心的伦理理论。[^11]
 
-It also introduces a completely unscientific subjectivism to the question of morality. For instance, if it is morally permissible to steal food when you are starving, how much food can you steal? How hungry do you have to be? Can you steal food that is not nutritious? How nutritious does the food have to be in order to justify stealing it? How long after stealing one meal are you allowed to steal another meal? Are you allowed to steal meals rather than look for work or appeal to charity?
+这种“生物享乐主义”可能是“生存的动力”的描述，但它只是正确的，因为它描述了人们实际做什么，而不是他们应该做什么。
 
-Also, if I can make more money as a hit man than a shopkeeper, should I not pursue violence as a career? It certainly enhances *my* survival... and so on and so on.
+这也给道德问题引入了一种完全不科学的主观主义。例如，如果在饥饿的时候偷食物是道德上允许的，你能偷多少食物？你有多饿？你能偷没有营养的食物吗？食物有多营养才能证明它是合理的? 偷一顿饭多久后，你可以再偷一顿饭? 你是否允许偷饭而不是找工作或求助于慈善机构?
 
-As we can see, the introduction of “what is good for man in the abstract – or what most people do – is what is universally preferable” destroys the very concept of morality as a logically consistent theory, and substitutes mere biological drives as justifications for behaviour. It is an explanation of behaviour, not a proposed moral theory.
+另外，如果我能赚更多的钱，作为一个打击的人比店主，我不应该追求暴力作为一个职业? 它确实提高了我的生存能力…等等。
 
-### The Purpose And The Dangers
+正如我们所看到的那样，引入“对抽象中的人有利的东西 - 或者大多数人所做的 - 是普遍可取的东西”的概念破坏了道德这个概念作为一个逻辑上一致的理论，并且以单纯的生物驱动作为理由行为。这是对行为的解释，而不是建议的道德理论。
 
-With your patient indulgence, one final question needs to be addressed before we plunge into a definition and test how various moral propositions fit into the UPB framework. Since the hardest work lies ahead, we should pause for a moment and remind ourselves why we are putting ourselves through all this rigour and difficulty.
+### 目的与危险
 
-In other words, before we plunge on, it is well worth asking the question: “Why bother?”
+你的病人的放纵，最后一个问题需要我们投入的定义和测试各种道德命题融入UPB之前解决框架。既然最艰难的工作还在前面，我们应该停一下，提醒自己为什么我们要克服这些困难和困难。
 
-Why bother with defining ethical theories? Surely good people don’t need them, and bad people don’t consult them. People will do what they prefer, and just make up justifications as needed after the fact – why *bother* lecturing people about morality?
+换句话说，在我们投入之前，有必要问这样一个问题：“为什么要自寻烦恼”?
 
-Of course, the danger always exists that an immoral person will attack you for his own hedonistic purposes. It could also be the case that, despite clean and healthy living, you may be struck down by cancer before your time – the former does not make the science of morality irrelevant, any more than the latter makes the sciences of medicine, nutrition and exercise irrelevant. One demonstrable effect of a rational science of morality must be to reduce your chances of *suffering* immoral actions such as theft, murder and rape – and it is by this criterion that we shall also judge the moral rules proposed in Part Three of this book.
+为什么要去定义伦理学理论? 好人当然不需要他们，坏人也不去咨询他们。人们会做他们喜欢做的事，然后在事实之后，根据需要做出辩解 -为什么还要麻烦人们说教道德呢？
 
-[^10]: Of course, if I were such an incompetent or confused human being that I ended up on the verge of starvation, incarceration might be an improvement to my situation.
+当然，危险总是存在的，不道德的人会攻击你自己快乐的目的。也可能是这样的情况：尽管你的生活是干净而健康的，但在你的时间之前，你可能会被癌症击倒 -前者并没有使道德科学变得无关紧要，正如后者使医学、营养学和运动无关科学一样。理性的道德科学的一个可证明的效果必须是减少遭受诸如盗窃，谋杀和强奸等不道德行为的机会 - 并且通过这个标准，我们也将判断本书第三部分提出的道德规则。
 
-[^11]: Nietzsche’s “will to power” and Rand’s “that which serves man’s life is the good.”
+[^10]：当然，如果我是这样一个无能或困惑的人，我最终到了挨饿的边缘，监禁可能会改善我的处境。
+
+[^11]：尼采 (Nietzsche) 的“权力意志” 和 伦德 (Rand) 的“服务于人的生命是善”。

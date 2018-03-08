@@ -52,7 +52,7 @@ Dans le domaine de la science, il n'est pas trop difficile de voir les forces op
 
 La simple vérité est que les "prêtres" et les "rois" étaient – et sont – simplement des hommes. La simple vérité est que les dieux et les démons qui étaient censés justifier leurs règles n'ont jamais existé.
 
-Nous avons fait de grands progrès dans la compréhension de la nature et de la réalité de l'égalité humaine simple, mais le triste fait est que le champ de la morale * est encore perdu dans la "zone nulle" – dans les illusions destructrices de les "demi-vérités".
+Nous avons fait de grands progrès dans la compréhension de la nature et de la réalité de l'égalité humaine simple, mais le triste fait est que le champ de la morale est encore perdu dans la "zone nulle" – dans les illusions destructrices de les "demi-vérités".
 
 ### "Demi-Vérités"
 
