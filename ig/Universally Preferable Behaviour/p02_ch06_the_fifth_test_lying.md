@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## Nwale nke Ise: Ịgha ụgha
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+Ajụjụ banyere ịgha ụgha + na-adọrọ mmasị n'ihi na a na-ewerekarị eziokwu ahụ dị ka ihe kacha mma n'ụwa, ma ọ bụghị ime ihe ike.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+A na-elekarị ya anya * karịa ihe dị mkpa karịa "ịnọ na oge," ma ọ bụ "na-esighị ike karịa" izu ohi. "Gini ka usoro UPB ga-ekwu gbasara nke a?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Dị ka ọ dị, nkwenkwe omume ọ bụla na-ekwu na "ịgha ụgha dị mma" ozugbo na-ewepụ onwe ya, ebe ọ bụrụ na nwoke ahụ na-atụ aro ya * na-agha ụgha - nke dị mma - mgbe ahụ ịgha ụgha dị njọ, n'ihi na ọ gwara eziokwu ahụ na ụgha dị njọ.
 
-For instance:
+Dị ka ọmụmaatụ:
 
-**Bob:** Lying is always good.
+**Bob:** Ịgha ụgha mgbe niile dị mma.
 
-**Doug:** Are you lying?
+**Doug:** Ị na-agha ụgha? 
 
-**Bob:** Yes.
+**Bob:** Eyeh.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** Ngha ụgha ghaghị njọ, ebe ị na-agha ụgha banyere ya dị mma.
 
-Or:
+Ma ọ bụ: 
 
-**Bob:** Lying is always good.
+**Bob:** Ịgha ụgha mgbe niile dị mma. 
 
-**Doug:** Are you lying?
+**Doug:** Ị na-agha ụgha? 
 
-**Bob:** No.
+**Bob:** Mba. 
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** N'ihi ya, ịgha ụgha abụghị mgbe niile dị mma, ebe ọ bụ na ị na-ekwu eziokwu banyere ịgha ụgha dị mma.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+LOtú ọ dị, ịgha ụgha adịghị achọ ka a malite ike, ya mere, ọ dịghị emebi iwu nke * izere *. Ebe ọ bụ na a ghaghị izere ndị ụgha, ha apụghị ime ihe megidere n'ụzọ ziri ezi.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Ịgha ụgha na-adabawanye na ụdị nke ime ihe ike, ma ọ bụ na ọ bụ omume ịghachite onwe ya, dịka ọ bụ omume ịme ihe ike na nchebe onwe onye Ọ na-esiri ike iche banyere ọnọdụ ebe onye ga - "Mechie" na-agbachitere onwe gị, ma ọ bụ "bụrụ onye ihere." Otú ọ dị, ọ bụrụ na nwoke na-abanye n'ime ụlọ gị ma chọọ ịma ebe nwunye gị hụrụ n'anya bụ onye nwere ike ịdọgbuo ya, ọ ga-adị ka nkwenye nke iguzosi ike n'ezi ihe ịjụ ịjụ ghaara ya ụgha. Ịgha ụgha n'okwu a ga-abụ ụdị nke nchebe onwe onye nke atọ, na dịka omume ọma dị ka iji ime ihe ike na-agbachitere N'otu aka ahụ, ọ bụrụ na mmadụ na-akwụ anyị otu narị dollar site na ịgha ụgha, anyị nwere ike ịgha ụgha na ya nweta ya.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+N'ihi ya, anyị nwere ike ịgha ụgha nye onye ụgha, dịka anyị nwere ike iji aka anyị chebe onwe anyị site na mkpịsị ụkwụ nke nwere mkpịsị ụkwụ, ma anyị agaghị ekwupụta na ọ bụ na-akwụghachi "onye akwụ ụgwọ" site n'igosi ọbụna mgbe e mesịrị.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+Ihe dị iche bụ na "ịbụ onye na-egbu oge" abụghị dị ka ịkpa ókè na-ebibi ihe dịka ịgha ụgha. Onye na-egbu oge na-ewe iwe, ma ọ gaghị eme ka ị ghara ime ihe n'eziokwu. Ọ bụ otu ihe ka m gosipụta otu oge elekere maka mgbakọ na elekere asaa nke ụtụtụ - ọ bụ ihe ọzọ iji gbalịa ime ka i kwenye na anyị n'emezi nzukọ maka elekere asatọ nke ụtụtụ, mgbe m maara na nke a abughi ikpe.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+Iguzogide obi ike gị n'uche [5] dị nnọọ njọ karịa nanị ime ka ichere, ebe ọ bụ na ị na-eji onye ọzọ tụkwasị gị obi imebi ntụkwasị obi ya n'onwe ya, bụ nke rụrụ arụ kpam kpam, ebe ọ bụ na ọ na-eji * uru iji mebie uru, dị ka ịgha ụgha. Nke a bụ otú UPB si eme ka nkwenye nke okwu ahụ bụrụ "ịgha ụgha dị mma," ma kwenye na omume ịgha ụgha nye mmadụ dị njọ karịa "ịbụ oge," kama ọ ka mma karịa "mwakpo."
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Mgbe ụfọdụ a na - akpọ "ọkụ ọkụ," mgbe ihe nkiri ochie ahụ gasịrị.

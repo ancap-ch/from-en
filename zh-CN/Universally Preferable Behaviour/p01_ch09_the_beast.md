@@ -1,41 +1,40 @@
-## The Beast
+## 野兽
 
-An objective review of human history would seem to point to the grim reality that by far the most dangerous thing in the world is *false ethical systems*.
+对人类历史的客观回顾似乎指向了一个严峻的现实：迄今为止，世界上最危险的事情是错误的道德体系。
 
-If we look at an ethical system like communism, which was responsible for the murders of one hundred seventy million people, we can clearly see that the real danger to individuals was not random criminals, but *false moral theories*. Similarly, the Spanish Inquisition relied not on thieves and pickpockets, but rather priests and torturers filled with the desire to save the souls of others. Nazism also relied on particular ethical theories regarding the relationship between the individual and the collective, and the moral imperative to serve those in power, as well as theories “proving” the innate virtues of the Aryan race.
+如果我们看一个像共产主义这样的伦理体系，它对一亿七千万个人的谋杀负有责任，我们可以清楚地看到，对个人的真正危险不是随机的罪犯，而是错误的道德理论。同样，西班牙宗教裁判所依赖的不是小偷和扒手，而是牧师和刽子手充满渴望拯救他人的灵魂。纳粹主义也依赖于特定的伦理理论，对于个人和集体之间的关系，和道德必须为那些在权力，以及理论“证明”的雅利安种族与生俱来的美德。
 
-Over and over again, throughout human history, we see that the most dangerous instruments in the hands of men are not guns, or bombs, or knives, or poisons, but rather *moral theories*. From the “divine right of kings” to the endlessly legitimised mob rule of modern democracies, from the ancestor worship of certain Oriental cultures to the modern deference to the nation-state as personified by a political leader, to those who pledge their children to the service of particular religious ideologies, it is clear that by far the most dangerous tool that men possess is *morality*. Unlike science, which merely describes what is, and what is to be, moral theories exert a near-bottomless influence over the hearts and minds of men by telling them what *ought* to be.
+在整个人类历史中，我们一遍又一遍地看到，人类手中最危险的工具不是枪支，炸弹，刀子或毒药，而是道德理论。从“国王的神权”到现代民主国家不断合法化的暴民统治，从祖先对某些东方文化的崇拜，到对政治领袖所塑造的民族国家的现代敬意，还是对那些向子女宣誓为特定的宗教意识形态提供服务，很明显，到目前为止，男性拥有的最危险的工具是道德。与仅仅描述什么是什么，什么是什么的科学不同，道德理论通过告诉人们应该是什么，对人的心灵产生了几乎无底的影响。
 
-When our leaders ask for our obedience, it is never to themselves as *individuals*, they claim, but rather to “the good” in the abstract. JFK did not say: “Ask not what I can do for you, but rather what you can do for me...” Instead, he substituted the words “your country” for himself. Service to “the country” is considered a virtue – although the net beneficiaries of that service are always those who rule citizens by force. In the past (and sometimes even into the present), leaders identified themselves with God, rather than with geography, but the principle remains the same. For Communists, the abstract mechanism that justifies the power of the leaders is *class*; for fascists it is the *nation*; for Nazis it is the *race*; for democrats it is “the will of the people”; for priests it is “the will of God” and so on.
+当我们的领导人要求我们服从的时候，他们声称自己从来不是个人，而是抽象的“善”。JFK没有说：“不要问我能为你做什么，而是问你能为我做些什么……” 相反，他用“你的国家”代替了自己。服务于“国家” 是一种美德，尽管这种服务的净受益人总是那些强行统治公民的人。在过去（有时甚至是现在），领导人认同上帝，而不是地理上的关系，但原则仍然是一样的。对共产党人来说，证明领导人权力的抽象机制是阶级；对法西斯分子来说，它是国家；对纳粹来说，这是种族；对民主党人来说，它是“人民的意志”；对牧师来说，它是“上帝的意志” 等等。
 
-Ruling classes inevitably use ethical theories to justify their power for the simple reason that human beings have an implacable desire to act in accordance to what they believe to be “the good.” If service to the Fatherland can be defined as “the good,” then such service will inevitably be provided. If obedience to military superiors can be defined as “virtue” and “courage,” then such violent slavery will be endlessly praised and performed.
+统治阶级不可避免地使用道德理论来证明自己的权力，理由很简单，即人类根据他们认为是“善”的行为具有不可抗拒的行为欲望。如果对祖国的服务可以被定义为“善”，那么这种服务将不可避免地被提供。如果服从军人的上级可以定义为“美德”和“勇气”，那么这种暴力奴役就会被无休止地表扬和表现。
 
-### Propaganda
+### 宣传
 
-The more false the moral theory is, the earlier that it must be inflicted upon children. We do not see the children of scientifically minded people being sent to “logic school” from the tender age of three or four onwards. We do not see the children of free market advocates being sent to “Capitalism Camp” when they are five years old. We do not see the children of philosophers being sent to a Rational Empiricism Theme Park in order to be indoctrinated into the value of trusting their own senses and using their own minds.
+道德理论越是错误，它就越早被强加在孩子身上。我们不认为有科学头脑的孩子从三岁或四岁就被送到“逻辑学校”。我们没有看到自由市场拥护者在五岁时被派往“资本主义阵营”。我们没有看到哲学家被发送到一个理性的经验主义的主题公园是为了灌输信任自己的感官和使用他们自己的思想的价值的孩子。
 
-No, wherever ethical theories are corrupt, self-contradictory and destructive, they must be inflicted upon the helpless minds of dependent children. The Jesuits are credited with the proverb: “Give me a child until he is nine and he will be mine for life,” but that is only because the Jesuits were teaching superstitious and destructive lies. You could never imagine a modern scientist hungering to imprint his falsehoods on a newborn consciousness. Picture somebody like Richard Dawkins saying the above, just to see how ridiculous it would be.
+不，在任何道德理论腐败，自相矛盾和破坏性的地方，它们都必须置于受抚养子女的无助思想之上。耶稣会士有一句谚语：“给我一个孩子，直到他九岁，他将成为我的终身”，但那只是因为耶稣会教导迷信和破坏性的谎言。你永远无法想象一个现代科学家渴望将自己的虚假印记在新生意识上。想像理查德道金斯 (Richard Dawkins) 这样的人说上述，只是为了看看它会是多么荒谬。
 
-Any ethicist, then, who focuses on mere criminality, rather than the institutional crimes supported by ethical theories, is missing the picture almost entirely, and serving mankind up to the slaughterhouse. A doctor who, in the middle of a universal and deadly plague, focused his entire efforts on communicating about the possible health consequences of being slightly overweight, would be considered rather deranged, and scarcely a reliable guide in medical matters. If your house is on fire, mulling over the colours you might want to paint your walls might well be considered a sub-optimal prioritisation.
+那么，任何关注纯粹犯罪而不是伦理理论所支持的制度性犯罪的伦理学家都几乎完全忽略了这一图景，并将人类服务于屠宰场。在一个普遍和致命的瘟疫中，一位医生将全部精力集中在关于稍微超重的可能的健康后果上，这被认为是相当混乱的，并且几乎不是医疗问题上的可靠指南。如果你的房子着火了，仔细考虑你可能想把你的墙壁的颜色可能会被认为是一个次优的优先次序。
 
-Private criminals exist, of course, *but have almost no impact on our lives comparable to those who rule us on the basis of false moral theories*. Once, when I was eleven, another boy stole a few dollars from me. Another time, when I was twenty-six, I left my ATM card in a bank machine, and someone stole a few hundred dollars from my account.
+当然, 私人罪犯当然存在，但对我们的生活几乎没有影响，与那些以虚假道德理论为基础的我们的生活相媲美。有一次，我十一岁时，另一个男孩从我身上偷走了几美元。还有一次，当我二十六岁的时候，我把自己的提款卡放在一台银行机器里，有人从我的账户上偷走了几百美元。
 
-On the other hand, I have had hundreds of thousands of dollars taken from me by force through the moral theory of “taxation is good.” I was forced to sit in the grim and brain-destroying mental gulags of public schools for fourteen years, based on the moral theory that “state education is a virtue.”[^12]
+另一方面，我通过“税收是好的”的道德理论强行从我身上拿走了数十万美元。我被迫坐在严峻破坏大脑的十四年的公立学校精神的集中营，根据“国家教育是一种美德的道德理论”。[^12 ]
 
-The boy (and the man) who stole my money doubtless used it for some personal pleasure or need. The government that steals my money, on the other hand, uses it to oppress the poor, to fund wars, to pay the rich, to borrow money and so impoverish my children – and to pay the salaries of those who steal from me.
+偷我钱的那个男孩毫无疑问地利用它来满足个人的需要。政府偷走了我的钱，另一方面，用它来欺压穷人，资助战争，要有钱，借钱，使我的孩子–和支付那些偷我的工资。
 
-If I were a doctor in the middle of a great city struck down by a terrible plague, and I discovered that that plague was being transmitted through the water pipes, what should my rational response be – if I claimed to truly care about the health of my fellow citizens?
+如果我是在一个可怕的瘟疫袭击下的一个大城市中间的医生，我发现瘟疫是通过水管传播的，我的理性反应是什么 - 如果我声称真正关心健康我的同胞们呢？
 
-Surely I should cry from the very rooftops that their drinking water was causing the plague. Surely I should take every measure possible to get people to understand the true source of the illness that struck them down.
+当然，我一定要从屋顶上叫喊，说他们的饮用水造成了瘟疫。当然，我应该采取一切可能的措施让人们了解疾病的真正根源。
 
-Surely, in the knowledge of such universal and preventable poisoning, I should not waste my time arguing that the true danger you faced was the tiny possibility that some random individual might decide to poison you at some point in the future.
+当然，在了解这种普遍的和可预防的中毒的情况下，我不应该浪费我的时间争辩说，你面临的真正危险是一些随机的个体可能决定在未来某个时候毒害你的可能性很小。
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+我在私人罪犯手中遭受的侵犯行为，即使在一天之内，我的”善良和善良的主人“也毫不留情。 
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+那么，如果人类面临的最大危险是虚假的道德理论，那么我们的最高优先级应该是有效的，理性的，经验的和一致的道德理论的发现，交流和改进。如果我们发现大多数瘟疫受害者都因不纯净的水而死亡，那么一定要告诉他们净化水是我们的首要任务。 
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+现在让我们谈谈这个任务。 
 
-Let us now turn to that task.
+[^12]:  或者，相反：“强迫教育是一种美德” - 我的父母被迫通过交税，我也被迫参加。
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.

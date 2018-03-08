@@ -1,88 +1,88 @@
 ## UPB：道德或美学？
 
-一般来说，我们将使用美学这个术语来指不可强制执行的偏好 - 普遍的或个人的 - 而伦理或道德将指可执行的偏好。用科学方法来验证物理理论是普遍可取的（即要求的），但我们不能用武力对不使用科学方法的人施加科学方法，因为不使用科学方法不是暴力行为。非暴力行为本质上是可以避免的。如果一个物理学家停止使用科学的方法，而是开始咨询塔罗牌，他不会猛烈地选择我，我可以避开他。另一方面, 一个强奸犯是在他的受害者的暴力造成他的偏好。
+一般来说，我们将使用美学这个术语来指不可强制执行的偏好 - 普遍的或个人的 -而伦理或道德将指可执行的偏好。用科学方法来验证物理理论是普遍可取的（即要求的），但我们不能用武力对不使用科学方法的人施加科学方法，因为不使用科学方法不是暴力行为。非暴力行为本质上是可以避免的。如果一个物理学家停止使用科学的方法，而是开始咨询塔罗牌，他不会猛烈地选择我，我可以避开他。一个强奸犯，另一方面是暴力造成他的喜好在他的受害者。
 
-虽然我们首先专注于UPB在伦理学领域，UPB现在可以被视为一个“保护伞条款，“包括学科：
+虽然我们首先专注于UPB在伦理学领域，UPB现在可以被视为一个“保护伞条款”，包括学科：
 
-•科学方法
-•逻辑
-•经验主义
-•辩论
-•语言
-•伦理
+- 科学的方法
+- 逻辑
+- 经验主义
+- 辩论
+- 语言
+- 道德
 
-伦理是UPB的一部分，涉及受到的行为或暴力的使用。任何证明或否认使用暴力的理论都是一种道德理论，并且要服从逻辑一致性和经验证据的要求。 
+伦理是处理造成UPB行为的子集，或使用暴力。任何证明或否认使用暴力的理论都是一种道德理论，它符合逻辑一致性和经验性证据的要求。
 
-让我们看看三个行动，帮助我们进一步区分道德和美学。第一种行为是非理性；第二种是说谎；第三种是谋杀。[^9]
+让我们看看三个行动，帮助我们进一步区分伦理学和美学。第一种行为是非理性；第二种是说谎；第三种是谋杀。[^9]
 
 ### 非理性
 
-假设你和我正在辩论上帝的存在。在我提出我的论点之后，你拍拍你的耳朵，唱出上帝告诉你他是存在的，因此我所有的论证都毫无意义。显然，你对我的立场的反应是非理性的。不管我多么讨厌你的行为，我还是掏出枪来射击你，发泄我的沮丧，这似乎是不合理的。我认为，使用逻辑和证据，而不是依赖于我们头脑中的声音是普遍可取的，但这种普遍偏好在物理意义上不能通过暴力或威胁来合理地强制执行。
+假设你和我正在辩论上帝的存在。在我提出我的论点之后，你双手捂住耳朵，唱出上帝在告诉你他存在，因此我所有的论证都毫无意义。显然，你对我的立场的反应是非理性的。不管我多么讨厌你的行为，我还是掏出枪来射击你，发泄我的沮丧，这似乎是不合理的。我认为，使用逻辑和证据，而不是依赖于我们头脑中的声音是普遍可取的，但是这种普遍偏好在物理意义上不能通过暴力或威胁来合理强制执行。
 
 ### 说谎
 
-假设你和我为辩论设定了规则，我们都同意根据理性和证据来判断上帝存在的问题。如果，当争论还在继续，你又回到了一个盲目的信仰位置，拒绝我的论点，否则他们的理性和证据就不存在了。换句话说，当你说这个问题将由理性和证据来决定时，你在撒谎。
+假设你和我为辩论设定了规则，我们都同意根据理性和证据来判断上帝存在的问题。如果，当争论还在继续，你回到一个盲目的信仰立场，拒绝我的论点，但理性和证据，你不遵守诺言。换句话说，当你说这个问题将由理性和证据来决定时，你在撒谎。
 
-这两种情况（非理性与说谎）的区别在于契约和非契约安排的区别。如果我给你一百美元，然后走开，我不能在一年后公正地对你说你现在欠我一百美元，因为这是一笔贷款。另一方面，如果你同意在一年内把钱还给我，而不这样做，情况就完全不同了。
+这两种情况（非理性与说谎）的区别在于契约和非契约安排的区别。如果我给你一百美元，然后走开，我不能在一年后公正地对你说你现在欠我一百美元，因为那是贷款。另一方面，如果你同意在一年内把钱还给我，而不这样做，那就完全不一样了。
 
-在“撒谎”的例子中，虽然你明显地打破了你的话，并浪费了我的时间，但我拔出枪来射击你，似乎也没有道义上的或合理的。
+在“撒谎”的例子中，虽然你明显地打破了你的话，浪费了我的时间，但我拔出枪来射击你，似乎也没有道义上的或合理的。
 
-一个合理的道德理论应该能够解释为什么会这样情况。
+一个合理的道德理论应该能够解释为什么会是这样。
 
 ### 谋杀
 
-如果你用刀向我冲过来，很少有人会争辩我保护自己的权利。如果拍摄你是我能合理保证自己安全的唯一途径，那通常会被认为是一种令人遗憾的必要性。
+如果你用刀向我冲来，很少有人会争辩我保护自己的权利。如果拍摄你是我能合理保证自己安全的唯一途径，那通常被认为是令人遗憾的必然。
 
 ### 对道德的要求
 
-某些前提条件必须存在或被接受，以便道德判断或理论具有任何有效性或适用性。显然，选择和个人责任都必须接受为公理。如果一块石头从山上跳下来撞到你的汽车上，我们就不负责任，因为它没有意识，不能选择，因此不能承担个人的责任。如果岩石脱落，只是由于时间和地质，然后没有人负责由此造成的损害你的车。然而，如果你看到我把石头推出它的位置，你不会责怪石头，而是责怪我。添加一个进一步的并发症，如果事实证明我把岩石因为另一个男人强迫我在枪口下，你更可能会责怪持枪引发的情况，而不是我。
+某些前提条件必须存在或被接受，以便道德判断或理论具有任何有效性或适用性。显然，选择和个人责任都必须接受为公理。如果一块石头从山上跳下来撞到你的汽车上，我们就不负道德上的责任，因为它没有意识，不能选择，因此不能承担个人责任。如果岩石脱落，只是由于时间和地质，然后没有人负责由此造成的损害你的车。然而，如果你看到我把岩石推出来，你就不会责怪岩石，而是责备我。添加一个进一步的并发症，如果事实证明我把岩石因为另一个人强迫我在枪口下，你更可能会责怪持枪引发的情况，而不是我。
 
-正如我们已经讨论过的那样，参加任何辩论都需要接受选择的现实、价值观和个人责任。然而，这些因素也存在于选择一个房间的油漆颜色，但我们不能说选择色调是一种道德选择。因此，为了使选择或命题成为道德，必须有其他标准必须存在。
+正如我们已经讨论过的那样，参加任何辩论都需要接受选择的现实、价值观和个人责任。然而，这些因素也存在于选择一个房间的油漆颜色，但我们不能说选择色调是一种道德选择。因此，必须有其他标准，以使选择或命题合乎道德。
 
-我们都有偏好-从单纯的个人（“我喜欢冰淇淋”）到社会上更好的（“准时好”）到普遍的道德（“你不应该谋杀”）。
+我们都有偏好 - 从单纯的个人（“我喜欢冰淇淋”）到社会上更好的（“准时好”）到普遍的道德（“你不应该谋杀”）。
 
-很少写关于个人的喜好–书我们可以找Ann Landers讨论社会最好的行为–那么在这里，我们将关注普遍优先行为的可能性。
+很少写关于个人的喜好–书我们可以找Ann Landers讨论社会最好的行为 - 这里，然后，我们将重点放在普遍较好的行为的可能性。
 
 ### 选择
 
 如果我接受你参加宴会的邀请，但我觉得谈话很无礼，我可以决定起身离开 -我也可以选择不接受你的另一个邀请。这种逃避和/或逃避的能力是区分美学和伦理学的一个基本特征。
 
-如果，当我决定离开你的晚宴派对时，你跳起来把我拉到我的椅子上，很明显我再也没有自由选择离开了。这时，你的粗鲁变成公然的侵略，越过美学走向道德的界限。
+如果，当我决定离开你的晚宴时，你跳起来把我拉到我的椅子上，很明显我再也没有自由选择离开了。这时，你的粗鲁变成公然的侵略，越过美学到道德的界限。
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+如果在发誓一夫一妻制之后，我欺骗了我的妻子，她决定离开我，我确实做错了，但是我犯的错误，如果我把她锁在地下室阻止她离开，我会犯错误。我们一般不会认为一个妻子因为不忠而枪杀她的丈夫是出于道德上的行为，但如果她不得不使用暴力逃避监禁的话，我们会承认这种令人遗憾的必要性. 在第一种情况下，妻子有自由选择和离开丈夫的能力，因此暴力将是对这种情况的不公正的回应；在第二种情况下，她选择离开丈夫已经被监禁。不忠不会破坏伴侣的选择能力；把她锁在地下室里。
 
-### Avoidance
+### 回避
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+如果你和我都站在悬崖顶上，我转向你说，“站在我前面，我可以把你从悬崖上推下去”，你的反应是什么？如果你自愿站在我面前，然后我把你从悬崖上推下去，这更可能被认为是你的自杀形式，而不是我的谋杀。这样做的原因是，你可以很容易地避免被推下悬崖，只是拒绝站在我面前。
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+同样，如果我在酒吧遇到你，说：“我想让你回到我的地方，这样我就可以把你绑在床上，然后饿死你”，如果你真的回到我的地方，那是合情合理的，知道你的长寿不会因你的决定而增加。另一方面，如果我在你的饮料里放了“约会强奸” 毒品，你醒来时被绑在我的床上，很明显你没有办法避免这种情况。
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+回避问题是区分美学与伦理学的关键。美学适用于可能令人不快的情况，但这并不能消除你选择的能力。
 
-#### Avoidance And Initiation
+#### 回避和起始
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+这本书后面会出现一个特别的回避问题，值得在这里澄清。
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+如果我住在离你五千公里的一个高山顶上，并给你发一封电子邮件，告诉你，如果你走在我的房子前面，我会开枪打死你，你相对容易避免这种情况。我对武力的威胁当然是不道德的，但如果你立刻跳上飞机，爬上我的山，慢慢地在我的房子前面溜达，问题肯定会增加。
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+另一方面，如果你住在一条死胡同，我告诉你，如果你走那条街回家，我会开枪打死你，你的能力，以避免这种情况变得非常有限。你当然可以进入你的房子，或者跳过一大堆后院篱笆，但所有这些都会相当不方便。
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
+以类似的方式，如果有组织犯罪的代表来我家威胁要烧毁它如果我不定期支付保护费，我就可以避免被移动到另一个大陆，具体的威胁，但这似乎是一个相当不公正的方式来处理的情况，因为我现在必须开始行动为了避免威胁。
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+目前，我们可以假定任何暴力开始的威胁都是不道德的，但回避的问题 - 尤其是需要避免的程度 -也很重要。一般来说，一个威胁越干扰日常行动的正常过程，它就越是令人震惊。如果我不得不飞到另一个大陆去走在你的房子前面，那几乎不是每天的活动。如果我因为走自己家的路而受到暴力威胁，那是对我自由的一种更严重的侵扰。如果我必须采取具体和前所未有的行动来触发威胁，那是一回事 -如果我通过日常正常活动触发威胁，那就是另一回事了。告诉你，如果你把头靠在月亮的阴暗面，我会打你，这几乎不是威胁 -告诉你，如果你呼吸的话，我会揍你。
 
-### Ethics, Aesthetics, And Avoidability
+### 伦理学，美学，和结果
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+假设你和我约定六点准时在某个地点见面，但我晚了半个小时。你的反应是什么? 起初，你可能有点恼火。如果我告诉你我被推迟了，因为我停下来给一个垂死的人CPR，救了他的命，你的烦恼很可能会赞美代替。另一方面，如果我告诉你我迟到是因为我在玩电子游戏，你的烦恼可能会增加。一个垂死的人需要CPR是意想不到的，因此是不可避免的. 继续玩一个视频游戏是很容易避免的 - 并且清楚地表明你没有考虑。
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+正是这种能力避免了道德判断的核心根源，而在自己家中被任意入侵者强奸的妇女无疑是可怕罪行的受害者。一个女人被强奸后，在一次聚会和跳舞的裸体在桌面上让盲人醉酒了更复杂的情况下。显然，强奸案一旦发生，就无法避免，因为它正在受到暴力的打击 - 然而，增加强奸可能性的情况是可以避免的。
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+如果有人闯进我的房子，我的钱包在枪口下，我有权利感到愤怒。然而，如果我把钱包放在公园长椅上一个星期，当我回去发现不见了它的时候，我是否还有同样的愤怒的权利呢? 本能地，我们觉得这似乎是不太合理的。
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+显然，这一回避问题是我们对因果关系的道德评价的核心。毫无预兆地袭击，而且无法预防的疾病，使我们害怕得远远超过我们能避免的疾病。我们可以通过避免吸烟来减少患肺癌的机会，就像我们可以通过使用防晒霜来预防皮肤癌一样，避免极限运动中的骨折。同样，我们可以通过一些很简单的习惯，避免犯罪，例如选择道德伙伴，避免出现地点和犯罪更可能的情况，避免药物滥用等等。
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+有一种现象被称为“警察的死亡，“其中有自杀倾向的人引起与警方的争吵，然后假装达到为一枪击中。这是追求“受害”几乎得到保证的情况的一个极端例子。这也可以在国内的情况下发生的，其中一个妻子会口头攻击一个醉酒的丈夫，明知酒精使他暴躁的脾气。在这些情况下，我们可以在公园里偷来的钱包是谁的人有些同情，或妇女谁在兄弟党的攻击，或妻子是丈夫–殴打，但同时，我们会对自己的角色或参与他们所遭受的冤屈有一些重大的问题。为了公正，我们必须区分一个男人的钱包被枪口偷走，一个男人把钱包放在公共场所。毫无疑问，这两个人的钱包被偷了，但让他们同样负责似乎是不合理的。
 
-Can the UPB framework help us understand, classify and extend these moral standards?
+UPB框架可以帮助我们理解，分类和扩展这些道德标准？
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]：请注意下面的例子不是证据，而是一个有效的伦理理论应该能够涵盖和解释的情况。我们马上就可以拿到实物证据。

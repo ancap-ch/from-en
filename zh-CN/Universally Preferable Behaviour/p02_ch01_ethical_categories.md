@@ -1,39 +1,41 @@
-## Ethical Categories
+## 道德类别
 
-With the UPB framework in place, we can now turn to an examination of how UPB validates or invalidates our most common moral propositions. If our “theory of physics” can explain how a man can catch a baseball, we have at least passed the first – and most important – hurdle, and struck our first and deepest blow against the beast.
+随着地方UPB框架，我们现在可以把UPB验证或无效我们最常见的道德命题考试。如果我们的“物理理论”可以解释一个人如何能抓住一个棒球，我们至少已经越过了第一个也是最重要的障碍，并对野兽做出了第一次和最深的打击。
 
-### The Seven Categories
+### 七个分类
 
-As mentioned above, propositions regarding universally preferable behaviour fall into three general categories – positive, negative and neutral. To help us separate aesthetics from ethics, let us start by widening these categories to encompass *any* behaviour that can be subjected to an ethical analysis. These seven categories are:
+如上所述，关于普遍优先行为的命题分为三大类 - 正面，负面和中性。为了帮助我们将美学与道德分离，让我们从拓宽这些范畴开始，包含任何可以进行道德分析的行为。这七个类别是：
 
-1. It is good (universally preferable and enforceable through violence, such as “don’t murder”).
-2. It is aesthetically positive (universally preferable but not enforceable through violence, such as “politeness” and “being on time”).
-3. It is personally positive (neither universally preferable nor enforceable, such a predilection for eating ice cream).
-4. It is neutral, or has no ethical or aesthetic content, such as running for a bus.
-5. It is personally negative (predilection for not eating ice cream).
-6. It is aesthetically negative (“rudeness” and “being late”).
-7. It is evil (universally proscribed) (“rape”).
+1. 这是好的（通过暴力，例如“不要谋杀”）普遍可取和可执行。
+2. 在美学上是积极的（普遍可取，但不能通过暴力来实施，如“礼貌”和“准时”）。
+3. 这是个人正面的（既不普遍也不可取，也不可强制执行，这是吃冰淇淋的好习惯）。
+4. 它是中性的，或没有伦理或美学内容，如跑到公共汽车。
+5. 这是个人消极的（不喜欢吃冰淇淋）。
+6. 在美学上是负面的（“粗鲁”和“迟到”）。
+7. 它是邪恶的（被禁止）（“强奸”）。
 
-Ideally, we should be able to whittle these down to only two categories – universally preferable and aesthetically positive – by defining our ethical propositions so that what is universally banned is simply a mirror image of what is universally preferable, and ditching merely personal preferences and neutral actions as irrelevant to a discussion of ethics.
+理想情况下，我们应该能够把这些下来只有两类–普遍较好的美观和积极–定义我们的伦理命题，什么是普遍禁止的仅仅是一个被普遍较好的镜像，开沟只是个人喜好和中性的行为作为一个讨论的伦理无关。
 
-For instance, the Non-Aggression Principle (NAP) states that the initiation of the use of force is immoral – thus the non-initiation of the use of force is universally preferable, while the initiation of the use of force is universally banned. If what is banned is simply the opposite of what is preferable, there is really no need for an additional category.
+例如，无侵略原则（NAP）指出，使用武力的行为是不道德的 -因此，不使用武力是普遍可取的，而使用武力则是普遍禁止的。如果被禁止的只是与最好的相反，实际上不需要额外的类别。
 
-Furthermore, as moral philosophers, we must prioritise our examination of rational ethics by focussing on the most egregious violations. Clearly, the most immoral actions must be the violent enforcement of unjust preferences upon others. If actions such as “theft” or “murder” are defined as UPB, the examination of such definitions must be our very highest priority.
+此外，作为道德哲学家，我们必须把我们的理性伦理审查聚焦于最严重的违法行为。显然，最不道德的行为必须是对他人的不公正偏好的暴力实施。
+如果诸如“盗窃”或“谋杀”等行为被定义为UPB，那么对这些定义的审查必须成为我们的最高优先事项
 
-Thus we shall focus our efforts primarily on universally preferable and enforceable actions.
+因此，我们将主要集中在普遍可取和可执行的行动上。
 
-### Virtue And Its Opposite
+### 德性及其对立
 
-The opposite of “virtue” must be “vice” – the opposite of “good” must be “evil.” If I propose the moral rule, “thou shalt not steal,” then stealing must be evil, and *not* stealing must be good. This does not mean that “refraining from theft” is the sole definition of moral excellence, of course, since a man may be a murderer, but not a thief. We can think of it as a “necessary but not sufficient” requirement for virtue.
+“美德”的反面必须是“恶习”，“善”的反面必须是“恶”。如果我提出道德法则，“你不应该偷窃”，那么偷窃必须是罪恶的，而不是偷窃必须是好的。这并不意味着“不偷盗”是美德，唯一的定义，当然，因为一个人可能是凶手，但不是贼。我们可以把它看作是美德的“必要但不充分”的要求。
 
-Each morally preferable action must by its very nature have an opposite action – because if it does not, then there is no capacity for choice, no possibility of avoidance, and therefore no capacity for virtue or vice. If I propose the moral rule: “thou shalt defy gravity,” then clearly morality becomes impossible, immorality cannot be avoided, and therefore the moral rule must be invalid.
+每一个道德上更可取的行动都必须有一个相反的行为 -因为如果它没有，那么就没有选择的能力，没有避免的可能性，因此就没有美德和罪恶的能力。如果我提出一条道德法则：“你将反抗地心引力”，那么显然道德是不可能的，不道德是不能避免的，因此道德规则必须是无效的。
 
-If I propose the moral rule: “thou shalt not go to San Francisco,” this can be logically rephrased as: “thou shalt go anywhere but San Francisco.” In this way, the moral rule “thou shalt not steal” can be equally proposed in the positive form – “thou shalt respect property rights.” Since respecting property rights is a virtue, violating property rights must be a vice.
+如果我提出道德准则：“你不能去旧金山”，这可以合乎逻辑地转述为：“你将去除旧金山以外的任何地方”。 这样，“不可偷盗” 的道德规则可以是平等的以积极的形式提出 - “你必须尊重财产权”。由于尊重财产权是一种美德，侵犯财产权必须是一种恶习。
 
-### What Is Missing
+### 这里缺少什么
 
-Conspicuously absent from the above list are traditional virtues such as courage, honesty, integrity and so on – as well as their opposites: cowardice, falsehood and corruption.
+在上述清单中明显缺乏的传统美德，如勇气，诚实，正直等，以及他们的对立：怯懦，谎言和腐败。
 
-It may seem that these virtues should fall into the realm of aesthetically positive behaviour, such as being on time, but I for one have far too much respect for the traditional virtues to place them in the same category as social niceties. The reason that they cannot be placed into the category of universally preferable is that, as we mentioned above, the framework of UPB only deals with *behaviours*, not with attitudes, thoughts, states of mind or emotions. The scientific method can process a logical proposition; it cannot process “anger” or “foolhardiness.” These states of mind are not unimportant, of course – in fact, they are essential – but they cannot be part of any objective system for evaluating ethical propositions, since they are essentially subjective – and therefore unprovable – states of being.
+看起来，这些美德应该落入审美积极行为的领域，比如准时，但我对于传统美德的尊重将它们置于与社交细分类同的范畴。他们不能被归入普遍适用的范畴的原因是，正如我们上面提到的那样，UPB的框架只涉及行为，而不涉及态度，思想，精神状态或情绪。科学方法可以处理一个合乎逻辑的命题;它不能处理“愤怒”或“愚蠢”。当然，这些心理状态并不重要 - 事实上它们是必不可少的 - 但它们不能成为任何评估伦理命题的客观系统的一部分，因为它们本质上是主观的 - 因此无法证明 - 存在状态。
 
-Thus UPB can only deal with objectively verifiable actions such as murder, assault and so on.
+因此，UPB只能处理客观可核实的行为如谋杀、攻击等。
+

@@ -1,61 +1,61 @@
-# Appendices
+# Ang Mga Apendiks
 
-## Appendix A: UPB In A Nutshell
+## Apendiks A: UPB sa Isang Maikling salita
 
-Below, please find a summation of the core argument for morality.
+Sa ibaba, mangyaring mahanap ang kabuuan ng argumento ng buod para sa moralidad.
 
-1. Reality is objective and consistent.
-2. “Logic” is the set of objective and consistent rules derived from the consistency of reality.
-3. Those theories that conform to logic are called “valid.”
-4. Those theories that are confirmed by empirical testing are called “accurate.”
-5. Those theories that are both valid and accurate are called “true.”
-6. “Preferences” are required for life, thought, language and debating.
-7. Debating requires that both parties hold “truth” to be both objective and universally preferable.
-8. Thus the very act of debating contains an acceptance of universally preferable behaviour (UPB).
-9. Theories regarding UPB must pass the tests of logical consistency and empirical verification.
-10. The subset of UPB that examines enforceable behaviour is called “morality.”
-11. As a subset of UPB, no moral theory can be considered true if it is illogical or unsupported by empirical evidence.
-12. Moral theories that are supported by logic and evidence are true. All other moral theories are false.
+1. Ang layunin ay katotohanan at naaalinsunod.
+2. Ang “lohika” ay ang hanay ng mga layunin at naaalinsunod sa mga alituntunin na nagmula sa pagkakapare-pareho ng katotohanan.
+3. Ang mga teorya na sumusunod sa lohika ay tinatawag na “balido.”
+4. Ang mga teorya na nakumpirma ng empirikal na pagsuri ay tinatawag na "tumpak."
+5. Ang mga teyorya ay parehas na balido at tumpak ay tinawag na "totoo."
+6. "ang mga kagustuhan" ang kailangan para sa buhay, ideya, wika at pakikipagtalo.
+7. Ang mga pakikipagtalo ay kailangan sa parehong hawak ng partido "totoo" para parehas na maging obhetibo at sa panglahatang kanais-nais.
+8. Kaya naman mas akto ng pakikipagtalo ay naglalaman ng panglahatang pagtanggap sa mas kanais-nais na paguugali (UPB).
+9. Ang tungkol sa mga teyorya ng UPB ay kailangan na maipasa ang mga pagsusulit ng lohikal na pagbabago at pagpapatunay ng empirikal.
+10. Ang UPB ng subset na nagsusuri sa pagpapatupad ng pag-uugali ay tinawag na "moralidad."
+11. Bilang subset ng UPB, walang teyorya ng moral na pwedeng konsidirahin na totoo kung ito ay lohikal o hindi suportado ng empirikal na katibayan.
+12. Ang mga moral na teorya ay sinusuportahan ng lohikal at ang mga katibayan ay totoo. lahat ng iba pang moral na mga teorya ay hindi tama.
 
-## Appendix B: Moral Categories
+## Ang Apendiks B: Ang mga Kategorya ng Moral
 
-Below is a sample table that lists some of the most common categories of actions/rules, and their key differentiators.
+Sa ilalim ay isang halimbawa ng mga listahan ng talahanayan ng ilang sa mga karaniwang mga kategorya ng aksyon/patakaran, at ang kanilang mga differentiator.
 
-| Action/Rule                       | Preference? | Universal? | Enforceable? | Requires initiating action on the part of the victim? | Can violators be avoided? | Moral Category                |
+| Aksyon/Panuntunan                       | Kagustuhan? | Unibersal? | Maipapatupad? | Ang aksyon ang kinakailangan sa pagsisimula ng panig ng biktima? | Pwedii bang iwasan ang mga lumalabag? | Moral na Kategorya                                                        |
 | --------------------------------- | ----------- | ---------- | ------------ | ----------------------------------------------------- | ------------------------- | ----------------------------- |
-| **Running for the bus**           | No          | No         | n/a          | n/a                                                   | n/a                       | Neutral                       |
-| **You should not like ice cream** | Yes         | No         | No           | n/a                                                   | n/a                       | Neutral (personal preference) |
-| **You should not be late**        | Yes         | Yes        | No           | No                                                    | Yes                       | APA                           |
-| **You should not commit fraud**   | Yes         | Yes        | Yes          | Yes                                                   | Yes                       | Good                          |
-| **You should not rape**           | Yes         | Yes        | Yes          | No                                                    | No                        | Good                          |
+| **Tumatakbo para sa bus**           | Hindi          | Hindi         | n/a          | n/a                                                   | n/a                       | Walang pinapanigan                       |
+| **Hindi mo dapat gusto ang ice cream** | Oo         | Hindi         | Hindi           | n/a                                                   | n/a                       | Walang pinapanigan (sariling kagustuhan) |
+| **Hindi ka dapat mahuli**        | Oo         | Oo        | Hindi           | Hindi                                                    | Oo                       | APA                           |
+| **Hindi ka dapat gumawa ng pandaraya**   | Oo         | Oo        | Oo          | Oo                                                       | Oo                       | Mabuti                          |
+| **Hindi ka dapat manggahasa**           | Oo         | Oo        | Oo          | Hindi                                                    | Hindi                        | Mabuti                          |
 
-## Appendix C: UPB Podcasts
+## Ang Apendiks C: UPB mga Podcast
 
-If you would like to further your understanding of UPB and its ramifications, you might find the following podcasts (available [here](www.freedomainradio.com)) helpful. You may also wish to watch the “Introduction to Philosophy” videos, available on [Youtube](www.youtube.com/freedomainradio).
+Kung gusto mong mas maunawaan pa ang UPB ay ito ang mga sangay, pwede mong matagpuan ang mga sumusunod na podcast (magagamit [dito](www.freedomainradio.com)) matulungin. Pwede mo rin naisin na panuurin ang "Ang panimula sa pilosopiya" mga video, magagamit sa [Youtube](www.youtube.com/freedomainradio).
 
-| Track | Title                                                         | Description                                                                                                                                                                                                        |
+| Subaybayan | Titulo                                                         | Paglalarawan                                                                                                                                                                                                        |
 | -----:|:------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     8 | Proving Libertarian Morality                                  | One of the central challenges faced by libertarians is the need to prove that libertarian moral theory is universally correct, while statist and collectivistic moral theories are incorrect. Here's how to do it! |
-|   560 | Call In Show Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
-|   562 | Universally Preferable Behaviour for Children                 | The ABCs of UPB.                                                                                                                                                                                                   |
-|   872 | Debating and UPB                                              | Can you debate without using UPB?                                                                                                                                                                                  |
-|     7 | The Argument From Morality (or, how we will win!)             | The most powerful argument for freedom.                                                                                                                                                                            |
-|   148 | The “Ought To” Challenge - Morality does not exist in reality | The journey from the “ought” to the “is.”                                                                                                                                                                          |
-|   260 | Moral Objectivity                                             | Using the scientific method to define morality.                                                                                                                                                                    |
-|   261 | Is And Ought and Ethics                                       | Anyone who argues ethics agrees with ethics.                                                                                                                                                                       |
-|   318 | Moral Experimentation                                         | Empirical proofs of abstract ethics.                                                                                                                                                                               |
-|   412 | Nit Picky City                                                | Get out of the lifeboat! Detonating the 'gray areas' of morality.                                                                                                                                                  |
-|   540 | Testing Morality                                              | Can you judge a moral theory by its effects?                                                                                                                                                                       |
-|   555 | Scientific Morality                                           | Excellent ethical questions from a poster.                                                                                                                                                                         |
-|   557 | Testing Ethics                                                | Reasonable standards for ethical theories.                                                                                                                                                                         |
-|   567 | Morals Ethics & Aesthetics                                    | Right and wrong from murder to manners...                                                                                                                                                                          |
-|   588 | Positive Obligations - An Example                             | An excellent critique of one of my articles.                                                                                                                                                                       |
-|   816 | Tennis Anyone?                                                | A metaphor for moral action.                                                                                                                                                                                       |
+|     8 | Pagpapatunay ng Libertarian ng Moralidad                                  | Ang isa sa mga pagtutol ng sentral na hinaharap ng mga libertaryan ay dapat patotohanan ng libertaryan na ang lahat ng teorya ng moral ay tama, bagama't ang mga istatistika at ang pagkolektibismo ng mga moral na teorya ay hindi tama. Narito kung paano ito gawin!|
+|   560 | Tumawag sa magtatanghal Dec 17 2006                                      | Universally preferable behaviour and rating dating.                                                                                                                                                                |
+|   562 | Higit na Kanais-nais na Pag-uugali para sa mga Bata                 | Ang ABC ng UPB.                                                                                                                                                                                                   |
+|   872 | Ang Pakikipagtalo at UPB                                              | Maari ka bang maki-pagtalo ng hindi gumagamit ng UPB?                                                                                                                                                                                  |
+|     7 | Mula sa Moralidad ng Pangangatwiran (o, kung paano tayo mananalo!)             | Ang pinakamabisang argumento para sa kalayaan.                                                                                                                                                                            |
+|   148 | Ang Hamon na "Dapat Upang" - Ang moralidad ay hindi umiiral sa katotohanan | Ang paglalakbay "ay" hanggang mula sa "tungkulin"                                                                                                                                                                          |
+|   260 | Ang Moral na Pagkakataon                                             | Gamit ang pang-agham na pamamaraan upang liwanagin ang moralidad.                                                                                                                                                                    |
+|   261 | Ay Ang Nararapat at Mga Etika                                       | Ang sinumang magtalo sa mga etika ay sumasang-ayon sa mga etika.                                                                                                                                                                       |
+|   318 | Ang Moral na Eksperimento                                         | Ang Empirikal na katibayan ng abstrak ng mga etika.                                                                                                                                                                               |
+|   412 | Nit Picky City                                                | Kumuha ng lifeboat! Pinaputok ang 'kulay abong mga lugar' ng moralidad.                                                                                                                                                  |
+|   540 | Ang Moralidad na Pagsubok                                              | Pwedi ka bang maghatol ng isang moral na teorya sa pamamagitan ng mga epekto nito?                                                                                                                                                                       |
+|   555 | Ang Siyentipikong Moralidad                                           | Napakagaling na etikal na mga katanungan mula sa isang karatula.                                                                                                                                                                         |
+|   557 | Ang mga Etika ng Pagsubok                                               | Mga makatarungang pamantayan para sa mga etikal na teorya.                                                                                                                                                                         |
+|   567 | Mga Moral na Etika at Mga Aystetika                                    | Tama at mali mula sa pagpatay sa kaugalian...                                                                                                                                                                          |
+|   588 | Positibong Obligasyon - Isang Halimbawa                             | Ang isang kritika na mahusay ng isa sa aking mga artikulo.                                                                                                                                                                       |
+|   816 | Sinuman Tennis?                                                | Isang talinghaga para sa moral na aksyon.                                                                                                                                                                                       |
 
-Finally, if you would like to debate these ideas with other interested philosophers, feel free drop by the [Freedomain Radio Message Board](www.freedomainradio.com/board).
+Sa wakas, kung gusto mong makipagtalo sa mga ideya kasama ang ibang interesadong mga pilosopo, huwag mag-atubiling maghulog sa pamamagitan ng [Freedomain Radio Message Board](www.freedomainradio.com/board).
 
-## Appendix D: Every UPB Debate I've Ever Had...
+## Ang Apendiks D: Bawat Pagtatalo ng UPB Na Nagkaroon Ako...
 
-**UPB Sceptic**: UPB is invalid. **Me**: How do you know? **UPB Sceptic**: It's not proven! **Me**: So “proof” is UPB? **UPB Sceptic**: No, nothing is UPB. **Me**: Isn't the statement "nothing is UPB" UPB? **UPB Sceptic**: No, that's not what I'm saying at all! I'm saying that UPB is invalid! **Me**: Why? **UPB Sceptic**: Because it's false! **Me**: So presenting true arguments is UPB? **UPB Sceptic**: No! **Me**: So there's nothing wrong with false arguments? **UPB Sceptic**: No. **Me**: Then why are you opposing a false argument? **UPB Sceptic**: Oh, it's just my personal preference. I just dislike falsehood. **Me**: So you're arguing for a merely personal preference? **UPB Sceptic**: Sure! **Me**: So why should your personal preference take precedence over mine? I like UPB, you don't – and why bother debating personal preferences at all? **UPB Sceptic**: Oh - because UPB is invalid! **Me**: Why is it invalid? **UPB Sceptic**: Because it's self-contradictory! **Me**: So consistency is UPB? **UPB Sceptic**: No! And stop repeating the same points over and over! And go read Kant / Hegel / Hume etc.
+**UPB Sceptic**: UPB ay hindi wasto.. **Ako**: Paano mo nalaman? **UPB Sceptic**: ito ay hindi napatunayan! **Ako**: Kaya "patunay" ang UPB? **UPB Sceptic**: Hindi, walang UPB. **Ako**: Hindi ba ang pahayag ay "walang UPB" UPB? **UPB Sceptic**: Hindi, hindi iyan ang sinasabi ko! Ang sinasabi ko ay ang UPB ay hindi wasto! **Ako**: Bakit? **UPB Sceptic**: Dahil ito ay mali! **Ako**: Kaya ang pagpapakita ng tunay na argumento ay UPB? **UPB Sceptic**: Hindi! **Ako**: Kaya wala nang mali sa mga hindi totoong argumento? **UPB Sceptic**: Hindi. **Ako**: Kung ganon bakit mo pinagtatalunan ang isang maling argumento? **UPB Sceptic**: Oh, ito lang ang aking personal na kagustuhan. Hindi ko gusto ang kasinungalingan. **Ako**: Kaya nakikipagtalo ka para lamang sa isang personal na kagustuhan? **UPB Sceptic**: Ssigurado! **Ako**: Kaya bakit ang iyong personal na kagustuhan ay magpauna sa akin? Gusto ko ng UPB, hindi mo gusto – at bakit abala ang personal na pakikipagtalo ng mga kagustuhan sa lahat? **UPB Sceptic**: Oh - dahil ang UPB ay hindi wasto! **Ako**: Bakit ito ay hindi wasto? **UPB Sceptic**: Dahil ito ay nagkakasalungatan sa sarili! **Ako**: Kaya pareho ang UPB? **UPB Sceptic**: Hindi! At itigil ang paulit-ulit na parehong mga punto ng paulit-ulit! At magbasa Kant / Hegel / Hume at iba pa.
 
 *etc etc etc...*

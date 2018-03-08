@@ -22,7 +22,7 @@
 
  بنابراین ما حقیقت کوچک را ضربه نزنید و حقیقت بزرگ (خشونت اشتباه است) داریم ، اما در این بین ناحیه خالی داریم  که در آن به طورکامل در مقابل هر دو حقایق کوچک و بزرگ مطرح شده است که کاملا درست است.
 
- از لحاظ تاریخی، ما می توانیم همان تناقض در فیزیک را ببینید. در تجربه مستقیم ما هیچ دایره ای کامل وجود ندارد، اما به دلیل اعتقاد به خدا، حرکت تمام سیاره ها باید "دایره ای کامل" باشد و فرضیه ستاره شناسی قرن  پیش به همین ترتیب، اگر یک مرد سر خود را بچرخاند، به طور منطقی اعتقاد ندارد که کل دنیا در اطراف او چرخش دارد - و او با خوشحالی می تواند آن را نه تنها به عنوان «حقیقت کوچک» خود، بلکه به عنوان یک حقیقت بزرگ * یا اصل جهانی پیش ببرد. با این حال برای بسیاری از تاریخ بشر، اعتقاد بر این بود که ستارگان و سیارات در اطراف زمین چرخیدند، نه اینکه زمین می چرخد، در اینجا دوباره می توانیم  ناحیه صفر  بین تجربه حس مستقیم و اصل جهانی را ببینیم، در حالی که اصول کلی در مقابل اصول مطحرح شده کاملا معتبر هستند.
+ از لحاظ تاریخی، ما می توانیم همان تناقض در فیزیک را ببینید. در تجربه مستقیم ما هیچ دایره ای کامل وجود ندارد، اما به دلیل اعتقاد به خدا، حرکت تمام سیاره ها باید "دایره ای کامل" باشد و فرضیه ستاره شناسی قرن  پیش به همین ترتیب، اگر یک مرد سر خود را بچرخاند، به طور منطقی اعتقاد ندارد که کل دنیا در اطراف او چرخش دارد - و او با خوشحالی می تواند آن را نه تنها به عنوان «حقیقت کوچک» خود، بلکه به عنوان یک حقیقت بزرگ یا اصل جهانی پیش ببرد. با این حال برای بسیاری از تاریخ بشر، اعتقاد بر این بود که ستارگان و سیارات در اطراف زمین چرخیدند، نه اینکه زمین می چرخد، در اینجا دوباره می توانیم  ناحیه صفر  بین تجربه حس مستقیم و اصل جهانی را ببینیم، در حالی که اصول کلی در مقابل اصول مطحرح شده کاملا معتبر هستند.
 
 هیچ انسان عاقل مستقیما خدا را تجربه نمی کند. در زندگی روزمره او به طور کامل می پذیرد که آن چیزی که نمی تواند درك شود، وجود نداردهرمرد معقولی هر لحظه جا میزند تا یک قدم بردارد، ترس از دیوار نامرئی که ممکن است مانع راه آن شود. بزرگترین انتزاع علم از رویکرد او حمایت می کند.
 
@@ -86,48 +86,48 @@
 
 جهان به خاطر افتادن یک صخره  فرومیریزد.
 
-### "Middle Truths" And Exploitation
+### حقیقت میانی و  بهره برداری
 
-Biologically, parasitism is a wholly viable survival strategy for many creatures. In the absence of ethical norms, stealing energy and resources from other creatures is perfectly sensible. In general, the most sustainable and stable form of parasitism is *symbiosis*, or mutually beneficial coexistence. Thus the bacteria that inhabit our intestines aid their own survival by helping us digest our food.
+از نگاه زیست شناختی ، زندگی انگلی یک استراتژی بقای کاملا مناسب  برای بسیاری از موجودات است. به طور کلی پایدارترین نوع زندگی انگلی ، همزیستی یا همزیستی متقابل است. بنابراین باکتریهایی که در روده های ما زندگی میکنند، با هضم غذای ما به بقاء خود کمک میکنند.
 
-However, a virus that renders us continually exhausted, and barely able to keep ourselves alive, can scarcely be called “mutually beneficial.” If we think of our long and grim history of disaster, starvation, war, disease and poverty – and compare it with the astounding material successes of modernity – it is clear that a form of parasitism tyrannised our minds and capacities for millennia. Now that the last few hundred years have shown the power and creativity of the human spirit, we can view our species as an organism that has shaken off a terrible parasite, and sprung from an endless gasping deathbed to perform the most astounding feats of gymnastics.
+با این حال، ویروسی که به بدن ما می آید و به طور مداوم ما را خسته میکند و خود را به سختی زنده نگه میداریم ، به ندرت سود متقابل نامیده می شود.اگر ما به تاریخ طولانی و ترسناک خود ، فاجعه ، گرسنگی ، جنگ ، بیماری و فقر فکر کنیم و آن را با موفقیت های نوین خود مقایسه کنیم ، روشن است که یک نوع انگل انگاری هزاران سال است که بر ذهن و ظرفیت ما غلبه کرده است. اکنون که چندصد سال گذشته قدرت و خلاقیت روح انسان را نشان داده است ، میتوانیم به گونه خود به عنوان یک ارگانیسم که یک از یک انگل وحشتناک خلاص شده و از یک بسترمرگ توسط فنربرای اجرای یک شاهکار ژیمناستیک پرتاب شده است.
 
-When we cure ourselves of a disease, we feel better, but the disease does not. From the perspective of the smallpox virus, the smallpox vaccine is genocidal.
+وقتی ما خود را در برابر یک بیماری درمان میکنیم ، احساس خوبی پیدا میکنم اما بیماری نه. از دیدگاه ویروس آبله ، واکسن آبله یک قتل عام است.
 
-In the same way, the parasites that strangle mankind view the liberty of the majority with horror. Since their parasitism frees them from the demands of reality – to earn their daily bread – they inevitably view the freedom of the masses as a form of enslavement for themselves. Thus would a farmer view the “liberation” of his livestock as an utter disaster…
+به همین ترتیب ، انگل هایی که باعث خفقان بشر می شوند ، از آزادی اکثریت را هراس دارند. از آنجایی که زندگی طفیلی آن ها را نسبت به خواستن واقعیت آزاد میکند ، برای به دست آوردن نان روزانه خود ، به ناچار آزادی دیگران را بردگی برای خود می پندارند. بدین ترتیب یک کشاورز رهایی دام خود را یک فاجعه بزرگ می بیند.
 
-Establishing truth necessarily limits fantasy. Limiting fantasy necessarily limits exploitation. If I can convince you that I am a living man-God, and that the God who birthed me wants you to give me ten percent of your income, or you will be punished for eternity, then I can become exceedingly rich. I am a parasite of illusions, and depend on those illusions for my sustenance as surely as fungus relies on warmth, dampness – and darkness.
+مشخص کردن حقیقت الزاما تمایلات را محدود میکند. محدود کردن تمایلات الزاما بهره برداری یا استثمار را محدود می کند. اگر من بتوانم شما را قانع کنم که من از طرف خداوند هستم و خداوند که مرا متولد ساخت از شما میخواهد که ده درصد از درآمدتان را به من بدهید وگرنه تا ابد مجازات خواهید شد ، من میتوانم بسیار ثروتمند شوم. من یک انگل توهمی هستم و بسته به تخیلات برای معیشت خود قطعا مانند قارچ هستم که وابسته به گرما ، رطوبت و تاریکی است.
 
-Those who use moral fantasies to exploit mankind have always fought tooth and nail against those who threaten their livelihood by discovering and disseminating the truth.
+کسانی که مخیلات اخلاقی استفاده میکنند تا از بشریت بهره برداری کرده و همیشه با چنگ و دندان در پی کشف و انتشار حقیقت هستند تا کسی را که معاش آن ها را به خطر می اندازد تهدید کنند. 
 
-We are familiar with the example of the Mafia, which threatens potential rivals with maiming and death, or the spectacle of religious sects attacking each other, or one government attacking another.
+ما با نمونه ای از مافیا آشنا هستیم که رقبای بالقوه خود را با صدمه و مرگ تهدید می کنند ، یا ناظر حمله فرقه های مذهبی به یکدیگر ، یا حمله دولت به یکدیگر هستند.
 
-When philosophers expose the falsehoods necessary for continued exploitation, however, they are ideally not aiming to set themselves up as competitors. They do not wish to *replace* the Mafia, or the church – they wish to eliminate it completely.
+زمانی که اندیشمندان برای ادامه بهره برداری دروغ و فریبکاری را لازم  می بینند ، با این حال ، به طور ایده آل در صدد رقابت با یکدیگر نیستند . آنها نمیخواهند مافیا یا کلیسا را جایگزین کنند بلکه می خواهند آن را به طور کامل حذف کنند.
 
-A more modern analogy would be the relationship between the state, lobbyists and taxpayers. Lobbyists will ferociously attack other lobbyists who compete for the same tax dollars. However, imagine how *all* lobbyists would band together to attack anyone who proposed eliminating the state as an institution.
+قیاس مدرن تر رابطه بین دولت ، لابی گران و مالیات دهندگان خواهد بود.لابی گران به شدت با یکدیگر برای مالیات مشابه رقابت می کنند. با این حال ، تصور کنید که چگونه همه لابی گران با یکدیگر در برابر کسی که درصدد حذف دولت است به عنوان یک نهاد متحد خواهند شد.
 
-Parasites will aggressively compete with one another for the host’s limited resources – but it is in their best interest to band together to attack anything that threatens to eliminate the host itself.
+انگل ها به شدت در استفاده از منابع محدود میزبان رقابت می کنند، اما به در عین حال علاقمندند تا در مورد هر چیزی که خود میزبان را تهدید میکند متحد شوند.
 
-In this way, in any society where the state and the church are nominally separated, each entity tends to compete for adherents. Where the church begins to lose ground, the state will aggressively recruit patriots – resulting in secular socialism. Where the state begins to lose ground, the church will aggressively recruit adherents – resulting in religious fundamentalism, often with tinges of libertarianism.
+بدین ترتیب ، در هر جامعه ای که در آن دولت و کلیسا  جداسازی شده اند، هر یک تمایل دارند برای هواخواهان بیشتر رقابت کنند. هر جایی که کلیسا رو به ضعیف شدن می رود ، دولت به شدت وطن پرستان را جذب می کند که منجر به سوسیالیسم سکولار می شود. جایی که دولت تضعبف می شود ، کلیسا به شدت طرفداران را جذب می کند که منجر به بنیادگرایی دینی می شود و اغلب با تمایل به آزادی خواهی همراه است.
 
-However, the philosophers who oppose *all* intellectual error are the sworn enemies of all the parasites that feed off illusions. The “great truths” of physics eliminate the need for supernatural agents, and render miracles impossible. The explanatory power of science wholly outshines the religious fictions that masquerade as knowledge about the physical world.
+فیلسوف هایی که با تمام خطاهای فکری مخالف هستند دشمنان قسم خورده ی همه انگل هایی هستند که از توهم ها تغذیه میکنند.حقایق بزرگ فیزیک نیاز به عوامل ماورا طبیعی را از بین میبرند و معجزات را غیر ممکن میسازند.قدرت تفسیری علم به طور کامل از تخیلات مذهبی که به عنوان دانش درمورد دنیای فیزیکی پوشیده شده است فراتر رفته است.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+روش علمی مستلزم ان است که هر فرضیه با شواهد و عقلانیت پشتیبانی شود.از انجا که مدارکی برای وجود خدایان وجود ندارد و خیلی از ایده های خدایان خود ذاتی است، متناقض، فرضیه ی وجود خدایان نمیتواند بماند.به ناچار پارازیت های مذهبی تلاش میکنند تا از فرضیه خود دفاع کنند با تلاش برای تقسیم واقعیت به "دو حوزه" علمی و معنوی با این حال هیچ مدرکی برای وجود این  معنوی وجود ندارد هرچند بیش از انکه جهان موازی از اشکال افلاطونی دو هزار و پانصد سال پیش وجود داشته باشد.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+در نتیجه ایجاد حقیقت سازگار و جهانی ضرورتا پتانسیل استثمار توهم را از بین میبرد.به طور دقیق حقایق بزرگ که جهانی و سازگار هستند حقایق میانه را از بین میبرند و مسخره میکنند که در واقع استثمار فانتزی هستند.ما با حقایق میانه دین اشنا هستیم:چند نفر دیگر مورد بررسی قرار خواهند گرفت که بعضی از انها شما را شوکه میکنند.
 
-### Effective Parasitism
+### پارازیتیسم موثر
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+موثر ترین انگل شناسی یا ویروس ها-انهایی هستند که بدن را به بی تفاوتی فریب میدهند.سیستم ایمنی بدنما برای حمله به مواد خارجی درون بدن مجزا کردن و کشتن انها طراحی شده است.ما از ابتلا به ایدز و سرطان میترسیم مخصوصا از انجا که قادر به کنار زدن سیستم ایمنی ما هستند.همان تکنیکی که توسط انگل های فکری استفاده میشود تا سیستم های دفاع شخصی کسانی را که دعا میکنند غیرفعال کنند. 
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+اگر یک غریبه در یک کوچه به شما حمله کند و پول شما را بخواهد شما میترسید و وحشت زده میشوید.شما ممکن است مبارزه کنید ممکن است فرار کنید یا ممکن است کیف پول خود را به او بدهید اما شما شوکه شده اید.عصبانی و وحشت زده از اتفاقی که رخ داده.وقتی که شما داستان را بازگو کنید به ان میگویید که پایه و نقض حریم شخصی و حقوق مالکیت شما را تقویت میکند.دیگران با شما همدردی میکنند برای وضع نامساعد شما و در اینده نمیگویند کوچه. 
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+این یک نمونه از یک حقیقت کوچک است.که:سرقت از من اشتباه است.
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+با این حال هنگامی که یک نماینده دولت به شما نامه ای میفرستد که از شما درخواست پرداخت پول میکند ممکن است شما احساس ازردگی خاصی داشته باشید اما شما داستان را با همان خشم و وحشت به دوستانتان نمیگویید.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+این یک نمونه از یک حقیقت میانه است.انکه حقیقت بزرگ را خراشیده این است که سرقت اشتباه است.
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+این کتاب در مرد افشای نابود کردن این حقایق میانه است.من بر این باورم که بشر به طور بی پایان تحت استبداد حقایق میانه اخلاقی دروغین قرار میگیرد که جهان مخرب را توجیه میکند مشاهدات خرافات مذهبی استبداد دنیوی و فرقه خانواده.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+فرضیه من در این کتاب این است که در اخلاق مانند هر رشته فکری دیگر حقایق بزرگ مستقیما از حقیقت های کوچک به وجود می ایند.تیرگی مهلک از حقایق میانه یک مسیر جهنمی است اما ارزش ان را دارد زیرا جایگزین اساسی برای حقیقت.استثمار.ویرانی و به ناچار نابودی غیر منتظره ی میلیون ها نفر است.

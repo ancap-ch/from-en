@@ -52,7 +52,7 @@ Dans le domaine de la science, il n'est pas trop difficile de voir les forces op
 
 La simple vérité est que les "prêtres" et les "rois" étaient – et sont – simplement des hommes. La simple vérité est que les dieux et les démons qui étaient censés justifier leurs règles n'ont jamais existé.
 
-Nous avons fait de grands progrès dans la compréhension de la nature et de la réalité de l'égalité humaine simple, mais le triste fait est que le champ de la morale * est encore perdu dans la "zone nulle" – dans les illusions destructrices de les "demi-vérités".
+Nous avons fait de grands progrès dans la compréhension de la nature et de la réalité de l'égalité humaine simple, mais le triste fait est que le champ de la morale est encore perdu dans la "zone nulle" – dans les illusions destructrices de les "demi-vérités".
 
 ### "Demi-Vérités"
 
@@ -112,24 +112,24 @@ Les parasites seront en compétition agressive les uns avec les autres pour les 
 
 De cette manière, dans toute société où l'État et l'église sont nominalement séparés, chaque entité tend à se faire concurrence pour ses partisans. Là où l'église commence à perdre du terrain, l'Etat recrutera agressivement des patriotes – ce qui entraînera un socialisme laïc. Là où l'État commence à perdre du terrain, l'église recrutera agressivement des adhérents – un résultat dans le fondamentalisme religieux, souvent teinté de libertarisme.
 
-Cependant, les philosophes qui s'opposent à *toute* erreur intellectuelle sont les ennemis jurés de tous les parasites qui se nourrissent d'illusions. Les «grandes vérités» de la physique éliminent le besoin d'agents surnaturels et rendent les miracles impossibles. Le pouvoir explicatif de la science éclipse complètement les fictions religieuses déguisées en savoir sur le monde physique.
+Cependant, les philosophes qui s'opposent à *toute* erreur intellectuelle sont les ennemis jurés de tous les parasites qui se nourrissent d'illusions. Les "grandes vérités" de la physique éliminent le besoin d'agents surnaturels et rendent les miracles impossibles. Le pouvoir explicatif de la science éclipse complètement les fictions religieuses déguisées en savoir sur le monde physique.
 
-The scientific method requires that every thesis be supported by evidence and rationality. Since there is no evidence for gods – and the very *idea* of gods is innately self-contradictory – the thesis “gods exist” cannot stand. Inevitably, the religious parasites attempt to defend their thesis by trying to split reality into “two realms” – the scientific and the spiritual. However, there is no evidence for the existence of this “spiritual” realm in the present, any more than there was for the parallel universe of Platonic “Forms” two thousand five hundred years ago.
+La méthode scientifique exige que chaque thèse soit soutenue par la preuve et la rationalité. Comme il n'y a aucune évidence des Dieux – et que chaque *idée* des dieux est intrinsèquement contradictoire – la thèse "Dieu existe" ne peut être endurée. Inévitablement, les parasites religieux tentent de défendre leur thèse en essayant de diviser la réalité en "deux royaumes" – le scientifique et le spirituel. Cependant, il n'y a aucune preuve de l'existence de ce domaine "spirituel" dans le présent, plus qu'il n'y en avait pour l'univers parallèle des "Formes" platoniciennes il y a deux mille cinq cents ans.
 
-Thus the establishment of consistent and universal truth necessarily limits and destroys the exploitive potential of illusion. In particular, the “great truths,” which are universal and consistent, make redundant and ridiculous the “middle truths” – which are in fact exploitive fantasies. We are familiar with the “middle truth” of religion; a few others will be examined and revealed here, some of which may shock you.
+Par conséquent, l'établissement d'une vérité cohérente et universelle limite nécessairement et détruit le potentiel d'exploitation de l'illusion. En particulier, les "grandes vérités" qui sont universelles et cohérentes, rendent les "demi-vérités" redondantes et ridicules – qui sont en réalité des fantasmes d'exploitation. Nous connaissons la «demi-vérité» de la religion: d'autres seront examinés et révélés ici, dont certains vous surprendront peut-être.
 
-### Effective Parasitism
+### Parasitisme Efficace
 
-The most effective parasites – or viruses – are those which fool the body into indifference. Our immune systems are designed to attack foreign substances within the body, isolating and killing them. We fear HIV and cancer in particular because they are able to bypass our immune systems. The same technique is used by intellectual parasites to disable the defence systems of those they prey upon.
+Les parasites les plus efficaces – ou virus – sont ceux qui trompent le corps dans l'indifférence. Nos systèmes immunitaires sont conçus pour attaquer les substances étrangères à l'intérieur du corps; les isoler et les tuer. Nous craignons le VIH, et le cancer en particulier parce qu'ils sont capables de contourner notre système immunitaire. La même technique est utilisée par les parasites intellectuels pour désactiver les systèmes de défense de ceux qui en profitent.
 
-If a stranger attacks you in an alley and demands your money, you will be horrified and appalled. You may fight back, you may run, or you may give him your wallet, but you would remain shocked, angry and frightened by the interaction. When you repeated the story, you would tell it in a way that reinforced the base and vile violation of your personal and property rights. Others would feel sympathy for your predicament, and would avoid said alley in the future.
+Si un étranger vous attaque dans une allée et demande de l'argent, vous serez horrifié et consterné. Vous pouvez vous défendre, vous pouvez courir, ou vous pouvez donner votre portefeuille, mais vous serez surpris, contrarié ou effrayé par l'interaction. Quand vous répétez l'histoire, vous direz d'une manière qui renforce la base et la vile violation de vos droits et de vos biens personnels. D'autres ressentiraient de la compassion pour leur situation et éviteraient cette ruelle à l'avenir.
 
-This is an example of a “little truth,” which is: “Stealing from me is wrong.”
+Ceci est l'exemple d'une "petite vérité" qui est: "Me voler est mauvais"
 
-However, when a government agent sends you a letter demanding that you pay him money, you may feel a certain indignity, but you would not relate the story with the same horror and indignation to your friends.
+Cependant, quand un agent du gouvernement vous envoie une lettre demandant le paiement, vous pouvez vous sentir indigné, mais vous ne raconterez pas l'histoire à vos amis avec la même horreur et l'indignation.
 
-This is an example of a “middle truth,” which obscures a “great truth,” which is that “stealing is wrong.”
+Ceci est un exemple d'une "demi-vérité" qui cache une "grande vérité" qui est "voler est mauvais".
 
-This book will focus on exposing and destroying these false “middle truths.” I believe that mankind suffers endlessly under the tyranny of false ethical “middle truths” which justify the destructive world-views of religious superstition, secular despotism and the cult of the family.
+Ce livre se concentrera sur l'exposition et la destruction de ces fausses "demi-vérités". Je crois que l'humanité souffre infiniment sous la tyrannie de fausses "demi-vérités" éthiques qui justifient les visions destructrices du monde de la superstition religieuse, du despotisme laïc et du culte de la famille.
 
-My thesis in this book is that in ethics, as in every other intellectual discipline, the great truths arise directly from the little truths. The disorienting fog of the “middle truths” is a hellish path to navigate, but it is worth struggling through, because the only fundamental alternative to truth is exploitation, destruction – and, inevitably, the untimely demise of millions.
+Ma thèse dans ce livre est que dans l'éthique, comme dans toute autre discipline intellectuelle, les grandes vérités proviennent directement des petites vérités. Le brouillard désorientant des "demi-vérités" est une manière infernale de naviguer, mais cela vaut la peine de se battre parce que la seule alternative fondamentale à la vérité est l'exploitation, la destruction – et, inévitablement, la disparition prématurée de millions de personnes.

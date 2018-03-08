@@ -2,16 +2,16 @@
 
 Genel olarak, *etik* veya *ahlak* uygulanabilir tercihleri nitelerken, *estetik* terimini uygulanamaz tercihlerden bahsederken kullanırız. Fiziksel teorileri doğrulamada bilimsel yöntemlerin kullanılması *evrensel olarak tercih edilebilir* (başka bir deyişle gereklidir), fakat *bilimsel yöntemleri kullanmamanın geçerli bir şiddet eylemi olmamasından* beri, bunu kullanmayanlar üzerinde zor kullanarak bilimsel yöntemleri *çarpıtamayız*. Doğası gereği şiddet içermeyen eylemler *atlatılabilir*. Eğer bir fizikçi bilimsel metodu bırakıp onun yerine tarot kartlarına danışmaya başlarsa, tercihlerini şiddet kullanmadan bana yansıtıyorsa, onu görmezden gelebilirim. Öte yandan bir tecavüzcü, kurbanına tercihlerini şiddetle uyguluyor.
 
-İlk olarak ETD'nin etik alanına odaklanmamıza rağmen, ETD şuan "genel terim" olarak görülebilir ve şu dalları içerir:
+İlk olarak E.T.D'nin etik alanına odaklanmamıza rağmen, E.T.D. şuan "genel terim" olarak görülebilir ve şu dalları içerir:
 
-- Bilimsel metot
+- Bilimsel yöntem
 - Mantık
 - Deneycilik
 - Tartışma
 - Dil
 - Etik
 
-Etik, ETD'nin *meydana getirilen* davranışla veya şiddetin uygulanmasıyla uğraşan bir alt kümesidir. Şiddet kullanımını haklı çıkaran veya reddeden her teori *ahlak* teorisidir, ve mantıksal tutarlılık ve ampirik kanıtın şartlarına tabidir.
+Etik, E.T.D'nin *meydana getirilen* davranışla veya şiddetin uygulanmasıyla uğraşan bir alt kümesidir. Şiddet kullanımını haklı çıkaran veya reddeden her teori *ahlak* teorisidir, ve mantıksal tutarlılık ve ampirik kanıtın şartlarına tabidir.
 
 Etik ve estetik arasında daha fazla ayrım yapabilmek için şu üç eyleme bakalım. İlk eylem *mantıksızlık*; ikincisi, *yalan söylemek*; üçüncüsü ise *cinayet*.[^9]
 
@@ -45,11 +45,11 @@ Kişisel tercihler hakkında kitap yazmakta çok az mantık vardır - ve toplums
 
 ### Seçenek
 
-Eğer senin akşam yemeği partisi davetini kabul edersem fakat muhabbeti çok saldırgan bulursam, kalkıp gitmeye karar verebilirim ve bir daha senden gelen diğer davetleri kabul etmeyebilirim. Bu kaçış ve/veya sakınma kapasitesi *ahlaki değerleri* *estetik*'ten ayıran esas karakteristiktir.
+Eğer senin akşam yemeği partisi davetini kabul edersem fakat muhabbeti çok saldırgan bulursam, kalkıp gitmeye karar verebilirim ve bir daha senden gelen diğer davetleri kabul etmeyebilirim. Bu kaçış ve/veya sakınma kapasitesi *ahlaki değerleri* *estetik*ten ayıran esas karakteristiktir.
 
-Bununla birlikte, eğer akşam yemeği davetinizi terketmeye karar verirsem, siz de oturduğunuz yerden sıçrayıp beni sandalyeme zincirlerseniz, şüphesiz ki artık özgürce terketme seçeneğine sahip olmamış olurum. Nezaketsizliğinizin açıkça saldırganlık haline haline geldiği bu an, estetik değerlerden ahlaki değerlere olan çizgiyi aştığınız andır.
+Bununla birlikte, eğer akşam yemeği davetinizi terk etmeye karar verirsem, siz de oturduğunuz yerden sıçrayıp beni sandalyeme zincirlerseniz, şüphesiz ki artık özgürce terk etme seçeneğine sahip olmamış olurum. Nezaketsizliğinizin açıkça saldırganlık haline haline geldiği bu an, estetik değerlerden ahlaki değerlere olan çizgiyi aştığınız andır.
 
-Eğer, tek eşlilik yemini ettikten sonra, eşimi aldatırsam, ve o da beni terketmeye karar verirse, ona kesinlikle yanlış yaptım, fakat onu aldatarak yapmış olduğum yanlış beni terketmesini önlemek için onu bodruma kilitlemekten çok farklı olacaktır. Genel olarak sadakatsizlik sebebiyle kocasını vuran bir eşin ahlaki olarak davrandığını düşünmeyeceğiz ama eğer tutukluluğundan kaçmak için şiddet kullanmak zorundaysa, bu üzücü gerekliliğin farkına varacağız. İlk durumda, eş kocasını *terk etme* seçeneği ve kapasitesine sahiptir, ve dolayısıyla şiddet bu duruma karşılık haksız bir cevap olacaktır; ikinci durumda, tutukluluk sebebiyle kocasını terk etme seçeneği saf dışı edilmiş olacaktır. Sadakatsizlik bir eşin seçim kapasitesini yok etmez; ama onu bodruma kilitlemek bu seçim kapasitesini yok eder.
+Eğer, tek eşlilik yemini ettikten sonra, eşimi aldatırsam, ve o da beni terk etmeye karar verirse, ona kesinlikle yanlış yaptım, fakat onu aldatarak yapmış olduğum yanlış beni terk etmesini önlemek için onu bodruma kilitlemekten çok farklı olacaktır. Genel olarak sadakatsizlik sebebiyle kocasını vuran bir eşin ahlaki olarak davrandığını düşünmeyeceğiz ama eğer tutukluluğundan kaçmak için şiddet kullanmak zorundaysa, bu üzücü gerekliliğin farkına varacağız. İlk durumda, eş kocasını *terk etme* seçeneği ve kapasitesine sahiptir, ve dolayısıyla şiddet bu duruma karşılık haksız bir cevap olacaktır; ikinci durumda, tutukluluk sebebiyle kocasını terk etme seçeneği saf dışı edilmiş olacaktır. Sadakatsizlik bir eşin seçim kapasitesini yok etmez; ama onu bodruma kilitlemek bu seçim kapasitesini yok eder.
 
 ### Kaçınma
 
@@ -73,7 +73,7 @@ Benzer bir şekilde, organize suç temsilcisi evime gelir ve düzenli koruma par
 
 ### Etik, Estetik ve Önlenebilirlik
 
-Diyelim ki sen ve ben belki bir yerde saat altıda buluşmak için anlaştık fakat ben yarım yarım saat geciktim. Tepkiniz ne olurdu? İlk başta biraz rahatsız olabilirsin. Eğer sana, ölmek üzere olan bir insana kalp masajı yaparak hayatını kurtardığım için geciktiğimi söylersem senin rahatsızlığın takdire dönüşür. Öte yandan sana, bilgisayar oyunu oynadığım için geciktiğimi söylersem senin rahatsızlığın muhtemelen gittikçe artardı. Ölen birinin CPR'ye ihtiyac duyması tamamen beklenmedik bir durumdur ve bu nedenle hemen hemen kaçınılmazdır - bir video oyunu oynamaya devam etmek kolaylıkla önlenebilir ve sizin adınıza bir ilgi eksikliği olduğunu açıkça gösterir.
+Diyelim ki sen ve ben belki bir yerde saat altıda buluşmak için anlaştık fakat ben yarım yarım saat geciktim. Tepkiniz ne olurdu? İlk başta biraz rahatsız olabilirsin. Eğer sana, ölmek üzere olan bir insana kalp masajı yaparak hayatını kurtardığım için geciktiğimi söylersem senin rahatsızlığın takdire dönüşür. Öte yandan sana, bilgisayar oyunu oynadığım için geciktiğimi söylersem senin rahatsızlığın muhtemelen gittikçe artardı. Ölen birinin C.P.R'ye ihtiyaç duyması tamamen beklenmedik bir durumdur ve bu nedenle hemen hemen kaçınılmazdır - bir video oyunu oynamaya devam etmek kolaylıkla önlenebilir ve sizin adınıza bir ilgi eksikliği olduğunu açıkça gösterir.
 
 Etik kararların merkezinde bulunan durumlardan *avoid* bu kapasitedir. Evinde tesadüfen beklenmeyen bir misafir tarafından tecavüze uğrayan bir kadın şüphesiz dehşet verici bir suçun tam kurbanıdır. Kolej partisinde körkütük sarhoş olmuş bir kadın tecavüze uğrarsa ve masanın üstünde çıplak bir şekilde dans edip kendini sunarsa bu daha karmaşık bir durumdur. Açıkça tecavüz, bir kere başladığında, şiddetle zorlandığından, kaçınılamaz olacaktır, bununla birlikte, tecavüz olasılığını arttıracak durumlardan kaçınılabilir.
 
@@ -83,6 +83,6 @@ Açıkça, bu kaçınma konusu ahlaki sebep ve sonuç değerlendirmelerimizin me
 
 İntihara meyilli insanların polis ile münakaşa çıkardığı, sonrasında vurulmak için silaha ulaşmaya çalışır gibi göründüğü "polis tarafından ölüm" olarak bilinen bir olgu var. Bu "kurban olma" durumunun hemen hemen garanti edildiği takip eden durumların uç bir örneğidir. Bu ayrıca, alkolün kocasının şiddet huyunu alevlendireceğini gayet iyi bir şekilde bilen bir eşin sözlü şekilde içkili kocasına saldırdığı, ailevi durumlarda da gerçekleşebilir. Bu gibi durumlarda, parkta cüzdanını kaybeden adamın, okul partisinde saldırıya uğramış kadının, ya da kocası tarafından dövülmüş kadının halinden anlamalıyız ama aynı zamanda onların rollerini ya da suça iştirak eden yanlışlarında çektikleri acıları düşünerek dikkate değer sorularımız olmalı. Adaletli olmak adına, cüzdanını silah zoruyla çaldıran bir insan ile, cüzdanını halka açık bir yerde bırakan bir insanı ayırt etmeliyiz. İki insanın da, elbette, cüzdanı çalındı, ama ikisini eşit derecede hesap verebilir tutmak hemen hemen hiç makul olmayacaktır.
 
-UPB yapısı bu ahlaki standartları anlamamıza, sınıflandırmamıza ve genişletmemize yardımcı olabilir mi?
+U.P.B. yapısı bu ahlaki standartları anlamamıza, sınıflandırmamıza ve genişletmemize yardımcı olabilir mi?
 
 [^9]: Lütfen aşağıdaki örneklerin delil olmadığını, bunun yerine geçerli bir etik teorinin kapsayıcı ve açıklanabilmesi gereken durumlar olduğunu unutmayınız. Biz kısa süre içinde kesin kanıtlar alacağız.

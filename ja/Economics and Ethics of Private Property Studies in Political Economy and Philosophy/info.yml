@@ -99,8 +99,89 @@ content_files:
   - 
     - 03_p02.md
     - ""
+  -
+    - 03_p02_ch09.md
+    - ""
+  -
+    - 03_p02_ch09_01.md
+    - ""
+  -
+    - 03_p02_ch09_02.md
+    - ""
+  -
+    - 03_p02_ch09_03_01.md
+    - ""
+  -
+    - 03_p02_ch09_03_02.md
+    - ""
+  -
+    - 03_p02_ch09_04.md
+    - ""
+  -
+    - 03_p02_ch10.md
+    - ""
+  -
+    - 03_p02_ch11.md
+    - ""
+  -
+    - 03_p02_ch11_1.md
+    - ""
+  -
+    - 03_p02_ch11_2.md
+    - ""
+  -
+    - 03_p02_ch11_3.md
+    - ""
+  -
+    - 03_p02_ch12.md
+    - ""
   - 
     - 03_p02_ch13.md
+    - ""
+  -
+    - 03_p02_ch14.md
+    - ""
+  -
+    - 03_p02_ch14_1.md
+    - ""
+  -
+    - 03_p02_ch14_2.md
+    - ""
+  -
+    - 03_p02_ch14_3.md
+    - ""
+  -
+    - 03_p02_ch15.md
+    - ""
+  -
+    - 03_p02_ch15_01.md
+    - ""
+  -
+    - 03_p02_ch15_02.md
+    - ""
+  -
+    - 03_p02_ch15_03.md
+    - ""
+  -
+    - 03_p02_ch15_04.md
+    - ""
+  -
+    - 03_p02_ch15_05.md
+    - ""
+  -
+    - 04_apx.md
+    - ""
+  -
+    - 04_apx_01.md
+    - ""
+  -
+    - 04_apx_02.md
+    - ""
+  -
+    - 04_apx_03.md
+    - ""
+  -
+    - 04_apx_04.md
     - ""
 translation:
   language: ja
@@ -130,7 +211,7 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "Hans-Hermann Hoppe"
     rule: "author"
   - 
     person: [ ]

@@ -1,88 +1,105 @@
-## UPB: Ethics Or Aesthetics?
+## یو پی بی:اخلاقیات یا زیبایی شناختی
 
-In general, we will use the term *aesthetics* to refer to non-enforceable preferences – universal or personal – while *ethics* or *morality* will refer to enforceable preferences. It is *universally preferable* (i.e. required) to use the scientific method to validate physical theories, but we cannot use force to *inflict* the scientific method on those who do not use it, since *not using the scientific method is not a violent action*. Non-violent actions by their very nature are *avoidable*. If a physicist stops using the scientific method, but instead starts consulting tarot cards, he is not violently inflicting his choice on me, and I can avoid him. A rapist, on the other hand, is violently inflicting his preferences upon his victim.
+به طور کلی ما برای مراجعه کردن به برتری های غیر قابل اجرا،کلی یا شخصی، از اصطلاح زیبایی شناختی استفاده خواهیم کرد.در حالیکه اخلاقیات به برتری های قابل اجرا مراجعه خواهد کرد. عموما استفاده کردن از تئوری های فیزیکی معتبر از روش علمی برتر است.اما ما نمیتوانیم با استفاده از جبر شیوه علمی را به افرادی که از آن استفاده نمی کنند، تحمیل کنیم.زیرا استفاده نکردن از روش علمی یک اقدام اجباری نیست.اقدامات اختیاری به وسیله طبیعتشان اجتناب ناپذیر هستند.اگر یک فیزیکدان استفاده کردن از روش علمی را متوقف کند اما در عوض مشورت گرفتن از کارت های تاروت را شروع کند انتخاب وی بر روی من به هیچ عنوان تحمیل کننده نیست،و من میتوانم از او دوری کنم.از طرفی دیگر اولویت های یک متجاوزگر بر روی قربانی اش به شدت تحمیل کننده است.
 
-Although we first focused on UPB in the realm of ethics, UPB can now be seen as an “umbrella term,” which includes such disciplines as:
+اگر چه ابتدا ما بر روی یو پی بی در حوزه اخلاقیات تمرکز کردیم،اما در حال حاضر یو پی بی  می تواند به عنوان یک اصطلاح محافظ دیده شود که شامل موارد زیر است:
 
-- The scientific method
-- Logic
-- Empiricism
-- Debating
-- Language
-- Ethics
+- شیوه علمی
+- استدلال
+- تجربی نگری
+- مباحثه کردن
+- زبان
+- اخلاقیات
 
-Ethics is the subset of UPB which deals with *inflicted* behaviour, or the use of violence. Any theory that justifies or denies the use of violence is a *moral* theory, and is subject to the requirements of logical consistency and empirical evidence.
+اخلاقیات زیر مجموعه یو پی بی است،که با رفتار زیان بار یا استفاده از خشونت سروکار دارد.هر تئوری که استفاده از خشونت را رد یا تایید می کند یک تئوری اخلاقی است، و موضوع آن ثبات منطقی نیازمندی ها و مدرک تجربی است.
 
-Let us look at three actions, to help us further distinguish between ethics and aesthetics. The first action is *irrationality*; the second is *lying*; the third is *murder*.[^9]
+اجازه بدهید نگاه کنیم به سه اقدامی که علاوه برکمک کردن به ما قدرت تشخیص بین اخلاقیات و زیبایی شناختی را می دهد.اولین اقدام "غیر عقلانی" دومین "دروغگویی" و سومین اقدام "آدمکشی" است.
 
-### Irrationality
+### غیر عقلانی
 
-Let’s say that you and I are having a debate about the existence of God. After I put forth my arguments, you clap your hands over your ears, singing out that God is telling you that He exists, and therefore all of my arguments mean nothing. Clearly, your response to my position is irrational. However annoying I might find your behaviour, though, it would scarcely seem reasonable for me to vent my frustration by pulling out a gun and shooting you. I believe that it is *universally preferable* to use logic and evidence rather than rely on voices in our heads, but this universal preference is not reasonably enforceable in the *physical* sense, through violence or the threat thereof.
+بیایید بگوییم من و شما در حال بحث کردن درباره موجودیت خداوند هستیم.بعد از اینکه چهار دلیل  می آورم شما شروع به دست زدن بالای سرتان  می کنید و خداوند با آوازی بلند به شما می گوید که او وجود دارد.بنابراین تمام استدلال های من یعنی چی. واکنش شما به وضعیت  من نامعقول است گرچه ممکن است من از رفتار شما آزرده خاطر شوم. گرچه این کار برای من خیلی سخت و منطقی است که برای بروز ناامیدی ام ،ماشه را بکشم و به شما تیراندازی کنم.معتقدم که استفاده از دلیل و مدرک عموما برتر است از تکیه کردن برروی صدایی که درسرمان است.اما به طور منطقی برتری جهانی در حس فیزیکی، تمام خشونت و تهدید های وابسته به آن قابل اجرا نیست.
 
-### Lying
+### دروغگویی
 
-Let’s say that you and I set the rules for a debate, and we both agree to judge the question of the existence of God according to reason and evidence. If, as the debate continues, you fall back to a position of blind faith, and reject my arguments *despite* their rationality and evidence, you are not keeping your word. In other words, you were lying when you said that the question would be decided by reason and evidence.
+بیایید بگوییم که من و شما قوانینی را برای یک بحث تنظیم میکنیم و هر دوی ما موافق داوری کردن سوال موجودیت خداوند بر اساس دلیل و مدرک هستیم.اگر هنگامیکه بحث ادامه پیدا میکند شما به سمت یک عقیده بی بصیرت تغییر موضع دهید و استدلال های من را با وجود خرد پذیری و مدرک رد کنید شما آدمی نیستید که به روی حرف خود بمانید.به عبارت دیگر شما داشتید دروغ میگفتید که سوال با دلیل و مدرک تصمیم گیری شود.
 
-The difference between these two situations (irrationality versus lying) is the difference between a contractual and a non-contractual arrangement. If I hand you one hundred dollars and then walk away, I cannot justly come up to you in a year and say that you now owe me one hundred dollars, because it was a loan. If, on the other hand, you agree to pay me back the money in a year, and then fail to do so, that is quite a different situation.
+تفاوت بین این دو موقعیت،غیر عقلانی در مقابل دروغگویی تفاوت بین یک آرایش پیمانی و یک آرایش غیر پیمانی است.اگر من به شما صد دلار بدهم و بعد بروم.انصافا نمیتوانم با شما دریک سال مطرح کنم،و می گویم که شما به من صد دلار بدهکارید.چون این پول قرض بود.اگر از طرفی دیگر شما بپذیرید که پول را دریک سال به من برگردانید و بعد شکست بخورید در انجام آن، در واقع این یک موقعیت کاملا متفاوت است.
 
-In the example of “lying,” although you have clearly broken your word, and wasted my time, it would not seem to be either moral or reasonable for me to pull out a gun and shoot you.
+در تمثیل دروغگویی گرچه شما به طور آشکار قولتان را شکستید و وقت من را هدر دادید،به نظر نمی رسد بودن اخلاقیات و منطق به من اجازه کشیدن ماشه و تیراندازی به شما را بدهد.
 
-A reasonable moral theory should be able to explain why this is the case.
+یک تئوری اخلاقی منطقی باید قادر به توضیح باشد که چرا این کار مسئله است.
 
-### Murder
+### آدمکشی
 
-If you rush at me with a knife raised, few people would argue with my right to defend myself. If shooting you were the only way that I could reasonably ensure my own safety, it would generally be considered a regrettable necessity.
+اگر شما یا یک چاقوی برجسته به من حمله کنید، تعداد خیلی خیلی کمی از مردم از حق من در دفاع از خودم حمایت می کردند.اگر تیراندازی به شما تنها راهی بود که من می توانستم جانم را در سلامت تضمین کنم به طور کلی یک الزام تاسف آور ملاحظه می شد.
 
-### Requirements For Ethics
+### نیازمندی ها برای اخلاقیات
 
-Certain preconditions must exist, or be accepted, in order for ethical judgements or theories to have any validity or applicability. Clearly, choice and personal responsibility must both be accepted as axioms. If a rock comes bouncing down a hill and crashes into your car, we do not hold the rock morally responsible, since it has no consciousness, cannot choose, and therefore cannot possess personal responsibility. If the rock dislodged simply as a result of time and geology, then no one is responsible for the resulting harm to your car. If, however, you saw me push the rock out of its position, you would not blame the rock, but rather me. To add a further complication, if it turns out that I dislodged the rock because another man forced me to at gunpoint, you would be far more likely to blame the gun-toting initiator of the situation rather than me.
+به ترتیب برای داوری های اخلاقی یا داشتن کاربرد پذیری یا اعتبار برای تئوری ها پیش شرط های شخص باید وجود داشته باشد.انتخاب و مسئولیت شخصی،هردو باید به عنوان اصل بدیهی آشکارا پذیرفته شود.اگر یک سنگ می آید و از یک تپه به پایین می پرد و با ماشین شما تصادف می کند،ما مسئولیت اخلاقی سنگ را به عهده نمی گیریم.چرا که آن آگاهی ندارد و نمیتواند انتخاب کند.بنابراین نمی تواند مسئولیت شخصی داشته باشد.اگر سنگ به راحتی برآیند زمان و دانش زمین شناسی را رها کند ،هیچکس مسئول برای نتیجه خسارت ماشین شما نیست.حنی اگر شما من را دیدید که سنگ را به جلو هل می دادم.شما سنگ را سرزنش نمی کردید اما من را بله.اضافه کردن یک پیچیدگی بیشتر:اگر این اتفاق بیفتد بدین شکل که من سنگ را رها کردم زیرا شخص دیگری من را با اسلحه مجبور کرد احتمالا شما دوری می کردید از سرزنش فرد مسلح در آن شرایط تا من.
 
-As we have discussed above, entering into any debate requires an acceptance of the realities of choice, values and personal responsibility. However, these factors are also present in the choice of the colour of paint for a room, yet we would scarcely say that selecting a hue is a *moral* choice. Thus there must be other criteria which must be present in order for a choice or proposition to be moral.
+همان طورکه در بالا بحث کردیم به وجود آوردن هر بحث نیازمند پذیرش انتخاب حقیقت ها،ارزش ها و مسئولیت شخصی است.اگر چه این فاکتورها معرفی کننده در انتخاب رنگ نقاشی  برای یک اتاق هستند، هنوز ما به سختی می گوییم که انتخاب کردن یک فام انتخابی اخلاقی است.
 
-We all have preferences – from the merely personal (“I like ice cream”) to the socially preferable (“It is good to be on time”) to universal morality (“Thou shalt not murder”).
+بدین سان باید موضوع دیگری وجود داشته باشد که به طور درست اماده برای یک انتخاب یا موضوع بودن اخلاقیات باشد.ما همه برتری ها را داریم.از صرفا شخصی(من بستنی دوست دارم) تا برتری اجتماعی(وقت شناس بودن خوب است) تا اخلاق جهانی(تو نباید قاتل باشی).
 
-There is little point writing a book about personal preferences – and we can turn to Ann Landers for a discussion of socially preferable behaviour – here, then, we will focus on the possibility of *Universally Preferable Behaviour*.
+امتیازی کوچک در نوشتن یک کتاب درباره ی برتری های شخصی وجود دارد،و ما میتوانیم  به آنلندر برای یک بحث  رفتار برتری های اجتماعی برگردیم.اینجا ما بر روی احتمال رفتاری برتری عمومی تمرکز خواهیم کرد.
 
-### Choice
+### حق انتخاب
 
-If I accept your invitation to a dinner party, but find the conversation highly offensive, I can decide to get up and leave – and I can also choose to never accept another invitation from you. This capacity for escape and/or avoidance is an essential characteristic differentiating *aesthetics* from *ethics*.
+اگر من دعوت به مهمانی شام شما را قبول کنم ،اما مکالمه بسیار توهین آمیز پیدا می کنیم، من می توانم تصمیم بگیرم و بلند شوم و بروم ، و همچنین میتوانم هرگز پیشنهاد دیگری را قبول نکنم. این ظرفیت برای فرار و یا اجتناب افتراق مشخصه ضروری است و زیبایی شناسی از اخلاق میباشد
 
-If, however, when I decide to leave your dinner party, you leap up and chain me to my chair, clearly I no longer have the free choice to leave. This is the moment at which your rudeness becomes overt aggression, and crosses the line from aesthetics to ethics.
+اگر، با این حال، وقتی تصمیم می گیرم که مهمانی شام را ترک کنم، من را سرحال می آورید و من را به صندلی خود متصل
+می کنید، واضح است که من دیگر مجبور نیستم رفتن را انتخاب کنم. این لحظه ای است که در آن پرخاشگری آشکار می شود
+و از زیبایی شناسی به اخلاق عبور می کند.
 
-If, after vowing monogamy, I cheat on my wife, and she decides to leave me, I have certainly done her wrong, but the wrong that I have done by cheating would be very different from the wrong I would do if I lock her in the basement to prevent her from leaving. We would not generally consider a wife who shoots her husband for infidelity to be acting morally, but we would recognise the regrettable necessity if she had to use violence to escape from her imprisonment. In the first situation, the wife has the free choice and capacity to *leave* her husband, and thus violence would be an unjust response to the situation; in the second situation, her choice to leave her husband has been eliminated through imprisonment. Infidelity does not destroy a partner’s capacity to choose; locking her in the basement does.
+اگر پس از عهد به داشتن یک همسر ، من همسر خود را فریب می دهم و تصمیم می گیرد من را ترک کند، من مطمئنا
+اشتباه کرده ام، اما اشتباهی که من با تقلب انجام دادم بسیار متفاوت از اشتباه است اگر من او را در زیرزمین حس کنم
+برای جلوگیری از خروج از خانه . ما به طور کلی یک زن را نمی بینیم که شوهرش را به خاطر خیانت به عمل اخلاقی
+در نظر بگیرد، اما اگر او مجبور به استفاده از خشونت برای فرار از زندانش باشد، ضرورت پشیمانی را می شناسیم. در
+شرایط اول، همسر انتخاب و ظرفیت آزاد دارد شوهرش را ترک می کند و در نتیجه خشونت واکنش ناعادلانه ای به
+وضعیت می دهد؛ در موقعیت دوم، انتخاب او برای ترک شوهرش از طریق زندان حذف شده است. وفاداری ظرفیت
+شریک را انتخاب نمی کند؛ حبس کردن او در زیرزمین ، می کند.
 
-### Avoidance
+### اجتناب از
 
-If you and I are both standing at the top of a cliff, and I turn to you and say, “Stand in front of me, so I can push you off the cliff,” what would your response be? If you do voluntarily stand in front of me, and I then push you off the cliff, this would more likely be considered a form of suicide on your part, rather than murder on my part. The reason for this is that you can very easily *avoid* being pushed off the cliff, simply by refusing to stand in front of me.
+اگر شما و من هر دو در بالای صخره ایستاده، و من به شما به نوبه خود بگویم : "ایستاده اید در مقابل من، بنابراین من
+می توانم شما را از صخره پرت کنم،" پاسخ شما چه خواهد شد؟ اگر شما به صورت داوطلبانه در مقابل من ایستاده اید، و
+سپس شما را از صخره به پایین پرت کنم، این به احتمال زیاد به عنوان یک نوع خودکشی از جانب شما به جای قتل من
+است. دلیل این امر این است که شما می توانید به راحتی *جلوگیری کنید* که از صخره ها رانده نشوید، به سادگی با رد
+کردن ایستاده در مقابل من.
 
-Similarly, if I meet you in a bar, and say: “I want you to come back to my place, so I can tie you to the bed and starve you to death,” if you do in fact come back to my place, it is with the reasonable knowledge that your longevity will not be enhanced by your decision. On the other hand, if I slip a “date rape” drug into your drink, and you wake up tied to my bed, it is clear that there is little you could have done to avoid the situation.
+به همین ترتیب، اگر شما را در یک نوار دیدار می کنم و می گویم: "من می خواهم شما را به محل خود بازگردانم،
+بنابراین می توانم شما را به تخت بسته و شما را به مرگ بسپارم"، اگر واقعا به محل من بازگردید، با دانش معقول است
+که طول عمر شما با تصمیم شما افزایش نخواهد یافت. از سوی دیگر، اگر یک بار مصرف "مصرف روزانه " را به
+نوشیدنی خود بسپارم و از خواب بیدار شوم به تخت من گره خورده است، روشن است که برای جلوگیری از این
+وضعیت، شما می توانید کمی انجام دهید.
 
-This question of *avoidance* is key to differentiating aesthetics from ethics. Aesthetics applies to situations that may be unpleasant, but which do not eliminate your capacity to choose.
+این سوال از اجتناب کلید تشخیص زیبایی شناسی از اخلاق است. زیبایی شناسی به شرایطی که ممکن است ناخوشایند
+باشد، اعمال می شود، اما ظرفیت انتخاب شما را از بین نمی برد.
 
-#### Avoidance And Initiation
+#### اجتناب و شروع
 
-There is a particular issue with avoidance that will come up later in this book, which is worth clearing up here beforehand.
+یک مسئله خاص با اجتناب است که بعدا در این کتاب آمده است، که قبل از آن ارزش آن را دارد.
 
-If I live on a high mountaintop five thousand kilometres away from you, and send you an e-mail telling you that if you ever walk in front of my house, I am going to shoot you, it is relatively easy for you to avoid this situation. My threat of force is certainly immoral, but questions would surely be raised if you immediately jumped on a plane, climbed my mountain and slowly strolled in front of my house.
+اگر در پنج هزار کیلومتر دور از شما زندگی کنم و به شما یک ایمیل ارسال کرده و بگویم که اگر از نزدیکی خانه من عبور کنید، من به شما شلیک میکنم، این وضعیت نسبتا آسان است، تهدید به زور من قطعا غیر اخلاقی است، اما اگر بلافاصله با یک هواپیما بپرید، سوالات دیگری مطرح میشود، از کوه من صعود کرده و به آرامی از خانه ام عبور کرده اید .
 
-On the other hand, if you live on a dead-end street, and I tell you that if you take that street to get home, I will shoot you, your capacity to avoid this situation becomes significantly limited. You could certainly tunnel into your house, or jump over a bunch of backyard fences, but all of this would be considerably inconvenient.
+از سوی دیگر، اگر شما در خیابان بن بست زندگی می کنید، و به شما بگویم که اگر شما از این خیابان به خانه بروید، من به شما شلیک می کنم، توانایی شما برای جلوگیری از این وضعیت به طور قابل توجهی محدود می شود. شما مطمئنا می توانید به خانه خود تونل زده ، و یا با پرش از مجموعه ای از حیاطهای خلوت ، اما همه اینهابه طور قابل توجهی،  ناخوشایندخواهد بود
 
-In a similar manner, if a representative of organised crime comes to my house and threatens to burn it down if I do not pay regular protection money, I can avoid that specific threat by moving to another continent, but that would seem like a rather unjust way to deal with the situation, since I must now initiate action in order to avoid the threat.
+به همین شیوه، اگر یک نماینده از جرایم سازمان یافته به خانه من بیاید و اگر پول پرداخت منظم را پرداخت نکنم، تهدید کند که ان را میسوزاند، من می توانم از تهدید خاصی که با رفتن به قاره ی دیگر می توانم جلوگیری کنم ،اما این به نظر می رسد که یک روش غلط است ؛ با این وضعیت من اکنون باید اقدامات لازم را برای جلوگیری از تهدید انجام دهم.
 
-For the moment, we can assume that *any* threat of the initiation of violence is immoral, but the question of avoidance – particularly the *degree* of avoidance required – is also important. In general, the more that a threat interferes with the normal course of daily actions, the more egregious it is. If I have to fly to another continent in order to walk in front of your house, that is scarcely an everyday activity. If I am threatened with violence for walking down the only road towards my own home, that is a far worse intrusion upon my liberties. If I have to take specific and unprecedented action to trigger a threat, that is one thing – if I trigger the threat through normal everyday activities, that is quite another. Telling you I will slap you if you stand on your head on the dark side of the moon is scarcely a threat – telling you I will slap you if you *breathe* is.
+در حال حاضر می توانیم فرض کنیم که هر  تهدید آغاز خشونت غیر اخلاقی است، اما مسئله اجتناب، مخصوصا درجه اجتناب از ضرورت، مهم است. به طور کلی، هر تهدید، با گذر زمان از اقدامات روزمره، آن فجیع تر است. اگر من برای رفتن به جلوی خانه خود به قاره دیگر پرواز کنم، این کار به ندرت یک فعالیت روزمره است. اگر برای رفتن به خانه خودتنها راه تهدید به خشونت باشد، این یک نفوذ به مراتب بدتر از آزادی های من است.اگر من باید اقدام خاص و بی سابقه ای را برای ایجاد یک تهدید انجام دهم، این یک چیز است ،اگر من تهدید را از طریق فعالیت های روزمره عادی به ارمغان بیاورم، این کاملا متفاوت است. اگر شما ایستادن روی سرتان در قسمت تاریک ماه، تهدیدی به حساب نمی آید ، به شما می گویم که اگر شما نفس بکشید، به شما حمله می کنم.
 
-### Ethics, Aesthetics, And Avoidability
+### اخلاق، زیبایی شناسی واجتناب ناپذیر بودن
 
-Let’s say that you and I agree to meet at a certain location at six o’clock sharp – but then I show up half an hour late. What would your reaction be? At first, you may be a little annoyed. If I tell you that I was delayed because I stopped to give a dying man CPR and saved his life, your annoyance would likely be replaced with admiration. On the other hand, if I tell you that I am late because I was playing a video game, your annoyance would probably increase. A dying man’s need for CPR is unexpected, and therefore pretty much unavoidable – continuing to play a video game is easily avoidable, and clearly shows a lack of consideration for you.
+بیایید بگوئیم که شما و من موافق هستیم که در ساعت 6 صبح در مکان مشخصی ملاقات کنیم اما بعداز نیم ساعت تاخیر حاضر می شوم واکنش شما چیست؟ در ابتدا ممکن است شما کمی ناراحت باشید. اگر به شما بگویم که من به تأخیر افتاده است را نجات دهم و زندگی اش را نجات دادم ، احتمالا شما آن سی پی آر بودم چون متوقف شدم تا مردی را که در حال مرگ را با تحسین جایگزین می کند. از سوی دیگر، اگر به شما بگویم که من تاخیر داشتم چون بازی ویدیویی انجام دادم، غیرمنتظره است و بنابراین بسیار اجتناب ناپذیر است ، ادامه سی پی آر  احتمالا ناراحتی شما افزایش می یابد. نیاز مردن به بازی کردن یک بازی ویدئویی به راحتی قابل اجتناب است و به وضوح عدم توجه به شما را نشان می دهد..
 
-It is this capacity to *avoid* situations that forms a central root of ethical judgements A woman raped by a random intruder in her own home is undoubtedly the complete victim of a terrible crime. A woman who gets raped after getting blind drunk at a frat party and dancing naked on a tabletop presents a more complicated case. Clearly the rape, once under way, cannot be avoided, since it is being violently inflicted – however, situations which increase the likelihood of rape can be avoided.
+این ظرفیت این است که از وضعیت هایی که موجب ریشه های قضایی اخلاقی می شود، جلوگیری شود. زنانی که توسط یک مهاجم تصادفی در خانه خود مورد تجاوز قرار میگیرند، بدون شک قربانی کامل جرم وحشتناک اند. یک زن که بعد مورد تجاوز قرار می گیرد و رقص برهنه روی میز می زند، یک پرونده پیچیده فرات از گرفتن کور مستی در یک حزب تر را ارائه می دهد. واضح است که تجاوز، زمانی که در حال انجام است، نمی تواند اجتناب شود، زیرا آن را به شدت مورد آزار قرار می دهد، اما شرایطی که موجب افزایش احتمال تجاوز می شود، می تواند اجتناب شود.
 
-If someone breaks into my house and takes my wallet at gunpoint, I have every right to be outraged. If, however, I leave my wallet sitting on a park bench for a week, do I have the same right to be outraged when I return to find it gone? Instinctively we feel that this would seem to be less justified.
+اگر کسی به خانه من بیاید و کیف پول من را در دستبرد اسلحه بگیرد، من هر گونه حق حقه بازی خواهم داشت. اگر، با این وجود، کیف پول من در یک هفته و در یک بار نشستن روی نیمکت پارک، از دست برود آیا من همین حق را دارم که وقتی به عقب برمی گردم به آن برسم؟ به طور غیرمستقیم ما احساس می کنیم این به نظر می رسد کمتر توجیه شده است.
 
-Clearly, this question of avoidance is central to our moral evaluation of cause and effect. Illnesses that strike without warning, and which cannot be prevented, frighten us far more than those that we can avoid. We can minimise the chances of getting lung cancer by refraining from smoking, just as we can help prevent skin cancer by using sunscreen, and avoid broken bones by eschewing extreme sports. Similarly, we can do much to avoid crime through some fairly simple habits, such as choosing moral companions, avoiding locales and situations where crime is more probable, refraining from substance abuse and so on.
+واضح است که این مسئله اجتناب از نظر علمی و ارزیابی اخلاقی ما مهم است. بیماری هایی که بدون هشدار اعتصاب می کنند و قابل پیشگیری نیستند، ما را بیش از آنچه که می توانیم از آن فرار کنیم، میترسانند. ما می توانیم شانس ابتلا به سرطان ریه را از طریق ترک سیگار به حداقل برسانیم، درست همانطور که می توانیم با استفاده از کرم های ضد آفتاب از پیشگیری سرطان پوست جلوگیری کنیم و با جلوگیری از ورزش های شدید از استخوان های شکسته جلوگیری کنیم. به طور مشابه، ما می توانیم برای جلوگیری از جرم و جنایت از طریق برخی عادات نسبتا ساده، از قبیل انتخاب همراهان اخلاقی، اجتناب از مناطق و موقعیت هایی که ممکن است جرم و جنایت بیشتر باشد، جلوگیری از سوء مصرف مواد و غیره، می توانیم انجام دهیم.
 
-There is a phenomenon known as “death by cop,” wherein suicidal people provoke an altercation with the police, then pretend to reach for a gun in order to get shot. This is an extreme example of pursuing situations where “victimisation” is almost guaranteed. This can also occur in domestic situations, wherein a wife will verbally attack a drunken husband, knowing perfectly well that alcohol inflames his violent temper. In these situations, we can have some sympathy for the man whose wallet is stolen in the park, or the woman who is attacked at the frat party, or the wife who is beaten by her husband – but at the same time, we would have some significant questions regarding their role or complicity in the wrongs they have suffered. To be just, we must differentiate between a man whose wallet is stolen at gunpoint, and a man who leaves his wallet lying around in a public place. Both men have had their wallets stolen, to be sure, but it would scarcely seem reasonable to hold them equally accountable.
+یک پدیده به نام "مرگ توسط پلیس" وجود دارد که در آن افراد کشته میشوند که باعث ایجاد اختلال در پلیس می شوند، سپس وانمود می شود که برای گرفتن یک اسلحه دستگیر شوند. این یک مثال بسیار جالب برای پیگیری شرایطی است که "قربانی کردن" تقریبا تضمین شده است. این نیز می تواند در شرایط داخلی اتفاق بیفتد، در حالی که یک همسر به صورت شفاهی حمله به یک شوهر مست خواهد کرد، کاملا دانستن این که الکل باعث خلق و خوی خشن خود می شود. در چنین شرایطی، می توانیم برخی از همدلی را برای مردی که کیف پول آن در پارک به سرقت رفته است، یا زنانی که مورد حمله قرار گرفته اند یا همسر که توسط شوهرش مورد ضرب و شتم قرار گرفته اند، داشته باشند، فرات  در حزب اما در عین حال، برخی از سوالات مهم در مورد نقش خود و یا مشارکت در اشتباهات آنها رنج می برند. به راستی، ما باید بین مردانی که کیف پولشان به زور اسلحه به سرقت رفته ، و مردی که کیف پول خود را در یک مکان عمومی قرار می دهد، تمایز قائل شویم.؟ هر دوی آنها کیف پول هایشان به سرقت رفته ، تا مطمئن شوند، اما به نظر می رسد منطقی نیست که آنها را به همان اندازه مسئولیت پذیر باشند .
 
-Can the UPB framework help us understand, classify and extend these moral standards?
+آیا چارچوب یو پی بی می تواند به ما در درک، طبقه بندی و گسترش این استانداردهای اخلاقی کمک کند؟
 
-[^9]: Please note that the examples below are not proofs, but rather situations that a valid ethical theory should be able to encompass and explain. We will get to the actual proofs shortly.
+[^9]: لطفا توجه داشته باشید که مثال های زیر اثبات نیستند، بلکه شرایطی هستند که یک نظریه معتبر اخلاقی باید  بتواند آن را دربرگیرد و توضیح دهد. ما به زودی به اثبات واقعی می رسیم.

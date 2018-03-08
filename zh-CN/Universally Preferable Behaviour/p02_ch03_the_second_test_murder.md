@@ -1,39 +1,39 @@
-## The Second Test: Murder
+## 第二个考验：谋杀
 
-Let us now test the UPB framework against moral propositions regarding *murder*, which here is defined as killing intentionally and with premeditation, not in self-defence.
+让我们现在测试框架和道德命题的UPB谋杀，在这里被定义为故意杀人和预谋，不是自卫。 
 
-Since we spent so much time dissecting the question of rape – and since many of the same arguments will apply here – this analysis can be much briefer.
+因为我们花了这么多时间解剖油菜 - 问题，因为许多相同的论点将在这里 - 这个分析可以更简短。 
 
-Let us return to our two moral guinea pigs sitting in a room – we’ll call them Bob and Doug.
+让我们回到坐在房间里的两只道德豚鼠身上，我们称他们为鲍伯和道格。
 
-If murder is morally good, then clearly *refraining* from murder is immoral. Thus the only chance that Bob and Doug have to be moral is in the instant that they simultaneously murder each other. Physically, this is impossible of course – if they both stand and grip each other’s throats, they will never succumb to strangulation at exactly the same moment. If Bob dies first, his grip on Doug’s throat will loosen, thus condemning Doug to the status of *immorality* until such time as he can find another victim. Because Bob dies first – and thus cannot continue to try murdering Doug – Bob’s death renders him more immoral than Doug’s murder.
+如果谋杀在道德上是好的，那么显然避免谋杀是不道德的。因此，鲍伯和道格必须是道德的唯一机会是在他们同时谋杀彼此的瞬间。从谋杀对方来说，这当然是不可能的 -  如果他们都站立并抓住对方的喉咙，他们将永远不会在同一时刻屈服于扼杀。如果伯勃先死，他对道格喉咙的抓地力会会松动，从而谴责道格不道德的地位，直到他找到另一个受害者。因为鲍伯先死 - 因此不能继续试图谋杀道格 - 鲍伯的死使他比道格的谋杀更不道德。
+ 
+直觉上，我们完全认识到谋杀是好的道德主张的疯狂。从逻辑上讲，我们知道命题是不正确的，因为如果它是真的，房间里的两个男人不可能同时道德。道德，就像健康一样，不能被认为仅仅是“快照”，而必须是一个过程或连续统一体。UPB框架证实，鲍勃在扼杀道格的时候不会是“邪恶的”，然后在他杀死道格的那一刻就达到道德美德的顶峰 - 然后立即恢复到邪恶状态。道德主张必须具有普遍性，并且不受时间和地点的限制。谋杀是道德的主张在各个层面上都没有达到这个要求，所以无效。
 
-Intuitively, we fully recognise the insanity of the moral proposition that murder is good. Logically, we know that the proposition is incorrect because if it is true, it is impossible for two men in a room to both be moral at the same time. Morality, like health, cannot be considered a mere “snapshot,” but must be a process, or a continuum. The UPB framework confirms that Bob cannot be “evil” *while* he is strangling Doug, and then achieve the pinnacle of moral virtue the moment that he kills Doug – and then revert immediately back to a state of evil. Moral propositions must be universal, and independent of time and place. The proposition that murder is moral fails this requirement at every level, and so is not valid.
+如果谋杀在道德上是好的，那么也会出现这样的情况，即一个滞留在荒岛上的男人只要在那里居住，就会在道义上是邪恶的，因为他不会杀人。一个昏迷的人也会要得到一个邪恶的人 - 但是当他的受害者死在他的手中时成为一个好人。
 
-If murder were morally good, then it would also be the case that a man stranded on a desert island would be morally evil for as long as he lived there, since he would have no victims to kill. A man in a coma would also be evil, as would a sleeping man, or a man on the operating table. A torturer would be an evil man as long as he continued to torture – but then would become a good man in the moment that his victim died at his hand.
+因此，我们可以看到“谋杀是好的”这个命题不仅是本能的离奇，而且在逻辑上是不可能的。
 
-We can thus see that the proposition that “murder is good” is not only instinctively bizarre, but also logically impossible.
+适用于“强奸是好的”命题的其他反对意见也适用于此。谋杀不可能在道德上是中立的，因为道德中立的判断或行为不能被强制施加于另一个，并且谋杀被定义强行施加于另一个。
 
-The other objections that applied to the proposition “rape is good” also apply here. Murder cannot be morally neutral, since morally neutral judgements or actions cannot be forcibly inflicted upon another, and murder by definition is forcibly inflicted upon another.
+在谋杀行为的普遍理由中也存在一个基本矛盾，就像在强奸行为中一样。如果鲍伯试图扼杀道格，但道格拒绝，鲍伯如何根据UPB理性地为他的行为辩护？ 
 
-There is also a basic contradiction involved in any universal justification for the act of murder, just as there was in the act of rape. If Bob tries to strangle Doug, but Doug resists, how could Bob rationally justify his actions according to UPB?
+好吧，他可以这样说：“一个人的生命可以在任何时候想要” - 但是当然，因为UPB是道德命题的唯一有效测试，所以这证明道格杀死鲍伯与鲍伯杀死道格一样多。因此，鲍伯只能道格扼杀道格，如果道格不以任何方式抗拒 - 但当然，如果道格不抵抗，那么它真的可以被视为谋杀？ 
 
-Well, he could say something like: “a man’s life can be taken any time you want to” – but of course, since UPB is the only valid test of moral propositions, this justifies Doug killing Bob as much as it does Bob killing Doug. Thus Bob can only justify strangling Doug if Doug does not resist in any way – but of course if Doug does not resist, then can it really be considered murder?
+让我们说，鲍伯然后调整他的前提，说：“我可以在任何时候在我想要的时候在睡梦中射杀一个人”这里的问题不仅仅是鲍勃基于他的普遍前提失去的睡眠，而且也是逻辑上的不可能性根据睡眠和醒来状态的差异来扭转道德主张。从生物学上讲，一个人睡觉的时候不会变成一个男人的反面，当他眨眼的时候，重力就不会倒转。
 
-Let us say that Bob then adjusts his premise to say: “I can shoot a man in his sleep any time I want.” The problem here is not only the sleep that Bob will lose based on his universal premise, but also the logical impossibility of reversing moral propositions based on the differences in the states of sleeping and waking. Biologically speaking, a man does not become the *opposite* of a man when he falls asleep, any more than gravity reverses when he blinks.
+既然一个人在睡着的时候仍然是个男人，在这种状态下，相反的道德规则就不能适用于他。囙此，说一个人在醒着的时候谋杀是不道德的，但在他睡着的时候谋杀他是合乎道德的，那就是创造一个不受任何客观生物学事实支持的逻辑冲突一个物理学家可能会说一个岩石掉下来，但是一个氦气球上升 – 但这是因为岩石和氦气球有着根本不同的性质没有一个可靠的物理学家可以说一块岩石掉下来了，但另一块几乎完全相同的岩石却崩塌了道德理论也是如此 - 。没有一个可信的哲学家会说，当一个人睡着的时候，道德本身就会发生逆转，因为一个人的本性并没有从根本上改变。
 
-Since a man remains a man when he falls asleep, it cannot be the case that opposite moral rules apply to him in this state. Thus to say that it is immoral to murder a man when he is awake, but it is moral to murder a him when he is asleep, is to create a logical contradiction unsupported by any objective biological facts. A physicist may say that a rock falls down, but a helium balloon rises up – but that is because a rock and a helium balloon have fundamentally different properties. No credible physicist can say that one rock falls down, but that another rock with almost exactly the same qualities falls up. The same is true for moral theories – no credible philosopher can say that morality reverses itself when a man is asleep, since a man’s nature does not fundamentally alter when he naps.
+这样，如果我们不能公正地射杀一个人在他醒着的时候，我们也不能在他睡着的时候射杀他，因为他仍然是一个人。 
 
-In this way, if we cannot justly shoot a man when he is awake, we also cannot shoot him when he is asleep, since he is still a man.
+因此，由于根据UPB的规定，“我可以在任何时候都可以在睡梦中射杀一个男人”这一陈述，因此它不能成为真正的道德主张。 
 
-Thus, since the statement “I can shoot a man in his sleep any time I want” cannot be validated according to UPB, it cannot be a true moral proposition.
+我们再次发现UPB框架在谋杀方面是成立的。关于谋杀的唯一可能的有效道德理论是它是邪恶的，或被普遍禁止的。
 
-Here again we find that the UPB framework holds true in terms of murder. The only possible valid moral theory regarding murder is that it is evil, or universally banned.
+我们可以采取同样的方法来处理攻击问题，但这些论点与强奸和谋杀的论点是相同的，所以为了简洁起见，我们将继续下去。
 
-We could take the same approach to the question of assault, but the arguments would be identical to those of rape and murder, so for the sake of brevity, we shall continue.
+现在让我们谈谈盗窃的问题。如果这个框架是正确的在这里，然后我们打我们本能的道德认识完美的三连胜，找到合理的确认为我们现有的信念。我们发现了解释我们如何能够本能地抓球的数学，这是一个必要的开始。
 
-Let us now turn to the question of theft. If this framework holds true here as well, then we have hit the perfect trifecta of our instinctual moral understanding, and found rational confirmation for our existing beliefs. We have discovered the maths that explains how we are able to instinctively catch a ball, and that is a necessary start.
+### 自卫队？
 
-### Self-Defence?
-
-We have skirted over the issue of self-defence with regards to murder, though it is scarcely necessary to examine it in the case of rape. This is not because the issue of self-defence is either self-evident or uncomplicated, but rather because the complications that exist can be dealt with more comprehensively after we look at the question of theft.
+在谋杀方面，我们避开了自卫问题，尽管在强奸案件中几乎没有必要对此进行审查。这并不是因为自卫问题不言而喻或不复杂，而是因为我们在看到盗窃问题后可以更全面地处理存在的复杂问题。 

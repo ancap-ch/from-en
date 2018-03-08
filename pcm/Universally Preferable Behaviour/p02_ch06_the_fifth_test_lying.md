@@ -1,39 +1,39 @@
-## The Fifth Test: Lying
+## Lying Na The Number Five Test
 
-The question of *lying* is interesting because telling the truth is generally considered to be universally preferable, but not enforceable through violence.
+de tori of lying dey interesting, cos everybody like make people dey yarn truth, but nor be wetin dem fit do by force.
 
-It is generally considered *more* of a strict requirement than “being on time,” but *less* strict than “stealing.” What does the UPB framework have to say about this?
+this na sometin wey people consider as wetin hard pass to go places early. But e nor hard reach stealing. Wetin UPB framework get to talk for this mata ?
 
-Naturally, any moral theory proposing “lying is good” immediately self-detonates, since if the man proposing it *is* lying – which is good – then lying is bad, because he’s told the truth that lying is bad.
+Naturally, any theory of gud and bad wey propose say "To lie gud" dey cast shap shap, since e gud say de person wey propose am dey lie too, den e mean say lying nor gud, cos im don talk true say to lie nor gud.
 
-For instance:
+Just imagine:
 
-**Bob:** Lying is always good.
+**Bob:** Lie na gud thing
 
-**Doug:** Are you lying?
+**Doug:** You dey lie ?
 
 **Bob:** Yes.
 
-**Doug:** So lying must be bad, since you are lying about it being good.
+**Doug:** So to lie na bad thing, since you dey lie sey na good thing.
 
 Or:
 
-**Bob:** Lying is always good.
+**Bob:** To Lie na gud thing
 
-**Doug:** Are you lying?
+**Doug:** You dey lie?
 
 **Bob:** No.
 
-**Doug:** Thus lying is not always good, since you are telling the truth about lying being good.
+**Doug:** So to Lie everytime nor be gud thing, since you dey talk true say to lie na gud thing.
 
-Lying, however, does not require the initiation of force, and so does not violate the possibility of *avoidability*. Since liars can be avoided, they cannot logically be aggressed against.
+To lie, howeva, nor need force, and e nor violate the fact say we fit avoid am. Since we fit avoid  people wey sabi lie, dem nor suppose suffer cos dem lie.
 
-Lying also fits more closely in the category of *violence*, insofar as it is moral to lie in self-defence, just as it is moral to use violence in self-defence It is hard to think of a situation where one would have to “be late” in self-defence, or “be rude.” However, if a man bursts into your house and demands to know where your beloved wife is so he can slap her around, it would seem a parody of integrity to refuse to lie to him. Lying in this case would be a form of third-party self-defence, and as morally acceptable as the use of violence in self-defence Similarly, if a man obtains a hundred dollars from us by lying, we may justly lie to him to get it back.
+Somehow lying dey de same category with violence, as far as say e nor bad to use lie defend your sef. just as e nor bad to use violence defend your sef. e hard to think sey person fit dey late to defend im sef or dey rude. Howeva if area boy break enta your house come say im wan know where your wife dey so dat im go fit just dey slap her anyhow. E go look sey na gud thing if you nor lie. lying for here go be like third party defence, and as e nor bad like to use violence to defend your sef na so if person use lie collect money from you e nor bad to use lie collect the money back.
 
-Thus we may justly lie to a liar, just as we may justly defend ourselves from a punch with a punch, but we would not exactly respect the escalating pettiness of “repaying” a tardy person by showing up even later.
+So e nor bad if we lie to who dey lie, just as e nor bad if we use punch defend punch,   but we nor go see am as important to show up later just to pay back person wey like lateness.
 
-The difference is that “being late” is not as actively destructive as lying. A tardy person is annoying, but does not fundamentally undermine your capacity to process reality. It’s one thing for me to show up an hour late for a meeting at seven o’clock in the morning – it’s quite another to attempt to convince you that we in fact scheduled the meeting for eight o’clock in the morning, when I know that this was not the case.
+de difference na say " to dey late" nor dey too spoil things as to lie. Person wey like lateness dey annoying, but im nor block your eye to see wetin dey happen.  Na one thing for me to show up one hour late for meeting wey go start by seven o'Clock for morning – na another thing for me to try to convince you say we been set de meeting for eight o'clock in de morning, wen I know say nor be true.
 
-Attacking your confidence in your own mind[^5] is far more egregious than merely making you wait, since it is the act of using another’s trust in you to undermine his trust in himself, which is highly corrupt, since it is *using* a value to undermine a value, like counterfeiting. This is how UPB validates the illogic of the proposition “lying is good,” and confirms that the act of lying to someone is worse than “being late,” but better than “assault.”
+To dey attack your confidence for your own mind  dey far more egregious than just to make you wait, since you dey use anoda person trust for you, to spoil de trust wen im get for im sef, and dis one dey highly corrupt, since na to use value spoil value, like to make counterfeit. Na so UPB validate the illogic of the proposition wey say "to lie na gud thing"  and e confirm say to lie to person worse pass lateness but e beta pass assault”.
 
-[^5]: Sometimes called “gas-lighting,” after the old movie.
+[^5]: Sometimes dem dey call am "gas-lighting" cos of one olden days movie like dat.

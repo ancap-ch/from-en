@@ -1,73 +1,74 @@
-## Universally Preferable Behaviour
+## السلوك المفضل عالميا
 
-As a result of the above arguments, we can see that it is impossible to enter into any debate without accepting the premise that certain behaviours are *universally preferable*.
+نتيجة للحجج المذكورة أعلاه، يمكننا أن نرى أنه من المستحيل الدخول في أي نقاش دون قبول فرضية أن سلوكيات معينة * مفضلة عالميا *.
 
-I use the word “behaviour” here rather than “thought” because it is important to differentiate between purely internal and unverifiable states such as “thinking” from objective and verifiable states such as “acting,” “writing” and “speaking.”
+أستخدم كلمة "سلوك" هنا بدلا من "الفكر" لأنه من المهم التفريق بين الدول الداخلية البحتة وغير القابلة للتحقق منها مثل "التفكير" من الدول الموضوعية والقابلة للتحقق مثل "التمثيل" و "الكتابة" و "التحدث".
 
-It is impossible to prove that I dreamt of an elephant last night. It is possible to prove that I have written the word “elephant,” which is why I use the word “behaviour” rather than “thought.”
+فمن المستحيل إثبات أنني حلمت بفيل في الليلة الماضية. من الممكن إثبات أني كتبت كلمة "فيل"، ولهذا السبب أستخدم كلمة "سلوك" بدلا من "فكر".
 
-Acquiescing to superior logic in an argument is an *action*. If, every time I conceded a point to you, I said nothing, but rather just stared at you blankly, you would find it rather irritating to debate me. To concede a point, I must perform the action of verbal acquiescence.
+الاستحواذ على منطق متفوق في حجة هو * العمل *. إذا، في كل مرة أعترف بنقطة لك، فأنا لم اقل شيئا، ولكن بالأحرى احدق بك بصراحة، سوف تجد أنه بدلا من الغضب عليك مناقشتي . وللتنازل عن نقطة، لا بد لي من تنفيذ إجراأت القبول اللفظي.
 
-Thus it can be seen that, inherent in the very act of arguing are a number of embedded premises that cannot be conceivably overturned.
+وهكذا يمكن أن نرى أن، المتأصل في الفعل نفسه من الجدل هي عدد من المباني المدمجة التي لا يمكن تصور انقلابها.
 
-If I ask you to meet me on the tennis court, and show up with a hunting rifle, we may end up playing a sport of sorts, but it certainly will not be tennis. When I ask you to meet me on the tennis court for a game, implicit in that request is an acceptance of the rules of tennis.
+إذا كنت أسألك لمقابلتي في ملعب التنس، وتظهر مع بندقية صيد، نحن قد ينتهي بنا المطاف بممارسة الرياضة من نوع ما، ولكن بالتأكيد لن تكون التنس. عندما أطلب منكم مقابلتي في ملعب التنس للعب، ضمن  ذلك الطلب قبول قواعد التنس.
 
-Historically, those engaged in ethical debating have often failed to maintain this basic reality.
+تاريخيا، غالبا ما فشل أولئك الذين يشاركون في المناقشات الأخلاقية في الحفاظ على هذا الواقع الأساسي.  
 
-I cannot submit a scientific paper written in my own personal language, claiming that it has been refereed by my psychic goldfish, and expect to be taken seriously. Similarly, I cannot start a philosophical debate on ethics with reference to my own personal values, and claim that my arguments have all been validated by Trixie the omniscient and invisible leprechaun, and expect to be taken seriously.
 
-The very act of debating requires an acceptance of universally preferable behaviour (UPB). There is no way to rationally respond to an ethical argument *without* exhibiting UPB.
+لا أستطيع تقديم ورقة علمية مكتوبة بلغتي الشخصية، مدعيا أنه قد تم التحقق من ذهني السمكة الذهبية، ونتوقع أن تؤخذ على محمل الجد. وبالمثل، لا أستطيع أن أبدأ نقاشا فلسفيا حول الأخلاق مع الإشارة إلى قيمي الشخصية، وادعي أن حججتي قد تم التحقق من صحتها من قبل تريكسي كل ما هو غير معروف وغير مرئي، ونتوقع أن تؤخذ على محمل الجد.
 
-Let us now turn to a series of positive proofs for UPB.
+يتطلب إجراء النقاش نفسه قبول السلوك المفضل عالميا (UPB). لا توجد وسيلة لاستجابة عقلانية لحجة أخلاقية * دون * عرض أوب.
 
-### UPB And Validity
+دعونا ننتقل الآن إلى سلسلة من البراهين الإيجابية ل UPB. 
 
-One of the central challenges faced by modern philosophers is the need to prove that moral rules are both possible and universal. Until moral rules can be subjected to the same rigour and logic as any other propositions, we will forever be stymied by subjectivism, political prejudices and the pragmatic “argument from effect.”
+### UPB والصلاحية
 
-The closest historical analogy to our present situation occurred in the fifteenth and sixteenth centuries, during the rise of the scientific method. The early pioneers who advocated a rational and empirical approach to knowledge faced the same prejudices that we face today – all the same irrationalities, entrenched powers of church and state, mystical and subjective “absolutes” and early educational barriers. Those who advocated the primacy of rationality and empirical observation over Biblical fundamentalism and secular tyrannies faced the determined opposition of those wielding both cross and sword. Many were tortured to death for their intellectual honesty – we face far less risk, and so should be far more courageous in advocating what is *true* over what is *believed*.
+من التحديات الرئيسية التي يواجهها الفلاسفة الحديثون ضرورة إثبات أن القواعد الأخلاقية ممكنة وعالمية على السواء. وإلى أن يتم إخضاع القواعد الأخلاقية لنفس الصرامة والمنطق كما في أي اقتراحات أخرى، سنحول إلى الأبد بسبب الموضوعية، والتحيز السياسي، والحجة البراغماتية من التأثير.
 
-In order to attack false moralities, we must start from the beginning, just as the first scientists did. Francis Bacon did not argue that the scientific method was more “efficient” than prayer, Bible texts or starvation-induced visions. He simply said that if we want to understand nature, we must observe nature and theorise logically – and that there is *no other* route to knowledge.
+ووجد أقرب تاريخ تاريخي للوضع الحالي في القرنين الخامس عشر والسادس عشر، خلال صعود المنهج العلمي. وواجه الرواد الأوائل الذين دافعوا عن نهج عقلاني وتجريبي للمعرفة نفس التحيزات التي نواجهها اليوم  كل نفس العقليات، القوى الراسخة للكنيسة والدولة، باطني وذاتي "المطلقات" والحواجز التعليمية المبكرة. أولئك الذين دافعوا عن أولوية العقلانية والملاحظة التجريبية على الأصولية الكتابية والطغيان والعلمانية واجهت المعارضة الحازمة من أولئك الذين يمارسون كلا من السيف والصلب. وتعرض العديد منهم للتعذيب حتى الموت بسبب صدقهم الفكري ونحن  نواجه مخاطر أقل بكثير، ولذلك ينبغي أن يكونوا أكثر شجاعة في الدعوة إلى ما هو * صحيح * على ما هو * معتقد *. 
 
-We must take the same approach in defining and communicating *morality*. We must begin using the power and legitimacy of the scientific method to prove the validity and universality of moral laws. We must start from the beginning, build logically and reject *any* irrational or non-empirical substitutes for the truth.
+من أجل مهاجمة الأخلاق الخاطئة، يجب أن نبدأ من البداية، تماما كما فعل العلماء الأوائل. فرانسيس بيكون لم يجادل بأن المنهج العلمي كان أكثر فعالية من الصلاة، نصوص الكتاب المقدس أو المجاعة التي تسببها الرؤى. وقال ببساطة إنه إذا أردنا أن نفهم الطبيعة، يجب علينا أن نلاحظ الطبيعة والنظريات منطقيا  وأنه لا يوجد * أي طريق آخر * إلى المعرفة.
 
-What does this look like in practice? All we have to do is establish the following axioms:
+يجب أن نأخذ نفس النهج في تعريف * التواصل * الأخلاق. يجب أن نبدأ باستخدام سلطة وشرعية المنهج العلمي لإثبات صحة وعالمية القوانين الأخلاقية. يجب أن نبدأ من البداية، وبناء ذالك منطقيا ورفض * أي * بدائل غير عقلانية أو غير تجريبية للحقيقة. 
 
-- Morality is a valid concept.
-- Moral rules must be consistent for all mankind.
-- The validity of a moral theory is judged by its consistency.
+كيف يبدو هذا في الممارسة العملية؟ كل ما علينا القيام به هو إنشاء البديهيات التالية:
 
-To start from the very beginning… are moral rules – or universally preferable human behaviours – valid at all?
+ـ الأخلاق هي مفهوم صالح.
+ـ يجب أن تكون القواعد الأخلاقية متسقة للبشرية جمعاء.
+ـ يتم الحكم على صحة نظرية أخلاقية من خلال اتساقها.
 
-There are only two possibilities when it comes to moral rules, just as there are in any logical science. Either universal moral rules are valid, or they are not.[^6]
+بداية من البداية ... هل القواعد الأخلاقية أو السلوكيات البشرية الأفضل عالميا صالحة على الإطلاق؟
 
-A rule can be valid if it *exists empirically*, like gravity, or because it is *true*, like the equation two plus two equals four.
+هناك احتمالان فقط عندما يتعلق الأمر بالقواعد الأخلاقية، تماما كما هو الحال في أي علم منطقي. إما القواعد الأخلاقية العالمية صحيحة، أو أنها ليست كذلك. [^ 6]
 
-We must then first ask: do moral rules exist at all?
+يمكن أن تكون القاعدة صالحة إذا كاني * موجودة تجريبيا *، مثل الجاذبية، أو لأنها هي * صحيحة *، مثل المعادلة اثنين زائد اثنين يساوي أربعة.
 
-Certainly not in material reality, which does not contain or obey a single moral rule. Moral rules are different from the rules of physics, just as the scientific method is different from gravity. Matter innately obeys gravity or the second law of thermodynamics, but “thou shalt not murder” is nowhere inscribed in the nature of things. Physical laws *describe* the behaviour of matter, but do not contain a single *prescription*. Science says that matter *does* behave in a certain manner – never that it *should* behave in a certain manner. A theory of gravity proves that if you push a man off a cliff, he will fall. It will not tell you whether you *should* push him or not.
+وعلينا إذن أن نسأل أولا: هل توجد قواعد أخلاقية على الإطلاق؟ 
 
-Thus it cannot be said that moral rules exist in material reality, and neither are they automatically obeyed like the laws of physics – which does *not* mean that moral laws are false, subjective or irrelevant. The scientific method itself does not exist in reality either – and is also optional – but it is not at all false, subjective or irrelevant.
+بالتأكيد ليس في الواقع المادي، والدي لا يحتوي على أو يطيع قاعدة أخلاقية واحدة. القواعد الأخلاقية تختلف عن قواعد الفيزياء، كما أن الأسلوب العلمي يختلف عن الجاذبية. المسألة تطيع ببطء الجاذبية أو القانون الثاني للديناميكا الحرارية، ولكن "أنت لا يجب ان تقتل" غير مدرج في أي مكان في طبيعة الأشياء. القوانين الفيزيائية * تصف * سلوك المادة، ولكن لا تحتوي على وصفة طبية واحدة *. يقول العلم أن المسألة * لا * تتصرف بطريقة معينة  أبدا وأنه * يجب أن * تتصرف بطريقة معينة. نظرية الجاذبية تثبت أنه إذا دفعت رجل من الهاوية،  سوف يقع. وانها لن تقول لكم ما إذا كان * ينبغي * دفعه أم لا.
 
-If we can prove that moral theories can be objective, rational and verifiable, this will provide the same benefits to ethics that subjecting *physical* theories to the scientific method did.
+وبالتالي لا يمكن القول بأن القواعد الأخلاقية موجودة في الواقع المادي، ولا يتم طاعتها تلقائيا مثل قوانين الفيزياء التي لا تعني * أن القوانين الأخلاقية كاذبة أو ذاتية أو غير ذات صلة. المنهج العلمي نفسه لا وجود له في الواقع سواء وهو اختياري أيضا لكنه ليس على الإطلاق كاذب، ذاتي أو غير ذي صلة. 
 
-Before the rise of the scientific method, people believed that matter obeyed the subjective whims of gods and devils – and people believe the same of morality now. Volcanoes erupted because the mountain-god was angry; good harvests resulted from human or animal sacrifices. No one believed that absolute physical laws could limit the will of the gods – and so science could never develop. Those who historically profited from defining physical reality as subjective – mostly priests and aristocrats – fought the subjugation of physical theories to the scientific method, just as those who currently profit from defining morality as subjective – mostly priests and politicians – currently fight the subjugation of *moral* theories to objective and universal principles.
+وإذا استطعنا أن نثبت أن النظريات الأخلاقية يمكن أن تكون موضوعية وعقلانية وقابلة للتحقق، فإن ذلك سيوفر نفس الفوائد للأخلاق التي تخضع * لنظريات فعلية * للنهج العلمي.
 
-As mentioned above, the scientific method is essentially a methodology for separating accurate from inaccurate theories by subjecting them to two central tests: logical consistency and empirical observation – and by always subjugating logical consistency to empirical observation. If I propose a perfectly consistent and logical theory that says that a rock will float *up* when thrown off a cliff, any empirical test proves my theory incorrect, since observation always trumps hypothesis.
+قبل صعود المنهج العلمي، كان الناس يعتقدون أن المسألة تطيع النزوات الذاتية للآلهة والشياطين والناس يصدقون نفس الأخلاق الآن. انفجرت البراكين لأن إله الجبل كان غاضبا. أسفرت المحاصيل الجيدة عن تضحيات بشرية أو حيوانية. لا أحد يعتقد أن القوانين المادية المطلقة يمكن أن تحد من إرادة الآلهة وهكذا العلم لا يمكن أبدا أن يتطور. أولئك الذين استفادوا تاريخيا من تعريف الواقع المادي كذاتية  معظمهم من الكهنة والأرستقراطيين خاضوا إخضاع النظريات الفيزيائية إلى المنهج العلمي، تماما كما أولئك الذين يستفيدون حاليا من تعريف الأخلاق كذاتية معظمهم من الكهنة والسياسيين  وفي الوقت الراهن يحاربون إخضاع * الأخلاق * بالمبادئ الموضوعية والعالمية.
 
-A further aspect of the scientific method is the belief that, since matter is composed of combinations of atoms with common, stable and predictable properties, the behaviour of matter must also be common, stable and predictable. Thus experiments must be *reproducible* in different locations and times. I cannot say that my “rock floating” theory is correct for just one particular rock, or on the day I first tested it, or at a single location. My theories must describe the behaviour of *matter*, which is universal, common, stable and predictable.
+كما ذكر أعلاه، المنهج العلمي هو أساسا منهجية لفصل دقيق من نظريات غير دقيقة عن طريق إخضاعها لاثنين من الاختبارات المركزية: الاتساق المنطقي والملاحظة التجريبية ودائما إخضاع الاتساق المنطقي للملاحظة التجريبية. إذا اقترحت نظرية متسقة ومنطقية تماما تقول أن صخرة سوف تطفو * فوق * عندما ألقيت قبالة الهاوية، أي اختبار تجريبي يثبت نظريتي غير صحيحة، لأن الملاحظة تنسخ دائما الفرضية.
 
-Finally, there is a generally accepted rule – sometimes called Occam’s Razor – which states that, of any two theories that have the same predictive power, the simpler of the two is preferable. Prior to the Copernican revolution, when Earth was considered the centre of the universe, the retrograde motion of Mars when Earth passed it in orbit around the sun caused enormous problems to the Ptolemaic system of astronomical calculations. “Circles within circles” multiplied enormously, which were all cleared away by simply placing the sun at the centre of the solar system and accepting the elliptical nature of planetary orbits.
+وهناك جانب آخر من المنهج العلمي هو الاعتقاد بأنه نظرا لأن المادة تتكون من توليفات من ذرات ذات خصائص مشتركة ومستقرة ويمكن التنبؤ بها، فإن سلوك المادة يجب أن يكون شائعا ومستقرا ويمكن التنبؤ به. وبالتالي يجب أن تكون التجارب * استنساخ * في مواقع وأوقات مختلفة. لا أستطيع أن أقول أن نظرية "الصخور العائمة" نظرية صحيحة لصخرة واحدة فقط، أو في اليوم الأول لاختبارها، أو في مكان واحد. نظرياتي يجب أن تصف سلوك * المسألة *، وهي عالمية، مشتركة ومستقرة ويمكن التنبؤ بها.
 
-Thus any valid scientific theory must be (a) universal (b) logical (c) empirically verifiable (d) reproducible and (e) as simple as possible.
+وأخيرا، هناك قاعدة مقبولة عموما تسمى أحيانا الشفرة أوكام التي تنص على أنه، من أي نظريتين التي لديها نفس القوة التنبؤية، أبسط من الاثنين هي الأفضل. قبل الثورة الكوبرنيكية، عندما كانت الأرض تعتبر مركز الكون، حركة المريخ إلى الوراء عندما مرت الأرض في مدار حول الشمس تسببت بمشاكل هائلة للنظام البطلمي من الحسابات الفلكية. "الدوائر داخل دوائر" تضاعفت بشكل كبير، وتم مسح كل شيء ببساطة عن طريق وضع الشمس في مركز النظام الشمسي وقبول الطبيعة البيضاوية للمدارات الكوكبية.
 
-The methodology for judging and proving a *moral* theory is exactly the same as the methodology for judging and proving any other theory.
+وبالتالي يجب أن تكون أي نظرية علمية صحيحة (أ) عالمية (ب) منطقية (ج) يمكن التحقق منها تجريبيا (د) استنساخها  (ه) وبسيطة قدر الإمكان.
 
-#### Moral Rules: A Definition
+إن منهجية الحكم وإثبات نظرية * الأخلاق * هي بالضبط نفس منهجية الحكم وإثبات أي نظرية أخرى.
 
-The first question regarding moral rules is: *what* are they?
+#### القواعد الأخلاقية: التعريف
 
-Simply put, *morals* are a set of rules claiming to accurately and consistently identify universally preferable human behaviours, just as *physics* is a set of rules claiming to accurately and consistently identify the universal behaviour of matter.
+السؤال الأول فيما يتعلق بالقواعد الأخلاقية هو: * ما هي؟
 
-The second question to be asked is: is there any such thing as “universally preferable behaviour” at all? If there is, we can begin to explore what such behaviour might be. If not, then our examination must stop here – just as the examination of Ptolemaic astronomy ceased after it became commonly accepted that the Sun was in fact the centre of the solar system.
+ببساطة، * الأخلاق * هي مجموعة من القواعد تدعي بدقة وبشكل مستمر تحديد السلوكيات البشرية الأفضل عالميا، تماما كما * الفيزياء * هي مجموعة من القواعد تدعي بدقة وبشكل مستمر تحديد السلوك العالمي للمادة.
 
-[^6]: In physics, the question is: either universal physical rules are valid, or they are not.
+والسؤال الثاني الذي يطرح نفسه هو: هل هناك شيء من قبيل "السلوك المفضل عالميا" على الإطلاق؟ إذا كان هناك، يمكننا أن نبدأ في استكشاف ما قد يكون مثل هذا السلوك. إذا لم يكن كذلك، يجب أن يتوقف فحصنا هنا كما توقف فحص علم الفلك البطلمي بعد أن أصبح من المقبول عموما أن الشمس هي في الواقع مركز النظام الشمسي.
+
+[^ 6]: في الفيزياء، السؤال هو: إما القواعد المادية العالمية صالحة، أو أنها ليست كذلك.

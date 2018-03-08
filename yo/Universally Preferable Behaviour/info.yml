@@ -105,8 +105,8 @@ translation:
   fetch_progress: true
 titles:
   - Universally
-  - Preferable~
-  - Behaviour~~
+  - Preferable
+  - Behaviour
 discussions:
   - 
     - https://en.ancap.ch/t/5
@@ -123,7 +123,7 @@ tag_prefix: "https://en.ancap.ch/tags/"
 persons:
   - 
     person: [ ]
-    identifier: "template_person"
+    identifier: "Stefan Molyneux"
     rule: "author"
   - 
     person: [ ]
@@ -153,12 +153,13 @@ resources:
   - 
     resource: [ ]
     rule: "front_cover"
-    content: "cover.png"
+    content: "molyneux_36308457.jpg"
     websites:
-      - Resource website
-    description: Resource description
+      - "https://commons.wikimedia.org/wiki/File:Stefan_Molyneux_-_TNW_2014.jpg"
+    description: Stefan Molyneux, host of Freedomain Radio, speaking at The Next Web Amsterdam 2014. By Franklin Heijnen.
     persons:
       - "template_person"
+
 targets:
   - 
     target: [ ]
@@ -169,4 +170,9 @@ targets:
     clear_page_active: true
     clear_page_depth: 3
     toc_depth: 2
-version: "0.1.2"
+    covers:
+      - 
+        cover_file: "molyneux_36308457.jpg"
+        cover_dimensions: [2010, 0, 1018, 1440] # the x offset, the y offset, the width (0 = full), the height (0 = full)
+        #cover_dimensions: [1690, 0, 1018, 1440] # this brings him to the right corner
+version: "0.1.3"

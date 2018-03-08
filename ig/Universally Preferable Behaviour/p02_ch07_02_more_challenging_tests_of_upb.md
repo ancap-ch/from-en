@@ -1,59 +1,59 @@
-### "Don't Eat Fish"
+### ''ÉRĪLA AZÙ''
 
-What would be the status of the moral proposition: “It is evil to eat fish”?
+Kédù ónòdi ihé kpatara omumè; ''ódi njò iri azù''?
 
-Clearly, this proposition seems to satisfy at least some of the requirements of UPB – it appears universal, independent of time and place, and relatively objective.
+Odoro anya na, akpù-ókwù a na'ezuko nchocho UPB- ózùrú eluigwe na ala ma n'agbayeghi ógè ma obù ebé ma obù ihè oyìrì ya.
 
-Yet it seems hard for us to reasonably call this a truly *moral* theory – why?
+Ma, odighì nfé ka anyì gha sí na óbù ezígbó tiori ''omumè'' - gini mere?
 
-First of all, “evil” encompasses actions that can be prevented through the use of force. Rape is “evil,” and so I can use force to defend myself against someone attempting to rape me.
+Nke nbu, njo gbárá gbùrúgbùrú ihè ághaégbuchi omumè ihè ike.Íme N'ike di njo, ya mere m ga ejì ikè wé chebe onwé m, ma mmadu choro ímé m n'ike.
 
-Can I justly shoot someone who eats a piece of fish?
+Ka agha si na ngbagbu onye tara azù adíghí njo?
 
-It would seem silly to argue that I can – but why?
+O ga di ká enweghi isì ma azówa ya- ma maka gini?
 
-There are some objective limits to the universality of this doctrine. For instance, some people may have no access to fish – they may live in a desert, say – while others live by a lake teeming with fish, and find it hard or impossible to survive without eating them. However, that can’t be quite enough, since we have already accepted the fact that the inability of a eunuch to rape does not invalidate the moral proposition “it is evil to rape.”
+O ñwere ihi ébumnúchè mmachi di na ozizi a. Dika ihè omumatù, ndi ufódù nwere iké ha enweghi ebé ha gha e nweté azu - dika ndi bi na desert - ufódù bi kwa akúkú mmìrí nwere azù n'ime ya, o gha di ike maobu okwe ghi omumè idì ndù ma na atala azù. Otù odì, nke a ezughi, ebe anyi e kwere na ebe ndi apírapí e nwe ike n'ime n'ike ewepughi nkowa na ''ímé n'ike di njò”.
 
-No, the “red herring” in the moral proposition “It is evil to eat fish” is the word “*fish*.”
+Mba, ''okwù ngbawejù'' di n'ime akpù-ókwù ''odì njò i ta azù'' bu okwu ''*azu*”.
 
-A scientist cannot validly say that his theory of gravity only applies to pink rocks. Since his theory involves gravity, it must apply to *all* entities that have mass.
+Ndi na gu sayens enweghi ikè i si na tiori ikè ndada ya bu maka okwútè pink nani. Ebé tiori ya bu nke ikè ndada, o ga abu nke ihè obula nwere arù.
 
-Similarly, in the example above, UPB accepts only the *act* of eating, and rejects *what* is being eaten, since what is being eaten is not an *action*, but rather what is being acted upon.
+Otù a, ihè ngosi egosiri, UPB na anabata ''nrí'', ma ju ''ihe'' a n'eri, ebe ihe a n'eri a bughi ''ihè omumè'', mana ya bu ihe a n'ime.
 
-In the same way, an ethicist cannot validly put forward the moral proposition: “It is evil to rape the *elderly*.” “Rape” is the behaviour; whether the victim is elderly or not is irrelevant to the moral proposition, since as long as the victim is human, the requirement for universality remains constant. “Thou shalt not steal” is a valid moral proposition according to UPB – “thou shalt not steal *turnips*” is not, for the simple reason that theft is related to the concept of property – and turnips, as a subset of property, cannot be rationally delineated from all other forms of property and assigned their own moral rule.
+Otù úzò a, onyé ntûzi n'ime ihè okwu a aghaghi a si na: "ódi njò i si na ímé *ndi okè* n'ike '. ''Ímé n'ike bu ágwá: ma onye emere n'ike ma obùghi, adighi mkpa ebé akpù-ókwù a, n'ihi onyé a bu kwa mmadu, okwù a bu otù na'eluigwe na ala. ''onyé ezula ohi'' bu ihè akpù-ókwù di mma ebe ndi UPB - ''onye ezula ohi *turnips*'' a bughi kwa akpù-ókwù di ezi maka na ohi bu ihè gbasara ihè mmadu, ma turnips bu ihe no okpurù ihè mmadu, ma onweghi ozizi di na ya onweya.
 
-The moral proposition “eating fish is evil” thus fails the test of universality because it is too specific to be generalised – it is like saying “my theory of gravity applies only to pink rocks.” If it is a theory of gravity, then it must apply to everything; if it only applies to pink rocks, then it is not a theory of gravity.
+Akpù-ókwù ''iri azù di njò'' dara iwú uwa n'ile n'ihi na ha di oke kpomkwem ma okweghi n'ozùzù - dika aghasi ''tiori ikè ndada m bu nke naani nkumè pink.'' Óbùrù tiori ikè ndada, oga ekwe ntinye n'ihe obula: dika o kwere itinye naani nkumè pink, aghaghi a si na óbù tiori ikè ndada.
 
-UPB also rejects as invalid any theory that results in opposing moral judgements for identical actions. “Assault” cannot be moral one day, and immoral the next. Thus we know that “eating” cannot be moral one day, and immoral the next.
+UPB naaju dika okwu adighi írè tiori obula n'egbochi ikpé omumè di n'oyiri. ''wakpò'' aghaghi ekwe omumè otu ubochi ma ju omumè n'ubochi ozo. Mgbeahu, anyi ma na ''iri'' aghaghi ekwe omumè otu ubochi ma ju omumè n'ubochi ozo.
 
-Either “eating” is moral, immoral, or morally neutral. If eating is immoral, then a whole host of logical problems arise, which I am sure we are quite familiar with by now.
+Ma, ''na-eri'' kwere omumè ma obù okweghi omumè ma obù omumè ya ekwe n'opuru iche. Ma okweghi omumè, otùtù mgbagha di iche ga-ebilie, anyì ma n'ezié.
 
-If, on the other hand, eating is *moral*, then it cannot be moral to eat a cabbage, and immoral to eat a fish, since that is a violation of universality, insofar as the same action – eating – is judged both good and bad.
+Ma, Otù aka nke ozo,  na-eri kwe *omumè*, mgbeahu oghaghì ekwe omumè irì cabbage, ma ekwela omumè irì azù. Dika odida iwu ozuzu, rute ugbú a, mmeme a - na-eri - na ekpebi na mma ma obù na njò.
 
-It is in this way that we understand that the proposition “eating *fish* is evil” fails the test of UPB, and is not valid as a moral theory.
+Otù úzò a, ka anyi ga ekwe na akpù-ókwù ''nri *azù* di njò dara ulé UPB, ma ekwekwa na tiori omumè.
 
-### Animal Rights
+### ikíkéré Anumanì
 
-We do not have the time here to go into a full discussion of the question of animal rights, but we can at least deal with the moral proposition: “it is evil to kill fish.”
+Anyi e nweghi oge uka nile bayere okwu ikíkéré anumani, ma anyi ga ekwu gbasara omumè akpù-ókwù ''igbú azù o di njò”.
 
-If it is evil to kill fish, then UPB says that anyone or anything that kills the fish is evil. This would include not just fishermen, but sharks as well – since if killing fish is evil, we have expanded our definition of ethical “actors” to include non-human life.
+Ya buru na o di njò igbú azù, mgbeahu UPB na si onyé obula ma obù ihè obula gburu azù di njò. O ghaghi abu naani ndì n'aku azù ma shark ga e so kwa - ebé igbu azù di njò, anyi agbasa aka na-abaye ebé ihè naa bughi mmadu ebe ha so n'omumè a.
 
-It is clear that sharks do not have the capacity to refrain from killing fish, since they are basically eating machines with fins.
+Odi ngosi na shark e nweghi ikíkéré mgbochi onweya na-iri azù, ebé obù igwé n'egbu azù di n'ime mmìrí.
 
-Thus we end up with the logical problem of “inevitable evil.” If it is evil to kill fish, but sharks cannot avoid killing fish, then sharks are “inevitably evil.” However, as we have discussed above, where there is no choice – where *avoidability* is impossible – there can be no morality. Thus the proposition “it is evil to kill fish” attempts to define a universal morality that includes non-moral situations, which cannot stand logically.
+Mgbeahu, anyi ga enwe nsógbù ezi-uche ''njo apùghí izere''. Odi njò igbú azù, ma shark enweghi ikè ihapu igbú azù, mgbeahu shark ga bu ''njo apùghì izere.'' Otù odì, dika anyi si kwere na-mbu, ebé enweghi nchoro, ebé *nzere* ekweghi - nkpúrù omumè aghaghi a di. Mgbeahu, ''odì njò igbú azù'' bu mgbali i kowa omumè ozuzu n'ime ónòdi ekweghi omumè, e guzoghi na ezi-uche.
 
-Also, the word “fish” remains problematic in the formulation, since it is too specific to be universal. The proper UPB reformulation is: “it is evil for people to kill living organisms.”
+Na-ozo, okwù ''azù'' bu nsogbù n'icheputa ya, ebé o di oke kpomkwem ma okweghi n'ozùzù. Na ntuari UPB ziriézé agha si: ''o di njò mmadu igbú ihè di ndù obula”.
 
-If, however, it is evil to kill, we again face the problem of “inevitable evil.” No human being can exist without killing other organisms such as viruses, plants, or perhaps animals. Thus “human life” is defined as “evil.” But if human life is defined as evil, then it cannot *be* evil, since avoidance becomes impossible.
+Óbùrù ma o di njò igbú, anyi ga elekwa anya na nsogbù ''njò apùghì izere.'' Onweghi mmadu aghaghi a di ma n'igbùghí ihè di ndù di ka virus, nkpúrù osísí ma obù anumani. Mgbeahu, agha si na ''ndù mmadu'' di ''njò''. Ma, ndù mmadu buru nkowa ihè di njò, oghaghì abú njò ózò ebé mgbochi adighi kwa na ya ózò.
 
-What if we say: “it is evil to kill people” – would that make a man-eating shark evil?
+Ka anyì ga si: ''o di njò igbú mmadu'' - o ga eme shark n'eri mmadu njò?
 
-No – once again, since sharks have no capacity to avoid killing people, they cannot be held responsible for such actions, any more than a landslide can be taken to court if it kills a man.
+Mba, Otù ahu kwa shark enweghi ikíkéré mgbochi onweya na-igbù mmadu, aghaghi egidi ha na omumè a, kara otu agha agha ikpé ma mbuzo gbuo mmadu.
 
-UPB allows for exceptions based on objective and universal material or biological differences, just as other sciences do. The scientific theory that gases expand when heated applies, of course, only to gases. I cannot invalidate the theory by proving that it does not apply to, say, plastic.
+UPB n'ekwete mhapu ma n'ebumnóbì na ihè onwúnwè zuruezu ma obù ágwá ndù di iche. Di ka sayens ndi ózò na-eme. Tiori nke sayens i sí na ikúkú n'agbasa n'ime ókù bayere, n'ezie, naani ikúkú. Aghaghi m akagbu tiori a ma ngosi na o bughi eziokwu bayere ihè di ka plastic.
 
-In the same way, morality only applies to rational consciousness, due to the requirement for avoidability. If I attempt to apply a moral theory to a snail, a tree, a rock, or the concept “numbers,” I am attempting to equate rational consciousness with entities that may be neither rational nor conscious, which is a logical contradiction. I might as well say that the Opposite Angle Theorem in geometry is invalid because it does not apply to a circle, or a cloud. The OAT only applies to intersecting lines – attempting to apply it to other situations is the conceptual equivalent of attempting to paint air.
+Otù úzò a kwa, omumè bu ihè bayere uche, n'ihi na o ñwere ikíkéré mgbochi onwe. M choro itiye tiori omumè n'ime eju, osísí, nkumè, ma o bu ''agumagu ónù.'' Anam acho igòsí na ezi-uche adighi eche echiche ma obù idì ndù, obù ihè naa bughi eziokwu. Agam ekwu kwa na tiorim nke Akúkú Ntuari na geometery abúghi eziokwu n'ihi na o dabaghi na gbùrúgbùrú ma obù igwé ojii. Okwu AOT (tiorim nke Akúkú Ntuari) bayere akara n'irutù - i tiye ya n'okwu ndi ózò di ka ebe a na acho agba ikúkú.
 
-In other words, misapplication is not disproof.
+Mgbeahu, ntiyeri abúghi m gbagha.
 
-There are many other “grey areas” that we could work on, from abortion to intellectual property rights to restitution and so on, but I think that it is far more important to take UPB out of the realm of abstraction, and begin applying it to the real world problems we face today.
+Oñwere otùtù ebe ntuari okwu a anyi ñwere ikè ikpa, site n'ité imé n'agha ikíkéré ñwere ngigi isi na akwúkwò na udi ya, ma echem na odì oke mkpa iwepù UPB n'ime ogbè áró, ma bido tiye ya n'ime nsogbù di n'ime uwa anyi ugbú.

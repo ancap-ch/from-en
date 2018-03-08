@@ -13,7 +13,7 @@ Ang Pagkalkula ng matematika na sumusuporta sa mga posibilidad ng tulay ay dapat
 Ang termino ng kompyuter, ang code na hindi napagsama ay hindi masusubukan. 
 
 Ito ay napatunayan na hanggang sa sayantipikong mundo. Ang ma teyorya ay kailangang suriin ang kaloob loobang consisitency bago ipasa sa
-empirical na pag tetest. Ang rason kung bakit ang panloob na consistency ay kailangan at essential dahil simula pa na ang mga teyorya ang claim na may halaga na may kinalaman  at pare pareho ang panloob at katotohanan ang anumang teorya na * hindi * sa loob pare-pareho ay hindi maaaring magkaroon ng halaga na may kaugnayan sa katotohanan.
+empirical na pag tetest. Ang rason kung bakit ang panloob na consistency ay kailangan at essential dahil simula pa na ang mga teyorya ang claim na may halaga na may kinalaman  at pare pareho ang panloob at katotohanan ang anumang teorya na *hindi* sa loob pare-pareho ay hindi maaaring magkaroon ng halaga na may kaugnayan sa katotohanan.
 
 Lamang *pagkatapos* ang panloob na pagkakapare-pareho ng mga kalkulasyon na naitatag ay maaaring ang antas kung saan ang tulay ay nakakatugon sa mga pagtutukoy ay susuriin. Posible na sumulat ng mga panloob na pagtutukoy para sa isang maliliit na tulay na itinayo nang lubusan sa labas ng kahoy na balsa, ngunit maliban kung ang engineer ay sumusulat ng isang artikulo para sa isang modelo ng tren-roading magazine, ang kanyang mga pagtutukoy, bagaman pare-pareho, ay hindi makatugon sa anumang pangangailangan sa industriya.
 

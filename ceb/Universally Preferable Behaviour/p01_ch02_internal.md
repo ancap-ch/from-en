@@ -1,30 +1,28 @@
-## Internal Consistency
+## Pagkamakanunayon Sa Sulod
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Kung ako usa ka arkitekto, ug mosumiter og usa ka plano aron sa pagtukod og usa ka balay, ang una nga tahas nga kinahanglan akong malampos kay kon o dili man gani ako nga balay ang mamahimo nga matukod gayud. Kung nakasumiter ko og maanindot nga mga plano alang sa balay nga paggahimoon sa kinatibuk-an sa mga buwa sa sabon, dili gayud ko makadawat og komisyon, tungod nga ang susama nga “balay” dili gayud mapatindog.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Sa pagkapareha, kung ang enhinyero mosumiter og usa ka plan alang sa usa ka tulay, ang una nga sukaranan nga kinahanglan makuha kay kon o dili man gani mapabarog ang tulay.Uban pa nga mga konsiderasyon susama sa kadugayan, ka artistiko ug kaanindot ug sa uban pa nga mamahimo nga idapat lang kung ang tulay sa pagsugod palang pisikal na nga mabuhat.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Kini mahimo lang nga dili makatarunganon – pwera hisgot sa dili produktibo kaayo – sa pagtukod og usa ka tulay gikan sa mga sinalagma nga mga materyales, gamit sa mga sinalagma nga “banabana”, – aron sa pagsuta kon o dili man kini mapabarog. Tungod kay ang mga balaod sa pisikal kay kanunay ug unibersal, dali ra kaayo kini sutaon kon o dili nga mapabarog ang tulay *sa dili pa* kini tukuron.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Aduna kini duha ka mga paagi aron sa pagtino kung mabuhat ba ang tulay sa wala pa kini natukod. Ang una kay ang paglantaw alang sa dili makunanayon sa pangsulod sa sulod sa palibot ug pagkwentada nga miangkon sa pagsuporta sa pwede mahimo ang tulay. Kung aduna man gani mga sayop nga mahinungdanon sa pagkwentada nga mingpamatuod sa gibug-aton nga ang tulay mamahimo nga makasuporta, unya ang tulay mamahimo nga nasobraan sa pag disenyo, o kuwang sa disenyo. Kung ang sayop nga pagkwentada nga pangmatematika nakaresulta og gikusgon nga mominus sa singkwenta ka mga tonelada sa matag usa ka kuwadrado nga talampakan sa bisan asa nga bahin sa tulay, unya kini tataw nga dili mapabarog – o, kung mahitabo man gani, ang pagkahimo ani kay aksidente lang, ug dili mamahimo nga mabuhat kini og balik.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Ang mga pagkwentada nga pangmatematika nga mingsuporta sa tulay nga mamahimo sa ingon kinahanglan nga makanunayon sa sulod sa wala pa ang bisan unsa nga uban pa nga mga konsiderasyon nga mamahimo nga konsiderahon.
+Sa mga termino sa kompyuter, ang kodigo nga dili matipon kay dili mamahimo nga masuwayan.
 
-In computer terms, code that does not compile cannot be tested.
+Kini kay tinuod usab sa kalibutan sa siyentipiko. Ang mga teorya kay kanunay nga gisusi alang sa pagkamakanunayon sa sulod sa wala pa kini mamahimo nga isumiter ngadto sa mga pagsuway nga empirikal. Ang rason nga ang pagkamakanunayon sa sulod nga gikinahanglan kay tungod nga ang mga teorya ming-angkon nga adunay bili nga duol ngadto sa kamatuoran, ug ang kamatuoran kay makanunayon sa sulod, bisan unsa nga teorya nga *dili* makanunayon sa sulod dili makahimo nga adunay bili nga duol sa kamatuoran.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Sa *human* lang nga makatukod sa makanunayon sa sulod nga mga kwentada nga makahimo ang grado nga kansa ang tulay makaabot sa mga espesipikasyon nga matuki. Imposible kini nga makasulat og mga espesipikasyon nga kanunay sa sulod alang sa usa ka gamay nga tulay nga binuhat ang kinatibuk-an gikan sa kahoy nga balsa, pero gawas kon ang enhinyero kay nagasulat og usa ka artikulo alang sa magasin sa modelo sa pagbuhat og agianan sa tren, ang iyaha nga mga espesipikasyon, bisag kanunay, makapakyas gihapon sa pag-abot sa gikinahanglan sa industriya.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Sa dihang aduna na kitay natino nga ang tulay kay mapabarog, kita unya makatino kon o dili man kini makaabot sa ato nga mga espesipiko nga gikinahanglan, susama sa pagsuporta sa gibug-aton sa mga lumalabang sa tulay batok sa mga tren.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Sa dominyo sa ekonomiya, ang susama nga sukaranan kay madapat. Kung ang akong teorya sa ekonomiya nanginahanglan nga ang mga presyo nga mosaka ug monaog nga dungan-dungan, busa dili kini mamahimo nga balido, imposible kini. Og sa diha nga ang akong teorya kay natino na alang sa pagkamakanunayon sa sulod, makasugod nako og pangita alang sa ebidensya, ug/o makasugod og gamit sa ako nga teorya aron sa paggama og proaktibo nga mga panagna.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Busa, mamahimo nato nga makita ang bisan unsa nga teorya, nga mahimo nga balido, nanginahanglan sa mosunod:
+1. Pagkamakanunayon sa sulod (lohika).
+2. Pagkamakanunayon sa gawas (abilidad nga masulayan).
 
-Thus, we can see that any theory, to be valid, requires the following:
-
-1. Internal consistency (logic).
-2. External consistency (testability).
-
-With this in mind, we can now turn to the core subject of this book. 
+Uban niini sa hunahuna, moadto nata sa gaulohan nga hisgotanan niini nga libroha.
 
 

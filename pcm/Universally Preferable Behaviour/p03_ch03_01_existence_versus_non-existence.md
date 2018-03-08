@@ -1,167 +1,169 @@
 ## Existence Versus Non-Existence
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+We dey talk say “warin nor dey exist” and warin nor carry weight or power, or carry d beta change for weight or power, like to find d join body of gravity.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+God nor carry weight or energy, or show d effects of mass or energy – God nor fix be detectable or verifiable at all, shape or form, weather na wit human being senses or wit rationality.
 
-Thus if I say, “God exists,” what I am really saying is:
+ok, if I talk say “God dey”, warin I dey talk be dat na:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+“*anything way dey live must be detectable; God nor fit  be detect by man, but God dey – as e be say warin nor dey exist, be dey exit.*” 
 
-In other words, by saying “God exists,” I have created an insurmountable contradiction. I have defined “existence” as “non-existence,” which makes about as much sense as defining “life” as “inanimate matter,” or a rock as “the opposite of a rock,” or a “square” as a “circle.”
+E-hen as we dey talk say “God dey”, I don make and stand gidigba. I don show “warin dey exist ” as “ warin nor dey exist”, dis one come dey explain about dis life as something way nor get “life” , or rock as “nor be d same as rock” or as “square” or as a “circle”.
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality,” then what I have really done is create a realm called “error,” put everything in it which is not true, and defined this realm as a place where “error equals truth.”[^2]
+As d same, if I com make something different as in warin “nor dey exist na d same thing as watin dey exist” and confusion na d same as watin dey continue and nor dey stop” and “I say dis thing correct, and “lie na lie” and “watin nor dey equal na d same as watin dey equal” now watin I don do na warin “nor dey correct”, and all d things I put na lie, and talk say dis na place where lie com be com correct."[^2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here.”
+Warin dey now, people nor dey make dis “alternate universe” take am to invalidate warin dey right and correct inside our own universe, but na to safe warin be erroneous in reality, and com call am correct. For example nor body dey argue say “God fit dey for different universe, na so if no fit say God nor dey exist” or talk say “ e nor dey for another universe, na so me I nor fit talk say I exist here."
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist.”[^3]
+Dem nor if talk say or agree say dat: “ In another universe, u go gree with me say that God nor dey exit, I go talk say u be unbeliever”.[^3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Na correct talks to say about reality nor get end opposed becos some think say realm called “lie na d same with truth talk” warin nor dey validates dem, den warin be dey self na “nor better talk abouth correct thing na really valid” – however, we know book as dose philosophers by now we don know say the talk dey confusing small, since na better talk to say dat na correct true e b dat means to say nor better talk b true. If something nor be true or lie – even dat talk – dem nor talk at all go fit make anything at all. When u dey use words, like using English, using comprehensible sentence – all of dem nor make sense at all, since in dis “alternative universe”  some structured utterance go fix be something make e no make senses at all. If something way fix be true in dis alternate universe come get effect on talk we make in dis universe, then we go truly know say the universe dey correct, dat is to say dat nor statements can ever fix make about anything, since dere exact opposite can be d same as true
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null.”
+D true reality of d statement be say “something way nor correct na d same with something way correct” is d tautological dey kolo of “null be d same as null”.
 
 ### The "Alternate Universe" In Human Society
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+D reason why we dey spend so much time dey hammer on dis “alternate universe” theory is dat it has direct relevance to where people dey live, and is used to “justify d greatest bad thing way dey committed among we people.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+Warin we don see b/4, we know say to kpai no good at all. As we dey waka through d proposition dat kpai is totally not good at all in d above example, I strongly get am for mind dat any person go dey shocked to have their character/behavior instincts correct through d strict abstract reasoning of UPB. In dis part, however, e go be special permission for u to start to b truly stocked.  
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories.” Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+D ogboge leaps for front in scientific watin get sense na d so-called “unifying theories. “Einstein spent plenty year com work  out a unified field theory; and theories of physics which com gather together ogboge and lazy forces, electromagnetism, gravity and so on remain elusive.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB way b framework, however, nor come believe our character inside us at d personal, philosophical and universal levels – but e com profound and shocking implications for where people dey live together. 
 
 #### UPB In Action
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+D UPB framework com check character matching by asking dem dat dey be internally consistent, and universal in terms of time, place and individual.
 
-If we accept UPB, we must also accept the following corollary:
+If we com agree with UPB, we go also com agree d following corollary:
 
-- Moral propositions are independent of costume.
+-  Behavior propositions are free of costume.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Warin dis one com mean be dat man no go fix change his behavior natural by d shirt e dey wear. D way to change person cloth no go fix change person look as him carry com for earth. To dey fight with character way get laws no go if make d cloth dat u dey wear change any thing at all.  
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Soldier who be government people way dey stand for road dey carry stick, of course, wear their color cloths way no be d same as people who nor dey work for government. Dose people who nor join soldier cannot kpai; solders, however, dem nor get power to kpai any person but dem go still dey priased dem for kpaing.
 
-Let’s take another example.
+Make we yam  about another example.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Theft na dose people way dey go steal other people things e nor good at all, as we don talk am for up there. E no good for every people who dey for situation all the times and under all circumstance. Since to thief somebody thing be say u dey take something by force from somebody hand or house and d person nor know or agree, then taxation is always, universally and nor good at all. Taxation come be like say dem dey by force dey collect person thing way d person nor know or agree, since taxation com rest on d initiation of to take force collect person property. 
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+As we dey call “government” na just another example of dis null zone where dey go say something way dey up na down, black na white, truth na lie and bad thing na good thing
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes.” Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Where things dey happen na d degree dat reason and evidence go make big thing leap from d personal to d universal, and com scatter any irrational null zones na d way. Where Science com make thing happen exactly to d degree dat dey nor agree d irrationality of God and subjective “absolutes”. Dose people who dey make medicine to d extend dat dey rejects d power of prayer and empty native juju, and instead believe say na their on studies and evidence beta or good pass. Philosophy also – and place where human being dey live and gather – will get and grow up high dat e nor agree with d irrational “square-circle character or behavior” of statist and religion ethical theories.
 
 ### Government
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity.” First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist.” A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Dey are talking say dat d government work under opposite character rules way different from other community na d same thing we dey talk say “leprechauns are immune to gravity. “Frist of all, leprechauns nor dey exit – and one of d way which we go know say dem nor dey exist na by d thing dem dey claimed say dat dey are immune to gravity. Everything dat get weight na subject to gravity – dat one na immune to gravity by definition na e nor get mass, and d thing nor dey exist. D talk way dey ground “leprechauns are immune to gravity” na a tautology, dis one only com be true say na d non-existence of leprechauns – dis one com b d semantic equivalent of “dat which nor dey exist, nor dey exist”. A na A, Aristotle’s first law of logic, does precious little to confirm d existence of dat which is defined as non-existence.     
 
-In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
+In de same way, as we dey talk say dat it is morally beta for soldiers to kpai and government people to thief, we know dat “soldiers” and “government peoples” dey get moral differently are *completely invalid*.  
 
-If I say that a square circle has the right to steal, I am merely saying that that which cannot exist has the right to do that which is self-contradictory – a purely nonsensical statement, but one which remains strangely compelling in the “null zone” of politics.
+If I talk say dat na square circle get de right to thief, I com dey talk say dat dat warin nor dey exist com get de right to do dat warin is self-contradictory – na clean nonsensical talk, but one warin remains strangely compelling in de “null zone” of politics.    
 
-If I buy a soldier’s costume at a second hand store, and put it on, clearly I have not created an alternative universe wherein opposite moral rules can be valid. The moment before I put the costume on, it was wrong for me to murder – when does it become *right* for me to murder? When I put on the trousers? What if I have the trousers on, but not the vest? What if I have only one boot on? What about if both boots are on, but only one is laced? What if my hat is on backwards? What if I have put on a uniform that is not recognised by the first person I come across? Did the Beatles suddenly possess the right to murder when they shot the cover for “Sergeant Peppers”? Did they lose that right when they took off their jackets?
+If I com buy one soldier’s cloth for blend down select shope, and I com wear am, so I nor com create an alternative universe warin different moral rules go fit be valid. De time before I com wear de fine cloth, e no good for me to kpai – which time e com becom correct for me to kpai? As I com wear de trousers? What of if I com wear only one shoe? What of if I com wear de two shoe, and only one shoe get role? What of if my cap dey face back? What of if I com wear de uniform dat nor be de same with de first person I com meet? Did de Beatles com get de power to kpai when dey fire de cover for “Sergeant Peppers”? Did dey lost dat power when dey remove dere coat.  
 
-I ask these rhetorical questions because they are in fact deadly serious. Clearly, a military costume does not change the nature of a human being, any more than a haircut turns him into a duck, a concept, or a god.
+ I com ask dese rhetorical question becos dem dey in fact deadly serious. Clearly, a soldier fine cloth nor go fit change de way of a human being, any more than a cutting of his hair  nor go change am into a duck, a concept, or a god.    
 
-“Ah,” you may say, “but the costume is invalid because you got it at a second hand store – putting on the uniform of the soldier no more makes you a soldier than photocopying a doctorate gives you a Ph.D.”
+“Ah”, you if talk say, “but de cloth/shirt nor be de right one becos you buy am for blend down select shop  – com wear de uniform of de soldier nor go fit make you resemble a soldier than to dey pretend to get a doctorate gives you a Ph.D”  
 
-The analogy is incorrect, because having a Ph.D. or photocopying a doctorate does not change any of the moral rules that you are subjected to as a human being.
+De example nor dey correct, becos getting a Ph.D. or pretending to get a doctorate nor go fit change any of de moral rules dat you dey bring to for as a human being.   
 
-“Well,” you may reply, “but the difference is that the soldier possesses moral rights that are provided to him by the average citizen, for the sake of collective self-defence and so on.”
+ “Well”, you may talk say, “but de different way dey is dat de soldier com get de moral rights dat are giving to him by de ordinary people, for de sake of  collective protecting  dem self and so on”.  
 
-This raises a very interesting point, which is the question of whether opinions can change reality.
+Dis com bring a very important point, which is de question of whether subjection go fit change every thing for life.   
 
 ### Opinions And Reality
 
-Clearly, we understand that I cannot through my opinion release you from the restraints of gravity, any more than my opinion that “two plus two equals five” makes it true.
+Clearly, we com understand dat I nor go fit  with my subjection take release you from de restraints of gravity, as I dey subject dat “two plus two na five” com dey correct. 
 
-“Opinions” are those beliefs which have no clear evidence in reality, or for which no clear evidence can be provided, or which are expressions of merely personal preferences. My personal opinion is that I prefer chocolate ice cream to vanilla – I may also have an “opinion” that Iceland is a tropical paradise, or that God exists, or that rain falls upward. Personal opinions clearly have nothing to do with morality; opinions that claim to accurately describe reality, but which do not, are merely incorrect prejudices. Believing that the rain falls upward does not reverse its course; wearing a Hawaiian shirt to Iceland does not make Reykjavik any warmer.
+“Subjections” na dose beliefs way nor get clear evidence in reality, or for nothing dey clear evidence go fit dey for ground, or which com show expressions of  ordinary personal preferences. My own subjection is dat I com like chocolate ice cream pass vanilla – I com get another “subjection” dat Iceland na a tropical paradise, or dat God dey, or dat rain dey fall go up. My own personal subjection com get nothing to do with morality; opinions dat  com claim say e dey accurately com show reality, but which nor be so, are merely nor dey correct prejudices. Believing dat de rain dey fall go up nor go fit change anything; com wear a Hawaiian cloth go Iceland nor go fit make Reykjavik fill warmer.      
 
-Thus believing that murder is morally good does not make murder morally good. Since my beliefs about a human being do not change his moral nature, my belief that his murders are virtuous does not change the virtue of his actions. If I close my eyes and imagine that you are a lizard, you do not suddenly lose your ability to regulate your own body temperature. Imagining that you are a fish does not bypass your need for scuba gear.
+ E-hen com believe say people way dey kpai people is morally beta nor fit make dem morally beta. Since I com believe dat a person nor go fit change his moral nature, my belief dat his kpai are virtuous nor go fit change de virtue of him action. If I com close my eyes and com dey think dat you be lizard, you nor com suddenly lost your sense to carry regulate your own body temperature. Imaging say dat you be fish nor fit bypass warin you need for scubs gear. 
 
-Opinions do not change reality.
+  Subjection no dey change reality.
 
-Because opinions do not change reality, I cannot grant you any exception or reversal with regards to a universal moral rule. Since moral rules are based on universal logic, as well as the physical nature and reality of a human being, I cannot grant you the “right to murder,” any more than I can grant you the ability to levitate, walk on water or accurately say that two and two make five.
+Becos subjection nor dey change reality, I nor fit permit you any exception or reversal which com get  regards to a universal moral rule. Since moral rules com stay for universal logic, as de physical nature and reality of a human being, I nor go allow you d “right to kpai somebody” not to talk say I com allow you de ability to levitate, waka on water or correctly talk say dat two and two go fit make five.     
 
 ### Government As Voluntarism
 
-The open force involved in the institution of government – the conceptual wrapper that reverses moral rules for a particular group of individuals – is something that is always kept off the table in debates. When talking about government, it is never considered a positive thing to point out “the gun in the room.” Almost by definition, governments are considered to be chosen by and for the people, and to operate with their expressed or implicit approval.
+De open force way dey inside de institution of government – de conceptual wrapper dat change moral rules for a particular people way gather together – na something dat na always  kept off de table in debates. When we dey talk about government, e never show dat we dey point or bring out a positive thing “de gun way dey de room”. Almostly as we dey explain, governments are considered to be selected by and for de people, and to work with dere expressed or implicit approval.       
 
-However, this is pure nonsense.
+However, dis na pure rubbish.   
 
-If a man holds a knife to a woman’s throat while having sex with her, that is by any definition an act of rape. He cannot say that the sex is consensual, while at the same time threatening her with injury or death if she refuses to have sex with him. If the sex is voluntary, then the knife is completely unnecessary. If the man feels the need for a knife, then clearly the sex is *not* voluntary.
+ If a man com put a knife for de throat of a woman com dey fork her, dat  one na by any means an act of rape. He nor fit say dat de fork na consensual, when he dey threatening to wound her or kpai her if she nor agree make e fork her. If de fork na realm between de man and woman, then de knife na completely unnecessary. If de man com feel to carry a knife, then clearly de fork na *not* willingly.      
 
-In the same way, people say that taxation is part of the social contract that they have voluntarily agreed to.
+In de same way, people dey talk dat taxation na part of de social contract dat dey com voluntarily agree to.
 
-This is both logically and empirically false.
+Dis one na both logically and empirically nor be true. 
 
-We know that it is empirically false because *no social contract exists*. Neither you nor I *ever* signed a document voluntarily consenting to the income tax – we were simply born into a system that takes our money from us at the point of a gun.
+We com know dat na empirically lie becos *nor social contact dey*. As if in you nor I *ever* com signed a paper voluntarily consenting to de money way dey com tax – dem com born us inside a system dat collect our money from us becos dey use gun dey point at us.  
 
 ### The Gun In The Room
 
-Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
+Many people com dey argue at dis point dat collecting of tax dem nor use gun take point, but rather dat people com agree to pay am voluntarily. For example, dem never point a gun for my face by dose people who dey collect tax or a policeman, but I don pay tax for plenty years
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+ Dis e if be true, but it na completely irrelevant. If I com tell a woman dat I go kpai her pikin if she nor agree to allow me fork am, and she com agree make I fork am, we come clearly understand dat an immoral action don happen – even when I nor com use the weapon in my violation. Clearly, if de woman agree make I sleep with her, na becos she dey fear dat I go fit do her something. If I com tell her dat my pet leprechaun go kpai her pikins if she nor agree to sleep with me, she go com dey sorry, but she nor go dey fear warin I talk in any significant way, becos e nor dey possible make my pet leprechaun fit kpai her pikins.  
+ 
+Or, if I com kpai, and my will com show dat make I kpai dis woman’s pikins if she nor agree to sleep with me, clearly she nor go feel well rather than she go begin dey fear, since I nor go fit conceivably carry our warin I  threating from beyond de grave. E-hen we com dey pay taxes becos we com know dat if we nor do am, de likelihood of com be aggressed against by representative of de state go com be high. If I nor com pay my taxes, I com get a letter, then another letter, then my phone com ring, then com charge me  go court – and if I nor com go de court, or nor com pay my before taxes and all d fines and profit, policemen go com with dere guns com carry be go jail. If I no agree with dose policemen, dey go com fire me down.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+To com talk say dat force be de same with voluntarism na completely illogical and self-contradictory. To com talk say dat de initiation of de use na completely de same to de non-initiation of de use of force na to talk say dat up na down, black na white, and truth na lie.
 
-Without the “null zone,” these corrupt fictions cannot be sustained.
+Without de “null zone”, dese corrupt fictions nor go be sustained.
 
-The “null zone” is the lair of the beast we hunt.
+De “null zone” na de lier of de beast we hunt. 
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+As we dey see, we com know dat personally e dey wrong to thief; we get small problems with an abstract and logical ban on thief, like as if we com get worked out above – na still, dere com exists dis “null zone” or alternate universe for where dose oppositions go fit be accepted without nor question or concern.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone,” it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+ As UPB dey talk say, e dey wrong for me and you to go steal. Yet somehow, in dis “null zone”, e nor dey allow, but also perfectly *moral*, for any person to go steel. We *no go* steal – dey *must* steal. E dey moral madness!
 
 ### Policemen
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Make we carry our beta friend Bob away from  e little room of moral theory testing and com bring am back  back to his original work as a policeman.
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Clearly, as Bob dey wake up in de morning, before him time for work go reach, e nor fit go to his neighbor’s house and ask for money as e dey point his gun, nor matter any body way tell am say e dey correct.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+When Bob com chop him morning food, he nor go fit com attack his neighbor and com collect e money. As him dey drive dey go work – even when he wear his uniform – he never enter in yet, and thus he nor get de right pass any other person. When he com enter in, however, now, as if dere descends an amoral pillar of fire from de very heavens, he com gains de amazing ability to morally com attack his neighbours and com take dere money.
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Surprisingly, dis na de only characteristic way him get dat he com totally change itself. He nor go fit fly, he nor go fit change his shape, he nor go fit com successfully digest ball bearings or com live inside an inferno; he no go fit run one thousand kilometres for one hour, and neither him go fit waka pass a brick wall. He na absolutely, utterly, and completely *de same man make e be **before** he punched in* - yet now, he com dey subject to completely de other moral rules.
 
-Even more strangely, if I am not a “policeman,” but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Even e com dey more surprisingly, if I nor be a “policeman”, but I com follow Bob go work, and com do exactly warin him dey do – I com wear a shirt, com waka enter de police station, and I com a piece of cardboard inside a punch clock – why, if I com then dey do exactly warin Bob dey do, I be completely and totally immoral, although warin Bob’s do dey completely and totally *moral*.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Warin beta dis thing com make? How we go fit conceivably unravel dis impenetrable magic?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism.”
+De simple true na *nor go fit* be unraveled, becos na completely deranged. De true dat dis “opposite world” moral madness na completely irrational – nor come talk violently exploitive – na so obvious dat dey must buried in warin nor get end cavalcade of mythlogical “voluntarism”.
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+Dey com tell us dat we “want” Bob to take our money – which completely nor be de true dat Bob com appear com de front of our door com dey point a gun where full of bullet for our face. By dis logic, I go fit waka up and down dey street stealing money from my neighbors, and then I com dey show say I dey  utterly shocked when dey com arrested me:
 
-“They *want* me to take their money!”
+“Dey *want* me make I collect dere money!”
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+“But then why me dey threatening say I go fire dem if dem no give me dere money?”
 
-“Because they *owe* me their money!”
+“Becos dey *owe* me dere money!”
 
-“I thought you said that they want to give you their money.”
+  “I com dey think say dat dey want give you dere money”.
 
-“No, no – they owe me. It’s really *my* money!”
+“No, no – dey owe me. Na really *me* get de money!”
 
-“On what grounds do they owe you this money?”
+“How dey com dey owe you de money?”
 
-“We have a contract!”
+“We com get a contract!” 
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+“Make you show me de contract? Dem com agree to signed dis contract without forces dem?” 
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+“No be dat kind of contract! Na a - *social* contract… And besides – according to dat social contract, I com owe de whole street anyway – de whole damn neighbourhood infact! Anybody who nor agree to pay me my money go fit go another place – I nor dey force dey!”
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+“And how you com know say na you get de whole neighborhood? You get ownership papers?"
 
-“Yes, of course – have a look here!”
+“Yes oh, - com look or see am!”
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun.”
+“Well, dis one na just hand dem take write am for paper way talk say dat na you get de whole neighbourhood – and  na de same handwriting with your signature. I dey fear say we go book you down – dis na just a make-up contract with yourself, which you com dey put am for other people as you com dey point gun for dem." 
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Dis na completely madness and corrupt as me dey continue to dey tell a woman dat I dey force dey  sleep with her dat she *wants* to dey sleep with me. You go fit imagine if you dey for court for forcing a woman to sleep with her, and e get  video where dey record when de woman dey beg me to stop, and I carry knife put am for her throat, how I go take defence my self if I continue to talk say dat she *wanted* me to sleep with her?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+Inside dey court, dem go open my secret, and throw me inside jail for my obvious, mad, corrupt and self-serving hypocrisy.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+Ah, but inside de “null zone” of government, forcefully sleep with person na lovemaking, kidnapping na invitation, rejecting thief na evil selfishness, and coercion na kindness.
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Dis na warin I mean when I dey talk say dat dis “opposite world *null zone*” na de most fundamental barrier to human happiness de world over. Stealing na wrong thing for us; stealing na wrong thing in de abstract – but stealing na somehow “right” na for dis insane alternate universe dey dem called “government”?  
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth.”
+[^2]: Make we no even get *started* on de logical nighmare of de truth value contained inside de statement “error na de same as truth."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[^3]: Dis argument fit nor work very well with de maths teachers – I never com see a student way successfully argue dat any answer warin no dey correct may be correct inside another universe, and so e dey unjust to mark am as wrong.

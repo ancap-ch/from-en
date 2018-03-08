@@ -10,15 +10,15 @@ Köprünün ayakta durup durmayacağını araştırmadan rastgele ''hesaplamalar
 
 Köprünün sürdürülebilirliğini destekleyen matematiksel hesaplamalar, diğer değerlendirmeler hesaba katılmadan önce kendi aralarında tutarlı olmalıdır.
 
-Bilgisayar terminolojisinde, derleme yapamayan kod test edilemez.
+Bilgisayar terminolojisin de, derleme yapamayan kod test edilemez.
 
-Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan *hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
+Bu bilimsel dünya içinde geçerlidir. Teoriler deneysel testlere sunulmadan önce daima iç tutarlılıkları kontrol edilir. İç tutarlılığın bu kadar zorunlu olmasının nedeni teorilerin gerçekliğe dayalı bir değere sahip olduklarını iddia etmeleridir, ve realite içsel olarak tutarlıdır. Kendi içinde tutarlı *olmayan* hiç bir teori gerçeğe dayalı bir değere sahip olamaz.
 
-Sadece hesaplamaların iç tutarlılığı sabitlendikten *sonra* köprünün şartnamelere uygunluk derecesi gözden geçirilebilir. Eğer ki mühendis model demir yolu dergisine bir makale yazıyorsa, tamamen balza ağacından yapılan küçük bir köprü için içsel tutarlılığı olan belirlemelerde bulunmak, belirlemeleri tutarlı olarak değerlendirmek mümkün, aksi takdirde herhangi bir endüstriyel gereksinimi karşılayamaz.
+Sadece hesaplamaların iç tutarlılığı sabitlendik ten *sonra* köprünün şartnamelere uygunluk derecesi gözden geçirilebilir. Eğer ki mühendis model demir yolu dergisine bir makale yazıyorsa, tamamen balza ağacından yapılan küçük bir köprü için, içsel tutarlılığı olan belirlemelerde bulunmak, belirlemeleri tutarlı olarak değerlendirmek mümkün. Aksi takdirde herhangi bir endüstriyel gereksinimi karşılayamaz.
 
 Köprünün ayakta duracağına karar verdikten sonra, trenlere karşı yayaların ağırlıklarını desteklemek gibi belirli ihtiyaçlarımızı karşılayıp karşılamadığını belirleyebiliriz.
 
-Ekonomi alanında, benzer ölçütler geçerlidir. Eğer ekonomi teorim aynı anda artıp azalmayı gerektiriyorsa, bunun mümkün olmamasından dolayı teorim geçerli olamaz. Teorim iç tutarlık için kontrol edildikten sonra, kanıt aramaya başlayabilirim, ve /veya teorimi kullanarak proaktif öngörülere başlayabilirim.
+Ekonomi alanında, benzer ölçütler geçerlidir. Eğer ekonomi teorim aynı anda artıp azalmayı gerektiriyorsa, bunun mümkün olmamasından dolayı teorim geçerli olamaz. Teorim iç tutarlık için kontrol edildikten sonra, kanıt aramaya başlayabilirim, ve/veya teorimi kullanarak proaktif öngörülere başlayabilirim.
 
 Böylelikle, bir teorinin geçerli olabilmesi için aşağıdakileri gerektirdiğini görebiliriz:
 

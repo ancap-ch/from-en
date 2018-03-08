@@ -1,28 +1,30 @@
-## Internal Consistency
+## Внутренняя согласованность
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Если я архитектор и составляю план строительства дома, то первое препятствие, которое я должен преодолеть, это может ли быть мой дом построен вообще. Если я составлю прекрасный план дома, построенного исключительно из мыльных пузырей, я никогда не получу свое вознаграждение, поскольку такой “дом” просто не будет стоять.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+Таким же образом, если инженер составляет план моста, первый критерий, который должен быть выполнен, это простоит ли такой мост.
+ 
+Другие требования, такие как долговечность, эстетичность и так далее, будут рассматриваться в дальнейшем только если мост будет физически реализуемым для начала. 
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Было бы нелогично, не говоря уже крайне непродуктивно, строить мост из случайных материалов, используя случайные “расчеты” для того чтобы выяснить, простоит он или нет. Поскольку физические законы постоянные и универсальные, достаточно просто узнать, будет ли мост стоять или нет до того как строить его. 
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Существует два способа определения устойчивости моста до его строительства. Первый способ - искать внутренние несоответствия в исходных условиях и расчетах, призванных подтвердить устойчивость моста. Если в расчетах, обосновывающих вес удерживаемый мостом, будут присутствовать существенные ошибки, тогда мост вероятнее всего будет либо излишне усложненным либо упрощенным. Если ошибочные математические расчеты дадут прочность в минус пятьдесят тонн на квадратный фут в любой точке моста, тогда он наверняка не будет стоять, или его устойчивость будет только лишь случайной, а не воспроизводимой.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Таким образом математические расчеты, лежащие в основе устойчивости моста, должны быть внутренне согласованными до того как принимать во внимание любые другие соображения.
 
-In computer terms, code that does not compile cannot be tested.
+Говоря компьютерным языком, код, который не компилируется, не поддается тестированию.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Это также верно и в научном мире. Теории всегда проверяются на внутреннюю согласованность до того как будут переданы для эмпирических исследований. Причина, по которой внутренняя согласованность так важна, заключается в том, что поскольку теории якобы имеют ценность по отношению к реальности, а реальность является внутренне согласованной, любая теория, не являющаяся внутренне согласованной, не может иметь ценность по отношению к реальности.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+Только после того как внутренняя согласованность расчетов будет установлена, можно рассматривать то, до какой степени мост соответствует требованиям. Можно составить внутренне согласованные технические характеристики небольшого моста, построенного исключительно из пробкового дерева, но если инженер не напишет статью для железнодорожного журнала, его характеристики, несмотря на свою согласованность, не будут соответствовать промышленным требованиям.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Как только мы определим, будет ли мост стоять, мы сможем затем установить, соответствует ли он нашим специфическим требованиям, таким как выдержит ли вес пешеходов в сравнении с поездами.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+В мире экономики действует тот же критерий. Если моя экономическая теория требует чтобы цены одновременно росли и снижались, тогда она не может быть состоятельной, так как это невозможно. Как только моя теория будет проверена на внутреннюю согласованность, я смогу начать искать доказательства, или начать использовать свою теорию для того чтобы давать проактивные предсказания.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Таким образом мы видим, что для того чтобы быть состоятельной любая теория требует следующего:
 
-1. Internal consistency (logic).
-2. External consistency (testability).
+Внутренняя согласованность (логика).
+Внешняя согласованность (испытуемость).
 
-With this in mind, we can now turn to the core subject of this book.
+Держа все это в уме, мы можем теперь переходить к основной идее этой книги.

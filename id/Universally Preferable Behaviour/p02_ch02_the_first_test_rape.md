@@ -1,155 +1,155 @@
 ## Tes Pertama: Pemerkosaan
 
-Meskipun topik yang tidak menyenangkan untuk mendiskusikan, perkosaan adalah tanpa diragukan lagi *paling tidak* ambigu tindakan yang teori moral harus mencakup. Pembunuhan bisa dipersulit dengannya pembelaan diri; pencurian oleh masalah kelaparan atau "mencuri kembali" - tapi orang tidak pernah bisa memperkosa pembelaan diri; Dengan definisi yang sangat berarti inisiasi agresi.
+Meskipun topik ini tidak menyenangkan untuk didiskusikan, pemerkosaan adalah tanpa diragukan lagi *paling tidak* tindakan yang paling mencakup teori moral. Pembunuhan bisa dipersulit dengannya pembelaan diri; pencurian bisa dipersulit oleh masalah kelaparan atau "mencuri kembali" - tapi seorang pemerkosa tidak pernah bisa membela diri; Dengan definisi yang sangat berarti inisiasi agresi.
 
 Mari kita gunakan kerangkanya UPB untuk memeriksa konsistensi logis dari proposisi etis mengenai pemerkosaan, dengan mengacu pada tujuh kategori moral ini.
 
-### Tuhan baik
+### Kebaikan
 
 Sebagai contoh yang masuk akal, mari kita bayangkan bahwa kita sedang mengkaji sebuah teori yang etis yang menyatakan bahwa pemerkosaan adalah kebaikan moral.
 
-Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahatnya. If *not raping* is good, then *raping* must be evil. If *not raping* is good, then *raping* must be evil.
+Jelas, jika saya menyatakan bahwa "X" adalah "barang bagus", maka kebalikan dari "X" pasti jahatnya. jika tidak *memperkosa* adalah baik, selanjutnya *memperkosa* pasti jahat Jika * tidak memperkosa * baik, maka *memperkosa* pasti jahat.
 
-Memperkosa seseorang adalah tindakan positif yang harus dimulai, dieksekusi, dan kemudian menyelesaikan. Jika "perkosaan" adalah moral baik, maka "tidak raping" harus menjadi kejahatan moral-sehingga tidak mungkin bagi dua orang dalam satu kamar *berdua akan moral pada saat yang sama*, karena hanya salah satu dari mereka bisa pemerkosa pada saat tertentu – dan ia hanya dapat pemerkosa jika orang lain menjadi korban.
+Memperkosa seseorang adalah tindakan positif yang harus dimulai, dieksekusi, dan kemudian diselesaikan. Jika "pemerkosaan" adalah moral baik, maka "tidak raping" harus menjadi kejahatan moral-sehingga tidak mungkin bagi dua orang dalam satu kamar *berdua akan moral pada saat yang sama*, karena hanya salah satu dari mereka bisa pemerkosa pada saat tertentu dan ia hanya dapat pemerkosa jika orang lain menjadi korbannya.
 
-Yang memungkinkan kebajikan tidak bisa menjadi jahat. "Kebebasan", misalnya, adalah prasyarat untuk kebajikan-tanpa kebebasan, kita tidak bisa saleh-dengan demikian "kebebasan" tidak jahat, karena itu *diperlukan* untuk kebaikan.
+Yang memungkinkan kebajikan tidak bisa menjadi jahat. "Kebebasan", misalnya, merupakan prasyarat untuk kebajikan tanpa kebebasan, kita tidak bisa berbudi luhur. Jadi "kebebasan" tidak bisa menjadi jahat, karena itu * dibutuhkan * untuk kebaikan.
 
-Jika secara moral baik menjadi pemerkosa, dan seseorang hanya bisa menjadi pemerkosa dengan melakukan penganiayaan seksual terhadap korban, maka jelas dan korban harus secara moral baik dengan melawan kekerasan seksual - karena jika dia tidak menolak, maka menurut definisi bukan pemerkosaan., dan karena itu tidak berbudi luhur. Dengan kata lain, *menyerang* kebajikan oleh definisi *memungkinkan* kebajikan. Dengan demikian, kita memiliki paradoks yang tidak dapat diatasi, di mana korban harus menyerang dengan kebajikan untuk memungkinkan kebajikan - ia harus menolak serangan seksual untuk memungkinkan "kebajikan" pemerkosa. Dengan demikian tidak hanya dapat korban pemerkosaan *tidak* menjadi Saleh, tapi dia harus menolak dan menyerang "kebajikan" untuk memungkinkan itu.
+Jika secara moral baik menjadi pemerkosa, dan seseorang hanya bisa menjadi pemerkosa dengan melakukan kekerasan seksual terhadap korban, maka jelas korban harus secara moral baik dengan melawan kekerasan seksual, karena jika dia tidak menolak, maka menurut definisi bukan pemerkosaan. , dan karena itu tidak berbudi luhur. Dengan kata lain, *menyerang* kebajikan dengan definisi *memungkinkan* kebajikan. Dengan demikian, kita memiliki paradoks yang tidak dapat diatasi, di mana korban harus menyerang kebajikan untuk memungkinkan kebajikan, ia harus menolak serangan seksual untuk memungkinkan "kebajikan" pemerkosa. Dengan demikian tidak hanya korban pemerkosaan *tidak* berbudi luhur, tapi dia harus menolak dan menyerang "kebajikan" agar bisa mengijinkannya.
 
-Masalah logis yang tidak dapat diatasi karenanya dihasilkan dari proposisi: "pemerkosaan itu tidak bermoral." Ingat, kita sepakat bahwa teori rasional tidak dapat mengusulkan keadaan yang berlawanan untuk situasi yang sama. Semua hal lainnya sama, batu tidak bisa jatuh ke atas dan ke bawah pada saatnya bersamaan, dan teori yang benar tidak dapat memprediksi bahwa satu batu akan jatuh, sementara batu lain akan jatuh.
+Masalah logis yang tidak dapat diatasi akibat dari proposisi: "pemerkosaan adalah moral". Ingat, kami sepakat bahwa teori rasional tidak dapat mengusulkan keadaan yang berlawanan untuk situasi yang sama. Semua hal lainnya sama, batu tidak bisa jatuh ke atas dan ke bawah pada saat bersamaan, dan teori yang benar tidak dapat memprediksi bahwa satu batu akan jatuh, sementara batu lain akan jatuh.
 
-Dengan cara yang sama, dua pria di ruangan harus dipertimbangkan dalam situasi yang sama saja. Jika hanya satu dari mereka bisa menjadi baik, karena kebaikan didefinisikan sebagai salah pemerkosaan, dan hanya satu di antaranya yang bisa memperkosa kapan saja, maka kita memiliki kontradiksi logis yang tidak dapat dipecahkan.
+Dengan cara yang sama, dua pria di ruangan harus dipertimbangkan dalam situasi yang sama. Jika hanya satu dari mereka bisa menjadi baik, karena kebaikan didefinisikan sebagai pemerkosaan, dan hanya satu di antaranya yang bisa memperkosa kapan saja, maka kita memiliki kontradiksi logis yang tidak dapat dipecahkan.
 
-Juga, jika kita ingat bahwa Perilaku yang Diutamakan Secara Universal harus bebas dari waktunya, maka kita juga menghadapi masalah logis bahwa, tidak peduli seberapa kejam fisiknya, pada suatu saat pemerkosa tidak akan dapat memperkosa lagi, karena dia akan secara fisik tidak bisa ereksi. Pada saat itu, kemampuannya untuk melakukan "tindakan baik" menjadi tidak mungkin saja. Karena "penghindaran" adalah kriteria kunci untuk moralitas, namun secara fisik dia tidak mampu menjadi baik - dengan kata lain, dia tidak dapat menghindari kejahatan - maka dia tidak dapat bertanggung jawab untuk tidak memperkosa orang lain itu.
+Juga, jika kita ingat bahwa Perilaku yang Diutamakan Secara Universal harus bebas dari waktu, maka kita juga menghadapi masalah logis bahwa, tidak peduli seberapa kejam fisiknya, pada suatu saat pemerkosa tidak akan dapat memperkosa lagi, karena dia akan secara fisik tidak bisa ereksi Pada saat itu, kemampuannya untuk melakukan "tindakan baik" menjadi tidak mungkin. Karena "penghindaran" adalah kriteria kunci untuk moralitas, namun secara fisik dia tidak mampu menjadi baik - dengan kata lain, dia tidak dapat menghindari kejahatan, maka dia tidak dapat bertanggung jawab untuk tidak memperkosa orang lain.
 
-Jika seorang pria yang menggantung dari pohon di atas ngarai membiarkannya pergi karena dia tidak memiliki kekuatan untuk terus berpegangan, kami tidak akan menyebutnya sebagai bunuh diri, karena pilihan untuk bertahan tidak lagi tersedia baginya saja. Jika dia membiarkan pergi dan meskipun dia memiliki kekuatan untuk terus berpegangan, kasusnya tidak akan begitu jelas.
+Jika seorang pria yang menggantung dari pohon di atas ngarai membiarkannya pergi karena dia tidak memiliki kekuatan untuk terus berpegangan, kami tidak akan menyebutnya sebagai bunuh diri, karena pilihan untuk bertahan tidak lagi tersedia baginya. Jika dia membiarkan pergi meskipun dia memiliki kekuatan untuk terus berpegangan, kasusnya tidak akan begitu jelas.
 
-#### Test Koma
+#### Tes Koma
 
-Secara intuitif, sulit untuk membayangkan bahwa setiap teori yang menganggap dan amoralitas terhadap seseorang dalam keadaan koma bisa berlaku. Setiap teori etis yang mengemukakan tindakan positif sebagai perilaku yang lebih baik dan secara universal menghadapi tantangan "ujian koma." Jika saya mengatakan bahwa memberikan kasih amal adalah mutlak moral, maka dengan jelas tidak memberi sedekah akan menjadi tidak bermoral. Namun, seorang pria dalam keadaan koma jelas tidak dapat memberikannya untuk amalnya, dan dengan demikian, menurut teori saya, diklasifikasikan sebagai tidak bermoral. Demikian pula, seorang pria yang tidur, atau tidak memiliki uang untuk memberikan- atau orang saat ini *menerima* amal-semua akan tidak bermoral.
+Secara intuitif, sulit untuk membayangkan bahwa setiap teori yang menganggap amoralitas terhadap seseorang dalam keadaan koma bisa berlaku. Setiap teori etika yang mengemukakan tindakan positif sebagai perilaku yang lebih baik secara universal menghadapi tantangan "tes koma". Jika saya mengatakan bahwa memberi sedekah adalah mutlak moral, maka jelas tidak memberi sedekah akan menjadi tidak bermoral. Namun, seorang pria dalam keadaan koma jelas tidak dapat memberikannya untuk amal, dan dengan demikian, menurut teori saya, diklasifikasikan sebagai tidak bermoral. Demikian pula, pria yang sedang tidur, atau tidak memiliki uang untuk diberikan, atau pria yang saat ini *menerima* sedekah akan semuanya akan menjadi tidak bermoral.
 
-Ini adalah masalah sentral lain adalah dengan teori yang menunjukkan tindakan positif seperti "pemerkosaan" sebagai moral. Pada waktu tertentu, ada sejumlah orang yang tidak dapat melakukan tindakan positif semacam itu, yang kemudian harus dikutuk sebagai kejahatan seksual, walaupun mereka tidak memiliki kemampuan untuk "baik." Namun, jika tidak mungkin untuk menghindari " jahat, "maka jelas jahat sebagai sebuah konsep tidak masuk akal. Pada contoh di atas batu karang yang menabrak bukit, batu itu tidak "jahat" karena memukul mobil Anda, karena tidak memiliki kapasitas untuk menghindarinya dari kehendak bebasnya sendirinya. Jika rem seseorang gagalnya setelah diservis, maka bukan tanggung jawabnya untuk gagal berhenti. Jika dia tidak pernah memilikinya remnya yang dilayani dalam sepuluh tahun, maka ketidak bertanggung jawabnya adalah penyebab langsung momentumnya terus berlanjut, dan dia bisa disalahkan.
+Ini adalah masalah sentral lain dengan teori yang menunjukkan tindakan positif seperti "pemerkosaan" sebagai moral. Pada waktu tertentu, ada sejumlah orang yang tidak dapat melakukan tindakan positif semacam itu, yang kemudian harus dihukum sebagai kejahatan, meskipun mereka tidak memiliki kemampuan untuk "baik". Namun, jika tidak mungkin untuk menghindari "kejahatan", maka jelas jahat sebagai sebuah konsep tidak masuk akal. Pada contoh di atas batu karang yang menabrak bukit, batu itu tidak "jahat" karena memukul mobil anda, karena tidak memiliki kapasitas untuk menghindarinya dari kehendak bebasnya sendiri. Jika rem seseorang blong setelah diservis, maka bukan tanggung jawabnya untuk gagal berhenti. Jika dia tidak pernah memiliki remnya yang dilayani dalam sepuluh tahun, maka ketidak bertanggung jawabnya adalah penyebab langsung momentumnya terus berlanjut, dan dia bisa disalahkan.
 
-Dengan cara ini sangat, konsep "avoidability" mempertahankan penggunaannya. Seorang pria dalam keadaan koma tidak dapat menghindari terbaring di tempat tidurnya, karena dia ada dalam keadaan setengah tak sadar. Karena dia tidak dapat menghindari tindakannya - atau kelambanan dalam kasus ini - imobilitasnya tidak dapat menjadikannya tidak bermoral.
+Dengan cara ini, konsep "pencegahan" mempertahankan penggunaannya. Seorang pria dalam keadaan koma tidak dapat menghindari terbaring di tempat tidurnya, karena dia dalam keadaan setengah tak sadar. Karena dia tidak dapat menghindari tindakannya, atau kelambanan dalam kasus ini dan imobilitasnya tidak dapat menjadi tidak bermoral.
 
-Pada titik ini, keberatan cukup dapat diangkat bahwa jika seseorang yang koma tidak dapat bersikap tidak bermoral, maka dia juga tidak dapat bersikap moral saja. Namun, sebelumnya kita mengatakan bahwasanya kebalikan dari tindakan tidak bermoral harus bermoral. Jika kita mengusulkan aturan moral, "engkau tidak engkau memperkosa," kemudian dapat kita panggilan the man in koma *moral*, karena ia tidak perkosaan?
+Pada titik ini, keberatan cukup dapat diangkat bahwa jika seseorang yang koma tidak dapat bersikap tidak bermoral, maka dia juga tidak dapat bersikap moral. Namun, sebelumnya kita mengatakan bahwa kebalikan dari tindakan tidak bermoral harus bermoral. Jika kita mengusulkan peraturan moral, "janganlah kamu memperkosa", maka bisakah kita menyebut orang itu dengan koma *bermoral*, karena dia tidak memperkosa?
 
 #### Kapasitas
 
-Konsep "avoidability" bekerja secara positif maupun negatif saja. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahannya diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaannya genital setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa memanggil seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis - bagaimanapun, kita pasti akan merevisi perkiraannya kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan malang menyesali tindakannya saat bangun tidur.
+Konsep "pencegahan" berfungsi secara positif maupun negatif. Jika saya kehilangan alat kelamin saya dalam kecelakaan yang mengerikan, apakah saya bermoral karena menahan diri dari pemerkosaan? Kelihatannya sulit untuk membantah bahwa saya dapat melakukannya, karena perkosaan alat kelamin setidaknya tidak mungkin bagi saya. Demikian pula, kita bisa menyebut seorang pria "murah hati" jika dia memberi seratus dolar kepada seorang pengemis. Bagaimanapun, kita pasti akan merevisi perkiraan kita jika ternyata ia menyerahkan uangnya saat berjalan dalam tidur, dan dengan malang menyesali tindakannya saat bangun tidur.
 
-Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkannya, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, juga tidak bisa dianggap lebih baik. Dia ada di negara bagian tanpa pilihan, seperti bayi, atau binatang - sehingga ia dapat secara wajarnya dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
+Dengan demikian kita dapat dengan mudah mengatakan bahwa di mana pilihan tidak hadir, atau tidak dapat diterapkan, moralitas juga tidak ada, atau tidak dapat diterapkan. Dengan demikian pria dalam keadaan koma, sementara tindakannya tidak bisa dianggap jahat, dan juga tidak bisa dianggap baik. Dia ada pad keadaan tanpa pilihan, seperti bayi, atau binatang yang mana ia dapat secara wajar dikecualikan dari peraturan moral, karena ada keadaan fisik yang secara obyektif membedakannya dari orang yang dapat memilih, yang diijinkan di bawah UPB.
 
-Dengan pemikiran itu, mari kita lanjutkannya pemeriksaan pemerkosaan.
+Dengan pemikiran itu, mari kita lanjutkan pemeriksaan pemerkosaan.
 
-### Secara estetisnya Positif
+### Positif Secara Estetis
 
-Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak dapat dilaksanakannya melalui kekerasan, karena tindakan negatif secara estetis tidak memulai penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan Anda, saya belum memulai penggunaan kekuatan melawan Anda, dan saya belum menyingkirkannya kemampuan Anda untuk memilih, atau menghindari situasi ini.
+Tindakan positif secara estetis (APAs) lebih disukai secara universal, namun tidak dapat dilaksanakan melalui kekerasan, karena tindakan negatif secara estetis tidak memulai penggunaan kekerasan. Seperti yang telah kita bahas di atas, jika saya terlambat bertemu dengan anda, maka saya belum memulai penggunaan kekuatan melawan anda, dan saya belum menyingkirkan kemampuan anda untuk memilih, atau menghindari situasi ini.
 
-Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakannya bahwa inisiasi kekerasan itu baik secara moral.
+Jika kita mengatakan bahwa APA dapat ditegakkan melalui kekerasan, maka kita mengatakan bahwa inisiasi kekerasan itu baik secara moral.
 
-Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moralnya, maka peraturan ini menghadapi semua kemustahilan logis yang sama seperti peraturan bahwa "perkosaan itu baik secara moral."
+Jika kita mengusulkan sebuah peraturan moral bahwa inisiasi kekerasan itu baik secara moral, maka peraturan ini menghadapi semua kemustahilan logika yang sama seperti peraturan bahwa "perkosaan itu baik secara moral”.
 
-Dua pria di sebuah ruangan tidak bisa secara moral baik pada saat yang sama, karena salah satunya dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya - karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Dengan demikian kebajikan dapat hanya diaktifkan oleh menolak kebajikan, dan dua orang dalam situasi yang sama tidak baik dapat moral pada saat yang sama, dan seterusnya-yang semuanya pelanggaran UPB.
+Dua pria di sebuah ruangan tidak bisa secara moral baik pada saat yang sama, karena salah satu dari mereka harus melakukan kekerasan terhadap yang lain, dan yang lainnya harus menolaknya karena jika dia tidak menolaknya, maka definisi tersebut bukan kekerasan, seperti dalam kasus ahli bedah yang telah kita bahas di atas. Jadi kebajikan hanya bisa dimungkinkan dengan melawan kebajikan, dan dua pria dalam situasi yang sama tidak dapat keduanya bermoral sekaligus, dan seterusnya yang semuanya merupakan pelanggaran UPB.
 
-Jadi kita tahu bahwa pemerkosaan tidak bisa APA.
+Dengan demikian, kita tahu bahwa perkosaan tidak bisa menjadi APA.
 
-Kami bisa mengkonfirmasi ini dengan meninjau alasan mengapa "menjadi tepat waktu" *adalah* APA.
+Kita bisa mengonfirmasi ini dengan meninjau alasan mengapa "tepat waktu" adalah APA.
 
-Pertama-tama kita secara naluriah memahami bahwa itu lebih hanya untuk menolak teman karena terus-menerus terlambat daripada untuk menolak teman untuk tidak menyukai es krim.
+Pertama-tama, secara naluriah kita mengerti bahwa lebih mudah menolak seorang teman karena terlambat terus-menerus daripada menolak teman karena tidak menyukai es krim.
 
-Kenapa begitu?
+Mengapa demikian?
 
-Sekali lagi, rangka UPB muncul untuk menyelamatkan.
+Sekali lagi, kerangka UPB datang untuk menyelamatkan.
 
-APA adalah *aturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan *.
+APA adalah sebuah *peraturan yang bukan koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan*.
 
-Umpamanya, jika APA saya: ”tepat waktu,” lalu itu akan menjadi standar dunia yang benar-benar dapat dihindari. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun.[^1]
+Misalnya, jika APA saya adalah: "tepat waktu", maka itu bisa menjadi standar universal yang bisa dihindari sama sekali. Saya tidak bisa memaksakan APA ini pada Anda karena Anda tidak harus menjadi teman saya, Anda tidak harus tepat waktu, Anda tidak perlu menghormati atau mengikuti preferensi saya dengan cara apa pun. [^1]
 
-Jika "tepat waktu" adalah APA, maka ada kemungkinan dua orang mencapai-nya secara bersamaan - jika keduanya tepat waktu.
+Jika "tepat waktu" adalah APA, maka ada kemungkinan dua orang mencapainya secara bersamaan - jika keduanya tepat waktu.
 
-Dengan pikiran cabul, seperti kita lihat diatas, hal itu tidak mungkin bagi dua orang untuk melakukanya dalam waktu yang sama. Yang satu harus selalu menjadi pemerkosa, dan yang lain selalu menjadi korban.
+Dengan pemerkosaan meskipun, seperti yang telah kita lihat di atas, tidak mungkin dua orang melakukannya pada waktu bersamaan. Kita harus selalu menjadi pemerkosa, dan yang lainnya selalu menjadi korban.
 
-Di sisi lain, jika saya mengatakan bahwa "menyukai jazz" adalah APA, maka saya langsung mengalami kemustahilan logis. Ingat, APAs adalah peraturan non-koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan - rumusan yang benar untuk "menyukai jazz" adalah: "preferensi subjektif lebih disukai secara universal."
+Di sisi lain, jika saya mengatakan bahwa "menyukai musik jazz" adalah APA, maka saya langsung mengalami kemustahilan logika. Ingat, APAs adalah peraturan yang tidak koersif yang dapat diterapkan secara rasional ke kedua belah pihak secara bersamaan dan rumusan yang benar untuk "menyukai musik jazz" adalah: "preferensi subjektif lebih disukai secara universal".
 
-Tidak hanya ini kontradiksi peringkat dalam hal sintaksis, tapi juga segera gagal dalam ujian UPB. Jika saya suka jazz semua bentuk-bentuk lain dari musik, tapi Anda lebih suka musik klasik semua bentuk-bentuk lain, dan jika preferensi pribadi Universal lebih baik, maka Anda harus memilih jazz karena saya lakukan, dan saya harus memilih klasik karena Anda lakukan. Ini tentu saja tidak mungkin, karena akan mengharuskan kita berdua memilih*jazz dan klasik di atas semua bentuk musik lainnya*. Anda harus mengubah preferensi Anda menjadi jazz, karena preferensi saya - tapi pada saat yang sama saya mengalihkan preferensi saya ke klasik, karena preferensi Anda. Ini seperti mengatakan bahwa Anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama - kemustahilan logis dan fisik.
+Tidak hanya ini kontradiksi peringkat dalam hal sintaksis, tapi juga segera gagal dalam ujian UPB. Jika saya lebih memilih musik jazz untuk semua bentuk musik lainnya, tapi anda lebih memilih musik klasik untuk semua bentuk lainnya, dan jika preferensi pribadi lebih disukai secara universal, maka anda lebih memilih musik jazz karena saya menyukainya, dan saya lebih suka klasik karena Anda melakukannya. Ini tentu saja tidak mungkin, karena akan mengharuskan kita berdua secara simultan lebih menyukai jazz dan klasik daripada semua bentuk musik lainnya. Anda harus mengubah preferensi anda menjadi musik jazz, karena preferensi saya. tapi pada saat yang sama saya mengalihkan preferensi saya ke musik klasik, karena preferensi anda. Ini seperti mengatakan bahwa anda harus melempar dan menangkap bola bisbol yang sama pada saat yang sama dimana mustahil secara logika dan fisik.
 
-Karena APAs tidak dapat dilaksanakan melalui kekerasan - Anda tidak bisa menembak seorang pria karena terlambat - maka perkosaan tidak bisa menjadi APA, karena pemerkosaan menurut definisi adalah serangan seksual yang ditegakkan melalui kekerasan.
+Karena APAs tidak dapat dilaksanakan melalui kekerasan, anda tidak bisa menembak seorang pria karena terlambat - maka pemerkosaan *tidak* bisa menjadi sebuah APA, karena pemerkosaan menurut definisi adalah serangan seksual yang ditegakkan melalui kekerasan.
 
 Dengan demikian pemerkosaan tidak bisa masuk dalam kategori APAs.
 
-### Positif secara pribadi
+### Positif Secara Personal
 
-Mungkin mencabuli mirip dengan preferensi pribadi saja.[^2]
+Mungkin pemerkosaan mirip dengan preferensi pribadi. [^2]
 
 Pertanyaannya kemudian muncul: dapatkah klasifikasi pemerkosaan sebagai preferensi pribadi hanya berdiri untuk pengamatan logis?
 
-Jika kita mengusulkan peraturan moral: "preferensi-preferensi pribadi harus ditimbulkan secara kejam pada orang lain," bagaimana hal itu sesuai dengan kerangka UPB?[^3]
+Jika kita mengusulkan peraturan moral: "preferensi pribadi harus ditimbulkan secara kejam terhadap orang lain", bagaimana hal itu sesuai dengan kerangka UPB? [^3]
 
-Pilihan pribadi tidak bisa dengan tepat dibebankan terhadap orang lain, karena itu akan menciptakan paradoks logis yang tidak dapat diatasi.
+Preferensi pribadi tidak bisa dikatakan adil terhadap orang lain, karena itu akan menciptakan paradoks logis yang tidak dapat diatasi.
 
-Jika saya katakan bahwa menyukai grup band Queen diatas yang lainnya adalah perilaku yang lebih baik, atas dasar apa saya dapat membenarkan pernyataan itu? Hanya dengan mengatakan bahwa semua pilihan pribadi akan dibebankan terhadap orang lain. Namun, jika preferensi pribadi saya dapat ditimpakan kepada Anda sesuka hati, maka dengan definisi UPB, preferensi pribadi Anda juga dapat ditimpakan terhadap *saya* sesukanya. Dengan demikian kita tidak bisa berdua menjadi moral pada waktu yang sama, karena hal itu menuntut kita berdua untuk memilih band masing-masing sementara dalam waktu yang sama menyerahkan pilihan pada band yang dipilih satu sama lain. Dengan kata lain, saya sekaligus harus berpikir bahwa Queen adalah band yang terbaik, dan bahwa polisi adalah band terbaik. Ini adalah kemustahilan, yang merupakan alasan utama mengapa hanya preferensi pribadi tidak dapat dilaksanakan secara universal.
+ika saya mengatakan bahwa menyukai band Queen di atas segalanya adalah perilaku yang lebih baik secara keseluruhan, dan atas dasar apa saya bisa membenarkan pernyataan itu? Hanya dengan mengatakan bahwa semua preferensi pribadi harus diberikan pada orang lain. Namun, jika preferensi pribadi saya dapat ditimpakan kepada Anda sesuka hati, maka dengan definisi UPB, preferensi pribadi Anda juga dapat ditimpakan pada *saya* sesuka hati. Dengan demikian kita tidak dapat keduanya menjadi moral pada saat yang sama, karena itu mengharuskan kita berdua lebih memilih band kita sendiri sementara pada saat bersamaan menyerahkan preferensi itu ke band-band pilihan satu sama lain. Dengan kata lain, saya harus secara bersamaan berpikir bahwa Ratu adalah band terbaik, dan bahwa The Police adalah band terbaik. Ini adalah kemustahilan logis, yang merupakan alasan utama mengapa hanya preferensi pribadi yang tidak dapat dilaksanakan secara universal.
 
-Dengan demikian jika perkosaan dianggap preferensi pribadi hanya, maka itu tidak logis akan diberlakukan pada orang lain. Sekali lagi, berpikir dua laki-laki di Kamar, ini akan memerlukan bahwa kedua orang lebih suka untuk memperkosa satu sama lain, namun tetap benar-benar mampu untuk menegakkan keputusan itu, yang tidak hanya tidak logis, tapi juga Untungnya benar-benar tidak praktis.
+Jadi jika pemerkosaan dianggap hanya preferensi pribadi, maka secara logis tidak dapat diterapkan pada orang lain. Sekali lagi, memikirkan kedua pria di sebuah ruangan, ini mengharuskan kedua pria lebih suka memperkosa satu sama lain, namun sama sekali tidak dapat memaksakan keputusan itu, yang tidak hanya tidak masuk akal, tapi juga untungnya sama sekali tidak praktis.
 
-Finally, since personal preferences cannot be enforced on others, but rape is by definition the enforcement of a “preference” upon another, rape cannot be in the moral category of merely personal preferences.
+Akhirnya, karena preferensi pribadi tidak dapat ditegakkan pada orang lain, namun pemerkosaan adalah dengan definisi penegakan "preferensi" terhadap orang lain, pemerkosaan tidak dapat dilakukan dalam kategori moral hanya preferensi pribadi.
 
-### Moral netral
+### Netral Secara Moral
 
-Seperti yang dibahas diatas, pemerkosaan tidak bisa tindakan yang secara moral netral, karena itu adalah preferensi yang diberlakukan atas yang lain.
+Sebagaimana dibahas di atas, pemerkosaan tidak bisa menjadi tindakan yang netral secara moral, karena ini adalah preferensi yang ditegakkan di atas yang lain.
 
-### Pribadi negatif
+### Negatif secara pribadi
 
-Mungkin perkosaan adalah tindakan *pribadi negatif*, kebalikan dari nomor tiga. Sebagai contoh, seorang penjahat di jalankan akan mempertimbangkan mengambil tindakan pribadi negatif (PNA).
+Mungkin pemerkosaan adalah tindakan *pribadi negatif*, kebalikan dari nomor tiga. Sebagai contoh, seorang kriminal dalam pelarian akan mempertimbangkan untuk menangkap tindakan negatif pribadi (PNA).
 
-Pribadi tindakan negatif (PNAs) oleh definisi tidak bisa ditegakkan atas yang lain. Dengan demikian seorang diperkosa akan salah untuk "menimbulkan" preferensi-nya untuk *tidak diperkosa* saat pemerkosa nya, dalam bentuk pertahanan diri. Dengan cara ini, inisiasi kekerasan-pelaksanaan preferensi pribadi – adalah *moral*, sementara pertahanan diri-juga penegakan preferensi pribadi-tidak bermoral. Dengan demikian kita akan memiliki tindakan yang sama (penegakan preferensi pribadi) diklasifikasikan sebagai moral dan tidak bermoral, yang tidak dapat berdiri.
+Tindakan negatif pribadi (PNA) menurut definisi tidak dapat diterapkan pada yang lain. Jadi, seorang pria yang diperkosa akan salah jika "menimbulkan" keinginannya untuk *tidak diperkosa* atas pemerkosanya, dalam bentuk pembelaan diri. Dengan cara ini, inisiasi kekerasan, penegakan preferensi pribadi yang bersifat *moral*, sementara pembelaan diri dan juga penegakan preferensi pribadi tidak bermoral. Dengan demikian kita akan memiliki tindakan yang sama (penegakan preferensi pribadi) tergolong baik moral maupun tidak bermoral, yang tidak dapat bertahan.
 
-### Secara estetisnya Positif
+### Secara estetis negatif
 
-Mungkin pemerkosaan adalah estetis tindakan *negatif*, seperti "terlambat"-sisi lain dari nomor dua di atas. Indonesian English Korean Namun, tindakan estetis negatif (ANAs) tidak logis dapat ditegakkan keras *karena menurut definisi mereka dapat dihindari*. Karena saya dapat dengan bebas memilih untuk berhenti bergaul dengan seorang pria yang terus-menerus muncul terlambat, aku tidak bisa menembak dia karena terlambat.
+Mungkin pemerkosaan adalah aksi estetis *negatif*, seperti "terlambat" - sisi belakang angka dua di atas. Namun, tindakan estetis negatif (ANAs) tidak dapat secara logis ditegakkan dengan kekerasan *karena menurut definisinya dapat dihindari*. Karena saya bisa dengan bebas memilih untuk berhenti bergaul dengan pria yang terus-menerus muncul terlambat, saya tidak bisa menembaknya karena terlambat.
 
-Namun, perkosaan oleh definisi tidak dapat dihindari, karena serangan seksual yang ditegakkan melalui kekerasan. [^4] Juga, jika saya memilih untuk berhenti menjadi teman dengan laki-laki terlambat yang disebutkan di atas, ia tidak bisa adil memaksa saya untuk menjadi temannya oleh mengancam saya dengan kekerasan, karena itu akan mengandalkan prinsip bahwa preferensi pribadi hanya dapat dilaksanakan pada orang lain, yang akan dijalankan kita terhadap kemampuan saya untuk menegakkan keinginan *saya* untuk menjatuhkan persahabatannya. "Tarantino moralitas" semacam ini selalu berakhir dengan semua orang dalam keadaan bisu kelumpuhan, menunjuk senjata pada masing-masing wajah seperti patung beku.
+Namun, pemerkosaan menurut definisi tidak dapat dihindari, karena ini adalah serangan seksual yang ditegakkan melalui kekerasan.[^4] Juga, jika saya memilih untuk berhenti berteman dengan pria yang terlambat yang disebutkan di atas, dia tidak dapat dengan adil memaksa saya untuk menjadi temannya dengan mengancam saya dengan kekerasan, karena itu bergantung pada prinsip bahwa hanya preferensi pribadi yang dapat diterapkan pada orang lain, yang akan berjalan dengan sia-sia melawan kemampuan saya untuk memaksakan hasrat saya untuk melepaskan persahabatannya. Jenis "moralitas Tarantino" ini selalu berakhir dengan semua orang dalam keadaan lumpuh, menunjukkan senjata di wajah masing-masing seperti patung beku.
 
-Seperti kita sudah mapan, setiap perilaku Universal disukai harus universal untuk semua orang di segala tempat setiap saat-jika ANAs memungkinkan kekerasan keberlakuan (yaitu saya bisa menembak Anda karena terlambat) – kemudian jika perkosaan didefinisikan sebagai ANA yang dapat dilaksanakan, maka korban pemerkosaan yang menemukan perkosaan estetis negatif tindakan memiliki hak untuk menembak pemerkosa nya, yang secara efektif menegaskan prinsip pertahanan diri, tetapi dengan mengorbankan juga memungkinkan senapan bermain dalam oposisi dari, katakanlah, kekasaran.
+Seperti yang telah kita buat, setiap perilaku yang lebih baik secara universal harus universal bagi semua orang di semua tempat setiap saat. Jika ANAs mengizinkan menggunakan kekerasan (yaitu saya dapat menembak Anda karena terlambat) maka jika pemerkosaan didefinisikan sebagai ANA yang dapat ditegakkan, maka korban pemerkosaan yang menemukan pemerkosaan secara estetis tindakan negatif memiliki hak untuk menembak pemerkosanya, yang secara efektif menegaskan prinsip pembelaan diri, namun dengan mengorbankan juga membiarkan permainan senjata bertentangan, katakanlah, kekasaran.
 
-Maka pemerkosaan tidak mungkin ANA.
+Dengan demikian pemerkosaan tidak bisa menjadi ANA.
 
-Yang meninggalkan hanya…
+Yang hanya meninggalkannya…
 
-### Jahat
+### Kejahatan
 
-Jika perkosaan didefinisikan sebagai kejahatan, maka itu harus melibatkan *inisiasi* penggunaan kekuatan, yang jelas tidak. Juga, proposisi: "perkosaan jahat," melewati "ujian koma," sejauh tidak mungkin bagi seorang pria dalam keadaan koma untuk memperkosa seseorang.
+Jika pemerkosaan diartikan sebagai kejahatan, maka itu harus melibatkan inisiasi penggunaan kekerasan, yang jelas-jelas terjadi. Juga, proposisi: "pemerkosaan itu kejahatan", yang melewati "ujian koma", sejauh tidak mungkin seorang pria koma memperkosa seseorang.
 
-Selain itu, jika perkosaan jahat, maka *bukan* memperkosa harus baik-dengan cara ini, dua laki-laki di kamar keduanya dapat moral pada saat yang sama, cukup dengan tidak memperkosa satu sama lain.
+Selain itu, jika pemerkosaan itu kejahatan, maka *tidak* memperkosa pasti kebaikan yang dengan cara ini, dua pria di ruangan berdua bisa bermoral sekaligus, hanya dengan tidak memperkosa satu sama lain.
 
-Karena penghindaran adalah salah satu pembeda utama antara ”tidak menyenangkan” dan ”tidak bermoral,” dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, definisi "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
+Karena penghindaran adalah salah satu pembeda utama antara "tidak menyenangkan" dan "tidak bermoral", dan pemerkosaan jelas merupakan perilaku yang tidak dapat dihindari, ariti "pemerkosaan sebagai kejahatan" juga sesuai dengan perbedaan ini.
 
-Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang –misalnya, ketika ereksi tidak dapat dicapai –definisi ”pemerkosaan sebagai kejahatan” memecahkan masalah orang-orang yang secara tidak sadar tidak bermoral, yang menurut definisi tidak mungkin, karena kriteria penghindaran.
+Juga, karena ada kalanya secara fisik tidak mungkin untuk memperkosa seseorang - misalnya, ketika ereksi tidak dapat dicapai, maka definisi "pemerkosaan sebagai kejahatan" memecahkan masalah orang-orang yang secara tidak sadar tidak bermoral, yang menurut definisi tidak mungkin, karena kriteria penghindaran.
 
-Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi. ”perkosaan itu baik,” dan sebaliknya mengganti proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: ”hal itu bermoral untuk mengambil kesenangan sendiri, terlepas dari Kesenangan orang lain.”
+Pemerkosa dapat membenarkan tindakannya dengan menghindari proposisi "perkosaan itu baik", dan malah menggantikan proposisi lain yang mendukung keinginannya untuk memperkosa, seperti: "Adalah bermoral untuk mengambil kesenangan sendiri, terlepas dari ketidaksenangan orang lain".
 
-Proposisi ini juga gagal dalam tes logis paling dasar UPB. Jika Bob percaya bahwa ia harus mengambil kesenangan sendiri dengan memperkosa Doug - terlepas dari ketidaksenangan Doug - maka Bob tidak dapat secara rasional meningkatkan preferensinya ke UPB.
+Proposisi ini juga gagal dalam tes logis paling dasar UPB. Jika Bob percaya bahwa ia harus menikmati kesenangan sendiri dengan memperkosa Doug dan terlepas dari ketidaksenangan Doug, maka Bob tidak dapat secara rasional meningkatkan preferensinya ke UPB.
 
-Jika setiap orang harus mengambil kesenangan mereka sendiri terlepas dari korbannya *ini*kesenangan, kemudian Bob tidak berhak untuk mencabuli Doug, karena meskipun Bob *memilih* untuk mencabuli Doug, Doug hampir dipastikan untuk *tidak* memilih untuk dicabuli. Jika setiap orang harus mengambil kesenangannya terlepas dari ketidaksenangan orang lain, maka tidak ada alasan yang rasional kenapa pilihan Bob untuk memperkosa Dough harus diutamakan dari pada pilihan Doug untuk tidak diperkosa, terlepas dari ketidaksenangan yang menolak untuk diperkosa akan menyebabkan Bob.
+Jika setiap orang memperhatikan kesenangan mereka sendiri, maka Bob tidak punya hak untuk memperkosa Doug, karena walaupun Bob *lebih menyukai* memperkosa Doug, tentu saja Doug *tidak* lebih suka diperkosa. Jika setiap orang harus menikmati kesenangan mereka terlepas dari ketidaksenangan orang lain, maka tidak ada alasan rasional mengapa preferensi Bob untuk memperkosa Doug harus diutamakan daripada preferensi Doug agar tidak diperkosa, dan terlepas dari ketidaksenangan yang menolak diperkosa akan menyebabkan Bob.
 
-Jadi Doug bisa mengatakan kepada Bob: ”hal ini secara moral baik untuk saya memperkosa anda, karena pilihan pribadi bisa ditegakkan dengan keras.”Bob, tentu, bisa menjawab: ”secara moral itu lebih baik untuk saya untuk melawan dengan keras serangan anda, karena pilihan pribadi saya untuk tidak diperkosa juga bisa ditegakkan dengan keras.”
+Jadi Doug dapat mengatakan kepada Bob: "Secara moral baik bagi saya untuk memperkosa anda, karena preferensi pribadi dapat ditegakkan dengan kekerasan". Bob tentu saja bisa menjawab: "Saya secara moral baik terhadap saya yang melawan serangan anda dengan keras, karena preferensi pribadi saya untuk tidak diperkosa juga bisa dilakukan dengan kejam".
 
-Tentu saja, beberapa pemerkosa adalah filsuf, tapi sebagaimana kami sebutkan diatas, bahaya utama untuk manusia bukanlah kriminal individu, tapi irasional dan eksploitatif teori moral. Misalnya, penahanan akan dibenarkan melalui seruan untuk teori moral – dan penahanan menyebabkan lebih banyak orang akan diperkosa ketimbang kriminal pribadi yang bisa difikirkan. Jika teori moral yang membenarkan penahanan adalah salah, kemudian *mengoreksi* teori moral ini seharusnya menjadi perhatian tertinggi siapapun yang ingin mengurangi prevalensi pencabulan.
+Tentu saja, hanya sedikit pemerkosa yang filsuf, tapi seperti yang telah kami sebutkan di atas, bahaya utama bagi manusia bukanlah teori moral penjahat, tapi irasional dan eksploitatif. Misalnya, penahanan pasti akan dibenarkan melalui seruan untuk teori moral  dan penahanan menyebabkan lebih banyak orang diperkosa daripada yang bisa dipikirkan oleh penjahat swasta. Jika teori moral yang membenarkan penahanan itu tidak tepat, maka *mengoreksi* teori moral ini seharusnya menjadi perhatian tertinggi siapapun yang ingin mengurangi prevalensi pemerkosaan.
 
-Dengan demikian akan terlihat bahwa hanya kemungkinan logis untuk pencabulan adalah bahwa *tidak* pencabulan adalah perilaku yang lebih baik secara universal - atau pencabulan itu dilarang secara universal.
+Dengan demikian, tampaknya satu-satunya kemungkinan logis untuk pemerkosaan adalah bahwa *tidak* memperkosa adalah perilaku yang lebih baik secara universal, atau pemerkosaan itu adalah perilaku yang dilarang secara universal.
 
 ### Wah!
 
-Kenyataan bahwa kerangka UPB telah secara logis dan efektif memvalidasi proposisi moral bahwa pemerkosaan itu jahat - tidak "baik," atau "lebih baik secara estetis," atau "lebih baik secara pribadi," atau "netral secara moral" - adalah pertanda yang sangat baik. Itu tidak membuktikan melewati bayangan keraguan bahwa UPB akan memvalidasi secara logis seluruh proposisi moral ”akal sehat”, tapi rintangan pertama sudah berlalu, dan hal itu akan memberikan kita alasan besar untuk merayakan. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
+Kenyataan bahwa kerangka UPB telah secara logika dan efektif memvalidasi proposisi moral bahwa pemerkosaan itu jahat, tidak "baik", atau "lebih baik secara estetis", atau "lebih baik secara pribadi", atau "netral secara moral" yang merupakan pertanda yang sangat baik. Ini tidak membuktikan tanpa keraguan bahwa UPB secara logis akan memvalidasi semua proposisi moral "akal sehat", tapi rintangan pertama telah berlalu, dan itu akan memberi kita alasan besar untuk merayakannya. Jika saya adalah seorang fisikawan yang mengajukan Teori Lapangan Bersatu, dan penerapan teori saya benar memprediksi di mana bola api yang dilemparkan akan mendarat, saya bisa dengan adil merasa sangat senang.
 
-Teori Einstein tentang relativitas meramalkan bahwa cahaya akan membengkokkan sebuah gravitasi dengan baik - ketika ini pertama kali dikonfirmasi, teori tersebut tidak membuktikan teorinya di balik bayang-banyangkeraguan, namun teori tersebut membuktikan bahwa teori tersebut *dapat* menjadi benar, yang merupakan lompatan besar ke depan. Validasi pertama selalu sulit, karena sangat mudah untuk mendapatkan hal yang salah, dan kesalahan selalu melewati ketepatan.
+Teori relativitas Einstein meramalkan bahwa cahaya akan membengkokkan gaya gravitasi dengan baik saat ini pertama kali dikonfirmasi, teori ini tidak membuktikan teorinya di balik bayangan keraguan, tapi teori ini terbukti benar, yaitu lompatan besar kedepan. Validasi pertama selalu yang paling sulit, karena sangat mudah untuk mendapatkan sesuatu yang salah, dan kesalahan selalu melebihi ketepatan.
 
-Kerangka UPB telah secara benar memvalidasi premis moral kita bahwa pemerkosaan adalah kejahatan. Ini adalah kriteria yang diperlukan - namun tidak memadai - untuk bukti, dan sepenuhnya mendukung penyelidikan tambahan. Jadi, mari kita lanjutkan…
+Kerangka UPB telah benar memvalidasi premis moral kita bahwa pemerkosaan itu jahat. Ini adalah kriteria pembuktian yang perlu namun tidak memadai, dan sepenuhnya mendukung penyelidikan tambahan. Jadi, mari kita lanjutkan...
 
-[^1]: Ini sangat berbeda dari serangan fisik, yang membinasakan kapasitas Anda untuk pilihan gratis.
+[^1]: Ini sangat berbeda dengan serangan fisik yang menghancurkan kemampuan anda untuk memilih bebas.
 
-[^2]: Itu tidak dapat dikatakan bahwa pencabulan tidak melibatkan sebuah preferensi, sejak pencabulan adalah perilaku dan, seperti telah kita bahas di atas, semua perilaku melibatkan preferensi.
+[^2]: Tidak dapat dikatakan bahwa pemerkosaan tidak melibatkan preferensi, karena perkosaan adalah perilaku dan seperti yang telah kita bahas di atas, semua perilaku melibatkan preferensi.
 
-[^3]: Perhatikan bahwa saya tidak dapat mengusulkan "preferensi pribadi *boleh* jadi kekerasan ditimpakan kepada orang lain, karena itu adalah kekerasan UPB, yang menyatakan bahwa peraturan moral harus mutlak dan universal - jika tidak, mereka jatuh ke wilayah APA, dan tidak dapat ditimpakan pada orang lain.
+[^3]: Perhatikan bahwa saya tidak dapat mengusulkan bahwa "preferensi pribadi *dapat* dilakukan dengan kejam terhadap orang lain, karena ini adalah pelanggaran terhadap UPB, yang menyatakan bahwa peraturan moral harus mutlak dan universal jika tidak, mereka jatuh ke dalam APA, dan karenanya tidak bisa ditimpakan pada orang lain.
 
-[^4]: Kita bisa menghindari situasi yang meningkatkan kemungkinan pencabulan, tapi kita tidak bisa menghindari pencabulan yang sedang berlangsung.
+[^4]: Kita dapat menghindari situasi yang meningkatkan kemungkinan pemerkosaan, namun kita tidak dapat menghindari pemerkosaan yang sedang berlangsung.

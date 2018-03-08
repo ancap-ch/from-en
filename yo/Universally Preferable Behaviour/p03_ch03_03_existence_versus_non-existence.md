@@ -1,127 +1,127 @@
-### Governments And Religion
+### ìjọba àti ẹsin
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion.”
+Àgùntàn náà tí ó wí pé a bí yàn ṣe dá àdéhùn pẹ̀lú ilé ìṣe ìtàn ọ̀rọ̀, èyí tí ó jẹ pe o má sọ ẹ di ẹrú ó lọ́jọ́ pípé sì àwọn ènìyàn pàtó kan, eléyìí sì wọ́pọ̀ sì ẹsin àti ipinle ti a wa - àti ọkàn mìíràn, ó jìnà díẹ̀ sì ti ara ẹni, tí mo sọ̀rọ̀ nípa rẹ̀ nínú ìwé àkọ́kọ́ mi ti a kọ̀wé rẹ ń jẹ "ni òtítọ́ : iwájú tí ẹ tán."
 
-Whenever a priest says: “Obey God,” what he is really saying is: “Obey *me*.” Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Nígbàkúùgbà tí àlùfáà bá wípé : "Gbọ́ràn sì Ọlọ́run," nkan ti wọn sọ ní paato nipe :"Gbọ́ràn *sì mi *." Níwọ̀n gba ti Ọlọrun kò sì tẹ́lẹ̀, èyíkéyìí òfin tí àlùfáà ni ó wà láti ọ̀dọ̀ Ọlọ́run, ní tòótọ́ àti ọdọ àlùfáà ni òfin na ti ń bọ̀. "Ọlọ́run"  ni ẹtọ ọ̀rọ̀-ọ̀rọ̀ tí àwọn èèyàn ń lò láti ṣe ipani láyà ìwọ kì wọn lé gba ìdúró tí ó wí lọ ní àyè tòótọ́, sì àwọn ènìyàn gangan, nípasẹ̀ fi fún wan ni owo ni irọrun, àgó àti àwọn ohun èlò.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ó jẹ òun dáradára fún àwọn ajewunru tàbí àwọn òní jìbìtì láti jẹ ki ẹrú wọn ró pé ifiwo jẹ nkan gidi, nígbà tí ó jẹ ki ìṣàkóso wọn pín lé sì èyí tí ó kéré jù lọ. Tí Mo wà lè gbà ẹ ní imoran pé ó jẹ́ nkan búburú láti máa sìn mí, àti pé ó jẹ́ ẹwà láti di ẹrú mi, nígbà náà èmi kò nílò láti bẹwẹ àwọn ọmọ ìta tí mo má pààlàyà, tí mo má dárí àti jalè lọdọ rẹ.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Ẹsin àti ìwé ìtàn ìlú, nígbà yẹn, je àwọn ìtàn àtijọ́ tí ó dín kù iye owó tí a fi ń se ìṣàkóso àwọn èèyàn ti o wa lórílẹ̀ èdè ; wọn jẹ epo àti ìdáná for ọkọ ayekele ìwà ipá.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Ní gbogbo àgbáyé, àwọn adari jẹ́ díẹ̀ nínú àwọn olùgbé. Báwo ni ó má se jẹ́ kí ẹnikan tàbí méjì nínú ara ilu ma dárí àwọn ènìyàn tó kú? Ó ní anikanjopon lórí àwọn ohun ìjà, láti rí dájúdájú, sugbọn pé a nìkan jọpọ̀ rọrùn láti kọjú, niwọ̀n pé àwọn ìjọba máa ń pá owó Rábì Rábì láti títa ohun ìjà ká kiri gbogbo agbaye.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Ohun tí ó jẹ ibanuje ni wípé àwọn ènìyàn tí wá ní ẹrú sì àwọn ìtàn àsọtẹ́lẹ̀ bí àwọn àpẹrẹ tí ìlú, àwọn òrìṣà, asa - àti ìjọba.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Ohun ìgbéraga wá yóò sọ tẹ odi sì a mú nílò ẹrú sì ènìyàn mìíràn - sibẹsibẹ, ó dapi pé a fẹ́rẹ fẹ́yọ sì ẹrú níní ju *ìtàn àwọn bàbà ńlá wa *.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Ifẹ̀ ọkàn wá láti se dáradára - darapọ pẹ̀lú ìwà rere tí a gbà nípa gbígbóràn sì ìwà ìtàn - tí jẹki a fi ohun èlò sì àwọn onitan padà lọwọ.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Ìdí kan paato tí a mọ ni wípé ijọba àti àwọn òrìṣà ṣe pàtàkì nípa pé bí wọn ṣe sọ ní o má rì. *A mọ pe ọ̀pọ̀lọpọ̀ ènìyàn ni wọn fẹ se daradara nitorí wọn wá ní ìdarí ìwà rere wan *.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God,” this is exactly the same as him telling me that I must obey an entity called “Nog.” Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart,” can I then reasonably say: “and *I alone* speak for your heart”?
+Ìlànà tí ìgbọràn sì ìtàn ayé àtijọ́ jẹ pàtàkì asiwere. Tí àlùfáà bá wí fún mi pé mo gbọdọ gbọ́ràn sì "Olódùmarè", eléyìí jẹ́ nkankan náà wípé àlùfáà sọ pe ki n gbọ́ràn sì nkan ti a n pe ni "nogi". Tí Mo wà gbagbọ pé nkan yìí ó yẹ fún ìgbọràn ayérayé, eléyìí kò wípé kí n gbọ́ràn sì "àlùfáà" lẹ́nu. Tí mò bá sọ fún ọ pé "gbọ́ràn sì ọkàn rẹ," se mo lè wá wípé :"àti *èmi nìkan* sọ fún ọkàn rẹ"?
 
-Of course not.
+Dájúdájú bẹ́ẹ̀ kò.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Nígbà tí a bá yọ ìtàn ayé àtijọ́ àti ìtàn ayebaye kúrò nínú "ibanisepo" pẹlu awọn olori tàbí àwọn Alakoso wá, ohùn àbájáde ni òtítọ́ tí ó hàn kéré de.
 
-Let’s take as an example a very real and present danger: taxation.
+Ẹ jẹ ki a mú àpẹẹrẹ èyí tí ó ní ewú láyé àti ewu ni báyìí : owo-ori.
 
-#### Taxation
+### Owó orí
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Wọn sọ fún mi wípé, nípasẹ̀ gbígbé mé ni ilu Canada, mo jẹ "ijọba orilẹ̀ èdè" náà ni aadọta ọgọrun nínú owó tó ń wọlé simi lapo.
 
-Stripped of mythology, what does this really translate to?
+Kuro ìtàn ayé àtijọ́, kí ni èyí túmọ̀ sí?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity.” I may as well try to pay for my dinner with the word “money.”
+Ní òtítọ́, máa dúró títí di òpin àkókò fún "ijọba" láti wá kí wọn sì gbé owó náà. Dídúró fún "ijọba" láti wá dà bí pé a ń fẹ́ láti sáṣewé "abo." Mo sì lè fẹ́ san owó oúnjẹ alẹ mi pẹlu ọ̀rọ̀ yìí "owó".
 
-In reality, when I am told that I must pay my taxes to “the government,” what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Ní òtítọ́, nígbà tí wọn sọ fún mi pé mo gbọdọ san owó orí mi fún "ìjọba", nkan ti a le yìí túmọ̀ sí nipe mo gbọ́dọ̀ kọ́ ayẹwo kan láti gbé owó mi losi inú àpò ifowo kan pàtó, eyii tí àwọn ènìyàn kan paato lé wo. Àwọn ènìyàn yìí ni ẹtọ láti gba owó yìí, wọn si ni anfaani lati náà bose wun wọn - àwọn ènìyàn yìí pàtó ni ase àti ìdarí lórí owó mi.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Kosi igbakigba tí òun tán pé ní "ijọba" gbé ọwọ sókè, ṣì ìròyìn ifowopamo, tàbí náà owó. Ro pe agbekale kan wà tí a ń pè ní "ijọba", tú rò pé wọn ní agbára  láti yà àbí na owo rẹ, eléyìí túmọ̀ sí wípé kí ó dúró kí "Ọlọ́run" wá mú ẹ lọ sí ilé ìjọ sì.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Bayi, ọ̀rọ̀ òtítọ́ ni wípé arákùnrin kan fi ìwé kan ranse simi pé mo jẹ òun lowo. Mí ó ní àdéhùn kankan pẹlu arákùnrin yìí, òun na kò dẹ ni pá òun ìní mi, botilejepe àwọn arákùnrin mìíràn kọ̀ àdéhùn rogbodiyan tí ó wí pé ó ní afihun sì.
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges.”
+Tí mí ó wà san owó arákùnrin yí, ó má rán ẹlòmíràn wá sí ilé mi láti wá gba owó náà - pelu "òṣùwọ̀n" àti ìdíyelé.
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Ni deedee, ti arakunrin pelu ibon ba wa si ile mi ati ki o bere owo mi, mo ni eto lati lo agbara lati daabo ara mi. Fun idi eyi, sibesibe, nitori o wa ninu eya  ara ati awon eri lati se adoju eda oro kan, mi o leto lati se abo ara mi.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows,” assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Bayi, ti mo ba wa si ile re laleyi ti mo si mura bi "ogbon Elf ti Narnia" ki o si bere owo ti o je "olori ibanuje", a ro pe kon se ojo iwaso anjonu, o le wo me ni iyalenu, ki o si lemi kuro lori ohun ini mi.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Ti mi o ba sanwo arakunrin to wa mu owo mi, o gba laaye fa ibon si ta, fi kan aya mi, ati ki o jimi gbe - tabi ki o yín bo fun mi ti mo ba fariko. O le timi mo emi kekere fun odun gori odun, nibi ti won ma fi oju mi kan emo ati ibalopo alagidi deedee, afi gba ti o ba wun kin wa ma lo.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+O yanilenu, ti arakunrin ba je mi lowo, a ko gba laye lati ji gbe ati pe ki a fi ijiya ati ibalopo fun odun mo odun. Bayi owo-ori rufin iwa ilana UPB, niwon ti o je gbigbe lo alagidi.
 
-Stealing, as we have proven, is evil.
+Ole jija, bí a ti mo dajudaju, je oun ti ko da.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Ogbeni Einstein se iyipada eko fikisi wipe - ati ni imoran - pe iyara ti ina je igbasile.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Awa na lese iyipada agbaye nípa gbigba imoran na - pelu otito - pe ole jija nkan buburu ni.
 
-### Government, Religion, And UPB
+### Ijoba, Esin ati UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Ti a ba mu ilana UPB ki a si to mo iwa imokan ti o jalu ti ijoba ati esin, awon ẹsin ti o da ma yo.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money.” This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Awon imoran ti a ma n loju lati iwa otito agbara ijoba ni "ijoba ni eto lati mu owo yin". Eyi, sibesibe, je iro abayedaye ati oro ti ko ni ododo ninu. Awon "ijoba" ko ni eto lati gba owo yin. Niwon gba ti "ijoba" je ero okan, nkan afiwe Fun awon alamowe eniyan kan. UPB nii lo nkan ibamu deedee ati oro idaniloju. Niwon gba ti iwa rere je nkan ti a gbodo ni fun gbogbo eniyan ni gbogbo ibi ati gbogbo igba, a gbodo tun afiwe wa báyìí :
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+“*Eda eniyan le gba owo lati odo awon eda eniyan miiran ti wọn ba ni idasile ti o fenu ko isesi won.*”
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Ti a ba lo si odo Bob ati Doug ninu yara imo ara wa, a le tete ri pe eleyi a je agbara idibaje.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force.”
+Ti Bob ba so fun Doug pe, "mo n se apejuwe apeere ti o dara ti o n je 'FUBAR', eyi ti o se imudaniloju pe Kin gba mole ferefe ina nipa lilo agbara".
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force.”
+Kini ifura Doug yo so? Ranti pe, nipase UPB, ohunkohun ti o wulo fun Bob gbodo wulo fun Doug. Laisi ewu, Doug a dahun pe: "Beeni? Nisinyi mo tan ilana 'ALATAKO-FUBAR', eyi ti o se otito fun mi nipa mimu ohun ini mi dani. Niwon ti e ni eto lati gba feerefe mi, o gbodo da pada, tabi mo yoo ni dandan lati daabo ara mi nipase agbára".
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+Bi o ti leri, ti Bob ba ni eto lati se awon ipinnu isaro ati pe ki o si fa lori Bob. Ni ododo, a lesekese dopin si imuje kan. Ti o ba dara ni imo gidi lati fa adehun tabi oranyan lori awon eniyan miiran., sugbon ko se se ti gbogbo eniyan bani iwa agbara na, nigba naa ni eko rere ko sese. Ona abayo tí Bob le fa iro okan re lori Doug ni pe ti Doug ba fari ko lati gba eto ohun elo lori Bob - nisin yi a ni ipo kan nipase nkan ti o ba je iwa rere fun omokunrin miiran o le wa so pin lati odo ẹlomiran ti o wu iwa alantako. Ofe le je nkan ti asise le beere, eyi ti ko seese - ati pe ani ilodi iwa rere fun eda omo araye meji ninu ipo kanna, ti UPB ko lesekese bi nkan ibaje.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Ni awon oro miiran, gbogbo awon idaniloju itosona abere fun anilo agbara lè se idajo pelu idaniloju itosona abere miiran nipa lilo agbara. Ti mo ba ni ore ojiji ti o le daba gbogbo òun ti mo n se, sibe iwo na le ni ore ojiji ti o daba gbogbo oun ti iwo na se. Bayi boya enikeni ninu wa ni agbara lati pase awon ipunu oju oro lori awon eniyan to ku.
 
-#### Religion And UPB
+#### Esin ati UPB
 
-The same holds true for religion.
+Oun kan na je otito fun esin.
 
-The statement: “You must obey me because God commands it,” must be restated more accurately as: “an entity that I have made up commands you to obey me.” The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities.”
+Gbolohun yi : "O gbodo gboran sì mi nitori Olodumare se ofin na," gbodo ni Itún sọ otito bi :"ohun kan ti mo se awon ofin lati gboran siyin lenu." Awon agbekale ti UPB nilo, lehin na, ni wipe, : "Omo eniyan gbodo pase imo rere fun awon omo eniyan miiran,ati pe won gbodo se ofin ilana si ohun gidi ".
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to.” Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to.” If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Níbi ari pe awon oro kanna loke. Bob so fun Doug pe :" o gbodo fun mi ni feerefe re, nitori ore mi ojiji so fun e be. Nigba ti, Doug so fun pe :"o gbodo bere feerefe re, nitori ore mi ojiji lodi sì pe ki o bere". Ti "awon ofin" Bob ba wulo, niwon yen ni "awon ofin" Doug na si niwulo pelu, ati pe won bori ara won.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Ni ana kan na, ti okunrin ba ni ipeere ti a n pe ni "ijoba" se ilana ole jija lori ohun ini re, nigba na ni mo le ni apeere ilana ti won pe ni "alátakò-ijoba" se ilana ohun nini ijoba mi, ati pe a wa ni "ìwúlò" kan na ni ilana wa.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Oni oluya-ori ba so pe agbekale re ti a n pe ni "ijoba" se ilana oun jiji ohun ini rẹ, laisi aronukan mi, sibe a lo siwaju. O le mu egberun dola mi, sugbon mo le se apejo agbekale mi "ole jija" lati gba owo mi pada, pelu pe awon iwa re se eto fun wa lati ma dá egberun dola na losi iwaju seyin.
 
-#### UPB And "The Majority"
+#### UPB ati "Awon ti o poju"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army,” but they cannot reverse gravity, or make murder moral.
+UPB ko gba fun gbigba pò  opolopo eniyan lati se asiju abi àti seyin ohun ini ti olu kaluku. Kinniun mewa ko se erin, ijoba tabi orisa. Awon egbe ogun mewa soja le se "omo ajagun", won le tun isubu pada, tabi ki won je ki ipaniyan je oun gidi.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane.”
+Pipada lekan si si yara Bob ati Doug, e je ki a se afihan "Jane".
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Nisinsinyi ti o je eni meta lo wa ninu yara na, a le wo ilana "awon ti o poju".
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted,” we would not consider the resulting rape to be transformed into a morally good act.
+Ti Bob, Doug ati Jane ba "dípò" lori pe o je oun to da lati ni ifibanilopo Jane, a lodi si iwa buburu na. Ni ododo, ti Jane gan ba ni "asejade", aa le ro pe ifipabanilopo je oun ti o yori rere sí nkan gidi.
 
-Why not?
+Idi tii ki se?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair.”
+Sugbon, UPB ko se ikorira atunpin, niwon ti awon "to poju" je ami afiwe lasan ; ko wa laye lotito, ju awon "orisa" tabi "ijoba". Bayi lati se eto si ilana awon ti " o po ju" o ni imo iwa ti o je otito - o da bi n pe ka so pe "awon baba" le fun obirin loyun, tabi eniyan le joko sori oro ti a n pe ni "àga". 
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Ka sowipe "awon opolopo" ni eto tabi eroja ti o lodi si eto tabi eroja elomiran tu lodi sì ilana eto rere, niwon ti egbe abasepo je oun ti a mo pelu deedee otito afihan awon elomiran pelu ìwà rere. Ti mo ba so wipe awon "ohun ogbe" je eleje woro eranko to wa laye, se mo tu le fi filanto susu meta kun ninu eka "ohun ogbe"?
 
-Of course not.
+Dajudaju be e ko.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Bayi ti o ba je nkan buruku fun awon omo eniyan lati ni fipabanilopo, se mo tun le ronu lati okan mi wa seda eka ti a n pe ni "awon ti o poju" ki n de wipe fun awon ẹda omo eniyan yi, ifipabanilopo je iwa ti o dara? 
 
-Of *course* not.
+*Dajudaju* be e ko.
 
-### Majority Rule
+### Ofin ti o poju
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Ṣe mo le seda ofin rere to wipe : "awon opolopo gbodo le se nkan to wun won"?
 
-Of course I can, but it will never be valid or true.
+Dajudaju mo le se, sugbon ko le wulo tabi ko je otito.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Awon *eniyan* nikan ni o se - "awon opolopo" o ni se. Ti ofin iwa rere ba le yi pada ti awon eniyan bi melo ba wa papo, sibe a lodi si ilana UPB.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her,” what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Ti o ba je oun ti o da fun Bob ati Doug lati fipanibalopo pelu Jane nitori won ti ro pin pe ki lo fẹ se, ki lo ma sele ti awon ore Jane meji ba yoju ki won de dibo ilodi fun aise Bob ati Doug?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Daradara, ni ojiji ni Bob ati Doug je awon ti a lodi si, ati pe ifipabanilopo je oun "buburu" fun won le kan si.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Kosi nkan pato to yipada ninu oro "idibo yege lè" yi, sugbon a ni opolopo ofin iwa rere fun awon arakunrin - idiwo ti UPB, ati alaini iwulo.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Ifipabanilopo ko le je nkan to da, sibesibe nkan buruku, ki o tu je nkan ti o da, nitori wipe awọn ọwọ kan wa loke, awon miiran wa nile.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Bayi ti o ba ro pe" awon ofin ti o po ju "dun bi ìṣòro iwa rere, ati gege bi iwa ti o wulo, nigba na ni e ru o ba mi pe o ni lati lo si ibeere iwe yii, ki o si beere sì ń ka!
