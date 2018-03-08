@@ -1,58 +1,58 @@
-## Existence Versus Non-Existence
+## Wanzuwa da Abu da bai Kasancewa
 
-We define “non-existence” as that which does not possess mass or energy, or display the effects of mass or energy, such as detectable relationships like gravity.
+Mun bayyana "rashin wanzuwa" a matsayin abin da ba shi da nauyi ko makamashi, ko wanda bai nuna alamun nauyi ko makamashi, kamar irin abubuwa masu dangantaka da ƙarfin maganaɗisun ƙasa.
 
-God does not possess mass or energy, or display the effects of mass or energy – God in fact is not detectable or verifiable in any way, shape or form, either through the senses, or through rationality.
+Allah ba shi da nauyi ko makamashi, kuma ba shi nuna alamun nauyi ko makamashi –a gaske ma, ba a iya ganewa da Allah ba ko a tabbatarda shi a kowane hanya, siffa ko tsari, ko ma ta hanyar hankula, ko ta hanyar tunani.
 
-Thus if I say, “God exists”, what I am really saying is:
+To, idan na ce, "akwai Allah," abin da nake faɗa shine:
 
-“*That which exists must be detectable; God cannot be detectable, but God exists – therefore that which does not exist, exists.*”
+"*Abin da yana a raye dole ne a iya ganewa da shi; Ba za a iya gane Allah ba, amma akwai Allah –Kenan da haka abinda bai wanzu ba, ya wanzu.*"
 
-In other words, by saying “God exists”, I have created an insurmountable contradiction. I have defined “existence” as “non-existence”, which makes about as much sense as defining “life” as “inanimate matter”, or a rock as “the opposite of a rock”, or a “square” as a “circle”.
+A wasu kalmomi, da cewa "akwai Allah," na kirkiro wani rikici. Na bayyana "wanzuwa" a matsayin "babu", wato wanda yayi la'akari da ma'anar "rai" a matsayin "mara rai," ko dutse a matsayin "roba," ko "murabba’i" a matsayin "da'ira."
 
-Similarly, if I create some alternate universe where “non-existence equals existence” and “contradiction equals consistency” and “truth equals falsehood” and “irrationality equals rationality”, then what I have really done is create a realm called “error”, put everything in it which is not true, and defined this realm as a place where “error equals truth”.[^2]
+Ta haka kuma, idan na kirkiro wata duniya dabam wanda "abun da babu shi zai daidaita da abun da akwai",kuma "rikitarwa ya zama daidaitu" da kuma "gaskiya ta yi daidai da ƙarya" da "wawanci ta zo daidai dahankali," to, Kenan abin da na yi na gaske shine haifar da wani bangare dabam wanda za a kira "kuskure",kuma na tura cikin bangaren ga duk abin da yake cikin abin da ba gaskiya bane, kuma ya bayyana wannan bangare a matsayin wurin da "kuskure daidai yake da gaskiya." [2]
 
-Of course, people do not create this “alternate universe” in order to invalidate truth within our own universe, but rather to rescue that which is erroneous in reality, and call it true. For instance, no one who argues “God may exist in another universe, so you cannot claim that God does not exist” ever argues “*I* may not exist in that other universe, so you cannot claim that I exist here”.
+Hakika, mutane ba sa haifar da wannan "duniya dabam" domin su ɓata gaskiya a cikin duniyarmu ba, amma don ceton abin da yake kuskure a gaskiya, kuma ya kira shi gaskiya. A misali, babu wanda ya yi jayayya cewa "Allah yana iya kasancewa a wani duniya dabam, don haka ba za ku iya cewa Allah babu" ya kuma jayayya da haka cewa "* Ba zan kasance a cikin wani duniya dabam ba, don haka ba za ku iya cewa na kasance a nan ba."
 
-They also tend not to respond well to the argument that: “In another universe, you may be agreeing with me that God does not exist, so that makes you an atheist”.[^3]
+Har ila yau, basu yarda da amsa da hujjar cewa: "A wata duniya, za ku iya yarda da ni cewa Allah babu, don haka ya sa ku zama kafiri." [3]
 
-If valid statements about reality can be endlessly opposed because some imaginary realm called “error equals truth” invalidates them, then what is really being said is “no positive statements about truth can be valid” – however, we are wise enough as philosophers by now to know that this very statement is self-contradictory, since it is a positive statement considered to be true that says that no positive statements can be true. If nothing can be true or false – even that statement – then no statements whatsoever can be made about anything. Using words, using English, using comprehensible sentences – all make no sense whatsoever, since in this “alternative universe” such structured utterances may be complete nonsense. If things which can be true in this alternate universe have an effect on statements we make in this universe, then clearly the reverse is also true, which means that no statements can ever be made about anything, since their exact opposite can be equally true.
+Idan maganganu masu mahimmanci game da gaskiya za su iya zama tsayayya ba tare da wata tsattsauran ra'ayi ba saboda wasu ƙananan hanyoyi da ake kira "kuskure daidai da gaskiya" suna ɓatar da su, to, abin da haka zai kasancewa shine "babu maganganun da ya dace game da gaskiya wanda zai iya zama ingantace" - duk da haka, muna da hikima sosai a matsayinmu na masanan falsafanci yanzu don sanin cewa wannan nazari tana da rikice-rikice, tun da yake kalma ce mai kyau ta tabbata cewa gaskiya ne cewa babu wata hujja mai mahimmanci wanda zai iya zama gaskiya. Idan babu wani abu da zai iya zama gaskiya ko karya –har da wannan nazari - to, babu wata Magana da za a iya yi game da wani abu wanda zai zama gaskiya. Yin amfani da kalmomi, da amfani da Turanci, kuma yin amfani da kalmomi masu ma’anu da mahimmanci - duk ba sa hankalta bane, tunda a cikin wannan "sararin duniya dabam" irin waɗannan maganganu na iya zama cikakkiyar maganar banza. Idan abubuwa da zasu iya zama gaskiya a cikin wancan sararin duniya suna da tasiri a kan maganganun da muke yi a cikin wannan duniya ta mu, to kenan, a gaske ma'anar akasin maganar gaskiya ne, wanda ke nufin cewa babu wani maganganun da za a iya yi game da kowane abu, tun da yake ainihin akasinsu na iya zama daidai.
 
-The true reality of the statement “error equals truth” is the tautological insanity of “null equals null”.
+Gaskiyar wannan ra’ayi "kuskure daidai da gaskiya" shine ainihin rashin tunani na cewa "banza ta yi daidai da banza".
 
-### The "Alternate Universe" In Human Society
+### Ma'anar "duniya dabam" A cikin al’ummar mutane
 
-The reason that we have been spending so much time dealing with this “alternate universe” theory is that it has direct relevance to human society, and is used to “justify” the greatest evils which are committed among us.
+Dalilin da ya sa muka sa lokaci da yawa game da wannan nazarin "sararin duniya dabam" ita ce tana da matukar muhimmanci ga al'umma, kuma ana amfani da shi don "tabbatar" mafi girman mugun abubuwa da suke aikatawa a cikin al’umma.
 
-In our own personal experience, we know that murder is wrong. In working through the proposition that murder is morally wrong in the above examples, I strongly doubt that anyone was shocked to have their moral instincts confirmed through the strict abstract reasoning of UPB. In this section, however, it is officially permissible for you to begin to be truly shocked.
+A cikin tsarinmu, mun sani cewa kisan kai ba daidai ba ne. A cikin aikin da ake cewa kisan kai yana da kuskure a cikin misalan da ke sama, na yi tsammanin cewa kowa ya yi mamaki don tabbatar da halayen kirki ta hanyar tunanin UPB. A cikin wannan ɓangaren, duk da haka, an yarda da ku don fara zama abin mamaki.
 
-The greatest leaps forward in scientific understanding are the so-called “unifying theories”. Einstein spent decades trying to work out a unified field theory; and theories of physics which unite strong and weak forces, electromagnetism, gravity and so on remain elusive.
+Mafi girma a gaba cikin fahimtar kimiyya shine abin da ake kira "unifying theories" wato “nazarin haɗaɗɗe. Einstein ya shafe shekaru da dama yana ƙoƙarin aiki da nazarin filin hadadden; da kuma ilimin kimiyyar lissafi wanda ke hada abu mai karfi da mai mara karfi, da karfin wuta, da ƙarfin maganaɗisun ƙasa da sauransu duk sun zama kuɓutacce.
 
-UPB as a framework, however, not only justifies our moral instincts at the personal, philosophical and universal levels – but also has profound and shocking implications for human society.
+UPB a matsayin tsarin, duk da haka, ba wai kawai ya tabbatar da ka'idodin dabi'unmu a al'amuran mutum, falsafa da kuma duniya ba - amma kuma yana da babban abin da zai faru ga al'umma.
 
-#### UPB In Action
+#### UPB A Aikatau
 
-The UPB framework validates moral propositions by demanding that they be internally consistent, and universal in terms of time, place and individuals.
+Shirin UPB yana inganta ka'idodin halin kirki ta hanyar buƙatar cewa su kasance cikin daidaito, da kuma na ƙa'idaa cikin lokaci, wuri da mutane.
 
-If we accept UPB, we must also accept the following corollary:
+Idan muka yarda da UPB, dole ne mu yarda da waɗannan abubuwa masu zuwa a matsayin sakamakon:
 
-- Moral propositions are independent of costume.
+- Al’amarin halin kirki basu shafi da kaya ba.
 
-What this means is that a man cannot change his moral nature along with his clothing. The act of changing one’s costume does not alter one’s fundamental nature. Thus opposing moral rules cannot be valid based on the clothes one is wearing.
+Abin da ake nufi shi ne cewa mutum ba zai iya canza yanayin dabi'arsa tare da tufafinsa ba. Yanayin canza kayan mutum ba zai zama daidai da canzar dabi'ar ko ainihin halin mutumin. Ta haka ne akasin halin kirki na dabi'a ba zai iya kasancewa daidai ba saboda tufafin da aka sa.
 
-Soldiers, of course, wear costumes that are different from the average citizen. The average citizen is forbidden to murder; soldiers, however, are not only *allowed* to murder, but are morally *praised* for murdering.
+Sojoji, ba shakka, suna sa tufafin da suka bambanta da 'yan ƙasa. An haramta 'yan ƙasa daga kisan kai; Sojoji, duk da haka, ba wai kawai * sun yarda da su su kashe-kashe ba, amma suna da mutunci don yin kisankai.
 
-Let’s take another example.
+Bari mu ɗauki wani misali.
 
-Theft is morally wrong, as we have seen above. It is morally wrong for all people in all situations at all times and under all circumstances. Since theft is the forcible removal of somebody else’s property without consent, then taxation is always, universally and forever a moral evil. Taxation is by definition the forcible removal of somebody’s property without their consent, since taxation relies on the initiation of the use of force to strip a man of his property.
+Sata laifi ne, kamar yadda muka gani a sama. Muguntar abu ne ga dukan mutane a kowane lokaci kuma a duk yanayi. Tun da sata shi ne ƙarbi duk wani abu na wani mutum da karfi kuma ba tare da izini ba, to, kullum haraji, a ko'ina cikin duniya har abada muguntar abu ne. Haraji shine a ma'anaka ƙarba dukiyar mutum ba tare da izinin su ba, tun da haraji yana dogara ne akan farawa da amfani da karfi don keta wani mutum daga dukiyarsa.
 
-What we call “the government” is merely another example of this *null zone* wherein up is down, black is white, truth is falsehood and evil is good.
+Kenan abin da muke kira "gwamnati" wani misali ne kawai na wannan rukunin sararin duniya * a inda sama ya yi daidai da ƙasa, baƙi shi ne fari, gaskiya shi ne ƙarya, kuma mugu shi ne mai kyau.
 
-Society progresses exactly to the degree that reason and evidence make the great leap from the personal to the universal, and destroy any irrational *null zones* in the way. Science progresses exactly to the degree that it rejects the irrationality of God and subjective “absolutes”. Medicine progresses exactly to the degree that it rejects the efficacy of prayer and empty ritual, and instead relies on reason and evidence. Philosophy also – and human society in general – will advance exactly to the degree that it rejects the irrational “square-circle morality” of statist and religious ethical theories.
+Al’umma yana ci gaba da daidai da yadda ana samun ilimi da hujjoji daga tsakanin mutum guda har zuwa ko’ina a duniya, da kuma halakar da kowane ɓangare maras amfani wanda ya tare hanya. Kimiyya tana cigaba daidai da yadda ta karyata da wanzuwar Allah da kuma tunani da basu da shaida. Ilimin kimiyyar likita yana cigaba daidai da yadda ya nuna cewa addu'a da al’adun banza basu da amfani, kuma a maimakon haka ya dogara da ilimin kimiya da shaida. Falsafa - da kuma al’ummai - a gaba ɗaya - za su ci gaba daidai da yadda su ka ƙi yarda da ka'idodin addini masu rikitarwa da kuma wanda basu da hujja.
 
-### Government
+### Gwamnati
 
-Saying that the government operates under opposite moral rules from the rest of society is exactly the same as saying, “leprechauns are immune to gravity”. First of all, leprechauns do not exist – and one of the ways in which we know that they do not exist is that it is claimed that they are immune to gravity. Everything that has mass is subject to gravity – that which is immune to gravity by definition does not have mass, and therefore does not exist. The statement “leprechauns are immune to gravity” is a tautology, which only confirms the non-existence of leprechauns – it is the semantic equivalent of “that which does not exist, does not exist”. A is A, Aristotle’s first law of logic, does precious little to confirm the existence of that which is defined as non-existence.
+Da yake cewa gwamnati tana aiki a karkashin akisan dokoki na halin kirki daga sauran al'ummomi daidai yake da cewa, "aljanu ba su da nauyi." Da farko, aljanu ba su a raye - kuma daya daga cikin hanyoyin da muka san cewa babu su shine cewa an yi iƙirari cewa basu da nauyi. Duk abin da yake da rai dole ne yana da nauyi – in basa da nauyi kenan babu shi, saboda da haka ba ya wanzu ba. Maganar ga "aljani ba ta da nauyi " tana da tsinkaya mai banzan maimaitawa, wanda kawai ya tabbatar da rashin kasancewa na aljanu - yana daidai da cewa "abin da ba ya wanzu, ba ya wanzu ba." A shi ne A, farkon ka'idar basira na Aristotle, yana da mahimmanci kaɗan a wajen tabbatar da wanzuwar abin da aka bayyana a matsayin abu da babu shi.
 
 In the same way, when we say that it is morally good for soldiers to murder and government representatives to steal, we know that “soldiers” and “government representatives” as moral categories are *completely invalid*.
 
@@ -100,68 +100,68 @@ We know that it is empirically false because *no social contract exists*. Neithe
 
 Many people will argue at this point that taxation is not enforced at the point of a gun, but rather that people pay it voluntarily. For instance, I have never had a gun pointed in my face by a tax collector or a policeman, but I have paid taxes for decades.
 
-This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Thus we pay taxes because we know that if we do not, the likelihood of being aggressed against by representatives of the state is very high. If I do not pay my taxes, I will get a letter, then another letter, then a phone call, then a summons to court – and if I do not appear in court, or do not pay my back taxes and accumulated fines and interest, policemen will come with guns to take me to jail. If I resist those policemen, they will shoot me down.
+This may be true, but it is completely irrelevant. If I tell a woman that I will kill her children if she does not have sex with me, and she submits herself to me, we clearly understand that an immoral action has taken place – even though I have used no weapon in my violation. Clearly, if the woman submits to me, it is because she fears that I will carry out my threat. If I told her that my pet leprechaun will kill her children if she does not have sex with me, she would very likely be disturbed, but would not fear my threat in any significant way, since it is impossible for my pet leprechaun to kill her children. Or, if I died, and my will stated that I would kill this woman’s children if she did not have sex with me, clearly she would feel relieved rather than afraid, since I cannot conceivably act out my threat from beyond the grave. Don haka muna biyan haraji saboda mun san cewa idan ba muyi ba, akwai yiwuwar zaluncin sosai daga wakilan jihar. Idan ban biya haraji ba, zan samu wasiƙa, sa'an nan kuma wata wasika, to, kuma da kira na a waya, to, da kuma kira a kotu - kuma idan ban zo a kotu ba, ko kuma ban biya haraji na ba, 'yan sanda za su zo da bindigogi don kai ni kurkuku. Idan na tsayayya wa 'yan sandan, za su harbe ni.
 
-To say that force equals voluntarism is completely illogical and self-contradictory. To say that the initiation of the use of force is completely equal to the non-initiation of the use of force is to say that up is down, black is white, and truth is falsehood.
+Faɗar cewa aikin tilastawa da yake daidai da aikin sa kai a gaba ɗaya rikitarwa ne. Don faɗi cewa farawar amfani da karfi yana daidaita da ba'a fara amfani da karfi shi ne fadin cewa sama shine ƙasa, baka shine fari, kuma gaskiya ce karya.
 
-Without the “null zone”, these corrupt fictions cannot be sustained.
+Idan ba tare da wannan "ɓangaren sarari" ba, ba za'a iya ci gaba da cin hanci ba. 
 
-The “null zone” is the lair of the beast we hunt.
+"Yankin sarari" shine gidan dabba da muke farauta.
 
-As we can see, we know that personally it is wrong to steal; we have very few problems with an abstract and logical ban on theft, such as we have worked out above – yet still, there exists this “null zone” or alternate universe where such oppositions can be accepted without any question or concern.
+Kamar yadda zamu iya gani, mun san cewa sata ba daidai ba ne; kamar yadda muka bayyana a sama - duk da haka har yanzu, akwai "wannan sararin wuri" ko kuma sauran bangare dabam inda za'a iya yarda da irin wadannan 'yan adawa maganganu ba tare da wata tambaya ko damuwa ba.
 
-According to UPB, it is wrong for me and you to steal. Yet somehow, in this “null zone”, it is not only allowed, but also perfectly *moral*, for others to steal. We *must not* steal – they *must* steal. It is moral madness!
+A tsarin UPB, ba daidai ba ne a gare mu a yi sata ba. Duk da haka, a cikin wannan "wuri mai sarari," ba wai kawai an yarda da haka ba, amma kuma an maisuwa daidai da halin kirki don wasu su yi sata. Kada mu muyi sata – amma su na da daman sata. Wannan hauka ne a halin kirki! 
 
-### Policemen
+### 'Yan sanda
 
-Let us take our good friend Bob away from his little room of moral theory testing and restore him to his original job as a policeman.
+Bari mu dauki abokinmu mai kyau Bob daga cikin ɗakinsa na jarabawan ka'idar halin kirki mu sake mayar da shi zuwa aikinsa na farko a matsayin 'yan sanda. 
 
-Clearly, when Bob wakes up in the morning, before his shift, he cannot go to his neighbour’s house and demand money at the point of a gun, no matter who tells him that it’s all right.
+Da yake, kafin lokacin, Bob ba zai iya zuwa gidan maƙwabcinsa ba kuma yana buƙatar kuɗin harajitare da bindiga ko da yake an gaya masa cewa haka na da kyau.
 
-When Bob has his breakfast, he also cannot attack his neighbour and take his money. On his drive to work – even though he has put on his uniform – he has not punched in yet, and thus has no more rights than any other citizen. When he punches in, however, now, as if there descends an amoral pillar of fire from the very heavens, he gains the amazing ability to morally attack his neighbours and take their money.
+Amma a yanzu, Bob ya tashi da tsafe, shi ma ba zai iya karba kuɗi daga maƙwabcinsa ba. A kan hanyarsa na zuwa aiki - ko da yake ya sa tufafin sabon aikinsa - bai taɓa aikinsa ba a ainihi, kuma ba shi da wata dama fiye da kowane dan kasa. Amma a lokacin da ya shiga ainihin aikinsa, nan da nan, sai ya sami damar da zai iya kai wa abokan makwabcinsa lahani da kuma karɓar kuɗinsu. 
 
-Strangely, this is the only characteristic of his that has utterly reversed itself. He cannot fly, he cannot change his shape, he cannot successfully digest ball bearings or live in an inferno; he cannot run one thousand kilometres an hour, and neither can he walk through a brick wall. He is absolutely, utterly, and completely *the same man as he was **before** he punched in* – yet now, he is subject to completely opposite moral rules.
+Abin baƙin ciki shi ne, wannan ne kawai yanayin halinsa da ya juyawa a rayuwarsa. Ba zai iya tashi sama ba, ba zai iya canja siffarsa ba, ba zai iya samun nasarar haɗiye da karfe ba ko kuma ya zauna a cikin wuta ba; Ba zai iya tafiyarkilomita dubu daya a cikin awa guda ba, kuma ba zai iya tafiya ta bango ba. Ya kasance mutumin nan kamar yadda ya ke kafin ya farar aikin - amma a yanzu, yana ƙarƙashin ka'idojin halin kirki mai tsari dabam.
 
-Even more strangely, if I am not a “policeman”, but I follow Bob to work, and do exactly what he does – I put on a costume, walk into the police station, and put a piece of cardboard into a punch clock – why, if I then do exactly what Bob does, I am completely and totally immoral, although Bob’s identical actions are completely and totally *moral*.
+Har ma da ban mamaki, idan ban kasance "'yan sanda ba," amma na bi Bob zuwa wurin aikinsa, kuma na aikata abin da ya aikata - na sa tufafi kamar shi, ta shiga cikin ofishin' yan sanda - me ya sa, idan na yi daidai yadda Bob ya yi, na aikata wani laifi, kodayake za a gan mutuncinsa idan Bob ya aikata haka.
 
-What kind of sense does this make? How can we conceivably unravel this impenetrable mystery?
+Wane irin nufi ne wannan? Yaya zamu iya fada da wannan asiri mai zurfi?
 
-The simple fact is that it *cannot* be unravelled, because it is completely deranged. The fact that this “opposite world” moral madness is completely irrational – not to mention violently exploitive – is so obvious that it must be buried in an endless cavalcade of mythological “voluntarism”.
+Gaskiya mai sauki ita ce, ba za a iya bayyana wannan ba, saboda babban hauka ce. Gaskiya shine wannan rashin hankali game da halin kirki bai da ma’ana – bancin akwai hadari a ciki - yana da mahimmanci cewa dole ne a kaɗa ta a cikin ramin mai zurfi ta fita batun tarihin al’ummai.
 
-We are told that we “want” Bob to take our money – which completely contradicts the fact that Bob shows up on our doorstep pointing a loaded gun in our face. By this logic, I can also go up and down the street stealing money from my neighbours, and then claim to be utterly shocked when I am arrested:
+An gaya mana cewa "muna son" Bob ya dauki kuɗin ku - wanda ya sabawa gaskiyar cewa Bob yana nunawa a kofarmu tare da bindiga. Da wannan ma’ana, zan iya zuwa daga gida zuwa gida da kuma karbar kuɗi daga maƙwabta na, sa'an nan kuma ina mamaki a lokacin da aka kama ni:
 
-“They *want* me to take their money!”
+"Suna son * in dauki kuɗinsu!"
 
-“But then why were you threatening to shoot them if they did not give you their money?”
+"To, me ya sa kake barazanar harbe su idan ba su ba ka kuɗinsu ba?"
 
-“Because they *owe* me their money!”
+"Saboda ina *binsu* kuɗinsu!"
 
-“I thought you said that they want to give you their money”.
+"Na tsammanin da farko ka ce suna so su ba ka kudinsu da son rai."
 
-“No, no – they owe me. It’s really *my* money!”
+"A'a, a'a – ina binsu ne. a gaske kuɗin nawa ne! "
 
-“On what grounds do they owe you this money?”
+"A wace hanya kake binsu wannan kudin?"
 
-“We have a contract!”
+"Muna da alkawari!"
 
-“Can you show me this contract? Have they signed this contract of their own free will?”
+"Kuna iya nuna mini alkawarin? Shin, sun sa hannu a kan wannan alkawarintare da ra’ayinsu ne? "
 
-“It’s not that kind of contract! It’s a – *social* contract… And besides – according to that social contract, I own the whole street anyway – the whole damn neighbourhood in fact! Anyone who refuses to pay me my money can move somewhere else – I’m not forcing anyone!”
+"Ba irin wannan alkawari ba ne! Wannan alkwari da juna ne... Kuma baicin haka - bisa ga abin da a cikin wannan alkawarin juna, na mallaka dukan fili - dukan unguwar ma a gaskiya! Duk wanda ya ƙi biyan kudi na zai iya komawa a wani wuri - Bana tilasta kowa ba! " 
 
-“And how do you know that you own the whole neighbourhood? Do you have ownership papers?”
+"Kuma ta yaya ka san cewa kana da dukan unguwar? Kuna da takardun mallaki? " 
 
-“Yes, of course – have a look here!”
+"Haka ne, hakika –ga shi a nan!"
 
-“Well, this is just a handwritten note saying that you own the whole neighbourhood – and it’s the same handwriting as your signature. I’m afraid that we’re going to have to book you – this is just a made-up contract with yourself, which you are inflicting on other people at the point of a gun”.
+"To, wannan takarda rubutune na cewa kana da dukan unguwar - kuma kai ne ka rubuta, kuma ka sa hannu kai kadai. Lallai za mu kama ka nan da nan - wannan ne kawai alkawari da ka yi da kanka, ba ta gaskiya ta ba, kuma kana yi wa wasu mutane tare bindiga. "
 
-This is as completely insane and corrupt as me continuing to tell a woman I am raping that she *wants* to have sex with me. Can you imagine if I were on trial for rape, and there was a videotape of the woman begging me to stop, and I had a knife to her throat, how my defence would be received if I continued to insist that she actually *wanted* to have sex with me?
+Wannan abin hauka ne da cin hanci ne, kamar a ce na gaya wa mace wanda ina yin fyaɗe da ita cewa ina tsammanin ta so ta yi jima'i da ni. Za ka iya tunanin idan na yi wata bidiyo na macen tana roko ni in daina, kuma ina da wani wuka a wuyanta, kuma na sake ci gaba da cewa da son rai ne ta so ta yi jima'i da ni?
 
-In court, I would be reviled, and thrown into jail for my obvious, mad, corrupt and self-serving hypocrisy.
+A kotu, za a zarge ni, a kuma jefa ni kurkuku saboda rashin fahimta, mahaukaci, cin hanci da munafurcin nawa.
 
-Ah, but in the “null zone” of government, rape is lovemaking, kidnapping is invitation, rejecting theft is evil selfishness, and coercion is kindness.
+A'a, amma a cikin "ɓangaren sararin dabam" na gwamnati, fyade shi ne ƙauna, sacewa shine gayyatar, ƙin sata shi ne mugun son kai, kuma tilastawa shi ne alheri. 
 
-This is what I mean when I say that this “opposite world *null zone*” is the most fundamental barrier to human happiness the world over. Stealing is wrong for us; stealing is wrong in the abstract – but stealing is somehow “right” in this insane alternate universe called “government”?
+Wannan shine abin da na ke nufi a lokacin da na ce wannan "tsarin duniya dabam na sarari", wato null zone," ita ce mafigirma cikas ga jin dadin rayuwar mutum a duniyar ga. Sata ba daidai ba ne a gare mu; sata ba daidai ba ne a cikin tunaninmu - amma sata yana da "dama" a cikin wannan mahaukaciyar kungiya wanda ake kira "gwamnati"?
 
-[^2]: Let’s not even get *started* on the logical nightmare of the truth value contained in the statement “error equals truth”.
+[2]: Kada mu ma fara akan mafarki mai ban dariya na gaskiyar wanda ke ƙunshe cikin wannan magana "karya daidai ne da gaskiya."
 
-[^3]: This argument tends also not to work very well with maths teachers – I have never seen a student successfully argue that an incorrect answer may be correct in another universe, and so it is unjust to mark it as wrong.
+[3]: Wannan jayayya ta tabbatar da cewa ba ya aiki sosai da malaman ilimin lisafi - Ban taba ganin dalibi ya sami nasara a cikin yin gardama cewa amsar karya na iya zama daidai a wata duniya dabam, saboda haka ba daidai ba ne a soke mai aiki ba.
