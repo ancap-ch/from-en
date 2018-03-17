@@ -1,49 +1,49 @@
-## Pagsisimula
+## 引发
 
-Ang isang makatwirang moral na teorya ay dapat may kakayahang maipaliwanag ang lahat ng nasabing unibersal na pamantayan, gaya ng sa makatwirang teorya ng pisika ay dapat may kakayahang maipaliwanag kung paanong ang isang tao ay di inaasahang makalkula ang arko ng itinapong beysbol, at saluhin ito.
+合理的道德理论应该能够解释以上所有的普遍标准，正如一个合理的物理学理论应该能够解释一个人如何无意识地计算投掷棒球的弧线，并抓住它一样。
 
-Kung ang balangkas ng UPB ay may kakayahang ipaliwanag ang nasa itaas, kung gayon ito ay papasa kahit man lang sa pagsusulit ng "sentido kumon".
+如果UPB框架可以解释以上，那么它肯定有过至少“常识”测试。
 
-Hindi nito ibig sabihin na ilang kagulat-gulat - kahit nakakabiglang - mga konklusyon ay hindi magreresulta mula sa ating moral na teorya, subalit kahit papaano tayo ay papasa man lang sa unang balakid ng pagpapaliwanag ng halata na, bago pag-isipan ang alinmang talagang halata na.
+这并不意味着我们的道德理论可能不会产生一些令人惊讶，甚至令人震惊的结论，但至少在分析那些不明显的分析之前，我们将通过解释明显的第一个障碍。
 
-Habang nasasaisip iyan, tayo ng magtungo sa tanong ng *pagsisimula*.
+考虑到这一点，让我们谈谈启动的问题。
 
-Ang isang surdyon ay maaari kang "saksakin: ng isang iskalpel, subalit madali nating nauunawaan na ang pagkilos na ito ay sobrang naiiba mula sa isang mandurukot na sinaksak ka gamit ang kutsilyo.
+外科医生可以用手术刀“刺”你，但我们可以很容易地理解他的行为与用刀刺伤你的抢劫犯非常不同。
 
-Ang pagkakaibang ito ay mauunawaan sa pamamagitan ng karagdagang pag-aanalisa ng *pagsisimula*.
+通过对启动的进一步分析可以理解这种差异。
 
-Kung nagkaroon ka ng kanser, maaari mong pakiusapan ang isang surdyon na operahan ka. Ang dahilan kung bakit ang "pagsaksak" ng surdyon ay hindi imoral ay dahil ang kanser ang "nagpasimula" ng pag-atake sa iyong buhay at kalusugan. Ang surdyon ay kumikilos bilang "kahaliling ahente ng pagtatanggol ng sarili." gaya ng isang tao na binaril ang mandurukot na umaatake sa iyo. Ibinigay mo rin ang iyong pahintulot sa surdyon, at nakatali ang kanyang mga kilos ng ispesipikong kontrata.
+如果你得了癌症，你可以叫外科医生给你做手术。外科医生的“刺”并不是不道德的，原因是癌症“发起”了对你的生命和健康的攻击。外科医生扮演着“代理自卫代理人”的角色，就像一个男人射杀了一个攻击你的凶手。你也已经同意了外科医生，并通过特定的合同来约束他的行为。
 
-Ang mandurukot na sumaksak sa iyo, gayonpaman, ay nagpapasimula ng pag-atake sa iyong buhay at kalusugan, ito kung bakit ang kanyang pag-atake ay ang moral na *salungat* sa pagsisikap ng surdyon.
+然而，刺伤你的凶手正在对你的生命和健康发起攻击，这就是他的攻击与外科医生努力相反的原因。
 
-Ako ay talamak at matagal ng naninigarilyo, ako ay nakibahagi sa tanikala ng mga kaganapan na humantong sa aking kanser sa baga. Sa pamamagitan ng pagsisimula at pagpapanatili ng ugali ng paninigarilyo, aking inilagay sa galaw ang tanikala ng sanhi na nagresulta sa isang nakamamatay na paghihirap. Tiyak pa rin para sa akin na magkaroon ng kanser sa baga kahit hindi ako naninigarilyo - o manigarilyo ng hindi nagkakaroon ng kanser sa baga - subalit aking tiyak na naaapektuhan ang mga pangyayari.
+如果我是一个长期抽烟的人，我就参与了导致我肺癌的一系列事件。通过倡导和保持吸烟的习惯，我开始了一连串的因果关系，可能导致危及生命的痛苦。对我而言，肺癌肯定是可以不吸烟的 - 或者没有肺癌的烟雾 - 但我肯定已经影响了这种可能性。
 
-Gayundin, posible para sa akin na iwan ang aking pitaka sa upuan sa parke sa loob ng isang linggo, balikan at makitang naroroon pa rin ito, pero ang iwan iyon sa nasabing mahabang panahon, aking tiyak na naapektuhan ang mga pangyayari na iyon ay pwedeng mawala.
+同样地，我有可能把我的钱包放在公园的长椅上呆了一个星期，回来后发现它仍然坐在那里，但是在那里呆了很长时间，我肯定已经影响了它的消失几率。
 
-Sa kabilang banda, kung ako ay mananatili sa bahay tuwing gabi, ako ay hindi umaakit ng krimen, at kung isang baliw ang lumusob sa aking tahanan at malaya akong ninakawan, hindi ako maaaring sisihin para sa anumang sanhing aking idinulot sa insidente.
+另一方面，如果我每天晚上都呆在家里，我并不是完全追求犯罪，所以如果一个疯子侵入我的家，并且让我失明，我不能因为我在事件中扮演的任何因果角色而受到指责。
 
-### Ang Walang-Agresyon na Prinsipyo (WAP)
+### 非侵犯原则（NAP）
 
-Isang moral na tuntunin ang kadalasang iminimungkahi na tinatawag na *walang-agreyon na prinsipyo*, o WAP. Ito ay tinatawag bilang isang "porkupayn pasipist," ayon sa alam na ginagamit lamang ng pokupayn ang kayang "pwersa" bilang pagtatanggol sa sarili. Ang WAP ay ang pangunahing proposisyon na " ang pagsisimula ng pgaggamit ng pwersa ay moral na mali." O, upang mas ilagay sa termino ng ating pag-uusap: "Ang hindi pagsisimula ng pwersa ay unibersal na kanais-nais".
+道德法则常被称为不侵犯原则，或 NAP。它也被称为是一个“豪猪的和平主义者”，只要一只豪猪用“力”自卫午睡基本上是主张“使用武力的起始是不道德的”。或者，把它放在我们的谈话：“非暴力是普遍较好“。
 
-Kapag ating inanalisa ang isang prinsipyo gaya ng WAP, meron lamang mga pitong posibilidad: tatlo sa negatibo, tatlo sa positibo, at isa nyutral:
+当我们分析一个原理时，比如 NAP，实际上只有七种可能性：三在负，三在正，一中性：
 
-- Ang pagsisimula ng paggamit ng pwersa ay tuwinang moral na mali.
-- Ang pagsisimula ng paggamit ng pwersa ay minsan moral na mali.
-- Ang pagsisimula ng paggamit ng pwersa ay hindi kailanman moral na mali.
-- Ang pagsisimula ng paggamti ng pwersa ay walang moral na nilalaman.
-- Ang pagsisimula ng paggamit ng pwersa ay hindi kailanman moral na tama.
-- Ang pagsisimula ng paggamit ng pwersa ay minsan moral na tama.
-- Ang pagsisimula ng paggamit ng pwersa ay tuwinang moral na tama.
+- 开始使用武力在道德上始终是错误的。 
+- 开始使用武力有时在道德上是错误的。 
+- 开始使用武力在道德上从来不是错误的。 
+- 开始使用武力没有道德内容。 
+- 开始使用武力在道德上是不对的。 
+- 开始使用武力有时在道德上是正确的。 
+- 开始使用武力总是道德上正确的。
 
-Gaya ng ating nakita sa itaas, gayonpaman, ang UPB ay isang "lahat o walang" balangkas. Kung ang isang aksyon ay *unibersal na kanais-nais*, kung gayon ito ay hindi nalilimitahan ng indibidwal, heograpiya, oras atbp. Kung mali na pumaslang sa Algiers, kung gayon mali rin na pumaslang sa Belgium, sa Estados Unidos, sa Polong Hilaga at sa buwan. Kung mali na pumaslang kahapon, kung gayon hindi pa rin tama na pumaslang bukas. Kung mali para kay Bob ang pumaslang, kung gayon mali pa rin para kay Doug ang pumaslang.
+然而，正如我们上面所看到的，UPB是一个“全部或全部”的框架。如果行动是普遍可取的，那么它不能受个人，地理，时间等因素的限制。如果在阿尔及尔谋杀是错误的，那么在比利时，美国，北极和月亮也是错误的。如果昨天谋杀是不对的，那么明天谋杀是不对的。如果Bob谋杀是不对的，那么Doug谋杀也是错误的。
 
-Pagsanibin ang WAP sa UPB, kung gayon ay pinapayagan tayong kayasin ang pitong pahayag tungo sa tatlo:
+结合NAP与UPB，从而使我们这七个陈述缩减为三：
 
-1. Unibersal na kanais-nais na pasimulan ang paggamit ng pwersa.
-2. Unibersal na kanais-nais na huwag pasimulan ang paggamit ng pwersa.
-3. Ang pagpapasimula ng paggamit ng pwersa ay hindi saklaw ng unibersal na pagnanais.
+1. 开始使用武力是普遍优先的。
+2. 最好不要开始使用武力。
+3. 开始使用武力不受普遍偏好的限制。
 
-Ito ang natural na resulta ng paglalapat ng pangangailangan ng rasyonal na pagpapanatili tungo sa etikal na proposisyon. Ang isang rasyonal na teroya ay hindi balidong makapagpapanukala na ang magkasalungat na mga resulta ay mula sa parehas na pangyayari. Ang isang syentipikong teorya ay hindi makakapag-argumento na ang isang bato ay dapat bumagsak paibaba, subalit ang isang bato ay dapat bumagsak paitaas. Si Einstein ay hindi nag-argumento ng E=MC^2^ sa araw ng Huwebes, subalit E=MC^3^ sa araw ng Biyernes, o sa Mars, o tuwing asul na buwan. Ang batas ng konserbasyon - ang mga bagay ay hindi mabubuo o masisira - ay hindi mapanghahawakang totoo kung lamang gustong-gusto mo, o binayaran mo ang isang tao na gawin ito, o kapag ang isang pusang itim ay nagkrus sa iyong daan. Ang batas ng pisika ay hindi saklaw ng oras, heograpiya, opinyon o mga gawa ng Kongreso. Ang hindi nagbabagong ito ay dapat din na mangailangan ng mga sistema ng etika, o UPB, at ating sasaklawin ng pangkalahatan ang mga tinanggap na mga teoryang moral sa kahirapang ito sa ikalawang parte, sa ilang mga pahina,.
+这是将合理一致性的要求应用于道德命题的自然结果。理性的理论不能有效地提出在相同的情况下会出现相反的结果。一个科学理论不能说一个摇滚必须倒下，但另一个摇滚必须掉下来。爱因斯坦在星期四没有争辩说E=MC^2^，但星期五，火星或蓝月亮时E=MC^3^。保护法则 - 既不能创造也不能破坏物质 - 只有当你真正想要的时候，或者如果你付钱让人这么做，或者当一只黑猫超越你的道路，这种规律才会成立。物理定律不受时间，地理，意见或国会行为的约束。伦理体系或UPB也必须要求这种一致性，我们将在第二部分几页中将公认的道德理论置于严谨的层面。
 
-Gayunpaman, dahil tayo ay nahaharap sa katanungan ng *hindi nagbabago*, sulit ding bigyang oras na harapin ang kapasidad ng *pabago-bago*.
+然而，由于我们正在处理一致性问题，因此很值得花时间来处理我们的不一致性。
