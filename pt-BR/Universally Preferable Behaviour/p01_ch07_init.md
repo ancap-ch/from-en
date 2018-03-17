@@ -1,49 +1,49 @@
-## Iniciação
+## 引发
 
-Uma teoria moral razoável deve ser capaz de explicar todos os padrões universais acima, assim como uma teoria razoável da física deve ser capaz de explicar como um homem pode inconscientemente calcular o arco de uma bola lançada e pegá-la.
+合理的道德理论应该能够解释以上所有的普遍标准，正如一个合理的物理学理论应该能够解释一个人如何无意识地计算投掷棒球的弧线，并抓住它一样。
 
-Se a estrutura do UPB pode explicar as coisas acima, então ele terá certamente passado pelo menos do teste de "senso comum".
+如果UPB框架可以解释以上，那么它肯定有过至少“常识”测试。
 
-Isso não significa que algumas conclusões surpreendentes – até mesmo chocantes – não podem resultar da nossa teoria moral, mas pelo menos nós devemos ter passado o primeiro obstáculo de explicar o óbvio, antes de analisar aquilo que está longe de ser óbvio.
+这并不意味着我们的道德理论可能不会产生一些令人惊讶，甚至令人震惊的结论，但至少在分析那些不明显的分析之前，我们将通过解释明显的第一个障碍。
 
-Com isso em mente, passemos à questão da *iniciação*.
+考虑到这一点，让我们谈谈启动的问题。
 
-Um cirurgião pode te "apunhalar" com um bisturi, mas é fácil compreender que a ação dele é muito diferente de um assaltante que te apunhala com uma faca.
+外科医生可以用手术刀“刺”你，但我们可以很容易地理解他的行为与用刀刺伤你的抢劫犯非常不同。
 
-Esta diferença pode ser compreendida através de uma análise mais profunda da *iniciação*.
+通过对启动的进一步分析可以理解这种差异。
 
-Se você tiver câncer, você pode pedir a um cirurgião para que ele te opere. A razão pela qual o ato de "apunhalar" do cirurgião não é imoral é porque o câncer "iniciou" um ataque à sua vida e saúde. O cirurgião está atuando como um "agente de auto-defesa substituto", assim como um homem que atira em um assaltante que está atacando você. Você também deu o seu consentimento ao cirurgião e limitou seu comportamento por um contrato específico.
+如果你得了癌症，你可以叫外科医生给你做手术。外科医生的“刺”并不是不道德的，原因是癌症“发起”了对你的生命和健康的攻击。外科医生扮演着“代理自卫代理人”的角色，就像一个男人射杀了一个攻击你的凶手。你也已经同意了外科医生，并通过特定的合同来约束他的行为。
 
-O assaltante que te corta, no entanto, está iniciando um ataque à sua vida e saúde, e é por isso que o ataque dele é a moral *oposta* dos esforços do cirurgião.
+然而，刺伤你的凶手正在对你的生命和健康发起攻击，这就是他的攻击与外科医生努力相反的原因。
 
-Se eu sou um fumante crônico e de longa data, eu participei da cadeia de eventos que levam ao meu câncer no pulmão. Ao iniciar e manter o hábito de fumar, eu pus em movimento uma cadeia de causalidade que pode resultar em uma doença fatal. É claramente possível para mim ter um câncer de pulmão sem fumar – ou fumar sem contrair câncer de pulmão – mas eu claramente afetei as probabilidades.
+如果我是一个长期抽烟的人，我就参与了导致我肺癌的一系列事件。通过倡导和保持吸烟的习惯，我开始了一连串的因果关系，可能导致危及生命的痛苦。对我而言，肺癌肯定是可以不吸烟的 - 或者没有肺癌的烟雾 - 但我肯定已经影响了这种可能性。
 
-Da mesma forma, é também possível eu deixar minha carteira em um banco em uma praça, voltar depois de uma semana e ela ainda estar lá. Mas ao deixar ela lá por tanto tempo, eu com certeza afetei as chances de ela não estar mais lá.
+同样地，我有可能把我的钱包放在公园的长椅上呆了一个星期，回来后发现它仍然坐在那里，但是在那里呆了很长时间，我肯定已经影响了它的消失几率。
 
-Por outro lado, se eu ficar em casa todas as noites, eu não estou exatamente chamando o crime, então se um maníaco invadir minha casa e me roubar sem que eu veja, eu não posso com razão ser culpado de qualquer papel que eu posso ter tido no acontecimento.
+另一方面，如果我每天晚上都呆在家里，我并不是完全追求犯罪，所以如果一个疯子侵入我的家，并且让我失明，我不能因为我在事件中扮演的任何因果角色而受到指责。
 
-### O princípio de não-agressão (PNA)
+### 非侵犯原则（NAP）
 
-Uma regra moral é geralmente proposta ser chamada de o *princípio de não-agressão*, ou PNA. É também chamado de ser um "pacifista porco-espinho", na medida em que um porco espinho só usa "força" em legítima defesa. o NAP é basicamente a proposição de que "a iniciação do uso da força é moralmente errada." Ou, para colocar em termos da nossa conversa: "a não-iniciação da força é preferível universalmente".
+道德法则常被称为不侵犯原则，或 NAP。它也被称为是一个“豪猪的和平主义者”，只要一只豪猪用“力”自卫午睡基本上是主张“使用武力的起始是不道德的”。或者，把它放在我们的谈话：“非暴力是普遍较好“。
 
-Quando analisamos um princípio como o NAP, na verdade existem apenas sete possibilidades: três negativas, três positivas e uma neutra:
+当我们分析一个原理时，比如 NAP，实际上只有七种可能性：三在负，三在正，一中性：
 
-- A iniciação do uso da força é sempre moralmente errada.
-- A iniciação do uso da força, às vezes é moralmente errada.
-- A iniciação do uso da força nunca é moralmente errada.
-- A iniciação do uso da força não tem a ver com moral.
-- A iniciação do uso da força nunca é moralmente correto.
-- A iniciação do uso da força as vezes é moralmente correto.
-- A iniciação do uso da força é sempre moralmente correto.
+- 开始使用武力在道德上始终是错误的。 
+- 开始使用武力有时在道德上是错误的。 
+- 开始使用武力在道德上从来不是错误的。 
+- 开始使用武力没有道德内容。 
+- 开始使用武力在道德上是不对的。 
+- 开始使用武力有时在道德上是正确的。 
+- 开始使用武力总是道德上正确的。
 
-Como já vimos acima, no entanto, o UPB é uma estrutura "tudo ou nada". Se uma ação é *universalmente preferível*, então ela não pode ser limitada pelo indivíduo, geografia, tempo etc. Se é errado matar em Argel, então também é errado matar na Bélgica, Estados Unidos, no Polo Norte e na lua. Se é errado matar ontem, então não é certo matar amanhã. Se é errado o João assassinar alguém, então deve também ser errado a Maria assassinar.
+然而，正如我们上面所看到的，UPB是一个“全部或全部”的框架。如果行动是普遍可取的，那么它不能受个人，地理，时间等因素的限制。如果在阿尔及尔谋杀是错误的，那么在比利时，美国，北极和月亮也是错误的。如果昨天谋杀是不对的，那么明天谋杀是不对的。如果Bob谋杀是不对的，那么Doug谋杀也是错误的。
 
-Unindo o PNA com o UPB, assim, podemos diminuir aquelas afirmações de sete para três:
+结合NAP与UPB，从而使我们这七个陈述缩减为三：
 
-1. É universalmente preferível iniciar o uso da força.
-2. É universalmente preferível não iniciar o uso da força.
-3. A iniciação do uso de força não está sujeita a preferências universais.
+1. 开始使用武力是普遍优先的。
+2. 最好不要开始使用武力。
+3. 开始使用武力不受普遍偏好的限制。
 
-Este é o resultado natural de aplicar a exigência de coerência racional a proposições éticas. Uma teoria racional não pode validamente propor que resultados opostos podem ocorrer nas mesmas circunstâncias. Uma teoria científica não pode argumentar que uma pedra deve cair, mas outra pedra deve subir. Einstein não argumentou que E=MC² acontece na quinta-feira, que E=MC³ acontece numa sexta-feira, ou em Marte ou durante uma lua azul. A lei de conservação – que matéria não pode ser criada nem destruída – não é verdade apenas quando você realmente quer, ou se você pagar um cara pra fazer que seja, ou quando um gato preto atravessa seu caminho. As leis da física não estão sujeitas a tempo, geografia, opinião ou atos do Congresso. Esta coerência deve igualmente ser necessária para sistemas de ética, ou o UPB, e nós subjetivamente generalizadamente aceitamos teorias morais desse tipo na parte 2, daqui algumas páginas.
+这是将合理一致性的要求应用于道德命题的自然结果。理性的理论不能有效地提出在相同的情况下会出现相反的结果。一个科学理论不能说一个摇滚必须倒下，但另一个摇滚必须掉下来。爱因斯坦在星期四没有争辩说E=MC^2^，但星期五，火星或蓝月亮时E=MC^3^。保护法则 - 既不能创造也不能破坏物质 - 只有当你真正想要的时候，或者如果你付钱让人这么做，或者当一只黑猫超越你的道路，这种规律才会成立。物理定律不受时间，地理，意见或国会行为的约束。伦理体系或UPB也必须要求这种一致性，我们将在第二部分几页中将公认的道德理论置于严谨的层面。
 
-No entanto, uma vez que estamos lidando com a questão da *coerência*, vale a pena darmos a atenção para lidar com a nossa capacidade de *incoerência*.
+然而，由于我们正在处理一致性问题，因此很值得花时间来处理我们的不一致性。
