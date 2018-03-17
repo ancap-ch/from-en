@@ -30,12 +30,12 @@ Certamente eu deveria chorar dos próprios telhados que sua água potável estav
 
 Com certeza que com o conhecimento de um envenenamento tão universal e evitável, eu não deveria perder o meu tempo argumentando que o verdadeiro perigo que alguém enfrentava era a pequena possibilidade de que qualquer indivíduo pudesse decidir envenená-lo em qualquer momento no futuro.
 
-Portanto, como um filósofo preocupado com a violência e a imoralidade, devo concentrar-me nos criminosos privados ou nos criminosos públicos?
+因此，作为一个关心暴力和不道德的哲学家，我应该关注私人罪犯还是公共罪犯？
 
-As violações que experimentei em mãos de criminosos privados tornam-se insignificantes em relação às que experimentei *um dia* sob as ternas bondades dos meus "mestres virtuosos e bons"
+我在私人罪犯手中遭受的侵犯行为，即使在一天之内，我的”善良和善良的主人“也毫不留情。
 
-Então, se os maiores perigos para a Humanidade são as falsas teorias éticas, as nossa maiores prioridades devem ser a descoberta, comunicação e aperfeiçoamento de uma teoria ética válida, racional, empírica e consistente. Se descobrimos que a maioria das vítimas da praga está a morrer devido à água impura, então certamente dizer-lhes que purifiquem a sua água deve ser a nossa primeira e mais alta prioridade.
+那么，如果人类面临的最大危险是虚假的道德理论，那么我们的最高优先级应该是有效的，理性的，经验的和一致的道德理论的发现，交流和改进。如果我们发现大多数瘟疫受害者都因不纯净的水而死亡，那么一定要告诉他们净化水是我们的首要任务。
 
-Passemos agora a essa tarefa.
+现在让我们谈谈这个任务。
 
 [^12]: Ou, em vez disso: a educação "*forçado* é uma virtude" - os meus pais foram obrigados a pagar através de impostos, e fui obrigado a participar.
