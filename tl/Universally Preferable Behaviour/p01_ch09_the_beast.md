@@ -30,12 +30,12 @@ Tunay na dapat akong sumigaw mula sa mismong mga bubong na ang kanilang inuming 
 
 Tunay, sa kaalaman uri ng ganitong unibersal at mapigilan ang pagkalason, hindi ko dapat aksayahin ang aking oras na naglalaban na ang tunay na panganib na iyong kinakaharap ay ang maliit na posibilidad na ang ilang mga pagkakataon na indibidwal ay pwedeng magpasya na malason ka sa isang punto sa hinaharap.
 
-Kaya naman, bilang isang pilosopo na nababahala sa karahasan at imoralidad, dapat ba akong tumuon sa mga pribadong kriminal, o mga kriminal na pampubliko?
+因此，作为一个关心暴力和不道德的哲学家，我应该关注私人罪犯还是公共罪犯？
 
-Ang mga paglabag na aking mga naranasan sa mga kamay ng mga pribadong kriminal ay nawala sa kawalan ng halaga na may kaugnayan sa kahit na *isang araw* sa ilalim ng magiliw na awa ng aking "banal at mahusay na aking mga pinuno."
+我在私人罪犯手中遭受的侵犯行为，即使在一天之内，我的”善良和善良的主人“也毫不留情。
 
-Kung, pagkatapos ay, ang pinakadakilang panganib sa sangkatauhan ay mga maling etikal na teyorya, kung gayonay ang pinakamataas na prayoritasyon ay ang pagtuklas, komunikasyon at pagpapaayos ng isang wastong, rasyunal, empirikal at pare-parehong teyorya sa etika. Kung ating matuklasan na ang karamihan sa mga biktima ng salot ay namamatay mula sa maruruming tubig, pagkatapos ay tunay na sinasabi sa kanila na linisin ang kanilang tubig ay dapat na maging una at pinakamataas na prayoridad.
+那么，如果人类面临的最大危险是虚假的道德理论，那么我们的最高优先级应该是有效的，理性的，经验的和一致的道德理论的发现，交流和改进。如果我们发现大多数瘟疫受害者都因不纯净的水而死亡，那么一定要告诉他们净化水是我们的首要任务。
 
-Ipaalam natin ngayon ang ganyang gawain.
+现在让我们谈谈这个任务。
 
 [^12]: O, sa halip: "*sapilitang* ang edukasyon ay isang kabutihan" – ang aking mga magulang ay napilitang magbayad sa pamamagitan ng mga buwis, at napilitang dumalo.
