@@ -30,12 +30,12 @@ Certamente eu deveria chorar de cima dos telhados que sua água potável está c
 
 Certamente, no conhecimento de um envenenamento universal e evitável, eu não deveria perder meu tempo argumentando que o verdadeiro perigo que você enfrentava era a pequena possibilidade que algum indivíduo aleatório pudesse decidir lhe envenenar em algum momento no futuro.
 
-Thus, as a philosopher concerned with violence and immorality, should I focus on private criminals, or public criminals?
+因此，作为一个关心暴力和不道德的哲学家，我应该关注私人罪犯还是公共罪犯？
 
-The violations that I experienced at the hands of private criminals fade to insignificance relative to even *one day* under the tender mercies of my “virtuous and good masters.”
+我在私人罪犯手中遭受的侵犯行为，即使在一天之内，我的”善良和善良的主人“也毫不留情。
 
-If, then, the greatest dangers to mankind are false ethical theories, then our highest prioritisation should be the discovery, communication and refinement of a valid, rational, empirical and consistent ethical theory. If we discover that most plague victims are dying from impure water, then surely telling them to purify their water should be our first and highest priority.
+那么，如果人类面临的最大危险是虚假的道德理论，那么我们的最高优先级应该是有效的，理性的，经验的和一致的道德理论的发现，交流和改进。如果我们发现大多数瘟疫受害者都因不纯净的水而死亡，那么一定要告诉他们净化水是我们的首要任务。
 
-Let us now turn to that task.
+现在让我们谈谈这个任务。
 
-[^12]: Or, rather: “*forced* education is a virtue” – my parents were compelled to pay through taxes, and I was compelled to attend.
+[^12]: Ou, em vez disso: a educação "*forçado* é uma virtude" - os meus pais foram obrigados a pagar através de impostos, e fui obrigado a participar.
