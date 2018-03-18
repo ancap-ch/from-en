@@ -1,49 +1,49 @@
-## Initiation
+## شروع
 
-A reasonable moral theory should be able to explain all of the above universal standards, just as a reasonable theory of physics should be able to explain how a man can unconsciously calculate the arc of a thrown baseball, and catch it.
+یک تئوری منطقی و معقول باید بتواند همه ی استاندارد های جهانی نامبرده شده را شرح دهد، درست مثل اینکه یک تئوری معقول فیزیک می تواند توضیح دهد که یک مرد چگونه قوس توپ بیسبال پرتاب شده را میتواند به طور ناخودآگاه محاسبه کند و آن را بگیرد.
 
-If the framework of UPB can explain the above, then it will certainly have passed at least the “common sense” test.
+اگر چهارچوب یو پی بی بتواند این استاندارد ها را شرح دهد، بنابراین آن حداقل آزمون «عقل سلیم» را قبول شده است. 
 
-This does not mean that some surprising – even shocking – conclusions may not result from our moral theory, but at least we shall have passed the first hurdle of explaining the obvious, before analysing that which is far from obvious.
+این به این معنی نیست که برخی راه حل  های شگفت آور  و حتی تکان دهنده، حاصل از نظریه های منطقی ما نیست، ولی قبل از آنالیز اینکه کدام یک از واقعیت برای ما دور است، و حداقل ما باید از اولین مانع که توضیح واقعیت را توصیف چه کسی انجام میدهد  را گذر کنیم.
 
-With that in mind, let us turn to the question of *initiation*.
+با این فرض، اجازه بدهید کار خود را  با درخواست «شروع» آغاز کنیم.
 
-A surgeon can “stab” you with a scalpel, but we can easily understand that his action is very different from a mugger who stabs you with a knife.
+یک جراح با یک اسکالپل می تواند «ببُرد»، ولی ما می توانیم به سادگی درک کنیم که این کار با کاری که یک قاتل با چاقو به چه طریقی انجام می دهد متفاوت است.
 
-This difference can be understood through a further analysis of *initiation*.
+این اختلافات از طریف آنالیز «شروع» می تواند درک شود.
 
-If you get cancer, you may ask a surgeon to operate on you. The reason that the surgeon’s “stab” is not immoral is that the cancer “initiated” an attack upon your life and health. The surgeon is acting as a “surrogate self-defence agent”, just like a man who shoots a mugger who is attacking you. You have also given your consent to the surgeon, and bound his behaviour by a specific contract.
+اگر شما سرطان بگیرید، می توانید از یک جراح درخواست کنید که عمل جراحی روی شما انجام دهد. دلیل اینکه «برش» جراح برای شما غیرمنطقی نیست این است که سرطان حمله به جان و سلامتی شما را «شروع» کرده است. جراح به عنوان یک «عامل جایگزین برای دفاع از خود» عمل می کند، درست مثل مردی که به طرف یک قاتل که به شما حمله کرده است شلیک می کند. همچنین شما رضایت خود را به جراح داده اید و رفتار او را توسط یک توافق نامه ی خاص محدود کرده اید.
 
-The mugger who stabs you, however, is initiating an attack upon your life and health, which is why his attack is the moral *opposite* of the surgeon’s efforts.
+قاتلی که قصد کشتن شما را  دارد یک حمله ضد جان بر علیه سلامتی شما شروع کرده است، و به همین دلیل است که چرا حمله ی او به طور منطقی مخالف کاری است که جراح به چه نحوی انجام می دهد. 
 
-If I am a chronic and long-time smoker, I have participated in the chain of events that lead to my lung cancer. By initiating and maintaining the habit of smoking, I have set into motion a chain of causality that can result in a life-threatening affliction. It is certainly possible for me to get lung cancer without smoking – or smoke without getting lung cancer – but I certainly have affected the odds.
+اگر من یک سیگاری ماهر و با سابقه بلند مدت باشم، در زنجیره ی اتفاقاتی که من را به سمت سرطان ریه هدایت می کند شرکت کرده ام. با شروع و باقی ماندن در عادت سیگار کشیدن، من زنجیره ای از علیت را به وجود آورده ام که می تواند منجر به یک تهدید خطرناک برای زندگی خودمان شود. قطعاً برای من این احتمال وجود دارد که بدون سیگار کشیدن نیز سرطان ریه خواهم گرفت، یا با سیگار کشیدن سرطان ریه نگیرم ، ولی قطعاً این احتمال را برای خود تحت تاثیر قرار داده ام. 
 
-Similarly, it is possible for me to leave my wallet on a park bench for a week, return and find it still sitting there, but by leaving it there for such a long time, I certainly have affected the odds of it being gone.
+همچنین، برای من این احتمال وجود دارد که کیف پول خود را روی نیمکت پارک برای هفته ها بگذارم، برگردم و آن را همانجا پیدا کنم، ولی با گذاشتن آن در آنجا برای چنین زمان طولانی، احتمال برده شدن را تحت تاثیر قرار داده ام.
 
-On the other hand, if I stay home every night, I am not exactly courting crime, and so if a maniac invades my home and robs me blind, I cannot be reasonably blamed for any causal role I have played in the incident.
+در صورت دیگر، اگر من هر شب خانه بمانم، دقیقاً از جرم و جنایت دور نیستم، و همچنین اگر یک آدم دیوانه به خانه ی من حمله کند و در صورتی که عاجز ام از من دزدی کند، به طور منطقی من نمیتوانم برای هر نقش علیتی که در حادثه بازی کرده ام متهم شوم. 
 
-### The Non-Aggression Principle (NAP)
+### (اصل عدم تعهد (ان ای پی
 
-A moral rule is often proposed called the *non-aggression principle*, or NAP. It is also called being a “porcupine pacifist”, insofar as a porcupine only uses “force” in self-defence The NAP is basically the proposition that “the initiation of the use of force is morally wrong”. Or, to put it more in the terms of our conversation: “The non-initiation of force is universally preferable”.
+یک قانون منطقی که اغلب مطرح شده است اصل عدم تعهد یا ان ای پی نام دارد. همچنین این به عنوان یک «جوجه تیغی صلح طلب» نیز نام گرفته شده است، به این صورت که مانند جوجه تیغی از «نیرو» در دفاع از خود استفاده می کند. ان ای پی  اساساً بیان کننده این است که «شروع استفاده از نیرو به طور منطقی اشتباه است»، یا با قرار دادن آن در شرایط مکالمه ما: « عدم تعهد به نیرو به طور جهانی ترجیح داده می شود». 
 
-When we analyse a principle such as the NAP, there are really only seven possibilities: three in the negative, three in the positive, and one neutral:
+وقتی که ما اصلی مانند ان ای پی را آنالیز می کنیم، تنها 7 حالت وجود خواهد داشت: 3 تا مثبت، 3 تا منفی و 1 خنثی است
 
-- The initiation of the use of force is always morally wrong.
-- The initiation of the use of force is sometimes morally wrong.
-- The initiation of the use of force is never morally wrong.
-- The initiation of the use of force has no moral content.
-- The initiation of the use of force is never morally right.
-- The initiation of the use of force is sometimes morally right.
-- The initiation of the use of force is always morally right.
+- .شروع استفاده از نیرو معمولاً به طور منظقی اشتباه است
+- .شروع استفاده از نیرو گاهی به طور منطقی اشتباه است
+- .شروع استفاده از نیرو هیچوقت به طور منطقی اشتباه نیست
+- .شروع استفاده از نیرو شامل هیچ منطقی نمی شود
+- .شروع استفاده از نیرو هیچوقت به طور منطقی درست نیست
+- .شروع استفاده از نیرو گاهی به طور منطقی درست است
+- .شروع استفاده از نیرو معمولاً به طور منطقی درست است
 
-As we have seen above, however, UPB is an “all or nothing” framework. If an action is *universally preferable*, then it cannot be limited by individual, geography, time etc. If it is wrong to murder in Algiers, then it is also wrong to murder in Belgium, the United States, at the North Pole and on the moon. If it is wrong to murder yesterday, then it cannot be right to murder tomorrow. If it is wrong for Bob to murder, then it must also be wrong for Doug to murder.
+همانطور که در بالا دیدیم یو پی بی یک چهارچوب «همه یا هیچ» است. اگر یک عملکرد به طور جهانی ترجیح داده می شود، پس نمی تواند توسط یک شخص خاص، جغرافیا، زمان و غیره محدود شود. اگر قتل در الجزیره اشتباه است، پس در بلژیک، ایالات متحده امریکا، قطب شمال و یا ماه نیز اشتباه است. اگر اشتباه است که دیروز قتل کنیم، پس قتل در فردا نیز درست نیست. اگر قتل حالت روب درست نیست، پس همچنین قتل حالت دوق هم درست نیست. 
 
-Uniting the NAP with UPB, thus allows us to whittle these seven statements down to three:
+:با ادغام ان ای پی  با یو پی بی، به ما اجازه می دهد که این 7 وضعیت را به 3 وضعیت خلاصه کنیم
 
-1. It is universally preferable to initiate the use of force.
-2. It is universally preferable to not initiate the use of force.
-3. The initiation of the use of force is not subject to universal preferences.
+1. .این ترجیح جهانی است که استفاده از نیرو را شروع کنیم
+2. .این ترجیح جهانی است که استفاده از نیرو را شروع نکینم
+3. .شروع استفاده از نیرو به ترجیح جهانی ارتباطی ندارد
 
-This is the natural result of applying the requirement of rational consistency to ethical propositions. A rational theory cannot validly propose that opposite results can occur from the same circumstances. A scientific theory cannot argue that one rock must fall down, but another rock must fall up. Einstein did not argue that E=MC^2^ on a Thursday, but that E=MC^3^ on a Friday, or on Mars, or during a blue moon. The law of conservation – that matter can be neither created nor destroyed – does not hold true only when you really, really want it to, or if you pay a guy to make it so, or when a black cat crosses your path. The laws of physics are not subject to time, geography, opinion or acts of Congress. This consistency must also be required for systems of ethics, or UPB, and we will subject generally accepted moral theories to this rigour in Part Two, in a few pages.
+این نتیجه ی طبیعیِ اعمال قاعده ی منطقی در گذاره های اخلاقی است. یک نظریه ی منطقی نمی تواند به طور گسترده بیان کند که نتایج متضادی در موقعیت های یکسان می تواند اتفاق بیفتد. یک تئوری علمی نمی تواند استدلال کند که سنگ باید به پایین سقوط کند، یا اینکه یک سنگ دیگر به سمت بالا برود. انیشتن استدلال نکرد که در روز چهارشنبه E=〖MC〗^2  یا در روز جمعه 〖E=MC〗^3 ، یا روی ماه. قانون حفاظت (چیزی که نه می تواند ایجاد شود نه از بین برود) درست نیست بجز زمانی که واقعاً و واقعاً آن را بخواهید، یا به یک نفر پول بدهید تا آن را بسازید، یا هنگامی که یک گربه ی سیاه از مسیر شما عبور می کند. قوانین فیزیک به زمان، و جغرافیا، ایده ها یا عمل های کنگره ها ارتباطی ندارد. این انسجام نیز باید برای سیستم های اخلاقی یا یو پی بی نیز مورد نیاز باشد، و ما در فصل دوم  این نظریه های منطقی تایید شده را به این خصوصیت ربط می دهیم.
 
-However, since we are dealing with the question of *consistency*, it is well worth taking the time to deal with our capacity for *inconsistency*.
+.با این حال، از آنجایی که ما با مسئله ی انسجام رو به رو هستیم، بهتر است وقت خود را صرف بحث در مورد ظرفیت عدم انسجامِ خود کنیم
