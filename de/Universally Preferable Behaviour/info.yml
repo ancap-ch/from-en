@@ -62,7 +62,6 @@ resources:
     description: Stefan Molyneux, host of Freedomain Radio, speaking at The Next Web Amsterdam 2014. By Franklin Heijnen.
     persons:
       - "template_person"
-
 targets:
   - 
     target: [ ]

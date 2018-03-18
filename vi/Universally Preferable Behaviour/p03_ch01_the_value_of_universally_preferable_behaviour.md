@@ -1,9 +1,9 @@
-## The Value Of Universally Preferable Behaviour
+## Giá trị của hành vi được ưu thích phổ quát
 
-A new theory is of precious little value if it only points out the obvious. If physics only provided an accurate description of how we catch a ball, then physics would not be a very worthwhile pursuit, because we already *can* catch a ball. Discovering that the world is round only aids in long-distance navigation across the sea – it does nothing to help us get down-town Quantum mechanics only becomes useful when other methodologies cannot provide the necessary accuracy – it does not help in building a car.
+Một học thuyết  mới có ít giá trị đáng quý nếu nó đưa ra chỉ những điều hiển nhiên. Nếu vật lý chỉ cung cấp một mô tả chính xác về cách chúng ta bắt bóng, thì vật lý sẽ không phải là cái đáng để theo đuổi, bởi vì chúng ta đã *có thể* bắt bóng. Khám phá ra rằng thế giới hình tròn chỉ là sự trợ giúp trong việc điều hướng đường dài vượt biển – nó không  giúp chúng ta tìm được cơ học lượng tử trung tâm mà chỉ trở nên hữu ích khi các phương pháp khác không thể cung cấp độ chính xác cần thiết - nó không giúp chúng ta tạo nên một chiếc xe hơi.
 
-In the same way, the UPB framework, and the moral rules that it validates or rejects, should ideally provide us with some startling insights about the world that we live in, and our relations to each other.
+Tương tự như vậy, khuôn khổ UPB và các quy tắc đạo đức mà nó thông qua hoặc từ chối, nên cung cấp cho chúng ta một số hiểu biết sâu sắc về thế giới chúng ta đang sống, và các mối quan hệ giữa người với người.
 
-If all that UPB did was to prove that rape, murder and theft are morally wrong, it would not add much value, since almost no one believes that those things are morally right to begin with.
+Nếu tất cả những gì UPB đã làm là để chứng minh rằng hãm hiếp, giết người và trộm cắp là sai trái về mặt đạo đức, nó sẽ không làm tăng thêm nhiều giá trị, bởi vì ngay từ đầu hầu như không một ai tin rằng những điều đó là đúng đắn.
 
-Thus let us begin applying this framework to the world that we live in, and see what value comes out of it.
+Do đó, chúng ta hãy bắt đầu áp dụng khuôn khổ này vào thế giới mà chúng ta đang sống và xem nó mang lại giá trị gì.

@@ -68,11 +68,11 @@ Last generated:
 | 03_p02_ch14_2.md | :x: | :x: | 4k 290 |huysh | | |
 | 03_p02_ch14_3.md | :x: | :x: | 4k 780 |huysh | | |
 | 03_p02_ch15.md | :x: | :x: | 1 | | | |
-| 03_p02_ch15_01.md | :x: | :x: | 310 | | | |
-| 03_p02_ch15_02.md | :x: | :x: | 2k 360 | | | |
-| 03_p02_ch15_03.md | :x: | :x: | 720 | | | |
-| 03_p02_ch15_04.md | :x: | :x: | 890 | | | |
-| 03_p02_ch15_05.md | :x: | :x: | 2k 020 | | | |
+| 03_p02_ch15_01.md | :x: | :x: | 310 | rosatravels| | |
+| 03_p02_ch15_02.md | :x: | :x: | 2k 360 |rosatravels | | |
+| 03_p02_ch15_03.md | :x: | :x: | 720 |rosatravels | | |
+| 03_p02_ch15_04.md | :x: | :x: | 890 |rosatravels | | |
+| 03_p02_ch15_05.md | :x: | :x: | 2k 020 |rosatravels | | |
 | 04_apx.md | :x: | :x: | 1 | | | |
 | 04_apx_01.md | :x: | :x: | 1k 580 | | | |
 | 04_apx_02.md | :x: | :x: | 1k 870 | | | |
@@ -147,7 +147,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| p00_ch01_foreword.md | :x: | :x: | 2k 380 |rosatravels | | | | |
+| p00_ch01_foreword.md | :x: | :x: | 2k 380 | | | | | |
 | p00_ch02_intro.md | :x: | :x: | 3k 220 |rosatravels | | | | |
 | p01.md | :x: | :x: |    001 |rosatravels | | | | |
 | p01_ch01_a_framework.md | :x: | :x: | 1k 980 |rosatravels | | | | |
@@ -165,8 +165,8 @@ Last generated:
 | p02_ch02_.._rape.md | :x: | :x: | 3k 310 |rosatravels | | | | |
 | p02_ch03_.._murder.md | :x: | :x: | 1k 050 | rosatravels| | | | |
 | p02_ch04_.._theft.md | :x: | :x: | 3k 550 |rosatravels | | | | |
-| p02_ch05_.._fraud.md | :x: | :x: |    770 | rosatravels| | | | |
-| p02_ch06_.._lying.md | :x: | :x: |    500 |rosatravels | | | | |
+| p02_ch05_.._fraud.md | :x: | :x: |    770 | | | | | |
+| p02_ch06_.._lying.md | :x: | :x: |    500 || | | | |
 | p02_ch07_01_.._upb.md | :x: | :x: | 2k 400 |rosatravels | | | | |
 | p02_ch07_02_.._upb.md | :x: | :x: | 1k 110 | rosatravels| | | | |
 | p03.md | :x: | :x: |    001 |rosatravels | | | | |

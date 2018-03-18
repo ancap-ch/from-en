@@ -1,35 +1,35 @@
-## Additional Proofs
+## Các luận cứ bổ sung
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Có những luận cứ bổ sung khác mà chúng ta có thể cung cấp dựa trên câu hỏi về hành vi được ưu thích phổ quát.
 
-### The Free-Market Economy
+### Kinh tế thị trường tự do
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Một nền kinh tế thị trường tự do chắc chắn là phương pháp hiệu quả và  tạo ra sự giàu có cho việc tổ chức sản xuất và tiêu thụ hàng hoá và các nguồn lực trong xã hội. Thành công  về mặt vật chất của nó là không có gì sánh bằng trong lịch sử nhân loại, hoặc trên toàn thế giới.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Khung khuôn khổ của UPB dự đoán, xác nhận và giải thích lý do cho sự thành công về vật chất của một nền kinh tế thị trường tự do.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+Về lý thuyết, nền kinh tế thị trường tự do dựa trên việc áp dụng một lý thuyết phổ quát về quyền sở hữu tài sản. Ngược lại, chủ nghĩa cộng sản dựa trên việc bác bỏ một cách thằng thắn lý thuyết phổ quát về quyền sở hữu. Vì chúng ta đã chứng minh ở trên rằng quyền sở hữu là lý thuyết đạo đức đúng duy nhất, điều này lý giải một cách cơ bản nhất tại sao chủ nghĩa cộng sản lại là một thảm hoạ, trong khi nền kinh tế thị trường tự do lại rất hiệu quả về mặt tạo ra vật chất.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Vì con người *thực sự* có quyền ngang nhau về sở hữu tài sản , bất kỳ hệ thống xã hội nào từ chối quyền này đều chắc chắn thất bại - cũng giống như bất kỳ người lập kế hoạch xây dựng cây cầu nào chối bỏ tính hiện hữu của trọng lực sẽ không bao giờ có thể xây dựng được cây cầu.
 
-### The Scientific Method
+### Phương pháp khoa học
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+Luận lý và khoa học thực tế là những phương pháp tồn tại - cùng với đạo đức – là một phần của UPB. Nói cách khác, luận lý và khoa học đều được xác nhận bởi khuôn khổ của UPB.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Một câu hỏi quan trọng cần được trả lời là: *Tại sao phương pháp khoa học vô cùng vượt trội so với “các phương pháp” khác về việc thu thập kiến thức, chẳng hạn như chủ nghĩa thần bí?*
 
-UPB answers this question.
+UPB trả lời câu hỏi này.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Vì bất kỳ phương pháp nào để thu thập tri thức phải mang tính phổ quát, nhất quán và độc lập về thời gian và nơi chốn, phương pháp khoa học này đáp ứng các yêu cầu trên, trong khi chủ nghĩa huyền bí phi lý và chủ nghĩa là sự đối lập hoàn toàn với các yêu cầu này.
 
-### Public Education
+### Giáo dục công lập
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Một nguyên tắc trung tâm của kinh tế thị trường tự do là chất lượng chỉ thực sự là kết quả từ *sự tự nguyện*. Ép buộc, về cơ bản, là không hiệu quả - bạo lực luôn dẫn đến chất lượng kém. Các lò bánh mì của Liên Xô cũ không bao giờ làm ra bánh mì ngon; một người đàn ông đánh vợ sẽ không bao giờ có một cuộc hôn nhân hạnh phúc.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+Sự khởi đầu của việc sử dụng vũ lực luôn luôn chống lại bất kỳ lý học thuyết đạo đức hợp lý nào - đó là một sự vi phạm cụ thể và rõ ràng về UPB. Vì các trường công được tài trợ thông qua việc bắt đầu sử dụng vũ lực, chúng là một hình thức của *liên kết bắt buộc*, là một vi phạm rõ ràng về *việc tự do liên kết* được UPB xác nhận.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Vì vũ lực vi phạm yêu cầu đạo đức của *có thể tránh được* và sự thiếu đi tính có thể tránh được luôn sinh ra chất lượng kém - UPB sẽ giúp chúng ta dễ dàng dự đoán rằng các trường công sẽ cung cấp giáo dục chất lượng thấp.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Hơn nữa, UPB cũng đã giúp chúng tôi dự đoán rằng, khi ngày càng có nhiều vũ lực hơn được sử dụng trong lĩnh vực giáo dục công - như thuế, việc ép buộc vào công đoàn, vân vân cứ leo thang - chất lượng giáo dục được ung cấp sẽ trở nên ngày càng tồi hơn.
 
-This, of course, was – and is – exactly the case.
+Điều này, dĩ nhiên, đã – và đang đúng.

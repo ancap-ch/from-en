@@ -1,127 +1,127 @@
-### Governments And Religion
+### Ang Gubyerno at Relihiyon
 
-The idea that being born creates a contract with a fictional agency, which in practical terms makes you a quasi-slave to specific individuals, is common to both religion and the state – and one other, far more personal agency, which I talk about in my first book “On Truth: The Tyranny Of Illusion”.
+Ang ideya na ang pag-kapanganak lumilikha ng kontrata sa isang kathang-isip na ahensya, sa mga praktikal na termino ay gumagawa sa iyo ng isang quasi-alipin sa mga tiyak na mga indibidwal, ay karaniwan sa mag-katulad na relihiyon at sa estado – at isa pa, mas malayo sa personal na ahensiya, na pinag-uusapan ko sa una kong aklat “Sa Katotohanan: Ang Paniniil Ng Ilusyon”.
 
-Whenever a priest says: “Obey God”, what he is really saying is: “Obey *me*”. Since God does not exist, any commandment that the priest claims is coming from God, is actually coming from the priest. “God” is just the fictional entity used to bully you conceptually in order to obtain your very practical subservience in the real world, to real individuals, in terms of voluntarily handing over money, time and resources.
+Kapag ang isang saserdote ay nagsalita: “Sundin ang Panginoon”,ang talagang gusto niyang sabihin ay: “Sundin *ako*”. Dapat ang panginoon ay hindi dapat umiiral, sa alinmang utos na sinasabing ang saserdote ay nagmumula sa Panginoon, ito ay siguradong ang nanggaling sa Panginoon. “Panginoon” ito lamang ang kathang-isip na nilalang na ginagamit upang pakiusapan mo ang konsepto upang makuha ang iyong napaka-praktikal na pagpapaubaya sa totoong daigdig, sa totoong mga indibidwal, sa mga tuntunin ng kusang-loob na pagbibigay ng pera, oras at kayamanan.
 
-It is far more efficient for exploiters to have their slaves consider slavery a virtue, since it cuts down enormously on the costs of controlling them. If I can convince you that it is evil to avoid serving me, and virtuous to be my slave, then I do not need to hire nearly as many thugs to bully, control and steal from you.
+Ito ay mas mahusay para sa mga nagsasamantala upang ang kanilang mga alipin ay isaalang-alang ang pang-aalipin sa isang kabutihan, yamang naputol nito nang sobra sa mga gastos ng pagkontrol sa kanila. Kung pwedi kong kumbinsihin sa iyo ang masama upang maiwasan ang paglilingkod sa akin, at mabait na maging alipin ko, at pagkatapos ay hindi ko na kailangan na umarkila halos ng maraming mga astig sa mapang-api, kontrolin at magnakaw mula sa iyo.
 
-Religious and state mythologies, then, are fictions that vastly reduce the costs of controlling populations; they are the lubricant and fuel for the ghastly machinery of institutionalised violence.
+Ang Relihiyoso at estado ng mga alamat, pagkatapos, ang mga kathang isip na lubhang binabawasan ang mga gastos ng pagkontrol sa mga populasyon; ang mga ito ay ang pampadulas at gasolina para sa malupit na makinarya ng karahasang binuo.
 
-Throughout the world, rulers are a very small percentage of the population. How can it be possible for one to two percent of people to control everybody else? There is a certain monopoly on armaments, to be sure, but that monopoly is relatively easy to counter, since most governments make a fortune selling weapons throughout the world.
+Sa buong daigdig, Ang mga pinuno ay isang napakaliit na porsyento ng populasyon. Paanong posible para sa isa hanggang dalawang porsiyento ng mga tao na makontrol ang lahat ng iba pa? Mayroong isang tiyak na monopolyo sa mga sandata, upang matiyak, subalit ang monopolyong iyon ay relatibong madaling salungatin, dahil ang karamihan sa mga gubyerno ay gumagawa ng kapalaran na nagbebenta ng mga sandata sa buong daigdig.
 
-The sad reality is that people as a whole are enslaved to fictional entities such as nations, gods, cultures – and governments.
+Ang malungkot na katotohanan ay ang mga tao bilang isang buo ay naalipin sa mga kathang-isip na entidad tulad ng mga bansa, Panginoon, mga kultura – at mga gubyerno.
 
-Our personal pride would instinctively rebel against a immediate and enforced slavery to another human being – however, we seem to almost revel in slavery to *mythology*.
+Ang aming personal na pagmamalaki ay likas na maghimagsik laban sa isang agarang at ipinapatupad na pang-aalipin sa ibang tao –gayunpaman, tila kami sa halos pagsasaya sa pang-aalipin *mitolohiya*.
 
-Our desire to be good – combined with the thrill of virtue that we get by obeying moral mythologies – has us lining up to willingly hand our resources over to those who claim to represent these mythologies.
+Ang ating ninanais upang maging mabuti – napagsamang pangingilig ng kabutihan na nakakamit natin sa pamamagitan ng pagsunod sa mabuting mga alamat – kami ay humahanay para handang magbahagi kayamanang higit sa mga iyon ang umaangkin na kumakatawan ito sa mga alamat.
 
-One central reason that we know that governments and gods are unnecessary is that they are so effective. *We know that most people desperately want to be good because they are so easily controlled by moral theories*.
+Isang sentro dahilan na alam natin na ang pamahalaan at mga diyos ay hindi kaylangan ang mga ito kaya naging mabisa.
 
-The logic of obedience to mythology is patently foolish. If a priest tells me that I have to obey “God”, this is exactly the same as him telling me that I must obey an entity called “Nog”. Even if I accept that this fictional entity is worthy of eternal obedience, this still in no way would compel me to obey *the priest*. If I tell you to “obey your heart”, can I then reasonably say: “and *I alone* speak for your heart”?
+Ang katwiran ng pagka masunurin sa mga alamat ay malinaw na isang hanagal.Kung ang isang pari ay nagsabi sa akin ng marapat kong sundin ang "diyos," ito ay tamang magkatulad sa pamamagitan niya taga sabi sa akin na marapat kong sundin ang isang nilikha na tinawag "sinsel." kahit na kung ako ay tanggapin na itong naisasaisip na ang entidad ay nararapat ng walang katapusang pagsunod, dito padin ay walang daan na para mamilit sa akin upang tumugon *ang pari*. Sakaling banggitin ko sa iyo na "sunurin mo ang iyong kalooban," puwede ko bang ikatuwirang banggitin: "at *ako'y magisang* nag nagpapahayag sa iyong kalooban"?
 
-Of course not.
+Tiyak na hindi.
 
-When we strip away mythology and fiction from our “interactions” with our rulers, what emerges is a grim, stark and murderously exploitive reality.
+Kung aalisin natin ang mga mitolohiya at ating katha na mula sa ating "pakikipagtulungan" kasama ang ating mga pinuno, na kung anu ang lumabas ay isang payak, paninira at pumapataypatay sa pagsasamantala sa ganap na pangyayari.
 
-Let’s take as an example a very real and present danger: taxation.
+Kuhain natin bilang huwaran ng isang katotohanan at ngayong nakaambang peligro: nagbubuwis.
 
-#### Taxation
+#### Ang pagbubuwis
 
-I am told that, by virtue of choosing to live in Canada, I owe “the government” more than fifty percent of my income.
+Ako ay nasabihan na, ayon sa kabanalang pagtalaga ng namumuhay sa kanada, ako ay nagka utang sa "gubyerno" higit sa singkuwenta pursyento ng aking kinita.
 
-Stripped of mythology, what does this really translate to?
+Nakamit ng mga mitolohiya, ano ang tunay na isinalin nito?
 
-In reality, I will wait until the end of time for “the government” to come and pick up its money. Waiting for “the government” to drop by is like wanting to date the concept “femininity”. I may as well try to pay for my dinner with the word “money”.
+Sa katotohanan, ako ay makapaghihintay hanggang sa matapos ang oras para "ang gubyerno" sa pagdating at pagkuha ng salapi ayon. Ang paghintay sa "pamahalaan" na gumuho ay gaya ng kulang sa petsa o araw ng pagkakakilala sa "pagkababae". puwede koring subukan na magbayad ng aking pang hapunan sa sinasambit na "salapi."
 
-In reality, when I am told that I must pay my taxes to “the government”, what this actually means is that I must write a check to transfer my money into a particular bank account, which is then accessed by particular individuals. These individuals then have the right to take that money, and spend it as they see fit – these particular individuals thus have complete control over my money.
+Sa katotohanan, kapag ako ay nasabihan na kailangan kong magbayad ng aking buwis sa "gubyerno"ano itong tunay na ipinababatid na marapat kong itala ang isang tseke upang isalin ang aking salapi sa isang partikular na account sa bangko, na kung saan ay ang na pagtapos ng na-acess na mga detalye ng isang tao. Ang mga taong ito ay mayroong karapatan na kuhain ang salapi, at ibili ito na akma sa kanilang nakikita o kagustuhan – ang mga detaye ng bawat tao ay mayroong kumpletong pamamahalang higit sa aking salapi.
 
-At no point whatsoever does any such entity as “the government” lift a finger, make a move, open a bank account, or spend a penny. Imagining that a concept called “the government” has the capacity to take or spend your money is exactly the same as waiting for “God” to come and pick you up and take you to church.
+Sa puntong walang kahit anumang kagaya ng nentidad na "ang pamahalaan" ay itaas ang isang daliri, gawin ang isang hakbang, buksan ang bank account, o ibili ang isang sentabos. Pagkaisipin na ang isang konseptong tinawag na "pamahalaan" ay mayroong kakayahang kuhain o ibili ang iyong salapi ng tama na parehas na naghihintay sa "panginoon" na sa pagdating at kuhain ka pataas at dalahin ka sa simbahan.
 
-Thus the real interaction is that one guy sends me a letter telling me that I owe him money. I have no contract with this guy, and he does not in fact own any of my property, although some other guys wrote a supposed “contract” which claims that he does.
+Kaya naman ang totoong pakikipag-ugnay sa isang lalaki na pinadalhan ako ng isang sulat na nagpapahayag sa akin na ako daw ay mayroong kautangang salapi. Ako ay walang kasunduan sa lalaking ito, at siya ay hindi totoo nagmamay-ari ng anuman sa aking mga pag-aari, kahit na ibang mga lalaki pa ang sumulat dapat ay isang "kasunduan".
 
-If I do not pay this guy, he will send another guy over to my house to collect the money – plus “interest” and “charges”.
+Kapag hindi ko nabayaran ang lalaking ito, magpaparating pa siya ng isa pang lalaki patungo sa aking tahanan para maningil ng salapi – dadagdagan ng "tubo" at "mga dagdag singil."
 
-Normally, when a man with a gun comes to my house and demands my money, I have the right to use force to defend myself. In this case, however, because he is in a costume and claims to represent a fictional entity, I am not allowed to use force to defend myself.
+Kalimitan, kung ang isang lalaki na mayroong isang baril ay napadpad sa aking tahanan at hinihingi ang aking salapi, ako ay mayroong marapat na gumamit ng aking lakas para magtanggol sa aking sarili. Sa kalagayang kong ito, ganoon paman, dahilan sa siya ay nasa isang kasuutan at nang-aangkin sa puwestong piniprisinta sa isang gawa-gawang naisasaisip ng entidad, ako ay hindi sumasang-ayon na gamitin ang aking lakas para maipagtanggol ang aking sarili.
 
-Now, if I come to your house tonight dressed as a “high elf of Narnia” and demand the money that you owe to the “Queen of Sorrows”, assuming it is not Halloween, you are allowed to stare at me in amazement, and order me off your property.
+Ngayon, ngayon kung ako ay papadpad patungo sa iyong tahanan ngayong gabi na nakabihis na isang "dakilang duwende ng narnia" at hingiin ang salaping iyong hiniram sa "reyna ng mga kalumbaya," sa pagkaakala ito ay hindi halloween, ikaw ay pinahihintulutang ko na tumitig sa akin upang ako ay hangaan at hingiin ko ang mula sa iyong mga ari-arian.
 
-If I do not pay the man who comes to take my money, he is allowed to pull out a gun, point it at my chest, and kidnap me – or shoot me if I resist. He can hold me in a tiny cell for year after year, where I will be subjected to the most violent brutality and continual rape, until he chooses to let me go.
+Kapag ako ay hindi nakabayad sa lalaki na papadpad dito para kuhain ang aking salapi, siya ay maaring magpakita sa akin ng kanyang baril, at itutok sa aking dibdib, maging ako ay kuhain – o kaya ako ay barilin kung sakaling ako ay lalaban na laban sa kanya. Siya ay puwede akong hawakan sa isang maliit na piitan para sa ngayong taon pakatapos ng taon, saanman ako maging sa nasasakupan ko ay ang napakarahas na kalupitan at walang tigil manggahasa, hanggang sa mapili niya upang pahintulutan akong pumaroon.
 
-Interestingly, if a man legitimately owes me money, I am not allowed to kidnap him and subject him to torture and rape for year after year. Thus taxation utterly violates the UPB framework, since it is the violent transfer of property using the initiation of force.
+Kawili-wiling, kung sakaling ang isang lalaki ay magkaroon ng pagkakautang sa akin na salapi, hindi ko magagawang siya ay kunin at iparanas sa kanya ang pagpapahirap at gahasain siya bawat taon. Kaya pagbibigay-buwis ang talagang sumusuway sa UPB bumabalangkas, dahil sa ito ay malupit na pagsalin ng mga nasasakupan gamit ang pagtanggap kasapi ng bagong lakas.
 
-Stealing, as we have proven, is evil.
+Ang pag-uumit, ay katulad nalang ng pinatunayan natin, na masamang gawain.
 
-Einstein revolutionised physics by claiming – and proving – that the speed of light was constant.
+Si Einstein ang nagbagong - ganap sa pisika ayon sa pag-angkin – at pagpapakita ng katibayan – na ang mabilis na liwanag ay maggagasing tulad.
 
-We can revolutionise the world by accepting the claim – and the proof – that stealing is always evil.
+Ang lahat ay puwedeng baguhing ganap ang ating mundo sa kaparaanang pagtanggap na pagkuha – at ang proweba – na pang-uumit ay parating nasa masasama.
 
-### Government, Religion, And UPB
+### Ang Gubyerno, relihiyon, at UPB
 
-When we take the UPB framework and apply it to moral propositions regarding government and religion, some very interesting results occur.
+Kailan ang lahat ay tinanggap ang UPB na bumalangkas at ilagay ito sa mga mabuting paksa hingil sa pamahalaan at relihiyon, ilan sa napaka gandang mga resulta na nangyayari.
 
-The proposition that is most often used to justify government power is: “the government has the right to take your money”. This, however, is an utterly imprecise and false statement. The “government” does not have the right to take your money, since “the government” is merely a concept, an abstract description for a self-defined group of people. UPB requires a more consistent and objective statement. Since moral rules must be the same for everyone in all places and at all times, we must rephrase the rule in this way:
+Ang ihinahayag sa karamihan ng malimit na ginagamit para magbigay ng dahilan ang pamahalaan sa kanilang kakayahan: "ang gubyerno ang may kakayahang kuhain ang iyong salapi." ito'y, kahit na, sa isang ganap na hindi tama at hindi totoo hinahayag. Ang "gubyerno" ay wala ng kakayahang kuhain ang iyong salapi, dahilan "ang gubyerno" ay hihigit sa isang kaalaman, at isang di malamang pagpapakita para sa pagkakatukoy na pangkat ng mga tao. UPB kinakaylangan ng isang higit na pagkakapantay-pantay at mga gustong ipahayag. Dahilan na ang mabuting mga alituntunin ay marapat na pantay-pantay upang sa lahat ng mga lugar at mga oras, nang sa lahat ay marapat na maibalik ang mga gampanin sa ganitong pamamaraan:
 
-“*Human beings can morally take money from other human beings if they make up a conceptual agency that justifies their actions.*”
+“*ang mga taong nilalang ay maaari na may kagandahang-inaasal upang makakuha ng salapi na mula sa ibang taong nilalang at kung sakaling itoy magkasundo na makagawa sila ng sabi-sabi lamang sa isang ahensya na mapag-katwiran sa kanilang mga aksyon.*”
 
-If we return to Bob and Doug in our little room of moral experimentation, we can very quickly see that this becomes an impossible proposition.
+Kung sakaling ang lahat ay babalik sa bob at doug dito sa aming maliit na silid at mabuting pag-ekspermentohan, ang lahat maaaring tunay na mabilis makita ito ay magiging isang hindi kapanipaniwalang suliranin.
 
-If Bob says to Doug: “I now represent the ideal concept ‘FUBAR,’ which fully justifies me taking your lighter from you. Since you now owe me your lighter, you must hand it over, or I will be compelled to take it from you by force”.
+Kung si Bob ay nagpapahayag kay Doug. "ako ngayon ay magpeprisinta sa mga kaalaman konsepto 'FUBAR,' at kung sakaling lubos na makatuwiran akong kumuha sa iyo na masnakagagaang kung ito ay magmumula sa iyo. Dahil sa ikaw ngayon ay may-ari sa akin at saiyong layter, ikaw at sa iyong kamay ay magtatapos, o ako ay mapilitan na dalahin ito upang magmula sa iyong lakas
 
-What will Doug’s reaction be? Remember, according to UPB, whatever is valid for Bob must also be valid for Doug. Inevitably, Doug will reply: “Oh yeah? Well *I* now represent the ideal concept ‘ANTI-FUBAR,’ which fully justifies me retaining possession of my lighter. Since you now have no right to take my lighter, if you try to take it, I will be compelled to defend myself by force”.
+Anu ang saloobin at reaksyong ginawa ng doug's?? Tandaan, akording sa UPB, anuman ang tama para kay bob ay marapat na tama din kay doug. Hindi maiiwasan, ni doug na sumagot: "oh sige? Mahusay *ako* nayon ay kumakatawan sa tamang pagkakaunawaan sa 'ANTI-FUBAR,' na kung saan ay ganap na makatwiran sa kapanatilian ng aking pag-aari sa layter. Dahil ikaw ngayon ay walang karapatan na maiuwi ang aking layter, kung ikaw ay susubok na kuhain ito, ako ay maaring mapilitang dumipensa para sa aking sarili ng mayroong lakas
 
-As you can see, if *Bob* has the right to make up imaginary obligations and impose them on Doug, then *Doug* has the right to make up imaginary obligations and impose them on Bob. Clearly, we immediately end up in a perfect stalemate. If it is morally good to impose made-up obligations on other people, but it is impossible to do it if *everyone* possesses that ability, then morality becomes impossible. The only way that Bob can impose his made-up obligation on Doug is if Doug refuses to impose his made up obligation on Bob – thus we have a situation where what is moral for one person can only be achieved by the other person acting in an anti-moral manner. Virtue can thus only be enabled by vice, which is impossible – and we have opposing moral rules for two human beings in the same circumstance, which UPB instantly rejects as invalid.
+Gaya nalang ng iyong nakikita, kung ang *Bob* ay may karapatan na gumawa ng mataas na likha lamang na mga tungkulin at ipataw sa kanila nang doug, patinarin *Doug* ay ang karapatan na gumawa ng mataas na likha lamang na mga tungkulin at ipataw sa kanila ng bob. Malinaw, na ang lahat ay agarang matatapos sa itaas ng isang tamang pakasawi. Kung ito ay kagandahang-asal ito ay nakabubuti na maibahagi sa pagawa upang maipagmalaki sa iba pang mga tao, ngunit ito ay hindi kapani-paniwala nangyayari subalit kung ang *lahat* ay mayroong kakayanan, na ang moralidad ay hindi magiging kapani-paniwala. Ang iisang daan para ang Bob ay maaring magpataw sa kaniyang nilikhang papataas na tungkulin kay doug at kung si doug ay tanggihan ang ipinataw sa kanya na nilikhang pataasin na gampanin kay Bob – kung ang lahat ay magkakaroon ng isang sitwasyon na kung saan ay mabuti para sa isang tao na maaring iisa ang makamtan ng iba pang taong gaganap sa isa na lalaban sa mabuting kaparaanan. Kabutihan ang maaari kaya naman iisa lang ang gumana sa pamamagitan ng palabas, na kung saan ay hindi maaari – at ang lahat ay may pag hadlang sa mabuting mga patakaran para sa dalawang tao mga nilalang sa parehas na kalagayan, kung ang UPB ay agad na tumanggi sa hindi tama.
 
-In other words, every imaginary abstract justification for the use of force can be countered by another imaginary abstract justification for the use of force. If I have an imaginary friend that can justify everything I do, then *you* also can have an imaginary friend that can justify everything you do. Thus neither of us can possess the ability to impose our imaginary obligations on others.
+Sa ibang salita, bawat gawa-gawa lamang ay mahirap unawain na ang nagiging dahilan upang sa paggamit ng lakas ay puwedeng maging kasagutan sa isa pang gawa-gawa na mahirap unawain na ang naging dahilan upang sa paggamit ng lakas. Kung ako ay may isang gawa-gawang kaibigan na puwedeng mangatwiran sa lahat ng aking ginagawa, pakatapos ay *ikaw* din ay puwedeng may isang gawa-gawang kaibigan na puwedeng mangatwiran sa lahat ng iyong gagawin. Kaya hindi sa lahat ay maaaring magkaroon ng kakayanan na magpataw ng mga gawa-gawang pananagutan sa karamihan.
 
-#### Religion And UPB
+#### Ang relihiyon at ang UPB
 
-The same holds true for religion.
+Ang parehong paghawak sa mga tunay na relihiyon.
 
-The statement: “You must obey me because God commands it”, must be restated more accurately as: “an entity that I have made up commands you to obey me”. The principle that UPB requires, then, is: “Human beings must impose unchosen positive obligations on others, and justify those obligations according to imaginary entities”.
+Ang sinasabing: "ikaw ay dapat na sumunod sa akin dahil ito ang ipinag-uutos ng panginoon" marapat na maging higit pa ang inihahayag na wasto kagaya nalang ng: "isang entidad upang ako ay mayroong ginawa na mapataas ang mga kautusan sa iyo para sundin ako." ang alituntunin ng UPB ay kinakailangan, pagkatapos, ng: "ang sangkatauhan ay nilalang na marapat na magpataw ng hindi nakamit sa tiyak na pananagutan ng iba pa, at mangatwiran mga pananagutan ayon sa gawa-gawang mga entidad
 
-Here we see the same issues as above. Bob tells Doug: “You must give me your lighter, because my imaginary friend tells you to”. Naturally, Doug replies: “You must not ask me for your lighter, because *my* imaginary friend forbids you to”. If Bob’s “commandments” are valid, then Doug’s “commandments” are equally valid, and so cancel each other out.
+Dito nang lahat makikita ang parehong mga problema na gaya ng nasa itaas. Si bob ay may sinabi kay doug: "ikaw ay nararapat na bigyan ko ng layter, dahil ang aking gawa-gawang kaibigan ang nagsasabi sayo upang." ang likas, na si doug ay sumagot: "ikaw ay dapat na hindi aasa sa akin para sa iyong layter, dahil sa *aking* gawa-gawang kaibigan na ibinabawal kona ikaw." kung sakaling si Bob's "ay may mga kautusan" na wasto, pagkatapos si Doug's "ay mayroong mga kautusan" ay nagkaparehong wasto, at gayon paman ikinakansela na ang bawat isa na umalis.
 
-In the same way, if a man claims that his concept called “the government” justifies his theft of my property, then I can claim that my concept called “the anti-government” justifies my *retention* of my property, and we are both equally “valid” in our justifications.
+Sa parehong paraan, kung ang isang tao ay kumuha ng kanyang konseptong tinatawag ay "ang pamahalaan" na nagbibigay katwiran sa kanya na pagkuha sa aking mga pag-aari, pagkatapos ako ay maaring kumuha ng aking konseptong tinatawag "ang kontra pamahalaan" katwiranan ang aking *pagpapanatili* sa aking mga ari-arian, at ang lahat ay kapwang pantay pantay "tunay" na nasa amin ang mga katarungan.
 
-If this tax collector then claims that his concept called “the government” only justifies his theft of *my* property, not my retention of it, then we are no further ahead. He can take my thousand dollars, but then I can invoke my concept to “steal” that money back, and his moral theory commands us to spend the rest of eternity handing back and forth the thousand dollars.
+Kapag ang naniningil ng buwis ay kumuha ng kanyang konsepto na ang tawag ay "ang pamahalaan" isang mapangatwiran lamang para sa pagkuha ng *aking* pag-aari, at hindi ang aking pamamalagi sa mga ito, na ang lahat ay walang maramihan nanauuna. Siya ay may kakayahang kunin ang aking libo-libong dolyar, ngunit ako ay may panawagan na sa aking pagkakaunawa sa "magnanakaw" na ang aking salapi ay ibalik, at sa mabuting pagpapaliwanag sa kanyang mga kautusan na gumasta ang namamahinga sa kabilang buhay ay ibibigay sa likod at babalik sa libo-libong dolyar.
 
-#### UPB And "The Majority"
+#### Ang UPB at "Ang Nakararami"
 
-UPB does not allow for the accumulation of individuals to override or reverse the properties of each individual. Ten lions do not make an elephant, a government, or a god. Ten thousand soldiers might make an “army”, but they cannot reverse gravity, or make murder moral.
+Ang UPB ay hindi pinapayagan para sa pagtitipon ng iisang tao na hindi pinapayagan o ibaligtad ang mga pag-aari ng bawat isang tao. Ang sampung mga leon ay hindi nakagagawa ng isang elepante, iisang gubyerno, o iisang panginoon. Ang sampung libo ng mga sundalo ay pwedeng makagawa ng isang "hukbo," pero hindi pwedeng ibaligtad ang kabigatan, o makagawa ng pagpatay sa mabuting tao.
 
-Returning one last time to the room of Bob and Doug, let’s introduce “Jane”.
+Bumalik ang isang mula sa nahuhuling oras papunta sa silid ni Bob at Doug, at ating ipakikilala si "Jane."
 
-Now that there are three people in the room, we can look at the “majority rule” principle.
+Ngayon kaya mayroong tatlong tao sa silid, ang lahat ay pwedeng tumingin sa "karamihan sa mga patakaran" ay may prinsipyo.
 
-If Bob, Doug and Jane take a “vote” on whether or not it is moral to rape Jane, we would all recoil at such an unjust and immoral premise. Clearly, even if Jane were “outvoted”, we would not consider the resulting rape to be transformed into a morally good act.
+Kung si bob, doug at jane ay kumuha ng isang "boto" sa maging o hindi ito mabuti na halayin si jane, tayo ay ibig na ang lahat ay umurong sa gaya ng isang di-makatarungan at kasamaan sa saligan. Malinaw, na kahit si jane ay "labas na sa pagboto," lahat ay nais na hindi isaalang-alang ang naging resultang panghahalay sa naging pagbabago ng isang magandang pag-uugali sa mabuting pagkilos.
 
-Why not?
+Bakit hindi?
 
-Well, UPB does not recognise the reality of aggregations, since the “majority” is a mere conceptual tag; it does not exist in reality, any more than “gods” or “governments” do. Thus to claim that the concept of “the majority” has any sort of moral standing is utterly invalid – it is like saying that “the Fatherland” can impregnate a woman, or that one can sit in the word “chair”.
+Mabuti, ang UPB ay hindi kinikilala ang tunay na pagtitipon-tipon, dahil ang "karamihan" sa isang malamang na sabi-sabing tanda: ito ay hindi maaalis sa tunay, anuman ang hihigit pa sa "panginoon" o "gubyerno" ginawa. Kaya upang makuha na ang consepto ng "nakararami" na mayroon anumang klase ng kabutihan ang itatayo bilang maging ganap na walang bisa – ito ay gaya ng sinabi para "ang sariling bayan" ay pweding isang babae, o isang maaring umupo sa mundo "upuan."
 
-To say that “the majority” has rights or attributes which directly contradict the rights or attributes of any individual also contradicts rational principles, since any conceptual grouping is only validated by the accurate identification of individual characteristics. If I say that “mammals” are warm-blooded living creatures, can I logically include three plastic flamingos in the category “mammal”?
+Sa sinabi na "ang karamihan"ay may katuwiran o may mga katangian na kung saan derektang sumasalungat at mangatwiran o katangian ng bawat isa na ganun din na sumasalungat sa makatuwiran sa mga alituntunin, dahil anumang sabi-sabing pagpapangkat ay iisa ang patunay sa wastong pagpapakilala ng bawat taong may mga katangiaan. Kung ako ay magsasabi ng "mamal" ay mainit ang dugong dumadaloy sa buhay na nilalang, siguro ako ay lohikal kabilang ang tatlong plastik ng plaminggo sa mga uri ng "mamal"?
 
-Of course not.
+Siyempre hindi.
 
-Thus if it is evil for human beings to rape, can I logically create a category called “the majority” and then claim that for *these* human beings, rape is now morally good?
+Kaya kung ito ay hindi mabuti para sa taong nilalang na hinalay, siguro ako ay lohical na gagawa ng mga uri na ang tawag ay "kalamangan" at pagkatapos ay kukuhain para sa *mga* taong nilalang, panghahalay nga ba sa ngayon ay kagandahang-asal at nakabubuti?
 
-Of *course* not.
+Sa *paraan* hindi.
 
-### Majority Rule
+### Ang Patakaran ng nakararami
 
-Can I create a moral rule that says: “the majority should be able to do whatever it wants”?
+Pwede akong gumawa ng isang mabuting patakaran na sinasabi: "ang karamihan ba ay marapat na kayanin ang gawain sa anumang mga pangangailangan"?
 
-Of course I can, but it will never be valid or true.
+Syempre ako ay maari, pero ito ay hindi pa naging tunay o totoo.
 
-Only *individuals* act – the “majority” never does. If moral rules can change when a certain number of people get together, then UPB is continually violated.
+Isang *tao* lamang ang gumawa – nang sa "karamihan" ay hindi kailanman ginawa. kung mabuting mga patakaran siguro ang babaguhin at kung ang isang siguradong bilang ng tao ay magkakasama, at pakatapos ang UPB ay patuloy parin sa paglabag.
 
-If it is moral for Bob and Doug to rape Jane because they have “outvoted her”, what happens when Jane’s two friends show up and vote against Bob and Doug’s infernal desires?
+Kung ito ay mabuti para kay bob at doug na halayin si jane dahil sila'y "labas na sa pagboto," ano ang mga mangyayari kung si jane ay may dalawang kaibigan na nagpakita at bumoto na salungat naman kay bob at doug's na makagawa ng makademonyong pagnanais?
 
-Well, suddenly Bob and Doug are the ones outvoted, and rape becomes “evil” for them again.
+Mabuti, biglaan sina bob at doug ay mga nagbago na ilabas na sa pagboto, at manghalay maging "masama" upang sa kanila'y maulit muli.
 
-Nothing substantial has changed in these “outvoting” scenarios, but we have a series of opposing moral rules for the same men – a violation of UPB, and thus invalid.
+Walang matibay ang may pagbabago dito sa "labas na sa pagboto" mga nangyayari, ngunit ang lahat ay may isang palabas na lumalaban ang mabuting mga patakaran para sa parehong lalaki – isang pagsuway ng UPB, at kaya naman walang bisa.
 
-Rape cannot be good, then evil, then good again, just because a few hands are raised or lowered.
+Ang panghahalay ay hindi mabuti, pagkatapos masama, pagkatapos ay mabuti ulit, lamang dahil isa lang sa iilang mga kamay ang maitataas o maibababa.
 
-Thus if you think that “majority rule” sounds like a reasonable moral proposition, and a perfectly valid moral theory, then I am afraid you’re going to have to go back to the beginning of this book and start again!☺
+Kaya naman kung ikaw ay alam na ang "maramihang patakaran" mga himig ay kagaya ng isang makatarungan na mabuting suliranin, at isang ganap na tama at mabuting palagay, pagkatapos ako ay natatakot sa iyong gagawin na may papunta sa likod at pasimula dito sa aking libro at magsisimula ulit!☺
