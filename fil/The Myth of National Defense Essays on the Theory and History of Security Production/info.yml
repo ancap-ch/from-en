@@ -1,0 +1,80 @@
+---
+content_files:
+  - 
+    - intro.md
+    - ""
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Ang Pabula ng Pambansang Sanaysay sa Pagtatanggol sa Teorya at kasaysayan ng Produksyon ng Seguridad"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Ang Pabula ng~~~~~~
+  - Pambansang pagtatanggol
+  - Sanaysay sa~~~~~~~~~~~~~~
+  - ang Teorya ng Kasaysayan
+  - ng Siguridad sa Produksyon
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Ang pangalan ng website
+tags:
+  - Ilang naka-tag
+  - Isa pang naka-tag
+  - At marami pang iba
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang manunulat"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang tagatulong"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "pinasalamatan"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang tagasalin"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang tagamasid"
+  - 
+    person_: [ ]
+    identifier: "template_tao"
+    rule: "takip_artista"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "harap_takip"
+    content: "takip.png"
+    websites:
+      - Pinagkunang website
+    description: Pinagkunang paglalarawan
+    persons:
+      - "template_tao"
+targets:
+  - 
+    target: [ ]
+    name: ang libro
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

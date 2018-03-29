@@ -1,0 +1,13 @@
+## Gabatarwa ga Fitowa na farko
+
+Rushewar zamantakewa a fadin Yammacin Turai - kamar yadda ya nuna mafi girma daga abubuwan da suka faru a ranar 9 ga watan Nuwamban shekarar 1989, lokacin da Jamus ta Gabas da Yamma suka sake komawa, suka yi farin ciki, a kan Wall Berlin - ya kara da goyon baya da gaggawa. zuwa tsakiyar maganganun wannan rukuni fiye da na taɓa tsammani.
+
+Ko dai binciken da ke biyo baya ya shafi al'amurran tattalin arziki kamar aiki, sha'awa, kudi, banki, hawan kasuwanci, haraji, kayayyaki na jama'a, ko girma; tare da matsalolin ilimin falsafa kamar tushe na ilmi, da kuma na tattalin arziki da kuma xa'a; ko sake ginawa da bayanin fassarar tarihi da zamantakewa na zamantakewar al'umma irin su amfani da su, tsayuwa da faɗuwar wayewar jama'a, siyasa ta duniya, yaki, mulkin mallaka, da kuma rawar ra'ayoyin ra'ayoyin akidar a cikin zamantakewa na zamantakewa - kowane ɗayan yana taimakawa amma daya Tsayawa: Hakkin mallakar dukiya shi ne ainihin aiki, cikakkiyar ka'idoji da kuma dalilin ci gaban "ci gaba" mafi kyau. Don tashi daga rushewar gurguzanci da kuma shawo kan yanayin jin dadin zaman rayuwar Yammacin Turai, babu abin da ya isa sai dai cinikayyar ba da kariya ga dukkanin al'umma, wato, gwamnati, dukiya da kuma kafa kamfanonin kwangila bisa la'akari da rashin amincewar masu zaman kansu hakkoki na dukiya.
+
+A rubuce-rubuce na karatun nan na samu taimako daga bangarori daban-daban. Musamman godiya ta ga matar mi Margaret, wanda kuma ya sake yin aikin De-Germanizing na Turanci; zuwa Llewellyn H. Rockwell, Jr., shugaban Ludwig von Mises Institute, da kuma Burton S. Blumert, shugaban Cibiyar Nazarin Libertarian, don ci gaba da goyon bayan aikin na; da kuma aboki na David Gordon, saboda yawan shawarwari da sharhi masu yawa.
+
+Kyauta ta mafi girma shine Ludwig von Mises da Murray N. Rothbard, babban karni na biyu na karni na ashirin-duk da cewa an manta da su-masana tattalin arziki da zamantakewa. Duk da yake ban taɓa sadu da Ludwig von Mises ba, kuma ban taɓa jin sunansa har sai bayan mutuwarsa, na yi farin ciki da alaka da Murray Rothbard na shekaru shida, na farko a Birnin New York, kuma tun 1986 a matsayin abokan aiki a Jami'ar Nevada, Las Vegas. Baya ga bashin basira na bashi, kalmomi ba na iya nuna godiya ga kaina ba. Hikimarsa, fahimta, kirki, sha'awar zuciya, da kuma karfafa karfafawa sun kasance mai ci gaba da yin wahayi zuwa gare ni. Saboda haka, a gare shi cewa wannan rukuni ya keɓe.
+
+Hans-Hermann Hoppe
+
+*Las Vegas, Nevada, 1993*

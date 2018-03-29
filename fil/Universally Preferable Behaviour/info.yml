@@ -1,0 +1,171 @@
+---
+content_files:
+  - 
+    - p00_ch01_paunang-salita.md
+    - ""
+  - 
+    - p00_ch02_intro.md
+    - ""
+  - 
+    - p01.md
+    - ""
+  - 
+    - p01_ch01_a_balangkas.md
+    - ""
+  - 
+    - p01_ch02_panloob.md
+    - ""
+  - 
+    - p01_ch03_etika.md
+    - ""
+  - 
+    - p01_ch04_pref.md
+    - ""
+  - 
+    - p01_ch05_01_univ.md
+    - ""
+  - 
+    - p01_ch05_02_univ.md
+    - ""
+  - 
+    - p01_ch06_upb.md
+    - ""
+  - 
+    - p01_ch07_init.md
+    - ""
+  - 
+    - p01_ch08_lifeboat.md
+    - ""
+  - 
+    - p01_ch09_the_beast.MD
+    - ""
+  - 
+    - p02.md
+    - ""
+  - 
+    - p02_ch01_etikal_mga-kategorya.md
+    - ""
+  - 
+    - p02_ch02_ang_una_pagsusuli_gahasa.md
+    - ""
+  - 
+    - p02_ch03_ang_ikalawa_pagsusulit_pagpatay.md
+    - ""
+  - 
+    - p02_ch04_ang_ikatlo_pagsusulit_pagnanakaw.md
+    - ""
+  - 
+    - p02_ch05_ang_ikaapat_pagsusulit_panloloko.md
+    - ""
+  - 
+    - p02_ch06_ang_ikaloma_pagsusulit_nakahiga.md
+    - ""
+  - 
+    - p02_ch07_01_higit pa_mapaghamong_pagsusulit_ng_upb.md
+    - ""
+  - 
+    - p02_ch07_02_higit pa_mapaghamong_mga pagsusulit_ng_upb.md
+    - ""
+  - 
+    - p03.md
+    - ""
+  - 
+    - p03_ch01_ang_halaga_ng_sa buong mundo_higit na mabuti_pag uugali.md
+    - ""
+  - 
+    - p03_ch02_ang_wala_sona_muling dalawin.md
+    - ""
+  - 
+    - p03_ch03_01_pag iral_laban sa_hindi umiiral.md
+    - ""
+  - 
+    - p03_ch03_02_pag iral_laban_hindi umiiral.md
+    - ""
+  - 
+    - p03_ch03_03_pag iral_laban_hindi umiiral.md
+    - ""
+  - 
+    - p03_ch04_karagdagan_patunay.md
+    - ""
+  - 
+    - p03_ch05_kahilera.md
+    - ""
+  - 
+    - p04.md
+    - ""
+  - 
+    - p05_mga apendiks.md
+    - ""
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/puno/utopian/en/higit pa sa pinagmumulan ng Pag-uugali"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Panglahatan
+  - Pag-nanais~
+  - Pag-uugali
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Ang pangalan ng site
+tags:
+  - Ilang Tag
+  - Isa pang Tag
+  - At marami pang iba
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "manunulat"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "pakikipagtulungan"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "pinasalamatan"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang tagasalin"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "ang tagamasid"
+  - 
+    person_: [ ]
+    identifier: "template_tao"
+    rule: "pabalat_artista"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "unahang pabalat"
+    content: "pabalat.png"
+    websites:
+      - Pinagkunang website
+    description: Pinagkunang paglalarawan
+    persons:
+      - "template_tao"
+targets:
+  - 
+    target: [ ]
+    name: ang libro
+    reset_footer_active: true
+    reset_footer_depth: 1
+    clear_page_active: true
+    clear_page_depth: 3
+    toc_depth: 2
+version: "0.1.2"

@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/es-GT/template/content.md
+translation:
+  language: es-GT
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/es-GT/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Title Text
+  - '~~Centrado~~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Canal Ancap
+more_infos:
+  - 
+    - https://www.google.com
+    - Nombre del sitio web
+tags:
+  - Alguna etiqueta
+  - Otra etiqueta
+  - Y así sucesivamente
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "el Autor"
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "colaborador"
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "agradecido"
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "traductor"
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "crítico"
+  - 
+    person_: [ ]
+    identifier: "modelo_persona"
+    rule: "cubierta_artista"
+  - 
+    person: [ ]
+    identifier: "modelo_persona"
+    rule: "artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "frente_cobertura"
+    content: "cubrir.png"
+    websites:
+      - Sitio web de recursos
+    description: Descripción de recursos
+    persons:
+      - "modelo_persona"
+targets:
+  - 
+    target: [ ]
+    name: articulo
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

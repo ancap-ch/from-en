@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - "conten.md\n"
+    - https://github.com/ancap-ch/from-en/blob/utopian/id/template/content.md
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/id/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - "teks judul\n"
+  - "~~memusat~~\n"
+  - "~~~~~tentu benar\n"
+discussions:
+  - 
+    - http://en.ancap.ch/t/5
+    - chanel ancap
+more_infos:
+  - 
+    - https://www.google.com
+    - Nama situs
+tags:
+  - Beberapa tag
+  - Tag yang lain
+  - Dan berikutnya
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_seorang"
+    rule: "pengarang"
+  - 
+    person: [ ]
+    identifier: "template_seorang"
+    rule: "bekerjasama"
+  - 
+    person: [ ]
+    identifier: "template_seor"
+    rule: "berterimakasih"
+  - 
+    person: [ ]
+    identifier: "template_seorang"
+    rule: "penerjemah"
+  - 
+    person: [ ]
+    identifier: "template_seorang"
+    rule: "reviwer"
+  - 
+    person_: [ ]
+    identifier: "template_seorang"
+    rule: "penutup_seniman"
+  - 
+    person: [ ]
+    identifier: "template_seorang"
+    rule: "artist"
+resources:
+  - 
+    resource: [ ]
+    rule: "sampul depan"
+    content: "cover.png"
+    websites:
+      - Sumber situs
+    description: Sumber keterangan
+    persons:
+      - "template_seorang"
+targets:
+  - 
+    target: [ ]
+    name: karangan
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - 01_pagsasalita.md
+    - ""
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/tl/Libertarianism and the Alt-Right"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Libertarianism
+  - '~~~~~~at~~~~~~'
+  - ang Alt-Tama
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap na Pinagmulan
+more_infos:
+  - 
+    - https://www.google.com
+    - Pangalan ng Website
+tags:
+  - Ang ilang Tag
+  - Isa pang Tag
+  - At iba pa
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "manulat"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "ang katulong"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "magpasalamat"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "ang tagasalin"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "ang tagasuri"
+  - 
+    person_: [ ]
+    identifier: "template_person"
+    rule: "takip ng artista"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "takip ng_unahan"
+    content: "takip.png"
+    websites:
+      - Mapagkukunan ng website
+    description: Mapagkukunan ng paglalarawan
+    persons:
+      - "template_person"
+targets:
+  - 
+    target: [ ]
+    name: ang pangkat
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

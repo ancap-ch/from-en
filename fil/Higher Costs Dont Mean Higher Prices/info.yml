@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - sanaysay.md
+    - ""
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-rn/tree/utopian/en/Mataas na mga Gastos ay hindi nangangahulugan ng Mataas na mga Presyo"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Mas mataas na presyo-
+  - '--Hindi Nangangahulugan--'
+  - Mataas na Presyo
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Pangalan ng Website
+tags:
+  - Ilang tag
+  - Isa pang tag
+  - At marami pang iba
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "may-akda"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "tagatulong"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "pinasalamatan"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "tagasalin"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "tagasuri"
+  - 
+    person_: [ ]
+    identifier: "template_tao"
+    rule: "balot_artista"
+  - 
+    person: [ ]
+    identifier: "template_tao"
+    rule: "artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "unahan_balot"
+    content: "balot.png"
+    websites:
+      - Pinagkunan website
+    description: Pinagkunan ng paglalarawan
+    persons:
+      - "template_tao"
+targets:
+  - 
+    target: [ ]
+    name: artikulo
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

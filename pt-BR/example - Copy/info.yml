@@ -1,0 +1,64 @@
+---
+language: pt-BR
+translation: false
+titles:
+  - Título do texto
+  - '~ ~ Centrado ~ ~'
+  - à direita
+authors:
+  - Nome do autor
+  - Outro nome de autor
+  - Outra pessoa
+collaborators:
+  - Nome do colaborador
+  - Outra pessoa
+  - Ainda outra pessoa
+thanks:
+  - Alguém útil
+  - Alguma empresa
+  - Ainda outra pessoa
+translators:
+  - Nome do Tradutor
+  - Outro nome de Tradutor
+  - Terceiro tradutor
+reviwers:
+  - Nome do revisor
+  - Outro nome de revisor
+  - Terceiro nome de revisor
+tags:
+  - Alguma Tag
+  - Outra Tag
+  - E assim por diante
+mds:
+  - content.md
+discussions:
+  - 
+    - 'https://en.ancap.ch/t/17'
+    - Ancap Channel
+transifex:
+  done: "https://transifex.com/TODO"
+  other: ""
+  fetch_info: false
+original: ""
+tags_prefix: "https://en.ancap.ch/tags/"
+more_infos:
+  - 
+    - 'https://www.google.com'
+    - Website name
+artists:
+  - 
+    - 'https://www.google.com/'
+    - Image description
+    - Artist name
+    - Another artist name
+    - Third artist name
+reset_footer_active: false
+reset_footer_depth: 0
+clear_page_active: true
+clear_page_depth: 1
+toc_depth_book: 3
+toc_depth_article: 3
+toc_depth_mobile: 3
+targets:
+  - article
+version: "0.1.0"

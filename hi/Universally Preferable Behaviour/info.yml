@@ -1,0 +1,171 @@
+---
+content_files:
+  - 
+    - p00_ch01_foreword.md
+    - ""
+  - 
+    - p00_ch02_intro.md
+    - ""
+  - 
+    - p01.md
+    - ""
+  - 
+    - p01_ch01_a_framework.md
+    - ""
+  - 
+    - p01_ch02_internal.md
+    - ""
+  - 
+    - p01_ch03_ethics.md
+    - ""
+  - 
+    - p01_ch04_pref.md
+    - ""
+  - 
+    - p01_ch05_01_univ.md
+    - ""
+  - 
+    - p01_ch05_02_univ.md
+    - ""
+  - 
+    - p01_ch06_upb.md
+    - ""
+  - 
+    - p01_ch07_init.md
+    - ""
+  - 
+    - p01_ch08_lifeboat.md
+    - ""
+  - 
+    - p01_ch09_the_beast.md
+    - ""
+  - 
+    - p02.md
+    - ""
+  - 
+    - p02_ch01_ethical_categories.md
+    - ""
+  - 
+    - p02_ch02_the_first_test_rape.md
+    - ""
+  - 
+    - p02_ch03_the_second_test_murder.md
+    - ""
+  - 
+    - p02_ch04_the_third_test_theft.md
+    - ""
+  - 
+    - p02_ch05_the_forth_test_fraud.md
+    - ""
+  - 
+    - p02_ch06_the_fifth_test_lying.md
+    - ""
+  - 
+    - p02_ch07_01_more_challenging_tests_of_upb.md
+    - ""
+  - 
+    - p02_ch07_02_more_challenging_tests_of_upb.md
+    - ""
+  - 
+    - p03.md
+    - ""
+  - 
+    - p03_ch01_the_value_of_universally_preferable_behaviour.md
+    - ""
+  - 
+    - p03_ch02_the_null_zone_revisited.md
+    - ""
+  - 
+    - p03_ch03_01_existence_versus_non-existence.md
+    - ""
+  - 
+    - p03_ch03_02_existence_versus_non-existence.md
+    - ""
+  - 
+    - p03_ch03_03_existence_versus_non-existence.md
+    - ""
+  - 
+    - p03_ch04_additional_proofs.md
+    - ""
+  - 
+    - p03_ch05_parallels.md
+    - ""
+  - 
+    - p04.md
+    - ""
+  - 
+    - p05_appendices.md
+    - ""
+translation:
+  language: hi
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/hi/Universally Preferable Behaviour"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Universally
+  - Preferable~
+  - Behaviour~~
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Website name
+tags:
+  - Some Tag
+  - Another Tag
+  - And so on
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "author"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "collaborator"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "thanked"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "translator"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "reviwer"
+  - 
+    person_: [ ]
+    identifier: "template_person"
+    rule: "cover_artist"
+  - 
+    person: [ ]
+    identifier: "template_person"
+    rule: "artist"
+resources:
+  - 
+    resource: [ ]
+    rule: "front_cover"
+    content: "cover.png"
+    websites:
+      - Resource website
+    description: Resource description
+    persons:
+      - "template_person"
+targets:
+  - 
+    target: [ ]
+    name: book
+    reset_footer_active: true
+    reset_footer_depth: 1
+    clear_page_active: true
+    clear_page_depth: 3
+    toc_depth: 2
+version: "0.1.2"

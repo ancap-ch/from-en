@@ -1,0 +1,180 @@
+---
+content_files:
+  - 
+    - 01_pref2nd_ed.md
+    - ""
+  - 
+    - 02_pref1st_ed.md
+    - ""
+  - 
+    - 03_p01.md
+    - ""
+  - 
+    - 03_p01_ch01_01.md
+    - ""
+  - 
+    - 03_p01_ch01_02.md
+    - ""
+  - 
+    - 03_p01_ch01_03.md
+    - ""
+  - 
+    - 03_p01_ch02_01.md
+    - ""
+  - 
+    - 03_p01_ch02_02.md
+    - ""
+  - 
+    - 03_p01_ch02_03.md
+    - ""
+  - 
+    - 03_p01_ch02_04.md
+    - ""
+  - 
+    - 03_p01_ch02_05.md
+    - ""
+  - 
+    - 03_p01_ch03_01.md
+    - ""
+  - 
+    - 03_p01_ch03_02.md
+    - ""
+  - 
+    - 03_p01_ch03_03.md
+    - ""
+  - 
+    - 03_p01_ch03_04.md
+    - ""
+  - 
+    - 03_p01_ch03_05.md
+    - ""
+  - 
+    - 03_p01_ch04_01.md
+    - ""
+  - 
+    - 03_p01_ch04_02.md
+    - ""
+  - 
+    - 03_p01_ch05_01.md
+    - ""
+  - 
+    - 03_p01_ch05_02.md
+    - ""
+  - 
+    - 03_p01_ch05_03.md
+    - ""
+  - 
+    - 03_p01_ch05_04.md
+    - ""
+  - 
+    - 03_p01_ch06_01.md
+    - ""
+  - 
+    - 03_p01_ch06_02.md
+    - ""
+  - 
+    - 03_p01_ch06_03.md
+    - ""
+  - 
+    - 03_p01_ch07_01.md
+    - ""
+  - 
+    - 03_p01_ch07_02.md
+    - ""
+  - 
+    - 03_p01_ch07_03.md
+    - ""
+  - 
+    - 03_p01_ch07_04.md
+    - ""
+  - 
+    - 03_p01_ch07_05.md
+    - ""
+  - 
+    - 03_p01_ch07_06.md
+    - ""
+  - 
+    - 03_p01_ch08.md
+    - ""
+  - 
+    - 03_p02.md
+    - ""
+  - 
+    - 03_p02_ch13.md
+    - ""
+translation:
+  language: en
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/en/Ekonomiya at mga Etika ng Pribadong Ari-arian ng Pag-aaral sa Pampulitikang Ekonomiya at Pilosopiya"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Mga Ekonomiya-------
+  - at mga Etika------
+  - '----------ng----------'
+  - Pribadong Ari-arian
+  - Pag-aaral sa Pulitika
+  - Ekonomiya at Pilosopiya
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+more_infos:
+  - 
+    - https://www.google.com
+    - Pangalan ng Website
+tags:
+  - Ang ilang Tag
+  - Isa pang Tag
+  - At iba pa
+tag_prefix: "https://en.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "autor"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "tagatulong"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "pasalamatan"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "tagasalin"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "tagasuri"
+  - 
+    person_: [ ]
+    identifier: "template_pagkatao"
+    rule: "takip_artista"
+  - 
+    person: [ ]
+    identifier: "template_pagkatao"
+    rule: "artista"
+resources:
+  - 
+    resource: [ ]
+    rule: "unahan_takip"
+    content: "cover.png"
+    websites:
+      - Resource website
+    description: Paglalarawan ng mapagkukunan
+    persons:
+      - "template_pagkatao"
+targets:
+  - 
+    target: [ ]
+    name: libro
+    reset_footer_active: true
+    reset_footer_depth: 2
+    clear_page_active: true
+    clear_page_depth: 2
+    toc_depth: 3
+version: "0.1.2"

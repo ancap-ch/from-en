@@ -1,0 +1,55 @@
+## Ang mga Etika
+
+Dahil ang etika ay isang paksa na mayroon tayong lahat ng mga opinyon tungkol sa, mahahalagang i-balangkas sa relasyon sa pagitan ng *likas na ugali* mga etika at*rasyunal* na mga etika.
+
+Pwedeng mahuli ng isang baseball player ang isang lumilipad na bola kahit wala siyang alam tungkol sa pisika. Sa kaparehong paraan, pwede nating maunawaan nang wasto ang isang aksyon bilang imoral kahit na wala tayong nalalaman tungkol sa mga etikal na teyorya.
+
+Kung makahuli ako ng lumilipad na bola, magkakaroon ako ng natural na ugali na *pandama* para sa pag-uugali ng isang baseball sa paglipad. Gayunpaman, ang aking natural na pang-unawa ay hindi nagbibigay sa akin ng kakayahan para tumpak na ilunsad ang isang sasakyang pangalangan para paikutan ang Jupiter. Mayroon akong mabilis na paraan "maliit na katotohanan" – kung paano lumilipat ang bola – ngunit hindi ito nagbibigay sa akin ng unibersal na "dakilang katotohanan"– kung paano ang mga bagay na mabait.
+
+Sa kaparehong paraan, ay ang aming karaniwang pagkawala ng moral sa mga aksyon gaya nalang ng panghahlay at pagpatay ay hindi kinakailangang mali, ngunit hindi nila tayo binigyan ng kakayahan na lumikha o magpatunay ng magkaka-pareho at praktikal na teyoryang moral.
+
+Kung ipanukala ko ang isang teyoriyang pang-agham na ganap na nagpawalang-bisa sa kakayahan ng manlalaro ng base ball na masalo ang isang lumilipad na bola, pagkatapos ay mayroon akong hindi malulutas na hamon na nagpapaliwanag kung paano ba talaga ang baseball player *ay* sumalo ng bola. Gayundin, kung hindi pwedeng mahulaan ng tumpak ang aking teyoriya ng arko ng isang lumilipad na bola, mayroon akong isang "dakilang katotohanan" na direktang sumasalungat sa isang "maliit na katotohanan," na hindi pwedeng maging balido. Dahil ang pangangailangan ng lohikal na pagiging tugma ay direkta mula sa "maliliit na mga katotohanan" ng kahinahinalang karanasan, ang anumang teyorya na direktang nagkakontra sa naturang karanasan ay hindi wasto.
+
+Sa ibang pang salita, ang mga pandama ay nagbubunga ng lohika - samakatuwid ang lohika ay hindi pwedeng bumaliktad sa katibayan ng mga pandama. Ang katibayan ay laging nagpapaliwanag.
+
+Sa kaperehong paraan, ang anumang balidong etikal na teyorya ay dapat na maipaliwanag at mapawalang-sala ang aming karaniwang paghihimagsik sa mga krimen tulad ng pagpatay at panghahalay. Hindi ito makatwirang na sumasalungat sa mga unibersal na pagbabawal sa sangkatauhan, ngunit kailangang isama nang tumpak at ipaliwanag ang mga ito.
+
+Gayunpaman, na gaya ng pisikal na Einsteinian na nagbibigay ng nakakagulat na mga katotohanan –sa katunayan, ito ay maliit na halaga kung ang mga katotohanang iyon ay *hindi* kagulat-gulatt - ang mga etikal na teyorya na nagbibigay ng pinakamahalagang halaga kapag inihahayag din nila ang nakakagulat na mga katotohanan - kagulat-gulat, kahit na. At sa katunayan, ang mga etikal na teyorya na hindi nagbibigay ng mga nakakagulat na mga katotohanan ay isang kumpirmasyon lamang sa mga umiiral na mga kagustuhan sa instinctual, at sa gayon ay sa maliit na halaga.
+
+### Ang Disiplina ng Teyoretikal na Etika
+
+Kapag sinasabi ko na may isang bagay na "maganda ang moralidad" - at sa iba pang salita, kung ipanukala ko ang isang etikal na teyorya - pagkatapos ay malinaw na pinagtatalunan ko na ang mga kailangan ng tao *dapat* kumilos sa isang partikular na paraan, o *iwasan* kumikilos sa isang partikular na paraan.
+
+Kung sasabihin ko sa aking anak na siya *dapat* maging isang manlalaro ng baseball dahil lamang sa gusto ko sa kanya, hindi ako pumapahayag sa isang unibersal na saligan na moral, kundi isang pansariling kagustuhan. Siya ay hindi *moral* kung siya ay naging isang manlalaro ng baseball, at hindi rin siya *imoral* kung ayaw niya.
+
+Gayunpaman, kung sasabihin ko sa kanya na ito ay isang *moral* para sa mga anak na sumunod sa kanilang mga ama, at *imoral* para sa kanila na hueag sumunod sa kanilang mga ama, pagkatapos ay nagpanukala ako ng isang kagustuhan na pangkalahatan, sa halip na lamang ng personal – Sinisikap kong maging isang "maliit na katotohanan"(*Gusto kong maging isang manlalaro ng baseball*) sa isang “ magaling na katotohanan” (* ito ay imoral para sa mga anak na hindi sumunod sa kanilang mga ama*). *Kung* gusto niyang maging moral, siya *dapat* maging isang manlalaro siya ng baseball – hindi dahil sa pagiging isang baseball player ay moral na, ngunit dahil sa pagsunod sa kanyang ama ay ang pagiging moral.
+
+Kapag ako ay nagsasalita ng isang pandaigdigang kagustuhan, talagang tinutukoy ko kung ano *talaga ang kinakailangan*, o *kinakailangan*, ipagpalagay ang isang partikular na layunin. *Kapag* Gusto kong mabuhay, wala akong gusto sa jazz, pero ako ay *dapat* kumain. Ang "pagkain" ay nananatiling kagustuhan – hindi ko *kailangan* kumain, sa parehong paraan na kailangan kong sundin ang grabidad – ngunit ang "pagkain" ay isang unibersal, layunin, at *magbigkis* ang kinakailangan para manatiling buhay, dahil nakasalalay ito sa mga bayolohical na katotohanan na hindi pwedeng mawala.
+
+Ang etika ay isang disiplina na pwedeng magtukoy bilang anumang teyorya tungkol sa mas mabuti na pag-uugali ng tao sa pangkalahatan, layunin, pare-pareho - at mag-bigkis. Siyempre, ang kagustuhan ng pag-uugali ay pwede lang makagawa kung ang layunin ay ginusto. Kapag sinbi ko na ito ay, *lalong mabuti* para sa mga tao para mag-ehersisyo at kumain ng mabuti, hindi ko sinasabi na ang kailangan ng mga tao ay *hindi dapat* umupo sa sopa at kumain ng mga maliit na piraso ng patatas. Ang sinasabi ko na iyan ay, *kapag*gusto mo na maging malusog, ikaw*dapat* mag-ehersisyo at kumain ng tama.
+
+Gaya nga ng tinukoy ni Hume na mga paliwanag, imposibleng makuha ang "nararapat" mula sa isang "ay." Ang ibig niyang sabihin ay iyon *kagustuhan* sa walang paraan ay pwedeng nagsasabi ng katotohanan na nagmula mula sa *pagka-buhay*. Ito ay isang katotohanan na ang isang tao na hindi magsanay at kumakain ng hindi maganda ay magiging masama sa katawan. Nangangahulugan ba ito na siya ay "nararapat" na mag-ehersisyo at kumain ng maayos? Hindi. Ang "nararapat" ay may kondisyon sa *kagustuhan*. Kung nais niyang maging malusog, siya *nararapat* para mag-ehersisyo at kumain ng nararapat. Ito ay totoo na kung ang isang tao ay hindi kumakain, siya ay pwedeng mamatay – hindi tayo makatuwiran mula sa katotohanang isang makatwirang alituntunin na siya *nararapat* na kumain. *Kapag* Nais niyang mabuhay, pagkatapos ay siya *dapat* kumain. Gayunpaman, ang kanyang pinili para mabuhay o hindi na nananatili ang kanyang sarili.
+
+Sa kagaya nito, walang ganoong bagay bilang isang pang-buong mundo na "mas mahusay" na direksyon sa lahat ng dako - ang lahat ay nakasalalay sa ginustong mga destinasyon. At kapag ginusto kong magmaneho papunta sa New York mula sa San Francisco, dapat kong "magpatungo ng silangan. Kung gusto kong magmaneho papunta sa karagatan mula sa San Francisco, dapat kong "magtungo ng pa-kanluran. Ni ang "silangan" o "kanluran" ay pwedeng mai-saalang-alang sa lahat ng dako "mas mabuti."
+
+Ito ay totoo na napakakaunting lang ng mga tao na *gawin* magmaneho sa karagatan, ngunit hindi ito nangangahulugan na totoo ang lahat na walang sinuman *na nararapat* na magmaneho sa karagatan. Ang mga prinsipyo ng mga tao ay hindi pang-demokratiko – o, kung sila ay, minsan pa ay nakaharap ang problema ng pag-tutukoy ng ranggo, at dapat itapon ang buong konsepto ng etika sa bintana.
+
+Ang "asal" ay umiiral sa mga layunin ng katotohanan, sa labas ng ating kaisipan – ang mga konsepto na "nararapat," "dapat," at "kagustuhan," ay hindi umiiral sa labas ng ating kaisipan. Gayunpaman, ang katotohanan na siyang "nararapat" ay hindi umiiral sa loob ng layunin na katotohanan at hindi nangangahulugan na ang "nararapat" ay isang ganap na pansarili. Wala sa alinman sa pang-agham na pamamaraan o mga numero sa kanilang mga sarili na umiiral sa loob ng isang katotohanan alinman, pa agham at pang-matematika na mananatiling ang layunin ay disiplina.
+
+### Ang Pang-sariling Pangatwiran sa Sarili
+
+Para masimulan ang aming pagtatalakay tungkol sa etika, mahalaga na maunawaan natin na ang kalikasan ng *ang pang-sariling pangatwiran sa sarili*.
+
+Sa usapang ekonomiya, ang isang teyorya ay hindi pwedeng maging balido kung kinakailangan nito na ang mga presyo ay kailangang bumaba at pagbaba sa magparehong oras. Tungkol sa pisika, ang isang teyorya ay hindi pwedeng maging balido kung nangangailangan ito na ang mga gas para lumawak at kumontrata nang sabay-sabay. Sa matematika, ang isang teyorya ay hindi pwedeng mgaing balido kung ito ay nangangailangan nang dalawang dagdagan ng dalawa ay katumbas ng lima, sapagkat ang "lima" ay isa lamang paraan ng paglalarawan ng dalawa dagdagan ng tatlo, hindi dalawa at dalawa, at sa gayon ay upang sabihin na ang dalawa dagdagan ng dalawa ay katumbas ng lima at sasabihing ang lima ay katumbas ng apat, na kung saan ay nagkakasalungatan sa sarili.
+
+Sa pang-kabuuan, ang anumang teyorya na sumasalungat sa sarili nito ay hindi pwedeng maging balido. Hindi ito nangangailangan ng panlabas na hindi-aprubado dahil hindi inaprubahan nito ang kanyang sarili. Hindi na namin kailangang suriin ang bawat sulok at bitak sa kalawakan para matukoy ang isang "parisukat na bilog" ay hindi umiiral. Ang mismong konsepto ay nduma-salungat sa sarili, at sa gayon ay nagpapababa sa sarili sa pananalita.
+
+Kung isusumite ko ang isang komplikadong matematikal na katibayan sa iyo, at napansin mo na, sa simula pa lang, sinasabi ko na ang aking katibayan ay nakasalalay sa katunayan na ang dalawa dagdag sa dalawa ay gumawa ng parehong apat at lima sa parehong oras, hindi mo na kailangang basahin ang anumang karagdagang malaman na ang aking patunay ay di-wasto.
+
+Kagaya nito, tulad ng nabanggit nung una, kung papalapit ako sa iyo at sasabihin: "Hindi ako umiiral," ang aking sanaysay ay awtomatikong nagsira ng sarili. Kung pwede kong makipag-usap sa iyo na hindi ako umiiral, pagkatapos ay malinaw na umiiral ako.
+
+Kung nagpunta ako sa iyo at sasabihin: "Walang ganoong bagay ng katotohanan," pagkatapos ay gumagawa ako ng isang pahayag na itinuturing kong tunay na nag-aangkin na wala ang katotohanan. Muli, ang aking argumento ay nagsisira ng sarili.
+
+At kung sasabihin ko naman sa iyo na "Ang wika ay walang halaga," gayon din ako ay kumokontra rin sa aking sarili. Para makapagsalita ako ng makapagsalita nang wika na walang kahulugan, ang wika ay dapat hindi bababa sa ilang kahulugan lamang.
+
+Kung sasabihin ko sa iyo na "Ang iyong mga pandama ay hindi tama," at kung gayon ang aking mga argumento ay nakakaapekto rin sa aking sarili, dahil ginagamit ko ang iyong pakiramdam ng pakikinig para ipaalam sa iyo na ang iyong pandinig ay hindi maayos. At kapag ako ay magtagumpay sa pakikipag-ugnayan ang aking tesis sa iyo, pagkatapos ang iyong pandama ng pandinig ay dapat balido. Kaya dapat kong ipalagay na ang iyong mga pandama ay wastopara makumbindsi ka na ang iyong mga pandama ay hindi tama, na hindi pwedeng tumayo.
