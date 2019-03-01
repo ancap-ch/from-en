@@ -1,56 +1,146 @@
-## Ethics
+Ang Etika
+Dahil ang etika ay isang paksa na mayroon tayong lahat ng mga opinyon tungkol sa na, mahalagang i-balangkas ang 
+kaugnayan sa pagitan ng mga likas na etika at makatwirang etika.
 
-Since ethics is a subject that we all have opinions about already, it is important to outline the relationship between *instinctual* ethics and *rational* ethics.
+Pwedeng masalo ng isang manlalaro ng baseball ang isang lumilipad na bola kahit wala siyang alam tungkol sa pisika. Sa 
+kaparehong paraan, pwede nating maintindihan nang wasto ang isang aksyon bilang imoral kahit na wala tayong 
+nalalaman tungkol sa mga etikal na teyorya.
 
-A baseball player can catch a fly ball even if he knows nothing about physics. Similarly, we can correctly perceive an action as immoral even if we know nothing about ethical theories.
+Kung masalo ko ang isang lumilipad na bola, pagkatapos ay mayroon akong isanglikas pakiramdam para sa 
+pag-uugali ng isang baseball sa paglipad. Gayunpaman, ang aking pang-unawa ay hindi nagbibigay sa akin ng 
+kakayahan parasiguruhin na ilunsad ang isang sasakyang pangkalawakan para paikutan ang Jupiter. Mayroon 
+akong isang agarang "maliit na katotohanan" - kung paano ang bola ay lilipat - ngunit hindi ito nagbibigay 
+sa akin ng isang pandaigdigan na "malaking katotohanan" - kung paano ang bagay ay kumikilos.
 
-If I can catch a fly ball, then I have an instinctual *feel* for the behaviour of a baseball in flight. My instinctual understanding, however, does not give me the capacity to accurately launch a spaceship to orbit Jupiter. I have an immediate “little truth” – how the ball will move – but that does not give me a universal “great truth” – how matter behaves.
+Sa kaparehong paraan, ang aming karaniwang pagkawala ng moral sa mga pagkilos gaya ng panghahalay at 
+pagpatay ay hindi kinakailangang mali, ngunit hindi nila tayo binigyan ng kakayahan na lumikha o 
+magpatunay ng mga pare-pareho at praktikal na teyoryang moral.
 
-In the same way, our common moral revulsion towards actions such as rape and murder are not necessarily inaccurate, but they do not give us the capacity to create or validate consistent and empirical moral theories.
+Kung ipanukala ko ang isang teyoriyang pang-agham na ganap na nagpawalang-saysay sa kakayahan ng manlalaro ng baseball 
+na masalo ang isang lumilipad na bola, pagkatapos ay mayroon akong hindi malulutas na hamon na nagpapaliwanag 
+kung paano talaga nakukuha ng manlalaro ng baseball ang bola. Gayundin, kung ang aking teyorya ay hindi 
+pwedeng siguraduhin na mahulaan ang arko ng isang lumilipad na bola, pagkatapos ay mayroon akong isang "malaking 
+katotohanan" na direktang sumasalungat sa isang "maliit na katotohanan", na hindi pwedeng balido.
+Dahil ang pangangailangan ng lohikal na pagkakapare-pareho ay direkta mula sa "maliliit na katotohanan" 
+ng pananaw na karanasan, ang anumang teyorya na direktang nagkakontra sa naturang karanasan ay hindi tama.
 
-If I propose a scientific theory that completely invalidates a baseball player’s ability to catch a fly ball, then I have the insurmountable challenge of explaining how the baseball player actually *does* catch the ball. Also, if my grand theory cannot accurately predict the arc of a fly ball, then I have a “great truth” which directly contradicts a “little truth”, which cannot be valid. Since the necessity of logical consistency directly arises from the “little truths” of perceptual experience, any theory that directly contradicts such experience cannot be valid.
+Sa ibang mga salita, ang mga pandama ay nagbubunga ng lohika - samakatuwid ang lohika ay hindi pwedeng 
+sumalungat sa katibayan ng mga pandama. Ang katibayan ay laging nagpapaliwanag.
 
-In other words, the senses give rise to logic – therefore logic cannot contradict the evidence of the senses. Evidence always trumps explanation.
+Sa kaparehong paraan, ang anumang balidong ugali na etika ay dapat na maipaliwanag at mapawalang-sala 
+ang aming karaniwang paghihimagsik sa mga krimen gaya ng pagpatay at panghahalay. Hindi ito 
+makatwirang magkasalungat sa mga pandaigdigan na pagbabawal ng sangkatauhan, ngunit kailangang isama 
+nang sigurado at maipaliwanag ang mga ito.
 
-In a similar manner, any valid ethical theory should be able to explain and justify our common revulsion towards crimes such as murder and rape. It cannot reasonably contradict the universal prohibitions of mankind, but must accurately incorporate and explain them.
+Gayunpaman, gaya ng pisika ni Einstein na nagbibigay ng nakakagulat na mga katotohanan - sa katunayan, 
+ito ay maliit na halaga kung ang mga katotohanang ito ay hindi nakakagulat - ang mga etikal na teyorya ay 
+nagbibigay ng pinakamalaking halaga kapag inihahayag din nila ang nakakagulat na mga katotohanan - kagulat-gulat, 
+kahit na. Sa katunayan, ang mga etikal na teyorya na hindi nagbibigay ng nakakagulat na mga katotohanan ay 
+isang kumpirmasyon lamang sa mga umiiral na mga kagustuhan sa likas ng pag-uugali, at sa gayon ay maliit na halaga.
 
-However, just as Einsteinian physics provided surprising truths – in fact, it would have been of little value if those truths were *not* surprising – ethical theories provide the most value when they also reveal surprising truths – shocking, even. In fact, ethical theories that did not provide surprising truths would be a mere confirmation of existing instinctual preferences, and thus be of little value. 
 
-### The Discipline Of Theoretical Ethics
+Ang Disiplina Ng Teyoretikal na Etika
+Kung sinasabi ko na may isang bagay na "magandang moralidad" - sa ibang mga salita, kung ipanukala ko ang 
+isang pag-uugali na etika - malinaw na ako ay nagtatalo na ang mga tao ay dapat kumilos sa isang partikular 
+na paraan, o maiwasan ang pagkilos sa isang partikular na paraan.
 
-If I say that something is “morally good” – in other words, if I propose an ethical theory – then clearly I am arguing that human beings *should* act in a particular manner, or *avoid* acting in a particular manner.
+Kung sasabihin ko sa aking anak na siya ay dapat maging isang manlalaro ng baseball dahil lamang sa gusto ko 
+sa kanya, hindi ako nagpapahayag ng isang pandaigdigan na palagay na moral, kundi isang personal na kagustuhan. 
+Siya ay hindi moral kung siya ay nagiging isang manlalaro ng baseball, at hindi rin siya ay imoral kung hindi siya.
 
-If I tell my son that he *should* become a baseball player just because I want him to, I am not stating a universal moral premise, but rather a personal preference. He is not *moral* if he becomes a baseball player, and neither is he *immoral* if he does not.
+Gayunpaman, kung sasabihin ko sa kanya na moral na para sa mga anak na sundin ang kanilang mga ama, at 
+imoral para sa kanila na sumuway sa kanilang mga ama, pagkatapos ay nagpanukala ako ng kagustuhan na 
+pangkalahatan, sa halip na personal lamang - sinisikap ko na maging "maliit na katotohanan "(Gusto kong 
+maging isang manlalaro ng baseball) sa isang" mahusay na katotohanan "(Imoral para sa mga anak na 
+sumuway sa mga ama). Kung nais niyang maging moral, dapat siya maging isang manlalaro ng baseball - hindi 
+dahil sa pagiging isang manlalaro ng baseball ay moral, ngunit dahil sa pagsunod sa kanyang ama ay moral.
 
-However, if I tell him that it is *moral* for sons to obey their fathers, and *immoral* for them to disobey their fathers, then I am proposing a preference that is universal, rather than merely personal – I am trying to turn a “little truth” (*I want you to become a baseball player*) into a “great truth” (*It is immoral for sons to disobey fathers*). *If* he wishes to be moral, he *must* become a baseball player – not because becoming a baseball player is moral, but rather because obeying his father is moral.
+Kapag naghahayag ako ng isang pandaigdigan na kagustuhan, talagang tinutukoy ko kung ano talaga ang 
+kinakailangan, o dapat, sa pag-aakala ng isang partikular na layunin. Kung gusto kong mabuhay, 
+hindi ko gusto ang jazz, ngunit kailangan kong kumain. Ang "pagkain" ay nananatiling isang 
+kagustuhan - hindi ko kailangang kumain, sa parehong paraan na kailangan kong sundin ang 
+grabidad - ngunit ang "pagkain" ay isang pandaigdigang, layunin, at umiiral na kinakailangan para sa 
+pananatiling mabuhay, dahil ito ay umaasa sa byolohikal na mga katotohanan na hindi ka masisiyahan.
 
-When I speak of a universal preference, I am really defining what is *objectively required*, or *necessary*, assuming a particular goal. *If* I want to live, I do not have to like jazz, but I *must* eat. “Eating” remains a preference – I do not *have* to eat, in the same way that I have to obey gravity – but “eating” is a universal, objective, and *binding* requirement for staying alive, since it relies on biological facts that cannot be wished away.
+Ang etika bilang isang disiplina ay pwedeng tinukoy bilang anumang teyorya tungkol sa mas mabuti na 
+pag-uugali ng tao na pangkalahatan, layunin, pagkaka-pareho - at umiiral. Siyempre, ang kagustuhan 
+ng pag-uugali ay pwede lamang magawa kung ang layunin ay ninanais. Kung sinasabi ko na mas mabuti 
+para sa mga tao na mag-ehersisyo at kumain ng tama, hindi ko sinasabi na ang mga tao ay hindi 
+dapat umupo sa sopa at kumain ng mga piraso ng patatas. Kung ano ang sinasabi ko ay na kung gusto 
+mong maging malusog, dapat kang mag-ehersisyo at kumain ng tama.
 
-Ethics as a discipline can be defined as any theory regarding preferable human behaviour that is universal, objective, consistent – and binding. Naturally, preferential behaviour can only be binding if the goal is desired. If I say that it is *preferable* for human beings to exercise and eat well, I am not saying that human beings *must not* sit on the couch and eat potato chips. What I am saying is that *if* you want to be healthy, you *should* exercise and eat well.
+Tulad ng sinabi ni Hume na paliwanag, imposibleng makuha ang "nararapat" mula sa isang "ay". Kung 
+ano ang ibig sabihin niya sa pamamagitan na iyon ay ang kagustuhan sa walang paraan ay pwedeng 
+siyempre nagmula mula sa pagkakaroon. Ito ay totoo na ang isang tao na hindi mag-ehersisyo at 
+kumakain ng masama ay hindi masama sa katawan. Nangangahulugan ba ito na siya ay "nararapat" 
+na mag-ehersisyo at kumain ng tama? Hindi. Ang "nararapat" ay may kondisyon sa kagustuhan. 
+Kung nais niyang maging malusog, dapat niyang mag-ehersisyo at kumain ng tama. Totoo na kung 
+ang isang tao ay hindi kumakain, siya ay mamamatay - hindi tayo makatuwiran na makukuha mula 
+sa katotohanang isang prinsipyong may bisa na dapat niyang kainin. Kung nais niyang mabuhay, 
+dapat siyang kumain. Gayunpaman, ang kanyang pinili para mabuhay o hindi ay nananatili ang 
+kanyang sarili.
 
-As Hume famously pointed out, it is impossible to derive an “ought” from an “is”. What he meant by that was that *preference* in no way can be axiomatically derived from *existence*. It is true that a man who never exercises and eats poorly will be unhealthy. Does that mean that he “ought” to exercise and eat well? No. The “ought” is conditional upon the *preference*. If he wants to be healthy, he *ought* to exercise and eat well. It is true that if a man does not eat, he will die – we cannot logically derive from that fact a binding principle that he *ought* to eat. *If* he wants to live, then he *must* eat. However, his choice to live or not remains his own.
+Katulad nito, walang ganoong bagay bilang isang "mas mabuti" na direksyon sa lahat ng 
+dako - ang lahat ay nakasalalay sa ginustong destinasyon. Kung gusto kong magmaneho papunta 
+sa New York mula sa San Francisco, dapat kong "magmaneho papunta ng silangan. Kung gusto kong magmaneho 
+papunta sa karagatan mula sa San Francisco, dapat kong "magmaneho ng pa-kanluran. Ni ang "silangan" o 
+"kanluran" ay pwedeng isaalang-alang sa lahat ng dako "mas mabuti".
 
-Similarly, there is no such thing as a universally “better” direction – it all depends upon the preferred destination. If I want to drive to New York from San Francisco, I “ought” to drive east. If I want to drive into the ocean from San Francisco, I “ought” to drive west. Neither “east” nor “west” can be considered universally “better”.
 
-It is true that very few people *do* drive into the ocean, but that does not mean that it is universally true that nobody *ought* to drive into the ocean. Principles are not democratic – or, if they are, we once more face the problem of rank subjectivism, and must throw the entire concept of ethics out the window.
+Totoo na napakakaunting mga tao ang nagmamaneho sa karagatan, ngunit hindi ito nangangahulugan 
+na totoo ito sa lahat na walang nararapat magmaneho sa karagatan. Ang mga prinsipyo ay hindi 
+demokratiko - o, kung sila ay, minsan pa ay nakaharap natin ang problema ng sariling pananaw ng 
+ranggo, at dapat itapon ang buong konsepto ng etika sa bintana.
 
-“Behaviour” exists in objective reality, outside our minds – the concepts “ought”, “should”, and “preference”, do not exist outside our minds. However, the fact that “ought” does not exist within objective reality does not mean that “ought” is completely subjective. Neither the scientific method nor numbers themselves exist within reality either, yet science and mathematics remain objective disciplines. 
+Ang "pag-uugali" ay umiiral sa layunin na katotohanan, sa labas ng ating isipan - ang mga 
+konsepto na "nararapat", "nararapat", at "kagustuhan", ay hindi umiiral sa labas ng ating 
+isipan. Gayunpaman, ang katotohanan na ang "nararapat" ay hindi umiiral sa loob ng layunin na 
+katotohanan ay hindi nangangahulugan na ang "nararapat" ay ganap na pansarili. Wala alinman 
+sa pang-agham na pamamaraan o mga numero sa kanilang sarili umiiral sa loob ng katotohanan 
+alinman, sa pang agham at matematika na mananatiling layunin ay disiplina.
 
-### Self-Defeating Arguments
+Mga Pangangatwiran sa Sarili
+Upang simulan ang aming talakayan tungkol sa etika, mahalaga na maunawaan natin ang kalikasan 
+ng mga pagtatalo sa sarili.
 
-In order to begin our discussion of ethics, it is essential that we understand the nature of *self-defeating arguments*.
 
-In economics, a theory cannot be valid if it requires that prices go up and down at the same time. In physics, a theory cannot be valid if it requires that gases expand and contract simultaneously. In mathematics, a theory cannot be valid if it requires that two plus two equals five, since “five” is just another way of describing two plus three, not two plus two, and so to say that two plus two equals five is to say that five equals four, which is self-contradictory.
+Sa ekonomiya, ang isang teyorya ay hindi pwede maging balido kung kinakailangan nito na ang 
+mga presyo ay bumaba at pababa sa magkaparehong oras. Sa pisika, ang isang teyorya ay hindi 
+pwedeng balido kung nangangailangan ito na ang mga gas ay lumaganap at kontrata nang 
+magkaka-sabay. Sa matematika, ang isang teyorya ay hindipwede maging balido kung ito ay 
+nangangailangan na ang dalawa dagdagan ng dalawa ay katumbas ng lima, sapagkat ang "lima" 
+ay isa lamang na paraan ng paglalarawan ng dalawa dagdagan ng tatlo, hindi dalawa at dalawa, 
+at sa gayon ay upang sabihin na ang dalawa dagdagan ng dalawang ay katumbas ng lima ay sasabihin 
+Ang lima ay katumbas ng apat, na kung saan ay sumasalungat sa sarili.
 
-In general, any theory that contradicts itself in the utterance cannot be valid. It does not require external disproof, since it disproves itself. We do not need to examine every nook and cranny in the universe to determine that a “square circle” does not exist. The very concept is self-contradictory, and thus disproves itself in the utterance.
+Sa pangkalahatan, ang anumang teyorya na sumasalungat sa sarili nito ay hindi pwede maging 
+balido. Hindi ito nangangailangan ng panlabas na tugon, dahil pinagtupaan nito ang 
+sarili nito. Hindi namin kailangang suriin ang bawat sulok at bitak sa buong mundo para
+matukoy na ang isang "parisukat na bilog" ay hindi umiiral. Ang mismong konsepto ay 
+sumasalungat sa sarili, at sa gayon ay nagpapababa sa sarili sa pagbigkas.
 
-If I submit a complex mathematical proof to you, and you notice that, at the very beginning, I state that my proof relies on the fact that two plus two make both four and five at the same time, you do not need to read any further to know that my proof is invalid.
+Kung isusumite ko ang isang komplikadong matematikal na katibayan sa iyo, at napansin mo na, 
+sa simula pa lang, sinasabi ko na ang aking katibayan ay nakasalalay sa katunayan na ang 
+dalawa dagdagan ng dalawa ay gumawa ng parehong apat at lima sa parehong oras, hindi mo kailangang 
+basahin ang anumang karagdagang malaman na ang aking patunay ay di-wasto.
 
-Similarly, as mentioned before, if I come up to you and say: “I do not exist”, my thesis automatically self-destructs. If I can communicate to you that I do not exist, then clearly I exist.
+Katulad nito, tulad ng nabanggit bago, kung papalapit ako sa iyo at sasabihin: 
+"Hindi ako umiiral", ang aking sanaysay ay awtomatikong nagreresulta sa sarili. Kung 
+pwede akong makipag-usap sa iyo na hindi ako umiiral, pagkatapos ay malinaw na umiiral ako.
 
-If I come up to you and say: “There is no such thing as truth”, then I am making a statement that I consider to be true claiming that truth does not exist. Again, my argument self-destructs.
+Kung dumating ako sa iyo at sabihin: "Walang ganoong bagay na katotohanan", pagkatapos 
+ay gumagawa ako ng isang pahayag na itinuturing kong tunay na nag-aangkin na wala ang 
+katotohanan. Muli, ang aking argumento ay nagsisira ng sarili.
 
-If I tell you that “Language is meaningless”, then I have also contradicted myself. In order for me to verbally communicate that language is meaningless, language must have at least some meaning.
+Kung sasabihin ko sa iyo na "Ang wika ay walang kahulugan", pagkatapos ay nagkakontra 
+rin ako sa aking sarili. Para makapagsalita ako nang walang lenguahe sa wikang iyon ay 
+walang kahulugan, ang wika ay dapat magkaroon ng kahit anong kahulugan.
 
-If I tell you that “Your senses are invalid”, then my argument also self-destructs, since I am using your sense of hearing to communicate to you that your sense of hearing is invalid. If I can successfully communicate my thesis to you, then your sense of hearing must be valid. Thus I must assume that your senses are valid in order to convince you that your senses are not valid, which cannot stand. 
+Kung sasabihin ko sa iyo na "Ang iyong mga pandama ay hindi tama", at pagkatapos ay 
+ang aking argumento din pagsira sa sarili, dahil ginagamit ko ang iyong pakiramdam ng 
+pagdinig para makipag-usap sa iyo na ang iyong pakiramdam ng pagdinig ay hindi tama. 
+Kung pwede akong magtagumpay na iparating ang aking tesis sa iyo, dapat na tama ang iyong 
+pandinig. Kaya dapat kong ipalagay na ang iyong mga pandama ay tama para kumbinsihin 
+ka na ang iyong mga pandama ay hindi tama, na hindi pwedeng tumayo.
+ 
 
