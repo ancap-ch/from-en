@@ -1,22 +1,20 @@
-## The First Test: Rape
+Ule nke mbụ: mmekọ nwoke
 
-Although it is an unpleasant topic to discuss, rape is without a doubt the *least* ambiguous action that any moral theory must encompass. Murder can be complicated by self-defence; theft by the problem of starvation or “stealing back” – but one can never rape in self-defence; it is by its very definition the initiation of aggression.
+Ọ bụ eziokwu na nke ọ abụghị ihe dị mma ikwukọrịta, mmekọ nwoke,  n'enweghị obi abụọ, bụ ihe n'adịghị omume ọbụla ga-agụ nyere ya. Igbu mmadụ na agbagoju anya n'ihi na ụfọdụ nwere ike ịbụ nchebe onwe; ohi, site na oke agụụ ma ọ bụ izu achị ihe mana mmadụ enweghị ike ime mmekọ nwoke kpọọ ya nchebe onwe; site na nkọwa ya, ọ bụ mbuso agha n'onwe ya.
 
-Let us then use the UPB framework to examine the logical consistency of ethical propositions regarding rape, with reference to these seven moral categories.
+Ya mere, ka anyị ji usoro UPB nyochaa ezi uche nke usoro iwu gbasara mmekọ nwoke, jiri aka n'ụdị omume asaa ndị ahụ.
 
-### The Good
+Nke dị ezi
 
-To take an absurd example, let’s imagine that we are reviewing an ethical theory that proclaims that rape is a moral good.
+Iji maa atụ egheri, ka anyi tụnye uche na anyị na enyocha ọkà ụkpụrụ omume nke sị na mmekọ nwoke bụ ihe dị mma.
 
-Clearly, if I proclaim that “X” is “the good”, then the opposite of “X” must be evil. If *not raping* is good, then *raping* must be evil. Conversely, if *raping* is good, then *not raping* must be evil.
+Ọ doro anya na, m sị na ịhe a dị mma, ihu ihe ahụ m sị dị mma, ga abụ ịrị ihe ọjọọ. Ọ bụrụ na ịghara ira n'ike bụ ihe ọma, ira n'ike dị njọ. Ọzọ bụ na, ọ bụrụ na mmekọ nwoke dị mma, ịgha ime mmekọ nwoke ga abụrịrị ihe ọjọọ.
 
-Raping someone is a positive action that must be initiated, executed, and then completed. If “rape” is a moral good, then “not raping” must be a moral evil – thus it is impossible for two men in a single room to *both be moral at the same time*, since only one of them can be a rapist at any given moment – and he can only be a rapist if the other man becomes his victim.
+Ira n'ike bụ ezi ihe kwesịrị mmalite, omume, na mmecha. Ọ bụrụ na mmekọ nwoke dị mma n'anya, ịgha ime mmekọ nwoke ga abụrìrị ihe ọjọọ n'anya - ya mere, ọ gaghị ekwe omume na nwoke abụọ n'ime otu ụlọ ga dị mma n'anya otu mgbe, tinyere na naanị otu n'ime ha abụọ nwere ike ịbụ mmekọ nwoke, oge ọbụla - n'ihi na ọ ga bụ onye mmekọ nwoke ma ọ bụrụ na onye nke ọzọ ga abụ onye ihe metụrụ.
+Ihe ọbụla na anaghị egbochi omume ọma enweghị ike ịbụ ihe ọjọọ. "Nwere onwe" iji maa atụ, bụ ihe dị mkpa n'ime omume ọma - ma enweghị nwere onwe, anyị enweghi ike ime omume ọma - ya mere "nwere onwe" enweghị ike ịbụ ihe ọjọọ, ebe ọ bụ na ọ kwesịrị ịdị, ka e mee ihe dị mma.
 
-That which enables virtue cannot be evil. “Freedom”, for instance, is a prerequisite for virtue – without freedom, we cannot be virtuous – thus “freedom” cannot be evil, since it is *required* for goodness.
-
-If it is morally good to be a rapist, and one can only be a rapist by sexually assaulting a victim, then clearly the victim must be morally good by resisting the sexual assault – since if he does not resist, it is by definition not rape, and therefore not virtuous. In other words, *attacking* virtue by definition *enables* virtue. Thus we have an insurmountable paradox, in which the victim must attack virtue in order to enable virtue – he must resist sexual assault in order to enable the “virtue” of the rapist. Thus not only can the rape victim *not* be virtuous, but he must resist and attack “virtue” in order to allow it.
-
-Insurmountable logical problems thus result from the proposition: “rape is moral”. Remember, we agreed that a rational theory cannot propose opposite states for the same situation. All other things being equal, a rock cannot fall both up and down at the same time, and a valid theory cannot predict that one rock will fall up, while another rock will fall down.
+Ọ bụrụ na ọ dị mma n'anya ibụ onye na ara n'ike, bụrụkwa na onye n'arọ n'ike ga eme ya site na imegbu onye ọ na ara, mgbe ahụ, ọ doro anya na onye a n'emegbu ga abụrịrị onye dị mma n'anya ma ọ guzogide ike - ebe ọ bụ na ma ọ guzogideghi ike, ọ bụghị mmekọ nwoke, ya mere o dịghị mma. Ya bụ na, ibuso omume ọma agha na nkọwa, na akwado omume ọma. Ya mere, anyị nwere ihe mgbagwoju anya anyị n'enweghi ike imeri emeri, nke bụ na onye ihe metụrụ ga ibuso omume ọma agha iji kwado omume ọma - ọ ga eguzogide ike ị nwe ike ịnye onye mmekọ nwoke "ikikere". Ya mere, ọ bụghị naanị na onye ira n'ike metụrụ agaghị adị mma n'anya, mana ọ ga eguzogide ike ma buso omume ọma agha iji kwenye.
+Nsogbu  ntule uche anyị n'enweghị imeri emeri na esi karị na: "mmekọ nwoke dị mma n'anya". Cheta kwa, na anyị kwetara na Nkwupụta ọkà iwu enweghị ike ịmeputa ihe abụọ dị ihu otu mgbe. Ihe ndị ọzọ dị nhata, nkume enweghị ike ịda ma n'elu, ma n'ala otu mgbe, nkwupụta dị irè enweghị ike ikwu na otu nkume ga-adala elu, ebe nkume nke ọzọ ga-adala n'ala
 
 In the same way, two men in a room must be considered to be in the same situation. If only one of them can be good, because goodness is defined as rape, and only one of them can rape at any time, then we have a logical contradiction that cannot be resolved.
 
