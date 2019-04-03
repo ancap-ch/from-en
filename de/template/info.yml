@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/de/template/content.md
+translation:
+  language: de
+  is_translation: true
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/de/template"
+  fetch_translators: true
+  fetch_reviwers: true
+  fetch_progress: true
+titles:
+  - Title Text
+  - '~ ~ Zentriert ~ ~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Kanal
+more_infos:
+  - 
+    - https://www.google.de
+    - Webseitenname
+tags:
+  - Irgendein tag
+  - Weiterer tag
+  - und so weiter
+tag_prefix: "https://de.ancap.ch/tags/"
+persons:
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Autor"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Kollaborateur"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "bedankt"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Übersetzer"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Rezensent"
+  - 
+    person_: [ ]
+    identifier: "vorlage_person"
+    rule: "cover_künstler"
+  - 
+    person: [ ]
+    identifier: "vorlage_person"
+    rule: "Künstler"
+resources:
+  - 
+    resource: [ ]
+    rule: "vorder_cover"
+    content: "cover.png"
+    websites:
+      - Ressourcenwebsite
+    description: Ressourcenbeschreibung
+    persons:
+      - "vorlage_person"
+targets:
+  - 
+    target: [ ]
+    name: Artikel
+    reset_footer_active: false
+    reset_footer_depth: 0
+    clear_page_active: true
+    clear_page_depth: 1
+    toc_depth: 3
+version: "0.1.2"

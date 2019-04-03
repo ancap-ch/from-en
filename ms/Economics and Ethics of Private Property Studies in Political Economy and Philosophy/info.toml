@@ -1,0 +1,71 @@
+version = "0.1.3"
+titles = ["Economics \\& Ethics", "of Private Property", "Studies in Political~~~~~\\quad\\quad", "Economy and Philosophy\\quad\\quad"]
+discussions = [["https://en.ancap.ch/t/5", "Ancap Channel"]]
+more_infos = [["https://www.google.com", "Website name"]]
+tags = ["Some Tag", "Another Tag", "And so on"]
+tag_prefix = "https://en.ancap.ch/tags/"
+
+content_files = [["01_pref2nd_ed.md", ""], ["02_pref1st_ed.md", ""], ["03_p01.md", ""], ["03_p01_ch01_01.md", ""], ["03_p01_ch01_02.md", ""], ["03_p01_ch01_03.md", ""], ["03_p01_ch02_01.md", ""], ["03_p01_ch02_02.md", ""], ["03_p01_ch02_03.md", ""], ["03_p01_ch02_04.md", ""], ["03_p01_ch02_05.md", ""], ["03_p01_ch03_01.md", ""], ["03_p01_ch03_02.md", ""], ["03_p01_ch03_03.md", ""], ["03_p01_ch03_04.md", ""], ["03_p01_ch03_05.md", ""], ["03_p01_ch04_01.md", ""], ["03_p01_ch04_02.md", ""], ["03_p01_ch05_01.md", ""], ["03_p01_ch05_02.md", ""], ["03_p01_ch05_03.md", ""], ["03_p01_ch05_04.md", ""], ["03_p01_ch06_01.md", ""], ["03_p01_ch06_02.md", ""], ["03_p01_ch06_03.md", ""], ["03_p01_ch07_01.md", ""], ["03_p01_ch07_02.md", ""], ["03_p01_ch07_03.md", ""], ["03_p01_ch07_04.md", ""], ["03_p01_ch07_05.md", ""], ["03_p01_ch07_06.md", ""], ["03_p01_ch08.md", ""], ["03_p02.md", ""], ["03_p02_ch09.md", ""], ["03_p02_ch09_01.md", ""], ["03_p02_ch09_02.md", ""], ["03_p02_ch09_03_01.md", ""], ["03_p02_ch09_03_02.md", ""], ["03_p02_ch09_04.md", ""], ["03_p02_ch10.md", ""], ["03_p02_ch11.md", ""], ["03_p02_ch11_1.md", ""], ["03_p02_ch11_2.md", ""], ["03_p02_ch11_3.md", ""], ["03_p02_ch12.md", ""], ["03_p02_ch13.md", ""], ["03_p02_ch14.md", ""], ["03_p02_ch14_1.md", ""], ["03_p02_ch14_2.md", ""], ["03_p02_ch14_3.md", ""], ["03_p02_ch15.md", ""], ["03_p02_ch15_01.md", ""], ["03_p02_ch15_02.md", ""], ["03_p02_ch15_03.md", ""], ["03_p02_ch15_04.md", ""], ["03_p02_ch15_05.md", ""], ["04_apx.md", ""], ["04_apx_01.md", ""], ["04_apx_02.md", ""], ["04_apx_03.md", ""], ["04_apx_04.md", ""]]
+
+[translation]
+language = "ms"
+is_translation = true
+this_project_url = "https://github.com/ancap-ch/from-en/tree/utopian/ms/Economics and Ethics of Private Property Studies in Political Economy and Philosophy"
+fetch_translators = true
+fetch_reviwers = true
+fetch_progress = true
+
+[[persons]]
+identifier = "Hans-Hermann Hoppe"
+rule = "author"
+
+[[persons]]
+identifier = "template_person"
+rule = "collaborator"
+
+[[persons]]
+identifier = "template_person"
+rule = "thanked"
+
+[[persons]]
+identifier = "template_person"
+rule = "translator"
+
+[[persons]]
+identifier = "template_person"
+rule = "reviwer"
+
+[[persons]]
+identifier = "template_person"
+rule = "cover_artist"
+
+[[persons]]
+identifier = "template_person"
+rule = "artist"
+
+[[resources]]
+rule = "front_cover"
+content = "Pasture_and_Rail_Fence.jpg"
+websites = ["https://commons.wikimedia.org/wiki/File:Pasture_and_Rail_Fence.jpg"]
+description = "A pasture overlooks rolling hills in Switzerland. By Joseph Clemens (Klemenz) Kaufmann (7.2.1867 - 21.11.1926)"
+persons = ["template_person"]
+
+[[targets]]
+name = "book"
+size = "a4paper"
+reader = "print"
+reset_footer_active = true
+reset_footer_depth = 2
+clear_page_active = true
+clear_page_depth = 2
+has_parts = true
+frontmatter_depth = 2
+toc_depth = 0
+mini_toc_active = true
+mini_toc_depth = 2
+mini_toc_sec_active = true
+mini_toc_sec_depth = 2
+
+[[targets.covers]]
+cover_file = "Pasture_and_Rail_Fence.jpg"
+cover_dimensions = [0, 0, 1198, 1695]
