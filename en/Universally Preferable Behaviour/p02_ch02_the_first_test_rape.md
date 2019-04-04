@@ -66,6 +66,8 @@ An APA is a *non-coercive rule that can be rationally applied to both parties si
 
 For instance, if my APA is: “be on time”, then it can be a universal standard that can be totally avoided. I cannot forcefully inflict this APA on you because you do not have to be my friend, you do not have to be on time, you do not have to respect or follow my preferences in any way whatsoever.[^1]
 
+[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
+
 If “being on time” is an APA, then it is possible for two people to achieve it simultaneously – if they are both on time.
 
 With rape though, as we have seen above, it is impossible for two people to perform it at the same time. One must always be the rapist, and the other always the victim.
@@ -82,9 +84,13 @@ Thus rape cannot fall into the category of APAs.
 
 Perhaps rape is akin to a merely personal preference.[^2]
 
+[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
+
 The question then arises: can the classification of rape as a merely personal preference stand up to logical scrutiny?
 
 If we propose the moral rule: “personal preferences must be violently inflicted upon other people”, how does that stand up to the framework of UPB?[^3]
+
+[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
 
 Personal preferences cannot be justly inflicted upon other people, because that would create an insurmountable logical paradox.
 
@@ -109,6 +115,8 @@ Personally negative actions (PNAs) by definition cannot be enforced upon another
 Perhaps rape is an aesthetically *negative* action, like “being late” – the flip-side of number two above. However, aesthetically negative actions (ANAs) cannot logically be violently enforced *because by definition they can be avoided*. Since I can freely choose to stop associating with a man who continually shows up late, I cannot shoot him for being late.
 
 However, rape by definition cannot be avoided, since it is a sexual attack enforced through violence.[^4] Also, if I choose to stop being friends with the tardy man mentioned above, he cannot justly force me to be his friend by threatening me with violence, since that would rely on the principle that merely personal preferences can be enforced on others, which would run fruitlessly up against my ability to enforce *my* desire to drop his friendship. This kind of “Tarantino morality” always ends up with everyone in a state of mute paralysis, pointing guns at each other’s faces like frozen statues.
+
+[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.
 
 As we have already established, any universally preferable behaviour must be universal to all people in all places at all times – if ANAs allow for violent enforceability (i.e. I can shoot you for being late) – then if rape is defined as an ANA which can be enforced, then the rape victim who finds rape an aesthetically negative action has the right to shoot his rapist, which effectively affirms the principle of self-defence, but at the expense of also allowing gun play in the opposition of, say, rudeness.
 
@@ -145,11 +153,3 @@ The fact that the UPB framework has logically and effectively validated the mora
 Einstein’s theory of relativity predicted that light would bend around a gravity well – when this was first confirmed, it did not prove his theory beyond a shadow of a doubt, but it did prove that the theory *could* be true, which was a great leap forward. The first validation is always the hardest, because it is so easy to get things wrong, and error always outnumbers accuracy.
 
 The UPB framework has correctly validated our moral premise that rape is evil. This is a necessary – but not sufficient – criterion for proof, and fully supports additional investigation. Thus, let us continue…
-
-[^1]: This is very different from a physical assault, which destroys your capacity for free choice.
-
-[^2]: It cannot be argued that rape does not involve a preference, since rape is a behaviour and, as we have discussed above, all behaviours involve preference.
-
-[^3]: Note that I cannot propose that “personal preferences *may* be violently inflicted upon other people, since that is a violation of UPB, which states that moral rules must be absolute and universal – if they are not, they fall into APA territory, and so cannot be inflicted on others.
-
-[^4]: We can avoid situations which increase the likelihood of rape, but we cannot avoid a rape in progress.

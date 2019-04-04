@@ -58,6 +58,8 @@ Still, not *quite* zero.
 
 Extraordinary claims require extraordinary proof. In taking on this mammoth task – particularly in such a short book – I have set myself some basic ground rules, which are worth going over here.[^1]
 
+[^1]: Most of these will be discussed in more detail throughout the course of this book.
+
 1. I fully accept the Humean distinction between “is” and “ought”. Valid moral rules cannot be directly derived from the existence of anything in reality. The fact that human beings in general *prefer* to live, and must successfully interact with reality in order to do so, cannot be the basis for any valid theory of ethics. Some people clearly do not prefer to live, and steadfastly reject reality, so this definition of ethics remains subjective and conditional.
 2. Ethics cannot be objectively defined as “that which is good for man’s survival”. Certain individuals can survive very well by preying on others, so this definition of ethics does not overcome the problem of subjectivism. In biological terms, this would be analogous to describing evolutionary tendencies as “that which is good for *life’s* survival” – this would make no sense. Human society is an ecosystem of competing interests, just as the rainforest is, and what is “good” for one man so often comes at the expense of another.
 3. I do not believe in any “higher realm” of Ideal Forms. Morality cannot be conceived of as existing in any “other universe”, either material or immaterial. If morality exists in some “other realm”, it cannot then be subjected to a rigorous rational or empirical analysis – and, as Plato himself noted in “The Republic”, society would thus require an elite cadre of Philosopher-Kings to communicate – or, more accurately, *enforce* – the incomprehensible edicts of this “other realm” upon everyone else. This also does not solve the problem of subjectivism, since that which is inaccessible to reason and evidence is by definition subjective.
@@ -69,6 +71,8 @@ Extraordinary claims require extraordinary proof. In taking on this mammoth task
 9. Finally, I believe that any theory – especially one as fundamental as a theory of ethics – does little good if it merely confirms what everybody already knows instinctively. I have not spent years of my life working on a theory of ethics in order to run around proving that “murder is wrong”. In my view, the best theories are those which verify the truths that we all intuitively understand – and then use those principles to reveal new truths that may be completely counter-intuitive.
 
 Having spent the last few years of my life preparing, training, and then combating this beast, I hope that I have acquitted myself with some measure of honour. I believe that I have emerged victorious – though not entirely unscathed – and I look forward to seeing who shares this view.[^2]
+
+[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!
 
 I studied the history of philosophy in graduate school, and hold a Masters degree, but I do not have a PhD in philosophy. I am far from a publicly recognised intellectual. While I may not be the *most* unlikely champion, I am also far from the most likely. Whether I have succeeded or not is not up to you, and it is not up to me.
 
@@ -87,7 +91,3 @@ Thus I humbly suggest that you wait to see how effective the ethical framework I
 I truly believe that the definition of a rational ethical framework is the most essential task that faces mankind. I truly appreciate your interest in this crucial matter – and would like as always to thank the wonderfully kind donators who have made this work possible.
 
 I ride into battle well armed by others.
-
-[^1]: Most of these will be discussed in more detail throughout the course of this book.
-
-[^2]: Of course, if I have failed, I have at least failed spectacularly, which itself can be both edifying and entertaining!

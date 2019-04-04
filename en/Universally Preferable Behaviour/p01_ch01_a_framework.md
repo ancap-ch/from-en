@@ -6,6 +6,8 @@ Similarly, if I say “I like vegetables”, that is also a mere statement of pe
 
 The fundamental difference between statements of *preference* and statements of *fact* is that statements of fact are objective, testable – and binding. If you value truth, it is incumbent upon you to accept the fact that ice cream contains milk, once it is proven.[^1]
 
+[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
+
 If I say that the earth is round, and I provide ample proof for this statement, it is no longer up to you to determine on your own whim whether the statement is true. If I can prove that the earth is round, then you are bound to accept it as true, unless you are willing to reject reason and evidence as the criteria for truth.
 
 If I accept the validity of mathematical laws, I cannot arbitrarily reject a mathematical proof that conforms to those laws. If I *do* reject such a proof, I can no longer claim to accept the validity of mathematical laws. My acceptance of these laws means that I am *bound* to accept as valid those proofs that conform to these laws. The rejection of a proof that conforms to rational standards is a rejection of rational standards as a whole.
@@ -77,6 +79,10 @@ Truth, then, can be measured according to two central criteria:
 1. Truth is a measure of the correlation between the ideas in our minds and the consistency of rationality, which is directly derived from the consistent behaviour of matter and energy in the real world.[^2]
 2. Truth is also a measure of the correlation between the ideas in our minds and the nature and behaviour of matter and energy in the real world.[^3]
 
+[^2]: Rational consistency, or internal logic.
+
+[^3]: Empirical evidence, or empiricism.
+
 The first criterion is a measure of the consistency of ideas with themselves – and such consistency is a requirement because reality is consistent with itself. If I say, “I do not exist”, that is an example of an idea that is inconsistent with itself, since I must exist in order to utter the sentence. The second criterion is a measure of the accuracy of ideas relative to empirical observations of objective reality.
 
 #### Empiricism Versus Rationality
@@ -88,9 +94,3 @@ Thus, since matter obeys immutable laws, our theories *about* matter must also o
 This requirement for consistency is one of the most basic requirements for truth. Since reality is consistent, theories regarding reality must also be consistent.
 
 In fact, the first hurdle that any theory must overcome is that of *internal consistency*.
-
-[^1]: If you do not value truth, you would never be in this debate – or any other debate – in the first place!
-
-[^2]: Rational consistency, or internal logic.
-
-[^3]: Empirical evidence, or empiricism.
