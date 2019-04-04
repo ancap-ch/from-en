@@ -8,6 +8,14 @@ Absent a perfect harmony of all interests, conflicts regarding scarce resources 
 
 But who owns what scarce resource as his private property and who does not? First: Each person owns his physical body that only he and no one else controls *directly*. And second, as for scarce resources that can be controlled *only* indirectly[^1]: Exclusive control[^2] is acquired by and assigned to that person, who appropriated the resource in question *first* or who acquired it through voluntary[^3] exchange from its *previous* owner. For only the *first* appropriator of a resource[^4] can possibly acquire and gain control over it without conflict, i.e., peacefully. Otherwise, if exclusive control is assigned instead to *latecomers*, conflict is not avoided but contrary to the very purpose of norms made unavoidable and permanent.
 
+[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
+
+[^2]: Property.
+
+[^3]: Conflict-free.
+
+[^4]: And all later owners connected to him through a chain of voluntary exchanges.
+
 Before this audience I do not need to go into greater detail except to add this: If you want to live in peace with other people and avoid all physical clashes and, if such clashes do occur, seek to resolve them peacefully, then you must be an anarchist or more precisely a private property anarchist, an anarcho-capitalist or a proponent of a private law society.
 
 And by implication, then, and again without much further ado: Someone, anyone, is *not* a libertarian or merely a *fake* libertarian who affirms and advocates one or more of the following: the necessity of a State, any State, of ‘public’ (State) property and of taxes in order to live in peace; or the existence and justifiability of any so-called “human rights” or “civil rights” other than private property rights, such as “women rights”, “gay rights”, “minority rights”, the “right” not to be discriminated against, the “right” to free and unrestricted immigration, the “right” to a guaranteed minimum income or to free health care, or the “right” to be free of unpleasant speech and thought. The proponents of any of this may call themselves whatever they want, and as libertarians we may well cooperate with them, insofar as such a cooperation offers the promise of bringing us closer to our ultimate goal, but they are not *libertarians* or only *fake* libertarians.
@@ -16,7 +24,13 @@ Now, “a funny thing happened on the way to the forum”. While Rothbard and I,
 
 Trying to develop an answer to this question brings me to the topic of this speech: the relationship between libertarianism and the alternative right or “Alt-Right”, which has gained national and international notoriety after Hillary Clinton, during the last presidential election campaign, identified it as one of the inspirational sources behind the “basket of deplorables” rooting for Trump[^5].
 
+[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
+
 The Alt-Right movement is essentially the successor of the paleo-conservative movement that came to prominence in the early 1990’s, with columnist and best-selling author Patrick Buchanan as its best-known representative. It went somewhat dormant by the late 1990’s, and it has recently, in light of the steadily growing damage done to America and its reputation by the successive Bush I, Clinton, Bush II and Obama administrations, reemerged more vigorous than before under the new label of the Alt-Right. Many of the leading lights associated with the Alt-Right have appeared here at our meetings in the course of the years. Paul Gottfried, who first coined the term, Peter Brimelow, Richard Lynn, Jared Taylor, John Derbyshire, Steve Sailer and Richard Spencer. As well, Sean Gabb’s name and mine are regularly mentioned in connection with the Alt-Right, and my work has been linked also with the closely related neo-reactionary movement inspired by Curtis Yarvin[^6] and his now defunct blog *Unqualified Reservations*. In sum, these personal relations and associations have earned me several honorable mentions by America’s most famous smear-and-defamation league, the SPLC[^7].
+
+[^6]: *Aka* Mencius Moldbug.
+
+[^7]: *Aka* Soviet Poverty Lie Center.
 
 Now: How about the relationship between libertarianism and the Alt-Right and my reasons for inviting leading representatives of the Alt-Right to meetings with libertarians? Libertarians are united by the irrefutable theoretical core beliefs mentioned at the outset. They are clear about the goal that they want to achieve. But the libertarian doctrine does not imply much if anything concerning *these* questions:
 
@@ -29,13 +43,29 @@ To answer these questions, in addition to theory, you also need some knowledge o
 
 While much of contemporary libertarianism can be characterized, then, as theory and theorists without psychology and sociology, much or even most of the Alt-Right can be described, in contrast, as psychology and sociology without theory. Alt-Righters are not united by a commonly held theory, and there exists nothing even faintly resembling a canonical text defining its meaning. Rather, the Alt-Right is essentially united in its description of the contemporary world, and in particular the US and the so-called Western World, and the identification and diagnosis of its social pathologies. In fact, it has been correctly noted that the Alt-Right is far more united by what it is against than what it is for. It is against, and indeed it hates with a passion, the elites in control of the State, the MSM and academia. Why? Because they all promote social degeneracy and pathology. Thus, they promote, and the Alt-Right vigorously opposes, egalitarianism, affirmative action[^8], multiculturalism, and “free” mass immigration as a means of bringing multiculturalism about. As well, the Alt-Right loathes everything smacking of cultural Marxism or Gramsciism and all “political correctness” and, strategically wise, it shrugs off, without any apology whatsoever, all accusations of being racist, sexist, elitist, supremacist, homophobe, xenophobe, etc., etc. And the Alt-Right also laughs off as hopelessly naïve the programmatic motto of so-called libertarians such as the _Students for Liberty_[^9] of “Peace, Love, and Liberty”, appropriately translated into German by Lichtschlag as “Friede, Freude, Eierkuchen”. In stark contrast to this, Alt-Righters insist that life is also about strife, hate, struggle and fight, not just between individuals but also among various groups of people acting in concert. “_Millennial Woes”_[^10] has thus aptly summarized the Alt-Right:
 
+[^8]: *Aka* “non-discrimination”.
+
+[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
+
+[^10]: Colin Robertson.
+
 > Equality is bullshit. Hierarchy is essential. The races are different. The sexes are different. Morality matters and degeneracy is real. All cultures are not equal and we are not obligated to think they are. Man is a fallen creature and there is more to life than hollow materialism. Finally, the white race matters, and civilization is precious. This is the Alt-Right.
 
 Absent any unifying theory, however, there is far less agreement among the Alt-Right about the goal that it ultimately wants to achieve. Many of its leading lights have distinctly libertarian leanings, most notably those that have come here[^11], even if they are not 100%-ers and would not identify themselves as such. All Alt-Righters that have appeared here, for instance, have been familiar with Rothbard and his work, all the while the most recent presidential candidate of the Libertarian Party had never even heard of Rothbard’s name, and all of them, to the best of my knowledge, were outspoken supporters of Ron Paul during his primary campaign for the Republican Party’s nomination as presidential candidate, all the while many self-proclaimed libertarians attacked and tried to vilify Ron Paul for his supposedly - you already know what’s coming by now - “racist” views.
 
+[^11]: Which, of course, was the reason for having invited them here.
+
 However, several of the Alt-Right’s leaders and many of its rank and file followers have also endorsed views incompatible with libertarianism. As Buchanan before and Trump now, they are adamant about complementing a policy of restrictive, highly selective and discriminating immigration[^12] with a strident policy of restricted trade, economic protectionism and protective tariffs[^13].[^14]
 
+[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
+
+[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
+
+[^14]: Let me hasten to add here that, despite my misgivings about his “economics”, I still consider Pat Buchanan a great man.
+
 Others strayed even further afield, such as Richard Spencer, who first popularized the term Alt-Right. In the meantime, owing to several recent publicity stunts, which have gained him some degree of notoriety in the US, Spencer has laid claim to the rank of the maximum leader of a supposedly mighty unified movement[^15]. When Spencer appeared here, several years ago, he still exhibited strong libertarian leanings. Unfortunately, however, this has changed and Spencer now denounces, without any qualification whatsoever, all libertarians and everything libertarian and has gone so far as to even put up with socialism, as long as it is socialism of and for only white people. What horrifying disappointment!
+
+[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
 
 Given the lack of any theoretical foundation, this split of the Alt-Right movement into rival factions can hardly be considered a surprise. Yet this fact should not mislead one to dismiss it, because the Alt-Right has brought out many insights that are of central importance in approaching an answer to the two previously mentioned questions unanswered by libertarian theory: of how to maintain a libertarian social order and how to get to such an order from the current, decidedly un-libertarian status quo. The Alt-Right did not discover these insights. They had been established long before and indeed, in large parts they are no more than common sense. But in recent times such insights have been buried under mountains of egalitarian, leftist propaganda and the Alt-Right must be credited for having brought them back to light.
 
@@ -43,7 +73,11 @@ To illustrate the importance of such insights, let me take the first unanswered 
 
 Many libertarians hold the view that all that is needed to maintain a libertarian social order is the strict enforcement of the non-aggression principle (NAP). Otherwise, as long as one abstains from aggression, according to their view, the principle of “live and let live” should hold. Yet surely, while this “live and let live” sounds appealing to adolescents in rebellion against parental authority and all social convention and control[^16], and while the principle does indeed hold and apply for people living far apart and dealing with each other only indirectly and from afar, it does *not* hold and apply, or rather it is *insufficient*, when it comes to people living in close proximity to each other, as neighbors and cohabitants of the same community.
 
+[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
+
 A simple example suffices to make the point. Assume a new next-door neighbor. This neighbor does not aggress against you or your property in any way, but he is a “bad” neighbor. He is littering on his own neighboring property, turning it into a garbage heap; in the open, for you to see, he engages in ritual animal slaughter, he turns his house into a “Freudenhaus”, a bordello, with clients coming and going all day and all night long; he never offers a helping hand and never keeps any promise that he has made; or he cannot or else he refuses to speak to you in your own language. Etc., etc.. Your life is turned into a nightmare. Yet you may not use violence against him, because he has not aggressed against you. What can you do? You can shun and ostracize him. But your neighbor does not care, and in any case you alone thus ‘punishing’ him makes little if any difference to him. You have to have the communal respect and authority, or you must turn to someone who does, to persuade and convince everyone or at least most of the members of your community to do likewise and make the bad neighbor a social outcast, so as to exert enough pressure on him to sell his property and leave.[^17]
+
+[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority”!.
 
 The lesson? The peaceful cohabitation of neighbors and of people in regular direct contact with each other on some territory – a tranquil, convivial social order – requires also a commonality of culture: of language, religion, custom and convention. There can be peaceful co-existence of different cultures on distant, physically separated territories, but multi-culturalism, cultural heterogeneity, cannot exist in one and the same place and territory without leading to diminishing social trust, increased tension, and ultimately the call for a “strong man” and the destruction of anything resembling a libertarian social order.
 
@@ -65,6 +99,8 @@ As a libertarian strategy, then, Tucker’s advice must be considered simply a b
 
 Outside egalitarian phantasy lands, however, in the real world, libertarians must above all be *realistic* and recognize from the outset, as the Alt-Right does, the inequality not just of individuals but also of different cultures as an ineradicable *datum* of the human existence. We must further recognize that there exist plenty of enemies of liberty as defined by libertarianism and that they, not we, are in charge of worldly affairs; that in many parts of the contemporary world their control of the populace is so complete that the ideas of liberty and of a libertarian social order are practically unheard of or considered unthinkable[^18]; and that it is essentially only in the West, in the countries of Western and Central Europe and the lands settled by its people, that the idea of liberty is so deeply rooted that these enemies still can be openly challenged. And confining our strategic considerations here only to the West, then, we can identify, pretty much as the Alt-Right has effectively done, these actors and agencies as our principal enemies.
 
+[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
+
 They are:
 
 1. The ruling elites in control of the State apparatus and in particular the “Deep State” or the so-called “Cathedral” of the military, the secret services, the central banks and the supreme courts. As well, they include: 
@@ -82,6 +118,8 @@ Accordingly, given the present constellation of affairs, then, any promising lib
 1. Be tailored and addressed to this group of the most severely victimized people. White married Christian couples with children, in particular if they belong also to the class of tax-*payers* (rather than tax-consumers), and everyone most closely resembling or aspiring to this standard form of social order and organization can be realistically expected to be the most receptive audience of the libertarian message[^19]. Given this constellation of perpetrator-enemies vs. victims in the contemporary West, then, I can now come to the final task of trying to outline a realistic libertarian strategy for change. The specifics of which will have to be prefaced by two general considerations. For one, given that the class of intellectuals from the tops of *academia* to the opinion-molding journalists in the MSM are funded by and firmly tied into the ruling system, i.e., that they are a part of the *problem*, they also should not be expected to play a major if any role in the problem’s *solution*. Accordingly, the so-called Hayekian strategy for social change, that envisions the spread of correct libertarian ideas starting at the top, with the leading philosophers, and then trickling down from there to journalists and finally to the great unwashed masses, must be considered fundamentally unrealistic. Instead, any realistic libertarian strategy for change must be a *populist* strategy. That is, libertarians must short-circuit the dominant intellectual elites and address the masses directly to arouse their indignation and contempt for the ruling elites.
 2. All the while the main addressees of a populist libertarian message must be indeed the just mentioned groups of dispossessed and disenfranchised native whites, I believe it to be a serious strategic error to make “whiteness” the exclusive criterion on which to base one’s strategic decisions, as some strands of the Alt-Right have suggested to do. After all, it is above all white men that make up the ruling elite and that have foisted the current mess upon us. True enough, the various protected “minorities” mentioned before take full advantage of the legal privileges they have been accorded and they have become increasingly emboldened to ask for ever more “protection”, but none of them and all of them together did not and do not possess the intellectual prowess that would have made this outcome possible, if it were not for the instrumental help that they received and are receiving from white men.
 
+[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
+
 Now, taking our cues from the Buchanan-, the Paul- and the Trump-movement, on to the specifics of a populist strategy for libertarian change, in no specific order except for the very first one, which has currently assumed the greatest urgency in the public mind.
 
 #### Stop mass immigration
@@ -89,6 +127,8 @@ Now, taking our cues from the Buchanan-, the Paul- and the Trump-movement, on to
 The waves of immigrants currently flooding the Western world have burdened it with hordes of welfare parasites, brought in terrorists, increased crime, led to the proliferation of no-go areas and resulted in countless “bad neighbors” who, based on their alien upbringing, culture and traditions, lack any understanding and appreciation of liberty and are bound to become mindless future supporters of welfare-Statism.
 
 No one is against immigration and immigrants *per se*. But immigration must be by invitation only. All immigrants must be productive people and hence, be barred from all domestic welfare payments. To ensure this, they or their inviting party must place a bond with the community in which they are to settle, and which is to be forfeited and lead to the immigrant’s deportation should he ever become a public burden. As well, every immigrant, inviting party or employer should not only pay for the immigrant’s upkeep or salary, but must also pay the residential community for the additional wear and tear of its public facilities associated with the immigrant’s presence, so as to avoid the socialization of any and all costs incurred with his settlement. Moreover, even before his admission, every potential immigrant invitee must be carefully screened and tested not only for his productivity but also for cultural affinity (or “good neighborliness”) – with the empirically predictable result of mostly, but by no means exclusively, western-white immigrant-candidates. And any known communist or socialist, of any color, denomination or country of origin, must be barred from permanent settlement – unless, that is, the community where the potential immigrant wants to settle officially sanctions the looting of its residents’ property by new, foreign arrivals, which is not very likely to say the least (even within already existing ‘commie’ communes).[^20]
+
+[^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. And while it is true that the State is a criminal organization and that to entrust it with the task of border control will inevitably result in numerous injustices to both domestic residents and foreigners, it is also true that the State *does something* also when it decides *not* to do anything about border control and that, under the present circumstances, doing nothing at all in this regard will lead to even more and much graver injustices, in particular to the domestic citizenry.
 
 #### Stop attacking, killing and bombing people in foreign countries
 
@@ -110,6 +150,8 @@ All such edicts are blatant violations of the principle of the equality before t
 
 The trans-valuation of all values throughout the West: the invention of ever more “victim groups”, the spread of “affirmative action” programs and the relentless promotion of “political correctness”, has led to the rise of an “anti-fascist” mob. Tacitly supported and indirectly funded by the ruling elites, this self-described mob of “social justice warriors” has taken upon itself the task of escalating the fight against “white privilege” through deliberate acts of terror directed against anyone and anything deemed “racist”, “right-wing”, “fascist”, “reactionary”, “incorrigible” or “unreconstructed”. Such “enemies of progress” are physically assaulted by the “anti-fascist” mob, their cars are burnt down, their properties vandalized, and their employers threatened to dismiss them and ruin their careers – all the while the police are ordered by the powers that be to “stand down” and not to investigate the crimes committed or prosecute and punish the criminals. In view of this outrage, public anger must be aroused and there must be clamoring, far and wide, for the police to be unleashed and this mob be beaten into submission.[^21]
 
+[^21]: Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are *State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private* police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right”, should take the task upon itself of giving the “social justice warriors” a bloody nose?
+
 #### Crush the street criminals and gangs
 
 In dispensing with the principle of the equality before the law and awarding all sorts of group privileges (except to the one group of married white Christian men and their families) the ruling elites have also dispensed with the principle of equal punishment for equal crime. Some State-favored groups are handed more lenient punishment for the same crime than others, and some especially favored groups are simply let run wild and go practically unpunished at all, thus actually and effectively promoting crime. As well, no-go areas have been permitted to develop where any effort at law-enforcement has essentially ceased to exist and where violent thugs and street gangs have taken over. In view of this, public furor must be provoked and it be unmistakably demanded that the police crack-down quick and hard on any robber, mugger, rapist and murderer, and ruthlessly clear all current no-go areas of violent gang-rule. Needless to say that this policy should be colorblind, but if it happens to be, as it in fact does, that most street criminals or gang members are young Black or Latino males or, in Europe, young immigrant males from Africa, the Middle East, the Balkans or Eastern Europe, then so be it and such human specimen then should be the ones that most prominently get their noses bloodied. And needless to say also that in order to defend against crime, whether ordinary street crime or acts of terrorism, all prohibitions against the ownership of guns by upstanding citizen should be abolished.
@@ -125,45 +167,3 @@ Most, if not all, social pathologies plaguing the contemporary West have their c
 #### Don’t put your trust in politics or political parties
 
 Just as *academia* and the academic world cannot be expected to play any significant role in a libertarian strategy for social change, so with politics and political parties – after all, it is the ultimate goal of libertarianism to put an end to all politics, and to subject all interpersonal relations and conflicts to private law and civil law procedures. To be sure, under present, all-pervasively politicized conditions an involvement in politics and party politics cannot be entirely avoided. However, in any such involvement one must be keenly aware of and guard against the corrupting influence of power and the lure of money and perks that comes with it. And to minimize this risk and temptation, it is advisable to concentrate one’s efforts on the level of regional and local rather than national politics, and there to promote a radical agenda of decentralization: of nullification and peaceful separation, segregation and secession. Most importantly, however, we must take heed of Ludwig von Mises’ life-motto: Do not give in to evil, but proceed ever more boldly against it. That is, we must speak out whenever and wherever, whether in formal or informal gatherings, against anyone affronting us with by now only all-too-familiar “politically correct” drivel and left-egalitarian balderdash and unmistakably say: “No. Hell no. You must be kidding”. In the meantime, given the almost complete mind-control exercised by the ruling elites, *academia* and the MSM, it already requires a good portion of courage to do so. But if we are not brave enough to do so now and thus set an example for others to follow, matters will become increasingly worse and more dangerous in the future, and we, Western civilization and the Western ideas of freedom and liberty will be wiped out and vanish.
-
-[^1]: That must be appropriated with our own nature-given, i.e., un-appropriated, body.
-
-[^2]: Property.
-
-[^3]: Conflict-free.
-
-[^4]: And all later owners connected to him through a chain of voluntary exchanges.
-
-[^5]: Whose leadership, to its credit, after Trump’s election victory, quickly broke with Trump when he turned out to be just another presidential warmonger.
-
-[^6]: *Aka* Mencius Moldbug.
-
-[^7]: *Aka* Soviet Poverty Lie Center.
-
-[^8]: *Aka* “non-discrimination”.
-
-[^9]: Which I have termed the “Stupids for Liberty” and my young German friend Andre Lichtschlag as “Liberallala-Libertarians”.
-
-[^10]: Colin Robertson.
-
-[^11]: Which, of course, was the reason for having invited them here.
-
-[^12]: Which is entirely compatible with libertarianism and its *desideratum* of freedom of association and opposition to forced integration.
-
-[^13]: Which is antithetical to libertarianism and inimical to human prosperity.
-
-[^14]: Let me hasten to add here that, despite my misgivings about his “economics”, I still consider Pat Buchanan a great man.
-
-[^15]: An endeavor, by the way, that has been ridiculed by Taki Theodoracopulos, a veteran champion of the paleo-conservative-turned-Alt-Right movement and Spencer’s former employer.
-
-[^16]: Many youngsters have been initially attracted to libertarianism believing that this “live and let live” is the essence of libertarianism.
-
-[^17]: So much for the libertarians who, in addition to their “live and let live” ideal also hail the motto “respect no authority”!.
-
-[^18]: Except as some idle intellectual play or mental gymnastics by a few “exotic” individuals.
-
-[^19]: Whereas the least support should be expected to come from the legally most “protected” groups such as, for instance, single Black Muslim mothers on welfare.
-
-[^20]: Brief message to all open-border and liberallala libertarians, who will surely label this, you guessed it, “fascist”: In a fully privatized libertarian order there exists no such thing as a right to free immigration. Private property implies borders and the owner’s right to exclude at will. And “public property” has borders as well. It is not unowned. It is the property of domestic tax-payers and most definitely not the property of foreigners. And while it is true that the State is a criminal organization and that to entrust it with the task of border control will inevitably result in numerous injustices to both domestic residents and foreigners, it is also true that the State *does something* also when it decides *not* to do anything about border control and that, under the present circumstances, doing nothing at all in this regard will lead to even more and much graver injustices, in particular to the domestic citizenry.
-
-[^21]: Query for liberallala-libertarians and the Stupids for Liberty, who are sure to object to this demand on the ground that the police asked to crush the “anti-fascist” mob are *State-_police: Do you also object, on the same grounds, that the police arrest murderers or rapists? Aren’t these legitimate tasks performed also in any libertarian order by _private* police? And if the police are not to do anything about this mob, isn’t it o.k. then that the target of its attacks, the “racist Right”, should take the task upon itself of giving the “social justice warriors” a bloody nose?
