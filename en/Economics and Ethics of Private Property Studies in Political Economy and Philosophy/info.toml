@@ -1,4 +1,4 @@
-version = "0.1.4"
+version = "0.1.5"
 titles = ["Economics \\& Ethics", "of Private Property", "Studies in Political~~~~~\\quad\\quad", "Economy and Philosophy\\quad\\quad"]
 discussions = [["https://en.ancap.ch/t/5", "Ancap Channel"]]
 more_infos = [["https://www.google.com", "Website name"]]
@@ -26,7 +26,10 @@ persons = ["template_person"]
 [[targets]]
 name = "book"
 size = "a4paper"
+orientation = "portrait"
+font_size = "14pt"
 reader = "print"
+engine = "xetex"
 reset_footer_active = true
 reset_footer_depth = 2
 clear_page_active = true
