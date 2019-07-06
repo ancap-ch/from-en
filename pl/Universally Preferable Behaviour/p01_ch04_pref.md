@@ -46,7 +46,7 @@ Kiedy mówię o uniwersalnych preferencjach, mówię o tym, co wolą ludzie *pow
 
 Likewise, if a man wants to cure an infection, he *should* take antibiotics rather than perform an Aztec rain dance. Preferowanie przyjmowania antybiotyków zamiast tańca deszczowego jest powszechne, ponieważ taniec nie może wyleczyć infekcji. Tak więc, chociaż zdarzają się przypadkowi szaleńcy, którzy będą próbowali wyleczyć się przez taniec, to nadal jest *bardziej powszechne *, że jeśli człowiek chce się wyleczyć, musi brać antybiotyki.
 
-Innymi słowy, jeśli chcesz dostać się na szczyt góry, pragnienie tego nigdy nie zadziała. Jeśli chcesz poznać pochodzenie wszechświata, modlitwa nigdy nie dostarczy odpowiedzi. Ludzie nadal życzą i modlą się, ale to nie sprawia, że ​​życzenia lub modlitwa są bardziej skuteczne. Mając to na uwadze, przejdźmy do pytania, czy uniwersalne preferencje mogą być ważne.
+Innymi słowy, jeśli chcesz dostać się na szczyt góry, pragnienie tego nigdy nie zadziała. Jeśli chcesz poznać pochodzenie wszechświata, modlitwa nigdy nie dostarczy odpowiedzi. Ludzie nadal życzą i modlą się, ale to nie sprawia, że życzenia lub modlitwa są bardziej skuteczne. Mając to na uwadze, przejdźmy do pytania, czy uniwersalne preferencje mogą być ważne.
 
 ### Arguments And Universality
 
