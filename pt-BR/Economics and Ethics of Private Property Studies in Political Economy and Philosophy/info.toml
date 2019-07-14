@@ -19,12 +19,12 @@ content_files = [
     # part 1
     ["03_p01.md", ""],
 
-    # # chapter 1
-    ["03_p01_ch01_01.md", ""]
-    # ["03_p01_ch01_02.md", ""], 
-    # ["03_p01_ch01_03.md", ""], 
+    # chapter 1
+    ["03_p01_ch01_01.md", ""],
+    ["03_p01_ch01_02.md", ""], 
+    ["03_p01_ch01_03.md", ""]
 
-    # # chapter 2
+    # chapter 2
     # ["03_p01_ch02_01.md", ""], 
     # ["03_p01_ch02_02.md", ""], 
     # ["03_p01_ch02_03.md", ""], 
@@ -147,7 +147,7 @@ mini_toc_sec_depth = 2
 
 [[targets.covers]]
 cover_file = "Pasture_and_Rail_Fence.jpg"
-cover_dimensions = [0, 0, 1198, 1695]
+cover_dimensions = [0, 0, 1198, 1695] # 210x297 * ~5.70
 
 # -------------------------------------------------
 
@@ -159,7 +159,7 @@ orientation = "portrait"
 font_size = "25pt"
 reader = "digital"
 engine = "latex"
-titles = ["A Economia \\,e\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
+titles = ["A Economia \\,\\,e\\,\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
 reset_footer_active = true
 reset_footer_depth = 2
 clear_page_active = true
@@ -174,7 +174,7 @@ mini_toc_sec_depth = 2
 
 [[targets.covers]]
 cover_file = "Pasture_and_Rail_Fence.jpg"
-cover_dimensions = [0, 0, 1198, 1695]
+cover_dimensions = [0, 0, 951, 1691] # 9x16 * ~105.6
 
 # -------------------------------------------------
 
@@ -186,7 +186,7 @@ orientation = "landscape"
 font_size = "36pt"
 reader = "digital"
 engine = "latex"
-titles = ["A Economia \\,e\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
+titles = ["A Economia \\,\\,e\\,\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
 reset_footer_active = true
 reset_footer_depth = 2
 clear_page_active = true
@@ -201,7 +201,7 @@ mini_toc_sec_depth = 2
 
 [[targets.covers]]
 cover_file = "Pasture_and_Rail_Fence.jpg"
-cover_dimensions = [0, 0, 1198, 1695]
+cover_dimensions = [0, 334, 2419, 1361] # 16x9 * ~151
 
 # -------------------------------------------------
 
@@ -213,7 +213,7 @@ orientation = "portrait"
 font_size = "20pt"
 reader = "digital"
 engine = "latex"
-titles = ["A Economia \\,e\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
+titles = ["A Economia \\,\\,e\\,\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
 reset_footer_active = true
 reset_footer_depth = 2
 clear_page_active = true
@@ -228,7 +228,7 @@ mini_toc_sec_depth = 2
 
 [[targets.covers]]
 cover_file = "Pasture_and_Rail_Fence.jpg"
-cover_dimensions = [0, 0, 1198, 1695]
+cover_dimensions = [0, 0, 1268, 1691] # 3x4 * ~422
 
 # -------------------------------------------------
 
@@ -241,7 +241,7 @@ orientation = "landscape"
 font_size = "25pt"
 reader = "digital"
 engine = "latex"
-titles = ["A Economia \\,e\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
+titles = ["A Economia \\,\\,e\\,\\, a Ética", "da Propriedade Privada", "Estudos em Economia Política", "\\qquad\\qquad\\qquad\\qquad\\quad\\,\\,\\,\\& Filosofia"]
 reset_footer_active = true
 reset_footer_depth = 2
 clear_page_active = true
@@ -256,7 +256,7 @@ mini_toc_sec_depth = 2
 
 [[targets.covers]]
 cover_file = "Pasture_and_Rail_Fence.jpg"
-cover_dimensions = [0, 0, 1198, 1695]
+cover_dimensions = [0, 0, 2256, 1692] # 4x3 * 564
 
 # =============================================================================
 
