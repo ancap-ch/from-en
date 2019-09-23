@@ -1,35 +1,35 @@
-## Additional Proofs
+## Test aggiuntivi
 
-There are other additional proofs that we can bring to bear on the question of universally preferable behaviour.
+Ci sono altri test aggiuntivi che possiamo applicare alla domanda di comportamento universalmente preferibile.
 
-### The Free-Market Economy
+### L'economia del libero Mercato
 
-A free-market economy is without a doubt the most efficient and wealth-producing method of organising the production and consumption of goods and resources within society. Its material success is without equal in human history, or across the world.
+Un'economia di libero mercato è senza dubbio il metodo più efficiente e produttivo per organizzare la produzione e il consumo di beni e risorse all'interno della società. Il suo successo materiale non ha eguali nella storia umana o in tutto il mondo.
 
-The framework of UPB anticipates, validates and explains the reasons for the material successes of a free market economy.
+Il struttura di CUP anticipa, convalida e spiega le ragioni dei successi materiali di un'economia di libero mercato.
 
-In theory, a free-market economy is based on the application of a universal theory of property rights. By contrast, communism is based on the explicit rejection of a universal theory of property rights. Since we have proven above that universal property rights is the only valid moral theory, this explains at the most fundamental level why communism is such a disaster, while a free-market economy is so materially productive.
+In teoria, un'economia di libero mercato si basa sull'applicazione di una teoria universale dei diritti di proprietà. Al contrario, il comunismo si basa sul rifiuto esplicito di una teoria universale dei diritti di proprietà. Poiché abbiamo dimostrato che i diritti di proprietà universali sono l'unica teoria morale valida, questo spiega al livello più fondamentale perché il comunismo è un tale disastro, mentre un'economia di libero mercato è così produttivamente produttiva.
 
-Since human beings *do in fact* have equal rights of property, any social system which rejects this right is doomed to utter failure – just as any bridge planner who rejects the reality of gravity will never be able to build a bridge that stands.
+Poiché gli esseri umani *hanno di fatto* diritti di proprietà uguali, qualsiasi sistema sociale che rifiuta questo diritto è condannato a fallire - proprio come qualsiasi pianificatore di ponti che rifiuta la realtà di gravità non sarà mai in grado di costruire un ponte che regge.
 
-### The Scientific Method
+### Il Metodo Scientifico
 
-Logic and science are in fact methodologies which exist – along with morality – under the umbrella of UPB. In other words, logic and science are both validated by the framework of UPB.
+La logica e la scienza sono in realtà metodologie che esistono - insieme alla moralità - sotto l'egida di CUP. In altre parole, la logica e la scienza sono entrambe convalidate dal contesto di CUP.
 
-A central question which needs to be answered is: *why is the scientific method infinitely superior to other “methodologies” of knowledge acquisition, such as mysticism?*
+Una domanda centrale alla quale si deve rispondere è: *perché il metodo scientifico è infinitamente superiore ad altre "metodologie" di acquisizione della conoscenza, come il misticismo?*
 
-UPB answers this question.
+CUP risponde a questa domanda.
 
-Since any methodology for knowledge acquisition must be universal, consistent, and independent of time and place, the scientific method meets these requirements, while irrational and subjective mysticism is the exact opposite of these requirements.
+Poiché ogni metodologia per l'acquisizione della conoscenza deve essere universale, coerente e indipendente da tempo e luogo, il metodo scientifico soddisfa questi requisiti, mentre il misticismo irrazionale e soggettivo è l'esatto contrario di questi requisiti.
 
-### Public Education
+### Educazione pubblica
 
-One central principle of free market economics is that quality only really results from *voluntarism*. Coercion, fundamentally, is inefficient – violence always results in poor quality. The old-style Soviet bakeries never carried good bread; a man who beats his wife will never have a happy marriage.
+Un principio centrale dell'economia del libero mercato è che la qualità deriva solo dal *volontarismo*. La coercizione, fondamentalmente, è inefficiente: la violenza ha sempre come risultato una qualità scadente. Le panetterie sovietiche vecchio stile non portavano mai un buon pane; un uomo che picchia la moglie non avrà mai un matrimonio felice.
 
-The initiation of the use of force is always counter to any rational moral theory – it is a specific and explicit violation of UPB. Since public schools are funded through the initiation of the use of force, they are a form of *forced association*, which is a clear violation of the *freedom of association* validated by UPB.
+L'iniziazione all'uso della forza è sempre contro ogni teoria morale razionale - è una violazione specifica ed esplicita di CUP. Poiché le scuole pubbliche sono finanziate attraverso l'uso della forza, esse sono una forma di *associazione forzata*, che è una chiara violazione della *libertà di associazione* convalidata da CUP.
 
-Since force violates the moral requirement of *avoidability* – and a lack of avoidability always breeds poor quality – UPB would help us easily predict that public schools would provide education of low quality.
+Poiché la forza viola il requisito morale di *evitabilità* - e la mancanza di evitabilità genera sempre scarsa qualità - CUP ci aiuterebbe facilmente a prevedere che le scuole pubbliche fornirebbero un'istruzione di bassa qualità.
 
-Furthermore, UPB would also have helped us predict that, as more and more force was used in the realm of public education – as taxes, union compulsions and so on escalated – the quality of the education provided would get worse and worse.
+Inoltre, la CUP ci avrebbe anche aiutato a prevedere che, man mano che sempre più forza veniva impiegata nel campo dell'educazione pubblica - come tasse, sindacalismo e così via - la qualità dell'istruzione fornita andava sempre peggio.
 
-This, of course, was – and is – exactly the case.
+Questo, ovviamente, era - ed è - esattamente il caso.
