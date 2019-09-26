@@ -108,7 +108,7 @@ Last generated:
 
 | file name | translated | reviewed | words | translators | arbitrary | arbitrary |
 | - | - | - | - | - | - | - |
-| 01_speech.md | :x: | :x: | 7k 100 | | | | | |
+| 01_speech.md | :x: | :x: | 7k 100 |cienpascal| | | | |
 
 </details>
 
