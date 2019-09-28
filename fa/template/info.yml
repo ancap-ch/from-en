@@ -1,0 +1,78 @@
+---
+content_files:
+  - 
+    - content.md
+    - https://github.com/ancap-ch/from-en/blob/utopian/en/template/content.md
+ترجمه کردن:
+  زبان: fa
+  is_translation: درست
+  this_project_url: "https://github.com/ancap-ch/from-en/tree/utopian/fa/template"
+  fetch_translators: درست
+  fetch_reviwers: درست
+  fetch_progress: درست
+عنوانها:
+  - عنوان متن
+  - '~~Centered~~'
+  - '~~~~~to the right'
+discussions:
+  - 
+    - https://en.ancap.ch/t/5
+    - Ancap Channel
+اطلاعات بیشتر:
+  - 
+    - https://www.google.com
+    - Website name
+زبانه ها:
+  -زبانه های دیگر
+  - Another Tag
+  - And so on
+tag_prefix: "https://en.ancap.ch/tags/"
+شخصی:
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "author"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    rule: "collaborator"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "thanked"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "translator"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "reviwer"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "cover_artist"
+  - 
+    شخصی: [ ]
+    identifier: "الگوی شخصی"
+    قانون: "artist"
+resources:
+  - 
+    مرجع: [ ]
+    قانون: "front_cover"
+    content: "cover.png"
+    وب سایت:
+      - Resource website
+    description: Resource description
+    شخصی:
+      - "template_person"
+هدفها:
+  - 
+    هدف: [ ]
+    نام: article
+    reset_footer_active: نادرست
+    reset_footer_depth: 0
+    clear_page_active: درست
+    clear_page_depth: 1
+    toc_depth: 3
+ورژن: "0.1.2"
